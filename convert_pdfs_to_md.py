@@ -1,14 +1,11 @@
 import os
-import fitz  # PyMuPDF
+import pymupdf4llm
 
 def convert_pdf_to_md(pdf_path, md_path):
     """Convert a PDF file to a Markdown file."""
-    doc = fitz.open(pdf_path)
-    text = ""
-    for page in doc:
-        text += page.get_text("text")
+    markdown_content = pymupdf4llm.to_markdown(pdf_path)
     with open(md_path, 'w', encoding='utf-8') as md_file:
-        md_file.write(text)
+        md_file.write(markdown_content)
 
 def scan_and_convert(directory):
     """Recursively scan directories and convert PDFs to Markdown."""
