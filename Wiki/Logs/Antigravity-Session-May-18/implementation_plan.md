@@ -1,12 +1,15 @@
 ---
 tags:
   - "log"
-status: seed
+topics: []
+status: final
 created: 2026-05-18
 updated: 2026-05-18
 sources: []
 source_count: 0
+aliases: []
 ---
+
 # Full Vault Ingest — Raw Sources → Wiki Concepts
 
 Ingest all ~231 raw source files across 10 Bocconi courses into structured, interlinked Wiki notes (Topics, Concepts, Entities), then run all maintenance gates and commit.
@@ -138,4 +141,3 @@ git add -A && git commit -m "ingest: full vault — topics, concepts, entities"
 
 > [!NOTE]
 > Exercise books, past exam papers, and purely logistical content (course schedules, grading policies) will be skipped for concept extraction but still tracked in the source manifest.
-

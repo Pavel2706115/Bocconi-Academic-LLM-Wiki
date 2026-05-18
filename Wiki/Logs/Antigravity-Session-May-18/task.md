@@ -1,12 +1,15 @@
 ---
 tags:
   - "log"
-status: seed
+topics: []
+status: final
 created: 2026-05-18
 updated: 2026-05-18
 sources: []
 source_count: 0
+aliases: []
 ---
+
 # Full Vault Ingest — Task Tracker
 
 ## Phase 1: Topic Notes
@@ -47,4 +50,3 @@ source_count: 0
 - `[x]` wiki_tool.py source-lint
 - `[x]` audit_public.py
 - `[x]` git commit
-

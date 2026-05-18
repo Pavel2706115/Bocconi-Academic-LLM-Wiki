@@ -160,3 +160,7 @@
 {"path": "Wiki/Entities/Thomas-Malthus.md", "title": "Thomas Malthus", "tag": "entity", "topics": ["[[Wiki/Topics/Economic-History]]", "[[Wiki/Topics/Macroeconomics]]"], "sources": ["Raw/Sources/30067 ECONOMIC HISTORY/1_The pre-industrial economy_30067.md"], "updated": "2026-05-18"}
 {"path": "Wiki/Projects/LLM-Wiki-Setup.md", "title": "LLM Wiki Setup", "tag": "project", "topics": ["[[Wiki/Topics/Knowledge-Management]]"], "sources": ["Raw/Sources/LLM-Wiki-Starter-Demo-Source.md"], "updated": "2026-05-18"}
 {"path": "Wiki/Logs/2026-05-18-Initial-Setup.md", "title": "2026 05 18 Initial Setup", "tag": "log", "topics": ["[[Wiki/Topics/Knowledge-Management]]"], "sources": ["Raw/Sources/LLM-Wiki-Starter-Demo-Source.md"], "updated": "2026-05-18"}
+{"path": "Wiki/Logs/Antigravity-Session-May-18/chat-history.md", "title": "chat history", "tag": "log", "topics": [], "sources": [], "updated": "2026-05-18"}
+{"path": "Wiki/Logs/Antigravity-Session-May-18/implementation_plan.md", "title": "implementation_plan", "tag": "log", "topics": [], "sources": [], "updated": "2026-05-18"}
+{"path": "Wiki/Logs/Antigravity-Session-May-18/task.md", "title": "task", "tag": "log", "topics": [], "sources": [], "updated": "2026-05-18"}
+{"path": "Wiki/Logs/Antigravity-Session-May-18/walkthrough.md", "title": "walkthrough", "tag": "log", "topics": [], "sources": [], "updated": "2026-05-18"}

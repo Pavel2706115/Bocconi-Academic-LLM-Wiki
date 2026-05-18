@@ -1,12 +1,15 @@
 ---
 tags:
   - "log"
-status: seed
+topics: []
+status: final
 created: 2026-05-18
 updated: 2026-05-18
 sources: []
 source_count: 0
+aliases: []
 ---
+
 # Walkthrough: LLM Wiki Transformation
 
 ## What Was Done
@@ -107,4 +110,3 @@ python scripts/wiki_tool.py lint
 python scripts/wiki_tool.py source-lint
 python scripts/audit_public.py
 ```
-
