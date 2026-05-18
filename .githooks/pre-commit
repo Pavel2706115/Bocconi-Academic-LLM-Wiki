@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# pre-commit hook for LLM Wiki
+# Runs build, lint, and source-lint before each commit.
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+
+echo "=== LLM Wiki pre-commit checks ==="
+
+python3 "$REPO_ROOT/scripts/wiki_tool.py" build
+python3 "$REPO_ROOT/scripts/wiki_tool.py" lint
+python3 "$REPO_ROOT/scripts/wiki_tool.py" source-lint
+
+echo "=== All pre-commit checks passed ==="
