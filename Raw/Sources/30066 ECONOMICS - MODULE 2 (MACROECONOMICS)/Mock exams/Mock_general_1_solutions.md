@@ -1,0 +1,116 @@
+## **Question 1** 
+
+- a) The policy makers of an economic system described by a standard IS-LM model decide to raise, at the same time and by the same amount, both government spending and net taxes so that ∆𝐺= ∆𝑇> 0. Show in the graph and explain how this decision will affect the equilibrium levels of output and of interest rate, denoting by 𝑌0 and 𝑖0 the values of these variables at the initial equilibrium (call it ‘0’ in the graph), and by 𝑌1 and 𝑖1 those they will take on at the new equilibrium (to be denoted by ‘1’ in the graph). Finally, discuss how and why private saving and investment will have changed in this new equilibrium. 
+
+**==> picture [201 x 154] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+i<br>𝐿𝑀2<br>𝐿𝑀0<br>2 1<br>𝑖Ƹ1<br>𝑖Ƹ0 0<br>𝐼𝑆1<br>𝐼𝑆2<br>𝐼𝑆0<br>𝑌<br>𝑌 [෠] 0 𝑌 [෠] 1<br>**----- End of picture text -----**<br>
+
+
+_A simultaneous and equal increase in government spending and net taxes,_ ∆𝐺= ∆𝑇> 0 _, raises autonomous spending_ 𝐴= 𝑐0 −𝑐1𝑇[ത] + 𝐼[ҧ ] + 𝐺 _by_ ∆𝐴= −𝑐1∆𝑇[ത] + ∆𝐺 _=(1-_ 𝑐1)∆𝐺 > 0 _. It follows that the IS curve shifts to the right and the new equilibrium becomes point ‘1’ in the graph. When the economy goes from the initial equilibrium ‘0’ to the new equilibrium ‘1’, the direction in which private saving_ 𝑆 _changes is uncertain (_ 𝑆 _, increasing in disposable income, tends to go up because of the rise in_ 𝑌 _and to fall because of the increase in net taxes). Since public saving is by assumption unchanged, the sign of the change in investment must be uncertain too (investment tends to increase due to the increase in income, and to decrease due to the increase in the interest_ ~~_rate)._~~ 
+
+- b) Suppose now that the country’s policy-makers decide to bring output back to its initial level, 𝑌0, keeping however the interest rate to the new level 𝑖1. Which mix of monetary policy and fiscal policy would allow them to achieve both objectives, 𝑌= 𝑌0 and 𝑖= 𝑖1? In particular, explain why the use of just one of the two policies (monetary policy; fiscal policy) is not enough to achieve both goals and show in the graph the equilibrium that will be reached following the adoption of the policy-mix you are suggesting, denoting it by ‘2’. 
+
+_The country’s policy-makers will have to implement an appropriate mix of restrictive fiscal and monetary policies. If implemented individually, both policies are able to bring_ 𝑌 _back to its initial value; however, they will push_ 𝑖 _in opposite directions. In particular, if only a restrictive fiscal policy is adopted, the interest rate will fall below_ 𝑖1 _, while it will rise above_ 𝑖1 _if only a restrictive monetary policy is implemented. The correct policy mix is a fiscal contraction combined with a monetary contraction, as displayed in the graph above with the new curves_ 𝐼𝑆2 _and_ 𝐿𝑀2 _._ 
+
+## **Question 2** 
+
+## **True or False?** 
+
+_Explain whether the following statements are true or false. Motivate your answer in a brief but rigorous way. Making explicit reference to the relevant theory. Lack of proper explanations will result in zero points._ 
+
+- a) “In a closed economy where public saving is negative, and equal to -50 billion Euros, and investment is equal to 50 billion Euros, private saving must be equal to zero in equilibrium”. 
+
+_False. In a closed economy, in goods market equilibrium, national saving – the sum of private saving_ (𝑆) _and public saving_ (𝑆𝑝𝑢𝑏) _– must be equal to investment,_ 𝐼 _. In other words, in a closed economy the following equality must hold:_ 𝑆+ 𝑆𝑝𝑢𝑏 = 𝐼 _._ 
+
+_Solving for private saving and replacing public saving and investment with the values of the variables taken on in this economy,_ 𝑆= 𝐼−𝑆𝑝𝑢𝑏 = 50 −(−50) = 100 _. The private saving in this economy must be equal to 100 billion Euro at equilibrium._ 
+
+- b) “In a closed economy where only the goods market exists, government purchases of goods and services 𝐺 and net taxes 𝑇[ത] are exogenous, private saving is an increasing function of disposable income and the investment function is 𝐼= 𝐼[ҧ ] + 𝑑1𝑌, where the parameter 𝑑1 is greater than zero, a decrease in autonomous consumption 𝑐0 leads to a new equilibrium where private saving is necessarily lower”. _(Hint: you are NOT being asked to derive the expression of the change in private saving, but only to explain what the sign of this change is going to be, and why)._ 
+
+_True. In a closed economy, in goods market equilibrium, national saving – the sum of private saving_ (𝑆) _and public saving_ (𝑆𝑝𝑢𝑏) _– must be equal to investment,_ 𝐼 _. In other words, in a closed economy the following equality must hold:_ 𝑆+ 𝑆𝑝𝑢𝑏 = 𝐼 _as discussed in the previous point. The decrease in autonomous consumption decreases equilibrium income, and therefore investment, since_ 𝐼 _is an increasing function of income_ 𝑌 _, meaning that higher the income higher the investment or the lower the income, the  lower the investment._ 
+
+_Being public saving unchanged (_ 𝐺 _and_ 𝑇[ത] _are exogenous), in the new equilibrium private saving_ 𝑆 _must be lower too – the impact of the decrease in_ 𝑐0 _that lowers private saving_ 𝑆 _through the reduction in disposable income must be higher than the impact of the decrease in_ 𝑐0 _that tends to increase S for a given disposable income._ 
+
+## **Question 3** 
+
+- a) In country Gamma, prices are constant and people expect the prices to be constant in the future as well. In the economy, there are only one-year bonds and two-year bonds. In period 𝑡+ 1 (‘the future’) consumption demand depends only on disposable income at 𝑡+ 1 and investment demand depends on the values of the interest rate and income at time 𝑡+ 1. At time t (‘present’), consumption is increasing in total wealth that is the sum of human, financial and housing wealth. Investment is exogenous, 𝐼= 𝐼, money demand has the usual functional form and 𝑀 and 𝐺 are exogenous. At time 𝑡, the price of houses decreases and this decrease is believed to be transitory (‘it is believed that the decrease is limited to the current period’) by households. Suppose that initially the yield curve was flat. Draw the yield curve for country Gamma at time 𝑡 in the graph below and explain how the position and slope will change due to the decrease in the house prices. 
+
+**==> picture [233 x 165] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+Yield<br>to<br>maturity<br>Before<br>After<br>1 2 Maturity<br>**----- End of picture text -----**<br>
+
+
+_The decrease in house prices leads to a reduction in the housing wealth that leads to reduction in the total wealth of the households. In the current period, consumption will decrease and the IS will shift to the left. Income and current interest rate will decrease – the first one because the decrease in the total wealth of households will decrease demand and the second one because the lower income will lead to lower money demand and, since the money supply is constant, there will be an excess money supply. Due to the assumptions we have in the question, equilibrium will not change at time_ 𝑡+ 1. _Since the current interest rate will be reduced but the future interest rate will not change_ 𝑖2𝑡 = 1 (𝑖1𝑡 + 𝑖1𝑡+1𝑒 ) _will be reduced_ 2 _by half of the reduction of_ 𝑖1𝑡 _; the yield curve will shift downward and the slope will be positive._ 
+
+- b) The government of country Beta announces a permanent increase in taxes. At the same time, the central bank announces that it will implement policies such that the reserve coefficient 𝜃 will decrease permanently. In the stock market, will the price of stocks increase or decrease? Explain by referring to the two points below (analyze each case separately): 
+
+   - i. the announcements were not expected by households; 
+
+   - ii. the announcements were expected by households, so that the announcements just confirm the expectations that the market already had. 
+
+   - _(Hint: When answering, assume that the economy can be described by a non-standard IS-LM model)._ 
+
+_The price of stocks at time_ 𝑡 _can be written as the present value of the expected future dividends computed by using the current and future expected interest rates. The mix of the economic policies announced will lead to leftward shift of the IS and to a rightward shift of the LM curves for the future periods. i. If the announcements were not expected by households, after the announcements, households will expect lower interest rates in each period. This will make the present value of the expected dividends higher. But you should also consider that the mix of the announced policies will have an impact on income with uncertain sign, hence on expected dividends. As a result, the movement in the price of stocks is uncertain even though interest rates are lower because the effect of the policies on the dividends are uncertain due to the uncertain effect on the policies on income. ii. Since the households already expected these announcements, they have already taken into account the effects of these policies; hence the current stock price does not change._ 
+
+## **Question 4** 
+
+- a) Alpha is a closed economy described by a non-standard IS-LM model where investment depends on real interest rate (𝑟), rather than on the nominal interest rate (𝑖). 
+
+   - i. Give the definition of the real interest rate and write the relationship between the real interest rate (𝑟) and the nominal interest rate (𝑖). 
+
+   - ii. Suppose that the economy is in the equilibrium such as point ‘1’ in the following graph. Initially, the economy is in a liquidity trap with equilibrium income equal to 𝑌[෠] 1. Economic authorities are not satisfied with 𝑌[෠] 1; current and expected future inflation rates are equal to zero. In order to increase the equilibrium level of income, economist Giky thinks that it could be a good idea to generate expectations of future positive inflation (and therefore higher than current inflation). Economist Michael, on the contrary, thinks that this not a good idea and suggests to generate expectations of decreasing prices. Who do you agree with? In the graph, show the impact of the opinion you agree with; indicate the new equilibrium as point’2’ and explain through which channels it affects the income. 
+
+**==> picture [193 x 155] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+i<br>𝐿𝑀1<br>𝐼𝑆1 𝐼𝑆2<br>1 2<br>𝑌<br>𝑌 [෠] 1 𝑌 [෠] 2<br>**----- End of picture text -----**<br>
+
+
+_i. The nominal interest rate is the stated interest rate of a given bond or loan. The real interest rate is the nominal interest rate less inflation. In other words, a real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor. The relationship is_ 𝑟= 𝑖−𝜋[𝑒] _, where_ 𝜋[𝑒] _is the expected inflation rate. ii. If investment depends negatively on_ 𝑟 _, the IS moves to the right when the expected inflation increases. For given_ 𝑖 _, an increase_ 𝜋[𝑒] _, reduces the real interest_ 𝑟 _. This stimulates investment, increases the aggregate demand, leads to an increase in production so that equilibrium is maintained on the goods market. To increase equilibrium income, we should implement economist Giky’s suggestion. When future expected inflation increases, the IS curve moves right and the new equilibrium becomes point ‘2’ where equilibrium income_ 𝑌2 _is higher. If the increase in expected inflation is high enough, the IS curve can move more to the right and the economy can get out of the liquidity trap._ 
+
+- b) Consider a country that, in period 𝑡= 1, inherits from the previous period 𝑡= 0, a debt-toGDP ratio of 60%: 𝑏0 ≡𝐵0/𝑌0 = 0.6. Moreover, the real interest rate and the rate of economic growth are constant and equal to 6% and to 0%, respectively (𝑟= 0.06, 𝑔= 0). Finally, the ratio of the primary deficit to GDP is 3%. Suppose now that, at time 𝑡= 2, the government intends to stabilize debt-to-GDP ratio 𝑏(≡𝐵/𝑌) at the value observed at 𝑡= 1. In other words, government wants 𝑏 to continue to take on the 𝑡= 1 value (𝑏1) in the periods 𝑡= 2 and in all subsequent periods. Compute the new value, in order to reach this objective, that primary deficit to GDP ratio should take on to stabilize 𝑏 at time 𝑡= 2 and onwards. Comment. 
+
+_Since_ 𝑏𝑡 = (1 + 𝑟−𝑔)𝑏𝑡−1 + 𝑑 _, where_ 𝑏(≡𝐵/𝑌) _and_ 𝑑 _is primary deficit to GDP ratio,_ 𝑏1 = 0.666 _. In order to stabilize debt-to-GDP ratio at_ 𝑏1 = 0.666 _, the government must set_ 𝑑 _at the unique value that solves:_ 0 = (𝑟−𝑔)𝑏1 + 𝑑 _(remember_ 𝑏1 = 𝑏2) _. Since_ 𝑟= 0.06 𝑎𝑛𝑑 𝑔= 0 _, we have_ 0 = 0.06 ∗0.666 + 𝑑 _. Solving, we get_ 𝑑= −0.03996 _: the government will have to lower primary deficit to GDP ratio from_ 4% _to_ −3.996% _, more than a_ 7% _decrease in the ratio_ 𝑑 _. This requires restrictive fiscal policy._ 
+
+## **Question 5** 
+
+Consider an open economy operating under a flexible exchange rate regime. Domestic prices, 𝑃 and foreign prices, 𝑃[∗] are both constant. In the pair of graphs ‘non-standard open economy IS-LM model’-‘interest parity condition’, show the initial equilibrium denoting it by ‘0’, and denoting by 𝑖0, 𝑌0 𝑎𝑛𝑑 𝐸0, the values of the interest rate, output and exchange rate at that equilibrium. 
+
+- a) Suppose that there is a fall in the foreign prices 𝑃[∗] , while domestic prices and all the other exogenous, both domestic and foreign, variables remain constant. _(Hint: you are only asked to consider a one-time variation in foreign prices. Once the foreign prices have fallen, they keep on being equal to new low level and the economy is described by a fixed price model)._ In the nonstandard IS-LM model, call ‘1’ the new equilibrium that will be reached. Explain the effects of this exogenous decrease in 𝑃[∗] on the equilibrium levels of the interest rate, output and exchange rate of the economy we are considering. 
+
+**==> picture [421 x 154] intentionally omitted <==**
+
+**----- Start of picture text -----**<br>
+i  LM2 i<br>LM<br>0<br>2 0 0<br>𝑖0 2<br>1<br>1<br>IS0<br>IS1<br>𝑌0 Y  𝐸1 𝐸0 E<br>**----- End of picture text -----**<br>
+
+
+_Given any other variable, the decrease in foreign price_ 𝑃[∗] _will lead to an appreciation of the real exchange rate, will reduce net exports and will lead to a leftward shift of IS curve (_ 𝐼𝑆1 _). Under flexible exchange rates, the new equilibrium is point ‘1’ characterized by a lower output (the decrease in net exports lowers aggregate demand and production) and by a lower interest rate (the decrease in income leads to decrease in money demand and, since money supply is given, then equilibrium interest rate in the money market will be lower). Since the domestic interest rate has decreased and current and future expected interest rates do not change, the interest rate parity condition implies a depreciation of the nominal exchange rate_ 𝐸 _. At point ‘1’ the change in net exports_ (𝑁𝑋) _is uncertain (net exports tend to decrease because of the decrease in foreign prices but tend to increase because of the depreciation of the nominal exchange rate)._ 
+
+- b) What would have been the impact on the equilibrium level of income of a decrease in foreign prices 𝑃[∗] if the country had had a fixed exchange rate regime and the central bank had intervened to keep the exchange at its initial level, 𝐸0? Show in the same graph used in point a) the new equilibrium that will be reached in this case and denote it by ‘2’. Explain the reasons of the differences in income observed under flexible exchange rate and fixed exchange rate regimes. 
+
+_If the country had maintained a fixed exchange rate, then the central bank would have had to intervene on the exchange rate market by buying domestic currency and selling foreign currency in order to avoid the decrease in the exchange rate (you can also say that central bank would have moved the LM curve to the left or decreased the money supply). The intervention of the central bank that leads to a reduction in the money supply and a leftward shift of the  LM curve continues up to the intersection point between_ 𝐼𝑆1 _and_ 𝐿𝑀2 _which gives the new equilibrium point ‘2’ under the fixed exchange rate regime. At this new equilibrium, interest rate and nominal exchange rate do not change and income has decreased more than under flexible exchange rates. Flexible exchange rate regime softens the adverse impact of lower_ 𝑃[∗] _on domestic income by lowering the interest rate and depreciating the exchange rate._ 
+
+## **Question 6** 
+
+## **True or False?** 
+
+_Explain whether the following statements are true or false. Motivate your answer in a brief but rigorous way, by making explicit reference to the relevant theory. Lack of proper explanations will result in zero points._ 
+
+- a. In an open economy with a flexible exchange rate and where the domestic nominal interest rate is at its _zero lower bound_ (i=0), for a nominal exchange rate E greater than 𝐸[𝑒] /(1 + 𝑖[∗] ) – where, as usual, 𝐸[𝑒] and 𝑖[∗] are taken as given – no one would be willing to hold foreign bonds – investors would be willing to hold domestic bonds only. [ _Hint: assume risk neutrality – investors make their decisions by taking into account the expected returns on domestic and foreign bonds only._ ] 
+
+## _False._ 
+
+_Investing one euro in domestic bonds, one year from now an investor will receive_ 1 + 𝑖 _euros – and therefore 1 euro, being in our case_ 𝑖 _=0. Using the same euro to purchase foreign bonds, the investor will receive, once again in a one year’s time,_ (1 + 𝑖[∗] )𝐸/𝐸[𝑒] _euros. Dividing by_ (1 + 𝑖[∗] ) _both its numerator and its denominator, this ratio can be written as_ 𝐸/[𝐸[𝑒] /(1 + 𝑖[∗] )] _– a quantity greater than 1 if_ 𝐸> 𝐸[𝑒] /(1 + 𝑖[∗] ) _. It follows that, when this latter inequality is verified, the return on foreign bonds exceeds that on domestic bonds, and no one will want to hold these latter assets. [Intuition: when_ 𝑖 _=0, the exchange rate for which investors are indifferent between domestic and foreign bonds, and for which the interest parity condition therefore holds true, is_ 𝐸= 𝐸[𝑒] /(1 + 𝑖[∗] ) _. For given_ 𝐸[𝑒] _and_ 𝑖[∗] _, exchange rates above this critical value imply a lower expected appreciation of the domestic currency, something that makes foreign bonds more appealing.]_ 
+
+b) A government that inherits from the previous period (t −1) a stock of government debt greater than zero, that is running primary surplus and that faces a real cost of borrowing smaller that the growth rate of the economy (r < g), can stabilize at time t the debt-to-GDP ratio by raising the primary surplus-to-GDP ratio by an appropriate amount, and/or implementing policies leading to an increase in g. 
+
+## _False._ 
+
+_Primary surpluses (_ 𝑑 _<0) and_ 𝑟 _<_ 𝑔 _imply that, absent any policy intervention, the debt-to-GDP ratio would fall over time. To stabilize it at time_ 𝑡 _– that is, to make sure that_ Bt/ 𝑌𝑡 = Bt−1/ 𝑌𝑡−1 _– by intervening on the primary surplus-to-GDP ratio, the goverment should implement policies leading to a decrease of appropriate size in such a ratio; alternatively, the same goal could be attained through a decrease in the rate of growth of the economy._ 
+
+## **Blank page to complete your answers.** 
+
+………………………………………………………………………………………….…………… ….………………………………………………………………………….………………………… ……..………………………………………………………………………………………………… ………..……………………………………………………………………………………………… …………..…………………………………………………………………………………………… ……………..………………………………………………………………………………………… …………..……..……………………………………………………………………………………… …………………..…………………………………………………………………………………… ……………………..………………………………………………………………………………… ………………………..……………………………………………………………………………… …………………………..…………………………………………………………………………… ………………………………………………………………………………………………………. ………………………………………………………………………………………….…………… ….………………………………………………………………………….………………………… ……..………………………………………………………………………………………………… ………..……………………………………………………………………………………………… …………..…………………………………………………………………………………………… ……………..………………………………………………………………………………………… …………..……..……………………………………………………………………………………… …………………..…………………………………………………………………………………… ……………………..………………………………………………………………………………… ………………………..……………………………………………………………………………… …………………………..…………………………………………………………………………… ………………………………………………………………………………………………………. ………………………………………………………………………………………….…………… ….………………………………………………………………………….………………………… ……..………………………………………………………………………………………………… ………..……………………………………………………………………………………………… …………..…………………………………………………………………………………………… ……………..………………………………………………………………………………………… …………..……..……………………………………………………………………………………… …………………..…………………………………………………………………………………… ……………………..………………………………………………………………………………… ………………………..……………………………………………………………………………… …………………………..…………………………………………………………………………… ………………………………………………………………………………………………………. ………………………………………………………………………………………….…………… ….………………………………………………………………………….………………………… ……..………………………………………………………………………………………………… ………..……………………………………………………………………………………………… …………..…………………………………………………………………………………………… ……………..………………………………………………………………………………………… …………..……..……………………………………………………………………………………… …………………..……………………………………………………………………………………. 
+

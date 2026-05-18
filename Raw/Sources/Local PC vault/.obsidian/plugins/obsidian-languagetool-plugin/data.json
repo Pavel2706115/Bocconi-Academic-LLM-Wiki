@@ -1,0 +1,10 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "urlMode": "standard",
+  "glassBg": true,
+  "shouldAutoCheck": true,
+  "autoCheckDelay": 3000,
+  "pickyMode": true,
+  "staticLanguage": "en-US",
+  "ruleOtherDisabledRules": "PUNCTUATION_PARAGRAPH_END,DASH_RULE,EN_UNPAIRED_BRACKETS,MISSING_PERIOD_AFTER_ABBREVIATION,EN_UPPER_CASE_NGRAM"
+}

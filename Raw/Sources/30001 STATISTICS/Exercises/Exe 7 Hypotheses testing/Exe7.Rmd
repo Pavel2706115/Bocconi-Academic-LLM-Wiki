@@ -1,0 +1,769 @@
+############################################################ 
+
+# EXERCISES 7.1 – 7.10
+
+# Hypothesis Testing
+
+# Course: 30001 Statistics (Bocconi)
+
+```{r setup, include=FALSE}
+library(UBStats)
+
+load("Exe7_Data.RData")
+```
+
+############################################################ 
+
+# EXERCISE 7.1
+
+######################## 
+
+## a)
+
+### a1)
+
+### Assumptions: The 47 workers in the sample are assumed to be representative of the population of interest. Although the sample size is not particularly large, it is sufficient to apply the Central Limit Theorem and approximate the distribution of the sample mean with a normal distribution.
+
+### a2)
+
+### Test on the mean (variance unknown)
+
+### Hypotheses:
+
+### $H_0: \mu ≥ 45 \ \text{vs} \ H_1:\mu < 45$
+
+```{r}
+n <- 47 
+Xbar <- mean(NewHired$Weeks)
+mu0 <- 45
+S <- sd(NewHired$Weeks)
+```
+
+### Student's t statistic
+
+```{r}
+t_stat <- sqrt(n) * (Xbar - mu0) / S
+
+```
+
+### p-value using UBStats
+
+```{r}
+TEST.mean(NewHired$Weeks, mu0 = 45, alternative = "less")
+```
+
+### p-value ≈ 0.0309 (Student-t, df = 46)
+
+### Since p-value \< 0.05, we reject $H_0$ and conclude that the average time needed to find a new job is lower than 45 weeks.
+
+### a3)
+
+### Effect of lowering alpha:
+
+### If alpha = 0.01, the p-value would exceed alpha and $H_0$ would not be rejected.
+
+### a4)
+
+### Interpretation of alpha
+
+### The significance level alpha determines how extreme the
+
+### sample result must be under $H_0$ to justify its rejection.
+
+## b)
+
+### Known variance case ($\sigma^2 = 16$)
+
+```{r}
+sigma <- 4
+```
+
+### Critical value for alpha = 0.1
+
+```{r}
+z_alpha <- qnorm(0.9)
+```
+
+### Rejection region:
+
+### $\bar{x} < 45 - z_{\alpha}\times\frac{sigma}{\sqrt{n}}$
+
+### b1)
+
+### Type I error when $\mu =50$
+
+```{r}
+pnorm(44.25, mean = 50, sd = sigma / sqrt(n))
+```
+
+### b2)
+
+### Type I error when $\mu = 43$
+
+```{r}
+1 - pnorm(44.25, mean = 43, sd = sigma / sqrt(n))
+```
+
+## c)
+
+### Test on a proportion
+
+### Hypotheses:
+
+### \$
+
+H_0:p ≤ 0.1  \text{vs}  H_1:p\>0.1 \$
+
+### H0: p \<= 0.1
+
+### H1: p \> 0.1
+
+```{r}
+x <- sum(NewHired$Weeks > 52)
+n <- length(NewHired$Weeks) 
+phat <- x / n 
+p0 <- 0.1
+
+SE <- sqrt(p0*(1 - p0) / n) 
+z <- (phat - p0) / SE 
+p_value <- 1 - pnorm(z)
+```
+
+### p-value ≈ 0.13
+
+### At significance level of 0.05, the null hypothesis is not rejected
+
+# EXERCISE 7.2
+
+## a)
+
+### a1)
+
+### Two-sided test on the mean
+
+### Hypotheses:
+
+### \$ H_0: \mu = 2200  \text{vs}  H1: \mu≠2200 \$
+
+```{r}
+n <- 47 
+sum_x <- 99150 
+sum_x2 <- 225067500 
+mu0 <- 2200
+
+xbar <- sum_x / n 
+s2 <- (sum_x2 - n * xbar^2) / (n - 1) 
+s <- sqrt(s2)
+
+t_stat <- sqrt(n) * (xbar - mu0) / s 
+df <- n - 1
+```
+
+### Two-sided p-value
+
+```{r}
+p_value <- 2 * pnorm(-abs(t_stat))
+```
+
+### p-value ≈ 0.297
+
+### Do not reject the null hypothesis.
+
+### a2)
+
+### Confidence interval interpretation
+
+```{r}
+z_975 <- qnorm(0.975) 
+left <- xbar - z_975 * s / sqrt(n) 
+right <- xbar + z_975 * s / sqrt(n)
+```
+
+### Since 2200 belongs to the 95% CI, H0 is not rejected at alpha = 0.05.
+
+### a3)
+
+### One-sided perspectives
+
+### Different stakeholders would adopt different one-sided tests.
+
+## b)
+
+### Test for salary increase
+
+### Hypotheses:
+
+### $H_0: \mu = 2032 \ \text{vs} \ H1: \mu>2032$
+
+```{r}
+sd_diff <- 96.04 
+prev_xbar <- 2032
+t_stat <- sqrt(n) * (xbar - prev_xbar) / sd_diff 
+p_value <- 1 - pt(t_stat, df)
+```
+
+### p-value ≈ 0.0000007
+
+### Reject the null hypothesis at any reasonable alpha.
+
+######################## 
+
+# EXERCISE 7.3
+
+### $H_0: p_{pre}=p_{post} \ \text{vs} \ H1: p_{pre}<p_{post}$
+
+```{r}
+stops_df <- data.frame( Nr_Stops = 0:8, pre_promotion = c(32, 43, 14, 10, 18, 13, 5, 0, 5), post_promotion = c(32, 36, 18, 14, 22, 17, 6, 5, 9) )
+```
+
+## a)
+
+### At least one visit
+
+```{r}
+n_pre <- 140 
+n_post <- 159
+pbar_pre <- (140 - 32) / 140 
+pbar_post <- (159 - 32) / 159
+p_pool <- (n_pre * pbar_pre + n_post * pbar_post) / (n_pre + n_post)
+se <- sqrt( p_pool * (1 - p_pool) * (1 / n_pre + 1 / n_post) )
+pbar_diff <- pbar_post - pbar_pre
+1 - pnorm(pbar_diff, mean = 0, sd = se)
+```
+
+### p-value ≈ 0.28 → Do not reject the null hypothesis.
+
+## b)
+
+### More than 4 visits
+
+```{r}
+pbar_pre <- (140 - 117) / 140 
+pbar_post <- (159 - 122) / 159
+p_pool <- (n_pre * pbar_pre + n_post * pbar_post) / (n_pre + n_post)
+se <- sqrt( p_pool * (1 - p_pool) * (1 / n_pre + 1 / n_post) )
+pbar_diff <- pbar_post - pbar_pre
+1 - pnorm(pbar_diff, mean = 0, sd = se)
+```
+
+### p-value ≈ 0.07 → We do not reject the null hypothesis, unless we use a significance level of 0.1, thus being less conservative toward the hypothesis that the promotion is ineffective.
+
+######################## 
+
+# EXERCISE 7.4
+
+######################## 
+
+### Chi-square goodness of fit test
+
+### To assess whether it can be concluded that the values of the variable History are uniformly distributed in the population, it is necessary to use a goodness of fit test, which compares the observed frequencies with the expected frequencies under the assumption that all frequencies are equal in the population, i.e., that the frequencies of the 4 values are all equal to 0.25. Thus, the hypotheses to be tested are H0: p_low = p_medium = p_high = p_none = 0.25 vs H1: at least one of p_low, p_medium, p_high, and p_none is different from 0.25.
+
+### Hypotheses:
+
+### $H_0: p_1=p_2=p_3=p_4=0.25 \ \text{vs} \ H_1: p_1≠p_2≠p_3≠p_4≠0.25$
+
+```{r}
+n_none <- as.numeric(sum(DS$History == "None"))
+n_low <- as.numeric(sum(DS$History == "Low"))
+n_medium <- as.numeric(sum(DS$History == "Medium"))
+n_high <- as.numeric(sum(DS$History == "High"))
+
+prop_none <- n_none/750
+prop_low <- n_low/750
+prop_medium <- n_medium/750
+prop_high  <- n_high/750
+```
+
+### The chi square test on goodness of fit is based on the comparison between the observed absolute frequencies and the expected frequencies under H0 (which should all equal 0.25\*750 = 187.5). Using the function:
+
+```{r}
+chisq.test(
+  x = table(DS$History),
+  p = c(0.25, 0.25, 0.25, 0.25)
+)
+```
+
+### We obtain that the realization of the test statistic is 13.104, characterized by a p-value of 0.0044. Thus, the null hypothesis would be rejected at a significance level smaller than 0.0044, e.g. 0.001; for higher significance level that are less conservative toward the null hypothesis, it would instead be rejected and it would be concluded that the variable is not uniformly distributed.
+
+## b)
+
+### Applying the same approach by referring to the two sub-populations identified by the variable *Location*, and then using the two functions:
+
+```{r}
+chisq.test(x=table(DS$History[DS$Location == "Close"]), 
+                   p = c(0.25, 0.25, 0.25, 0.25))
+chisq.test(x=table(DS$History[DS$Location == "Far"]), 
+                   p = c(0.25, 0.25, 0.25, 0.25))
+```
+
+### We arrive at the same conclusions if *Location = Close* (test statistic = 25.556; p-value = 0.00832). For *Location = Far* (test statistic = 63.766, p-value **≌** 0) we would reject the null hypothesis at any level of significance because the p-value is extremely low.
+
+## c)
+
+### To assess whether the two variables *History* and *Location* are associated, it is necessary to use the chi square test for independence, testing the hypotheses H0: the variables *History* and *Location* are independent vs H1: the variables *History* and *Location* are not independent. The output obtained using the function
+
+```{r}
+chisq.test(DS$History, DS$Location)
+```
+
+### leads to the rejection of the null hypothesis, as the test statistic, 61.258 is characterized by a p-value close to zero, and thus below any level of significance.
+
+## d)
+
+### The observed joint frequency table for the variables *Age* and *History* is:
+
+```{r}
+table <- distr.table.xy(DS$Age, DS$History)
+```
+
+### The theoretical frequencies $E_{kj}$ at each value combination of the two variables can be calculated as the product of the marginal absolute frequencies divided by the sample size, 750:
+
+### $E_{kj} = \frac{(\text{row total}_k)(\text{column total}_j)}{n}$
+
+### Given in the following table:
+
+```{r}
+test <- chisq.test(DS$History, DS$Age, )
+test$expected
+```
+
+### The table shows the frequencies that would have been observed in the case of independence between the two variables. For example, for the value combination *Age* = Middle and *History* = High the table suggests that if we had two independent variables we should have detected a number of clients equal to (205\*390/750), whereas 142 clients with these characteristics were observed in the sample.
+
+### The test statistic used to test the hypotheses under investigation is based on the discrepancies between the observed frequencies ($O_{kj}$) in the sample and the theoretical frequencies ($E_{kj}$)
+
+### $X^2 = \sum_{k}\sum{j}\frac{(O_{kj} - E_{kj})^2}{E_{kj}}$
+
+### Using the function:
+
+```{r}
+chisq.test(x=DS$History, y=DS$Age)
+```
+
+### We obtain that the realization of the test statistic is 172.84 and the p-value is extremely low. Therefore, at the 0.1 level we reject the null hypothesis and conclude that the variables *Age* and *History* cannot be considered independent.
+
+# EXERCISE 7.5
+
+### We are interested in evaluating the differences between mean cholesterol levels based on two independent samples. The sample size is sufficient to allow application of the central limit theorem. The two hypotheses to be compared are:
+
+### $H_0: \mu_{standard} - \mu_{seafood} ≤ 10 \ \text{vs} \ H_1: \mu_{standard} - \mu_{seafood} > 10$
+
+### Under the assumption of equal variance, the pooled variance is estimated by:
+
+### $s_{pool}^2=(99\times37.4 + 99\times33.5)/198=35.45$
+
+### The test can be constructed using the normal approximation or by referring to Student's t distribution, although the two percentiles are close given the sample sizes of the two samples. Using the normal approximation, the 0.05 level test leads to a rejection of the null hypothesis if:
+
+### $(\bar{x}_{standard} - \bar{x}_{seafood})>10 + z_{0.05}\times\sqrt{2\times(\frac{35.45}{100})}=11.385$
+
+### Where $z_{0.05}=1.645$ was obtained using the function
+
+```{r}
+qnorm(0.95)
+```
+
+### In case we wanted to construct the test by referring to Student's t distribution, instead of $z_{0.05}$ we would use the percentile $t_{198,0.05}≅1.653$ (function qt(0.95, df=198)) which would result in a very similar threshold of 11.39, as the two percentiles are very similar given the high sample size. Since the difference between the observed sample averages is equal to ( $\bar{x}_{standard} - \bar{x}_{seafood} = 13.3$ it can be concluded at the 0.05 level that the researchers' claim is backed up by the data. The same conclusion could also be reached by calculating the p-value of the sample realization:
+
+### $Pr(\bar{X}_{standard}-\bar{X}_{seafood}>13.3\ |\ \mu_{standard}-mu_{seafood}=10)$
+
+### which can be calculated using the approximated normal distribution by substituting the variance of the difference between the averages, which is unknown, with its estimate using the function:
+
+```{r}
+1-pnorm(13.3,mean=10,sd=sqrt(35.5/50))
+```
+
+### The p-value is close to zero (0.000045) and indicates that the null hypothesis would have been rejected even using a lower level of significance. In the case where the p-value is calculated by referring to Student's t distribution, it is necessary to consider that the distribution is centered on 0, and thus the p-value can only be determined with the function
+
+```{r}
+1-pt((13.3-10)/sqrt(35.45/50),df=198)
+```
+
+### Which returns a value slightly higher than the previous one (0.000061) but still extremely low.
+
+# EXERCISE 7.6
+
+## a)
+
+### Since the sample size is not sufficient enough to apply the central limit theorem, we will have to assume that daily revenues in the two populations have jointly normal distribution. The hypotheses to be tested concern average daily revenues before and after wi-fi installation and are:
+
+### $H_0: \mu_{prior} = \mu_{post} \ \text{vs} \ H_1:\mu_{post}>\mu_{pror}$
+
+### Being conservative toward the hypothesis that wi-fi installation does not increase average revenues. Hypothesis testing is based on the difference between the sample averages, $\bar{d}=16-13=3$ and on the estimate of the standard error of the sample mean of the difference, obtained by considering that $s^2_D=S^2_{PRE}+S^2_{POST}-2\times S_{PRE, POST}=21+12-22=11$ and therefore $se(\bar{D})=\sqrt{s^2_D/n}=\sqrt{(11/7)}=1.2536$. Two approaches can be followed to test the two hypotheses at the 0.05 level based on the observed results. The first is to consider the rejection region of the test:
+
+### $\bar{d}>t_{6,0.05}\times se(\bar{D})=1.94318\times1.2536=2.4359$
+
+### where the Student's t percentile was obtained with the function
+
+```{r}
+qt(0.95,df=6)
+```
+
+### Since the observed difference falls in the rejection region, it is concluded that at the 0.05 level the empirical evidence is in favor of the alternative hypothesis that wi-fi leads to an increase in average revenues. The second approach is to calculate the p-value of the sample realization, that is the probability to draw the population, under the null hypothesis, a sample characterized by a realization of the test statistic less favorable to the null hypothesis than the observed one:
+
+### $\text{Pr}(t_6>\bar{d}/se(\bar{D})$
+
+### where $t_6$ is a random variable with a Student's t distribution with 6 degrees of freedom. Using the function:
+
+```{r}
+1-pt((3/1.2536),df=6)
+```
+
+### we obtain that the p-value is 0.027 and still leads to the rejection of the null hypothesis, while highlighting the fact that a different choice of significance level, e.g. 0.01, would have led to the null hypothesis not being rejected.
+
+## b)
+
+### No, if the sample statistics referred to 2 weeks instead of 1, the decision would not change, because even with 13 degrees of freedom, the p-value falls but remains in the same rejection region (it does not fall below 0.01). The standard error would decrease and the number of degrees of freedom would increase, decreasing the probability of observing a higher value than x.
+
+# EXERCISE 7.7
+
+## a)
+
+### The sample size is sufficient to apply the central limit theorem so we won't have to assume that the distribution is normal. The hypotheses will concern the proportions of young (*Younger =* TRUE) and more senior developers (*Younger=*False) that use AI tools:
+
+### $H_0: p_{young} = p_{senior}\ \text{vs} \ H_1: p_{young}>p_{senior}$
+
+```{r}
+p_young <- mean((Developers_ITA$AISearch != "None")[Developers_ITA$Younger == "TRUE"])
+p_senior <- mean((Developers_ITA$AISearch != "None")[Developers_ITA$Younger == "FALSE"])
+n_young <- as.numeric(sum((Developers_ITA$AISearch != "None")[Developers_ITA$Younger == "TRUE"]))
+n_senior <- as.numeric(sum((Developers_ITA$AISearch != "None")[Developers_ITA$Younger == "FALSE"]))
+p_pool <- (p_young*n_young + p_senior*n_senior)/(n_young+n_senior)
+SE <- sqrt(p_pool*(1-p_pool)/(n_young+n_senior))
+z <- (p_young - p_senior)/SE
+p_value <- 1-pnorm(z)
+```
+
+### First we calculate the proportions of the young (*Younger =* TRUE) and more senior developers (*Younger=*False) that use AI tools, by using the mean() function. Then we obtain the sample sizes of the two populations using the sum() function and then applying the as.numeric() function to convert the sums into numbers. Now that we have the proportions and the sample sizes, we obtain the pooled proportion under $H_0$ ($p_{young} = p_{senior}$) with the formula:
+
+### $p_{pool} = \frac{(p_{young}\times n_{young} + p_{senior}\times n_{senior})}{(n_{young}+n_{senior})}$
+
+### Now, using the pooled proportion, we obtain the standard error with the formula:
+
+### $SE = \sqrt{\frac{p_{pool}\times(1-p_{pool})}{n_{young} + n_{senior}}}$
+
+### Having the standard error, we should use it to come up with the test statistic, because we don't have a given significance level. We will use the formula:
+
+### $z=(p_{young}-p_{senior})/SE$
+
+### Finally, using the test statistic, we can obtain the p_value with the formula:
+
+### $\text{p-value} = 1 - \text{pnorm(z)}$
+
+### We find that the p-value is lower than the lowest significance level (0.0001), leading to reject the null hypothesis of equal proportions.
+
+## b)
+
+### In order to conclude that there is association between the developers' age (*Age_Class*) and the tools used to improve coding skills (*LearnTool*), we should consider the two hypotheses:
+
+### $H_0: \text{The two variables are independent vs} \ H_1: \text{The two variables are dependent}$
+
+```{r}
+test <- chisq.test(Developers_ITA$Age_Class,Developers_ITA$LearnTool)
+distr.table.xy(Developers_ITA$Age_Class,Developers_ITA$LearnTool)
+test
+```
+
+### To verify the null hypothesis of independence against the alternative hypothesis of association, we can use a chi-square test. The realization of the test statistic is 115.69, and its p-value is close to zero; therefore the null hypothesis is rejected whatever the chosen level of significance. Moreover, the threshold of the rejection region of a test at level 0.1 is the percentile of order 0.9 of a chi-square distribution with 16 degrees of freedom. It is 16 because we multiply the degrees of freedom of the two variables. We obtain the threshold with the function
+
+```{r}
+qchisq(0.9, df=16)
+```
+
+### and is 23.54, a value extremely lower than the test statistic's realization.
+
+## c)
+
+### In order to conclude that there is association between the developers' age (*Age_Class*) and the use of AI tools (*AISearch*), we should consider the two hypotheses:
+
+### $H_0: \text{The two variables are independent vs} \ H_1: \text{The two variables aren't independent}$
+
+```{r}
+test <- chisq.test(Developers_ITA$Age_Class,Developers_ITA$AISearch)
+distr.table.xy(Developers_ITA$Age_Class,Developers_ITA$AISearch)
+
+```
+
+### After using the chisq.test() function, we obtain that there were some cells with very low frequencies, in particular the age class of 18-24 in the column "Other" is (74\*30/802), that is lower than 5. Therefore, the test cannot be used.
+
+## d)
+
+### In order to compare the average skills of developers with higher education to the other developers, the hypotheses which we are going to follow are:
+
+### $H_0: \mu_{high} = \mu_{low} \ \text{vs} \ H_1: \mu_{high} ≠\mu_{low}$
+
+```{r}
+xbar_high <- (Developers_ITA$Skills.Idx)[Developers_ITA$Education == "Bachelor" | Developers_ITA$Education == "Master"]; xbar_high
+xbar_low <- (Developers_ITA$Skills.Idx)[Developers_ITA$Education == "Secondary" | Developers_ITA$Education == "Some college/university"]; xbar_low
+test <- t.test(xbar_high, xbar_low, alternative = "two.sided")
+test$p.value
+```
+
+### After finding the means of the two populations we can insert them in the formula t.test(). Using the formula at its feature we know that the p-value is equal to 0.21 which is higher than all of the satisfaction levels. Тherefore, the empirical evidence is therefore not strong enough to conclude that the average skills of developers in the two populations are different, as stated in the alternative hypothesis.
+
+## e)
+
+### From now on, we will focus on the developers aged between 25 and 34 when comparing two sub-populations.
+
+### e1)
+
+### We are interested to test hypotheses on the difference between the means of the number of skills of the sub-population in the age group of 25-34 with higher education and the sub-population in the age group of 25-34 with lower education. The two sub-populations have sufficient sample sizes so we can apply the central limit theorem and to approximate the distribution of the difference between the two estimators of the means with a normal distribution. The hypotheses will be:
+
+### $H_0: \mu_{high} = \mu_{low} \ \text{vs} \ H_1: \mu_{high} ≠\mu_{low}$
+
+```{r}
+xbar_high <- (Developers_ITA$Skills.Idx)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Bachelor" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Master"]
+xbar_low <- (Developers_ITA$Skills.Idx)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Secondary" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Some college/university"]
+
+test <- t.test(xbar_high, xbar_low, alternative = "two.sided")
+test$p.value
+```
+
+### Using a test at significance level equal to 0.01 and obtaining the p-value equal to 0.0253, we can conclude that the empirical evidence is not enough to reject the null hypothesis, therefore the means of the two sub-populations are the same, no matter of the different levels of education.
+
+### e2)
+
+### We are interested to test hypotheses on the difference between the means of the number of skills of the sub-population in the age group of 25-34 with higher education and the sub-population in the age group of 25-34 with lower education. The two sub-populations have sufficient sample sizes so we can apply the central limit theorem and to approximate the distribution of the difference between the twp estimators of the means with a normal distribution. The hypotheses will be:
+
+### $H_0: p_{high} = p_{low} \ \text{vs} \ H_1: p_{high} ≠p_{low}$
+
+```{r}
+p_high <- mean((Developers_ITA$Skills.Idx > 15)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Bachelor" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Master"])
+p_low <- mean((Developers_ITA$Skills.Idx > 15)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Secondary" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Some college/university"])
+
+n_high <- length((Developers_ITA$Skills.Idx > 15)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Bachelor" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Master"])
+n_low <- length((Developers_ITA$Skills.Idx > 15)[Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Secondary" | Developers_ITA$Age_Class == "25-34" & Developers_ITA$Education == "Some college/university"])
+
+p_pool <- (p_high*n_high + p_low*n_low)/(n_high + n_low)
+
+SE <- sqrt((p_pool*(1-p_pool))*((1/n_high) + (1/n_low)))
+
+stat <- (p_high-p_low)/SE
+
+p_value <- 2*pnorm(stat)
+```
+
+### Using a test at significance level equal to 0.025 and obtaining the p-value equal to 0.002, we can conclude that the empirical evidence is enough to reject the null hypothesis, therefore the means of the two sub-populations are not the same.
+
+## f)
+
+### The sample size of the developers aged between 18 and 24 with a higher level of education is too small and therefore it is not possible to apply the central limit theorem and to verify the hypothesis of interest.
+
+# EXERCISE 7.8
+
+## a)
+
+### We should test whether a given product is worth laying off depending on the average number of children per customer. The sample size is large enough to apply the central limit theorem and to approximate the distribution of the population to be normal. The theorems which we are going to test are:
+
+### $H_0: \mu_{children} ≥ 1.5 \ \text{vs} \ H_1: \mu_{children} < 1.5$
+
+```{r}
+mu <- 1.5
+S <- sd(DS$Children)
+statistic <- sqrt(n) * (mean - mu)/S
+TEST.mean(DS$Children, mu0 = 1.5, alternative = "less")
+```
+
+### After calculating the p-value, we can conclude that it is appropriate to give up the sale of baby products. The realization of the test statistic is equal to -14.91 and the p-value associated with it is equal to 0.0001, which is lower for any satisfaction level and the empirical evidence is enough to reject the null hypothesis, therefore the average number of children per customer is significantly lower than 1.5 at 0.92.
+
+## b)
+
+### We should test whether an activation of a catalogue for "luxury" products is considered appropriate, which depends on the average customer salary. The sample size is large enough to apply the central limit theorem and to approximate the distribution of the population to be normal. The theorems which we are going to test are:
+
+### $H_0: \mu_{salary} ≤ 55000 \ \text{vs} \ H_1: \mu_{children} > 55000$
+
+```{r}
+TEST.mean(DS$Salary, mu0 = 56851.85)
+```
+
+### The null hypothesis states that the average wage is below the minimum level required for the activation of a luxury catalogue which, in fact, is the hypothesis that is most serious to reject when it is true, since leaning toward the alternative would lead to investing in a catalogue that does not lead to the required results. To determine for which values of average salaries one should conclude in favor of activating the catalogue at a significance level of 0.05 is the threshold of the rejection region, defined as follows:
+
+### $R:\bar{x}>\mu_{0} + z_{\alpha}\times\frac{s}{\sqrt{n}}=55000+1.645\times\frac{30829.87}{\sqrt{750}}=56851.85$
+
+### Therefore, the estimated average customer salary is 56183.73 which is belowthan the threshold and therefore the null hypothesis is not rejected, and based on the test, it will be concluded at the 0.05 level that it is not appropriate to activate the "luxury products" catalogue.
+
+### If you use a significance level of 0.1, you are less conservative toward the null hypothesis. In fact, the new threshold will be equal to:
+
+### $R':\bar{x}>\mu{0} + z{\alpha}\times\frac{s}{\sqrt{n}}=55000+1.281552\times\frac{30829.87}{\sqrt{750}}=56440.96$
+
+### However, the conclusion would not change since it is observed value for the sample mean would still lie in the acceptance region.
+
+## c) We are interested in whether 35% of the customers do not have a competing business store nearby.
+
+### c1)
+
+### The estimated proportion of people who do not have store nearby (*Location* = Far) is equal to 0.3. The sample size is sufficient to apply the central limit theorem and approximate the distribution of the population to be normal.
+
+### $H_0: p=0.35 \ \text{vs} \ H_1: p≠0.35$
+
+```{r}
+TEST.mean(as.numeric(DS$Location == "Far"), mu0 = 0.35, alternative = "two.sided", digits = 3)
+```
+
+### The test statistic is equal to -3.24 and it's p-value is equal to 0.001 which, based on the significance level of 0.01 does reject the null hypothesis. This however does not affect the store as in both cases whether the the null or alternative hypothesis was true, the store is considering it appropriate to revise the promotional activities.
+
+### c2)
+
+### The required probability is exactly the probability of committing a type 1 error, so 0.01. In this case the null hypothesis is simple and therefore the probability of a type 1 errors is exactly the probability of rejecting the null hypothesis when the proportion in the population is 0.35 (the unique value stated by the null hypothesis).
+
+### c3)
+
+### The required probability is the probability of committing a type 2 error - not rejecting a false null hypothesis - and thus concluding that there is no need to revise the promotional strategy when in fact the proportion has decreased and is 0.3. The rejection region for the 0.01 level test is:
+
+```{r}
+left <- 0.35 - qnorm(0.995)*sqrt((0.35*0.65)/(750))
+right <- 0.35 + qnorm(0.995)*sqrt((0.35*0.65)/(750))
+```
+
+### So the required probability is:
+
+### $Pr(0.305<\bar{P}<0.395 \ | \ p=0.3)$
+
+### Using Rstudio:
+
+```{r}
+pnorm(0.3949, mean = 0.3, sd = sqrt(0.3*(1-0.3)/750)) - pnorm(0.3051, mean = 0.3, sd = sqrt(0.3*(1-0.3)/750))
+```
+
+### c4)
+
+### The power of the test is defined as the probability of rejecting a false hypothesis which is the opposite of a type 2 error and therefore it is equal to 1 - 0.3803 = 0.6197.
+
+# EXERCISE 7.9
+
+## а)
+
+### We have to determine whether the four entrances of a supermarket are used with the same frequency or not. We know that the sample size is sufficient to apply the central limit theorem and approximate the distribution of the population to be normal. The sample size is equal to 130, which when divided by 4 to obtain the average number of uses per exit we get 32.5. So the hypotheses which I am going to test are:
+
+### $H_0: p_1=p_2=p_3=p_4=0.25 \ \text{vs} \ H_1: p_1≠p_2≠p_3≠p_4≠0.25$
+
+### We know that the number of people that went through the different entrances differ, now we just have to prove it.
+
+## b)
+
+### To test the hypotheses, the function:
+
+```{r}
+chisq.test(x=c(24,30,36,40), p=c(0.25,0.25,0.25,0.25))
+```
+
+### We obtain that the realization of the test statistic is 4.5231, characterized by a p-value of 0.2102. Thus the null hypothesis is accepted at the 0.05 level as well as for any of the standard levels used.
+
+## c)
+
+### The test statistic is calculated by comparing the observed absolute frequencies with the expected absolute frequencies under the assumption that the distribution is as specified under the null hypothesis. In this case, each exit door should have been chosen 130\*0.25=32.5. The realization of the test statistic is determined using the formula:
+
+### \$ X\^2= \sum\_{k}\frac{(O_k-E_k)^2}{E_k}= \frac{(24-32.5)^2}{32.5} + \frac{(30-32.5)^2}{32.5} + \frac{(36-32.5)^2}{32.5} + \frac{(40-32.5)^2}{32.5} \$
+
+### The result is equal to 4.5231 which coincides with the value obtained in b) - approximated to the fourth decimal place.
+
+### As for the p-value, this is the probability of observing a sample with a higher realization of the test statistic than that observed when the null hypothesis is true. The distribution of the test statistic under the null hypothesis is chi-square with 3 degrees of freedom. The p-value is then obtained using the function
+
+```{r}
+1-pchisq(4.5231, df=3)
+```
+
+### and results 0.21 which coincides with the value obtained in b) - approximated to the fourth decimal place.
+
+# EXERCISE 7.10
+
+## a)
+
+### We have to conclude at the 0.05 satisfaction level whether the average amount spent by male and female customers significantly differ. The sample size is sufficient to apply the central limit theorem, therefore we can approximate the distribution of the populations to be normal. The hypotheses that are going to be tested are:
+
+### \$ H_0: \mu*{female} =* \mu{male}  \text{vs}  H_1: \mu*{female} ≠* \mu{male} \$
+
+```{r}
+male <- (DS$AmountSpent)[DS$Sex == "Male"]
+female <- (DS$AmountSpent)[DS$Sex == "Female"]
+
+xbar_male <- mean(male)
+xbar_female <- mean(female)
+
+test <- t.test(female, male)
+test$statistic
+test$p.value
+```
+
+### After conducting the test on the hypotheses we obtain that the realization of the test statistic is equal to -5.25 and its relative p-value is equal to 0.0000002 which is sufficient to reject the null hypothesis at a satisfaction level of 0.05 and therefore we conclude that the average amount spent by male and female customers significantly differ.
+
+## b)
+
+### b1)
+
+### We have to conclude whether the average amount spent by female customers which live closer to a store is higher than the one of those which live further to a store. The test will be based on two factors (*Sex =* Female and *Location* = Far or *Location* = Close). The sample size is sufficient to apply the central limit theorem, therefore we can approximate the distribution of the populations to be normal. The hypotheses that are going to be tested are:
+
+### $H_0:\mu_{far}=\mu_{close} \ \text{vs} \ H_1:\mu_{far}>\mu_{close}$
+
+```{r}
+far <- (DS$AmountSpent)[DS$Sex == "Female" & DS$Location == "Far"]
+close <- (DS$AmountSpent)[DS$Sex == "Female" & DS$Location == "Close"]
+mean(close)
+test <- t.test(close, far, alternative = "two.sided")
+test$statistic
+```
+
+### After conducting the test on the hypotheses we obtain that the realization of the test statistic is equal to -5.1 and its relative p-value is equal to 0.00000088 which is sufficient to reject the null hypothesis at any satisfaction level. Therefore we conclude that the average amount spent by female customers that live further from the store is higher than the female customers that live closer to the store and it will be appropriate to implement a geo-localized marketing strategy. The final decision would not change if the variances were assumed to be equal, so the assumptions about variances are not stringent at all.
+
+### b2)
+
+### We have to conclude whether the average amount spent by female customers which have children is lower than the one of those which do not. The test will be based on two factors (*Sex =* Female and *Children* = True or *Children* = False). The sample size is sufficient to apply the central limit theorem, therefore we can approximate the distribution of the populations to be normal. The hypotheses that are going to be tested are:
+
+### $H_0:\mu_{close}=\mu_{far} \ \text{vs} \ H_1:\mu_{close}<\mu_{far}$
+
+```{r}
+sub <- DS[DS$Sex == "Female" & DS$Children == FALSE, ]
+near <- sub$AmountSpent[sub$Location == "Close"]
+far <- sub$AmountSpent[sub$Location == "Far"]
+
+mean(near)
+mean(far)
+test <- t.test(near, far, alternative = "less")
+test$p.value
+```
+
+### After conducting the test on the hypotheses we obtain that the realization of the test statistic is equal to -3.7 and its relative p-value is equal to 0.00019 which is sufficient to reject the null hypothesis at any satisfaction level. Therefore we conclude that the average amount spent by female customers which have children is lower than the one of those which do not. In this case, the hypothesis regarding the variances is slightly more stringent in that if the variances are assumed equal the null hypothesis would be rejected at any level, the p-value being \< 0.0001).
+
+### b3)
+
+### We have to conclude whether the average amount spent by female customers which are married is lower than the one of those which are not. The test will be based on two factors (*Sex =* Female and *Married* = True or *Married* = False). The sample size is sufficient to apply the central limit theorem, therefore we can approximate the distribution of the populations to be normal. The hypotheses that are going to be tested are:
+
+### $H_0:\mu_{yes}=\mu_{no} \ \text{vs} \ H_1:\mu_{yes}<\mu_{no}$
+
+```{r}
+sub <- DS[DS$Sex == "Female" & DS$Married == "Single", ]
+near <- sub$AmountSpent[sub$Location == "Close"]
+far <- sub$AmountSpent[sub$Location == "Far"]
+
+mean(near)
+mean(far)
+test <- t.test(near, far, alternative = "less")
+test$p.value
+```
+
+### After conducting the test on the hypotheses we obtain that the realization of the test statistic is equal to -2.95 and its relative p-value is less than 0.0019 meaning that the decision depends on the satisfaction level chosen by the analyst. In any case for a level of significance that is not particularly high and equal to, say 0.01 the null hypothesis would be rejected even in this case, but in the case of wanting to be particularly conservative toward the null hypothesis, using, for example, a level of 0.001, the null hypothesis would not be rejected, even if the realisation of the test statistic would be at the edge of the rejection region.
+
+### In this case, however, it is noted that in the case of assuming equality between the variances in the two populations, the p-values would be lower and would lead to the rejection of the null hypothesis even setting a significance level of 0.001.
+
+## c)
+
+### We have to conclude whether a competing firm has significantly higher customer expenditure mean than the one presented in the dataframe DS. The competing firm has a sample size of 800 customers which is sufficient to apply the central limit theorem and approximate that the distribution of the population is normal. The mean expenditure of the competitor is 1300 and its standard deviation is equal to 960. The theorems which we are going to test are:
+
+### $H_0: \mu_{first} = \mu_{second} \ \text{vs} \ H_1:\mu_{first}<\mu_{second}$
+
+```{r}
+mean_first <- mean(DS$AmountSpent); mean_first
+mean_second <- 1300
+
+n_first <- 750
+n_second <- 800
+
+sd_first <- sqrt(var(DS$AmountSpent)); sd_first
+sd_second <- 960
+
+s2p <- ((n_first-1)*(sd_first)^2 + (n_second-1)*(sd_second)^2)/(n_first+n_second-2)
+
+z <- (mean_second-mean_first)/sqrt((s2p/n_first)+(s2p/n_second))
+
+p_value <- 1 - pnorm(1.4592)
+```
+
+### The p-value is the probability of observing under $H_0$ a realization of the test statistic equal to or greater than that observed in the sample; using the normal approximation, this probability is equal to 0.072. At a chosen satisfaction level of 0.1, we do not have the empirical evidence to reject the null hypothesis and therefore we conclude that the customer expenditure means of the two competing stores are equal.

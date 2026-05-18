@@ -1,0 +1,23 @@
+# EXERCISE 1
+# 1.a
+CI.prop(Risk$PurposeLoan == "Business", conf.level = 0.99)
+
+op <- table(Risk$PurposeLoan, Risk$EmplStatus)
+chisq.test(op)
+table
+op
+
+employed <- Risk$RiskIndex[Risk$EmplStatus == "Empl"]
+unemployed <- Risk$RiskIndex[Risk$EmplStatus == "Unemp"]
+
+TEST.diffmean(employed, unemployed, alternative = "less")
+
+mean(unemployed)
+
+mod1 <- lm(RiskIndex ~ EmplStatus+Age, data = Risk)
+coef(mod1)
+summary(mod1)
+
+mod2 <- lm(RiskIndex ~ EmplStatus+Age+Income+DebtIndex, data = Risk)
+coef(mod2)
+summary(mod2)

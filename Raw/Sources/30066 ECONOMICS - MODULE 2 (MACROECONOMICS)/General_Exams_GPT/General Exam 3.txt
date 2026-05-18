@@ -1,0 +1,23 @@
+General Exam 3
+
+Time: 90 minutes   |   Closed book   |   Answer all questions
+
+Q1. Extended IS–LM with risk premium
+Spending depends on the borrowing rate r + x. From an initial equilibrium, x rises and Ḡ falls. The CB adjusts r to keep Y unchanged. What happens to the borrowing rate r + x in the new equilibrium? Explain with IS logic.
+
+Q2. Debt steady state and sustainability
+(a) Write the steady‑state debt ratio b* given constant primary balance pb and constant g, r. 
+(b) Suppose pb = −0.02 (2% deficit), r = 0.03, g = 0.015. Compute b* (if defined). Comment on sustainability and what must change to stabilize at b* ≤ 60%.
+(c) Briefly explain the “snowball” effect (r − g) on debt dynamics.
+
+Q3. UIP calculation
+Uncovered interest parity: (1 + i) = (1 + i*) (E^e_{t+1}/E_t). Given i = 3%, i* = 5%, and E^e_{t+1} = 1.30 $/€ (expected in one year), compute today’s E_t and state whether the euro is expected to appreciate or depreciate.
+
+Q4. Marshall–Lerner, J‑curve (goods‑only, fixed P)
+(a) State the Marshall–Lerner condition and the J‑curve intuition.
+(b) Under ML holding, how does a real depreciation affect NX on impact vs over time? Explain with price vs quantity effects and existing contracts.
+
+Q5. Two‑period taxes and Ricardian equivalence
+In a 2‑period model with access to credit at real rate r, the government cuts current taxes by 100 and announces +100 next period (per capita), with r = 0.
+(a) For an unconstrained consumer with zero initial wealth, derive ΔC_t and ΔC_{t+1}. What happens to private saving at t?
+(b) How do results change if some consumers are liquidity constrained? Provide intuition for aggregate demand effects today.

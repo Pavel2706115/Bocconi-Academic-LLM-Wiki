@@ -1,0 +1,179 @@
+### Introduction and Overview 
+- **Slide 1: Title Slide**
+	- **Content:** This is the title slide for Chapter 11 on “Education”
+- **Slide 2: Outline**
+	 - **Summary:** Outlines the lecture's structure, covering Organization for Economic Co-operation and Development (OECD) trends, the rationale, and mechanisms for government involvement, measuring returns to education, and higher education policy
+### Trends in OECD Countries
+- **Slide 3: Education as a public priority**
+	- **Key points:**
+		- OECD countries spend roughly 5-6% of their GDP on education, making up over 10% of total public expenditures
+		- Italy falls slightly below this average due to limited funding in preschool and tertiary sectors
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Education is framed as the primary public investment for boosting long-term productivity and social mobility</mark>
+- **Slide 4: Graph - Public and private spending on education**
+	- **Graph Analysis:** A bar chart displaying total educational spending from primary to tertiary levels as a percentage of GDP in 2020. The bars are split between public (yellow) and private(blue) funding
+	- **Key points:**
+		- Norway leads in total spending
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Italy (highlighted in red) sits below the OECD average line, relying almost entirely on public funds with minimal private contribution</mark>
+- **Slide 5: Outcome vs Spending**
+	- **Key points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Higher spending does not guarantee better educational outcomes</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Finland and Estonia achieve top PISA scores despite moderate spending</mark>
+		- Italy performs slightly below the OECD average despite medium-level spending, pointing to inefficiencies in how resources are utilized
+- **Slide 6: Italy's Public Education Spending in European Context**
+	- **Graph Analysis:** A bar chart comparing the percentage of total public budgets allocated to education across European nations (Eurostat 2023 data)
+	- **Key points**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The EU average is 9.6%</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Italy is positioned at the far right, allocating only 7.3% of its public spending to education, the lowest in the group</mark>
+- **Slide 7: Graph - PISA Reading Scores (2022)**
+	- **Graph Analysis:** A bar chart ranking countries by their 2022 PISA reading scores
+	- **Key Points:**
+		- **Key points:** Singapore holds the highest score. Italy is highlighted in red, falling slightly below the OECD average (highlighted in blue)
+- **Slide 8: Graph - PISA Math Scores (2022)**
+	- **Graph Analysis:** A bar chart ranking countries by their 2022 PISA math scores
+	- **Key Points:** Singapore leads again. Italy (red) scores very closely to the OECD average (blue)
+### Why Should the Government Be Involved?
+- **Slide 9: Equity and Redistribution Rationale**
+	- **Key Points**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Governments intervene to promote equality of opportunity and intergenerational mobility, ensuring a child's chances depend less on parental income</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Across the OECD, 80% of education spending is public</mark>
+		- Nordic countries approach 90%; the US relies on private sources ($\approx 65\%$)
+		- Italy matches the OECD average for public share but lacks private co-financing and student-aid support
+- **Slide 10: Graph - OECD intergenerational mobility**
+	- **Graph analysis:** Grouped bar chart showing the percentage of individuals completing tertiary education, categorized by their parents' education level
+	- **Key points:** <mark style="background:rgba(240, 200, 0, 0.2)">Individuals with highly educated parents are vastly more likely to complete tertiary education.</mark> Italy is highlighted, showing one of the lowest mobility rates (7%) for students whose parents did not complete secondary education
+- **Slide 11: Graph - Share of total education spending**
+	- **Graph Analysis:** A stacked bar chart displaying the split between public and private education funding by country
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Italy (red) is highly reliant on public funding, contrasting with countries like the US or UK where private funding lays a much larger role</mark>
+- **Slide 12: Graph - Expenditure by level of education**
+	- **Graph Analysis:** A stacked bar chart showing spending as a % of GDP broken down by primary, secondary, post-secondary, tertiary, and early childhood education
+	- **Key Points:** Italy (highlighted) shows a noticeable gap in tertiary and early childhood spending compared to the OECD average
+- **Slide 13: Why Not Leave Education Entirely to the Market?**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Private markets would exclude many students due to borrowing constraints</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Private markets ignore social benefits (reduced crime, civil engagement) and underinvest in early education</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Public intervention corrects these market failures to ensure equity and efficiency, with early free schooling being the highest driver of mobility</mark>
+- **Slide 14: Why Should the Government Be Involved in Education? (1)** 
+	- **Key Points:**
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Productivity:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Raises overall standard of living, benefiting graduates, coworkers, and future generations</mark>
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Citizenship:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Fosters informed voters and improves democratic processes</mark>
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Externalities:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Reduces crime and increases civic participation</mark>
+- **Slide 15: Why Should the Government Be Involved in Education? (2)**
+	- **Key Points:**
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Credit Market Failure:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> The private loan market struggles to finance basic education; governments fix this by directly providing free schools</mark>
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Family Utility:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Parents may not prioritize or maximize their children's educational utility over their own consumption</mark>
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Redistribution:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Because education is a normal good, public provision helps level the playing field between high and low-income families</mark>
+### How is the Government Involved?
+- **Slide 16: How is the government involved in education?**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The primary method is free public schools</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">However, this can cause "crowding out": parents might save money by moving children from expensive private schools to  free, albeit potentially lower-quality, public schools</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">If crowding out is severe, public spending merely replaces private spending (acting as a transfer to the rich); if limited, it successfully increases total education consumption</mark>
+- **Slide 17: Free Public Education and Crowding Out**
+	- **Graph Analysis:** A budget constraint graph (Figure 11-2) plotting "Other goods spending" against "Education spending"
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Free public schools lower the price to zero at a fixed quantity</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Low-spending families consume more education, but more middle and high-income families switch to the free public option</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Consequently, private spending drops, meaning total education increases by less than the public provision amount</mark>
+- **Slide 18: Solving the Crowd-Out Problem: Vouchers**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Vouchers provide parents with a tuition credit usable at any school (public or private)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">They promote consumer sovereignty (matching family preferences) and competition (forcing schools to improve efficiency)</mark>
+- **Slide 19: Vouchers offset public school crowd-out**
+	- **Graph Analysis:** A budget constraint graph (Figure 11-3) showing the budget line expanding outward by the voucher amount ($E_F$)
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Vouchers lower the price of all education</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Low-income families use the subsidy, while middle and high-income families are encouraged to increase their private educational spending</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">This results in less crowding out compared to fixed public provision</mark>
+- **Slide 20: Problems with educational vouchers**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Can lead to excessive specialization, ignoring core educational elements</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">May reintroduce segregation (by race, income, or ability)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Governments end up subsidizing wealthy families who would have paid for private school anyway, driving up public cost</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The education market may act as a natural monopoly rather than a competitive market</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Special education is extremely costly (twice the average student), which private voucher schools may avoid</mark>
+### Measuring the Returns to Education
+- **Slide 21: Measuring the Returns to Education**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Higher education correlates with higher earnings, but calculating exact returns is difficult</mark>
+		- The private return to education is calculated as the earnings increase per additional year of schooling
+		- Formula: $r \approx (\ln{Y_U} - \ln{Y_{HS}}) \times \frac{1}{\Delta s}$
+- **Slide 22 & 23: Effects of Education Levels on Productivity**
+	- **Key Points:**
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Human Capital Theory:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Education actively increases a person's stock of skills and productivity. If true, returns are purely private, and public support is unjustified (basically the more you study, the more skilled and better you get)</mark>
+		- <mark style="background:rgba(5, 117, 197, 0.2)">Screening Theory:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> Education merely signals existing high-ability to employers without teaching actual skills. If true, returns are purely private, and public support is unjustified (basically the higher degrees you have, the more you will stand out as high-ability individual)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">In reality, evidence suggests it is a mix, with human capital being the dominant factor</mark>
+- **Slide 24: Effect of Education Levels on Other Outcomes**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Better-educated individuals participate more in politics, commit less crime, enjoy better health, have healthier and better-educated children, avoid risky behavior</mark>
+- **Slide 25: The Impact of School Quality**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">School quality strongly influences long-run outcomes such as earnings, employment, health, and civic participation</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">How education is delivered matters just as how much is received</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Quality is generally measured by average class size and per-student spending</mark>
+- **Slide 26: The Tennessee STAR Experiment (Overview)**
+	- **Graph Analysis:** A bar chart comparing the effect on test scores between "Small Class" (high effect) and "Regular Class" (low effect)
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">The STAR Experiment randomly assigned students to small (13-17) or regular (22-25) classes to prove a casual link between class size and outcomes, eliminating background bias</mark>
+- **Slide 27 & 28: STAR Results & Why Class Size Matters**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Small classes yielded significantly better test scores</mark> (especially for minority/low-income students) and <mark style="background:rgba(240, 200, 0, 0.2)">long-run benefits like higher graduation rates and adult earnings</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Smaller classes allow for individualized attention and fewer disruptions</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Because it is expensive, targeted reduction (early grades, low-income areas) are vastly more cost-effective than universal reductions</mark>
+- **Slide 29: Graph - Trends in average class size**
+	- **Graph Analysis:** Bar chart showing primary education class sizes across countries comparing 2013 and 2023
+	- **Key Points:** Italy (highlighted) maintains a relatively small average class size compared to countries like UK or Japan, well below the OECD average
+- **Slide 30 & 31: Policy Implications & Cost-Effectiveness Example**
+	- **Key Points**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Class-size reduction is expensive and not a "silver-bullet"</mark>
+		- Example calculation: Reducing class size from 24 to 18 costs €3000/student and yields a 0.15 standard deviation score increase
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Improving teacher quality is often cheaper and yields larger gains</mark>
+### Higher Education Financing
+- **Slide 32 & 33: Why Governments Finance Higher Ed & Instruments**
+	- **Key Points:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Higher education has strong social benefits (innovation, civic engagement) and faces severe credit constraints</mark>
+		- Policy tools include: 
+			- <mark style="background:rgba(5, 117, 197, 0.2)">Direct public provision:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> state universities, low or no tuition</mark>
+			- <mark style="background:rgba(5, 117, 197, 0.2)">Grants and scholarships:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> non-repayable, often means-tested</mark>
+			- <mark style="background:rgba(5, 117, 197, 0.2)">Student loans:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> repayable after graduation, sometimes income-contingent</mark>
+			- <mark style="background:rgba(5, 117, 197, 0.2)">Tax incentives:</mark><mark style="background:rgba(240, 200, 0, 0.2)"> tuition deductions or credits</mark>
+- **Slide 34: Public vs Private Financing Across OECD**
+	- **Key Points:** Nordic countries use near 100% public funding, the US is roughly 50%, and Italy is around 70%. Low tuition guarantees access but can constrain university quality and research
+- **Slide 35: Graph - Annual average tuition fees**
+	- **Graph Analysis:** Bar/scatter combo chart showing average master's tuition fees in USD across countries
+	- **Key Points:** The US and UK have the highest tuition costs. Italy is relatively affordable but has a notable share (18%) of master's students in private institutions
+- **Slide 36: OECD Evidence on Outcomes**
+	- **Key Points:**
+		- Generous, targeted aid yields high enrollment
+		- Italy's tertiary attainment is low; improving student support might work better than simply expanding the budget
+		- Italy suffers from significant North-South disparities in scores due to resource and management differences
+- **Slide 37: Graph - Tertiary attainment vs tertiary spending**
+	- **Graph Analysis:** Scatter plot comparing tertiary spending (% of GDP) to the percentage of adults with tertiary education
+	- **Key Points:** There is a positive correlation between spending and attainment, but it is not purely casual (migration and institutions matter). Italy sits very low on both axes
+- **Slide 38: Evidence on Financial Aid**
+	- **Key Points:** Dynarski (2003) showed an extra $1000 in need-based grants increased college attendance by 3-4 percentage points, proving liquidity constraints limit enrollment for low-income families
+### Inputs, Outputs, and Identification
+- **Slide 39: Inputs and Outputs in Education**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Economists use a production function (inputs: teachers, class size, peers -> outputs: test scores, earnings) to find the highest marginal product</mark>
+- **Slide 40: The Challenge of Casual Identification**
+	- **Visuals:** A simple diagram distinguishing “Correlation” vs “Causation”
+	- **Key Points:** Simple correlations are misleading. Researchers rely on randomized natural experiments to find true causal effects
+- **Slide 41: Key Inputs: What should we study?**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Research focuses on class size, teacher quality, school resources and spending, curriculum, accountability, and early childhood education</mark>
+- **Slide 42 & 43: Do School Resources Matter?**
+	- **Visuals:** Diagram showing “Reverse causality” where Variable A and B mutually influence each other
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Struggling schools often receive extra funding. Naive data makes it look like more funding causes worse performance - this is reverse causality</mark>
+- **Slide 44 & 45: When Does Money Matter Most? (focus on Italy)**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Money matters most when targeted early in life, to disadvantaged students, and paired with good management. Italy spends less per student overall, with sharp regional disparities and limited early intervention</mark>
+- **Slide 46: Policy Implication: Targeted Investment**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Untargeted budget expansions yield modest gains. Policymakerts must target early childhood, teacher support, and disadvantaged areas</mark>
+### Teachers, Accountability, & Early Childhood
+- **Slide 47 & 48: Teacher Quality & Evidence**
+	- **Key Points:**<mark style="background:rgba(240, 200, 0, 0.2)"> Teacher quality is the single most important school-based determinant of success. Teacher “value-added” measures their true impact.</mark> Chetty, Friedman $ Rockoff experiment proved a <mark style="background:rgba(240, 200, 0, 0.2)">1 standard deviation increase in teacher quality raises lifetime earnings by $250,000 per classroom</mark>, test scores, college attendance and quality
+- **Slide 49: Why Does Teacher Quality Vary?**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">It relies on motivational and management, not just formal qualifications. Italy stuggles here due to a rigid, seiority-based pay structure with no incentive for high performance</mark>
+- **Slide 50: Why Accountability Matters**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Accountability (testing, evaluations) motivates improvements but risks “teaching to the test”. Italy has weak accountability and rare teacher evaluations</mark>
+- **Slide 51 & 52: Early Childhood Matters**
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">Early childhood interventions yield the highest social returns because skills compound dynamically (Heckman, 2006). In Italy, access to “asili nido“ (ages between 0 and 3) is scarce and uneven, cementing early inequalities</mark>
+- **Slide 53: What Works? Key Lessons**
+	- **Summary: **
+		- **Recap of the lecture:**
+			- <mark style="background:rgba(240, 200, 0, 0.2)">Teacher quality is paramount, targeted spending beats universal, accountability needs good design, class size matters for the young/disadvantaged, and early childhood offers the best cos-benefit ratio</mark>

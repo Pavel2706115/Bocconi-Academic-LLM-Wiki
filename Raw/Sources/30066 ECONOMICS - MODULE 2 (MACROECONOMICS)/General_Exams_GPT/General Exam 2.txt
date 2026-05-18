@@ -1,0 +1,25 @@
+General Exam 2
+
+Time: 90 minutes   |   Closed book   |   Answer all questions
+
+Q1. Yield curve with 1Y and 2Y bonds (expectations hypothesis)
+Inflation is zero today and expected to be zero next year. At time t: the current 1‑year yield is i1_t = 2.5% and the expected 1‑year yield next year is i1_{t+1}^e = 4.5%.
+(a) Compute the 2‑year yield today i2_t under the simple expectations hypothesis.
+(b) Now markets expect tighter policy next year (i1_{t+1}^e rises further). What happens to i2_t and to the slope of the curve? Explain with IS–LM intuition for next year affecting today via expectations.
+
+Q2. Policy rule difference and current slope
+Country Beta is like Q1 but its CB fixes M (positively sloped LM). Explain why an anticipated monetary tightening at t+1 can lower today’s short rate i1_t when the CB fixes M, while raising i2_t, and why the curve typically gets steeper. Provide a clean intuition using IS feedback from lower Y_t to money demand.
+
+Q3. Open economy with fixed credible E
+Delta runs a fixed, credible exchange rate: E = E^e = ar E. UIP then implies i = i*. Starting from equilibrium, Δc0 = ΔT̄ > 0 (autonomous consumption and net taxes rise by the same amount).
+(a) Which curve(s) move? Explain effects on Y, C, I, NX, i, E.
+(b) What must the CB do with M to keep E fixed along the transition? Explain money market logic.
+
+Q4. Liquidity trap and fiscal policy
+Suppose the economy is at the ZLB (i = 0, flat LM). Consider a rise in Ḡ financed by debt.
+(a) Show the effect on Y and i in IS–LM. 
+(b) Discuss crowding‑out vs crowding‑in at the ZLB and the role of expected future policy for multipliers.
+(c) Name two conditions under which fiscal multipliers are likely >1.
+
+Q5. National saving identity: simultaneous Δc0 and ΔT̄
+In the goods‑market model with Y = C + I + G, C = c0 + c1(Y − T), I = Ī, G = Ḡ, T = T̄, analyze the effect of Δc0 = ΔT̄ > 0 on Y, private saving S^priv, public saving S^pub, and national saving S^nat. Provide sign results and intuition (no need for full algebra).

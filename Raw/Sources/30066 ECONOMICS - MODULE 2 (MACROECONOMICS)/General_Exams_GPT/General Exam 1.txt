@@ -1,0 +1,31 @@
+General Exam 1
+
+Time: 90 minutes   |   Closed book   |   Answer all questions
+
+Q1. IS–LM coordination (closed economy, prices fixed)
+In Macro-land, I = Ī (exogenous), C = c0 + c1(Y − T), G = Ḡ, T = T̄. The central bank sets i.
+Starting from equilibrium, the government raises Ḡ and T̄ by the same amount (ΔḠ = ΔT̄ > 0).
+(a) Show the effect on IS and on Y if i is kept at its initial target.
+(b) If the central bank wants to keep Y at its initial level, what open market operation is needed? Explain using the money market diagram and bond pricing logic.
+(c) How does the composition of demand (C, I, G) change between the initial and final equilibria?
+
+Q2. Private saving under fiscal–monetary mix
+Same economy as Q1. Derive the private saving function S^priv = Y − T − C. Evaluate how S^priv changes between the initial equilibrium and the final equilibrium of Q1 when the central bank offsets to keep Y constant.
+
+Q3. Money market mechanics: choosing i vs choosing M
+Two countries, Alfa and Beta, are identical except policy: Alfa’s CB chooses i; Beta’s CB fixes nominal money supply M at M̄. Individuals hold money as currency (c fraction) and deposits; banks hold a reserve ratio θ. From an initial common equilibrium, c increases permanently.
+(a) What happens to the money multiplier and to M given base H if the CB does nothing?
+(b) Explain the CB reaction needed in each regime (Alfa, Beta) to keep the same market outcome as initially (same i in Alfa; same M in Beta).
+(c) Conclude whether i changes in either country.
+
+Q4. Medium-run natural rate and policy mix (IS–LM–PC with flexible prices)
+In WS–PS, a fall in firms’ markup m raises Yn. At the same time, net taxes T̄ rise permanently.
+(a) Track the effects on the IS–LM–PC diagram: which curves shift and why?
+(b) Define the natural real interest rate r* (Wicksellian). Compared to the initial medium-run equilibrium, does r* rise, fall, or stay the same? Explain the intuition.
+(c) Compare the composition of demand at the new medium run equilibrium to the initial one (C, I, G).
+
+Q5. Debt dynamics (numbers)
+Assume g = 1% (0.01) and real interest rate r = 6% (0.06). At time t, the debt ratio bt = B_t / Y_t = 1.20 (120%) and the primary balance-to-GDP is pb_t = (T_t − G_t^prim)/Y_t = −0.03 (a 3% primary deficit).
+(a) Compute b_{t+1} from b_{t+1} = (1 + r − g) b_t − pb_t.
+(b) Find the growth rate ĝ that stabilizes b at 120% next period for the given r and pb_t.
+(c) Give one fiscal and one growth policy lever that could achieve stabilization in practice and discuss trade‑offs briefly.

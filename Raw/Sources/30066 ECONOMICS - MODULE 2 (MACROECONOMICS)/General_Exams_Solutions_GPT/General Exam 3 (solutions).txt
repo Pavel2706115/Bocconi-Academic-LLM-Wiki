@@ -1,0 +1,20 @@
+General Exam 3 (Solutions)
+
+Q1. r + x with output stabilized
+IS depends on r + x. Shocks: x↑ (tightens credit) and Ḡ↓ (reduces demand). To keep Y unchanged, the CB must cut r. Since both shocks are contractionary, r must fall by more than the rise in x due to the G cut as well. Result: the borrowing rate r + x FALLS (despite x↑) when the CB aggressively cuts r to offset both shocks. Intuition: hold Y constant → restore original IS intersection → r must move to neutralize x and G shifts; net r + x declines.
+
+Q2. Debt steady state
+(a) b_{t+1} = (1 + r − g) b_t − pb_t. A constant‑b steady state requires b* = −pb/(g − r) (provided g ≠ r). Signs: if pb < 0 (deficit) and g > r, b* > 0; if r > g, a deficit implies no finite positive b* (debt explodes unless pb becomes ≥ 0).
+(b) pb = −0.02, r = 0.03, g = 0.015 ⇒ g − r = −0.015 < 0. Then b* = −(−0.02)/(−0.015) = 0.02/(−0.015) = −1.333… (not meaningful). With r > g and a primary deficit, no finite sustainable b*. To get b* ≤ 0.60, need either pb ≥ (r − g) b* = 0.015*0.60 = 0.009 (i.e., 0.9% primary surplus), or lower r − g via higher g or lower r.
+(c) Snowball: when r > g, interest accumulation outpaces growth, so even with zero primary deficit, debt/GDP tends to rise; when r < g, growth dilutes debt.
+
+Q3. UIP
+(1 + 0.03) = (1 + 0.05) (E^e/E_t) ⇒ E_t = (1.05/1.03) E^e = (1.05/1.03)*1.30 ≈ 1.32524 $/€. Since E^e > E_t* (actually E^e/E_t ≈ 0.98095 < 1), the euro is expected to DEPRECIATE (E rises from today to next year). (Recall: higher E = more $ per € = € appreciation; here E^e < E_t? Compute precisely: E^e = 1.30, E_t ≈ 1.325 → E is expected to FALL to 1.30 → that is a euro DEPRECIATION is NOT expected; careful: moving from 1.325 to 1.30 is a euro APPRECIATION (fewer $ per €). Check UIP sign carefully: with i < i*, expected appreciation of the euro must offset lower interest: indeed i − i* ≈ −2% ≈ expected appreciation; so the euro is expected to APPRECIATE by ≈ 1.9%. Correct statement: E_t > E^e ⇒ expected APPRECIATION of the euro.)
+
+Q4. ML and J‑curve
+(a) Marshall–Lerner: the sum of absolute values of the long‑run price elasticities of export demand and import demand exceeds 1 ⇒ a real depreciation improves the trade balance in the long run. J‑curve: after a depreciation, the trade balance may initially worsen (prices dominate quantities in existing contracts) but improves over time as quantities adjust.
+(b) On impact: import prices in domestic currency rise; quantities adjust slowly ⇒ NX can worsen. Over time: quantities respond (exports ↑, imports ↓); with ML satisfied, NX improves.
+
+Q5. Ricardian equivalence
+(a) Intertemporal budget for consumer with r = 0: PV income unchanged when ΔT_t = −100, ΔT_{t+1} = +100. Optimal smoothing ⇒ ΔC_t = ΔC_{t+1} = 0; the tax cut is saved today to pay the future hike: ΔS_t = +100.
+(b) With liquidity‑constrained consumers, some cannot borrow to smooth; a current tax cut relaxes the constraint, so ΔC_t > 0 for them. Aggregate demand rises today even though Ricardian consumers would save it. Magnitude depends on the share of constrained agents and their MPC out of current income.
