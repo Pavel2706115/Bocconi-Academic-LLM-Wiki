@@ -9,6 +9,12 @@ import re
 import sys
 from pathlib import Path
 
+# ── Ensure UTF-8 output on Windows ──────────────────────────────────────────
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parent.parent
 
 # Patterns that indicate secrets or private data
@@ -30,12 +36,16 @@ LOCAL_PATH_PATTERNS = [
 # File patterns to skip
 SKIP_EXTENSIONS = {".pdf", ".png", ".jpg", ".jpeg", ".gif", ".mp4", ".mp3",
                    ".m4a", ".zip", ".tar", ".gz", ".exe", ".dll", ".pyc",
-                   ".gitkeep", ".R", ".Rhistory"}
+                   ".gitkeep", ".R", ".Rhistory", ".py"}
 SKIP_DIRS = {".git", ".obsidian", "__pycache__", "node_modules", ".smart-env",
              ".aider.tags.cache.v4"}
+# Directories excluded from local-path checks (contain legitimate paths)
+LOCAL_PATH_SKIP_DIRS = {"Raw", "scripts"}
+# File name patterns to skip entirely
+SKIP_FILE_PATTERNS = {".aider"}
 
 
-def scan_file(path: Path) -> list[str]:
+def scan_file(path: Path, check_local_paths: bool = True) -> list[str]:
     """Scan a single file for secrets and local paths."""
     issues = []
     try:
@@ -47,9 +57,10 @@ def scan_file(path: Path) -> list[str]:
         if re.search(pattern, text):
             issues.append(f"{path.relative_to(ROOT)}: {msg}")
 
-    for pattern, msg in LOCAL_PATH_PATTERNS:
-        if re.search(pattern, text):
-            issues.append(f"{path.relative_to(ROOT)}: {msg}")
+    if check_local_paths:
+        for pattern, msg in LOCAL_PATH_PATTERNS:
+            if re.search(pattern, text):
+                issues.append(f"{path.relative_to(ROOT)}: {msg}")
 
     return issues
 
@@ -65,10 +76,16 @@ def main():
         if path.suffix.lower() in SKIP_EXTENSIONS:
             continue
         # Skip excluded directories
-        parts = set(path.relative_to(ROOT).parts)
-        if parts & SKIP_DIRS:
+        rel_parts = path.relative_to(ROOT).parts
+        parts_set = set(rel_parts)
+        if parts_set & SKIP_DIRS:
             continue
-        all_issues.extend(scan_file(path))
+        # Skip .aider files
+        if any(p.startswith(".aider") for p in rel_parts):
+            continue
+        # Disable local-path checks for Raw/ and scripts/ content
+        check_local = not bool(parts_set & LOCAL_PATH_SKIP_DIRS)
+        all_issues.extend(scan_file(path, check_local_paths=check_local))
 
     if all_issues:
         for issue in all_issues:

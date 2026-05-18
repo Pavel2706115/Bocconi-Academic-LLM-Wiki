@@ -14,6 +14,12 @@ import sys
 from datetime import date
 from pathlib import Path
 
+# ── Ensure UTF-8 output on Windows ──────────────────────────────────────────
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 # ── Paths ────────────────────────────────────────────────────────────────────
 ROOT = Path(__file__).resolve().parent.parent
 RAW_SOURCES = ROOT / "Raw" / "Sources"
