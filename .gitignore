@@ -1,0 +1,15 @@
+.DS_Store
+.obsidian/workspace*.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/logs/
+Raw/Files/*
+!Raw/Files/.gitkeep
+Drafts/
+.smart-env/
+__pycache__/
+.aider*
+.aider.tags.cache.v4/
+*.pyc
+.849C9593-D756-4E56-8D6E-42412F2A707B
+desktop.ini
