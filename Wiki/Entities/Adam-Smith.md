@@ -14,7 +14,6 @@ source_count: 2
 aliases:
   - "Father of Economics"
 ---
-
 # Adam Smith
 
 ## Overview
