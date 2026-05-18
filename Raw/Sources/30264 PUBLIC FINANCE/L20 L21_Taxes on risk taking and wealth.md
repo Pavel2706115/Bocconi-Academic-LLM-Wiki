@@ -1,161 +1,114 @@
-**==> picture [58 x 208] intentionally omitted <==**
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "L20 L21_Taxes on risk taking and wealth"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Public Finance BIEM – Spring 2026 Taxes on Risk Taking and Wealth (Ch.23)** 
+**Public Finance BIEM – Spring 2026 Taxes on Risk Taking and Wealth (Ch.23)**
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Taxes on Risk Taking and Wealth
 
-1 
+## Capital income taxation affects:
 
-## Taxes on Risk Taking and Wealth 
+- how individuals take risk
 
-**==> picture [58 x 208] intentionally omitted <==**
+- how they realize and report capital gains
 
-## Capital income taxation affects: 
+- how wealth is transferred
 
-- how individuals take risk 
+- how property is taxed
 
-- how they realize and report capital gains 
+## Motivation: Why Tax Capital Income?
 
-- how wealth is transferred 
+## Governments tax not only labor income, but also:
 
-- how property is taxed 
+- returns on savings
 
-**==> picture [86 x 105] intentionally omitted <==**
+- capital gains
 
-2 
+- wealth transfers
 
-## Motivation: Why Tax Capital Income? 
+- property values
 
-## Governments tax not only labor income, but also: 
+These taxes shape decisions about saving, investing, taking risks, selling assets, and transferring wealth.
 
-**==> picture [58 x 208] intentionally omitted <==**
+They also play a major role in distributional outcomes.
 
-- returns on savings 
+## Introduction (1)
 
-- capital gains 
+In this chapter, we focus on two aspects of taxation that might affect the savings decisions of taxpayers, other than government policies that directly alter the rate of return to savings.
 
-- wealth transfers 
+The first is the taxation of risk taking. Individuals decide not only how much to save but also what form their savings will take.
 
-- property values 
+- A particular tax policy that might affect risk taking is the taxation of capital gains, the earnings realized on the sale of capital assets.
 
-These taxes shape decisions about saving, investing, taking risks, selling assets, and transferring wealth. 
+## Introduction (2)
 
-**==> picture [86 x 105] intentionally omitted <==**
+Second, individuals can also be taxed not only on the return from their savings in each period but also on the amount of wealth they have accumulated through past savings.
 
-They also play a major role in distributional outcomes. 
+- One form of wealth tax is transfer taxes, a set of taxes on gifts from one party to another, including the contentious estate tax.
 
-3 
+- A second form of wealth tax is the property tax. Because the major source of savings for most people is their homes, property taxation can significantly affect the level of savings as well.
 
-## Introduction (1) 
+## Basic Financial Investment Model
 
-**==> picture [58 x 208] intentionally omitted <==**
+How do taxes on risk taking affect behavior?
 
-In this chapter, we focus on two aspects of taxation that might affect the savings decisions of taxpayers, other than government policies that directly alter the rate of return to savings. 
+Taxing gains and deducting losses increase risk taking because any tax on returns can be completely undone by taking more risk.
 
-The first is the taxation of risk taking. Individuals decide not only how much to save but also what form their savings will take. 
+- Consider a $100 investment opportunity that pays out $120 half the time and $80 half the time. This has an expected return of zero.
 
-▪ A particular tax policy that might affect risk taking is the taxation of capital gains, the earnings realized on the sale of capital assets. 
+- Expected return: The return to a successful investment times the odds of success, plus the return to an unsuccessful investment times the odds of failure.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Some Taxes on Risk Taking Can Be Undone
 
-4 
+## Table 23-1
 
-## Introduction (2) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Second, individuals can also be taxed not only on the return from their savings in each period but also on the amount of wealth they have accumulated through past savings. 
-
-- One form of wealth tax is transfer taxes, a set of taxes on gifts from one party to another, including the contentious estate tax. 
-
-▪ A second form of wealth tax is the property tax. Because the major source of savings for most people is their homes, property taxation can significantly affect the level of savings as well. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-5 
-
-## Basic Financial Investment Model 
-
-How do taxes on risk taking affect behavior? 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Taxing gains and deducting losses increase risk taking because any tax on returns can be completely undone by taking more risk. 
-
-- Consider a $100 investment opportunity that pays out $120 half the time and $80 half the time. This has an expected return of zero. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-▪ Expected return: The return to a successful investment times the odds of success, plus the return to an unsuccessful investment times the odds of failure. 
-
-6 
-
-## Some Taxes on Risk Taking Can Be Undone 
-
-## Table 23-1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-|**Policy**|**Investment**|**Payoff if**<br>**Win**|**Payoff if**<br>**Lose**|**Tax Rate if**<br>**Win**|**Tax Deduction if**<br>**Lose**|**After-Tax**<br>**Winnings**|**After-Tax**<br>**Loss**|
+|**Policy**|**Investment**|**Payoff ifLoss**|
 |---|---|---|---|---|---|---|---|
 |(1)  No tax|$100|$20|−$20|0|0|$20|−$20|
 |(2)  Tax|$100|$20|−$20|50%|50%|$10|−$10|
 |(3)  Loss offset|$200|$40|−$40|50%|50%|$20|−$20|
 
+- In row 1, Betsey makes a $100 investment that yields $20 if the investment is successful and − $20 if the investment fails.
 
+- In row 2, the government imposes a 50% tax on her investment, so that Betsey now earns only $10 if successful and loses $10 if the investment fails.
 
-- In row 1, Betsey makes a $100 investment that yields $20 if the investment is successful and − $20 if the investment fails. 
+- Betsey can undo the government’s actions, as in row 3, by doubling her investment to $200, leaving her with the same returns as in row 1, so that taxation has increased risk taking.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Real-World Complications: Less-Than-Full Tax Offset (1)
 
-- In row 2, the government imposes a 50% tax on her investment, so that Betsey now earns only $10 if successful and loses $10 if the investment fails. 
+- Tax loss offset: The extent to which taxpayers can deduct net losses on investments from their taxable income.
 
-- Betsey can undo the government’s actions, as in row 3, by doubling her investment to $200, leaving her with the same returns as in row 1, so that taxation has increased risk taking. 
+- A taxpayer cannot simply undo government taxation by making increasingly risky investments because the losses from these investments will not be fully deductible from taxation.
 
-7 
+## Real-World Complications: Less-Than-Full Tax Offset (2)
 
-## Real-World Complications: Less-Than-Full Tax Offset (1) 
+## Table 23-1
 
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Tax loss offset: The extent to which taxpayers can deduct net losses on investments from their taxable income. 
-
-- A taxpayer cannot simply undo government taxation by making increasingly risky investments because the losses from these investments will not be fully deductible from taxation. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-8 
-
-## Real-World Complications: Less-Than-Full Tax Offset (2) 
-
-## Table 23-1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-|**Policy**|**Investment**|**Payoff if**<br>**Win**|**Payoff if**<br>**Lose**|**Tax Rate if**<br>**Win**|**Tax Deduction if**<br>**Lose**|**After-Tax**<br>**Winnings**|**After-Tax**<br>**Loss**|
+|**Policy**|**Investment**|**Payoff ifLoss**|
 |---|---|---|---|---|---|---|---|
 |(1)  No tax|$100|$20|−$20|0|0|$20|−$20|
 |(2)  Tax|$100|$20|−$20|50%|50%|$10|−$10|
 |(3)  Loss offset|$200|$40|−$40|50%|50%|$20|−$20|
 |(4)  No loss offset|$200|$40|−$40|50%|0|$20|−$40|
 
+- If the government does not allow individuals to deduct investment losses, as in row 4, then Betsey cannot undo government tax policy by investing more.
 
+- Investing $200 means that she has a 50% chance of earning $40, which is $20 after tax, and a 50% chance of losing $40. Thus, she cannot offset the tax policy by raising her investment.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Real-World Complications: Less-Than-Full Tax Offset (3)
 
-• If the government does not allow individuals to deduct investment losses, as in row 4, then Betsey cannot undo government tax policy by investing more. 
+- Table 23 1
 
-• Investing $200 means that she has a 50% chance of earning $40, which is $20 after tax, and a 50% chance of losing $40. Thus, she cannot offset the tax policy by raising her investment. 
-
-9 
-
-## Real-World Complications: Less-Than-Full Tax Offset (3) 
-
-## - Table 23 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-|**Policy**|**Investment**|**Payoff if**<br>**Win**|**Payoff if**<br>**Lose**|**Tax Rate if**<br>**Win**|**Tax Deduction if**<br>**Lose**|**After-Tax**<br>**Winnings**|**After-Tax**<br>**Loss**|
+|**Policy**|**Investment**|**Payoff ifLoss**|
 |---|---|---|---|---|---|---|---|
 |(1)  No tax|$100|$20|−$20|0|0|$20|−$20|
 |(2)  Tax|$100|$20|−$20|50%|50%|$10|−$10|
@@ -163,255 +116,164 @@ Taxing gains and deducting losses increase risk taking because any tax on return
 |(4)  No loss offset|$200|$40|−$40|50%|0|$20|−$40|
 |(5)  Progressive tax|$200|$40|−$40|75%|50%|$15|−$20|
 
+- Suppose that, as in row 5, the government imposes a 50% tax rate on income up to $20 and 75% on income above $20. The government allows any losses to be deducted from taxable income at the 50% rate.
 
+- In this case, her potential winnings have a higher tax rate than her potential .
 
-**==> picture [86 x 105] intentionally omitted <==**
+- losses, so her potential winnings ($15) are less than her potential loss ($20)
 
-- Suppose that, as in row 5, the government imposes a 50% tax rate on income up to $20 and 75% on income above $20. The government allows any losses to be deducted from taxable income at the 50% rate. 
+## Real-World: Less Than Full Loss Offset
 
-- In this case, her potential winnings have a higher tax rate than her potential . 
+Reality: losses are only partially deductible.
 
-- losses, so her potential winnings ($15) are less than her potential loss ($20) 
+Consequences:
 
-10 
+- Investor cannot simply scale up the gamble.
 
-## Real-World: Less Than Full Loss Offset 
+- Asymmetric taxation of gains and losses reduces risk-taking relative to the full-offset case.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Progressive Taxation and Risk Taking
 
-Reality: losses are only partially deductible. 
+Tax systems are typically progressive, with higher marginal tax rates as income rises.
 
-Consequences: 
+With progressive income taxation:
 
-- Investor cannot simply scale up the gamble. 
+- **Winning** investments may push an investor into a higher tax bracket → gains taxed at higher rates
 
-- Asymmetric taxation of gains and losses reduces risk-taking relative to the full-offset case. 
+- **Losing** investments reduce taxable income but often at lower marginal rates→ losses deducted at lower rates
 
-**==> picture [86 x 105] intentionally omitted <==**
+This asymmetry reduces the after-tax expected return to risky investment.
 
-11 
+## Evidence on Taxation and Risk Taking
 
-## Progressive Taxation and Risk Taking 
+- Due to complications such as progressive tax schemes and lessthan-full tax offset, there is no clear prediction about how taxation will affect risk taking in the real world.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- What effect taxes have on risk taking is an empirical question.
 
-Tax systems are typically progressive, with higher marginal tax rates as income rises. 
+- Unfortunately, there is very little evidence in this area.
 
-With progressive income taxation: 
+## Empirical Evidence on Risk Taking
 
-- **Winning** investments may push an investor into a higher tax bracket → gains taxed at higher rates 
+## T heoretical predictions are ambiguous due to:
 
-- **Losing** investments reduce taxable income but often at lower marginal rates→ losses deducted at lower rates 
+- incomplete loss offset
 
-**==> picture [86 x 105] intentionally omitted <==**
+- progressive tax systems
 
-This asymmetry reduces the after-tax expected return to risky investment. 
+- treatment of realized vs unrealized losses
 
-12 
+## Evidence:
 
-## Evidence on Taxation and Risk Taking 
+- Surprisingly little empirical work
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Existing studies suggest **modest** effects of taxation on risktaking
 
-- Due to complications such as progressive tax schemes and lessthan-full tax offset, there is no clear prediction about how taxation will affect risk taking in the real world. 
+- Effects depend heavily on details of tax code design
 
-- What effect taxes have on risk taking is an empirical question. 
+## Taxation and Risk Taking: Labor Investment Applications
 
-- Unfortunately, there is very little evidence in this area. 
+- Education is a risky investment.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Each year of schooling increases earnings by about 7% on average, but the actual returns vary.
 
-13 
+- Labor taxes affect the after-tax return to education.
 
-## Empirical Evidence on Risk Taking 
+- Theoretically, higher taxation should increase investment in human capital, so that individuals can preserve the desired amount of net expected investment return.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Progressive income taxes may discourage investment in education.
 
-## T heoretical predictions are ambiguous due to: 
+- Thus, the net impact of income taxation on human capital investments is ambiguous.
 
-- incomplete loss offset 
+## What Are Capital Gains?
 
-- progressive tax systems 
+Capital gain: Difference between an asset’s purchase price and its sale price.
 
-- treatment of realized vs unrealized losses 
+Example: Buy stock at €100 Sell at €140 → Capital gain = €40 Key distinction: **Interest income is taxed on accrual** Capital gains are **taxed on realization** (when the asset is sold).
 
-## **Evidence:** 
+## Accrual vs. Realization
 
-- Surprisingly little empirical work 
+**Taxation on accrual:** Pay taxes each period on the return earned in that period. → clean, theoretically efficient, but harder to implement.
 
-- Existing studies suggest **modest** effects of taxation on risktaking 
+**Taxation on realization (current system):** Pay taxes only when selling the asset. → creates timing incentives and strategic behavior.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Lock-In Effect
 
-- Effects depend heavily on details of tax code design 
+Capital gains taxes create an incentive to **delay selling** appreciated assets.
 
-14 
+## Why?
 
-## Taxation and Risk Taking: Labor Investment Applications 
+Tax is paid upon realization, so delaying payment increases the **present value** of after-tax returns.
 
-- Education is a risky investment. 
+Consequences:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Reduced market liquidity
 
-- Each year of schooling increases earnings by about 7% on average, but the actual returns vary. 
+- Inefficient allocation (people hold assets too long)
 
-- Labor taxes affect the after-tax return to education. 
+- Tax preferences distort portfolio decisions
 
-   - Theoretically, higher taxation should increase investment in human capital, so that individuals can preserve the desired amount of net expected investment return. 
+## Arguments for Lower Capital Gains Taxes
 
-- Progressive income taxes may discourage investment in education. 
+**1. Protects against inflation**
 
-**==> picture [86 x 105] intentionally omitted <==**
+`o` Nominal gains include inflation `o` Without indexation, real gains are overstated
 
-- Thus, the net impact of income taxation on human capital investments is ambiguous. 
+**2. Improves efficiency of capital transactions** `o` Reduces lock-in `o` Encourages rebalancing
 
-15 
+**3. Encourages entrepreneurship**
 
-## What Are Capital Gains? 
+`o` Many entrepreneurial returns appear as capital gains `o` But Gruber notes: preferences are a _very blunt tool_
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Arguments Against Preferences
 
-Capital gain: Difference between an asset’s purchase price and its sale price. 
+**1. Violates Haig–Simons** Equivalent economic income should be taxed the same. **2. Benefits are regressive** Capital gains overwhelmingly accrue to top income/wealth groups.
 
-Example: Buy stock at €100 Sell at €140 → Capital gain = €40 Key distinction: **Interest income is taxed on accrual** Capital gains are **taxed on realization** (when the asset is sold). 
+**3. Encourages tax planning** Shifting income to capital gains Using carried interest loopholes Re-labeling labor income
 
-**==> picture [86 x 105] intentionally omitted <==**
+**4. Large revenue loss with limited new investment** Much of the benefit goes to past gains, not new activity.
 
-16 
+## Evidence on Taxation and Capital Gains 1
 
-## Accrual vs. Realization 
+How does the capital gains tax rate affect capital gains realizations and thus capital gains tax revenue?
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Key question in determining how capital gains should be taxed.
 
-**Taxation on accrual:** Pay taxes each period on the return earned in that period. → clean, theoretically efficient, but harder to implement. 
+- In 1986, a capital gains tax increase was announced, to go into effect in 1987 in the US.
 
-**Taxation on realization (current system):** Pay taxes only when selling the asset. → creates timing incentives and strategic behavior. 
+- Capital gains realizations spiked in 1986 . . .
 
-**==> picture [86 x 105] intentionally omitted <==**
+- but fell back to near their 1985 levels in 1987.
 
-17 
+- The tax hike did not have a large long-run effect on tax revenues.
 
-## Lock-In Effect 
+## Evidence on Taxation and Capital Gains 2
 
-**==> picture [58 x 208] intentionally omitted <==**
+Figure 23-1
 
-Capital gains taxes create an incentive to **delay selling** appreciated assets. 
+There is a clear effect of tax changes on capital gains realizations. Realizations peaked in 1986 in anticipation of the increase in capital gains tax rates scheduled for 1987. Realizations peaked again during the stock market booms of the past decade. 22
 
-## Why? 
+## Evidence on Taxation and Capital Gains 3
 
-Tax is paid upon realization, so delaying payment increases the **present value** of after-tax returns. 
+Figure 23-1
 
-Consequences: 
+The figure (Agersnap and Zidar, 2020) shows the relationship between the “event time,” which is set at zero at the point at which states change their capital gains taxation, and the “net of tax” rate (one minus the tax rate). The figure demonstrates that capital gains realizations respond to tax changes. However, their calculations suggest a long run elasticity of capital gains with respect to the tax rate of −0.3 to −0.5, fairly inelastic. The authors conclude that increasing the capital gains tax 23 rate would lead to net increases in revenue.
+*(See also: [[L13_Introduction to taxes#^uztala]])*
 
-- Reduced market liquidity 
+## Transfer Taxation
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Transfer taxes are an important type of capital tax.
 
-- Inefficient allocation (people hold assets too long) 
+- Transfer tax: A tax levied on the transfer of assets from one individual to another.
 
-- Tax preferences distort portfolio decisions 
+- Gift tax: A tax levied on assets that one individual gives to another in the form of a gift.
 
-18 
+- Estate tax: A tax levied on the assets of the deceased that are bequeathed to others.
 
-## Arguments for Lower Capital Gains Taxes 
+## Transfer and Wealth Taxes (% of Government Revenue)
 
-**==> picture [58 x 208] intentionally omitted <==**
+## The use of transfer taxes and wealth taxes varies widely around the world. Table 23-2
 
-**1. Protects against inflation** 
-
-`o` Nominal gains include inflation `o` Without indexation, real gains are overstated 
-
-**2. Improves efficiency of capital transactions** `o` Reduces lock-in `o` Encourages rebalancing 
-
-**3. Encourages entrepreneurship** 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-`o` Many entrepreneurial returns appear as capital gains `o` But Gruber notes: preferences are a _very blunt tool_ 
-
-19 
-
-## Arguments Against Preferences 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**1. Violates Haig–Simons** Equivalent economic income should be taxed the same. **2. Benefits are regressive** Capital gains overwhelmingly accrue to top income/wealth groups. 
-
-**3. Encourages tax planning** Shifting income to capital gains Using carried interest loopholes Re-labeling labor income 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**4. Large revenue loss with limited new investment** Much of the benefit goes to past gains, not new activity. 
-
-20 
-
-## Evidence on Taxation and Capital Gains 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-How does the capital gains tax rate affect capital gains realizations and thus capital gains tax revenue? 
-
-- Key question in determining how capital gains should be taxed. 
-
-- In 1986, a capital gains tax increase was announced, to go into effect in 1987 in the US. 
-
-- Capital gains realizations spiked in 1986 . . . 
-
-- but fell back to near their 1985 levels in 1987. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- The tax hike did not have a large long-run effect on tax revenues. 
-
-21 
-
-## Evidence on Taxation and Capital Gains 2 
-
-Figure 23-1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [605 x 310] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-There is a clear effect of tax changes on capital gains realizations. Realizations peaked in 1986 in anticipation of the increase in capital gains tax rates scheduled for 1987. Realizations peaked again during the stock market booms of the past decade. 22 
-
-## Evidence on Taxation and Capital Gains 3 
-
-Figure 23-1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [523 x 307] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-The figure (Agersnap and Zidar, 2020) shows the relationship between the “event time,” which is set at zero at the point at which states change their capital gains taxation, and the “net of tax” rate (one minus the tax rate). The figure demonstrates that capital gains realizations respond to tax changes. However, their calculations suggest a long run elasticity of capital gains with respect to the tax rate of −0.3 to −0.5, fairly inelastic. The authors conclude that increasing the capital gains tax 23 rate would lead to net increases in revenue. 
-
-## Transfer Taxation 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## Transfer taxes are an important type of capital tax. 
-
-- Transfer tax: A tax levied on the transfer of assets from one individual to another. 
-
-- Gift tax: A tax levied on assets that one individual gives to another in the form of a gift. 
-
-- Estate tax: A tax levied on the assets of the deceased that are bequeathed to others. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-24 
-
-## Transfer and Wealth Taxes (% of Government Revenue) 
-
-## The use of transfer taxes and wealth taxes varies widely around the world. Table 23-2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-||**Transfer Taxes**|**Wealth Taxes**|**Transfer and Wealth Taxes**|
+|**Transfer Taxes**|**Wealth Taxes**|**Transfer and Wealth Taxes**|
 |---|---|---|---|
 |Australia|0.0%|0.0%|0.0%|
 |Canada|0.0|0.1|0.1|
@@ -424,443 +286,303 @@ The figure (Agersnap and Zidar, 2020) shows the relationship between the “even
 |Switzerland|0.6|4.7|5.3|
 |United Kingdom|0.7|0.0|0.7|
 |United States|0.5|0.0|0.5|
-|**OECD average**|25<br>**0.3**|**0.5**|**0.8**|
+|**OECD average**|25 **0.3**|**0.5**|**0.8**|
 
+## Why Tax Wealth? Arguments for the Estate Tax
 
+## Why tax wealth rather than income?
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Extremely progressive means of raising revenue.
 
-## Why Tax Wealth? Arguments for the Estate Tax 
+- Necessary to avoid the excessive concentration of wealth and power in a few wealthy dynasties.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Allowing children of wealthy families to inherit all their parents’ wealth saps them of all motivation to work hard and achieve their own success.
 
-## Why tax wealth rather than income? 
+## Arguments Against the Estate Tax 1
 
-- Extremely progressive means of raising revenue. 
+Why not tax wealth?
 
-- Necessary to avoid the excessive concentration of wealth and power in a few wealthy dynasties. 
+- A “death tax” is cruel: It is morally inappropriate to tax individuals upon their death.
 
-- Allowing children of wealthy families to inherit all their parents’ wealth saps them of all motivation to work hard and achieve their own success. 
+- However, death is neither a necessary nor a sufficient condition to trigger transfer taxes:
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Transfers between living persons can trigger gift taxes.
 
-26 
+- 98% of those who die pay no estate tax.
 
-## Arguments Against the Estate Tax 1 
+- The estate tax amounts to double taxation: You are taxed on income when you earn it, and then your children are taxed on it again when you die.
 
-Why not tax wealth? 
+- This is common; sales tax also amounts to double taxation.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Does not necessarily reduce savings.
 
-- A “death tax” is cruel: It is morally inappropriate to tax individuals upon their death. 
+## Arguments Against the Estate Tax 2
 
-   - However, death is neither a necessary nor a sufficient condition to trigger transfer taxes: 
+- Administrative difficulties: To afford the tax, you may be forced to sell the asset.
 
-      - Transfers between living persons can trigger gift taxes. 
+- While this is an issue in theory, it is not clear that it is a major issue in practice.
 
-      - 98% of those who die pay no estate tax. 
+- Compliance and fairness: Only those too unsophisticated to avoid the tax end up paying it.
 
-- The estate tax amounts to double taxation: You are taxed on income when you earn it, and then your children are taxed on it again when you die. 
+- There are enough loopholes, such as trust funds, that some refer to the estate tax as a “voluntary tax.”
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Example: Who Pays the Estate Tax?
 
-- This is common; sales tax also amounts to double taxation. 
+- ~top of the wealth distribution
 
-- Does not necessarily reduce savings. 
+- ~98% of estates owe no estate tax.
 
-27 
+- Liability is concentrated in the top of the wealth distribution.
 
-## Arguments Against the Estate Tax 2 
+This explains why the estate tax is politically salient despite affecting few taxpayers.
 
-**==> picture [58 x 208] intentionally omitted <==**
+Takeaway: Estate tax is **highly progressive** , but politically unpopular.
 
-- Administrative difficulties: To afford the tax, you may be forced to sell the asset. 
+## Property Taxation
 
-   - While this is an issue in theory, it is not clear that it is a major issue in practice. 
+- Property taxation is the major source of revenue for local governments.
 
-- Compliance and fairness: Only those too unsophisticated to avoid the tax end up paying it. 
+- Property tax: A tax levied on the value of real estate, including the value of land and any structures built on it.
 
-   - There are enough loopholes, such as trust funds, that some refer to the estate tax as a “voluntary tax.” 
+- Tax burden based on assessed property value, but homeowners pay taxes only on the assessment ratio.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Assessment ratios vary widely across the world.
 
-28 
+## Types of Property Taxation
 
-## Example: Who Pays the Estate Tax? 
+Two important distinctions in levying property taxes:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- 1.Residential homes versus businesses
 
-- ~top of the wealth distribution 
+`o` Some argue that to encourage economic development, business property taxes should be lower than residential property taxes.
 
-- ~98% of estates owe no estate tax. 
+- 2.Land versus improvements
 
-- Liability is concentrated in the top of the wealth distribution. 
+`o` Land is in inelastic supply, so it should be taxed. `o` Hard to separate land value from structure value, so structures and land are both taxed in practice.
 
-This explains why the estate tax is politically salient despite affecting few taxpayers. 
+## Property Tax Breaks: Examples
 
-**==> picture [86 x 105] intentionally omitted <==**
+States frequently offer preferential tax treatment to businesses.
 
-Takeaway: Estate tax is **highly progressive** , but politically unpopular. 
+- Examples from Gruber:
 
-29 
+- Washington offered Boeing an $8.7B tax break
 
-## Property Taxation 
+- New York offered Alcoa $5.6B
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Wisconsin subsidized Foxconn heavily
 
-- Property taxation is the major source of revenue for local governments. 
+Local benefit: higher employment and property values National outcome: zero net gain — just **state-level competition**
 
-   - Property tax: A tax levied on the value of real estate, including the value of land and any structures built on it. 
+## Wealth Concentration: Long-Run Trends (Saez & Zucman)
 
-- Tax burden based on assessed property value, but homeowners pay taxes only on the assessment ratio. 
+Modern research documents a strong rise in wealth concentration:
 
-- Assessment ratios vary widely across the world. 
+- Top 1% wealth share has increased significantly since the 1980s
 
-**==> picture [86 x 105] intentionally omitted <==**
+- - Top 0.1% share has risen even faster
 
-30 
+- Driven by capital income accruing disproportionately to highwealth households
 
-## Types of Property Taxation 
+- Wealth grows faster than income for rich households (r > g)
 
-**==> picture [58 x 208] intentionally omitted <==**
+**Implication:** Capital taxation debates today are inseparable from the distribution of wealth.
 
-Two important distinctions in levying property taxes: 
+Source: Saez & Zucman (2019);
+- Saez & Zucman (2016);
+- WID.world (2022);
+- OECD (2018).
 
-- 1.Residential homes versus businesses 
+Source: Saez & Zucman (2019);
+- Saez & Zucman (2016);
+- WID.world (2022);
+- OECD (2018).
 
-`o` Some argue that to encourage economic development, business property taxes should be lower than residential property taxes. 
+## How Countries Tax Wealth
 
-- 2.Land versus improvements 
+Cross-country variation:
 
-`o` Land is in inelastic supply, so it should be taxed. `o` Hard to separate land value from structure value, so structures and land are both taxed in practice. 
+- **Net wealth taxes** still exist in a few countries (e.g., Spain, Norway). Several major European countries abolished them (France, Denmark, Sweden) due to administrative and avoidance concerns ^6sqqql
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **Estate/inheritance taxes** remain common but with very different rates and exemptions
 
-31 
+- Wealth taxation often complements capital income taxation, not replaces it
 
-## Property Tax Breaks: Examples 
+## Key point:
 
-States frequently offer preferential tax treatment to businesses. 
+The world has shifted from annual wealth taxes and _toward away_ inheritance taxation + capital gains taxation.
 
-**==> picture [58 x 208] intentionally omitted <==**
+Source: Saez & Zucman (2019);
+- Saez & Zucman (2016);
+- WID.world (2022);
+- OECD (2018).
 
-- Examples from Gruber: 
+## Efficiency vs Equity in Wealth Taxation
 
-- Washington offered Boeing an $8.7B tax break 
+Saez’s framework highlights two central trade-offs: **Equity:**
 
-- New York offered Alcoa $5.6B 
+- Wealth is more concentrated than income
 
-- Wisconsin subsidized Foxconn heavily 
+- Capital income grows faster for high-wealth households
 
-Local benefit: higher employment and property values National outcome: zero net gain — just **state-level competition** 
+- Untaxed wealth compounds over generations → dynastic inequality
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Efficiency:
 
-32 
+- Harder to measure/track wealth than income
 
-## Wealth Concentration: Long-Run Trends (Saez & Zucman) 
+- Risk of avoidance, offshoring, valuation disputes
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Annual wealth taxes risk taxing illiquid households
 
-Modern research documents a strong rise in wealth concentration: 
+**Policy conclusion:** Wealth taxation is feasible, but administration and valuation are the main bottlenecks.
 
-- Top 1% wealth share has increased significantly since the 1980s 
+Source: Saez & Zucman (2019);
+- Saez & Zucman (2016);
+- WID.world (2022);
+- OECD (2018).
 
-- • Top 0.1% share has risen even faster 
+## Why This Matters for Capital Income Taxation
 
-- Driven by capital income accruing disproportionately to highwealth households 
+- T his chapter ties directly into the global debate:
 
-- Wealth grows faster than income for rich households (r > g) 
+- Taxing **capital gains** and **inheritance** is a practical way to tax wealth
 
-**Implication:** Capital taxation debates today are inseparable from the distribution of wealth. 
+- Preferential capital gains treatment amplifies wealth concentration
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Step-up in basis at death = large implicit tax break for the wealthy
 
-Source: Saez & Zucman (2019); Saez & Zucman (2016); WID.world (2022); OECD (2018). 
+- - Transfer taxes are progressive but politically unpopular
 
-33 
+- Many countries rely more on **capital income taxation** than wealth taxes
 
-**==> picture [58 x 208] intentionally omitted <==**
+**Big picture:** Capital taxation shapes long-run inequality more than labor taxation.
 
-**==> picture [608 x 397] intentionally omitted <==**
+Source: Saez & Zucman (2019);
+- Saez & Zucman (2016);
+- WID.world (2022);
+- OECD (2018).
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Capital Income Taxation in Italy
 
-Source: Saez & Zucman (2019); Saez & Zucman (2016); WID.world (2022); OECD (2018). 
+I taly taxes most capital income at **proportional rates** , separate from the IRPEF schedule.
 
-34 
+Main components:
 
-## How Countries Tax Wealth 
+- **Financial income** (interests, dividends, capital gains): **26%** standard rate
 
-Cross-country variation: 
+- **Government bonds (BTP, BOT)**: **12.5%** preferential rate
 
-**==> picture [58 x 208] intentionally omitted <==**
+- **Capital gains on equities**: Generally **26%** , taxed on realization
 
-- **Net wealth taxes** still exist in a few countries (e.g., Spain, Norway). Several major European countries abolished them (France, Denmark, Sweden) due to administrative and avoidance concerns 
+- **Investment funds**: Taxed at **26%** , with special rules for funds holding government securities
 
-- **Estate/inheritance taxes** remain common but with very different rates and exemptions 
+**Key point:** Italy’s capital income taxation is _simpler_ and more _flat_ than labor taxation.
 
-- Wealth taxation often complements capital income taxation, not replaces it 
+Source: OECD Revenue Statistics;
+- OECD Tax Policy Database;
+- Italian Ministry of Economy & Finance (MEF)
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Italy: Inheritance and Gift Tax
 
-## **Key point:** 
+## . Italy has **one of the lowest inheritance taxes in Europe**
 
-The world has shifted from annual wealth taxes and _toward away_ inheritance taxation + capital gains taxation. 
+International comparison:
 
-Source: Saez & Zucman (2019); Saez & Zucman (2016); WID.world (2022); OECD (2018). 
+- Italy collects **very little** from inheritance taxation
 
-35 
+- Rates and taxable bases are much lower than France, Belgium, Germany, Spain
 
-## Efficiency vs Equity in Wealth Taxation 
+- In practice, many estates pay **zero** inheritance tax
 
-**==> picture [58 x 208] intentionally omitted <==**
+**Implication:** Italy relies far less on transfer taxation than most advanced economies.
 
-Saez’s framework highlights two central trade-offs: **Equity:** 
+Source: OECD Revenue Statistics;
+- OECD Tax Policy Database;
+- Italian Ministry of Economy & Finance (MEF)
 
-- Wealth is more concentrated than income 
+## Share of population that has received an inheritance or a substantial gift, 2015
 
-- Capital income grows faster for high-wealth households 
+Source: OECD Wealth distribution database, 2018
 
-- Untaxed wealth compounds over generations → dynastic inequality 
+## Italy: Property Taxation (IMU)
 
-## **Efficiency:** 
+- Capital income tax rates vary widely across OECD countries.
 
-- Harder to measure/track wealth than income 
+- Countries with generous mandatory retirement systems show low sensitivity of saving to tax incentives.
 
-- Risk of avoidance, offshoring, valuation disputes 
+- Capital shares and wealth concentration have increased globally.
 
-- Annual wealth taxes risk taxing illiquid households 
+- Despite different tax systems, household saving rates are relatively stable across countries.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- In Italy, IMU is not paid on the primary residence, reflecting distributional and political considerations, widespread homeownership, and liquidity concerns for households whose wealth is mainly housing.
 
-**Policy conclusion:** Wealth taxation is feasible, but administration and valuation are the main bottlenecks. 
+- Overall, behavioral and institutional factors appear to matter more than tax incentives for saving decisions.
 
-Source: Saez & Zucman (2019); Saez & Zucman (2016); WID.world (2022); OECD (2018). 
+Source: OECD Revenue Statistics;
+- OECD Tax Policy Database;
+- Italian Ministry of Economy & Finance (MEF)
 
-36 
+## Recurrent taxes on immovable property as a % of local and state government's revenues, 2019
 
-## Why This Matters for Capital Income Taxation 
+Source: OECD Revenue Statistics;
+- OECD Fiscal Decentralisation Database (2021).
 
-- T his chapter ties directly into the global debate: 
+## Exercises
 
-**==> picture [58 x 208] intentionally omitted <==**
+MC 1
 
-- Taxing **capital gains** and **inheritance** is a practical way to tax wealth 
+With a proportional tax on risky returns and full loss offset, optimal risk-taking will:
 
-- Preferential capital gains treatment amplifies wealth concentration 
+a)Decrease because expected returns fall b)Remain unchanged relative to no taxation c)Increase because the government bears all risk d)Increase only if the tax rate is low
 
-- Step-up in basis at death = large implicit tax break for the wealthy 
+## MC 2
 
-- • Transfer taxes are progressive but politically unpopular 
+If losses are only partially deductible, taxing risky returns will typically:
 
-- Many countries rely more on **capital income taxation** than wealth taxes 
+a)Increase risk-taking b)Leave risk-taking unchanged c)Reduce risk-taking d)Eliminate investment risk
 
-**Big picture:** Capital taxation shapes long-run inequality more than labor taxation. 
+## MC 3
 
-**==> picture [86 x 105] intentionally omitted <==**
+What is the main efficiency cost of realization-based capital gains taxation?
 
-Source: Saez & Zucman (2019); Saez & Zucman (2016); WID.world (2022); OECD (2018). 
+a)Lower tax revenue b)Higher administrative costs c)The lock-in effect d)Reduced progressivity
 
-37 
+## MC 4
 
-## Capital Income Taxation in Italy 
+Realization-based capital gains taxation creates a lock-in effect because:
 
-I taly taxes most capital income at **proportional rates** , separate from the IRPEF schedule. 
+a) Investors face higher statutory tax rates b) Taxes are paid only when assets are sold c) Losses cannot be deducted d) Capital gains are taxed progressively
 
-**==> picture [58 x 208] intentionally omitted <==**
+MC 5
 
-Main components: 
+The economic incidence of estate taxes typically falls on:
 
-- **Financial income** (interests, dividends, capital gains): **26%** standard rate 
+a) Middle-income households b) Consumers through higher prices c) Heirs of wealthy individuals d) Workers through lower wages
 
-- **Government bonds (BTP, BOT)** : **12.5%** preferential rate 
+## True/False (please provide a justification)
 
-- **Capital gains on equities** : Generally **26%** , taxed on realization 
+1) With full loss offset taxation of risky assets necessarily discourages risk-taking.
 
-- **Investment funds** : Taxed at **26%** , with special rules for funds holding government securities 
+- 2) Realization-based capital gains taxation encourages investors to hold appreciated assets longer than is socially optimal.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- 3) Estate taxes are typically justified by both equity and efficiency considerations.
 
-**Key point:** Italy’s capital income taxation is _simpler_ and more _flat_ than labor taxation. 
+## Exercises
 
-Source: OECD Revenue Statistics; OECD Tax Policy Database; Italian Ministry of Economy & Finance (MEF) 
+## EXERCISE 1
 
-38 
+An individual can invest €1 in a risky asset. The asset yields: a return of +50% with probability ½ a return of –50% with probability ½ The government taxes capital income at rate of 30%. a) Compute the investor’s expected return before tax. b) Compute the expected return after tax under: - full loss offset - no loss offset c) In which case is risk-taking more strongly discouraged? Explain intuitively. d) Explain how this example illustrates the efficiency effects of taxing risky returns .
 
-## Italy: Inheritance and Gift Tax 
+## Exercises
 
-## . Italy has **one of the lowest inheritance taxes in Europe** 
+## EXERCISE 2
 
-**==> picture [58 x 208] intentionally omitted <==**
+Consider an investor who owns an asset that has appreciated in value. Capital gains are taxed at rate τ only upon realization. a) Explain why realization-based capital gains taxation creates an incentive to delay selling appreciated assets.
 
-International comparison: 
+b) Compare this system with accrual taxation in terms of efficiency. c) Discuss one administrative reason why governments often prefer realizationbased taxation despite its inefficiency. d) Briefly explain how the lock-in effect can affect aggregate economic efficiency.
 
-- Italy collects **very little** from inheritance taxation 
-
-- Rates and taxable bases are much lower than France, Belgium, Germany, Spain 
-
-- In practice, many estates pay **zero** inheritance tax 
-
-**Implication:** Italy relies far less on transfer taxation than most advanced economies. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: OECD Revenue Statistics; OECD Tax Policy Database; Italian Ministry of Economy & Finance (MEF) 
-
-39 
-
-## Share of population that has received an inheritance or a substantial gift, 2015 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [788 x 330] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: OECD Wealth distribution database, 2018 
-
-40 
-
-## Italy: Property Taxation (IMU) 
-
-- Capital income tax rates vary widely across OECD countries. 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Countries with generous mandatory retirement systems show low sensitivity of saving to tax incentives. 
-
-- Capital shares and wealth concentration have increased globally. 
-
-- Despite different tax systems, household saving rates are relatively stable across countries. 
-
-- In Italy, IMU is not paid on the primary residence, reflecting distributional and political considerations, widespread homeownership, and liquidity concerns for households whose wealth is mainly housing. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Overall, behavioral and institutional factors appear to matter more than tax incentives for saving decisions. 
-
-Source: OECD Revenue Statistics; OECD Tax Policy Database; Italian Ministry of Economy & Finance (MEF) 
-
-41 
-
-## Recurrent taxes on immovable property as a % of local and state government's revenues, 2019 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [693 x 368] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: OECD Revenue Statistics; OECD Fiscal Decentralisation Database (2021). 
-
-42 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## Exercises 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-43 
-
-MC 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-With a proportional tax on risky returns and full loss offset, optimal risk-taking will: 
-
-a)Decrease because expected returns fall b)Remain unchanged relative to no taxation c)Increase because the government bears all risk d)Increase only if the tax rate is low 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-44 
-
-## MC 2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-If losses are only partially deductible, taxing risky returns will typically: 
-
-a)Increase risk-taking b)Leave risk-taking unchanged c)Reduce risk-taking d)Eliminate investment risk 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-45 
-
-## MC 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-What is the main efficiency cost of realization-based capital gains taxation? 
-
-a)Lower tax revenue b)Higher administrative costs c)The lock-in effect d)Reduced progressivity 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-46 
-
-## MC 4 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Realization-based capital gains taxation creates a lock-in effect because: 
-
-a) Investors face higher statutory tax rates b) Taxes are paid only when assets are sold c) Losses cannot be deducted d) Capital gains are taxed progressively 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-47 
-
-MC 5 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-The economic incidence of estate taxes typically falls on: 
-
-a) Middle-income households b) Consumers through higher prices c) Heirs of wealthy individuals d) Workers through lower wages 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-48 
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## True/False (please provide a justification) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-1) With full loss offset taxation of risky assets necessarily discourages risk-taking. 
-
-- 2) Realization-based capital gains taxation encourages investors to hold appreciated assets longer than is socially optimal. 
-
-- 3) Estate taxes are typically justified by both equity and efficiency considerations. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 1** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-An individual can invest €1 in a risky asset. The asset yields: a return of +50% with probability ½ a return of –50% with probability ½ The government taxes capital income at rate of 30%. a) Compute the investor’s expected return before tax. b) Compute the expected return after tax under: • full loss offset • no loss offset c) In which case is risk-taking more strongly discouraged? Explain intuitively. d) Explain how this example illustrates the efficiency effects of taxing risky returns . 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 2** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Consider an investor who owns an asset that has appreciated in value. Capital gains are taxed at rate τ only upon realization. a) Explain why realization-based capital gains taxation creates an incentive to delay selling appreciated assets. 
-
-b) Compare this system with accrual taxation in terms of efficiency. c) Discuss one administrative reason why governments often prefer realizationbased taxation despite its inefficiency. d) Briefly explain how the lock-in effect can affect aggregate economic efficiency. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
+## Related Notes
+- [[L13_Introduction to taxes]]
+- [[L14 L15_Taxation]]
+- [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]

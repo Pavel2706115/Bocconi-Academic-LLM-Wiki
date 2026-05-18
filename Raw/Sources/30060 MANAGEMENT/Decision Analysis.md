@@ -1,258 +1,125 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "DECISION ANALYSIS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **DECISION ANALYSIS** 
+# DECISION ANALYSIS
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-2 
+1. WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING
 
-DECISION ANALYSIS 
+2. BASICS ON PROBABILITIES AND DISTRIBUTION
 
-## AGENDA 
+3. MEAN AND STANDARD DEVIATION
 
-1. WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+4. CONDITIONAL PROBABILITY AND JOINT PROBABILITY
 
-2. BASICS ON PROBABILITIES AND DISTRIBUTION 
+5. PREDICTING OF EVENTS
 
-3. MEAN AND STANDARD DEVIATION 
+6. MAKING DECISIONS
 
-4. CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
+7. APPLICATION: SOUTHWEST AIRLINES
 
-5. PREDICTING OF EVENTS 
+1.0
 
-6. MAKING DECISIONS 
+**WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING**
 
-7. APPLICATION: SOUTHWEST AIRLINES 
+## Poll time!
 
-**==> picture [105 x 53] intentionally omitted <==**
+How many subscribers did Disney Plus secure in its first year of existence?
 
-1.0 
+A) 10 millions B) 20 millions C) 40 millions D) 70 millions
 
-**WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING** 
+In November 2019, Disney launched its new Disney+ streaming service.
 
-**==> picture [105 x 53] intentionally omitted <==**
+When journalists asked Reed Hastings (the boss of Netflix) how he thought Disney+ was going to perform in its first year, Hastings said it would secure 20 million subscribers “at best” .
 
-4 
+At the time, Netflix had about 160 million subscribers. Its streaming service was launched in 2007.
 
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+## Poll time!
 
-"In just a few short weeks on the job, I had already realized that because every tough decision came down to a probability, then certainty was an impossibility — which could leave me encumbered by the sense that I could never get it quite right. So rather than let myself get paralyzed in the quest for a perfect solution, or succumb to the temptation to just go with my gut every time, I created a sound decision-making process — one where I really listened to the experts, followed the facts, considered my goals and weighed all of that against my principles. Then, no matter how things turned out, I would at least know I had done my level best with the information in front of me.” BARACK OBAMA 
+How many total ChotuKool units did Godrej sell in the first two years?
 
-5 
+A) 15,000 B) 300,000 C) 2,500,000 D) 12,000,000
 
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+In 2008, Indian household appliances manufacturer Godrej introduced ChotuKool , a low-cost refrigerator targeted at the hundreds of millions of Indians who could not afford a regular refrigerator or did not have stable access to electricity. The COO (chief operating officer) of Godrej said that they were expecting to sell “ probably millions ” of units in the first three years.
 
-## Poll time! 
+## February 2019
 
-How many subscribers did Disney Plus secure in its first year of existence? 
+BMW and Daimler announced that they would invest $1 billion in Free Now , their car-sharing joint venture.
 
-A) 10 millions B) 20 millions C) 40 millions D) 70 millions 
+Free Now included Share Now, the division centered on short-term car rentals, that already had 4m customers in more than 30 cities under the BMW brand DriveNow and Daimler’s Car2go.
 
-**==> picture [104 x 53] intentionally omitted <==**
+The plan was to extend Free Now’s services to another 90 cities and grow tenfold in the next three years.
 
-**==> picture [237 x 134] intentionally omitted <==**
+## December 2019
 
-**==> picture [179 x 134] intentionally omitted <==**
+BMW and Daimler announced that Free Now would leave the United States and Canada due the “volatile state of the global mobility landscape” and the “rising infrastructure complexities facing North American transportation”.
 
-In November 2019, Disney launched its new Disney+ streaming service. 
+The business also said it would leave Brussels, London and Florence due to “low adoption rates”.
 
-When journalists asked Reed Hastings (the boss of Netflix) how he thought Disney+ was going to perform in its first year, Hastings said it would secure 20 million subscribers “at best” . 
+DriveNow and Car2Go, which had already pulled out of more than a dozen locations, will continue to operate in 18 European cities, including seven in Germany.
 
-At the time, Netflix had about 160 million subscribers. Its streaming service was launched in 2007. 
+Uncertainty rules also in our daily lifes
 
-6 
+Think about weather forecast: which one is more informative?
 
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+## 3 main goals
 
-## Poll time! 
+In this class we will learn how to make predictions using probability and updating our beliefs to make better decisions
 
-How many total ChotuKool units did Godrej sell in the first two years? 
+## BE LESS CERTAIN
 
-A) 15,000 B) 300,000 C) 2,500,000 D) 12,000,000 
+Overconfidence depends on culture, personality, expertise, …
 
-**==> picture [104 x 53] intentionally omitted <==**
+**LEARN TO MAKE PREDICTIONS**
 
-**==> picture [295 x 159] intentionally omitted <==**
+Question how often an outcome typically happen
 
-**==> picture [101 x 151] intentionally omitted <==**
+**THINK PROBABILISTICALLY** Have a theory to envision probability of events
 
-In 2008, Indian household appliances manufacturer Godrej introduced ChotuKool , a low-cost refrigerator targeted at the hundreds of millions of Indians who could not afford a regular refrigerator or did not have stable access to electricity. The COO (chief operating officer) of Godrej said that they were expecting to sell “ probably millions ” of units in the first three years. 
+2.0
 
-7 
+**BASICS ON PROBABILITIES AND DISTRIBUTIONS**
 
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+Let’s introduce probability
 
-**==> picture [275 x 155] intentionally omitted <==**
+**https://www.khanacademy.org/math/cc-seventhgrade-math/cc-7th-probability-statistics/cc-7th-basicprob/v/basic-probability**
 
-**==> picture [170 x 95] intentionally omitted <==**
+A random variable is a variable that can take on some values (x1, x2, ..xn). Each value is assigned a probability (p1, p2, .. pn)
 
-**==> picture [233 x 122] intentionally omitted <==**
+Random variable Possible values Random events Probability **0 0.5 X = 1 0.5**
 
-**==> picture [239 x 117] intentionally omitted <==**
+## Random variables - values
 
-**==> picture [239 x 147] intentionally omitted <==**
+## CONTINUOUS
 
-**==> picture [105 x 53] intentionally omitted <==**
+Variables that take on a value in a range
 
-8 
+**QUALITATIVE / CATEGORICAL**
 
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
+Variables that do not come from measuring or counting
 
-## February 2019 
+**DICHOTOMOUS / BINARY**
 
-BMW and Daimler announced that they would invest $1 billion in Free Now , their car-sharing joint venture. 
+Variables that can take on only two values
 
-Free Now included Share Now, the division centered on short-term car rentals, that already had 4m customers in more than 30 cities under the BMW brand DriveNow and Daimler’s Car2go. 
+## We define **PROBABILITIES**
 
-The plan was to extend Free Now’s services to another 90 cities and grow tenfold in the next three years. 
+Probabilities indicate the likelihood of the occurrence of a random event Probabilities are a sequence of numbers (0,1) that have to sum up to 1
 
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [304 x 276] intentionally omitted <==**
-
-**==> picture [41 x 55] intentionally omitted <==**
-
-9 
-
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
-
-## December 2019 
-
-BMW and Daimler announced that Free Now would leave the United States and Canada due the “volatile state of the global mobility landscape” and the “rising infrastructure complexities facing North American transportation”. 
-
-The business also said it would leave Brussels, London and Florence due to “low adoption rates”. 
-
-DriveNow and Car2Go, which had already pulled out of more than a dozen locations, will continue to operate in 18 European cities, including seven in Germany. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [299 x 312] intentionally omitted <==**
-
-**==> picture [41 x 56] intentionally omitted <==**
-
-10 
-
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
-
-**==> picture [512 x 116] intentionally omitted <==**
-
-**==> picture [65 x 89] intentionally omitted <==**
-
-**==> picture [577 x 124] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-11 
-
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
-
-Uncertainty rules also in our daily lifes 
-
-Think about weather forecast: which one is more informative? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [403 x 299] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MON TUE WED THU FRI<br>MON TUE WED THU FRI<br>Chance of<br>Chance of  rainfall:  Chance of  Chance of  Chance of<br>rainfall: 20% 40% rainfall: 90% rainfall: 70% rainfall: 80%<br>**----- End of picture text -----**<br>
-
-
-12 
-
-WHY WE NEED A SCIENTIFIC APPROACH TO DECISION-MAKING 
-
-## 3 main goals 
-
-In this class we will learn how to make predictions using probability and updating our beliefs to make better decisions 
-
-## **BE LESS CERTAIN** 
-
-Overconfidence depends on culture, personality, expertise, … 
-
-**LEARN TO MAKE PREDICTIONS** 
-
-Question how often an outcome typically happen 
-
-**THINK PROBABILISTICALLY** Have a theory to envision probability of events 
-
-**==> picture [54 x 60] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [53 x 61] intentionally omitted <==**
-
-**==> picture [58 x 59] intentionally omitted <==**
-
-2.0 
-
-**BASICS ON PROBABILITIES AND DISTRIBUTIONS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-14 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-Let’s introduce probability 
-
-**https://www.khanacademy.org/math/cc-seventhgrade-math/cc-7th-probability-statistics/cc-7th-basicprob/v/basic-probability** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-15 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-A random variable is a variable that can take on some values (x1, x2, ..xn). Each value is assigned a probability (p1, p2, .. pn) 
-
-Random variable Possible values Random events Probability **0 0.5 X = 1 0.5** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-16 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-## Random variables - values 
-
-## **CONTINUOUS** 
-
-Variables that take on a value in a range 
-
-**==> picture [63 x 63] intentionally omitted <==**
-
-**QUALITATIVE / CATEGORICAL** 
-
-Variables that do not come from measuring or counting 
-
-**==> picture [60 x 42] intentionally omitted <==**
-
-**DICHOTOMOUS / BINARY** 
-
-Variables that can take on only two values 
-
-**==> picture [62 x 60] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-17 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-## We define **PROBABILITIES** 
-
-Probabilities indicate the likelihood of the occurrence of a random event Probabilities are a sequence of numbers [0,1] that have to sum up to 1 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-18 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-||||
+|
 |---|---|---|
-|Values|Probabilities|Cumulative<br>Probabilities|
+|Values|Probabilities|Cumulative Probabilities|
 |10|0.20|0.20|
 |20|0.10|0.30|
 |30|0.20|0.50|
@@ -261,65 +128,35 @@ BASICS ON PROBABILITIES AND DISTRIBUTIONS
 |60|0.05|0.85|
 |70|0.10|0.95|
 |80|0.05|1.00|
-||||
+|
 
+**A random variable X can take on a certain value based on the assigned probability**
 
+i.e. the probability of getting a value of  X =10 is 0.2 or 20%
 
-**A random variable X can take on a certain value based on the assigned probability** 
-
-i.e. the probability of getting a value of  X =10 is 0.2 or 20% 
-
-19 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-||||
+|
 |---|---|---|
-|Values|Probabilities|Cumulative<br>Probabilities|
+|Values|Probabilities|Cumulative Probabilities|
 |10|0.125|0.125|
 |20|0.125|0.250|
 |30|0.125|0.375|
-|40<br>50|0.125<br>0.125|0.500<br>0.625|
+|40 50|0.125 0.125|0.500 0.625|
 |60|0.125|0.750|
 |70|0.125|0.875|
 |80|0.125|1.000|
-||||
+|
 
+**UNIFORM DISTRIBUTION Each value has the same probability X has an equal likelihood of being any of these 8 outcomes.**
 
+i.e. the variable can take on 8 different values (10, 20, 30, .., 80) but the probability of each value is always 12.5%
 
-**UNIFORM DISTRIBUTION Each value has the same probability X has an equal likelihood of being any of these 8 outcomes.** 
+## Graphical representation: rolling a die has a uniform distribution
 
-i.e. the variable can take on 8 different values (10, 20, 30, .., 80) but the probability of each value is always 12.5% 
+# How informative is the uniform distribution?
 
-20 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-## Graphical representation: rolling a die has a uniform distribution 
-
-**==> picture [607 x 222] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-0.15<br>0.10<br>0.05<br>0<br>1 2 3 4 5 6<br>outcome<br>probability<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-21 
-
-# How informative is the uniform distribution? 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [65 x 69] intentionally omitted <==**
-
-22 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-||||
+|
 |---|---|---|
-|Values|Probabilities|Cumulative<br>Probabilities|
+|Values|Probabilities|Cumulative Probabilities|
 |10|0.02|0.02|
 |20|0.08|0.10|
 |30|0.15|0.25|
@@ -328,45 +165,17 @@ BASICS ON PROBABILITIES AND DISTRIBUTIONS
 |60|0.15|0.90|
 |70|0.08|0.98|
 |80|0.02|1.00|
-||||
+|
 
+**NORMAL DISTRIBUTION In a normal distribution, the outcomes tend to distribute around a central value**
 
+i.e. in the table: Which values are more likely? And which ones are less likely?
 
-**NORMAL DISTRIBUTION In a normal distribution, the outcomes tend to distribute around a central value** 
+Can you think of examples where you may observe a normal distribution?
 
-i.e. in the table: Which values are more likely? And which ones are less likely? 
-
-23 
-
-Can you think of examples where you may observe a normal distribution? 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-24 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-**==> picture [230 x 154] intentionally omitted <==**
-
-**==> picture [231 x 155] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Grade distribution<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [211 x 140] intentionally omitted <==**
-
-**==> picture [230 x 155] intentionally omitted <==**
-
-25 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-||||
+|
 |---|---|---|
-|Values|Probabilities|Cumulative<br>Probabilities|
+|Values|Probabilities|Cumulative Probabilities|
 |10|0.02|0.02|
 |20|0.03|0.05|
 |30|0.05|0.10|
@@ -375,33 +184,13 @@ BASICS ON PROBABILITIES AND DISTRIBUTIONS
 |60|0.15|0.40|
 |70|0.40|0.80|
 |80|0.20|1.00|
-||||
+|
 
+**NORMAL DISTRIBUTION Left skewed**: The values of the observations cluster more around the right side of the distribution
 
-
-**NORMAL DISTRIBUTION Left skewed** : The values of the observations cluster more around the right side of the distribution 
-
-**==> picture [88 x 45] intentionally omitted <==**
-
-26 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [32 x 248] intentionally omitted <==**
-
-**==> picture [324 x 222] intentionally omitted <==**
-
-**==> picture [453 x 52] intentionally omitted <==**
-
-27 
-
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
-
-||||
+|
 |---|---|---|
-|Values|Probabilities|Cumulative<br>Probabilities|
+|Values|Probabilities|Cumulative Probabilities|
 |10|0.20|0.20|
 |20|0.40|0.60|
 |30|0.15|0.75|
@@ -410,1759 +199,954 @@ BASICS ON PROBABILITIES AND DISTRIBUTIONS
 |60|0.05|0.95|
 |70|0.03|0.98|
 |80|0.02|1.00|
-||||
+|
 
+**NORMAL DISTRIBUTION Right skewed**: values cluster more around the left side of the distribution
 
+3.0
 
-**NORMAL DISTRIBUTION Right skewed** : values cluster more around the left side of the distribution 
+**MEAN AND STANDARD DEVIATION**
 
-**==> picture [96 x 44] intentionally omitted <==**
+## Summary Statistics (or moments)
 
-28 
+**PROBABILITY DISTRIBUTIONS HAVE SUMMARY STATISTICS, OR MOMENTS**
 
-BASICS ON PROBABILITIES AND DISTRIBUTIONS 
+**SUMMARY STATISTICS ARE USED TO DESCRIBE DATA OR THE SAMPLE**
 
-**==> picture [489 x 328] intentionally omitted <==**
+**THE TWO MOST IMPORTANT STATISTICS ARE**
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Mean
 
-3.0 
+- Standard deviation
 
-**MEAN AND STANDARD DEVIATION** 
+- (= square root of the variance)
 
-**==> picture [105 x 53] intentionally omitted <==**
+# Do you think Bocconi’s students are tall or short?
 
-32 
+## Mean
 
-MEAN AND STANDARD DEVIATION 
+## Probably you have no clue!
 
-## Summary Statistics (or moments) 
+Mean =175 cm
 
-**PROBABILITY DISTRIBUTIONS HAVE SUMMARY STATISTICS, OR MOMENTS** 
+Height of 15,000 students at Bocconi
 
-**SUMMARY STATISTICS ARE USED TO DESCRIBE DATA OR THE SAMPLE** 
+But if I tell you that the mean of the height of Bocconi students is 175 cm, then what would you answer?
 
-**THE TWO MOST IMPORTANT STATISTICS ARE** 
+And if now I tell you that the mean of the height of the students at Politecnico is 180 cm, then what would you answer?
 
-- Mean 
+**ONE NUMBER CAN TELL YOU A LOT ABOUT MANY NUMBERS**
 
-- Standard deviation 
+## Variance (or standard deviation)
 
-- (= square root of the variance) 
+**The mean tells you where the center of the distribution is positioned**
 
-**==> picture [105 x 53] intentionally omitted <==**
+Means do not tell you whether the values of the observations are concentrated around it, or dispersed away from it
 
-33 
+Mean =175 cm
 
-# Do you think Bocconi’s students are tall or short? 
+Height of 15,000 students at Bocconi
 
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [65 x 69] intentionally omitted <==**
-
-34 
-
-MEAN AND STANDARD DEVIATION 
-
-## Mean 
-
-## **Probably you have no clue!** 
-
-Mean =175 cm 
-
-**==> picture [59 x 67] intentionally omitted <==**
-
-Height of 15,000 students at Bocconi 
-
-But if I tell you that the mean of the height of Bocconi students is 175 cm, then what would you answer? 
-
-And if now I tell you that the mean of the height of the students at Politecnico is 180 cm, then what would you answer? 
-
-**ONE NUMBER CAN TELL YOU A LOT ABOUT MANY NUMBERS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-35 
-
-MEAN AND STANDARD DEVIATION 
-
-## Variance (or standard deviation) 
-
-**The mean tells you where the center of the distribution is positioned** 
-
-Means do not tell you whether the values of the observations are concentrated around it, or dispersed away from it 
-
-Mean =175 cm 
-
-**==> picture [59 x 66] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Height of 15,000 students at Bocconi 
-
-Small variance : most of the Bocconi students’ heights are around 175 cm High variance: many Bocconi students are either very short (155 cm) or very tall (195 cm) 
-
-36 
-
-MEAN AND STANDARD DEVIATION 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [435 x 311] intentionally omitted <==**
-
-37 
-
-MEAN AND STANDARD DEVIATION 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [432 x 309] intentionally omitted <==**
-
-38 
-
-MEAN AND STANDARD DEVIATION 
+Small variance: most of the Bocconi students’ heights are around 175 cm High variance: many Bocconi students are either very short (155 cm) or very tall (195 cm)
 
 |MEAN AND STANDARD DEVIATION|MEAN AND STANDARD DEVIATION|MEAN AND STANDARD DEVIATION|
 |---|---|---|
-||||
-|Values<br>Probabilities<br>Cumulative<br>Probabilities|**Mean formula:**μ = σ𝑖=𝟏<br>𝑛<br>𝑝𝑖𝑥𝑖**,**<br>Where xiis the value of an observation, and<br>piis the probability of whether that value<br>occurs.<br>The mean of the distribution in the table is:<br>10*0.20 + 20*0.10 + 30*0.20 + 40*0.20<br>50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 =**37**|+|
-|10<br>0.20<br>0.20|||
-|20<br>0.10<br>0.30|||
-|30<br>0.20<br>0.50|||
-|40<br>0.20<br>0.70|||
-|50<br>0.10<br>0.80|||
-|60<br>0.05<br>0.85|||
-|70<br>0.10<br>0.95|||
-|80<br>0.05<br>1.00|||
+|
+|Values Probabilities Cumulative Probabilities|**Mean formula:**μ = σ𝑖=𝟏 𝑛 𝑝𝑖𝑥𝑖**,** Where xiis the value of an observation, and piis the probability of whether that value occurs. The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 =**37**|+|
+|10 0.20 0.20|
+|20 0.10 0.30|
+|30 0.20 0.50|
+|40 0.20 0.70|
+|50 0.10 0.80|
+|60 0.05 0.85|
+|70 0.10 0.95|
+|80 0.05 1.00|
 
+The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 + 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 = **37**
 
-
-The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 + 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 = **37** 
-
-39 
-
-MEAN AND STANDARD DEVIATION 
-
-||39<br>**Variance formula:**<br>𝜎2 = σ𝑖=𝟏<br>𝑛<br>𝑝𝑖<br>𝑥𝑖−𝜇2**,**<br>Where xiis the value of an observation, and piis<br>the probability of whether that value occurs<br>The variance of the distribution in the table is:<br>(10 – 37)2*0.20 + (20 – 37)2*0.10 +<br>(30 – 37)2*0.20 + (40 – 37)2*0.20 +<br>(50 – 37)2*0.10 + (60 – 37)2*0.05 +<br>(70 – 37)2*0.10 + (80 – 37)2*0.05 =**431**<br>**Standard deviation =**<br>𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆<br>What’s the value of the standard deviation of the<br>distribution?|
+|39 **Variance formula:Standard deviation =** 𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆 What’s the value of the standard deviation of the distribution?|
 |---|---|
-|||
-|Values<br>Probabilities<br>Cumulative<br>Probabilities|**Variance formula:**<br>𝜎2 = σ𝑖=𝟏<br>𝑛<br>𝑝𝑖<br>𝑥𝑖−𝜇2**,**<br>Where xiis the value of an observation, and piis<br>the probability of whether that value occurs<br>The variance of the distribution in the table is:<br>(10 – 37)2*0.20 + (20 – 37)2*0.10 +<br>(30 – 37)2*0.20 + (40 – 37)2*0.20 +<br>(50 – 37)2*0.10 + (60 – 37)2*0.05 +<br>(70 – 37)2*0.10 + (80 – 37)2*0.05 =**431**<br>**Standard deviation =**<br>𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆<br>What’s the value of the standard deviation of the<br>distribution?|
-|10<br>0.20<br>0.20||
-|20<br>0.10<br>0.30||
-|30<br>0.20<br>0.50||
-|40<br>0.20<br>0.70||
-|50<br>0.10<br>0.80||
-|60<br>0.05<br>0.85||
-|70<br>0.10<br>0.95||
-|80<br>0.05<br>1.00||
+|
+|Values Probabilities Cumulative Probabilities|**Variance formula:Standard deviation =** 𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆 What’s the value of the standard deviation of the distribution?|
+|10 0.20 0.20|
+|20 0.10 0.30|
+|30 0.20 0.50|
+|40 0.20 0.70|
+|50 0.10 0.80|
+|60 0.05 0.85|
+|70 0.10 0.95|
+|80 0.05 1.00|
 
+What’s the value of the standard deviation of the distribution?
 
+## Poll time!
 
-What’s the value of the standard deviation of the distribution? 
+What type of variable is “Family_firm”? A) Qualitative B) Continuous C) Dichotomous
 
-40 
+## Poll time!
 
-MEAN AND STANDARD DEVIATION 
+What type of variable is “Turnover”? A) Qualitative B) Continuous C) Dichotomous
 
-## Poll time! 
+## Poll time!
 
-What type of variable is “Family_firm”? A) Qualitative B) Continuous C) Dichotomous 
+What type of variable is “Sector”?
 
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-||Year|ID|Family_firm|ROE|ROA||Turnover|Sector|
-||2019|1|1|12.10|10.60|58,155.96||Manufacturing|
-||2019|2|0|9.80|6.74|316,792.54||Fashion|
-||2019|3|0|5.42|3.15|22,631.89||Transport andlogistics|
-||2019|4|0|2.44|1.85|136,295.32||Metalproducts|
-||2019|5|0|6.37|2.66|51,651.85||Transport andlogistics|
-||2019|6|1|16.59|5.86|48,288.88||Wholesale|
-||2019|7|1|30.41|7.26|152,355,00||Manufacturing|
-||2019|8|1|9.94|5.22|36,519.24||Fashion|
-||2019|9|0|9.40|4.71|194,447.17||Wholesale|
-||2019|10|0|-12.81|-4.35|338,855.24||Metal products|
-||||||||||
+A) Qualitative B) Continuous C) Binary
 
+## Poll time!
 
+What type of variable is “ROE”?
 
-**==> picture [105 x 53] intentionally omitted <==**
+A) Qualitative B) Continuous C) Dichotomous
 
-41 
+## Poll time!
 
-MEAN AND STANDARD DEVIATION 
+How do you expect turnover to be distributed? A) Normally distributed B) Left skewed C) Right skewed
 
-## Poll time! 
+4.0
 
-What type of variable is “Turnover”? A) Qualitative B) Continuous C) Dichotomous 
+# CONDITIONAL PROBABILITY AND JOINT PROBABILITY
 
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-||Year|ID|Family_firm|ROE|ROA||Turnover|Sector|
-||2019|1|1|12.10|10.60|58,155.96||Manufacturing|
-||2019|2|0|9.80|6.74|316,792.54||Fashion|
-||2019|3|0|5.42|3.15|22,631.89||Transport andlogistics|
-||2019|4|0|2.44|1.85|136,295.32||Metalproducts|
-||2019|5|0|6.37|2.66|51,651.85||Transport andlogistics|
-||2019|6|1|16.59|5.86|48,288.88||Wholesale|
-||2019|7|1|30.41|7.26|152,355,00||Manufacturing|
-||2019|8|1|9.94|5.22|36,519.24||Fashion|
-||2019|9|0|9.40|4.71|194,447.17||Wholesale|
-||2019|10|0|-12.81|-4.35|338,855.24||Metal products|
-||||||||||
+## What is **conditional probability?**
 
+The probability of an event (situation, characteristic, condition, …) occurring given that another event has already taken place
 
+## Conditional probability is everywhere
 
-**==> picture [105 x 53] intentionally omitted <==**
+- If you want to know the probability that your friend has Covid, it is useful to know whether she is vaccinated!
 
-42 
+- If you want to know the probability that Messi goes back to Barcelona FC the next season, it is useful to know whether the team can afford to pay him
 
-MEAN AND STANDARD DEVIATION 
+- If you want to know the probability that customers will buy your new product, it is useful to know what a sample of them think of the test version.
 
-## Poll time! 
+## Should Share Now be in Barcelona?
 
-What type of variable is “Sector”? 
+Madrid is currently the only city in Spain in which Share Now operates.
 
-A) Qualitative B) Continuous C) Binary 
+You are an intern at Share Now and your boss **assess** asks you to **the business case of entering Barcelona** .
 
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-||Year|ID|Family_firm|ROE|ROA||Turnover|Sector|
-||2019|1|1|12.10|10.60|58,155.96||Manufacturing|
-||2019|2|0|9.80|6.74|316,792.54||Fashion|
-||2019|3|0|5.42|3.15|22,631.89||Transport andlogistics|
-||2019|4|0|2.44|1.85|136,295.32||Metalproducts|
-||2019|5|0|6.37|2.66|51,651.85||Transport andlogistics|
-||2019|6|1|16.59|5.86|48,288.88||Wholesale|
-||2019|7|1|30.41|7.26|152,355,00||Manufacturing|
-||2019|8|1|9.94|5.22|36,519.24||Fashion|
-||2019|9|0|9.40|4.71|194,447.17||Wholesale|
-||2019|10|0|-12.81|-4.35|338,855.24||Metal products|
-||||||||||
+That is, they want to know how **probable** it is that Share Now could turn a profit in that city. Your boss told you that they want the average subscriber to drive at least 20 hours per year. What **variables** do you think the probability of turning a profit could depend on?
 
+## Should Share Now being in Barcelona?
 
+Consider **per-capita income** .
 
-**==> picture [105 x 53] intentionally omitted <==**
+Is it make more likely that Share Now will turn a profit in the city?
 
-43 
+- Maybe yes (high-income people do not like to waste time in the traffic and are ready to pay for rental of small cars)
 
-MEAN AND STANDARD DEVIATION 
+- Maybe not (high-income people like to own their car)
 
-## Poll time! 
+- Maybe it has not impact (not a variable or different effects that balance each other)
 
-What type of variable is “ROE”? 
+You usually need to **check data** to know whether an event (like profit) depend on something else (like per-capita income).
 
-A) Qualitative B) Continuous C) Dichotomous 
+Expected Probability in Brief You have just met a person.
 
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-||Year|ID|Family_firm|ROE|ROA||Turnover|Sector|
-||2019|1|1|12.10|10.60|58,155.96||Manufacturing|
-||2019|2|0|9.80|6.74|316,792.54||Fashion|
-||2019|3|0|5.42|3.15|22,631.89||Transport andlogistics|
-||2019|4|0|2.44|1.85|136,295.32||Metalproducts|
-||2019|5|0|6.37|2.66|51,651.85||Transport andlogistics|
-||2019|6|1|16.59|5.86|48,288.88||Wholesale|
-||2019|7|1|30.41|7.26|152,355,00||Manufacturing|
-||2019|8|1|9.94|5.22|36,519.24||Fashion|
-||2019|9|0|9.40|4.71|194,447.17||Wholesale|
-||2019|10|0|-12.81|-4.35|338,855.24||Metal products|
-||||||||||
+You have to guess how many letters she has in her name.
 
+What would you say?
 
+Would you change your answer if I tell you she is from Korea?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Who is more likely to have short last names - Italians or Koreans?
 
-44 
-
-MEAN AND STANDARD DEVIATION 
-
-## Poll time! 
-
-How do you expect turnover to be distributed? A) Normally distributed B) Left skewed C) Right skewed 
-
-||||||||||
-|---|---|---|---|---|---|---|---|---|
-||Year|ID|Family_firm|ROE|ROA||Turnover|Sector|
-||2019|1|1|12.10|10.60|58,155.96||Manufacturing|
-||2019|2|0|9.80|6.74|316,792.54||Fashion|
-||2019|3|0|5.42|3.15|22,631.89||Transport andlogistics|
-||2019|4|0|2.44|1.85|136,295.32||Metalproducts|
-||2019|5|0|6.37|2.66|51,651.85||Transport andlogistics|
-||2019|6|1|16.59|5.86|48,288.88||Wholesale|
-||2019|7|1|30.41|7.26|152,355,00||Manufacturing|
-||2019|8|1|9.94|5.22|36,519.24||Fashion|
-||2019|9|0|9.40|4.71|194,447.17||Wholesale|
-||2019|10|0|-12.81|-4.35|338,855.24||Metal products|
-||||||||||
-
-
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-4.0 
-
-# **CONDITIONAL PROBABILITY AND JOINT PROBABILITY** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-46 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## What is **conditional probability?** 
-
-The probability of an event (situation, characteristic, condition, …) occurring given that another event has already taken place 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-47 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## Conditional probability is everywhere 
-
-- If you want to know the probability that your friend has Covid, it is useful to know whether she is vaccinated! 
-
-- If you want to know the probability that Messi goes back to Barcelona FC the next season, it is useful to know whether the team can afford to pay him 
-
-- If you want to know the probability that customers will buy your new product, it is useful to know what a sample of them think of the test version. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-48 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## Should Share Now be in Barcelona? 
-
-Madrid is currently the only city in Spain in which Share Now operates. 
-
-You are an intern at Share Now and your boss **assess** asks you to **the business case of entering Barcelona** . 
-
-That is, they want to know how **probable** it is that Share Now could turn a profit in that city. Your boss told you that they want the average subscriber to drive at least 20 hours per year. What **variables** do you think the probability of turning a profit could depend on? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [245 x 138] intentionally omitted <==**
-
-**==> picture [196 x 108] intentionally omitted <==**
-
-49 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## Should Share Now being in Barcelona? 
-
-Consider **per-capita income** . 
-
-Is it make more likely that Share Now will turn a profit in the city? 
-
-- Maybe yes (high-income people do not like to waste time in the traffic and are ready to pay for rental of small cars) 
-
-- Maybe not (high-income people like to own their car) 
-
-- Maybe it has not impact (not a variable or different effects that balance each other) 
-
-You usually need to **check data** to know whether an event (like profit) depend on something else (like per-capita income). 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [66 x 62] intentionally omitted <==**
-
-**==> picture [64 x 63] intentionally omitted <==**
-
-**==> picture [62 x 63] intentionally omitted <==**
-
-50 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-Expected Probability in Brief You have just met a person. 
-
-You have to guess how many letters she has in her name. 
-
-What would you say? 
-
-Would you change your answer if I tell you she is from Korea? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-51 
-
-Who is more likely to have short last names - Italians or Koreans? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [199 x 283] intentionally omitted <==**
-
-**==> picture [388 x 201] intentionally omitted <==**
-
-52 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+The frequency table to the left reports the number of letters of the last name of 93 student ~~s~~ based on whether originate from Ital Asia or somewhere else ~~y,~~
 
-**==> picture [105 x 53] intentionally omitted <==**
+**The number of letters in the last name is our random variable X**
 
-The frequency table to the left reports the number of letters of the last name of 93 student ~~s~~ based on whether originate from Ital Asia or somewhere else ~~y,~~ 
+- This type of table is called a “ **contingency table** ”: it shows the values of X contingent on another variable.
 
-**The number of letters in the last name is our random variable X** 
+- The totals of rows and columns are **marginal frequencies** (that is, the “last” row/column).
 
-- This type of table is called a “ **contingency table** ”: it shows the values of X contingent on another variable. 
-
-- The totals of rows and columns are **marginal frequencies** (that is, the “last” row/column). 
-
-53 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+## Conditional probability: $$$P(X|Y)$$$
 
-## Conditional probability: P(X|Y) 
+What is the probability of a student with 5 letters in his or her last name? E.g. 13/93 = 13.9%
 
-What is the probability of a student with 5 letters in his or her last name? E.g. 13/93 = 13.9% 
+What is the probability of a student with 5 letters in his or her last name given that the student is Italian? E.g. $$$P(X=5|Italy) = 9/63$$$ = 14.3%
 
-What is the probability of a student with 5 letters in his or her last name given that the student is Italian? E.g. P(X=5|Italy) = 9/63 = 14.3% 
+**The conditioning event is often called a condition, clue, data point or signal (being Italian)**
 
-**The conditioning event is often called a condition, clue, data point or signal (being Italian)** 
+## What is **Conditional Expectation?**
 
-**==> picture [105 x 53] intentionally omitted <==**
+The expected value of a random variable, given that another event has already taken place
 
-55 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## What is **Conditional Expectation?** 
-
-The expected value of a random variable, given that another event has already taken place 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-56 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+Conditional expectation: E(X|Y) = σ𝑛𝑖=𝟏 𝑝(𝑥𝑖| Y ) 𝑥𝑖 That is, you multiply all the values by their respective conditional probabilities, contingent on Y, and then you add them up. E(X | Italy) =  2*  0/63 + 3*  1/63 + 4* 3/63 + 5* 9/63 + 6*  8/63 + 7* 21/63 + 8*  9/63 + 9* 7/63 + 10*  4/63 + 11* 1/63 + 14*  0/63 + 23* 0/63 = 7
 
-**==> picture [105 x 53] intentionally omitted <==**
+E( X | Italy) = 7 = # of letters the last name will have on average given the student is Italian.
 
-Conditional expectation: E(X|Y) = σ𝑛𝑖=𝟏 𝑝(𝑥𝑖| Y ) 𝑥𝑖 That is, you multiply all the values by their respective conditional probabilities, contingent on Y, and then you add them up. E(X | Italy) =  2*  0/63 + 3*  1/63 + 4* 3/63 + 5* 9/63 + 6*  8/63 + 7* 21/63 + 8*  9/63 + 9* 7/63 + 10*  4/63 + 11* 1/63 + 14*  0/63 + 23* 0/63 = 7 
+## What is **Joint probability?**
 
-E( X | Italy) = 7 = # of letters the last name will have on average given the student is Italian. 
+The probability that two events take place together at the same time
 
-57 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## What is **Joint probability?** 
-
-The probability that two events take place together at the same time 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-58 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+Joint probability: $$$$P(X,Y)$$$$ = $$$P(X|Y)$$$*$$$P(Y)$$$
 
-Joint probability: P(X,Y) = P(X|Y)*P(Y) 
+That is, the probability that **Y happens** times the probability that **X happens once we know that Y happened**
 
-That is, the probability that **Y happens** times the probability that **X happens once we know that Y happened** 
+E.g.
 
-E.g. 
+Notice the difference between conditional and joint probabilities
 
-P(X=5, Italy) = P(X=5 | Italy) * P (Italy) = = 9/63*63/93 = 14.3% * 67.7% = **9.7%** = probability that the student is Italian **AND** the last name has 5 words 
+**CONDITIONAL PROBABILITY JOINT PROBABILITY $$$P(X|Y)$$$ $$$$P(X,Y)$$$$= $$$P(X|Y)$$$*$$$P(Y)$$$** $$$P(X=5|Italy) = 9/63$$$ = 14.3% $$$P(X=5, Italy) = 9/63*63/93$$$ = 9.7%
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Let’s practice
 
-59 
+A TLC company is investigating its retention of customers. It selected a sample of 2,185 customers who signed the contract five years ago. Some of them remained (they still have the contract), others left to other providers.
 
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
+The company believes that the **age group** of customers could have an impact on the retention rate.
 
-Notice the difference between conditional and joint probabilities 
-
-**CONDITIONAL PROBABILITY JOINT PROBABILITY P(X|Y) P(X,Y)= P(X|Y)*P(Y)** P(X=5|Italy) = 9/63 = 14.3% P(X=5, Italy) = 9/63*63/93 = 9.7% 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-60 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-## Let’s practice 
-
-A TLC company is investigating its retention of customers. It selected a sample of 2,185 customers who signed the contract five years ago. Some of them remained (they still have the contract), others left to other providers. 
-
-The company believes that the **age group** of customers could have an impact on the retention rate. 
-
-||Gen Z (up to 24)|Millennials (25-<br>40)|Gen X (41-56)|Boomers and<br>older(57+)|TOTAL|
+|Gen Z (up to 24)|Millennials (25- 40)|Gen X (41-56)|Boomers and older(57+)|TOTAL|
 |---|---|---|---|---|---|
 |Remained|200|115|180|210|705|
 |Left|120|160|530|670|1,480|
 |TOTAL|320|275|710|880|2,185|
 
+## Let’s practice
 
+## In this sample:
 
-**==> picture [105 x 53] intentionally omitted <==**
+- what is the probability of **retaining a customer** ?
 
-61 
+- what is the probability of **retaining a Gen Z customer** ?
 
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
+- what is the probability of **being a Gen Z customer who remains** ?
 
-## Let’s practice 
-
-## In this sample: 
-
-- what is the probability of **retaining a customer** ? 
-
-- what is the probability of **retaining a Gen Z customer** ? 
-
-## • what is the probability of **being a Gen Z customer who remains** ? 
-
-||Gen Z (up to 24)|Millennials (25-<br>40)|Gen X (41-56)|Boomers and<br>older(57+)|TOTAL|
+|Gen Z (up to 24)|Millennials (25- 40)|Gen X (41-56)|Boomers and older(57+)|TOTAL|
 |---|---|---|---|---|---|
 |Remained|200|115|180|210|705|
 |Left|120|160|530|670|1,480|
 |TOTAL|320|275|710|880|2,185|
 
+## Independence
 
+Do you remember per-capita income and Share Now in Barcelona? It is always possible that a variable is not relevant .
 
-**==> picture [105 x 53] intentionally omitted <==**
+- If the conditioning event , or signal, is independent from the event we are interested in, then it does not help predict it
 
-62 
+- In this case, the signal, is not informative
 
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
+## What is the joint probability of rolling two 6’s?
 
-## Independence 
+Joint probability with independent events: rolling two dices
 
-Do you remember per-capita income and Share Now in Barcelona? It is always possible that a variable is not relevant . 
+**EVENT 1**
 
-- If the conditioning event , or signal, is independent from the event we are interested in, then it does not help predict it 
+**EVENT 2**
 
-- In this case, the signal, is not informative 
+**JOINT PROBABILITY OF EVENT 1 AND 2**
 
-**==> picture [105 x 53] intentionally omitted <==**
+probability of rolling 6 in the first roll = 1/6
 
-63 
+probability of rolling 6 in the second roll = 1/6
 
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
+probability of (EVENT 1) X probability of (EVENT 2) = 1/6 X 1/6
 
-## What is the joint probability of rolling two 6’s? 
+Joint probability: $$$$P(X,Y)$$$$ = $$$P(X|Y)$$$*$$$P(Y)$$$ But, if X and Y are independent, $$$P(X|Y) = P(X)$$$ So, in case of independence: Joint probability = $$$P(X|Y)$$$*$$$P(Y) = P(X)*P(Y)$$$
 
-**==> picture [607 x 232] intentionally omitted <==**
+In this case, X = probability of rolling 6 in the first round Y = probability of rolling 6 in the second round
 
-**==> picture [105 x 53] intentionally omitted <==**
-
-64 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-Joint probability with independent events: rolling two dices 
-
-**EVENT 1** 
-
-**EVENT 2** 
-
-**JOINT PROBABILITY OF EVENT 1 AND 2** 
-
-probability of rolling 6 in the first roll = 1/6 
-
-probability of rolling 6 in the second roll = 1/6 
-
-probability of (EVENT 1) X probability of (EVENT 2) = 1/6 X 1/6 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Joint probability: P(X,Y) = P(X|Y)*P(Y) But, if X and Y are independent, P(X|Y) = P(X) So, in case of independence: Joint probability = P(X|Y)*P(Y) = P(X)*P(Y) 
-
-In this case, X = probability of rolling 6 in the first round Y = probability of rolling 6 in the second round 
-
-65 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+Independence is a matter of degree!
 
-Independence is a matter of degree! 
+Although the two events (five letters and being Italian) are not independent, the conditional probability (five letters when you are Italian) is very close to the marginal probability of having five 5 letters…
 
-P(X=5 | Italy) = 9/63 = **14.3%** P(X=5) = 13/93 = **14.0%** 
+So, being Italian is not a very informative signal.
 
-Although the two events (five letters and being Italian) are not independent, the conditional probability (five letters when you are Italian) is very close to the marginal probability of having five 5 letters… 
-
-So, being Italian is not a very informative signal. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-66 
-
-CONDITIONAL PROBABILITY AND JOINT PROBABILITY 
-
-||Area of origin|
+|Area of origin|
 |---|---|
-||Italy<br>Asia Others MARGINAL|
-|# letters<br>in last<br>name<br>(X)|2<br>0<br>2<br>0<br>2|
-||3<br>1<br>5<br>0<br>6|
-||4<br>3<br>1<br>0<br>4|
-||5<br>9<br>2<br>2<br>13|
-||<br>6<br>8<br>2<br>4<br>14|
-||<br>7<br>21<br>0<br>5<br>26|
-||8<br>9<br>0<br>2<br>11|
-||9<br>7<br>0<br>2<br>9|
-||10<br>4<br>0<br>0<br>4|
-||11<br>1<br>0<br>0<br>1|
-||14<br>0<br>0<br>2<br>2|
-||23<br>0<br>0<br>1<br>1|
-||MARGINAL<br>63<br>12<br>18<br>93|
+|Italy Asia Others MARGINAL|
+|# letters in last name (X)|2 0 2 0 2|
 
+|3 1 5 0 6|
+|4 3 1 0 4|
+|5 9 2 2 13|
+| 6 8 2 4 14|
+| 7 21 0 5 26|
+|8 9 0 2 11|
+|9 7 0 2 9|
+|10 4 0 0 4|
+|11 1 0 0 1|
+|14 0 0 2 2|
+|23 0 0 1 1|
+|MARGINAL 63 12 18 93|
 
+What about whether being Asian or Italia ~~n~~ predicts whether your last name has 3 letters?
 
-What about whether being Asian or Italia ~~n~~ predicts whether your last name has 3 letters? 
+Which one is more informative? Remember: prediction can go either ways
 
-P(X=3 | Asia)= 5/12 = 41.7% P(X=3) = 6/93 = 6.4% 
+Optional: podcast episode on using scientific thinking in business decision making
 
-P(X=3 | Italy) = 1/63 = 1.6% P(X=3) = 6/93 = 6.4% 
+5.0
 
-Which one is more informative? Remember: prediction can go either ways 
+**PREDICTION OF EVENTS**
 
-**==> picture [105 x 53] intentionally omitted <==**
+Why is probability relevant to management?
 
-67 
+**PREDICT EVENTS**
 
-Optional: podcast episode on using scientific thinking in business decision making 
+## DECIDE ACTIONS
 
-**==> picture [526 x 226] intentionally omitted <==**
+## Why is the new robot failing?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Your company has recently bought a new robot for the factory, which has shown signs of malfunction. The robot starts regularly but after a few hours, on certain days, it comes to a halt all of a sudden.
 
-5.0 
+After thinking about why this may be the case, you hypothesize that the robot fails . **when the temperature in the factory is low** So, you ask your engineers to have a look at the factory records and collect the temperatures of the days the robot failed.
 
-**PREDICTION OF EVENTS** 
+## Poll time!
 
-**==> picture [105 x 53] intentionally omitted <==**
+Are the failures of the robot due to low temperature?
 
-69 
+A) Yes B) No
 
-PREDICTION OF EVENTS 
+The engineers came back with this graph, which tells you the number of accidents at different recorded temperatures.
 
-Why is probability relevant to management? 
+50 degrees F = 10 degrees C 75 degrees F = 23.9 degrees C
 
-**PREDICT EVENTS** 
+## Think again
 
-## **DECIDE ACTIONS** 
+Your theory is an if-then statement.
 
-**==> picture [115 x 127] intentionally omitted <==**
+If the temperature in the factory is low, then the robot fails.
 
-**==> picture [117 x 126] intentionally omitted <==**
+How do you test this theory?
 
-**==> picture [105 x 53] intentionally omitted <==**
+By looking at **all the days** in which the temperature is low, and then checking whether the robot fails on those days.
 
-70 
+It’s like the theory: “If mum is happy, she gives me chocolate”. You want her to give you chocolate **every time** she is happy.
 
-PREDICTION OF EVENTS 
+## You need more data
 
-## Why is the new robot failing? 
+The engineers gave you only the temperatures of **the days when the robot failed** .
 
-Your company has recently bought a new robot for the factory, which has shown signs of malfunction. The robot starts regularly but after a few hours, on certain days, it comes to a halt all of a sudden. 
+What about the **days without incidents** ? Maybe the temperature was low on those days too and nothing happened…
 
-After thinking about why this may be the case, you hypothesize that the robot fails . **when the temperature in the factory is low** So, you ask your engineers to have a look at the factory records and collect the temperatures of the days the robot failed. 
+You tell the engineers.
 
-**==> picture [238 x 172] intentionally omitted <==**
+They come up with a new graph with the temperatures of all the days in which the robot operated.
 
-**==> picture [105 x 53] intentionally omitted <==**
+## The complete graph
 
-71 
+What’s your conclusion now?
 
-PREDICTION OF EVENTS 
+## Table version
 
-## Poll time! 
-
-Are the failures of the robot due to low temperature? 
-
-A) Yes B) No 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-The engineers came back with this graph, which tells you the number of accidents at different recorded temperatures. 
-
-**==> picture [419 x 204] intentionally omitted <==**
-
-50 degrees F = 10 degrees C 75 degrees F = 23.9 degrees C 
-
-72 
-
-PREDICTION OF EVENTS 
-
-## Think again 
-
-Your theory is an if-then statement. 
-
-If the temperature in the factory is low, then the robot fails. 
-
-How do you test this theory? 
-
-By looking at **all the days** in which the temperature is low, and then checking whether the robot fails on those days. 
-
-It’s like the theory: “If mum is happy, she gives me chocolate”. You want her to give you chocolate **every time** she is happy. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-73 
-
-PREDICTION OF EVENTS 
-
-## You need more data 
-
-The engineers gave you only the temperatures of **the days when the robot failed** . 
-
-What about the **days without incidents** ? Maybe the temperature was low on those days too and nothing happened… 
-
-You tell the engineers. 
-
-They come up with a new graph with the temperatures of all the days in which the robot operated. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-74 
-
-PREDICTION OF EVENTS 
-
-## The complete graph 
-
-**==> picture [525 x 250] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-What’s your conclusion now? 
-
-75 
-
-PREDICTION OF EVENTS 
-
-## Table version 
-
-||Days with<br>accidents|Days<br>without<br>accidents|Total|
+|Days with accidents|Days without accidents|Total|
 |---|---|---|---|
-|Low<br>temp<br>(< 65° F)|6|0|6|
-|High<br>temp<br>(≥ 65° F)|4|17|21|
+|Low temp (< 65° F)|6|0|6|
+|High temp (≥ 65° F)|4|17|21|
 |Total|10|17|27|
 
+The first graph showed you only the first column (days with incidents). You could calculate: $$$P(Low temperature | accident) = =$$$ 6/10 = 60%
 
+But, to test your theory, what you need is the full table to test this probability:
 
-**==> picture [105 x 53] intentionally omitted <==**
+## It wasn’t actually a robot
 
-The first graph showed you only the first column (days with incidents). You could calculate: P(Low temperature | accident) = = 6/10 = 60% 
+https://www.youtube.com/watch?v=yibNEcn-4yQ
 
-But, to test your theory, what you need is the full table to test this probability: 
+## It wasn’t actually a robot
 
-P(accident | Low temperature) = = 6/6 = 100% 
+## Definition of **theory**
 
-76 
+- A series of logical steps linking antecedents to consequences
 
-## It wasn’t actually a robot 
+- If P then Q, if Q then R, if R then S, ..., if V then Z ... You eventually show that if P then Z
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Why are theories important?
 
-**==> picture [460 x 287] intentionally omitted <==**
+- Theories tell you what data / factors to examine
 
-https://www.youtube.com/watch?v=yibNEcn-4yQ 
+- The factors that affect your outcome improve your ability to make an accurate prediction
 
-77 
+- The data that you find provide signals for your conditional probabilities, i.e., for improving your predictions
 
-PREDICTION OF EVENTS 
+In practice:
 
-## It wasn’t actually a robot 
+1. You theorize “if A, then B”
 
-**==> picture [321 x 221] intentionally omitted <==**
+2. You collect all the cases with A, and then you measure B in them
 
-**==> picture [320 x 224] intentionally omitted <==**
+3. You calculate $$$P(B|A)$$$
 
-**==> picture [105 x 53] intentionally omitted <==**
+4. If needed, you repeat with a theory about A, and so on
 
-78 
+We need to pay attention to the data we collect (representative, large sample)
 
-PREDICTION OF EVENTS 
+## How to predict events
 
-## Definition of **theory** 
+## You have a target event
 
-- A series of logical steps linking antecedents to consequences 
+**You want to predict whether it will occur**
 
-- If P then Q, if Q then R, if R then S, ..., if V then Z ... You eventually show that if P then Z 
+Example: are there at least 10 supporters of Inter Milan in this class?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Step 1
 
-79 
+# We need a theory!
 
-PREDICTION OF EVENTS 
+Step 1
 
-## Why are theories important? 
+What’s your theory?
 
-- Theories tell you what data / factors to examine 
+What theory do you have to evaluate whether or not there are at least 10 supporters of Inter Milan in the class? What factors would you use to build your theory?
 
-- The factors that affect your outcome improve your ability to make an accurate prediction 
+Maybe you look around and check how many male students there are in the class. Or, how many are from Milan.
 
-- The data that you find provide signals for your conditional probabilities, i.e., for improving your predictions 
+Step 1 What’s your theory?
 
-In practice: 
+Based on your theory, you envision a certain probability (e.g. 60%) that there can be at least 10 supporters of Inter Milan in the class. This is called prior probability.
 
-1. You theorize “if A, then B” 
+Prior probability is the predicted probability of an event before data is collected . It is the best assessment of the probability of an outcome based on the current knowledge
 
-2. You collect all the cases with A, and then you measure B in them 
+Step 2
 
-3. You calculate P(B|A) 
+Revise your theory
 
-4. If needed, you repeat with a theory about A, and so on 
+Now that you have a prior probability you decide whether to continue with this probability or to look for more information/signals.
 
-80 
+Signals are costly and you usually cannot collect too many of them.
 
-We need to pay attention to the data we collect (representative, large sample) 
+At least two ways to collect signals:
 
-**==> picture [355 x 182] intentionally omitted <==**
+1. Ask others (experts)
 
-**==> picture [105 x 53] intentionally omitted <==**
+2. Collect data (data analysis)
 
-**==> picture [251 x 306] intentionally omitted <==**
+How do you apply them to your research on Inter Milan supporters?
 
-81 
+Step 2
 
-PREDICTION OF EVENTS 
+Revise your theory:
 
-## How to predict events 
+Try to improve your prior probability by asking the classmates sitting close to you what they think the probability of having at least 10 students supporting Inter Milan is.
 
-## **You have a target event** 
+- Ask others
 
-**You want to predict whether it will occur** 
+Step 2
 
-Example: are there at least 10 supporters of Inter Milan in this class? 
+Revise your theory:
 
-**==> picture [188 x 106] intentionally omitted <==**
+- Ask others
 
-**==> picture [105 x 53] intentionally omitted <==**
+- They say 80% ... In this case you may update your probability to a higher level than your prior of 60% (e.g. to 70%)
 
-82 
+- They say 40% ... in which case you update your probability to a lower level than your prior of 60%  (e.g. to 50% ) .
 
-PREDICTION OF EVENTS 
+- The new probability is a posterior probability
 
-Step 1 
+Posterior probability is the revised probability of an event occurring after taking new information into account.
 
-# **We need a theory!** 
+Step 2
 
-**==> picture [105 x 53] intentionally omitted <==**
+Revise your theory:
 
-83 
+Let’s collect data now.
 
-PREDICTION OF EVENTS 
+Take a sample of 20 students in the class and check how many of them are supporters of Inter Milan.
 
-Step 1 
+- If they are at least 2 (10%), update your posterior probability upward
 
-What’s your theory? 
+- If not, update your posterior probability downward
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Collect data
 
-What theory do you have to evaluate whether or not there are at least 10 supporters of Inter Milan in the class? What factors would you use to build your theory? 
+## Predict events
 
-Maybe you look around and check how many male students there are in the class. Or, how many are from Milan. 
+**STEP 1 – THEORY**
 
-**==> picture [115 x 100] intentionally omitted <==**
+You look at the class (100 students) with a theory in mind. You set a prior . probability
 
-**==> picture [93 x 93] intentionally omitted <==**
+**STEP 2 – LOOK FOR MORE INFORMATION**
 
-84 
+Then you ask friends (experts and collect data).
 
-PREDICTION OF EVENTS 
+You update you prior probability (multiple times), generating posterior probabilities
 
-Step 1 What’s your theory? 
+**STEP 3 – DEFINE YOUR EXPECTATIONS**
 
-**==> picture [105 x 53] intentionally omitted <==**
+You decide when to stop collecting data/signals and to finalize your probability , that is, a posterior probability that you cannot improve further
 
-Based on your theory, you envision a certain probability (e.g. 60%) that there can be at least 10 supporters of Inter Milan in the class. This is called prior probability. 
+## Technically
 
-Prior probability is the predicted probability of an event before data is collected . It is the best assessment of the probability of an outcome based on the current knowledge 
+**$$$P(Y) = 60%**$$$
 
-**==> picture [285 x 72] intentionally omitted <==**
+**PRIOR PROBABILITY**
 
-85 
+Y = at least 10 students in the class support Inter Milan
 
-PREDICTION OF EVENTS 
+**$$$P(Y|S) = PROBABILITY$$$ OF EVENT Y GIVEN THE OBSERVED SIGNAL S**
 
-Step 2 
+S: what the data or your friends told you
 
-Revise your theory 
+- If S = 80% → $$$P(Y|S=80%) = 70%$$$
 
-Now that you have a prior probability you decide whether to continue with this probability or to look for more information/signals. 
+- If S = 40% → $$$P(Y|S=40%) = 50%$$$
 
-Signals are costly and you usually cannot collect too many of them. 
+## Technically
 
-At least two ways to collect signals: 
+There could be a series of priors, signals, posteriors, in which each posterior becomes the prior before the next signal
 
-1. Ask others (experts) 
+s1 s2 s3 $$$P(Y)$$$              $$$P(Y | s1)$$$ $$$P(Y | s1,s2)$$$ $$$P(Y | s1,s2,s3)$$$
 
-2. Collect data (data analysis) 
+For example:
 
-**==> picture [105 x 53] intentionally omitted <==**
+- $$$P(Y) =60%,$$$
 
-How do you apply them to your research on Inter Milan supporters? 
+- Data tell you S1=40%,
 
-86 
+- You update $$$P(Y | S1=40%) = 50%$$$
 
-PREDICTION OF EVENTS 
+- New data collection tells you S2= 45%
 
-Step 2 
+- - You update $$$P(Y | S1=40%, S2=45%) = 48%$$$
 
-Revise your theory: 
+- - And so on….
 
-Try to improve your prior probability by asking the classmates sitting close to you what they think the probability of having at least 10 students supporting Inter Milan is. 
+**So… how many supporters of Inter Milan in this class?**
 
-- Ask others 
+6.0
 
-**==> picture [105 x 53] intentionally omitted <==**
+**MAKING DECISIONS**
 
-87 
+From predicting events to making decisions and estimating payoffs
 
-PREDICTION OF EVENTS 
+## WHY DO WE NEED TO PREDICT EVENTS?
 
-Step 2 
+> An event is You want to associated with decide whether or the outcome of an not to take that action action
 
-Revise your theory: 
+From predicting events to making decisions and
 
-- Ask others 
+estimating payoffs
 
-**==> picture [105 x 53] intentionally omitted <==**
+## WHY DO WE NEED TO PREDICT EVENTS?
 
-- They say 80% ... In this case you may update your probability to a higher level than your prior of 60% (e.g. to 70%) 
+Example
 
-- They say 40% ... in which case you update your probability to a lower level than your prior of 60%  (e.g. to 50% ) . 
+Pay 1,000 € upfront, and you receive 100 € per student who support Inter Milan in this class (100 students). Therefore:
 
-- The new probability is a posterior probability 
+- if at least 10 students support Inter you break-even (total cost = 1,000€; total income = 100€ X 10 students = 1,000€ )
 
-Posterior probability is the revised probability of an event occurring after taking new information into account. 
+- if there are less than 10 supporters, you lose money
 
-**==> picture [331 x 78] intentionally omitted <==**
+- if there are more than 10 supporters, you gain money
 
-88 
+# Should you pay 1,000€ upfront? How to approach the decision?
 
-PREDICTION OF EVENTS 
+## You are facing this situation
 
-Step 2 
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0
 
-Revise your theory: 
+- Actions = actions you are going to take
 
-Let’s collect data now. 
+- Scenarios = states of the world you are going to face
 
-Take a sample of 20 students in the class and check how many of them are supporters of Inter Milan. 
+## You are facing this situation
 
-   - If they are at least 2 (10%), update your posterior probability upward 
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0 - Actions = actions you are going to take - Scenarios = states of the world you are going to face
 
-   - If not, update your posterior probability downward 
+## You are facing this situation
 
-- Collect data 
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Actions = actions you are going to take
 
-**==> picture [331 x 77] intentionally omitted <==**
+- Scenarios = states of the world you are going to face
 
-89 
+control it. This is what you PREDICT.
 
-PREDICTION OF EVENTS 
+## You are facing this situation
 
-## Predict events 
+- Actions = actions you are going to take
 
-**STEP 1 – THEORY** 
+- - Scenarios = states of the world you are going to face
 
-You look at the class (100 students) with a theory in mind. You set a prior . probability 
+## You are facing this situation
 
-**==> picture [105 x 53] intentionally omitted <==**
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront Neither profit or loss Neither profit or loss
 
-**STEP 2 – LOOK FOR MORE INFORMATION** 
+How to proceed?
 
-Then you ask friends (experts and collect data). 
+Intuitively, the HIGHER the probability that at least 10 students support Inter Milan, the more likely it is that you get a PROFIT.
 
-You update you prior probability (multiple times), generating posterior probabilities 
+## How do you decide?
 
-**STEP 3 – DEFINE YOUR EXPECTATIONS** 
+Assume your probability is 52%. Do you pay 1,000 upfront?
 
-You decide when to stop collecting data/signals and to finalize your probability , that is, a posterior probability that you cannot improve further 
+And if it is 55%?
 
-90 
+You have already worked on probability estimation.
 
-PREDICTION OF EVENTS 
+You have a final posterior probability. But assume you do not know the real value yet (whether there are at least 10 supporters)
 
-## Technically 
+And if it is 60%?
 
-**P(Y) = 60%** 
+## Establish a criterion
 
-**PRIOR PROBABILITY** 
+APPROACH 1
 
-Y = at least 10 students in the class support Inter Milan 
+Think of a threshold probability
 
-**P(Y|S) = PROBABILITY OF EVENT Y GIVEN THE OBSERVED SIGNAL S** 
+## APPROACH 2
 
-S: what the data or your friends told you 
+Assign values (profits and losses)
 
-- If S = 80% → P(Y|S=80%) = 70% 
+## 1. Threshold
 
-- If S = 40% → P(Y|S=40%) = 50% 
+You think of a **threshold** P* such that:
 
-**==> picture [105 x 53] intentionally omitted <==**
+- if your expected payoff $$$P(Y|S)$$$ ≥ P*, then you go ahead with the action
 
-91 
+- if your expected payoff $$$P(Y|S)$$$ < P*, then you don’t
 
-PREDICTION OF EVENTS 
+## IMPORTANT
 
-## Technically 
+Decision-makers should select the threshold **before** they estimate their expected payoff or see the data.
 
-There could be a series of priors, signals, posteriors, in which each posterior becomes the prior before the next signal 
+Doing it after often generates confirmatory biases (you choose the threshold you want) leading to bad decisions.
 
-s1 s2 s3 P(Y)              P(Y | s1) P(Y | s1,s2) P(Y | s1,s2,s3) 
+_I recently went clothes shopping in Brooklyn with my friend Emma. Showing off a pretty dress, she tugs at the price tag on the back. “Hey, what does this say?” she asks me. “If it’s less than 80 bucks, I’ll buy it.” Now that’s some decision intelligence! Instead of first seeing the price and then talking herself into a decision she’s already made, she uses the data to drive it. With a well-practiced reflex, she weighs how much she likes the dress and her budget, then sets the decision boundary …_ https://hackernoon.com/data-inspired-5c78db3999b2
+*(See also: [[Lecture 11-12 Slides with SUPER FULL NOTES#^y2zdkv]])*
 
-For example: 
+Cassie Kazyrkov | Chied Data Scientist at Google
 
-- P(Y) =60%, 
+2. Assign values
 
-- Data tell you S1=40%, 
+Given the probability that you have estimated, you assign values to profits and losses in the action-scenario matrix.
 
-- You update P(Y | S1=40%) = 50% 
+Two approaches.
 
-- New data collection tells you S2= 45% 
+- **Value model** (you calculate monetary values of profits and losses that you could make in the different scenarios)
 
-- • You update P(Y | S1=40%, S2=45%) = 48% 
+- **Utility model** (you attribute «utilities» that represent how much you enjoy a positive outcome or how much you suffer a loss)
 
-- • And so on…. 
+## Assign values: Value model
 
-**==> picture [105 x 53] intentionally omitted <==**
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront +500€ -500€ Not pay 1,000 upfront 0 0
 
-92 
+## You estimate that:
 
-PREDICTION OF EVENTS 
+- if there are at least 10 students supporting Inter, on average there are 15 students supporting Inter → revenue – cost = 15 \times 100€ – 1000€ = 500€
 
-**==> picture [260 x 389] intentionally omitted <==**
+- if there are fewer than 10 students supporting Inter, on average there are 5 students supporting Inter → revenue – cost = 5 \times 100€ – 1000€ = -500€
 
-**So… how many supporters of Inter Milan in this class?** 
+# Compute the expected value. Is it greater than 0?
 
-**==> picture [313 x 237] intentionally omitted <==**
+## Assign values: Value model
 
-6.0 
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront +500€ -500€ Not pay 1,000 upfront 0 0
 
-**MAKING DECISIONS** 
+Expected value (Pay 1,000) = 500 * $$$P(Y|S)$$$ – 500 * (1 – $$$P(Y|S)$$$ Expected value (Not pay 1,000) = 0 * $$$P(Y|S)$$$ + 0 * (1 – $$$P(Y|S) = 0$$$ + 0 = 0 Example: $$$P(Y|S) = 55%$$$
 
-**==> picture [105 x 53] intentionally omitted <==**
+Expected value (Pay 1,000) = (500 * 0.55) – (500 * (1 – 0.55)) = = (500 * 0.55) – (500 * 0.45) = = 275 – 225 = 50
 
-94 
+## Assign values: Value model
 
-MAKING DECISIONS 
+. The value model derives a threshold probability based on the expected outcomes
 
-From predicting events to making decisions and estimating payoffs 
+Threshold in the value model: the minimum probability required to make the expected value ≥ 0.
 
-## **WHY DO WE NEED TO PREDICT EVENTS?** 
+The Expected value is 500 * $$$P(Y|S)$$$ – 500 * (1 – $$$P(Y|S)$$$ We want: Expected value ≥ 0.
 
-> An event is You want to associated with decide whether or the outcome of an not to take that action action 
+It is then easy to see that this inequality is true if $$$P(Y|S)$$$ ≥ ½ , which will then be your threshold (P* = 50%)
 
-**==> picture [74 x 80] intentionally omitted <==**
+## Assign values: Utility model
 
-**==> picture [72 x 72] intentionally omitted <==**
+Utilities: how much you enjoy a positive outcome or how much you suffer from experiencing a loss
 
-95 
+This depends on:
 
-MAKING DECISIONS 
+- Monetary values (money is useful…)
 
-From predicting events to making decisions and 
+- Other aspects of the decision
 
-estimating payoffs 
+E.g. you may be very worried about losing money (risk aversion) and the loss of 500 € has a disutility of 400
 
-## **WHY DO WE NEED TO PREDICT EVENTS?** 
+Or you are very excited if you run a successful project, and turn the profit of 500 €  has an utility of 800
 
-Example 
+Then you calculate the Expected utility of the actions (same as expected value, but with utilities in place of monetary values).
 
-Pay 1,000 € upfront, and you receive 100 € per student who support Inter Milan in this class (100 students). Therefore: 
+## Assign values: Utility model
 
-- if at least 10 students support Inter you break-even (total cost = 1,000€; total income = 100€ X 10 students = 1,000€ ) 
+Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront 800 -400 Not pay 1,000 upfront 0 0
 
-- if there are less than 10 supporters, you lose money 
+For instance, you set utility equal to 800 if the project succeeds; -400 if it does not.
 
-- if there are more than 10 supporters, you gain money 
+The expected utility is 800*$$$P(Y|S)$$$ – 400*(1 – $$$P(Y|S)$$$). Threshold: Expected utility ≥ 0 when $$$P(Y|S)$$$ > 1/3 or P* = 33%
 
-96 
+## Value model vs Utility model
 
-# Should you pay 1,000€ upfront? How to approach the decision? 
+1. The utility model or the value model are formally equivalent. You can see the value model as a special case of the utility model in which your utility depends only on monetary value.
 
-**==> picture [104 x 53] intentionally omitted <==**
+2. The difference is that you base utility on what is important to you
 
-97 
+## Value model vs Utility model
 
-MAKING DECISIONS 
+Broad and rigorous approach to introduce - sense making in managerial decisions Traditional financial planning + probability
 
-## You are facing this situation 
+## Wrap up: A framework for managerial decision-making
 
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0 
+**DEFINE ACTIONS AND SCENARIOS**
 
-- Actions = actions you are going to take 
+**DEFINE A MAP OF ACTIONSCENARIO PAIRS**
 
-- Scenarios = states of the world you are going to face 
+**ESTIMATE THE PROBABILITY**
 
-**==> picture [105 x 53] intentionally omitted <==**
+## MAKE A DECISION
 
-98 
+What are the possible courses of action? What can you control? What you cannot?
 
-MAKING DECISIONS 
+What are the possible combinations? Assign the payoffs derived from pair.
 
-## You are facing this situation 
+Have a theory, estimate your priors, and decide whether to revise them
 
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0 • Actions = actions you are going to take • Scenarios = states of the world you are going to face 
+Based either on a predefined threshold or on monetary valu ~~es~~ /utility
 
-**==> picture [105 x 53] intentionally omitted <==**
+The framework can accommodate complex decisions Your scenario-action pairs can also have more actions and scenarios, such as the following:
 
-**==> picture [253 x 95] intentionally omitted <==**
+In this case you still estimate the probability of the different scenarios, find the highest expected value given these probabilities, and take the action associated with the highest expected value (which could be the default action)
 
-**----- Start of picture text -----**<br>
-This is the set of options<br>that is available to you.<br>You decide on this.<br>**----- End of picture text -----**<br>
+7.0
 
+**APPLICATION: SOUTHWEST AIRLINES**
 
-99 
+## Should Southwest introduce fees?
 
-MAKING DECISIONS 
+We are in 2016.
 
-## You are facing this situation 
+- Analysts are pressuring Southwest to introduce fees to increase revenue
 
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront 0 0 
+- Southwest’s CEO is worried that fees could undermine customer trust
 
-- Actions = actions you are going to take 
+How would you apply our framework to this decision?
 
-- Scenarios = states of the world you are going to face 
+## 1. **Actions**
 
-**==> picture [105 x 53] intentionally omitted <==**
+General recommendation: let’s keep the model as simple as possible , e.g. minimum number of actions, scenarios, numbers that are easy to calculate, basic theories, etc. There is always time to complicate it later if necessary! **WHAT ACTIONS ARE AVAILABLE TO SOUTHWEST AIRLINES?**
 
-control it. This is what you PREDICT. 
+1. Actions
 
-100 
+2. **Scenarios**
 
-MAKING DECISIONS 
+Which scenarios are relevant to the actions we are considering?
 
-## You are facing this situation 
+- They must be important for our decision
 
-**==> picture [609 x 127] intentionally omitted <==**
+- They should be out of our control (once we take the action)
 
-**----- Start of picture text -----**<br>
-Scenarios At least 10 Inter  Less than 10 Inter<br>Actions supporters  supporters<br>Pay 1,000 upfront PROFIT LOSS<br>Not pay 1,000 upfront 0 0<br>**----- End of picture text -----**<br>
+- - We have to be able to estimate  the probability that they happen
 
+- - They should produce payoffs (values/utilities) (depending on our actions)
 
-- Actions = actions you are going to take 
+- **WHICH SCENARIOS SHOULD YOU CONSIDER?**
 
-- • Scenarios = states of the world you are going to face 
+1. Actions
 
-**==> picture [105 x 53] intentionally omitted <==**
+2. Scenarios
 
-**==> picture [385 x 73] intentionally omitted <==**
+3. **Decision model**
 
-**----- Start of picture text -----**<br>
-These are the outcomes of each action-<br>scenario. This is what you are assessing<br>**----- End of picture text -----**<br>
+Let’s choose a decision making framework. Three options:
 
+- Threshold
 
-101 
+- Value Model
 
-MAKING DECISIONS 
+- Utility Model
 
-## You are facing this situation 
+I ~~t’~~ s important that you choose a model you can actually use, given the information that you have.
 
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront PROFIT LOSS Not pay 1,000 upfront Neither profit or loss Neither profit or loss 
+**WHICH DECISION MAKING FRAMEWORK DO YOU WANT TO USE?**
 
-How to proceed? 
+1. Actions 2. Scenarios 3. Decision model 4. **Utilities**
 
-Intuitively, the HIGHER the probability that at least 10 students support Inter Milan, the more likely it is that you get a PROFIT. 
+Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees ? ? Not introduce ? ? fees The utility derived should be linked to the strategy that Southwest Airlines is pursuing.
 
-**==> picture [105 x 53] intentionally omitted <==**
+## WHAT UTILITIES DO YOU WANT TO INPUT?
 
-**==> picture [382 x 72] intentionally omitted <==**
+1. Actions 2. Scenarios 3. Decision model 4. **Utilities**
 
-**----- Start of picture text -----**<br>
-PREDICT = estimate the probability of the<br>different outcomes<br>**----- End of picture text -----**<br>
+Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees 100 -300 Not introduce 0 0 fees
 
+We can assign utilities to reflect the serious damage on Southwest that results from implementing a strategy that damages customer trust
 
-102 
+1. Actions 2. Scenarios 3. Decision model 4. Utilities 5. **Threshold**
 
-MAKING DECISIONS 
+Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees 100 -300 Not introduce 0 0 fees
 
-## How do you decide? 
+We can now calculate how probable we want the event ”customer trust not impacted” to be, in order to introduce fees.
 
-**==> picture [324 x 119] intentionally omitted <==**
+## WHAT IS THE THRESHOLD?
 
-Assume your probability is 52%. Do you pay 1,000 upfront? 
+1. Actions
 
-And if it is 55%? 
+2. Scenarios
 
-You have already worked on probability estimation. 
+3. Decision model
 
-You have a final posterior probability. But assume you do not know the real value yet (whether there are at least 10 supporters) 
+4. Utilities 5. Threshold 6. **Estimate probability**
 
-**==> picture [105 x 53] intentionally omitted <==**
+The threshold is 75% . We can now ask ourselves:
 
-And if it is 60%? 
+**WHAT IS THE PROBABILITY THAT CUSTOMER TRUST IS NOT IMPACTED BY THE INCREASE IN FEES?**
 
-**==> picture [253 x 49] intentionally omitted <==**
+1. Actions
 
-**----- Start of picture text -----**<br>
-You need a criterion<br>**----- End of picture text -----**<br>
+2. Scenarios
 
+3. Decision model
 
-103 
+4. Utilities
 
-MAKING DECISIONS 
+5. Threshold 6. Estimate probability - **Have a theory**
 
-## Establish a criterion 
+Have a theory: What are the antecedents of customer trust, for an airline company?
 
-APPROACH 1 
+Theory: If an airline company is …, or does …, then customers trust it.
 
-Think of a threshold probability 
+For example, research shows that trust depends a lot on keeping promises. Is this relevant in this case?
 
-**==> picture [58 x 42] intentionally omitted <==**
+**WHAT IS YOUR PRIOR THAT CUSTOMER TRUST IS NOT IMPACTED BY THE INCREASE IN FEES?**
 
-## APPROACH 2 
+1. Actions
 
-Assign values (profits and losses) 
+2. Scenarios
 
-**==> picture [33 x 77] intentionally omitted <==**
+3. Decision model
 
-**==> picture [105 x 53] intentionally omitted <==**
+4. Utilities
 
-104 
+5. Threshold
 
-MAKING DECISIONS 
+6. Estimate probability - Have a theory
 
-## 1. Threshold 
+- **Ask experts**
 
-You think of a **threshold** P* such that: 
+Ask experts: Who could you speak to, or what data can you look for, to improve your prior? - Consultants
 
-- if your expected payoff P(Y|S) ≥ P*, then you go ahead with the action 
+- Equity analysts
 
-- if your expected payoff P(Y|S) < P*, then you don’t 
+- Experienced Southwest’s managers
 
-## **IMPORTANT** 
+- What the other airline companies have already done (WestJet, JetBlue)
 
-Decision-makers should select the threshold **before** they estimate their expected payoff or see the data. 
+- - Loyal customers (surveys, focus groups)
 
-**==> picture [104 x 53] intentionally omitted <==**
+- ….
 
-Doing it after often generates confirmatory biases (you choose the threshold you want) leading to bad decisions. 
+## DO YOU WANT TO UPDATE YOUR PRIOR?
 
-105 
+1. Actions
 
-MAKING DECISIONS 
+2. Scenarios
 
-_I recently went clothes shopping in Brooklyn with my friend Emma. Showing off a pretty dress, she tugs at the price tag on the back. “Hey, what does this say?” she asks me. “If it’s less than 80 bucks, I’ll buy it.” Now that’s some decision intelligence! Instead of first seeing the price and then talking herself into a decision she’s already made, she uses the data to drive it. With a well-practiced reflex, she weighs how much she likes the dress and her budget, then sets the decision boundary …_ https://hackernoon.com/data-inspired-5c78db3999b2 
+3. Decision model
 
-Cassie Kazyrkov | Chied Data Scientist at Google 
+4. Utilities 5. Threshold 6. Estimate probability - Have a theory - Ask experts - **Collect data**
 
-106 
+Collect data: You could run an experiment on a route or few routes, as suggested by the J.P. Morgan’s analyst. Remember: signals can be costly. Which is the cost of the signal, in this case?
 
-MAKING DECISIONS 
+## AFTER THE EXPERIMENT (IF YOU RUN IT), YOU ARRIVE AT YOUR FINAL ESTIMATE
 
-2. Assign values 
+➢ You make your decision based on whether the final estimate is larger or smaller than the threshold
 
-Given the probability that you have estimated, you assign values to profits and losses in the action-scenario matrix. 
+## What did Southwest do?
 
-Two approaches. 
+It has never changed its fee policy. It has never ran an experiment either.
 
-- **Value model** (you calculate monetary values of profits and losses that you could make in the different scenarios) 
+## How did Southwest do?
 
-- **Utility model** (you attribute «utilities» that represent how much you enjoy a positive outcome or how much you suffer a loss) 
+# THANK YOU
 
-**==> picture [104 x 53] intentionally omitted <==**
-
-107 
-
-MAKING DECISIONS 
-
-## Assign values: Value model 
-
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront +500€ -500€ Not pay 1,000 upfront 0 0 
-
-## You estimate that: 
-
-- if there are at least 10 students supporting Inter, on average there are 15 students supporting Inter → revenue – cost = 15x100€ – 1000€ = 500€ 
-
-- if there are fewer than 10 students supporting Inter, on average there are 5 students supporting Inter → revenue – cost = 5x100€ – 1000€ = -500€ 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-108 
-
-**==> picture [228 x 237] intentionally omitted <==**
-
-# Compute the expected value. Is it greater than 0? 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-109 
-
-MAKING DECISIONS 
-
-## Assign values: Value model 
-
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront +500€ -500€ Not pay 1,000 upfront 0 0 
-
-Expected value (Pay 1,000) = 500 * P(Y|S) – 500 * (1 – P(Y|S) Expected value (Not pay 1,000) = 0 * P(Y|S) + 0 * (1 – P(Y|S) = 0 + 0 = 0 Example: P(Y|S) = 55% 
-
-Expected value (Pay 1,000) = (500 * 0.55) – (500 * (1 – 0.55)) = = (500 * 0.55) – (500 * 0.45) = = 275 – 225 = 50 
-
-**==> picture [199 x 76] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-CRITERION: You choose<br>the action with the<br>greater expected value.<br>**----- End of picture text -----**<br>
-
-
-110 
-
-MAKING DECISIONS 
-
-## Assign values: Value model 
-
-. The value model derives a threshold probability based on the expected outcomes 
-
-Threshold in the value model : the minimum probability required to make the expected value ≥ 0. 
-
-The Expected value is 500 * P(Y|S) – 500 * (1 – P(Y|S) We want: Expected value ≥ 0. 
-
-It is then easy to see that this inequality is true if P(Y|S) ≥ ½ , which will then be your threshold (P* = 50%) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-111 
-
-MAKING DECISIONS 
-
-## Assign values: Utility model 
-
-Utilities : how much you enjoy a positive outcome or how much you suffer from experiencing a loss 
-
-This depends on: 
-
-- Monetary values (money is useful…) 
-
-- Other aspects of the decision 
-
-E.g. you may be very worried about losing money (risk aversion) and the loss of 500 € has a disutility of 400 
-
-Or you are very excited if you run a successful project, and turn the profit of 500 €  has an utility of 800 
-
-Then you calculate the Expected utility of the actions (same as expected value, but with utilities in place of monetary values). 
-
-112 
-
-MAKING DECISIONS 
-
-## Assign values: Utility model 
-
-Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront 800 -400 Not pay 1,000 upfront 0 0 
-
-For instance, you set utility equal to 800 if the project succeeds; -400 if it does not. 
-
-The expected utility is 800*P(Y|S) – 400*(1 – P(Y|S)). Threshold: Expected utility ≥ 0 when P(Y|S) > 1/3 or P* = 33% 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-113 
-
-MAKING DECISIONS 
-
-## Value model vs Utility model 
-
-1. The utility model or the value model are formally equivalent. You can see the value model as a special case of the utility model in which your utility depends only on monetary value. 
-
-2. The difference is that you base utility on what is important to you 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-114 
-
-MAKING DECISIONS 
-
-## Value model vs Utility model 
-
-**==> picture [282 x 234] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Utility<br>model<br>Value model<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Broad and rigorous approach to introduce - sense making in managerial decisions Traditional financial planning + probability 
-
-115 
-
-MAKING DECISIONS 
-
-## Wrap up: A framework for managerial decision-making 
-
-**DEFINE ACTIONS AND SCENARIOS** 
-
-**DEFINE A MAP OF ACTIONSCENARIO PAIRS** 
-
-**ESTIMATE THE PROBABILITY** 
-
-## **MAKE A DECISION** 
-
-What are the possible courses of action? What can you control? What you cannot? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-What are the possible combinations? Assign the payoffs derived from pair. 
-
-Have a theory, estimate your priors, and decide whether to revise them 
-
-Based either on a predefined threshold or on monetary valu ~~es~~ /utility 
-
-116 
-
-MAKING DECISIONS 
-
-The framework can accommodate complex decisions Your scenario-action pairs can also have more actions and scenarios, such as the following: 
-
-|<br>such as the following:|||||
-|---|---|---|---|---|
-||||||
-|Scenarios<br>Actions|High<br>demand|Medium<br>demand|Low<br>demand|Very low<br>demand|
-|Producegreen hats|profit|profit|profit|loss|
-|Produce red hats<br>profit<br>profit<br>loss<br>loss|||||
-|Produce blue hats<br>profit<br>profit<br>loss<br>loss|||||
-|Do notproduce hats<br>0<br>0<br>0<br>0|||||
-
-
-
-In this case you still estimate the probability of the different scenarios, find the highest expected value given these probabilities, and take the action associated with the highest expected value (which could be the default action) 
-
-7.0 
-
-**APPLICATION: SOUTHWEST AIRLINES** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-118 
-
-SOUTHWEST AIRLINES 
-
-## Should Southwest introduce fees? 
-
-We are in 2016. 
-
-- Analysts are pressuring Southwest to introduce fees to increase revenue 
-
-- Southwest’s CEO is worried that fees could undermine customer trust 
-
-How would you apply our framework to this decision? 
-
-**==> picture [272 x 207] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-119 
-
-SOUTHWEST AIRLINES 
-
-## 1. **Actions** 
-
-General recommendation: let’s keep the model as simple as possible , e.g. minimum number of actions, scenarios, numbers that are easy to calculate, basic theories, etc. There is always time to complicate it later if necessary! **WHAT ACTIONS ARE AVAILABLE TO SOUTHWEST AIRLINES?** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-120 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. **Scenarios** 
-
-Which scenarios are relevant to the actions we are considering? 
-
-- They must be important for our decision 
-
-- They should be out of our control (once we take the action) 
-
-- - We have to be able to estimate  the probability that they happen 
-
-- - They should produce payoffs (values/utilities) (depending on our actions) 
-
-- **WHICH SCENARIOS SHOULD YOU CONSIDER?** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-121 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. Scenarios 
-
-3. **Decision model** 
-
-Let’s choose a decision making framework. Three options: 
-
-- Threshold 
-
-- Value Model 
-
-- Utility Model 
-
-I ~~t’~~ s important that you choose a model you can actually use, given the information that you have. 
-
-**WHICH DECISION MAKING FRAMEWORK DO YOU WANT TO USE?** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-122 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 2. Scenarios 3. Decision model 4. **Utilities** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees ? ? Not introduce ? ? fees The utility derived should be linked to the strategy that Southwest Airlines is pursuing. 
-
-## **WHAT UTILITIES DO YOU WANT TO INPUT?** 
-
-123 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 2. Scenarios 3. Decision model 4. **Utilities** 
-
-Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees 100 -300 Not introduce 0 0 fees 
-
-We can assign utilities to reflect the serious damage on Southwest that results from implementing a strategy that damages customer trust 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-124 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 2. Scenarios 3. Decision model 4. Utilities 5. **Threshold** 
-
-Scenarios Customer Customer trust not trust Actions im acted dama ed p g Introduce fees 100 -300 Not introduce 0 0 fees 
-
-We can now calculate how probable we want the event ”customer trust not impacted” to be, in order to introduce fees. 
-
-## **WHAT IS THE THRESHOLD?** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-125 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. Scenarios 
-
-3. Decision model 
-
-4. Utilities 5. Threshold 6. **Estimate probability** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-The threshold is 75% . We can now ask ourselves: 
-
-**WHAT IS THE PROBABILITY THAT CUSTOMER TRUST IS NOT IMPACTED BY THE INCREASE IN FEES?** 
-
-**==> picture [418 x 213] intentionally omitted <==**
-
-126 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. Scenarios 
-
-3. Decision model 
-
-4. Utilities 
-
-5. Threshold 6. Estimate probability - **Have a theory** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Have a theory : What are the antecedents of customer trust, for an airline company? 
-
-Theory : If an airline company is …, or does …, then customers trust it. 
-
-For example, research shows that trust depends a lot on keeping promises. Is this relevant in this case? 
-
-**WHAT IS YOUR PRIOR THAT CUSTOMER TRUST IS NOT IMPACTED BY THE INCREASE IN FEES?** 
-
-127 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. Scenarios 
-
-3. Decision model 
-
-4. Utilities 
-
-5. Threshold 
-
-6. Estimate probability - Have a theory 
-
-- **Ask experts** 
-
-Ask experts : Who could you speak to, or what data can you look for, to improve your prior? • Consultants 
-
-- Equity analysts 
-
-- Experienced Southwest’s managers 
-
-- What the other airline companies have already done (WestJet, JetBlue) 
-
-- • Loyal customers (surveys, focus groups) 
-
-- 
-
-- …. 
-
-## **DO YOU WANT TO UPDATE YOUR PRIOR?** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-128 
-
-SOUTHWEST AIRLINES 
-
-1. Actions 
-
-2. Scenarios 
-
-3. Decision model 
-
-4. Utilities 5. Threshold 6. Estimate probability - Have a theory - Ask experts - **Collect data** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Collect data : You could run an experiment on a route or few routes, as suggested by the J.P. Morgan’s analyst. Remember: signals can be costly. Which is the cost of the signal, in this case? 
-
-## **AFTER THE EXPERIMENT (IF YOU RUN IT), YOU ARRIVE AT YOUR FINAL ESTIMATE** 
-
-➢ You make your decision based on whether the final estimate is larger or smaller than the threshold 
-
-129 
-
-SOUTHWEST AIRLINES 
-
-## What did Southwest do? 
-
-It has never changed its fee policy. It has never ran an experiment either. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [406 x 242] intentionally omitted <==**
-
-**==> picture [409 x 37] intentionally omitted <==**
-
-130 
-
-SOUTHWEST AIRLINES 
-
-## How did Southwest do? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [529 x 263] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-US domestic flights % market share (2010-2019) Operating margin (2010-2019)<br>100.0 25.0%<br>90.0<br>20.8%<br>20.0%<br>80.0 39.8 36.5 36.6 37.0 37.5 19.2% 18.4%<br>51.5 51.7 49.3 46.7 45.2 17.5% 16.6%<br>70.0 15.0% 15.1% 14.8% 14.6%<br>13.6% 13.1% 13.9%13.2%<br>60.0 12.0% 11.9% 12.4%<br>50.0 20.4 20.6 20.7 20.4 19.5 10.0% 8.2% 10.1% 8.6% 9.6%9.3% 8.0% 9.9%<br>15.2 17.9 19.1 6.5% 6.4% 7.2% 7.2%5.8% 7.2%6.1% 6.1% 6.7%<br>40.0 16.9 17.4 5.0% 4.8%4.2%<br>16.5 16.3 16.2 16.8 3.6% 3.3%<br>30.0 16.5<br>14.9 15.2 16.0 0.0% 0.7% 0. 21 %<br>14.3 14.5<br>20.0 16.2 15.7 15.3 15.5 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019<br>10.1 10.1 10.0 13.4<br>10.0 10.4 10.2 -5.0% -4.9%<br>6.9 6.2 10.5 10.1 9.7 9.9 10.2 10.8 11.0 10.8<br>0.0<br>2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 -10.0%<br>United Airlines American Airlines Delta Air Lines American Airlines Delta Air Lines<br>Southwest Others United Airlines Southwest<br>**----- End of picture text -----**<br>
-
-
-# **THANK YOU** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
+## Related Notes
+- [[Lecture 11-12 Slides with SUPER FULL NOTES]]
+- [[C27]]
+- [[Statistics_Formula_Sheet_Bocconi]]

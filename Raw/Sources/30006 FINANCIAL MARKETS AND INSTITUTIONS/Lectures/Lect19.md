@@ -1,716 +1,606 @@
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Risk Management in Financial Institutions (Chapter 23)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Risk Management in Financial Institutions (Chapter 23)** 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi
 
-**==> picture [336 x 222] intentionally omitted <==**
+# Risk Management in Financial Institutions (Chapter 23)
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Chapter Preview
 
+- ✓ Uncertainty is part of life
 
-**==> picture [348 x 222] intentionally omitted <==**
+- ✓ Entrepreneurs take on risks by creating new products or services
 
-**----- Start of picture text -----**<br>
-7-1<br>**----- End of picture text -----**<br>
+- ✓ Financial Intermediaries (FI) are specialized in understanding and managing risk … `o` … but managing risk is _not easy_
 
+- ✓ Today & next class we will see how FI manage two particular types of risks: `o` credit risk `o` interest rate risk
 
-## **Chapter Preview** 
+## How Many Types of Risks for FI?
 
-- ✓ Uncertainty is part of life 
+## FI face many different types of risks:
 
-- ✓ Entrepreneurs take on risks by creating new products or services 
+- _Credit risk_
 
-- ✓ Financial Intermediaries (FI) are specialized in understanding and managing risk … `o` … but managing risk is _not easy_ 
+- _Interest-rate risk_
 
-- ✓ Today & next class we will see how FI manage two particular types of risks: `o` credit risk `o` interest rate risk 
+## This lecture
 
-## **How Many Types of Risks for FI?** 
+- _Liquidity risk (large liquidity demand can inflict losses)_
 
-## FI face many different types of risks: 
+- _Market risk (arises from market price fluctuations)_
 
-- _Credit risk_ 
+- _Foreign exchange risk (can affect value of assets and liabilities)_
 
-- _Interest-rate risk_ 
+- _Sovereign risk (embargoes, defaults, nationalizations)_
 
-**==> picture [32 x 76] intentionally omitted <==**
+- _Technology risk (is the risk that technological investments don’t produce anticipated cost savings)_
 
-## **This lecture** 
+- _Operational risk (is the risk of fraud, technological failures,_
 
-- _Liquidity risk (large liquidity demand can inflict losses)_ 
+- _catastrophes, skimming, phishing, hacking)_
 
-- _Market risk (arises from market price fluctuations)_ 
+- _Insolvency risk (materializes if sudden losses erode capital)_
 
-- _Foreign exchange risk (can affect value of assets and liabilities)_ 
+- _Off-balance-sheet risk (arises from contingent assets and liabilities)_
 
-- _Sovereign risk (embargoes, defaults, nationalizations)_ 
+## Risk Management
 
-- _Technology risk (is the risk that technological investments don’t produce anticipated cost savings)_ 
+✓ Not all risks can (or should) be hedged: `o` there is _risk …_ no way of getting rid of _every possible_ `o` … nor this is necessarily desirable (hedging is _costly_ ) `o` but FIs must be careful not to be exposed to too much risk - else they will be bankrupt!
 
-- _Operational risk (is the risk of fraud, technological failures,_ 
+✓ FI hence need to analyze very well `o` how risks interact with each other
 
-- _catastrophes, skimming, phishing, hacking)_ 
+- avoid the most severe ones
 
-- _Insolvency risk (materializes if sudden losses erode capital)_ 
+`o` how severe risks that may threaten the existence of the FI can be hedged
 
-- _Off-balance-sheet risk (arises from contingent assets and liabilities)_ 
+## This is the central idea behind **risk management**
 
-• Copyright ©2015 Pearson Education, Ltd. All rights reserved. _...._ 
+## Main topics
 
-## **Risk Management** 
+✓ Managing **CREDIT RISK** `o` Screening (specialization in lending) `o` Monitoring `o` Collateral `o` Credit rationing `o` Long-term relationships and loan commitments `o` The role of collateral for both adv.sel & moral hazard
 
-✓ Not all risks can (or should) be hedged: `o` there is _risk …_ no way of getting rid of _every possible_ `o` … nor this is necessarily desirable (hedging is _costly_ ) `o` but FIs must be careful not to be exposed to too much risk ▪ else they will be bankrupt! 
+- ✓ Managing **INTEREST-RATE RISK** `o` Income gap
 
-✓ FI hence need to analyze very well `o` how risks interact with each other 
+- `o` Duration gap
 
-- avoid the most severe ones 
+# CREDIT RISK
 
-`o` how severe risks that may threaten the existence of the FI can be hedged 
+## Managing Credit Risk
 
-## This is the central idea behind **risk management** 
+- ✓ **Credit risk** `o` it is the risk that promised cash flows from loans and securities are **not** paid in full
 
-- ✓ All FI’s have a separate Risk Management department Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- ✓ Credit risk arises for two reasons:
 
-## **Main topics** 
+- _A. individual_ risks: loans were made to people who shouldn’t have received them ( _adverse selection_ and _moral hazard_ )
 
-✓ Managing **CREDIT RISK** `o` Screening (specialization in lending) `o` Monitoring `o` Collateral `o` Credit rationing `o` Long-term relationships and loan commitments `o` The role of collateral for both adv.sel & moral hazard 
+- _B. aggregate/macro_ risks _:_ adverse events (such as general economic downturn, or climate extreme events) caused people to default on their obligations
 
-- ✓ Managing **INTEREST-RATE RISK** `o` Income gap 
+✓ FI can’t do much about B ( _really?_ ), but can try to fix A: 1 Screening (bank specialization) 4 Credit rationing 2 Monitoring 5 Long term relationship 3 Collateral 6 Loan commitment
 
-- `o` Duration gap 
+## 1. Screening
 
-# **CREDIT RISK** 
+## ✓ **Screening**
 
-## **Managing Credit Risk** 
+`o` identify high quality borrowers, _ex-ante_ (= before) lending `o` deny/give credit to un/reliable borrowers `o` reduce _adverse selection_
 
-- ✓ **Credit risk** `o` it is the risk that promised cash flows from loans and securities are **not** paid in full 
+- ✓ Screening can be achieved using **i. Hard** information: info that can be encoded in numbers - firm financial statements
 
-- ✓ Credit risk arises for two reasons: 
+- credit scores, Credit Register (record of borrowers missed payments ( _Central Credit Register_ at Bank of Italy): all banks see borrower’s history in the system
 
-   - _A. individual_ risks: loans were made to people who shouldn’t have received them ( _adverse selection_ and _moral hazard_ ) 
+**ii. Soft** information: subjective aspects that can’t be processed automatically
 
-   - _B. aggregate/macro_ risks _:_ adverse events (such as general economic downturn, or climate extreme events) caused people to default on their obligations 
+- EX: appearance of the prospective borrower, “gut feeling” of the loan officer etc., personal knowledge (“hard working man”), etc…
 
-✓ FI can’t do much about B [ _really?_ ], but can try to fix A: 1 Screening (bank specialization) 4 Credit rationing 2 Monitoring 5 Long term relationship 3 Collateral 6 Loan commitment 
+## 2. Monitoring
 
-## **1. Screening** 
+- ✓ **Monitoring** of outstanding loans (and enforcement of covenants)
 
-## ✓ **Screening** 
+- once a loan is obtained, since the payment is fixed in case of no default, incentive to take on _more risk_
 
-`o` identify high quality borrowers, _ex-ante_ (= before) lending `o` deny/give credit to un/reliable borrowers `o` reduce _adverse selection_ 
+- monitoring is done _ex-post_ (= after lending)
 
-- ✓ Screening can be achieved using **i. Hard** information: info that can be encoded in numbers ▪ firm financial statements 
+- prevents borrowers from engaging in more risky actions ( _moral hazard_ )
 
-   - credit scores, Credit Register (record of borrowers missed payments ( _Central Credit Register_ at Bank of Italy): all banks see borrower’s history in the system 
+- FI may impose and enforce restrictive covenants in loan contract - restrict activities borrowers can do with loan: avoid risky projects
 
-**ii. Soft** information: subjective aspects that can’t be processed automatically 
+- `o` civil justice (time and costs to recover an unpaid loan) `o` if quality of civil justice is low need more monitoring
 
-- EX: appearance of the prospective borrower, “gut feeling” of the loan officer etc., personal knowledge (“hard working man”), etc… 
+## 3. Collateral
 
-**iii. Specialization** : in a particular type/industry/region of lending ▪ Positive side: FIs can do more/better screening Copyright ©2015 Pearson Education, Ltd. All rights reserved. ▪ Negative side: banks lose benefits of diversification 
+✓ Collateral helps banks to reduce losses in case default occurs. Indeed, collateral can reduce `o` **adv. selection**: inducing _self-selection_ of borrowers - high risk borrowers may realize that they will lose the collateral with high probability and may refrain from applying for a loan
 
-## **2. Monitoring** 
+## `o` **moral hazard**
 
-- ✓ **Monitoring** of outstanding loans (and enforcement of covenants) 
+- borrowers have something they might lose
 
-   - once a loan is obtained, since the payment is fixed in case of no default, incentive to take on _more risk_ 
+✓ Loans with collateral are called “secured loans” `o` Ex: _compensating balances_ - min. $ to keep in a bank account, typically a non-interest-bearing one - a form of collateral that also allows better monitoring
 
-   - monitoring is done _ex-post_ (= after lending) 
+✓ But research suggests that lender may screen “too little”! `o` when collateral is “ **too valuable** ”, banks _lose incentive in screening_ `o` in a boom: lax lending standards  / in a crisis: banks screen more
 
-   - prevents borrowers from engaging in more risky actions ( _moral hazard_ ) 
+## 4. Credit Rationing
 
-   - FI may impose and enforce restrictive covenants in loan contract ▪ restrict activities borrowers can do with loan: avoid risky projects 
+## **Q**: Does charging a higher interest rate on loans always increase the bank’s profits?
 
-   - `o` civil justice (time and costs to recover an unpaid loan) `o` if quality of civil justice is low need more monitoring 
+**A**: No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing**
 
-## **3. Collateral** 
+✓ means **Credit rationing**
 
-✓ Collateral helps banks to reduce losses in case default occurs. Indeed, collateral can reduce `o` **adv. selection** : inducing _self-selection_ of borrowers ▪ high risk borrowers may realize that they will lose the collateral with high probability and may refrain from applying for a loan 
+`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate)
 
-## `o` **moral hazard** 
+## 4. Credit Rationing
 
-▪ borrowers have something they might lose 
+**Q**: Does charging a higher interest rate on loans always increase the bank’s profits?
 
-✓ Loans with collateral are called “secured loans” `o` Ex: _compensating balances_ ▪ min. $ to keep in a bank account, typically a non-interest-bearing one ▪ a form of collateral that also allows better monitoring 
+**A**: No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing**
 
-✓ But research suggests that lender may screen “too little”! `o` when collateral is “ **too valuable** ”, banks _lose incentive in screening_ `o` in a boom: lax lending standards  / in a crisis: banks screen more 
+- ✓ means
 
-## **4. Credit Rationing** 
+- **Credit rationing**
 
-## **Q** : Does charging a higher interest rate on loans always increase the bank’s profits? 
+`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate
 
-**A** : No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing** 
+## 4. Credit Rationing
 
-✓ means **Credit rationing** 
+**Q**: Does charging a higher interest rate on loans always increase the bank’s profits?
 
-`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate) 
+**A**: No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing**
 
-## **4. Credit Rationing** 
+## ✓ means **Credit rationing**
 
-**Q** : Does charging a higher interest rate on loans always increase the bank’s profits? 
+`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate
 
-**A** : No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing** 
+✓ It may be optimal for the bank to ration credit … `o` the bank knows that by changing the interest rate it changes the average quality of the pool of borrowers asking for credit - if 𝑖↑⇒ select only riskier borrowers!!! - if 𝑖↓⇒ keep high-risk borrowers, but also low-risk ones
 
-- ✓ means 
+## Exercise: Credit Rationing
 
-- **Credit rationing** 
+An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 10%. No collateral.
 
-`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate 
+**Q:** Should the bank lend to this entrepreneur?
 
-## **4. Credit Rationing** 
+**A:** No, the bank shouldn’t lend to this entrepreneur. Indeed, the expected profit for the bank is:
 
-**Q** : Does charging a higher interest rate on loans always increase the bank’s profits? 
+𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × −$200𝑘= −$158𝑘 𝑏𝑎𝑛𝑘 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× −𝐿= . . . Since this is negative, **no** incentive to lend!
 
-**A** : No because the borrowers willing to pay a high interest rate are the riskiest … exactly those the bank would like to avoid ( _adverse selection_ ): better to do **credit rationing** 
+7-14
 
-## ✓ means **Credit rationing** 
+## Exercise: Credit Rationing
 
-`o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate 
+An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 20%. No collateral. **Q:** Should the bank lend to this entrepreneur? **A:** No, the bank shouldn’t lend to this entrepreneur Indeed, the expected profit for the bank is: 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× 0 −𝐿 𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × 0 −$200𝑘= −$176𝑘 𝑏𝑎𝑛𝑘 Since this is negative, **no** incentive to lend!
+*(See also: [[Lect19_exercises#^bvat5l]])*
 
-✓ It may be optimal for the bank to ration credit … `o` the bank knows that by changing the interest rate it changes the average quality of the pool of borrowers asking for credit ▪ if 𝑖↑⇒ select only riskier borrowers!!! ▪ if 𝑖↓⇒ keep high-risk borrowers, but also low-risk ones 
+## Managing Credit Risk
 
-## **Exercise: Credit Rationing** 
+To _alleviate_ asymmetric information problems, FI may use tools that reduce costs of screening and/or of monitoring
 
-An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 10%. No collateral. 
+- ✓ (5.) build **long term relationships** with their customers
 
-**Q:** Should the bank lend to this entrepreneur? 
+- repeated interactions alleviate Asy Info
 
-**A:** No, the bank shouldn’t lend to this entrepreneur. Indeed, the expected profit for the bank is: 
+`o` adv. for borrower: can get lower int. rate, wants to _build_ and _keep_ good reputation
 
-𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × −$200𝑘= −$158𝑘 𝑏𝑎𝑛𝑘 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× −𝐿= . . . Since this is negative, **no** incentive to lend! 
+- adv. for lender: already has soft info of borrower
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- ✓ (6.) impose **loan commitments**
 
-7-14 
+- bank commits to provide up to $X at pre-specified interest rate to firm (a _credit line_ )
 
-## **Exercise: Credit Rationing** 
+- adv. for borrower: it gets money when it needs it
 
-An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 20%. No collateral. **Q:** Should the bank lend to this entrepreneur? **A:** No, the bank shouldn’t lend to this entrepreneur Indeed, the expected profit for the bank is: 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× 0 −𝐿 𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × 0 −$200𝑘= −$176𝑘 𝑏𝑎𝑛𝑘 Since this is negative, **no** incentive to lend! 
+- adv. for lender: customer agrees to provide info continuously about their state, even when it does not ask for credit
 
-## **Managing Credit Risk** 
+## Managing Credit Risk
 
-To _alleviate_ asymmetric information problems, FI may use tools that reduce costs of screening and/or of monitoring 
+## Does all this eliminate credit risk?
 
-- ✓ (5.) build **long term relationships** with their customers 
+- ✓ **no**
 
-   - repeated interactions alleviate Asy Info 
+- Unfortunately, ! Credit risk remains a big issue FI’s: `o` Big problem for FI’s is not so much _individual_ default, but the _aggregate_ credit risk (comovement in default rates)
 
-`o` adv. for borrower: can get lower int. rate, wants to _build_ and _keep_ good reputation 
+- ex.: screening generates much information about _individual_ borrower, but little information that the bank could use to understand its _aggregate_ credit risk (as a function of macroeconomic state)
 
-   - adv. for lender: already has soft info of borrower 
+- ✓ The recent crisis has raised new questions about credit risk: `o` do **high collateral** values at times make FI’s “lazy” about their screening?
 
-- ✓ (6.) impose **loan commitments** 
+`o` does **more competition** between banks induce banks to pay less attention to credit risk management?
 
-   - bank commits to provide up to $X at pre-specified interest rate to firm (a _credit line_ ) 
+- there is culminating evidence that whenever banks compete fiercely for market share, they lend broadly and screen less...
 
-   - adv. for borrower: it gets money when it needs it 
+# INTEREST RATE RISK
 
-   - adv. for lender: customer agrees to provide info continuously about their state, even when it does not ask for credit 
+## Managing Interest-Rate Risk
 
-## **Managing Credit Risk** 
+✓ Financial institutions, banks in particular, specialize in `o` earning a higher rate of return on their assets `o` _relative to_ `o` the interest paid on their liabilities
 
-## Does all this eliminate credit risk? 
+- ✓ Looks like  a pretty simple business! Old joke about bankers ‘‘3-6-3’’ rule:
 
-- ✓ **no** 
+`o` borrow at 3% `o` lend at 6% `o` be on the golf course by 3pm
 
-- Unfortunately, ! Credit risk remains a big issue FI’s : `o` Big problem for FI’s is not so much _individual_ default, but the _aggregate_ credit risk (comovement in default rates) 
+- ✓ In fact it’s not that simple: you have to manage many risks, such as credit risk etc… (see first slide)
 
-   - ex.: screening generates much information about _individual_ borrower, but little information that the bank could use to understand its _aggregate_ credit risk (as a function of macroeconomic state) 
+## Managing Interest-Rate Risk
 
-- ✓ The recent crisis has raised new questions about credit risk: `o` do **high collateral** values at times make FI’s “lazy” about their screening? 
+What happens to an FI if 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒𝑠 change? Recall: 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖+ 𝑔 𝑃 𝑡
 
-`o` does **more competition** between banks induce banks to pay less attention to credit risk management? 
+- ✓ Changes in **Income**: interest income on variable-interest on
 
-- there is culminating evidence that whenever banks compete fiercely for market share, they lend broadly and screen less... 
+- assets (loans and other securities) and interest paid liabilities will change: **Income Gap analysis**
 
-# **INTEREST RATE RISK** 
+- ✓ Changes in **Net Worth**: values of assets and liabilities on the balance sheet will re-adjust, depending on their _duration:_ **Duration Gap analysis**
 
-## **Managing Interest-Rate Risk** 
+- ✓ **Important distinction: income ≠ change in value!** We will use:
 
-✓ Financial institutions, banks in particular, specialize in `o` earning a higher rate of return on their assets `o` _relative to_ `o` the interest paid on their liabilities 
+- _**book** values_ for Income Gap
 
-- ✓ Looks like  a pretty simple business! Old joke about bankers ‘‘3-6-3’’ rule: 
+- `o` _**market** values_ for Duration Gap
 
-`o` borrow at 3% `o` lend at 6% `o` be on the golf course by 3pm 
+## Income Gap analysis
 
-- ✓ In fact it’s not that simple: you have to manage many risks, such as credit risk etc… (see first slide) 
+The idea: look at the balance sheet and ..
 
-- ✓ Here we will look at **interest rate risk** Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+✓ go over the _asset_ side, collect all items whose income flow will adjust with the interest rate **:** _**Rate-Sensitive Assets**_ ( **RSA** ) `o` the items left are the rate- **in** _sensitive_ assets
 
-## **Managing Interest-Rate Risk** 
+# ✓ do the same with the _liability_ side: _**Rate-Sensitive Liabilities**_ ( **RSL** )
 
-What happens to an FI if 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒𝑠 change? Recall: 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖+ 𝑔 𝑃 𝑡 
+## Income Gap analysis
 
-- ✓ Changes in **Income** : interest income on variable-interest on 
+𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑
 
-- assets (loans and other securities) and interest paid liabilities will change: **Income Gap analysis** 
+## Important
 
-- ✓ Changes in **Net Worth** : values of assets and liabilities on the balance sheet will re-adjust, depending on their _duration:_ **Duration Gap analysis** 
+`o` here we only define it for changes in _1-year interest rates_ (but you can calculate one income gap for each maturity bucket instead) ✓ RSA (RSL) is the number of dollars of assets (liabilities) that will pay (cost) variable interest rate ✓ _RSA_ is a measure of the amount of assets that either reprice, or mature, within 1 year ✓ _RSL_ the amount of the liabilities that reprice or mature within 1 year ^8or29v
 
-- ✓ **Important distinction: income ≠ change in value!** We will use: 
+## Income Gap analysis
 
-   - _**book** values_ for Income Gap 
+𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑
 
-   - `o` _**market** values_ for Duration Gap 
+- ✓ Income gap can be positive or negative, depending on the exact composition of the FI’s balance sheet
 
-## **Income Gap analysis** 
+- ✓ Change of 𝑵𝑰𝑰 ( _Net Interest Income_ ):
 
-The idea: look at the balance sheet and .. 
+∆𝑵𝑰𝑰= 𝑰𝒏𝒄𝒐𝒎𝒆 × ∆𝒊 𝒈𝒂𝒑
 
-✓ go over the _asset_ side, collect all items whose income flow will adjust with the interest rate **:** _**Rate-Sensitive Assets**_ ( **RSA** ) `o` the items left are the rate- **in** _sensitive_ assets 
+- ✓ So, interest rate changes can **negatively or positively** affect net interest margins, depending on the _sign_ of 𝐼𝑛𝑐𝑜𝑚𝑒 𝑔𝑎𝑝
 
-# ✓ do the same with the _liability_ side: _**Rate-Sensitive Liabilities**_ ( **RSL** ) 
+`o` if 𝐼𝑛𝑐𝑜𝑚𝑒𝑔𝑎𝑝 > 0: banks make more money if interest rates rise (but loses out if interest rates fall)
 
-`o` the items left are the rate- **in** _sensitive_ liabilities ✓ The difference between these two positions (RSA and RSL) will be an indicator by how much your income will change (next slide) Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+`o` the reverse if 𝐼𝑛𝑐𝑜𝑚𝑒 < 0 𝑔𝑎𝑝
 
-## **Income Gap analysis** 
-
-𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑 
-
-## : **Important** 
-
-`o` here we only define it for changes in _1-year interest rates_ (but you can calculate one income gap for each maturity bucket instead) ✓ RSA (RSL) is the number of dollars of assets (liabilities) that will pay (cost) variable interest rate ✓ _RSA_ is a measure of the amount of assets that either reprice, or mature, within 1 year ✓ _RSL_ the amount of the liabilities that reprice or mature within 1 year 
-
-## **Income Gap analysis** 
-
-𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑 
-
-- ✓ Income gap can be positive or negative, depending on the exact composition of the FI’s balance sheet 
-
-- ✓ Change of 𝑵𝑰𝑰 ( _Net Interest Income_ ): 
-
-∆𝑵𝑰𝑰= 𝑰𝒏𝒄𝒐𝒎𝒆 × ∆𝒊 𝒈𝒂𝒑 
-
-- ✓ So, interest rate changes can **negatively or positively** affect net interest margins, depending on the _sign_ of 𝐼𝑛𝑐𝑜𝑚𝑒 𝑔𝑎𝑝 
-
-`o` if 𝐼𝑛𝑐𝑜𝑚𝑒𝑔𝑎𝑝 > 0 : banks make more money if interest rates rise (but loses out if interest rates fall) 
-
-`o` the reverse if 𝐼𝑛𝑐𝑜𝑚𝑒 < 0 𝑔𝑎𝑝 
-
-## **JP Morgan Chase, Dec2015** 
+## JP Morgan Chase, Dec2015
 
 |**Assets**|**Liabilities**|
 |---|---|
-|RSA (repriceable or<br>that mature <1Y)<br>$1,238 B|RSL<br>of which:<br>-deposits<1Y<br>-long-term debt reprices <1Y<br>-variable rate preferred stocks<br>-long-term debt matures <1Y<br>$426 B<br>$284 B<br>$121 B<br>$18.1 B<br>$2.7 B|
-|Non-RSA<br>$1,113 B|Non-RSL<br>$1,677 B|
-|Total Assets<br>$2,351 B|Total Liabilities<br>EquityCapital<br>$2,103 B<br>$248 B|
+|RSA (repriceable or that mature <1Y) $1,238 B|RSL of which: -deposits<1Y -long-term debt reprices <1Y -variable rate preferred stocks -long-term debt matures <1Y $426 B $284 B $121 B $18.1 B $2.7 B|
+|Non-RSA $1,113 B|Non-RSL $1,677 B|
+|Total Assets $2,351 B|Total Liabilities EquityCapital $2,103 B $248 B|
 
+## Exercise: JP Morgan Chase
 
+## **Q1**: what is JPM’s income gap?
 
-## **Exercise: JP Morgan Chase** 
+**A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
 
-## **Q1** : what is JPM’s income gap? 
+**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase? **A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
 
-**A1** : 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝 
+✓ Note that:
 
-**Q2** : if interest rates increase by 50 bps, how does net interest income change for JPM Chase? **A2** : ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵 
+`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL.
 
-✓ Note that: 
+`o` In this case RSA>RSL, often the reverse: RSA<RSL …
 
-`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL. 
+7-25
 
-`o` In this case RSA>RSL, often the reverse: RSA<RSL … 
+## Exercise: JP Morgan Chase
 
-`o` as 𝑖↑ , not only income matters, but overall position (of RSA and Copyright ©2015 Pearson Education, Ltd. All rights reserved. RSL) of the bank! 
+**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
 
-7-25 
+**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-## **Exercise: JP Morgan Chase** 
+**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
 
-**Q1** : what is JPM’s income gap? **A1** : 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝 
+✓ Note that:
 
-**Q2** : if interest rates increase by 50 bps, how does net interest income change for JPM Chase? 
+`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL.
 
-**A2** : ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵 
+7-26
 
-✓ Note that: 
+## Exercise: JP Morgan Chase
 
-`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL. 
+**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
 
-`o` In this case RSA>RSL, often the reverse: RSA<RSL … `o` as 𝑖↑ , not only income matters, but overall position (of RSA and Copyright ©2015 Pearson Education, Ltd. All rights reserved. RSL) of the bank! 
+**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-7-26 
+**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
 
-## **Exercise: JP Morgan Chase** 
+✓ Note that:
 
-**Q1** : what is JPM’s income gap? **A1** : 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝 
+`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL.
 
-**Q2** : if interest rates increase by 50 bps, how does net interest income change for JPM Chase? 
+`o` In this case RSA>RSL, often the reverse: RSA<RSL …
 
-**A2** : ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵 
+7-27
 
-✓ Note that: 
+## Exercise: JP Morgan Chase
 
-`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL. 
+**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
 
-`o` In this case RSA>RSL, often the reverse: RSA<RSL … 
+**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-`o` as 𝑖↑ , not only income matters, but overall position (of RSA and Copyright ©2015 Pearson Education, Ltd. All rights reserved. RSL) of the bank! 
+**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
 
-7-27 
+## ✓ Note that:
 
-## **Exercise: JP Morgan Chase** 
+`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL.
 
-**Q1** : what is JPM’s income gap? **A1** : 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝 
+- in this case RSA>RSL, often the reverse: RSA<RSL …
 
-**Q2** : if interest rates increase by 50 bps, how does net interest income change for JPM Chase? 
+`o` as 𝑖↑ , overall position (of RSA Vs RSL) of the bank matters!
 
-**A2** : ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵 
+## Average Income Gap/Assets, US Banks
 
-## ✓ Note that: 
+## Income Gap analysis
 
-`o` 53% of the asset side of JPM’s balance sheet is RSA, but only 20% of liabilities are RSL. 
+# ✓ Those are the actual numbers from US banks balance sheets (named _call reports_ )
 
-- in this case RSA>RSL, often the reverse: RSA<RSL … 
+✓ It is generally complicated to determine RSA and RSL
 
-`o` as 𝑖↑ , overall position (of RSA Vs RSL) of the bank matters! 
+✓ Need to find those assets & liabilities whose income will change (because the interest rates will be reset) within the year
 
-## **Average Income Gap/Assets, US Banks** 
+- ✓ Some items are obvious (those with maturity <1year for example) but others also may be affected … … look at next call report!
 
-**==> picture [636 x 463] intentionally omitted <==**
+7-31
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Determine the RSA
 
+- ✓ Any asset with a maturity below 1 year will change its interest income if interest rate changes
 
-## **Income Gap analysis** 
+- _securities and commercial loans with maturity < 1Y_
 
-# ✓ Those are the actual numbers from US banks balance sheets (named _call reports_ ) 
+- ✓ Some assets have mat. >1Y but are adjusted automatically
 
-✓ It is generally complicated to determine RSA and RSL 
+- _**Variable rate mortgages**_ (borrowers pay x%+LIBOR)
 
-✓ Need to find those assets & liabilities whose income will change (because the interest rates will be reset) within the year 
+- ✓ But also income on _**30-year fixed rate mortgages**_ , even if they
 
-- ✓ Some items are obvious (those with maturity <1year for example) but others also may be affected … … look at next call report! 
+- do not mature within 1 year, can change
 
-7-31 
+- Indeed, homeowners can decide:
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- to _repay early_ by selling their homes or _refinance_ mortgage at lower rate (if house price increases)
 
-## **Determine the RSA** 
+- to _move mortgage_ to another bank offering new lower rate (if int. rate falls)
 
-- ✓ Any asset with a maturity below 1 year will change its interest income if interest rate changes 
+## Determine the RSL
 
-   - _securities and commercial loans with maturity < 1Y_ 
+✓ Any liability with a maturity<1Y will change its interest income ( _expense_ for the bank) if interest rate changes `o` _money market deposits_
 
-- ✓ Some assets have mat. >1Y but are adjusted automatically 
+- _variable rate CDs and CDs below 1Y_
 
-   - _**Variable rate mortgages**_ (borrowers pay x%+LIBOR) 
+- `o` _Fed Funds_ `o` _other short term borrowings_
 
-- ✓ But also income on _**30-year fixed rate mortgages**_ , even if they 
+- ✓ _Checking_ and _savings account_ have interest rate that can be changed at any time by the bank, although usually banks keep them constant `o` partially RSL
 
-- do not mature within 1 year, can change 
+obvious
 
-   - Indeed, homeowners can decide: 
+obvious Less obvious
 
-      - to _repay early_ by selling their homes or _refinance_ mortgage at lower rate (if house price increases) 
+## Income Gap for First National Bank
 
-▪ to _move mortgage_ to another bank offering new lower rate (if int. rate falls) 
+EX: determine change in _Net Interest Income_ if 𝑖 increases by 5 pct. points ( ∆𝑖 = 5%=0.005)
 
-✓ Income from securities with a term to maturity of > 1 year will not change Co ~~pyright ©2015 P~~ earson Education, Ltd. All rights reserved. 
+`o` _**RSA**_ = $5M + $10M + $15M + 20% - $10M =$32M `o` _**RSL**_ = $5M + $25M + $5M + $10M + 10% - $15M + 20% - $15M = $49.5M
 
-## **Determine the RSL** 
+`o` 𝑰𝒏𝒄𝒐𝒎𝒆 = _RSA_ − _RSL_ **=** $32.0M − $49.5M = −$17.5M 𝒈𝒂𝒑 − − `o` ∆𝑵𝑰𝑰= 𝐼𝑛𝑐𝑜𝑚𝑒 × ∆𝑖= $1.6M $ 2.5M = $ 0.9M 𝑔𝑎𝑝
 
-✓ Any liability with a maturity<1Y will change its interest income ( _expense_ for the bank) if interest rate changes `o` _money market deposits_ 
+✓ Alternatively: `o` interest income = +5% - $32.0M `o` interest expense  = +5% - $49.5M `o` ∆𝑵𝑰𝑰= $1.6M − $ 2.5M **=** − **$ 0.9M**
 
-   - _variable rate CDs and CDs below 1Y_ 
+- = +$ 1.6M = +$ 2.5M
 
-   - `o` _Fed Funds_ `o` _other short term borrowings_ 
+If _**RSL**_ **>** _**RSA: i**_ - results in _**NII**_ - ## **Pitfalls of Income Gap Analysis**
 
-- ✓ _Checking_ and _savings account_ have interest rate that can be changed at any time by the bank, although usually banks keep them constant `o` partially RSL 
+Problems with income gap analysis:
 
-**==> picture [105 x 38] intentionally omitted <==**
+1. **coarse** ! short-term focus: mat.<1year is `o` EX.: a security with 1.5 years residual maturity could also be a RSA!
 
-**==> picture [118 x 39] intentionally omitted <==**
+2. if interest rates rise, the **asset values** of bonds, loans and securities values with long maturities will _fall_ ! `o` particularly relevant for _mark-to-market_ accounting! `o` if securities fall in value the corresponding amount will have to be written off, reducing the bank’s net worth
 
-**==> picture [118 x 38] intentionally omitted <==**
+**Duration Gap analysis** helps with this
 
-**==> picture [113 x 45] intentionally omitted <==**
+_sensitivity of a bank’s net worth to interest rate risk_
 
-**==> picture [117 x 75] intentionally omitted <==**
+## Duration Gap analysis
 
-**==> picture [113 x 45] intentionally omitted <==**
+## ✓ The idea:
 
-**==> picture [113 x 45] intentionally omitted <==**
+1. calculate the duration of the FI’s assets
 
-obvious 
+2. do the same for its liabilities
 
-**==> picture [106 x 37] intentionally omitted <==**
+3. then, compare the two to determine the duration of the bank’s net worth
 
-**==> picture [105 x 38] intentionally omitted <==**
+𝐶𝐹 𝑛 ~~∙~~ 𝑡 ✓ 𝑛 𝑃𝑉𝑡 σ𝑡=1 𝑡 1+𝑖(𝑡) Recall duration: 𝐷𝑈𝑅= σ𝑡=1 𝑡∙ 𝐶𝐹 𝑃𝑉 𝑛 𝑡 𝑇𝑂𝑇(=) σ𝑡=1 1+𝑖(𝑡) ✓ If the change in interest is small, then: Δ𝑃 Δ𝑖 %Δ𝑃= 𝑃(≈−𝐷𝑈𝑅×) 1 + 𝑖
 
-**==> picture [118 x 39] intentionally omitted <==**
+- ✓ Idea: similar approach here, but %∆𝑃 (rate of capital gain) is replaced with changes in the bank’s net worth
 
-**==> picture [118 x 38] intentionally omitted <==**
+## Duration Gap analysis: derivation
 
-**==> picture [113 x 45] intentionally omitted <==**
+## ✓ Recall that duration is **additive**
 
-**==> picture [117 x 75] intentionally omitted <==**
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾
 
-**==> picture [113 x 45] intentionally omitted <==**
+`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ 𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴(× 𝐷𝑈𝑅)(𝑁𝑊)(+) 𝐴(× 𝐷𝑈𝑅)(𝐿) `o` it follows that: 𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊(×) 𝐴(× 𝐷𝑈𝑅)(𝐿)
 
-**==> picture [113 x 45] intentionally omitted <==**
+7-39
 
-obvious Less obvious 
+## Duration Gap analysis: derivation
 
-## **Income Gap for First National Bank** 
+## ✓ Recall that duration is **additive**
 
-EX: determine change in _Net Interest Income_ if 𝑖 increases by 5 pct. points ( ∆𝑖 = 5%=0.005) 
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾
 
-`o` _**RSA**_ = $5M + $10M + $15M + 20%  $10M =$32M `o` _**RSL**_ = $5M + $25M + $5M + $10M + 10%  $15M + 20%  $15M = $49.5M 
+`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_
 
-`o` 𝑰𝒏𝒄𝒐𝒎𝒆 = _RSA_ − _RSL_ **=** $32.0M − $49.5M = −$17.5M 𝒈𝒂𝒑 − − `o` ∆𝑵𝑰𝑰= 𝐼𝑛𝑐𝑜𝑚𝑒 × ∆𝑖= $1.6M $ 2.5M = $ 0.9M 𝑔𝑎𝑝 
+𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴(× 𝐷𝑈𝑅)(𝑁𝑊)(+) 𝐴(× 𝐷𝑈𝑅)(𝐿)
 
-✓ Alternatively: `o` interest income = +5%  $32.0M `o` interest expense  = +5%  $49.5M `o` ∆𝑵𝑰𝑰= $1.6M − $ 2.5M **=** − **$ 0.9M** 
+`o` it follows that:
 
-- = +$ 1.6M = +$ 2.5M 
+𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊(×) 𝐴(× 𝐷𝑈𝑅)(𝐿)
 
-If _**RSL**_ **>** _**RSA: i**_  results in _**NII**_  
+7-40
 
-## **Pitfalls of Income Gap Analysis** 
+## Duration Gap analysis: derivation
 
-Problems with income gap analysis: 
+## ✓ Recall that duration is **additive**
 
-1. **coarse** ! short-term focus: mat.<1year is `o` EX.: a security with 1.5 years residual maturity could also be a RSA! 
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 𝐷𝑈𝑅 = × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐵 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾 `o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ ^mxyigg
 
-2. if interest rates rise, the **asset values** of bonds, loans and securities values with long maturities will _fall_ ! `o` particularly relevant for _mark-to-market_ accounting! `o` if securities fall in value the corresponding amount will have to be written off, reducing the bank’s net worth 
+`o` it follows that:
 
-**Duration Gap analysis** helps with this 
+## Duration Gap analysis: derivation
 
-_sensitivity of a bank’s net worth to interest rate risk_ 
+## ✓ Define
 
-## **Duration Gap analysis** 
+## Duration Gap Analysis
 
-## ✓ The idea: 
+- ✓ Definition: 𝐷𝑈𝑅 measures the of a bank ’ s Net 𝐺𝐴𝑃 _sensitivity_
 
-1. calculate the duration of the FI’s assets 
+- Worth (relative to the total value of assets) in response to changes in interest rates
 
-2. do the same for its liabilities 
+- ✓ _Important assumption_: ∆𝑖 is the same for all assets & liabilities (regardless of maturity structure)
 
-3. then, compare the two to determine the duration of the bank’s net worth 
+- ✓ _Recall_: values are market based!
 
-𝐶𝐹 𝑛 ~~∙~~ 𝑡 ✓ 𝑛 𝑃𝑉𝑡 σ𝑡=1 𝑡 1+𝑖[𝑡] Recall duration: 𝐷𝑈𝑅= σ𝑡=1 𝑡∙ 𝐶𝐹 𝑃𝑉 𝑛 𝑡 𝑇𝑂𝑇[=] σ𝑡=1 1+𝑖[𝑡] ✓ If the change in interest is small, then: Δ𝑃 Δ𝑖 %Δ𝑃= 𝑃[≈−𝐷𝑈𝑅×] 1 + 𝑖 
+## Duration Gap
 
-- ✓ Idea: similar approach here, but %∆𝑃 (rate of capital gain) is replaced with changes in the bank’s net worth 
+- ✓ can be or Duration gap positive negative, depending on the exact composition of the FI’s balance sheet
 
-**==> picture [67 x 67] intentionally omitted <==**
+- so, interest rate changes can be **negatively or positively related** to changes in net worth
 
-## **Duration Gap analysis: derivation** 
+- if 𝐷𝑈𝑅 > 0 𝐺𝐴𝑃 (normal case)
 
-## ✓ Recall that duration is **additive** 
+- liabilities have _relatively_ shorter duration than assets
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾 
+- - as 𝑖↑⟹𝑁𝑊↓
 
-`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ 𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴[× 𝐷𝑈𝑅][𝑁𝑊][+] 𝐴[× 𝐷𝑈𝑅][𝐿] `o` it follows that: 𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊[×] 𝐴[× 𝐷𝑈𝑅][𝐿] 
+- in order to change this, the FI may sell assets with high duration and convert them into assets with lower duration, even though typically FI’s banks earn from mismatch: long duration assets and short duration liabilities!
 
-7-39 
+- if 𝐷𝑈𝑅 < 0 𝐺𝐴𝑃
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- liabilities have _relatively_ longer duration than assets
 
-## **Duration Gap analysis: derivation** 
+- - as 𝑖↑⟹𝑁𝑊↑
 
-## ✓ Recall that duration is **additive** 
+- ✓ In either case, the duration gap measures FI’s **net worth** exposure to interest-rate risk
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾 
+## Duration Gap analysis: exercise 1
 
-`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ 
+## Consider a market value (!) bank balance sheet
 
-𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴[× 𝐷𝑈𝑅][𝑁𝑊][+] 𝐴[× 𝐷𝑈𝑅][𝐿] 
+## **Q1**: what is this bank’s duration gap?
 
-`o` it follows that: 
+7-45
 
-𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊[×] 𝐴[× 𝐷𝑈𝑅][𝐿] 
+## Duration Gap analysis: exercise 1
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Consider a market value (!) bank balance sheet
 
-7-40 
+## **Q1**: what is this bank’s duration gap?
 
-## **Duration Gap analysis: derivation** 
+50 50 **A1**: 𝐷𝑈𝑅 = 0.5 × 𝐴 100(+ 5 ×) 100(= 2.75) 80 10 = 𝐷𝑈𝑅 0.3 × 𝐿 90(+ 5 ×) 90(= 0.82)
 
-## ✓ Recall that duration is **additive** 
+𝐿 90 − 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐺𝐴𝑃 𝐴 𝐴(𝐷𝑈𝑅)(𝐿)(= 2.75 −) 100(× 0.82 = 2.01)
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 𝐷𝑈𝑅 = × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐵 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾 `o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ 
+## Duration Gap analysis: exercise 1
 
-**==> picture [309 x 43] intentionally omitted <==**
+**Q2**: Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth?
 
-`o` it follows that: 
+**A1**:
 
-**==> picture [331 x 52] intentionally omitted <==**
+With total assets of €100, this translates into a €1.83 negative change in the FI’s net worth: almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with.
 
-**----- Start of picture text -----**<br>
-𝐴 𝐿<br>= −<br>𝐷𝑈𝑅 𝐷𝑈𝑅<br>𝑁𝑊 𝐴<br>𝑁𝑊 [×] 𝐴 [× 𝐷𝑈𝑅][𝐿]<br>**----- End of picture text -----**<br>
+7-47
 
+## Duration Gap analysis: exercise 1
 
-## **Duration Gap analysis: derivation** 
+**Q2**: Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth?
 
-## ✓ Define 
+**A2**:
 
-**==> picture [607 x 333] intentionally omitted <==**
+`o` with total assets of €100, this translates into a €1.83 negative change in the FI’s net worth …
 
-**----- Start of picture text -----**<br>
-𝐿<br>−<br>𝐷𝑈𝑅 ≡𝐷𝑈𝑅<br>𝐺𝐴𝑃 𝐴<br>𝐴 [× 𝐷𝑈𝑅][𝐿]<br>✓ So, we have<br>𝐴<br>=<br>𝐷𝑈𝑅<br>𝑁𝑊<br>𝑁𝑊 [× 𝐷𝑈𝑅][𝐺𝐴𝑃]<br>✓ Finally since<br>∆𝑁𝑊 ∆𝑖 ∆𝑁𝑊 𝐴 ∆𝑖<br>×<br>𝑁𝑊 [≈−𝐷𝑈𝑅][𝑁𝑊] [×] 1 + 𝑖 [⇒] 𝑁𝑊 [≈−] 𝑁𝑊 [× 𝐷𝑈𝑅][𝐺𝐴𝑃] 1 + 𝑖<br>✓ We arrive at<br>∆𝑁𝑊 ∆𝑖<br>≈−𝐷𝑈𝑅 ×<br>𝐺𝐴𝑃<br>𝐴 1 + 𝑖<br>**----- End of picture text -----**<br>
+- … almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with
 
+7-48
 
-**Formulas you need to remember!!!** Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Duration Gap analysis: exercise 1
 
-## **Duration Gap Analysis** 
+**Q1**: Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth?
 
-**==> picture [476 x 126] intentionally omitted <==**
+**A1**:
 
-**----- Start of picture text -----**<br>
-= 𝐷𝑈𝑅<br>𝐺𝐴𝑃<br>∆𝑁𝑊 𝐿 ∆𝑖<br>−<br>≈− 𝐷𝑈𝑅 ×<br>𝐴<br>𝐴 𝐴 [× 𝐷𝑈𝑅][𝐿] 1 + 𝑖<br>**----- End of picture text -----**<br>
+`o` with total assets of €100, this translates into a €1.83 negative change in the FI’s net worth …
 
+- … almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with
 
-- ✓ Definition: 𝐷𝑈𝑅 measures the of a bank ’ s Net 𝐺𝐴𝑃 _sensitivity_ 
+## Targeting Duration Gap
 
-- Worth (relative to the total value of assets) in response to changes in interest rates 
+- ✓ Note that if an FI perfectly matched the duration of assets 𝑫𝑼𝑹 ≈𝟎
 
-- ✓ _Important assumption_ : ∆𝑖 is the same for all assets & liabilities (regardless of maturity structure) 
+- and liabilities then it would have little IRR ( 𝑮𝑨𝑷 )
 
-- ✓ _Recall_ : values are market based! 
+- ✓ But this is unlikely:
 
-## **Duration Gap** 
+`o` banks earn from the natural mismatch between long duration assets and short duration liabilities!
 
-- ✓ can be or Duration gap positive negative, depending on the exact composition of the FI’s balance sheet 
+- thus, for a bank hedging IRR by altering the balance sheet can be costly ( _lose profit margin_ )
 
-   - so, interest rate changes can be **negatively or positively related** to changes in net worth 
+- ✓ Alternatively, the bank hedges by taking an (opposite) position in the derivatives market
 
-   - if 𝐷𝑈𝑅 > 0 𝐺𝐴𝑃 (normal case) 
+`o` interest rate _futures/forwards_ (see Lect. 9 and 10) `o` _interest rate swaps_ (covered in chap. 24, optional)
 
-      - liabilities have _relatively_ shorter duration than assets 
+## Exercise 2: Targeting Duration Gap
 
-      - ▪ as 𝑖↑⟹𝑁𝑊↓ 
+## Consider the following incomplete balance sheet:
 
-      - in order to change this, the FI may sell assets with high duration and convert them into assets with lower duration, even though typically FI’s banks earn from mismatch: long duration assets and short duration liabilities! 
+## Note that cash has a 0 duration
 
-   - if 𝐷𝑈𝑅 < 0 𝐺𝐴𝑃 
+The manager wants to achieve a duration gap of 1.4 years
 
-- liabilities have _relatively_ longer duration than assets 
+**Q**: How much commercial paper does the bank need to raise? What is this bank's net worth in this case?
 
-- ▪ as 𝑖↑⟹𝑁𝑊↑ 
+**A**: denote with _X_ the amount of CP:
 
-- ✓ In either case, the duration gap measures FI’s **net worth** exposure to interest-rate risk 
+⇒
 
-## **Duration Gap analysis: exercise 1** 
+X=CP=€600, hence NW= € 200
 
-## Consider a market value (!) bank balance sheet 
+7-51
 
-**==> picture [633 x 180] intentionally omitted <==**
+## Exercise 2: Targeting Duration Gap
 
-## **Q1** : what is this bank’s duration gap? 
+## Consider the following incomplete balance sheet:
 
-50 50 **A** : 𝐷𝑈𝑅 = 0.5 × 𝐴 100[+ 5 ×] 100[= 2.75] 80 10 = 𝐷𝑈𝑅 0.3 × 𝐿 90[+ 5 ×] 90[= 0.82] 𝐿 90 − 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐺𝐴𝑃 𝐴 𝐴[𝐷𝑈𝑅][𝐿][= 2.75 −] 100[× 0.82 = 2.012] Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+Note that cash has a 0 duration.
 
-7-45 
+The manager wants to achieve a duration gap of 1.4 years
 
-## **Duration Gap analysis: exercise 1** 
+**Q**: How much commercial paper does the bank need to raise? What is this bank's net worth in this case?
 
-## Consider a market value (!) bank balance sheet 
+**A**: denote with _X_ the amount of CP:
 
-**==> picture [633 x 180] intentionally omitted <==**
+X=CP Solve for X: X=€600
 
-## **Q1** : what is this bank’s duration gap? 
+Hence: NW= € 200
 
-50 50 **A1** : 𝐷𝑈𝑅 = 0.5 × 𝐴 100[+ 5 ×] 100[= 2.75] 80 10 = 𝐷𝑈𝑅 0.3 × 𝐿 90[+ 5 ×] 90[= 0.82] 
-
-𝐿 90 − 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐺𝐴𝑃 𝐴 𝐴[𝐷𝑈𝑅][𝐿][= 2.75 −] 100[× 0.82 = 2.01] 
-
-## **Duration Gap analysis: exercise 1** 
-
-**Q2** : Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth? 
-
-**A1** : 
-
-With total assets of €100, this translates into a €1.83 negative change in the FI’s net worth: almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with. 
-
-**Q2** : What if interest rates go down from 10% to 9%? **A2** Copyright ©2015 Pearson Education, Ltd. All rights rese: ∆𝑁𝑊= +€1.83 (note: ~~rved.~~ same magnitude, opposite sign!) 
-
-7-47 
-
-## **Duration Gap analysis: exercise 1** 
-
-**Q2** : Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth? 
-
-**A2** : 
-
-**==> picture [366 x 143] intentionally omitted <==**
-
-`o` with total assets of €100, this translates into a €1.83 negative change in the FI’s net worth … 
-
-- … almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with 
-
-**Q3** : What if interest rates go down from 10% to 9%? **A2** : ∆𝑁𝑊= +€1.83 (note: same magnitude, opposite sign!) Copyright ©2015 Pearson Education, Ltd. All rights rese ~~rved.~~ 
-
-7-48 
-
-## **Duration Gap analysis: exercise 1** 
-
-**Q1** : Assume that interest rates go up from 10% to 11%. What will happen to this bank’s net worth? 
-
-**A1** : 
-
-**==> picture [366 x 143] intentionally omitted <==**
-
-`o` with total assets of €100, this translates into a €1.83 negative change in the FI’s net worth … 
-
-- … almost 20% of the entire net worth of €10! A lot of insolvency risk because the bank has high leverage (90%) to start with 
-
-**Q3** : What if interest rates go down from 10% to 9%? **A3** : same ∆𝑁𝑊/𝐴= +€1.83 (note: magnitude, opposite sign!) Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Targeting Duration Gap** 
-
-- ✓ Note that if an FI perfectly matched the duration of assets 𝑫𝑼𝑹 ≈𝟎 
-
-- and liabilities then it would have little IRR ( 𝑮𝑨𝑷 ) 
-
-- ✓ But this is unlikely: 
-
-`o` banks earn from the natural mismatch between long duration assets and short duration liabilities! 
-
-   - thus, for a bank hedging IRR by altering the balance sheet can be costly ( _lose profit margin_ ) 
-
-- ✓ Alternatively, the bank hedges by taking an (opposite) position in the derivatives market 
-
-`o` interest rate _futures/forwards_ (see Lect. 9 and 10) `o` _interest rate swaps_ (covered in chap. 24, optional) 
-
-## **Exercise 2: Targeting Duration Gap** 
-
-## Consider the following incomplete balance sheet: 
-
-**==> picture [582 x 180] intentionally omitted <==**
-
-## Note that cash has a 0 duration 
-
-The manager wants to achieve a duration gap of 1.4 years 
-
-**Q** : How much commercial paper does the bank need to raise? What is this bank's net worth in this case? 
-
-**A** : denote with _X_ the amount of CP: 
-
-⇒ 
-
-X=CP=€600, hence NW= € 200 
-
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-7-51 
-
-## **Exercise 2: Targeting Duration Gap** 
-
-## Consider the following incomplete balance sheet: 
-
-**==> picture [582 x 180] intentionally omitted <==**
-
-Note that cash has a 0 duration. 
-
-The manager wants to achieve a duration gap of 1.4 years 
-
-**Q** : How much commercial paper does the bank need to raise? What is this bank's net worth in this case? 
-
-**A** : denote with _X_ the amount of CP: 
-
-**==> picture [379 x 97] intentionally omitted <==**
-
-X=CP Solve for X: X=€600 
-
-Hence: NW= € 200 
-
+## Related Notes
+- [[Lect19_exercises]]
+- [[Lect23_Questions_Answers]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]

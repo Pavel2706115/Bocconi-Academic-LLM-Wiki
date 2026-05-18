@@ -1,548 +1,482 @@
-## 30066 – MACROECONOMICS 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "MONETARY POLICY IN THE REAL WORLD: THE ROLE OF COMMERCIAL BANKS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-(8 CFU) CLASS : BIEM 14 & 19 2024 – 25 **Lecture 8 -9  (Ch. 4 + GF)** Financial Markets with banks 
+## 30066 – MACROECONOMICS
 
-M I C H E L A B R A G A 
+(8 CFU) CLASS: BIEM 14 & 19 2024 – 25 **Lecture 8 -9  (Ch. 4 + GF)** Financial Markets with banks
 
-## WHERE WE ARE 
+## WHERE WE ARE
 
-## **Fundamentals** 
+## Fundamentals
 
-## **Extensions** 
+## Extensions
 
-## 1. Macroeconomic variables 
+## 1. Macroeconomic variables
 
-   - Elements of national accounting 
+- Elements of national accounting
 
-1. The short run 
+1. The short run
 
-   1. Goods markets 
+1. Goods markets
 
-   2. Financial markets 
+2. Financial markets
 
-      1. Without commercial banks 
+1. Without commercial banks
 
-      2. With commercial banks 
+2. With commercial banks
 
-   4. Expectations, financial markets, and economic policies 
+4. Expectations, financial markets, and economic policies
 
-      1. Financial markets and expectations 
+1. Financial markets and expectations
 
-      2. Consumption, investment, and expectations 
+2. Consumption, investment, and expectations
 
-      3. Output, economic policies, and expectations 
+3. Output, economic policies, and expectations
 
-3. IS-LM model 
+3. IS-LM model
 
-      5. Open economy 
+5. Open economy
 
-1. The medium run 
+1. The medium run
 
-   1. Labor market 
+1. Labor market
 
-   2. Phillips curve 
+2. Phillips curve
 
-   3. IS-LM-PC model 
+3. IS-LM-PC model
 
-   1. Exchange rates, trade, and international returns 
+1. Exchange rates, trade, and international returns
 
-   2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy 
+2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy
 
-6. Public debt and fiscal policy 
+6. Public debt and fiscal policy
 
-7. From the Great Recession to Quantitative Tightening 
+7. From the Great Recession to Quantitative Tightening
 
-   - From a housing crisis to a financial crisis 
+- From a housing crisis to a financial crisis
 
-   - Unconventional monetary policies 
+- Unconventional monetary policies
 
-2 
+# MONETARY POLICY IN THE REAL WORLD: THE ROLE OF COMMERCIAL BANKS
 
-# **MONETARY POLICY IN THE REAL WORLD: THE ROLE OF COMMERCIAL BANKS** 
+## THE EUROSYSTEM’S INSTRUMENTS
 
-## **THE EUROSYSTEM’S INSTRUMENTS** 
+- 3 main tools ( _conventional monetary policy_ ):
 
-- 3 main tools ( _conventional monetary policy_ ): 
+– **Open market operations**
 
-– **Open market operations** 
+- **Standing facilities**
 
-- **Standing facilities** 
+- _Deposit facility_
 
-   - _Deposit facility_ 
+- _Marginal lending facility_
 
-   - _Marginal lending facility_ 
+– **Minimum reserve requirements**
 
-– **Minimum reserve requirements** 
+They have an effect on commercial banks behavior
 
-They have an effect on commercial banks behavior 
+Since 2009 the ECB has implemented several measures of _unconventional monetary policy_
 
-Since 2009 the ECB has implemented several measures of _unconventional monetary policy_ 
+## THE INTEREST RATE IN THE EURO AREA
 
-## **THE INTEREST RATE IN THE EURO AREA** 
+- The ECB sets the 3 main interest rates for the Euro Area:
 
-- The ECB sets the 3 main interest rates for the Euro Area: 
+1. Interest rate on main refinancing operations ( _MRO_ ), to manage the bulk of liquidity: Open Market Operations
 
-   1. Interest rate on main refinancing operations ( _MRO_ ), to manage the bulk of liquidity: Open Market Operations 
+2. The interest rate on banks’ overnight deposits at the central bank (lower bound of the corridor) - The deposit rate influences commercial banks pay on our deposits
 
-   2. The interest rate on banks’ overnight deposits at the central bank (lower bound of the corridor)  The deposit rate influences commercial banks pay on our deposits 
+3. The interest rate on marginal lending operations, used by banks to get overnight liquidity from the CB (upper bound of the corridor)
 
-   3. The interest rate on marginal lending operations, used by banks to get overnight liquidity from the CB (upper bound of the corridor) 
+- The lending rate influences the interest rate commercial banks charge on our loans.
 
-      - The lending rate influences the interest rate commercial banks charge on our loans. 
+https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
 
-**==> picture [468 x 215] intentionally omitted <==**
+They have an effect on the liquidity supplied by commercial banks
 
-https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html 
+https://www.ecb.europa.eu/mopo/implement/mr/html/index.en.html
 
-**==> picture [298 x 95] intentionally omitted <==**
+## ROLE OF BANKS: A MORE REALISTIC PROCESS OF MONEY CREATION
 
-They have an effect on the liquidity supplied by commercial banks 
+They interact with the CB in the process of creating liquidity. The CB controls only a fraction of the total liquidity in the economy.
 
-https://www.ecb.europa.eu/mopo/implement/mr/html/index.en.html 
+## COMMERCIAL BANKS
 
-## **ROLE OF BANKS: A MORE REALISTIC PROCESS OF MONEY CREATION** 
+- Financial intermediaries: Institutions that
 
-They interact with the CB in the process of creating liquidity. The CB controls only a fraction of the total liquidity in the economy. 
+- receive funds from people and firms as deposits
 
-## COMMERCIAL BANKS 
+- use these funds
 
-- Financial intermediaries: Institutions that 
+- to buy financial assets
 
-   - receive funds from people and firms as deposits 
+- to make loans to other people and firms
 
-   - use these funds 
+- as  reserves
 
-      - to buy financial assets 
+- Why banks have to take reserves?
 
-      - to make loans to other people and firms 
+- Regulatory reasons: banks must keep reserves at the Central Bank proportional to deposits
 
-      - as  reserves 
+- Ensure the stability of the financial system if depositors want to withdraw their funds
 
-- Why banks have to take reserves? 
+- Precautionary  reasons: in a typical day, inflows and outflows are not balanced
 
-   - Regulatory reasons: banks must keep reserves at the Central Bank proportional to deposits 
+- banks exchange funds (reserves) on the interbank market
 
-      - Ensure the stability of the financial system if depositors want to withdraw their funds 
+https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
 
-   - Precautionary  reasons: in a typical day, inflows and outflows are not balanced 
+_Commercial Banks balance sheet_
 
-      - banks exchange funds (reserves) on the interbank market 
+**ASSETS LIABILITIES** Loans (L) Deposits (D) Bonds (B) Reserves (R) Aggregate demand 𝑀𝑀 𝑀𝑀= 𝐶 + 𝐷𝐷
 
-https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html 
+Banks have money, in the form of deposit accounts, as liabilities. Banks liabilities hence are money (deposits)
 
-_Commercial Banks balance sheet_ 
+## CB balance sheet
 
-**ASSETS LIABILITIES** Loans (L) Deposits (D) Bonds (B) Reserves (R) Aggregate demand 𝑀𝑀 𝑀𝑀= 𝐶 + 𝐷𝐷 
+**ASSETS LIABILITIES** Bonds (B) Currency (CU) Reserves (R) Central Bank Money (monetary base) 𝐻𝐻= 𝐶 + 𝑅𝑅
 
-Banks have money, in the form of deposit accounts, as liabilities. Banks liabilities hence are money (deposits) 
+The liabilities of the central bank are the money it has issued, called central bank money, or monetary base
 
-## _CB balance sheet_ 
+## MONETARY BASE MARKET
 
-**ASSETS LIABILITIES** Bonds (B) Currency (CU) Reserves (R) Central Bank Money (monetary base) 𝐻𝐻= 𝐶 + 𝑅𝑅 
+Market where the interest rate of reference for financial markets is determined based on the supply of monetary base and on the demand of monetary base
 
-The liabilities of the central bank are the money it has issued, called central bank money, or monetary base 
+## MONETARY BASE SUPPLY
 
-## **MONETARY BASE MARKET** 
+- Chosen and controlled by the CB with OMO Contractionary OMO Expansionary  OMO 𝐻𝐻↓ 𝐻𝐻↑
 
-Market where the interest rate of reference for financial markets is determined based on the supply of monetary base and on the demand of monetary base 
+CB **sells bonds** and
 
-## MONETARY BASE SUPPLY 
+CB **buys bonds** and ↓ the monetary base stock ↑ the monetary base stock
 
-• Chosen and controlled by the CB with OMO Contractionary OMO Expansionary  OMO 𝐻𝐻↓ 𝐻𝐻↑ 
+## MONETARY BASE DEMAND
 
-CB **sells bonds** and 
+- Monetary base demand arises from
 
-CB **buys bonds** and ↓ the monetary base stock ↑ the monetary base stock 
+- 1) Consumers/firms/public sector: want to have currency to make transactions
 
-**==> picture [274 x 194] intentionally omitted <==**
+- 2) Commercial banks: take reserves
 
-**----- Start of picture text -----**<br>
-H [S]<br>i<br>H<br>**----- End of picture text -----**<br>
+- The public takes the share c of the money as currency and the share (1-c) as deposits
 
+_Aggregate currency demand = CU_(d) = c M(d ) 0 ≤𝑐𝑐≤1
 
-## MONETARY BASE DEMAND 
+- Commercial Banks keep the share 𝜃𝜃 of their deposits as reserves  for their liquidity needs
 
-- Monetary base demand arises from 
+Demand for reserves = 𝑅𝑅(𝑑𝑑) = 𝜃𝜃𝐷𝐷= 𝜃𝜃(1 −c ) M(d) 0 ≤𝜃𝜃≤1 𝜃𝜃 reserve ratio: amount of reserves held for each € of deposits
 
-- 1) Consumers/firms/public sector: want to have currency to make transactions 
+- => The demand for currency becomes demand of monetary base (banknotes have to be printed) => The demand for reserves becomes demand of monetary base (banknotes have to be printed)
 
-- 2) Commercial banks: take reserves 
+𝑑𝑑 𝑑𝑑 Monetary Base demand = 𝐻𝐻(𝑑𝑑) = 𝐶 + 𝑅𝑅
 
-- The public takes the share c of the money as currency and the share (1-c) as deposits 
+## MONETARY BASE MARKET: EQUILIBRIUM
 
-_Aggregate currency demand = CU_[d] = c M[d ] 0 ≤𝑐𝑐≤1 
+Monetary base mkt in equilibrium when at the interest level there are no excess demand nor supply
 
-- Commercial Banks keep the share 𝜃𝜃 of their deposits as reserves  for their liquidity needs 
+## COMPARATIVE STATICS
 
-Demand for reserves = 𝑅𝑅[𝑑𝑑] = 𝜃𝜃𝐷𝐷= 𝜃𝜃(1 −c ) M[d] 0 ≤𝜃𝜃≤1 𝜃𝜃 reserve ratio : amount of reserves held for each € of deposits 
+- When the H mkt is in equilibrium:
 
-- => The demand for currency becomes demand of monetary base (banknotes have to be printed) => The demand for reserves becomes demand of monetary base (banknotes have to be printed) 
+the interest rate is at the level that induces agents and commercial banks to hold exactly the quantity of monetary base that the CB is willing to supply, given GDP, reserve ratio and the currency share
 
-𝑑𝑑 𝑑𝑑 Monetary Base demand = 𝐻𝐻[𝑑𝑑] = 𝐶 + 𝑅𝑅 
+- Possible shocks hitting the H market and affecting the equilibrium interest rate
 
-**==> picture [172 x 20] intentionally omitted <==**
+- H and 𝜃𝜃:
 
-**==> picture [377 x 20] intentionally omitted <==**
+- Monetary policy: change in H Policy instruments the CB uses to
 
-## MONETARY BASE MARKET: EQUILIBRIUM 
+- – Changes in regulation: change in 𝜃𝜃 (reserve ratio) influence the interest rate
 
-Monetary base mkt in equilibrium when at the interest level there are no excess demand nor supply 
+- – Changes in public behavior: change in 𝑐𝑐 (fraction of money in currency)
 
-**==> picture [615 x 370] intentionally omitted <==**
+## True or false:
 
-**----- Start of picture text -----**<br>
-𝑖𝑖 𝑖𝑖∶𝐻𝐻 [𝑠𝑠] = 𝐻𝐻 [𝑑𝑑]<br>𝐻𝐻 [𝑆𝑆]<br>𝐻𝐻= 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 €𝑌𝑌𝐿𝐿(𝑖𝑖)<br>Rigid wrt i<br>Same trend as  𝑀𝑀 [𝑑𝑑]<br>If  𝑖𝑖↑⇒𝑀𝑀 [𝑑𝑑] ↓<br>𝑑𝑑<br>−𝐶 ↓<br>−𝐷𝐷 [𝑑𝑑] ↓⇒𝑅𝑅 [𝑑𝑑] ↓ 𝐻𝐻 [𝑑𝑑] ↓<br>𝐸𝐸<br>𝑖𝑖 [∗]<br>𝐻𝐻 [d]<br>𝐻𝐻 𝐻𝐻 , monetary base stock<br>**----- End of picture text -----**<br>
+_To increase the interest rate, the CB can reduce the monetary base or increase the reserve requirement._
 
+**True!!!**
 
-## COMPARATIVE STATICS 
+## CONTRACTIONARY MONETARY POLICY
 
-- When the H mkt is in equilibrium: 
+The H market is in equilibrium at 0, and CB reduces H _H(s) to the left, H(d) =_
 
-the interest rate is at the level that induces agents and commercial banks to hold exactly the quantity of monetary base that the CB is willing to supply, given GDP, reserve ratio and the currency share 
+𝑖𝑖
 
-- Possible shocks hitting the H market and affecting the equilibrium interest rate 
+𝐻𝐻(s)
 
-   - H and 𝜃𝜃 : 
+Equilibrium moves from 0 to 1
 
-   - Monetary policy: change in H Policy instruments the CB uses to 
+- _**What happens economically?**_ – CB sells bonds => €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
 
-   - – Changes in regulation: change in 𝜃𝜃 (reserve ratio) influence the interest rate 
+- Decrease in monetary base supply => excess demand at the initial equilibrium interest rate
 
-   - – Changes in public behavior: change in 𝑐𝑐 (fraction of money in currency) 
+1 𝑖𝑖1
 
-## _**True or false:**_ 
+- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀(𝑑𝑑) ↓ and 𝐻𝐻(𝑑𝑑) ↓ up to become equal to the new lower supply
 
-_To increase the interest rate, the CB can reduce the monetary base or increase the reserve requirement._ 
+𝑖𝑖0
 
-**True!!!** 
+## INCREASE IN THE RESERVE RATIO
 
-## CONTRACTIONARY MONETARY POLICY 
+The H market is in equilibrium at 0, and CB increases θ
 
-The H market is in equilibrium at 0, and CB reduces H _H[s] to the left, H[d] =_ 
+_H(s) = , H(d)_ to the right since θ ↑
 
-𝑖𝑖 
+𝑖𝑖
 
-𝐻𝐻[s] 
+𝐻𝐻(s)
 
-Equilibrium moves from 0 to 1 
+Equilibrium moves from 0 to 1
 
-**==> picture [94 x 312] intentionally omitted <==**
+- _**What happens economically?**_ – θ ↑ => 𝑅𝑅(𝑑𝑑) ↑ and 𝐻𝐻(𝑑𝑑) ↑
 
-**----- Start of picture text -----**<br>
-1<br>0<br>ED<br>**----- End of picture text -----**<br>
+- At the initial interest rate there is an excess demand for monetary base
 
+- To clear the market i must increase
 
-- _**What happens economically?**_ – CB sells bonds => €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑ 
+𝑖𝑖1
 
-   - Decrease in monetary base supply => excess demand at the initial equilibrium interest rate 
+𝑖𝑖0
 
-1 𝑖𝑖1 
+𝐻𝐻(D′) 0 𝐻𝐻(D)
 
-- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀[𝑑𝑑] ↓ and 𝐻𝐻[𝑑𝑑] ↓ up to become equal to the new lower supply 
+- Agents sell bonds, €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
 
-𝑖𝑖0 
+- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀(𝑑𝑑) ↓ and 𝐻𝐻(𝑑𝑑) ↓ up to become equal to the new lower supply
 
-**==> picture [381 x 62] intentionally omitted <==**
+𝐻𝐻
 
-**----- Start of picture text -----**<br>
-𝐻𝐻 [D]<br>’<br>𝐻𝐻<br>**----- End of picture text -----**<br>
+## True or false:
 
+The diffusion of a new technology that makes electronic transactions safer will increase the interest rate only if MP is exogenous.
 
-**==> picture [20 x 19] intentionally omitted <==**
+**False!!!**
 
-**----- Start of picture text -----**<br>
-𝐻𝐻 ’<br>**----- End of picture text -----**<br>
+# EQUILIBRIUM FOR THE MONEY MARKET WITH BANKS
 
+## RELATIONSHIP  BETWEEN H and M
 
-**==> picture [14 x 19] intentionally omitted <==**
+## We have learnt that
 
-**----- Start of picture text -----**<br>
-𝐻𝐻<br>**----- End of picture text -----**<br>
+- The money market is in equilibrium if 𝑀𝑀(𝑆𝑆) = 𝑀𝑀(𝑑𝑑)
 
+- 𝑀𝑀(𝑆𝑆) = €𝑌𝑌𝐿𝐿(𝑖𝑖)
 
-## INCREASE IN THE RESERVE RATIO 
+- H market is in equilibrium  if
 
-The H market is in equilibrium at 0, and CB increases θ 
+𝐻𝐻(𝑆𝑆) = 𝐻𝐻(𝑑𝑑) 𝐻𝐻= 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 €𝑌𝑌𝐿𝐿(𝑖𝑖) Rearranging we obtain: _The interest rate at which the money market is in_ 1 𝐻𝐻= €𝑌𝑌𝐿𝐿(𝑖𝑖) _equilibrium is the same at_ 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 _which the monetary base market is in equilibrium m(M) >1 Monetary_ Money multiplier _base_ 𝑀𝑀(𝑑𝑑) 𝑀𝑀(𝑆𝑆)
 
-_H[s] = , H[d]_ to the right since θ ↑ 
+Rearranging we obtain:
 
-𝑖𝑖 
+## MONEY SUPPLY, 𝑀𝑀(𝑆𝑆)
 
-𝐻𝐻[s] 
+1 = 𝑀𝑀(𝑆𝑆) 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐
 
-Equilibrium moves from 0 to 1 
+𝐻𝐻
 
-- _**What happens economically?**_ – θ ↑ => 𝑅𝑅[𝑑𝑑] ↑ and 𝐻𝐻[𝑑𝑑] ↑ 
+The money supply in the economy depends:
 
-   - At the initial interest rate there is an excess demand for monetary base 
+- positively on monetary base, 𝐻𝐻 (controlled by CB):
 
-   - To clear the market i must increase 
+𝐻𝐻↑⇒𝑀𝑀(𝑆𝑆) ↑
 
-𝑖𝑖1 
+- negatively on reserve ratio, ), 𝜃𝜃 (controlled by CB ):
 
-𝑖𝑖0 
+𝑀𝑀(S) = m(M) H _i_
 
-1 
+𝜃𝜃↓⇒m(M) ↑⇒𝑀𝑀(𝑆𝑆) ↑
 
-𝐻𝐻[D′] 0 𝐻𝐻[D] 
+- negatively  on fraction of money in currency (public preferences), 𝑐𝑐:
 
-   - Agents sell bonds, €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑ 
+𝑐𝑐↓⇒m(M) ↑⇒𝑀𝑀(𝑆𝑆) ↑
 
-- 
+_M_
 
-- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀[𝑑𝑑] ↓ and 𝐻𝐻[𝑑𝑑] ↓ up to become equal to the new lower supply 
+## MULTIPLIER OF THE MONEY MARKET
 
-**==> picture [17 x 22] intentionally omitted <==**
+## The multiplier amplifies the effect of OMO
 
-**----- Start of picture text -----**<br>
-𝐻𝐻<br>**----- End of picture text -----**<br>
+- Assume there is no currency (money is held only as checkable deposits) and reserve requirement is 10%
 
+- 1
 
-𝐻𝐻 
+- - Since 𝑐𝑐= 0 the multiplier is 𝑚𝑚(𝑀𝑀) = 𝜃𝜃(= 10)
 
-## _**True or false:**_ 
+- Suppose CB creates 100€ of monetary base ( Δ𝐻𝐻= 1 00), the aggregate money supply increases by
 
-The diffusion of a new technology that makes electronic transactions safer will increase the interest rate only if MP is exogenous. 
+## THE MULTIPLIER IN ACTION
 
-**False!!!** 
+Takes reserves 𝑅𝑅= 10 𝐵𝐵
 
-# **EQUILIBRIUM FOR THE MONEY MARKET WITH BANKS** 
+Takes reserves 𝑅𝑅= 9
 
-## RELATIONSHIP  BETWEEN H and M 
+100 = ∆𝐻𝐻 Uses 90
 
-## We have learnt that 
+𝐵𝐵
 
-- The money market is in equilibrium if 𝑀𝑀[𝑆𝑆] = 𝑀𝑀[𝑑𝑑] 
+Loans Uses 81 = ∆𝑀𝑀(𝑆𝑆) 𝑚𝑚(𝑀𝑀) ∆𝐻𝐻
 
-- 𝑀𝑀[𝑆𝑆] = €𝑌𝑌𝐿𝐿(𝑖𝑖) 
+Takes reserves 𝑅𝑅= 8 ,1 Uses 72,9
 
-- H market is in equilibrium  if 
+….
 
-𝐻𝐻[𝑆𝑆] = 𝐻𝐻[𝑑𝑑] 𝐻𝐻= 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 €𝑌𝑌𝐿𝐿(𝑖𝑖) Rearranging we obtain: _The interest rate at which the money market is in_ 1 𝐻𝐻= €𝑌𝑌𝐿𝐿(𝑖𝑖) _equilibrium is the same at_ 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 _which the monetary base market is in equilibrium m[M] >1 Monetary_ Money multiplier _base_ 𝑀𝑀[𝑑𝑑] 𝑀𝑀[𝑆𝑆] 
+Two alternative ways of looking at the same equilibrium
 
-Rearranging we obtain: 
+Same value i* that clears the monetary base ( 𝐻𝐻 ) market and the money market ( 𝑀𝑀 )
 
-## MONEY SUPPLY, 𝑀𝑀[𝑆𝑆] 
+Shocks can be analyzed equivalently in the two markets obtaining the same result
 
-1 = 𝑀𝑀[𝑆𝑆] 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 
+## MONETARY POLICY
 
-𝐻𝐻 
+Contractionary MP
 
-The money supply in the economy depends : 
+## Which curve is affected?
 
-- positively on monetary base, 𝐻𝐻 (controlled by CB): 
+CB sells bonds and is paid with already existing  liquidity => 𝐻𝐻↓
 
-𝐻𝐻↑⇒𝑀𝑀[𝑆𝑆] ↑ 
+=> less liquidity in the economy, 𝑀𝑀(𝑆𝑆) shifts to the left
 
-- negatively on reserve ratio, ), 𝜃𝜃 (controlled by CB ): 
+## What happens to the interest rate? Why?
 
-𝑀𝑀[S] = m[M] H _i_ 
+BC sells bonds and  their supply increases => €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑ The higher interest rate reduces the money demand and closes the ED  that existed at the initial equilibrium interest rate i0. The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher
+*(See also: [[Trigari_03(Chapter 4)#^rwlaep]])*
 
-𝜃𝜃↓⇒m[M] ↑⇒𝑀𝑀[𝑆𝑆] ↑ 
+## SHOCK TO THE FRACTION OF MONEY IN CURRENCY
 
-• negatively  on fraction of money in currency (public preferences), 𝑐𝑐: 
+## Agents hold more currency
 
-𝑐𝑐↓⇒m[M] ↑⇒𝑀𝑀[𝑆𝑆] ↑ 
+1 = 𝑀𝑀(𝑆𝑆) 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 𝑀𝑀(𝐷𝐷) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) _ED_ ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀
 
-_M_ 
+## Which curve is affected?
 
-## MULTIPLIER OF THE MONEY MARKET 
+𝑐𝑐↑⇒𝑚𝑚(𝑀𝑀) ↓⇒𝑀𝑀(𝑆𝑆) ↓ (shifts left) Public deposits less
 
-**==> picture [553 x 145] intentionally omitted <==**
+- ⇒ Banks have fewer funds to make loans or buy bonds
 
-**----- Start of picture text -----**<br>
-= 𝑀𝑀 [𝑆𝑆] > H 𝐻𝐻≡ high-powered money<br>𝑀𝑀 [𝑆𝑆]  𝑚𝑚 [𝑀𝑀] 𝐻𝐻<br>> 1<br>𝑯𝑯 𝑴𝑴 If the CB creates 1€ of monetary base,<br>aggregate money supply increases<br>more than proportionally<br>**----- End of picture text -----**<br>
+- ⇒ Lower creation of aggregate money by the banking system given the monetary base controlled by the CB
 
+## What happens to the interest rate? Why?
 
-## The multiplier amplifies the effect of OMO 
+With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆)
 
-- Assume there is no currency (money is held only as checkable deposits) and reserve requirement is 10% 
+The interest rate must increase to clear the market
 
-- 1 
+Agents sell bonds
 
-- • Since 𝑐𝑐= 0 the multiplier is 𝑚𝑚[𝑀𝑀] = 𝜃𝜃[= 10] 
+€P ↓⇒i ↑ B The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher
 
-- Suppose CB creates 100€ of monetary base ( Δ𝐻𝐻= 1 00), the aggregate money supply increases by 
+## SHOCK TO THE RESERVE RATIO
 
-**==> picture [287 x 25] intentionally omitted <==**
+Increase in the reserve ratio
 
-## THE MULTIPLIER IN ACTION 
+1 = 𝑀𝑀(𝑆𝑆) 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 _ED_ 𝑀𝑀(𝐷𝐷) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀
 
-**==> picture [99 x 67] intentionally omitted <==**
+𝑀𝑀
 
-Takes reserves 𝑅𝑅= 10 𝐵𝐵 
+## Which curve is affected?
 
-Takes reserves 𝑅𝑅= 9 
+𝜃𝜃↑⇒𝑚𝑚(𝑀𝑀) ↓⇒𝑀𝑀(𝑆𝑆) ↓ (shifts left) Banks keep more reserves
 
-100 = ∆𝐻𝐻 Uses 90 
+⇒ fewer funds to extend loans or buy bonds ⇒ lower creation of aggregate money by the banking system given the monetary base controlled by the CB
 
-𝐵𝐵 
+## What happens to the interest rate? Why?
 
-**==> picture [86 x 59] intentionally omitted <==**
+With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆) The interest rate must increase to clear the market.
 
-Loans Uses 81 = ∆𝑀𝑀[𝑆𝑆] 𝑚𝑚[𝑀𝑀] ∆𝐻𝐻 
+Agents sell bonds €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
 
-**==> picture [91 x 61] intentionally omitted <==**
+As the interest rate increases as money demand decreases and closes the ED  that existed at the initial equilibrium interest rate i0.
 
-Takes reserves 𝑅𝑅= 8 ,1 Uses 72,9 
+The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher
 
-…. 
+## OBSERVATIONS
 
-Two alternative ways of looking at the same equilibrium 
+- What happens in the economy if only electronic transactions occur?
 
-**==> picture [535 x 206] intentionally omitted <==**
+1 𝑐𝑐= 0 ⇒ largest multiplier effect 𝑚𝑚(𝑀𝑀) = 𝜃𝜃
 
-**----- Start of picture text -----**<br>
-𝑀𝑀 [S] =  m  [M] H H<br>i i<br>0<br>0<br>i*<br>𝑀𝑀 [d] 𝐻𝐻 [d]<br>M H<br>**----- End of picture text -----**<br>
+- What happens in the economy if no electronic transactions occur?
 
+𝑐𝑐= 1 ⇒ no multiplier effect 𝑚𝑚(𝑀𝑀) = 1 => H=M
 
-Same value i* that clears the monetary base ( 𝐻𝐻 ) market and the money market ( 𝑀𝑀 ) 
+- _The share of money held as currency_
 
-Shocks can be analyzed equivalently in the two markets obtaining the same result 
+- does not influence the money demand
 
-## MONETARY POLICY 
+- Influences the currency/deposit demand and the reserve demand
 
-Contractionary MP 
+- Changes in c and _θ_
 
-**==> picture [308 x 383] intentionally omitted <==**
+- Change  H(d) in the monetary base market
 
-**----- Start of picture text -----**<br>
-1<br>=<br>𝑖𝑖 𝑀𝑀 [𝑆𝑆] 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝐻𝐻<br>1<br>𝑖𝑖1<br>0<br>𝑖𝑖0<br>ED 𝑀𝑀 [𝐷𝐷] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖)<br>𝑀𝑀 ’ 𝑀𝑀 𝑀𝑀<br>**----- End of picture text -----**<br>
+- Change  m(M) and hence M(s) in the money market
 
+…but produce the same effect on _i_
 
-## _**Which curve is affected?**_ 
+## QUICK CHECK
 
-CB sells bonds and is paid with already existing  liquidity => 𝐻𝐻↓ 
+In an economy where people held both currency and deposits, __________________ in the reserve ratio θ decreases the money supply and increases  the __________________.
 
-=> less liquidity in the economy, 𝑀𝑀[𝑆𝑆] shifts to the left 
+a) a decrease, monetary base supply
 
-## _**What happens to the interest rate? Why?**_ 
+b) an increase, monetary base supply c) a decrease, monetary base demand **d) an increase, monetary base demand**
 
-BC sells bonds and  their supply increases => €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑ The higher interest rate reduces the money demand and closes the ED  that existed at the initial equilibrium interest rate i0. The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher 
+## QUICK CHECK
 
-## SHOCK TO THE FRACTION OF MONEY IN CURRENCY 
+The money multiplier effect means that: a) decrease in bank reserves leads to an increase in the monetary base. **b) an increase in the monetary base leads to a more than proportional increase in the money supply.**
 
-## Agents hold more currency 
+c) The central bank directly controls the money supply by adjusting interest rates. d) an increase in the monetary base leads to a less than proportional increase in the money supply.
 
-1 = 𝑀𝑀[𝑆𝑆] 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 𝑀𝑀[𝐷𝐷] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) _ED_ ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀 
+## QUICK CHECK
 
-## _**Which curve is affected?**_ 
+If the central bank has an interest rate policy target, an increase in the share of money held in currency must be offset by
 
-𝑐𝑐↑⇒𝑚𝑚[𝑀𝑀] ↓⇒𝑀𝑀[𝑆𝑆] ↓ (shifts left) Public deposits less 
+**a) a decrease in the reserve requirement or an increase in the monetary base.** b) an increase  in the reserve requirement or a  decrease in the monetary base. c) an increase in money demand.
 
-- ⇒ Banks have fewer funds to make loans or buy bonds 
+d) A more than proportional decrease in the monetary base.
 
-- ⇒ Lower creation of aggregate money by the banking system given the monetary base controlled by the CB 
+## TAKE AWAY AND KEY CONCEPTS
 
-## _**What happens to the interest rate? Why?**_ 
+Money market extensions: commercial banks – Monetary base
 
-With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀[𝐷𝐷] > 𝑀𝑀[𝑆𝑆] 
+## –
 
-The interest rate must increase to clear the market 
+## Monetary base demand:
 
-Agents sell bonds 
+- Demand for currency
 
-€P ↓⇒i ↑ B The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher 
+- Demand for reserves
 
-## SHOCK TO THE RESERVE RATIO 
+- Contractionary and expansionary MP
 
-Increase in the reserve ratio 
+– Equilibrium: monetary base supply = monetary base demand
 
-1 = 𝑀𝑀[𝑆𝑆] 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 _ED_ 𝑀𝑀[𝐷𝐷] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀 
+– Equivalence btw M and H market
 
-𝑀𝑀 
+## – Money multiplier
 
-## _**Which curve is affected?**_ 
+- determinants
 
-𝜃𝜃↑⇒𝑚𝑚[𝑀𝑀] ↓⇒𝑀𝑀[𝑆𝑆] ↓ (shifts left) Banks keep more reserves 
+- Meaning
 
-⇒ fewer funds to extend loans or buy bonds ⇒ lower creation of aggregate money by the banking system given the monetary base controlled by the CB 
+## – Comparative statics on H and M market
 
-## _**What happens to the interest rate? Why?**_ 
+- monetary policy
 
-With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀[𝐷𝐷] > 𝑀𝑀[𝑆𝑆] The interest rate must increase to clear the market. 
+- reserves requirement
 
-Agents sell bonds €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑ 
+- share of money in currency
 
-As the interest rate increases as money demand decreases and closes the ED  that existed at the initial equilibrium interest rate i0. 
-
-The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher 
-
-## OBSERVATIONS 
-
-- What happens in the economy if only electronic transactions occur? 
-
-1 𝑐𝑐= 0 ⇒ largest multiplier effect 𝑚𝑚[𝑀𝑀] = 𝜃𝜃 
-
-- What happens in the economy if no electronic transactions occur? 
-
-𝑐𝑐= 1 ⇒ no multiplier effect 𝑚𝑚[𝑀𝑀] = 1 => H=M 
-
-- _The share of money held as currency_ 
-
-   - does not influence the money demand 
-
-   - Influences the currency/deposit demand and the reserve demand 
-
-- Changes in c and _θ_ 
-
-   - Change  H[d] in the monetary base market 
-
-   - Change  m[M] and hence M[s] in the money market 
-
-…but produce the same effect on _i_ 
-
-## QUICK CHECK 
-
-In an economy where people held both currency and deposits, __________________ in the reserve ratio θ decreases the money supply and increases  the __________________. 
-
-a) a decrease, monetary base supply 
-
-b) an increase, monetary base supply c) a decrease, monetary base demand **d) an increase, monetary base demand** 
-
-## QUICK CHECK 
-
-The money multiplier effect means that: a) decrease in bank reserves leads to an increase in the monetary base. **b) an increase in the monetary base leads to a more than proportional increase in the money supply.** 
-
-c) The central bank directly controls the money supply by adjusting interest rates. d) an increase in the monetary base leads to a less than proportional increase in the money supply. 
-
-## QUICK CHECK 
-
-If the central bank has an interest rate policy target, an increase in the share of money held in currency must be offset by 
-
-**a) a decrease in the reserve requirement or an increase in the monetary base.** b) an increase  in the reserve requirement or a  decrease in the monetary base. c) an increase in money demand. 
-
-d) A more than proportional decrease in the monetary base. 
-
-## TAKE AWAY AND KEY CONCEPTS 
-
-Money market extensions: commercial banks – Monetary base 
-
-## – 
-
-## Monetary base demand: 
-
-   - Demand for currency 
-
-   - Demand for reserves 
-
-- Contractionary and expansionary MP 
-
-– Equilibrium: monetary base supply = monetary base demand 
-
-– Equivalence btw M and H market 
-
-## – Money multiplier 
-
-- determinants 
-
-- Meaning 
-
-## – Comparative statics on H and M market 
-
-- monetary policy 
-
-- reserves requirement 
-
-- share of money in currency 
-
+## Related Notes
+- [[Trigari_03(Chapter 4)]]
+- [[L7 Financial Markets without banks]]
+- [[L10 ISLM model]]

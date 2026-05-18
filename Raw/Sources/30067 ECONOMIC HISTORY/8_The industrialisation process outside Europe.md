@@ -1,368 +1,300 @@
-AN UNSTOPPABLE PROCESS Alfani-Colli, chapters 6.4 and 8.2+8.3 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "8_The industrialisation process outside Europe"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Economic history Ay 2025/2026 Sonia Schifano 
+AN UNSTOPPABLE PROCESS Alfani-Colli, chapters 6.4 and 8.2+8.3
 
-## INDUSTRIALIZATION BEYOND EUROPE: USA 
+Economic history Ay 2025/2026 Sonia Schifano
 
-- At the time of independence (1783) – The Constitution took effect in 1789 
+## INDUSTRIALIZATION BEYOND EUROPE: USA
 
-   - Almost 90% of the population was working in agriculture 
+- At the time of independence (1783) – The Constitution took effect in 1789
 
-   - In the following years the cotton industry in the USA became the largest in supplying raw material worldwide (1820-1860) 
+- Almost 90% of the population was working in agriculture
 
-- The large domestic market played an important role to boost the mass production industries 
+- In the following years the cotton industry in the USA became the largest in supplying raw material worldwide (1820-1860)
 
-- During the first half of the 19th century: 
+- The large domestic market played an important role to boost the mass production industries
 
-   - states, municipalities and privates invested in turnpikes and canals to integrate the huge internal market 
+- During the first half of the 19th century:
 
-   - Railway network in 1840 exceeded the one in all of Europe boosting transportation services and industrial sectors (iron and steel) 
+- states, municipalities and privates invested in turnpikes and canals to integrate the huge internal market
 
-2025/2026 
+- Railway network in 1840 exceeded the one in all of Europe boosting transportation services and industrial sectors (iron and steel)
 
-30067 
+2025/2026
 
-## INDUSTRIALIZATION BEYOND EUROPE: USA 
+## INDUSTRIALIZATION BEYOND EUROPE: USA
 
-- Increasing population: 
+- Increasing population:
 
-   - From 4 million in 1790 to 40 million to 1870  **population growth** 
+- From 4 million in 1790 to 40 million to 1870 - **population growth**
 
-## • **Increase in income and wealth** 
+- **Increase in income and wealth**
 
-   - Scarcity of labour with respect to land and other resources 
+- Scarcity of labour with respect to land and other resources
 
-      - higher wages and standard of living 
+- higher wages and standard of living
 
-   - Political and religious liberties 
+- Political and religious liberties
 
-- Abundance of resources explains higher per capita income but not higher rate of **economic growth** (wrt Western Europe) 
+- Abundance of resources explains higher per capita income but not higher rate of **economic growth** (wrt Western Europe)
 
-   - Rapid progress technology 
+- Rapid progress technology
 
-   - Regional specialization  favoured by high physical dimension and varied climates 
+- Regional specialization - favoured by high physical dimension and varied climates
 
-2025/2026 
+2025/2026
 
-30067 
+## THE US ECONOMY
 
-**==> picture [520 x 471] intentionally omitted <==**
+- At the onset of the Civil War (1861-1865)
 
-## THE US ECONOMY 
+- North East specialized in manufacturing, large-scale commerceand finance;
 
-- At the onset of the Civil War (1861-1865) 
+- The West, a vast and continually expanding territory, specialised in livestock farming and the cultivation of wheat, maize and other cereals;
 
-- North East specialized in manufacturing, large-scale commerceand finance; 
+- The South, concentrated on colonial products (cotton, sugar cane, tobacco etc.) primarily destined for export.
 
-- The West, a vast and continually expanding territory, specialised in livestock farming and the cultivation of wheat, maize and other cereals; 
+2025/2026
 
-- The South, concentrated on colonial products (cotton, sugar cane, tobacco etc.) primarily destined for export. 
+## INDUSTRIALIZATION BEYOND EUROPE: USA
 
-2025/2026 
+- Non agricultural labour force >workers in agriculture in 1880 and income from manufacturing began to exceed that from agriculture
 
-30067 
+- **By 1890 the USA was the most industrial nation**
 
-## INDUSTRIALIZATION BEYOND EUROPE: USA 
+- Big corporations
 
-- Non agricultural labour force >workers in agriculture in 1880 and income from manufacturing began to exceed that from agriculture 
+- Central office
 
-      - **By 1890 the USA was the most industrial nation** 
+- Integration of production and distribution
 
-- Big corporations 
+- Multinational expansion
 
-   - Central office 
+- University education started to provide courses for mechanical, electrical and chemical engineers
 
-   - Integration of production and distribution 
+- Business schools were introduced to study the strategy and management practices of the big industrial corporations
 
-   - Multinational expansion 
+2025/2026
 
-- University education started to provide courses for mechanical, electrical and chemical engineers 
+## INDUSTRIALIZATION BEYOND EUROPE: USA
 
-- Business schools were introduced to study the strategy and management practices of the big industrial corporations 
+2025/2026
 
-2025/2026 
+## TAYLORISM OR _SCIENTIFIC MANAGEMENT_
 
-30067 
+Mechanical engineer and business consultant, Frederick Taylor is the founding father of the scientific organisation of work ( _Principles of scientific management_ , 1911)
 
-## INDUSTRIALIZATION BEYOND EUROPE: USA 
+The elements that characterise it are:
 
-**==> picture [588 x 344] intentionally omitted <==**
+- identification of the best way of doing things
 
-2025/2026 
+- personnel selection and training
 
-30067 
+- division of labour and management tasks
 
-## TAYLORISM OR _SCIENTIFIC MANAGEMENT_ 
+Taylor's goal is to increase the **efficiency** of the production process in order to **increase profi** t.
 
-Mechanical engineer and business consultant, Frederick Taylor is the founding father of the scientific organisation of work ( _Principles of scientific management_ , 1911) 
+## FORDISM
 
-The elements that characterise it are: 
+_teach the worker the only best way to do his job”,_ but _“arrange things in such a way that he can only do his best work_ ”.
 
-- identification of the best way of doing things 
+It maximises the principle of **standardisation and economies of scale**:
 
-- personnel selection and training 
+- The tasks of individual workers are parcelled out
 
-- division of labour and management tasks 
+- movements reduced to a minimum
 
-Taylor's goal is to increase the **efficiency** of the production process in order to **increase profi** t. 
+- the required skills are practically non-existent
 
-A.y. 2025/2026 
+The (engineering) design of the production layout and the assembly line solve the problem of work organisation.
 
-30067 
+To this Ford combined
 
-7 
+- high wages,
 
-## FORDISM 
+- corporate welfare, and
 
-_teach the worker the only best way to do his job”,_ but _“arrange things in such a way that he can only do his best work_ ”. 
+- total intolerance towards any form of trade union.
 
-It maximises the principle of **standardisation and economies of scale** : 
+2025/2026
 
-- The tasks of individual workers are parcelled out 
+## What about the East the relationship with the West of the World?
 
-- movements reduced to a minimum 
+2025/2026
 
-- the required skills are practically non-existent 
+## INDUSTRIALIZATION BEYOND EUROPE: CHINA
 
-The (engineering) design of the production layout and the assembly line solve the problem of work organisation. 
+- Qing Dinasty - The Manchu conquered Beijing in 1645
 
-To this Ford combined 
+- Population grew from approximately circa 275 million in 1700 to approximately 350 million in 1800
 
-- high wages, 
+- It was an agriculture economy
 
-- corporate welfare, and 
+- Exporting mainly to Britain tea and silk
 
-- total intolerance towards any form of trade union. 
+- British products were not requested by the Chinese market
 
-A.y. 2025/2026 
+- Silver Mexican dollars were shipped to China
 
-30067 
+- This was costly for Britain and when they discovered that Chinese had a taste for opium - Mexican silver substituted with Opium from Bengal
 
-8 
+- Effects on health of China’s population
 
-**==> picture [603 x 340] intentionally omitted <==**
+- China’s balance of trade became negative
 
-2025/2026 
+- Increasing corruption and administrative disorders
 
-30067 
+2025/2026
 
-## What about the East the relationship with the West of the World? 
+## INDUSTRIALIZATION BEYOND EUROPE: CHINA
 
-2025/2026 
+- **Opium Wars** of 1840 and 1860  and the **Unequal Treaties**
 
-30067 
+- China gave Hong Kong to Britain
 
-## INDUSTRIALIZATION BEYOND EUROPE: CHINA 
+- 5 new ports were opened
 
-- Qing Dinasty - The Manchu conquered Beijing in 1645 
+- Indemnity paid
 
-- Population grew from approximately circa 275 million in 1700 to approximately 350 million in 1800 
+- Other Western Nations obtained favourable treatments
 
-- It was an agriculture economy 
+- Showing the weakness of the government
 
-- Exporting mainly to Britain tea and silk 
+- Provoking antigovernment and antiforeign demonstrations ultimating in 1900-1901with the Boxer Rebellion
 
-   - British products were not requested by the Chinese market 
+- Chinese students sent abroad for further studies, especially to Japan, became critical towards traditional society
 
-         - Silver Mexican dollars were shipped to China 
+- Sun Yat-Sen’s republican revolution of 1912 – The new Republic of China
 
-   - This was costly for Britain and when they discovered that Chinese had a taste for opium  Mexican silver substituted with Opium from Bengal 
+- The political weakness prevented China to experience an early industrialisation phase
 
-      - Effects on health of China’s population 
+2025/2026
 
-      - China’s balance of trade became negative 
+## INDUSTRIALIZATION BEYOND EUROPE
 
-      - Increasing corruption and administrative disorders 
+- Public intervention in the process of national industrialisation is also decisive in the first examples of transformation outside (or at the margins of) Europe.
 
-2025/2026 
+- It started at the turn of the 19th and 20th centuries, as a result of exogenous shocks and the .
 
-30067 
+- spread of the **globalisation**
 
-## INDUSTRIALIZATION BEYOND EUROPE: CHINA 
+2025/2026
 
-- **Opium Wars** of 1840 and 1860  and the **Unequal Treaties** 
+## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
-   - China gave Hong Kong to Britain 
+- Japan of the Tokugawa period (1603-1868) was a closed world
 
-   - 5 new ports were opened 
+- ( _sakoku_ = chained country). Europeans arrived in Japan in 1543, but after a century no foreigners could trade, except for the Koreans, Dutch and Chinese (via Nagasaki).
 
-   - Indemnity paid 
+- During this period, however, there were some modernising thrusts:
 
-   - Other Western Nations obtained favourable treatments 
+- development of urban centres
 
-   - Showing the weakness of the government 
+- blossoming of luxury handicrafts
 
-   - Provoking antigovernment and antiforeign demonstrations ultimating in 1900-1901with the Boxer Rebellion 
+- spread of production models similar to the European putting-out system
 
-   - Chinese students sent abroad for further studies, especially to Japan, became critical towards traditional society 
+- formation of mercantile (rice trade) and credit circuits
 
-      - Sun Yat-Sen’s republican revolution of 1912 – The new Republic of China 
+- widespread primary education
 
-- The political weakness prevented China to experience an early industrialisation phase 
+- development of good road network: favoured rudimentary integration of the national market and the formation of regional markets
 
-2025/2026 
+2025/2026
 
-30067 
+2025/2026
 
-## INDUSTRIALIZATION BEYOND EUROPE 
+2025/2026
 
-- Public intervention in the process of national industrialisation is also decisive in the first examples of transformation outside (or at the margins of) Europe. 
+## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
-- It started at the turn of the 19th and 20th centuries, as a result of exogenous shocks and the . 
+- Japanese isolation was broken in the years 1853-1854: a US military ship entered the port of Edo (Tokyo) and forced the opening of trade relations between the two countries under threat of bombing the city.
+*(See also: [[Economic History Blab Handout 2024-2025 A.Y.#^16nua2]])*
 
-- spread of the **globalisation** 
+- In short time, other countries forced Japan to enter into (unequal) commercial agreements that were a clear sign of the weakness of the shogunate:
 
-**==> picture [448 x 228] intentionally omitted <==**
+- the agreements granted extraterritoriality to foreign merchants
 
-2025/2026 
+- prevented the Japanese authorities from raising any tariff above 5%
 
-30067 
+- The opening to international trade was not beneficial to Japan: the local industries, even the more advanced (like those of cotton) were damaged by the Western competition.
 
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN 
+2025/2026
 
-- Japan of the Tokugawa period (1603-1868) was a closed world 
+## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
-   - ( _sakoku_ = chained country). Europeans arrived in Japan in 1543, but after a century no foreigners could trade, except for the Koreans, Dutch and Chinese (via Nagasaki). 
+- In 1868 an alliance of aristocrats defeated the shogunate. Emperor Mutsuhito ascended the .
 
-- During this period, however, there were some modernising thrusts: 
+- throne, to reign over Japan until 1912. 1868 is the start of the **Meiji restoration**
 
-      - development of urban centres 
+- The new imperial policy was based on the goal of becoming a ‘first class nation’. The slogan used was _fokoku kyohei_ or ‘rich nation, strong army’.
 
-      - blossoming of luxury handicrafts 
+2025/2026
 
-      - spread of production models similar to the European putting-out system 
+## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
-**==> picture [356 x 178] intentionally omitted <==**
+The emperor initiated a vast modernisation programme for the country inspired by the best Western models:
 
-- formation of mercantile (rice trade) and credit circuits 
+- Reform of the administration
 
-- widespread primary education 
+- Reform of the armed forces
 
-- development of good road network: favoured rudimentary integration of the national market and the formation of regional markets 
+- Tax reform
 
-2025/2026 
+- Reform of the educational system
 
-30067 
+- Company law reform
 
-**==> picture [900 x 400] intentionally omitted <==**
+- Infrastructure construction
 
-2025/2026 
+- Modernisation of credit and banking system
 
-30067 
+- Accession to the international monetary system (gold standard)
 
-**==> picture [548 x 451] intentionally omitted <==**
+2025/2026
 
-2025/2026 
+## COPYING THE WEST
 
-30067 
+- Japan imported technological knowledge from abroad.
 
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN 
+- Employed foreign advisors and experts who worked both with the state and as employees in the private sector.
 
-- Japanese isolation was broken in the years 1853-1854: a US military ship entered the port of Edo (Tokyo) and forced the opening of trade relations between the two countries under threat of bombing the city. 
+- Sent missions or individual Japanese abroad.
 
-- In short time, other countries forced Japan to enter into (unequal) commercial agreements that were a clear sign of the weakness of the shogunate: 
+2025/2026
 
-   - the agreements granted extraterritoriality to foreign merchants 
+2025/2026
 
-   - prevented the Japanese authorities from raising any tariff above 5% 
+## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
-- The opening to international trade was not beneficial to Japan: the local industries, even the more advanced (like those of cotton) were damaged by the Western competition. 
+The Meiji government tackled the problem of industrialisation in two ways:
 
-2025/2026 
+- through the creation of infrastructures, among which the railway network had a prominent place
 
-30067 
+- through the direct establishment of production plants in the shipbuilding sector, the iron and steel sector, the production of weapons, tools and machinery, the chemical sector, sugar refining, glass, textiles
 
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN 
+These industrial activities were then sold to private individuals, becoming the first nucleus of the large private industrial groups in formation: the _zaibatsu_ .
 
-- In 1868 an alliance of aristocrats defeated the shogunate. Emperor Mutsuhito ascended the . 
+To stimulate industrialisation the government also used the **import substitution policy**: tariff barriers on imported products to stimulate the development of domestic industry.
 
-- throne, to reign over Japan until 1912. 1868 is the start of the **Meiji restoration** 
+2025/2026
 
-- The new imperial policy was based on the goal of becoming a ‘first class nation’. The slogan used was _fokoku kyohei_ or ‘rich nation, strong army’. 
+2025/2026
 
-**==> picture [448 x 226] intentionally omitted <==**
+2025/2026
 
-2025/2026 
-
-30067 
-
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN 
-
-The emperor initiated a vast modernisation programme for the country inspired by the best Western models: 
-
-**==> picture [277 x 209] intentionally omitted <==**
-
-- Reform of the administration 
-
-- Reform of the armed forces 
-
-- Tax reform 
-
-- Reform of the educational system 
-
-- Company law reform 
-
-- Infrastructure construction 
-
-- Modernisation of credit and banking system 
-
-- Accession to the international monetary system (gold standard) 
-
-2025/2026 
-
-30067 
-
-**==> picture [344 x 242] intentionally omitted <==**
-
-## COPYING THE WEST 
-
-- Japan imported technological knowledge from abroad. 
-
-- Employed foreign advisors and experts who worked both with the state and as employees in the private sector. 
-
-- Sent missions or individual Japanese abroad. 
-
-**==> picture [327 x 206] intentionally omitted <==**
-
-**==> picture [554 x 200] intentionally omitted <==**
-
-2025/2026 
-
-30067 
-
-**==> picture [429 x 321] intentionally omitted <==**
-
-**==> picture [465 x 349] intentionally omitted <==**
-
-2025/2026 
-
-30067 
-
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN 
-
-The Meiji government tackled the problem of industrialisation in two ways: 
-
-- through the creation of infrastructures, among which the railway network had a prominent place 
-
-- through the direct establishment of production plants in the shipbuilding sector, the iron and steel sector, the production of weapons, tools and machinery, the chemical sector, sugar refining, glass, textiles 
-
-These industrial activities were then sold to private individuals, becoming the first nucleus of the large private industrial groups in formation: the _zaibatsu_ . 
-
-To stimulate industrialisation the government also used the **import substitution policy** : tariff barriers on imported products to stimulate the development of domestic industry. 
-
-2025/2026 
-
-30067 
-
-**==> picture [702 x 375] intentionally omitted <==**
-
-2025/2026 
-
-30067 
-
-**==> picture [899 x 410] intentionally omitted <==**
-
-2025/2026 
-
-30067 
-
+## Related Notes
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- [[6_The industrialisation process_2]]
+- [[18_Decolonization and Asian Tigers]]

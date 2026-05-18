@@ -1,816 +1,469 @@
-**INTERNAL ANALYSIS 30060 – MANAGEMENT** Management Book – chapter 9 
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "slideset 9"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-2 
+**INTERNAL ANALYSIS 30060 – MANAGEMENT** Management Book – chapter 9
 
-INTERNAL ANALYSIS 
+## AGENDA
 
-## AGENDA 
+1. FIRM’S CORE COMPETENCIES
 
-1. FIRM’S CORE COMPETENCIES 
+2. RESOURCE-BASED VIEW
 
-2. RESOURCE-BASED VIEW 
+3. VALUE CHAIN ANALYSIS
 
-3. VALUE CHAIN ANALYSIS 
+4. STRATEGIC ACTIVITY SYSTEMS
 
-4. STRATEGIC ACTIVITY SYSTEMS 
+5. SWOT ANALYSIS
 
-5. SWOT ANALYSIS 
+6. SUMMARY OF MAIN POINTS
 
-6. SUMMARY OF MAIN POINTS 
+What is inside the firm?
 
-**==> picture [105 x 54] intentionally omitted <==**
+## INTERNAL ANALYSIS
 
-3 
+What is inside the firm?
 
-What is inside the firm? 
+Core competencies, resources, and capabilities are key to competitive advantage’s creation and sustainability
 
-**==> picture [105 x 54] intentionally omitted <==**
+1.0
 
-4 
+**FIRM’S CORE COMPETENCIES**
 
-## INTERNAL ANALYSIS 
+FIRM’S CORE COMPETENCIES
 
-What is inside the firm? 
+## We define **CORE COMPETENCIES**
 
-Core competencies, resources, and capabilities are key to competitive advantage’s creation and sustainability 
+Core competencies allow firm’s ability to gain and sustain competitive advantage by differentiating its products & services from rivals, creating higher value for the customer, and offering products at lower costs Core competencies are unique strengths, embedded deep within the firm.
 
-**==> picture [105 x 54] intentionally omitted <==**
+FIRM'S CORE COMPETENCIES
 
-**==> picture [462 x 153] intentionally omitted <==**
+Five Guys Core competencies WHAT IS FIVE GUYS?
 
-**==> picture [462 x 153] intentionally omitted <==**
+Five Guys is an American fast casual restaurant chain focused on hamburgers, hot dogs and french fries Approx. 1.7 bn USD turnover; employing more than 5,000 employees.
 
-1.0 
+## Core Competency
 
-**FIRM’S CORE COMPETENCIES** 
+A superior ability to deliver fresh, customized hamburgers using only the highest quality ingredients
 
-**==> picture [105 x 54] intentionally omitted <==**
+What Five Guys decided not to do: No Food Delivery (until the pandemic…) No Marketing Expenditures No Full menu
 
-6 
+FIRM'S CORE COMPETENCIES
 
-FIRM’S CORE COMPETENCIES 
+Very limited menu with great ingredients and attention to quality + high prices
 
-## We define **CORE COMPETENCIES** 
+## FIRM'S CORE COMPETENCIES
 
-Core competencies allow firm’s ability to gain and sustain competitive advantage by differentiating its products & services from rivals, creating higher value for the customer, and offering products at lower costs Core competencies are unique strengths, embedded deep within the firm. 
+What is inside the firm?
 
-**==> picture [105 x 54] intentionally omitted <==**
+Core competencies must be constantly nourished. There may be invisible part of core competencies (i.e. intangible resources)
 
-7 
+FIRM’S CORE COMPETENCIES
 
-FIRM'S CORE COMPETENCIES 
+## 3 Key points
 
-Five Guys Core competencies WHAT IS FIVE GUYS? 
+## RESOURCES
 
-Five Guys is an American fast casual restaurant chain focused on hamburgers, hot dogs and french fries Approx. 1.7 bn USD turnover; employing more than 5,000 employees. 
+Any assets that a firm can draw on when formulating or implementing a strategy
 
-## Core Competency 
+— Tangible & Intangible
 
-A superior ability to deliver fresh, customized hamburgers using only the highest quality ingredients 
+## CAPABILITIES
 
-What Five Guys decided not to do: No Food Delivery (until the pandemic…) No Marketing Expenditures No Full menu 
+Organizational and managerial skills necessary to deploy a diverse set of resources
 
-**==> picture [105 x 54] intentionally omitted <==**
+— Intangible
 
-**==> picture [131 x 102] intentionally omitted <==**
+## ACTIVITIES
 
-8 
+Distinct and finegrained business processes that enable firms to add incremental value by transforming inputs into goods and services
 
-FIRM'S CORE COMPETENCIES 
+FIRM'S CORE COMPETENCIES
 
-**==> picture [226 x 267] intentionally omitted <==**
+## Some practical examples
 
-**==> picture [105 x 54] intentionally omitted <==**
+2.0 **RESOURCE-BASED VIEW**
 
-Very limited menu with great ingredients and attention to quality + high prices 
+## RBV – Key assumptions
 
-## FIRM'S CORE COMPETENCIES 
+Internal resources are key to achieve and sustain competitive advantage
 
-What is inside the firm? 
+**RESOURCE HETEROGENEITY**
 
-Core competencies must be constantly nourished. There may be invisible part of core competencies (i.e. intangible resources) 
+## RESOURCE IMMOBILITY
 
-**==> picture [105 x 54] intentionally omitted <==**
+Bundles of resources, capabilities and competencies differ across firms. Application: Southwest Airlines and Alaska Airlines
 
-**==> picture [59 x 24] intentionally omitted <==**
+Resources do not move easily from firm to firm. “ Stickiness ”.
 
-**----- Start of picture text -----**<br>
-9<br>**----- End of picture text -----**<br>
+Application: Southwest Airlines and Continental/Delta
 
+## RESOURCE-BASED VIEW
 
-**==> picture [461 x 175] intentionally omitted <==**
+## What are resources?
 
-**==> picture [461 x 175] intentionally omitted <==**
+## RESOURCE-BASED VIEW
 
-10 
+## Physical Resources
 
-FIRM’S CORE COMPETENCIES 
+Property, plants and equipment — Typically acquired by firms at market prices
 
-## 3 Key points 
+Heterogeneously distributed
 
-## **RESOURCES** 
+- Firm location
 
-Any assets that a firm can draw on when formulating or implementing a strategy 
+- Geographic access to key inputs
 
-— Tangible & Intangible 
+## Human Resources
 
-## **CAPABILITIES** 
+- Recruiting skills (i.e. Patagonia)
 
-Organizational and managerial skills necessary to deploy a diverse set of resources 
+- Employee’s specific knowledge, skills, experience…
 
-— Intangible 
+## Organizational/Intangible Resources
 
-## **ACTIVITIES** 
+— Corporate cultures idiosyncratic to firms and very hard to imitate (i.e. organizational culture at Zappos)
 
-Distinct and finegrained business processes that enable firms to add incremental value by transforming inputs into goods and services 
+- Brand loyalty and reputation
 
-**==> picture [105 x 54] intentionally omitted <==**
+## The VRIO Framework
 
-11 
+Valuable
 
-FIRM'S CORE COMPETENCIES 
+Valuable resources enable a firm to increase its economic value creation (V - C)
 
-## Some practical examples 
+Costly to Imitate If firms that do not possess the resource are unable to develop or buy the resource at a reasonable price.
 
-||Company|Core Competencies|Application Examples|
-|---|---|---|---|
-|||•<br>Superior IT and AI capabilities<br>•<br>Superior customer service<br>•<br>Diversification across different industries<br>•<br>Establishing an ecosystem|•<br>Online retailing<br>•<br>Full vertical integration<br>•<br>Cloud computing|
-|||•<br>Superior industrial design in integration of<br>hardware and software<br>•<br>Superior marketing and retailing experience.<br>•<br>Establishing and maintining an ecosystem<br>of products and services|•<br>Creation of innovative and<br>category-defining mobile<br>devices and software<br>services|
-|||•<br>Superior marketing and distribution|•<br>Leveraging one of the<br>world’s most recognized<br>brands into a diverse lineup<br>of soft drinks<br>•<br>Global availability of the<br>product|
-|||||
+- Direct Imitation
 
+- Substitution
 
+Rare If one or few firms possess it.
 
-2.0 **RESOURCE-BASED VIEW** 
+Organized to capture value An effective organizational structure and coordinating systems.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## RESOURCE-BASED VIEW
 
-13 
+## The story of XEROX Parc and Apple
 
-RESOURCE-BASED VIEW 
+## RESOURCE-BASED VIEW
 
-## RBV – Key assumptions 
+## VRIO and Competitive Advantage
 
-Internal resources are key to achieve and sustain competitive advantage 
+## RESOURCE-BASED VIEW
 
-**RESOURCE HETEROGENEITY** 
+## The case of Google: data-based human capital management
 
-## **RESOURCE IMMOBILITY** 
+**VALUABLE**
 
-Bundles of resources, capabilities and competencies differ across firms. Application: Southwest Airlines and Alaska Airlines 
+**RARE INIMITABILITY ORGANIZATION**
 
-Resources do not move easily from firm to firm. “ Stickiness ”. 
+Google use data-based HCM to hire and retain innovative and productive employees
 
-Application: Southwest Airlines and Continental/Delta 
+Extensive use created unique dataset
 
-**==> picture [105 x 54] intentionally omitted <==**
+Costly and difficult to imitate
 
-14 
+IT, HR and team leaders have the necessary skills
 
-## RESOURCE-BASED VIEW 
+## How to sustain a Competitive Advantage?
 
-## What are resources? 
+Several conditions allow firms to protect their resources, compentencies and capabilities.
 
-**==> picture [308 x 290] intentionally omitted <==**
+## BETTER EXPECTATIONS OF FUTURE RESOURCE VALUE
 
-**==> picture [155 x 181] intentionally omitted <==**
+## INTELLECTUAL PROPERTY PROTECTION
 
-**==> picture [105 x 54] intentionally omitted <==**
+If better expectations can be systematically repeated over time, a firm develop a Sustainable Competitive Advantage
 
-**==> picture [170 x 172] intentionally omitted <==**
+- Patents: Bio/Pharmaceutical firms
 
-15 
+- — Design
 
-## RESOURCE-BASED VIEW 
+- Copyrights: singers, writers
 
-## Physical Resources 
+- — Trademarks: brands
 
-Property, plants and equipment — Typically acquired by firms at market prices 
+- Trade secrets: Coca-Cola, Ferrero (Nutella)
 
-Heterogeneously distributed 
+## How to sustain a Competitive Advantage?
 
-- Firm location 
+## SOCIAL COMPLEXITY
 
-- Geographic access to key inputs 
+**CAUSAL AMBIGUITY**
 
-**==> picture [105 x 54] intentionally omitted <==**
+**PATH DEPENDENCE**
 
-**==> picture [362 x 121] intentionally omitted <==**
+Different social and business systems interact and are combined
 
-16 
+At Zappos, you must consider together organizational culture, reverse social engineering and the industry.
 
-RESOURCE-BASED VIEW 
+Cause and Effect of the phenomenon are not apparent
 
-## Human Resources 
+It is very difficult to pinpoint the sources of Apple's success: Steve Jobs? Tim Cook? Timing? Rare skills? A combination of them?
 
-- Recruiting skills (i.e. Patagonia) 
+Decisions made in the past limit the options one faces. Time compression diseconomies make difficult for rivals to replicate a resource quickly.
 
-- Employee’s specific knowledge, skills, experience… 
+GM lost the advantage acquired in 1990s in electric cars since it changed strategy, while Toyota continued to invest in electric cars having 30 years later a competitive advantage.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## RESOURCE-BASED VIEW
 
-**==> picture [452 x 155] intentionally omitted <==**
+Read this article
 
-17 
+## Let’s apply the VRIO framework
 
-RESOURCE-BASED VIEW 
+What’s the resource on which ASML’s competitive advantage is based? Is this resource VALUABLE? Why? Is this resource RARE? Why? Is this resource COSTLY TO IMITATE? And what are barriers to imitation that protect it? Is this resource ORGANIZED? Why?
 
-## Organizational/Intangible Resources 
+## Let’s apply the VRIO framework
 
-— Corporate cultures idiosyncratic to firms and very hard to imitate (i.e. organizational culture at Zappos) 
-
-- Brand loyalty and reputation 
-
-**==> picture [286 x 162] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-18 
-
-RESOURCE-BASED VIEW 
-
-## The VRIO Framework 
-
-Valuable 
-
-Valuable resources enable a firm to increase its economic value creation (V - C) 
-
-Costly to Imitate If firms that do not possess the resource are unable to develop or buy the resource at a reasonable price. 
-
-- Direct Imitation 
-
-- Substitution 
-
-Rare If one or few firms possess it. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Organized to capture value An effective organizational structure and coordinating systems. 
-
-19 
-
-## RESOURCE-BASED VIEW 
-
-## The story of XEROX Parc and Apple 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [364 x 273] intentionally omitted <==**
-
-20 
-
-## RESOURCE-BASED VIEW 
-
-## VRIO and Competitive Advantage 
-
-**==> picture [561 x 232] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-21 
-
-## RESOURCE-BASED VIEW 
-
-## The case of Google: data-based human capital management 
-
-**VALUABLE** 
-
-**RARE INIMITABILITY ORGANIZATION** 
-
-**==> picture [82 x 81] intentionally omitted <==**
-
-**==> picture [74 x 74] intentionally omitted <==**
-
-**==> picture [73 x 74] intentionally omitted <==**
-
-**==> picture [73 x 73] intentionally omitted <==**
-
-Google use data-based HCM to hire and retain innovative and productive employees 
-
-Extensive use created unique dataset 
-
-Costly and difficult to imitate 
-
-IT, HR and team leaders have the necessary skills 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-22 
-
-RESOURCE-BASED VIEW 
-
-## How to sustain a Competitive Advantage? 
-
-Several conditions allow firms to protect their resources, compentencies and capabilities. 
-
-## **BETTER EXPECTATIONS OF FUTURE RESOURCE VALUE** 
-
-## **INTELLECTUAL PROPERTY PROTECTION** 
-
-If better expectations can be systematically repeated over time, a firm develop a Sustainable Competitive Advantage 
-
-- Patents: Bio/Pharmaceutical firms 
-
-- — Design 
-
-   - Copyrights: singers, writers 
-
-- — Trademarks: brands 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-- Trade secrets: Coca-Cola, Ferrero (Nutella) 
-
-23 
-
-RESOURCE-BASED VIEW 
-
-## How to sustain a Competitive Advantage? 
-
-## **SOCIAL COMPLEXITY** 
-
-**CAUSAL AMBIGUITY** 
-
-**PATH DEPENDENCE** 
-
-Different social and business systems interact and are combined 
-
-At Zappos, you must consider together organizational culture, reverse social engineering and the industry. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Cause and Effect of the phenomenon are not apparent 
-
-It is very difficult to pinpoint the sources of Apple's success: Steve Jobs? Tim Cook? Timing? Rare skills? A combination of them? 
-
-Decisions made in the past limit the options one faces. Time compression diseconomies make difficult for rivals to replicate a resource quickly. 
-
-GM lost the advantage acquired in 1990s in electric cars since it changed strategy, while Toyota continued to invest in electric cars having 30 years later a competitive advantage. 
-
-24 
-
-## RESOURCE-BASED VIEW 
-
-Read this article 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [319 x 346] intentionally omitted <==**
-
-25 
-
-RESOURCE-BASED VIEW 
-
-## Let’s apply the VRIO framework 
-
-What’s the resource on which ASML’s competitive advantage is based? Is this resource VALUABLE? Why? Is this resource RARE? Why? Is this resource COSTLY TO IMITATE? And what are barriers to imitation that protect it? Is this resource ORGANIZED? Why? 
-
-26 
-
-RESOURCE-BASED VIEW 
-
-## Let’s apply the VRIO framework 
-
-||What’s the resource on<br>which ASML’s competitive<br>advantage is based?|Extreme ultraviolet (EUV) light technology to etch integrated circuits<br>onto silicon wafers.|
+|What’s the resource on which ASML’s competitive advantage is based?|Extreme ultraviolet (EUV) light technology to etch integrated circuits onto silicon wafers.|
 |---|---|---|
-||||
-||Is this resource<br>VALUABLE? Why?|Yes. It allows the etching of smaller components than previous<br>technology (Deep ultraviolet).|
-||Is this resource RARE?<br>Why?|Yes. ASML is the monopolist of this technology.|
-||Is this resource COSTLY TO<br>IMITATE? And what are<br>barriers to imitation that<br>protect it?|Yes. Path dependence/time compression diseconomies: it took twenty<br>years to arrive at the technology and cannot be replicated quickly. Better<br>expectations: ASML invested in the technology before the others. Trade<br>secrets: ASML tries to protect the technology from industrial espionage.|
-||Is this resource<br>ORGANIZED? Why?|Yes. ASML is the manufacturer of the equipment and receive funding<br>from customers to develop further research.|
-||||
+|
+|Is this resource VALUABLE? Why?|Yes. It allows the etching of smaller components than previous technology (Deep ultraviolet).|
+|Is this resource RARE? Why?|Yes. ASML is the monopolist of this technology.|
+|Is this resource COSTLY TO IMITATE? And what are barriers to imitation that protect it?|Yes. Path dependence/time compression diseconomies: it took twenty years to arrive at the technology and cannot be replicated quickly. Better expectations: ASML invested in the technology before the others. Trade secrets: ASML tries to protect the technology from industrial espionage.|
+|Is this resource ORGANIZED? Why?|Yes. ASML is the manufacturer of the equipment and receive funding from customers to develop further research.|
+|
+*(See also: [[Full-material presentation Chapter 9#^bp3gu7]])*
 
+3.0 **THE VALUE CHAIN**
 
+The Value Chain The internal activities a firm engages in when transforming inputs into outputs. Each activity adds incremental value and incremental costs.
 
-3.0 **THE VALUE CHAIN** 
+What are Five Guys’ primary activities?
 
-**==> picture [105 x 54] intentionally omitted <==**
+## FIVE GUYS: primary activities
 
-28 
+**SUPPLY OPERATIONS DISTRIBUTION MARKETING AFTER CHAIN & SALES SALES** Sourcing Dedicated Suitable Store Motivated Customers ingredients Equipment Locations and Salesforce first delivery
 
-THE VALUE CHAIN 
+4.0 **STRATEGIC ACTIVITY SYSTEMS**
 
-The Value Chain The internal activities a firm engages in when transforming inputs into outputs. Each activity adds incremental value and incremental costs. 
+## Strategic Activity Systems
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Firm as a network of interconnected activities that can be the foundation of its competitive advantage
 
-**==> picture [444 x 285] intentionally omitted <==**
+- Hard to imitate
 
-29 
+- Evolve over time if a firm is to sustain its competitive advantage
 
-What are Five Guys’ primary activities? 
+- In response to changing environments, firms need to upgrade value creating activities and adapt their activity systems
 
-**==> picture [105 x 54] intentionally omitted <==**
+## STRATEGIC ACTIVITY SYSTEMS
 
-30 
+## Strategic Activity Systems: Vanguard Group
 
-THE VALUE CHAIN 
+- One of the largest investment companies in the world
 
-## FIVE GUYS: primary activities 
+- Clients: individual investors, financial professionals, institutional investors
 
-**SUPPLY OPERATIONS DISTRIBUTION MARKETING AFTER CHAIN & SALES SALES** Sourcing Dedicated Suitable Store Motivated Customers ingredients Equipment Locations and Salesforce first delivery 
+- Mission: help clients reach their financial goals by being their highest-value provider of investment products and services
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Founded in 1992, Vanguard provides low-cost investing and quality services for its clients
 
-4.0 **STRATEGIC ACTIVITY SYSTEMS** 
+- Vanguard's strategic activity system needed to evolve over time as the company grew and market conditions changed (i.e. introduction of a new core activity: customer segmentation)
 
-**==> picture [105 x 54] intentionally omitted <==**
+## STRATEGIC ACTIVITY SYSTEMS
 
-32 
+**The Vanguard Group Example: 1997** Vanguard had less than 500$ billion assets under management Highest-value provider of investment products through its interconnected activities.
 
-STRATEGIC ACTIVITY SYSTEMS 
+## STRATEGIC ACTIVITY SYSTEMS
 
-## Strategic Activity Systems 
+**The Vanguard Group Example: 2019**
 
-- Firm as a network of interconnected activities that can be the foundation of its competitive advantage 
+Vanguard had 5$ trillion (x10 times1997) assets under management Customers have changed, so Vanguard added a new core activity: Customer Segmentation
 
-- Hard to imitate 
+## STRATEGIC ACTIVITY SYSTEMS
 
-- Evolve over time if a firm is to sustain its competitive advantage 
+## Strategic Activity Systems: Ikea in 1996
 
-- In response to changing environments, firms need to upgrade value creating activities and adapt their activity systems 
+Source: M. Porter (1996), “What is Strategy?”, Harvard Business Review.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## STRATEGIC ACTIVITY SYSTEMS
 
-33 
+Strategic Activity Systems: Southwest in 1996
 
-## STRATEGIC ACTIVITY SYSTEMS 
+Source: M. Porter (1996), “What is Strategy?”, Harvard Business Review.
 
-## Strategic Activity Systems: Vanguard Group 
+5.0 **SWOT ANALYSIS**
 
-- One of the largest investment companies in the world 
+## SWOT Analysis
 
-- Clients: individual investors, financial professionals, institutional investors 
+## SWOT Analysis
 
-- Mission: help clients reach their financial goals by being their highest-value provider of investment products and services 
+**FOCUS ON THE STRENGTHSOPPORTUNITIES**
 
-**==> picture [197 x 116] intentionally omitted <==**
+To derive «offensive» alternatives by using an internal strenght to exploit an external opportunity.
 
-- Founded in 1992, Vanguard provides low-cost investing and quality services for its clients 
+## FOCUS ON THE WEAKNESSES-THREATS
 
-- Vanguard's strategic activity system needed to evolve over time as the company grew and market conditions changed (i.e. introduction of a new core activity: customer segmentation) 
+To derive defensive alternatives by eliminating or minimizing an internal weakness to mitigate an external threat.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## FOCUS ON THE STRENGHTS-THREATS
 
-34 
+To use an internal strenght to minimize the effect of an external threat.
 
-## STRATEGIC ACTIVITY SYSTEMS 
+**FOCUS ON THE WEAKNESSES - OPPORTUNITIES**
 
-**The Vanguard Group Example: 1997** Vanguard had less than 500$ billion assets under management Highest-value provider of investment products through its interconnected activities. 
+To shore up an internal weakness to improve its ability to take advantage of an external opportunity.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Starbucks – SWOT Analysis
 
-**==> picture [446 x 170] intentionally omitted <==**
+## OPERATING NUMBERS
 
-**==> picture [446 x 170] intentionally omitted <==**
+## WHAT IS STARBUCKS
 
-35 
+2020: it operates in more than 30,000 locations worldwide, across 79 countries in 6 continents
 
-## STRATEGIC ACTIVITY SYSTEMS 
+- American multinational chain of coffee houses and roastery
 
-**The Vanguard Group Example: 2019** 
+- Traded at Nasdaq stock market
 
-Vanguard had 5$ trillion (x10 times1997) assets under management Customers have changed, so Vanguard added a new core activity: Customer Segmentation 
+## FINANCIALS
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Revenue: 23.5 bn USD
 
-**==> picture [446 x 340] intentionally omitted <==**
+- Net income: 928,300 USD
 
-36 
+What are Starbucks’ strengths, weaknesses, opportunities, and threats?
 
-## STRATEGIC ACTIVITY SYSTEMS 
+## SWOT Analysis: Starbucks
 
-## Strategic Activity Systems: Ikea in 1996 
+## STRENGTHS
 
-**==> picture [105 x 54] intentionally omitted <==**
+## OPPORTUNITIES
 
-**==> picture [407 x 297] intentionally omitted <==**
+- Very profitable organization
 
-Source: M. Porter (1996), “What is Strategy?”, Harvard Business Review. 
+- Premium brand, strong brand recognition
 
-37 
+- Its business model can be easily replicated to access new countries
 
-## STRATEGIC ACTIVITY SYSTEMS 
+- Worldwide presence (in all continents)
 
-Strategic Activity Systems: Southwest in 1996 
+- Great supply chain
 
-**==> picture [383 x 139] intentionally omitted <==**
+- Atmosphere in Starbucks locations (comfy and urban)
 
-**==> picture [105 x 54] intentionally omitted <==**
+## WEAKNESSES
 
-**==> picture [383 x 140] intentionally omitted <==**
+- Products not customized to local tastes (coffees are the same in every country)
 
-Source: M. Porter (1996), “What is Strategy?”, Harvard Business Review. 
+- - Too expensive for many customers (on average a coffee costs 3euro)
 
-5.0 **SWOT ANALYSIS** 
+## But…
 
-**==> picture [105 x 54] intentionally omitted <==**
+## THREATS
 
-39 
+- Exposition to rises in the cost of coffee and dairy products
 
-SWOT ANALYSIS 
+- Trends towards healthier life style (reducing fat drinks and sweets)
 
-## SWOT Analysis 
+- The US market is saturated, where almost 15,000 of Starbucks locations are located
 
-PESTEL FIVE FORCES 
+## Why not Italy?
 
-RBV 
+Seattle, 1986. The first “Starbucks” restaurant.
 
-**==> picture [105 x 54] intentionally omitted <==**
+Howard Schultz conceived Starbucks restaurants after a trip to Milan, where he discovered the Italian espresso bar.
 
-**==> picture [549 x 195] intentionally omitted <==**
+“During my first trip to Milan in 1983, I was captivated by the sense of community I found in the city’s espresso bars… After Milan I flew back to the United States, excited to share what I experienced. But my bosses, the first founders of Starbucks, for whom I had tremendous respect, did not share my dream of re-creating the coffee bar experience in Seattle. I was crushed, but my belief was so powerful that, in April 1986, I left Starbucks and raised money from local investors to found my own retail coffee company. I named it **Il Giornale** after Milan’s daily newspaper.”
 
-40 
+## Starbucks was afraid it could fail in Italy
 
-SWOT ANALYSIS 
+- Very strong Italian coffee culture, with rituals and sophisticated habits
 
-## SWOT Analysis 
+- Customers used to pay 1 € for their coffee dose
 
-01 
+- Bars in Italy were everywhere and had loyal customers
 
-**FOCUS ON THE STRENGTHSOPPORTUNITIES** 
+- Many drank their coffee quickly and standing, not Starbucks’ model
 
-To derive «offensive» alternatives by using an internal strenght to exploit an external opportunity. 
+- Possible nationalistic animosity
 
-02 
+- Failing in Italy was risky for Starbucks’ global reputation
 
-## **FOCUS ON THE WEAKNESSES-THREATS** 
+Should have Starbucks entered Italy?
 
-To derive defensive alternatives by eliminating or minimizing an internal weakness to mitigate an external threat. 
+## Should have Starbucks entered Italy?
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Let’s apply our decision-making framework.
 
-03 
+Scenarios ??? ??? Actions Enter Italy ? ? Not enter Italy ? ?
 
-## **FOCUS ON THE STRENGHTS-THREATS** 
+## Should have Starbucks entered Italy?
 
-To use an internal strenght to minimize the effect of an external threat. 
+Let’s use the utility model and put appropriate numbers in the matrix.
 
-04 
+Scenarios Italians love Italians hate Starbucks Starbucks Actions Enter Italy ? ? Not enter Italy ? ?
 
-**FOCUS ON THE WEAKNESSES - OPPORTUNITIES** 
+## Should have Starbucks entered Italy?
 
-To shore up an internal weakness to improve its ability to take advantage of an external opportunity. 
+## What’s the probability threshold for “Italians love Starbucks”?
 
-41 
+## Should have Starbucks entered Italy?
 
-SWOT ANALYSIS 
+Based on our analysis, Starbucks should have entered Italy if it believed that there was a greater probability than 67.7% that Italians would love its restaurants.
 
-## Starbucks – SWOT Analysis 
+So, Starbucks needed:
 
-## **OPERATING NUMBERS** 
+- A theory of how Italians would react to Starbucks restaurants -> which one?
 
-## **WHAT IS STARBUCKS** 
+- To collect insight from experts -> probably pessimistic
 
-2020: it operates in more than 30,000 locations worldwide, across 79 countries in 6 continents 
+- To run experiments with restaurants in Italy -> how to run them?
 
-- American multinational chain of coffee houses and roastery 
+## How RBV could help
 
-- Traded at Nasdaq stock market 
+**VALUABLE RARE INIMITABILITY ORGANIZATION**
 
-**==> picture [115 x 120] intentionally omitted <==**
+Were Starbucks’ resources valuable in Italy?
 
-## **FINANCIALS** 
+Was Starbucks able to effectively deploy and adapt its resources to Italy?
 
-- Revenue: 23.5 bn USD 
+## What Starbucks did
 
-- Net income: 928,300 USD 
+1. They worked on the **probability** of success by putting in a very high level of effort. They opened a big Starbucks Reserve Roastery in Milan, at the time only the third in the world after Seattle and Shanghai.
 
-**==> picture [105 x 54] intentionally omitted <==**
+It was a flagship restaurant that had global advertising value even in case it was unprofitable. It could survive even if the other restaurants failed.
 
-42 
+Milan, 2018. Starbucks Reserve Roastery.
 
-What are Starbucks’ strengths, weaknesses, opportunities, and threats? 
+## What Starbucks did
 
-**==> picture [105 x 54] intentionally omitted <==**
+2. They combined their **resources** with an Italian retail partner – Percassi Group – that had a long experience as a franchisee of big brands (Lego, Gucci, Ferrari, Nike, Wagamama, Zara, ...) and with its own chain (Kiko).
 
-43 
+Percassi, which manages all Starbucks restaurants in Italy apart from the Roastery, had the knowledge of the Italian market and retail sector that Starbucks lacked.
 
-SWOT ANALYSIS 
+Percassi also provided expert insight and had run its own “experiments” in the past with international brands.
 
-## SWOT Analysis: Starbucks 
+Milan, 2018. Left to right: Antonio Percassi, Howard Schultz and Giuseppe Sala (mayor of Milan)
 
-## **STRENGTHS** 
+6.0
 
-## **OPPORTUNITIES** 
+**SUMMARY OF MAIN POINTS**
 
-- Very profitable organization 
+## In summary
 
-- Premium brand, strong brand recognition 
+- Why and how internal firm differences are the root of competitive advantage
 
-   - Its business model can be easily replicated to access new countries 
+- Differentiate among a firm's core competencies, resources, capabilities, and activities
 
-- Worldwide presence (in all continents) 
+- Apply the VRIO Framework to assess the competitive advantage of a firm's resources.
 
-- Great supply chain 
+- Apply a Value Chain Analysis
 
-- Atmosphere in Starbucks locations (comfy and urban) 
+- Conduct a SWOT Analysis
 
-## **WEAKNESSES** 
-
-- Products not customized to local tastes (coffees are the same in every country) 
-
-- • Too expensive for many customers (on average a coffee costs 3euro) 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-## But… 
-
-## **THREATS** 
-
-- Exposition to rises in the cost of coffee and dairy products 
-
-- Trends towards healthier life style (reducing fat drinks and sweets) 
-
-- The US market is saturated, where almost 15,000 of Starbucks locations are located 
-
-44 
-
-SWOT ANALYSIS 
-
-**==> picture [622 x 242] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-884<br>What country was missing?<br>Number of stores<br>of Starbucks in<br>Europe in 2017<br>302<br>161121107 91<br>65 63 59<br>45<br>28 26 20 18 18 17 17 17 13 11 7 5 2 1<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [536 x 65] intentionally omitted <==**
-
-45 
-
-SWOT ANALYSIS 
-
-## Why not Italy? 
-
-**==> picture [222 x 211] intentionally omitted <==**
-
-Seattle, 1986. The first “Starbucks” restaurant. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Howard Schultz conceived Starbucks restaurants after a trip to Milan, where he discovered the Italian espresso bar. 
-
-“During my first trip to Milan in 1983, I was captivated by the sense of community I found in the city’s espresso bars… After Milan I flew back to the United States, excited to share what I experienced. But my bosses, the first founders of Starbucks, for whom I had tremendous respect, did not share my dream of re-creating the coffee bar experience in Seattle. I was crushed, but my belief was so powerful that, in April 1986, I left Starbucks and raised money from local investors to found my own retail coffee company. I named it **Il Giornale** after Milan’s daily newspaper.” 
-
-46 
-
-SWOT ANALYSIS 
-
-## Starbucks was afraid it could fail in Italy 
-
-**==> picture [239 x 234] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-- Very strong Italian coffee culture, with rituals and sophisticated habits 
-
-- Customers used to pay 1 € for their coffee dose 
-
-- Bars in Italy were everywhere and had loyal customers 
-
-- Many drank their coffee quickly and standing, not Starbucks’ model 
-
-- Possible nationalistic animosity 
-
-- Failing in Italy was risky for Starbucks’ global reputation 
-
-47 
-
-Should have Starbucks entered Italy? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-48 
-
-STARBUCKS IN ITALY 
-
-## Should have Starbucks entered Italy? 
-
-## Let’s apply our decision-making framework. 
-
-Scenarios ??? ??? Actions Enter Italy ? ? Not enter Italy ? ? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-49 
-
-STARBUCKS IN ITALY 
-
-## Should have Starbucks entered Italy? 
-
-Let’s use the utility model and put appropriate numbers in the matrix. 
-
-Scenarios Italians love Italians hate Starbucks Starbucks Actions Enter Italy ? ? Not enter Italy ? ? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-50 
-
-STARBUCKS IN ITALY 
-
-## Should have Starbucks entered Italy? 
-
-## What’s the probability threshold for “Italians love Starbucks”? 
-
-**==> picture [656 x 263] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Scenarios Italians love  Italians hate<br>Starbucks Starbucks<br>Actions<br>Enter Italy 100 -200<br>Not enter Italy 0 0<br>Benefits of adding a new market,  Losses in Italy + potentially big<br>probably not huge (most Italians will  harm to the global reputation of<br>continue to go to their bars) Starbucks<br>**----- End of picture text -----**<br>
-
-
-51 
-
-STARBUCKS IN ITALY 
-
-## Should have Starbucks entered Italy? 
-
-Based on our analysis, Starbucks should have entered Italy if it believed that there was a greater probability than 67.7% that Italians would love its restaurants. 
-
-So, Starbucks needed: 
-
-- A theory of how Italians would react to Starbucks restaurants -> which one? 
-
-- To collect insight from experts -> probably pessimistic 
-
-- To run experiments with restaurants in Italy -> how to run them? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-52 
-
-STARBUCKS IN ITALY 
-
-## How RBV could help 
-
-**VALUABLE RARE INIMITABILITY ORGANIZATION** 
-
-**==> picture [82 x 80] intentionally omitted <==**
-
-**==> picture [73 x 74] intentionally omitted <==**
-
-Were Starbucks’ resources valuable in Italy? 
-
-Was Starbucks able to effectively deploy and adapt its resources to Italy? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-53 
-
-STARBUCKS IN ITALY 
-
-## What Starbucks did 
-
-1. They worked on the **probability** of success by putting in a very high level of effort. They opened a big Starbucks Reserve Roastery in Milan, at the time only the third in the world after Seattle and Shanghai. 
-
-It was a flagship restaurant that had global advertising value even in case it was unprofitable. It could survive even if the other restaurants failed. 
-
-**==> picture [253 x 170] intentionally omitted <==**
-
-Milan, 2018. Starbucks Reserve Roastery. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-54 
-
-STARBUCKS IN ITALY 
-
-## What Starbucks did 
-
-2. They combined their **resources** with an Italian retail partner – Percassi Group – that had a long experience as a franchisee of big brands (Lego, Gucci, Ferrari, Nike, Wagamama, Zara, ...) and with its own chain (Kiko). 
-
-Percassi, which manages all Starbucks restaurants in Italy apart from the Roastery, had the knowledge of the Italian market and retail sector that Starbucks lacked. 
-
-Percassi also provided expert insight and had run its own “experiments” in the past with international brands. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [227 x 180] intentionally omitted <==**
-
-Milan, 2018. Left to right: Antonio Percassi, Howard Schultz and Giuseppe Sala (mayor of Milan) 
-
-6.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-56 
-
-SUMMARY 
-
-## In summary 
-
-- Why and how internal firm differences are the root of competitive advantage 
-
-- Differentiate among a firm's core competencies, resources, capabilities, and activities 
-
-- Apply the VRIO Framework to assess the competitive advantage of a firm's resources. 
-
-- Apply a Value Chain Analysis 
-
-- Conduct a SWOT Analysis 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
+## Related Notes
+- [[Full-material presentation Chapter 9]]
+- [[slideset 11]]
+- [[slideset 7_v.2]]

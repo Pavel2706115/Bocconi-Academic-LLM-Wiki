@@ -1,396 +1,366 @@
-# Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Valuation of a stock (Chapter 13)** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Valuation of a stock (Chapter 13)**"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [311 x 193] intentionally omitted <==**
+# Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Valuation of a stock (Chapter 13)**
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Price of a Stock
 
+- We all know **Apple** to be a successful company
 
-**==> picture [300 x 193] intentionally omitted <==**
+✓ any idea how much a stock of Apple would cost? `o` check it out
 
-**----- Start of picture text -----**<br>
-13-1<br>**----- End of picture text -----**<br>
+- ✓ and check out the growth rate: on 1(st) Aug 1997 it was selling for 65.8 cents
 
+- ✓ it really only took off when first i-Phone was announced in 2007
 
-## **Price of a Stock** 
+- ✓ they are now the company with the largest market capitalization in the world: $3.47 trillion!
 
-- We all know **Apple** to be a successful company 
+- it was $2.4 trillion 2 ys ago
 
-✓ any idea how much a stock of Apple would cost? `o` check it out 
+## Price of a Stock
 
-- ✓ and check out the growth rate: on 1[st] Aug 1997 it was selling for 65.8 cents 
+- ✓ Ever heard of **Berkshire Hathaway Inc.** ?
 
-- ✓ it really only took off when first i-Phone was announced in 2007 
+`o` it’s Warren Buffett’s investment company
 
-- ✓ they are now the company with the largest market capitalization in the world: $3.47 trillion! 
+- Warren Buffett is one of the richest man on earth, he’s been running the company for 50+ years
 
-   - it was $2.4 trillion 2 ys ago 
+- ✓ Buying a share in Berkshire Hathaway seems like a good investment.
 
-## **Price of a Stock** 
+`o` want to buy? Check out the price
 
-- ✓ Ever heard of **Berkshire Hathaway Inc.** ? 
+- ✓ It’s one of the few financial companies in the US among the top 20 by market cap
 
-`o` it’s Warren Buffett’s investment company 
+## Computing the Price of a Stock
 
-   - Warren Buffett is one of the richest man on earth, he’s been running the company for 50+ years 
+- ✓ The principle of valuing common stock is no different from valuing debt securities:
 
-- ✓ Buying a share in Berkshire Hathaway seems like a good investment. 
+1. Determine the cash flows
 
-`o` want to buy? Check out the price 
+2. Discount them to the present
 
-- ✓ It’s one of the few financial companies in the US among the top 20 by market cap 
+3. Price them at their PV
 
-## **Computing the Price of a Stock** 
+- ✓ But … the pricing of a stock is much **harder** in practice than it is for bonds. Why?
 
-- ✓ The principle of valuing common stock is no different from valuing debt securities: 
+## Computing the Price of a Stock
 
-   1. Determine the cash flows 
+**Q**: what are the two items that compose a stock cash flow? ( _i.e._ how do you make money by owning a stock?) Are they both certain?
 
-   2. Discount them to the present 
+## Computing the Price of a Stock
 
-   3. Price them at their PV 
+**Q**: what are the two items that compose a stock cash flow? ( _i.e._ how do you make money by owning a stock?) Are they both certain?
 
-- ✓ But … the pricing of a stock is much **harder** in practice than it is for bonds. Why? 
+## A:
 
-## **Computing the Price of a Stock** 
+**1. Dividends** (share of company’s profits distributed to stockholders)
 
-**Q** : what are the two items that compose a stock cash flow? ( _i.e._ how do you make money by owning a stock?) Are they both certain? 
+## 2. Future sales price
 
-## **Computing the Price of a Stock** 
+No, neither one is certain …
 
-**Q** : what are the two items that compose a stock cash flow? ( _i.e._ how do you make money by owning a stock?) Are they both certain? 
+- … and different stockholders may have different information about the stock and thus they have different valuations
 
-## **A:** 
+## The One-Period Valuation Model
 
-**1. Dividends** (share of company’s profits distributed to stockholders) 
+✓ Take the simplest model, just take the expected dividend and the expected price over the next year.
 
-## **2. Future sales price** 
+𝐷𝑖𝑣 𝑃 1 1 = 𝑃 + 0 1 + 𝑘 1 + 𝑘 𝑒 𝑒
 
-No, neither one is certain … 
+## where:
 
-- … and different stockholders may have different information about the stock and thus they have different valuations 
+`o` 𝑃 0 is the price today `o` 𝑃 1 is the (forecasted) price next year `o` 𝐷𝑖𝑣 1 is the (expected) dividend next year `o` 𝑘 𝑒: rate for discounting stocks
 
-## **The One-Period Valuation Model** 
+- works like YTM, but _usually it’s higher …_ - because stocks are riskier, so you discount future cash flows more!
 
-✓ Take the simplest model, just take the expected dividend and the expected price over the next year. 
+## The One-Period Valuation Model
 
-𝐷𝑖𝑣 𝑃 1 1 = 𝑃 + 0 1 + 𝑘 1 + 𝑘 𝑒 𝑒 
+- ✓ Suppose you see a stock trading at $50 paying $0.16 in dividend per year
 
-## where: 
+✓ You read an analyst forecast that price is expected to rise to $60 next year
 
-`o` 𝑃 0 is the price today `o` 𝑃 1 is the (forecasted) price next year `o` 𝐷𝑖𝑣 1 is the (expected) dividend next year `o` 𝑘 𝑒 : rate for discounting stocks 
+✓ You decide you want to have 12% to be compensated for risk
 
-▪ works like YTM, but _usually it’s higher …_ ▪ because stocks are riskier, so you discount future cash flows more! 
+**Q**: Find the price using your compensation for risk 𝑃0∗ . Should you buy?
 
-## **The One-Period Valuation Model** 
+## The One-Period Valuation Model
 
-- ✓ Suppose you see a stock trading at $50 paying $0.16 in dividend per year 
+- ✓ 𝑃 ≤𝑃∗ if market price is lower than (or equal to) your value ( 0 0 or also: $50 ≤$53.71 ): **buy**
 
-✓ You read an analyst forecast that price is expected to rise to $60 next year 
+- ✓ 𝑃 > 𝑃∗ or also: if market price is higher than your value ( 0 0 $50 > $53.71 ): do **not** buy
 
-✓ You decide you want to have 12% to be compensated for risk 
+- ✓ 𝑘 or 𝑃∗ … or Obviously, other investors may have different 𝑒 0 the model is wrong
 
-**Q** : Find the price using your compensation for risk 𝑃0∗ . Should you buy? 
+## The Generalized Dividend Valuation Model
 
-## **The One-Period Valuation Model** 
+✓ 𝑛 Using the same logic, extend to periods:
 
-$0.16 $60 ∗ = 𝑃 0 1 + 0.12[+] 1 + 0.12[= $53.71] 
+✓ but as _n_ grows, last item in the summation gets smaller (higher discounting). So, end up with:
 
-- ✓ 𝑃 ≤𝑃∗ if market price is lower than (or equal to) your value ( 0 0 or also: $50 ≤$53.71 ): **buy** 
+✓ Note:
 
-- ✓ 𝑃 > 𝑃∗ or also: if market price is higher than your value ( 0 0 $50 > $53.71 ): do **not** buy 
+`o` ∞ is the end of summation … firms are supposed to be infinitely lived 𝑃 𝑛 `o` no final (1+𝑘𝑒)(𝑛)( in the second expression, bcs for )(𝑛)( large enough it is a ) 𝑃 very low number, so that you don’t need to forecast 𝑛 `o` just PV of _all_ future dividends matter ( _fundamentals)_
 
-- ✓ 𝑘 or 𝑃∗ … or Obviously, other investors may have different 𝑒 0 the model is wrong 
+## The Gordon Growth Model
 
-## **The Generalized Dividend Valuation Model** 
+✓ Same as the previous model, but just _assume_ that dividend: grow at a constant rate 𝑔 𝐷𝑖𝑣 𝑡+1 = (1 + 𝑔)𝐷𝑖𝑣𝑡
 
-✓ 𝑛 Using the same logic, extend to periods: 
+✓ Then price of stock is: 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 0 𝑔 0 𝑔(2) 0 𝑔(𝑛) = 𝑃 + + ⋯+ 0 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑒 𝑒(2) 𝑒(𝑛)
 
-**==> picture [459 x 48] intentionally omitted <==**
+`o` we don’t need to forecast an infinite stream of payments
 
-✓ but as _n_ grows, last item in the summation gets smaller (higher discounting). So, end up with: 
+## The Gordon Growth Model: Example
 
-**==> picture [155 x 64] intentionally omitted <==**
+Let’s get back to previous example, with 𝑃0 = $53.71
 
-✓ Note: 
+- ✓ What is the implied dividend growth ( 𝑔 ) with a required rate of 𝑘
 
-`o` ∞ is the end of summation … firms are supposed to be infinitely lived 𝑃 𝑛 `o` no final (1+𝑘𝑒)[𝑛][ in the second expression, bcs for ][𝑛][ large enough it is a ] 𝑃 very low number, so that you don’t need to forecast 𝑛 `o` just PV of _all_ future dividends matter ( _fundamentals)_ 
+- return ( 𝑒 ) of 10%?
 
-✓ Copyright ©2015 Pearson Education, Ltd. All rights reserved.But it is “difficult” to forecast an infinite stream of payments …13-10 
+✓ 𝐷𝑖𝑣 = But conveniently by definition 1 1 + 𝑔𝐷𝑖𝑣0 , so:
 
-## **The Gordon Growth Model** 
+𝐷𝑖𝑣 $0.16 0 1 + 𝑔 (1 + 𝑔) = $53.71 = (0.1 −𝑔) (0.1 −𝑔) ✓ _Solve for:_ 𝑔 $53.71 ∙ 0.1 −𝑔= $0.16 1 + 𝑔 ⇒0.1 ∙$5.371 −$53.71𝑔= $0.16 + 0.6𝑔 ⇒$5.371 −$0.16 = 𝑔 $53.71 + $0.16 𝒈= 𝟗. 𝟔𝟕%
 
-✓ Same as the previous model, but just _assume_ that dividend : grow at a constant rate 𝑔 𝐷𝑖𝑣 𝑡+1 = (1 + 𝑔)𝐷𝑖𝑣𝑡 
+## The Gordon Growth Model: Assumptions
 
-✓ Then price of stock is: 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 0 𝑔 0 𝑔[2] 0 𝑔[𝑛] = 𝑃 + + ⋯+ 0 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑒 𝑒[2] 𝑒[𝑛] 
+- 1) Do dividends grow at a constant rate forever?
 
-**==> picture [592 x 138] intentionally omitted <==**
+`o` No, but if they grow constantly for some time the model is reasonable … `o` … after “some” time? Again, cash flows 20 years from now are _very difficult to predict_ , but they are also very small when discounted
 
-**----- Start of picture text -----**<br>
-✓ With some  algebra  we can show that:<br>∞<br>𝐷𝑖𝑣 𝐷𝑖𝑣 1 +  𝐷𝑖𝑣<br>𝑡 0 𝑔 1<br>=<br>𝑃 𝑜𝑟 𝑃<br>0 0<br>= ෍ 𝑘 𝑘<br>(1 + 𝑘𝑒) [𝑡] [=] 𝑒 −𝑔 𝑒 −𝑔<br>𝑡=1<br>✓ How convenient!<br>**----- End of picture text -----**<br>
+- 𝒌
 
+- 2) Note another assumption: 𝒆 > 𝒈
 
-`o` we don’t need to forecast an infinite stream of payments 
+𝐷1 = `o` 𝑃 otherwise, we can’t simplify to 0 𝑘𝑒−𝑔 **(  …)**
 
-`o` **an estimate of** and of 𝒌 just get 𝒈 𝒆 (“ _required rate of return”_ ) Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- but this is also reasonable: if 𝑘 𝑒< 𝑔 Gordon formula no longer valid:
 
-## **The Gordon Growth Model: Example** 
+- why?
 
-Let’s get back to previous example, with 𝑃0 = $53.71 
+- 𝑘 ?
 
-- ✓ What is the implied dividend growth ( 𝑔 ) with a required rate of 𝑘 
+- at home: what happens if 𝑒 = 𝑔
 
-- return ( 𝑒 ) of 10%? 
+## The Gordon Growth Model: Interpretation
 
-**==> picture [468 x 54] intentionally omitted <==**
+- ✓ How about companies (the majority) **that do not pay dividends** to shareholders?
 
-✓ 𝐷𝑖𝑣 = But conveniently by definition 1 1 + 𝑔𝐷𝑖𝑣0 , so: 
+`o` Suppose Google Dividend=0, is its price=0? `o` No! Investors buy Google because expect the company’s profits - - ✓ Even if earnings are not distributed, they are re-invested within the firm … ^yj4tmk
 
-𝐷𝑖𝑣 $0.16 0 1 + 𝑔 (1 + 𝑔) = $53.71 = (0.1 −𝑔) (0.1 −𝑔) ✓ _Solve for :_ 𝑔 $53.71 ∙ 0.1 −𝑔= $0.16 1 + 𝑔 ⇒0.1 ∙$5.371 −$53.71𝑔= $0.16 + 0.6𝑔 ⇒$5.371 −$0.16 = 𝑔 $53.71 + $0.16 𝒈= 𝟗. 𝟔𝟕% 
+- … at some point in the future, shareholders will get paid …
 
-## **The Gordon Growth Model: Assumptions** 
+`o` … at an increased value of the firm - (suppose for sake of simplicity, that re-investment of earnings is at the same rate of return 𝑘𝑒 )
 
-- 1) Do dividends grow at a constant rate forever? 
+- ✓ So, the “unpaid” dividends still “belong” to the stockholder
 
-`o` No, but if they grow constantly for some time the model is reasonable … `o` … after “some” time? Again, cash flows 20 years from now are _very difficult to predict_ , but they are also very small when discounted 
+- ✓ Dividends can be loosely interpreted as any cash flow stockholders are entitled to
 
-- 𝒌 
+## EXERCISE: Volkswagen Dieselgate
 
-- 2) Note another assumption: 𝒆 > 𝒈 
+✓ It’s Jan 2015. Suppose Volkswagen announced dividends for €4.8 per share this year, growing at 10% forever.
 
-𝐷1 = `o` 𝑃 otherwise, we can’t simplify to 0 𝑘𝑒−𝑔 **[  …]** 
+- ✓ However in September 2015, following the ‘‘dieselgate’’ scandal, VW announces:
 
-- but this is also reasonable: if 𝑘 𝑒< 𝑔 Gordon formula no longer valid: 
+`o` it will only pay dividends of €0.11 in 2016 `o` from 2017 it will pay €4 and growing at 8% thereafter
 
-- why? 
+**Q**: what is VW expected price today (2015) before and after the dieselgate happens? What is %- P? Assume 𝑘 = 12% 𝑒 (round to nearest integer)
 
-- 𝑘 ? 
+## EXERCISE: Volkswagen Dieselgate
 
-- at home: what happens if 𝑒 = 𝑔 
+✓ _a_ (before the dieselgate):
 
-## **The Gordon Growth Model: Interpretation** 
+𝐷𝑖𝑣 €4.8 × 1.1 2016,𝑎 = = 𝑃 2015,𝑎 𝑘 12% −10%(= €264) 𝑒 −𝑔𝑎 = 𝑃 _b_ (after the dieselgate): 2016,𝑏 𝐷𝑖𝑣 𝑃 𝐷𝑖𝑣 𝐷𝑖𝑣 1 2016, 𝑏 2016, 𝑏 2016,𝑏 2017,𝑏 𝑃 = + ⟹𝑃 = + × 2015,𝑏 2015,𝑏 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑘 1 + 𝑘 𝑒 𝑒 𝑒 𝑒 −𝑔𝑏 𝑒 €0.11 €4 1 = 𝑃 2015,𝑏 1.12(+) 0.12 −0.08(×) 1.12(⟹𝑃)(2015,𝑏)(= €89.4) 𝑃 −𝑃 €89 ~~.~~ 4 −€264 2015,𝑏 2015,𝑎 = = %Δ𝑃 = −195 ~~.~~ 4% 2015 𝑃 €89 2015,𝑏
+*(See also: [[Lect8_exercises#^jn1dt2]])*
 
-- ✓ How about companies (the majority) **that do not pay dividends** to shareholders? 
+✓ _b_ (after the dieselgate):
 
-`o` Suppose Google Dividend=0, is its price=0? `o` No! Investors buy Google because expect the company’s profits  
+## Price Earnings Valuation
 
-- ✓ Even if earnings are not distributed, they are re-invested within the firm … 
+✓ The **price earnings ratio** (PE ot P/E) `o` PE is a measure of how much the market is willing to pay for $1.00 of 𝑃 company’s earnings: 𝑃𝐸= 𝐸
 
-   - … at some point in the future, shareholders will get paid … 
+- widely watched measure
 
-`o` … at an increased value of the firm ▪ (suppose for sake of simplicity, that re-investment of earnings is at the same rate of return 𝑘𝑒 ) 
+- easy to calculate and avoids dividends (often they are not distributed) by looking at earnings
 
-- ✓ So, the “unpaid” dividends still “belong” to the stockholder 
+✓ Trivially then, by definition: **This is the PE** 𝑃 𝑃𝑟𝑖𝑐𝑒= 𝐸(× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠)
 
-- ✓ Dividends can be loosely interpreted as any cash flow stockholders are entitled to 
+- where E are the earnings per share (EPS) and, obviously, P is the share price
 
-## **EXERCISE: Volkswagen Dieselgate** 
+## Price Earnings Valuation
 
-✓ It’s Jan 2015. Suppose Volkswagen announced dividends for €4.8 per share this year, growing at 10% forever. 
+## 𝑃𝑟𝑖𝑐𝑒= 𝑃𝐸× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠
 
-- ✓ However in September 2015, following the ‘‘dieselgate’’ scandal, VW announces: 
+- ✓ _E_ is **expected earnings per share**
 
-`o` it will only pay dividends of €0.11 in 2016 `o` from 2017 it will pay €4 and growing at 8% thereafter 
+- since future earning are unknown, in practice it is common to use _actual_ earnings per share from the last 12-months
 
-**Q** : what is VW expected price today (2015) before and after the dieselgate happens? What is %P? Assume 𝑘 = 12% 𝑒 (round to nearest integer) 
+- ✓ Is the PE high or low? It depends on relatively to what!
 
-## **EXERCISE: Volkswagen Dieselgate** 
+- ✓ As a reference the PE can also be taken from **industry average** . Why?
 
-✓ _a_ (before the dieselgate): 
+- because it is expected that a firm PE will _equal_ the industry average PE in the run long
 
-𝐷𝑖𝑣 €4.8 × 1.1 2016,𝑎 = = 𝑃 2015,𝑎 𝑘 12% −10%[= €264] 𝑒 −𝑔𝑎 = 𝑃 _b_ (after the dieselgate): 2016,𝑏 𝐷𝑖𝑣 𝑃 𝐷𝑖𝑣 𝐷𝑖𝑣 1 2016, 𝑏 2016, 𝑏 2016,𝑏 2017,𝑏 𝑃 = + ⟹𝑃 = + × 2015,𝑏 2015,𝑏 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑘 1 + 𝑘 𝑒 𝑒 𝑒 𝑒 −𝑔𝑏 𝑒 €0.11 €4 1 = 𝑃 2015,𝑏 1.12[+] 0.12 −0.08[×] 1.12[⟹𝑃][2015,𝑏][= €89.4] 𝑃 −𝑃 €89 ~~.~~ 4 −€264 2015,𝑏 2015,𝑎 = = %Δ𝑃 = −195 ~~.~~ 4% 2015 𝑃 €89 2015,𝑏 
+## Price Earnings Valuation
 
-✓ _b_ (after the dieselgate): 
+- ✓ A PE of a firm higher than industry-average 𝑃𝐸 > 𝑃𝐸 𝑓 𝑗
 
-`o` Note that numerator of 𝑃2016,𝑏 is 𝐷𝑖𝑣2017,𝑏 , not 𝐷𝑖𝑣2016,𝑏 1 + 𝑔𝑏 , because Copyright ©2015 Pearson Education, Ltd. All rights reserved. 𝐷𝑖𝑣 ≠𝐷𝑖𝑣 𝐷𝑖𝑣 13-16 in this example 2016,𝑏 1 + 𝑔𝑏 2017,𝑏 , cannot apply 2016,𝑏 1 + 𝑔𝑏 
+- has two interpretations ( 𝑓= 𝑓𝑖𝑟𝑚; 𝑗= 𝑖𝑛𝑑𝑢𝑠𝑡𝑟𝑦 ):
 
-## **Price Earnings Valuation** 
+`o` in a “high PE” company, _earnings_ are **expected to rise** in the future compared to low PE companies
 
-✓ The **price earnings ratio** (PE ot P/E) `o` PE is a measure of how much the market is willing to pay for $1.00 of 𝑃 company’s earnings: 𝑃𝐸= 𝐸 
+- the company is **low risk** , hence the market pays a premium for its earnings
 
-- widely watched measure 
+- ✓ Growth/Glamour stocks are those with high PE
 
-- easy to calculate and avoids dividends (often they are not distributed) by looking at earnings 
+- ✓ A “low PE” 𝑠𝑎𝑦: 𝑃𝐸 < 𝑃𝐸 means: 𝑓 𝑗
 
-✓ Trivially then, by definition: **This is the PE** 𝑃 𝑃𝑟𝑖𝑐𝑒= 𝐸[× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠] 
+`o` firm will have **lower** future _earnings_ that are **already** reflected in the stock price (note P/E is obtained by dividing by the _higher current_ earnings)
 
-- where E are the earnings per share (EPS) and, obviously, P is the share price 
+`o` that the firm is **quite risky** and thus the stockholders require more compensation (in form of current earnings) to hold this stock
 
-✓ If PE is 20 it means that investors are willing to pay $20 today Copyright ©2015 Pearson Education, Ltd. All rights reserved. 13-17 for each $ of company’s earnings per share 
+## Price Earnings Valuation
 
-## **Price Earnings Valuation** 
+Example
 
-## 𝑃𝑟𝑖𝑐𝑒= 𝑃𝐸× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠 
+- ✓ Firm A’s stock currently earns $1.55 per share and costs at the moment $24.01. Its P/E is in line with industry
 
-- ✓ _E_ is **expected earnings per share** 
+- ✓ Firm B’s stock currently earns $1.96 per share. Assume that it belongs to the same industry as firm A
 
-   - since future earning are unknown, in practice it is common to use _actual_ earnings per share from the last 12-months 
+- **Q.**: How much we would expect it is valued today? Assume that it has a PE in line with that of the industry
 
-- ✓ Is the PE high or low? It depends on relatively to what! 
+## Price Earnings Valuation
 
-- ✓ As a reference the PE can also be taken from **industry average** . Why? 
+Example
 
-   - because it is expected that a firm PE will _equal_ the industry average PE in the run long 
+- ✓ Firm A’s stock currently earns $1.55 per share and costs at the moment $24.01. Its P/E is in line with industry
 
-## **Price Earnings Valuation** 
+- ✓ Firm B’s stock currently earns $1.96 per share. Assume that it belongs to the same industry as firm A
 
-- ✓ A PE of a firm higher than industry-average 𝑃𝐸 > 𝑃𝐸 𝑓 𝑗 
+- **Q.**: How much we would expect it is valued today? Assume that it has a PE in line with that of the industry **A**:  P/E (firm A)=$24.01/$1.55 = 15.49
 
-- has two interpretations ( 𝑓= 𝑓𝑖𝑟𝑚; 𝑗= 𝑖𝑛𝑑𝑢𝑠𝑡𝑟𝑦 ): 
+× P/E (firm B)= $1.96 15.49 = $30.36
 
-`o` in a “high PE” company, _earnings_ are **expected to rise** in the future compared to low PE companies 
+## Errors in Valuation
 
-   - the company is **low risk** , hence the market pays a premium for its earnings 
+✓ Wow! We can price stocks … let’s go make some money!
 
-- ✓ Growth/Glamour stocks are those with high PE 
+- ✓ note that all the models require to compute **expected earnings/dividends/growth rates**
 
-- ✓ A “low PE” 𝑠𝑎𝑦: 𝑃𝐸 < 𝑃𝐸 means: 𝑓 𝑗 
+- ✓ sometimes far ahead in the future
 
-`o` firm will have **lower** future _earnings_ that are **already** reflected in the stock price (note P/E is obtained by dividing by the _higher current_ earnings) 
+- ✓ and _small errors_ in evaluating each can lead to _big mistakes_ (read: big losses!)
 
-`o` that the firm is **quite risky** and thus the stockholders require more compensation (in form of current earnings) to hold this stock 
+- ✓ For example, in the Gordon model we need two items: 𝒈 and 𝑘 and 𝑘 𝑒 , errors could depend on both 𝒈 𝑒
 
-## **Price Earnings Valuation** 
+## The Gordon Growth Model: Example
 
-Example 
+## Let’s see how assumptions on 𝑔 and on 𝑘𝑒 may create large evaluation errors Example:
 
-- ✓ Firm A’s stock currently earns $1.55 per share and costs at the moment $24.01. Its P/E is in line with industry 
+`o` dividend is $2
 
-- ✓ Firm B’s stock currently earns $1.96 per share. Assume that it belongs to the same industry as firm A 
+`o` fix 𝑘 =0.2 and let 𝑒 𝑔 **vary**
 
-- **Q.** : How much we would expect it is valued today? Assume that it has a PE in line with that of the industry 
+𝐷𝑖𝑣 1 = 𝑃 0 − 𝑘 𝑒 𝑔
 
-## **Price Earnings Valuation** 
+`o` different (projected) growth rates result in very different valuations of the stock!
 
-Example 
+## The Gordon Growth Model: Example
 
-- ✓ Firm A’s stock currently earns $1.55 per share and costs at the moment $24.01. Its P/E is in line with industry 
+## Same example:
 
-- ✓ Firm B’s stock currently earns $1.96 per share. Assume that it belongs to the same industry as firm A 
+`o` dividend is $2
 
-- **Q.** : How much we would expect it is valued today? Assume that it has a PE in line with that of the industry **A** :  P/E (firm A)=$24.01/$1.55 = 15.49 
+`o` fix =0.11 and let 𝑘 𝑔 𝑒 **vary**
 
-× P/E (firm B)= $1.96 15.49 = $30.36 
+𝐷𝑖𝑣 1 = 𝑃 0 𝑘 𝑒 −𝑔
 
-## **Errors in Valuation** 
+`o` different (projected) required rates of return imply very different valuations of the stock!
 
-✓ Wow! We can price stocks … let’s go make some money! 
+## **Errors in Valuation:** _**g**_
 
-- ✓ note that all the models require to compute **expected earnings/dividends/growth rates** 
+## **Table 13.1** Stock Prices for a Security with _D_ 0 = $2.00, _ke_ = 15%, and Constant Growth Rates as Listed
 
-- ✓ sometimes far ahead in the future 
+**ΔP (and also mistakes) getting bigger as** _**g**_ **grows**
 
-- ✓ and _small errors_ in evaluating each can lead to _big mistakes_ (read: big losses!) 
+## The 2007–2009 Financial Crisis and the Stock Market
 
-- ✓ For example, in the Gordon model we need two items: 𝒈 and 𝑘 and 𝑘 𝑒 , errors could depend on both 𝒈 𝑒 
+✓ The Financial Crisis, which started in August 2007, was the start of one of the worst _bear_((1)) markets in history
 
-## **The Gordon Growth Model: Example** 
+**Q**: What may contribute to low prices in a recession according to Gordon model?
 
-## Let’s see how assumptions on 𝑔 and on 𝑘𝑒 may create large evaluation errors Example: 
+- (1): bear markets if stock prices fall, bull markets if they rise
 
-`o` dividend is $2 
+## The 2007–2009 Financial Crisis and the Stock Market
 
-`o` fix 𝑘 =0.2 and let 𝑒 𝑔 **vary** 
+- ✓ The Financial Crisis, which started in August 2007, was the start of one of the worst _bear_((1)) markets in history
 
-𝐷𝑖𝑣 1 = 𝑃 0 − 𝑘 𝑒 𝑔 
+**Q**: What may contribute to low prices in a recession according to Gordon model?
 
-**==> picture [420 x 254] intentionally omitted <==**
+_1._ is revised **downward** _g_ as expectation of future growth for US companies are revised downward
 
-`o` different (projected) growth rates result in very different valuations of the stock! 
+_2. ke_ is also **higher** due to higher uncertainty `o` discount the future more
 
-## **The Gordon Growth Model: Example** 
+- ✓ both contributed to **a fall** in _price of stocks_
 
-## Same example: 
+(1): bear markets if stock prices fall, bull markets if they rise
 
-`o` dividend is $2 
+## How the Market sets Prices
 
-`o` fix =0.11 and let 𝑘 𝑔 𝑒 **vary** 
+- ✓ Suppose there are three investors interested in a stock
 
-𝐷𝑖𝑣 1 = 𝑃 0 𝑘 𝑒 −𝑔 
+1. You: _do not know much_ about the company, just read on WSJ that dividends are expected to be $2 and grow at 3%. 𝒌 **=15%** .
 
-**==> picture [432 x 260] intentionally omitted <==**
+Uncertainty requires 𝒆
 
-`o` different (projected) required rates of return imply very different valuations of the stock! 
+2. Jennifer: she knows the industry. Feels _confident_ the 𝒌 **=12%** .
 
-## **Errors in Valuation:** _**g**_ 
+estimates are quite accurate. Lower 𝒆
 
-## **Table 13.1** Stock Prices for a Security with _D_ 0 = $2.00, _ke_ = 15%, and Constant Growth Rates as Listed 
+3. Bud: is _dating_ the CEO of the company. He knows what the company’s plans are. He only requires 𝒌𝒆 **=7%** .
 
-**==> picture [25 x 190] intentionally omitted <==**
+## How the Market sets Prices
 
-**==> picture [25 x 178] intentionally omitted <==**
+✓ Applying the Gordon model yields the following prices:
 
-**ΔP (and also mistakes) getting bigger as** _**g**_ **grows** 
+- ✓ The prices reflect the willingness-to-pay (maximum acceptable price) of each investor
 
-## **The 2007–2009 Financial Crisis and the Stock Market** 
+- ✓ In a market auction, Bud would get the stock. He would bid just above Jennifer’s price
 
-✓ The Financial Crisis, which started in August 2007, was the start of one of the worst _bear_[(1)] markets in history 
+## How the Market sets Prices
 
-**Q** : What may contribute to low prices in a recession according to Gordon model? 
+- ✓: Two important lessons about competitive auction markets
 
-- (1): bear markets if stock prices fall, bull markets if they rise 
+1. the price is set by the buyer with the highest _w_ illingness _t_ o _p_ ay (but _not necessarily_ at P= _w_ . _t_ . _p_ .)
 
-## **The 2007–2009 Financial Crisis and the Stock Market** 
+2. the price is set by the buyer who can take best advantage of the asset
 
-- ✓ The Financial Crisis, which started in August 2007, was the start of one of the worst _bear_[(1)] markets in history 
+- ✓ Information matters!! This is why stock prices fluctuate widely on news reports
 
-**Q** : What may contribute to low prices in a recession according to Gordon model? 
+- ✓ Price may also be due to overoptimism driven by market euphoria (after all, Bud is in love…):
 
-_1._ is revised **downward** _g_ as expectation of future growth for US companies are revised downward 
+`o` if the expectations are wrong, we have a **bubble** (prices too high) that will burst and create damage
 
-_2. ke_ is also **higher** due to higher uncertainty `o` discount the future more 
+## How the Market sets Prices
 
-- ✓ both contributed to **a fall** in _price of stocks_ 
+✓ Given different evaluations (4 ex.: _g_ and _k_ in the Gordon model), stock analysts are _seldom_ certain that their stock price projections are accurate
 
-(1): bear markets if stock prices fall, bull markets if they rise 
+✓ So, should we be skeptical on investing in stock markets? `o` no, because short term fluctuations in **stock prices** are **normal** `o` in the long-term stock **prices will reflect true earnings of the firm**
 
-## **How the Market sets Prices** 
+## Next class
 
-- ✓ Suppose there are three investors interested in a stock 
+We will discuss derivatives: Forwards and Futures
 
-1. You: _do not know much_ about the company, just read on WSJ that dividends are expected to be $2 and grow at 3%. 𝒌 **=15%** . 
-
-Uncertainty requires 𝒆 
-
-2. Jennifer: she knows the industry. Feels _confident_ the 𝒌 **=12%** . 
-
-estimates are quite accurate. Lower 𝒆 
-
-3. Bud: is _dating_ the CEO of the company. He knows what the company’s plans are. He only requires 𝒌𝒆 **=7%** . 
-
-## **How the Market sets Prices** 
-
-✓ Applying the Gordon model yields the following prices: 
-
-**==> picture [507 x 156] intentionally omitted <==**
-
-- ✓ The prices reflect the willingness-to-pay (maximum acceptable price) of each investor 
-
-- ✓ In a market auction, Bud would get the stock. He would bid just above Jennifer’s price 
-
-## **How the Market sets Prices** 
-
-- ✓ : Two important lessons about competitive auction markets 
-
-   1. the price is set by the buyer with the highest _w_ illingness _t_ o _p_ ay (but _not necessarily_ at P= _w_ . _t_ . _p_ .) 
-
-   2. the price is set by the buyer who can take best advantage of the asset 
-
-- ✓ Information matters!! This is why stock prices fluctuate widely on news reports 
-
-- ✓ Price may also be due to overoptimism driven by market euphoria (after all, Bud is in love…): 
-
-`o` if the expectations are wrong, we have a **bubble** (prices too high) that will burst and create damage 
-
-## **How the Market sets Prices** 
-
-✓ Given different evaluations (4 ex.: _g_ and _k_ in the Gordon model), stock analysts are _seldom_ certain that their stock price projections are accurate 
-
-✓ So, should we be skeptical on investing in stock markets? `o` no, because short term fluctuations in **stock prices** are **normal** `o` in the long-term stock **prices will reflect true earnings of the firm** 
-
-**==> picture [549 x 253] intentionally omitted <==**
-
-## **Next class** 
-
-We will discuss derivatives: Forwards and Futures 
-
+## Related Notes
+- [[Lect8_exercises]]
+- [[Libby_12e_Chap011_PPT w-corrige print]]
+- [[L18 Expectations Financial Markets Stocks]]

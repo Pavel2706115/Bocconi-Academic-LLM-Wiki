@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 20** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect20_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 20
 
-Banks are subject to capital requirements 
+## EX 1
 
-- a) to limit bank managers’ salaries 
+Banks are subject to capital requirements
 
-- b) to allow banks to raise debt more cheaply 
+- a) to limit bank managers’ salaries
 
-- c) to prevent bank managers from taking excessive risks 
+- b) to allow banks to raise debt more cheaply
 
-- d) none of the above 
+- c) to prevent bank managers from taking excessive risks
 
-## **EX 2** 
+- d) none of the above
 
-- Higher bank capital aligns the incentives of bank owners and depositors because: 
+## EX 2
 
-- a) bank owners face larger losses if the bank fails and are therefore less likely to engage in excessive risk-taking 
+- Higher bank capital aligns the incentives of bank owners and depositors because:
 
-- b) higher capital implies that depositors are completely insulated from bank insolvency 
+- a) bank owners face larger losses if the bank fails and are therefore less likely to engage in excessive risk-taking
 
-- c) supervisory authority is more likely to allow banks with enough capital to engage in risky projects 
+- b) higher capital implies that depositors are completely insulated from bank insolvency
 
-- d) banks with enough capital are more likely to participate in deposit insurance 
+- c) supervisory authority is more likely to allow banks with enough capital to engage in risky projects
 
-## **EX 3** 
+- d) banks with enough capital are more likely to participate in deposit insurance
 
-When deposit insurance covers 80% of deposits, then banks: 
+## EX 3
 
-- a) do not have to hold any cash or reserve 
+When deposit insurance covers 80% of deposits, then banks:
 
-- b) have to hold cash or reserves to pay deposit withdrawals 
+- a) do not have to hold any cash or reserve
 
-- c) must invest at least half of assets into short-term loans 
+- b) have to hold cash or reserves to pay deposit withdrawals
 
-- d)      do not have to engage in liquidity management 
+- c) must invest at least half of assets into short-term loans
 
-## **EX 4** 
+- d)      do not have to engage in liquidity management
 
-Bank Uptown has assets for $100 and capital for $10. Bank Downtown has the same asset composition (i.e. same risk), but for $300 and capital for $15. Which of the following is true? 
+## EX 4
 
-- a) both banks are equally risky because they have the same kind of assets 
+Bank Uptown has assets for $100 and capital for $10. Bank Downtown has the same asset composition (i.e. same risk), but for $300 and capital for $15. Which of the following is true?
+*(See also: [[Lect20-21#^oi8gg3]])*
 
-- b) bank Uptown is riskier than Bank Downtown because it has less capital 
+- a) both banks are equally risky because they have the same kind of assets
 
-- c) which bank is riskier cannot be determined 
+- b) bank Uptown is riskier than Bank Downtown because it has less capital
 
-- d) bank Uptown is safer than bank Downtown 
+- c) which bank is riskier cannot be determined
 
+- d) bank Uptown is safer than bank Downtown
+
+## Related Notes
+- [[Lect20-21]]
+- [[Lect21_exercises]]
+- [[Lect15_exercises]]

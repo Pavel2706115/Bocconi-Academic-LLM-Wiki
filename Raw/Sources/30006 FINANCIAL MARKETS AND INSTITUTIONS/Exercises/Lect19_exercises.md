@@ -1,48 +1,66 @@
-## **Extra exercises of Lecture 19** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect19_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 19
 
-Bank Easycredit has a total asset equal to $500 M, out of which loans maturing within a year are $65 M and for other $28 M the percentage maturing in 1 year is 30%. Its liabilities amount to $190 M, but only $40 M are short term. If interest rates increase by 80 bps, how does net interest income change for Easycredit? Approximate to the closest first decimal. 
+## EX 1
 
-- a) $0.1 M 
+Bank Easycredit has a total asset equal to $500 M, out of which loans maturing within a year are $65 M and for other $28 M the percentage maturing in 1 year is 30%. Its liabilities amount to $190 M, but only $40 M are short term. If interest rates increase by 80 bps, how does net interest income change for Easycredit? Approximate to the closest first decimal. ^bvat5l
+*(See also: [[Lect19#^8or29v]])*
 
-- b) $0.3 M 
+- a) $0.1 M
 
-- c) –$1.3 M d) –$0.8 M 
+- b) $0.3 M
 
-## **EX 2** 
+- c) –$1.3 M d) –$0.8 M
 
-To eliminate exposure to interest-rate risk, a financial institution needs to: 
+## EX 2
 
-- a) have a negative duration gap 
+To eliminate exposure to interest-rate risk, a financial institution needs to:
 
-- b) keep all its assets in cash, because cash has a duration of 0. 
+- a) have a negative duration gap
 
-- c) have a duration gap of exactly 0 
+- b) keep all its assets in cash, because cash has a duration of 0.
 
-- d) have a positive duration gap 
+- c) have a duration gap of exactly 0
 
-## **EX 3** 
+- d) have a positive duration gap
 
-If a bank has assets with 3 years of duration and its liabilities have a3 years’ duration, and the bank has a positive amount of capital the bank’s duration gap is: 
+## EX 3
 
-- a) zero 
+If a bank has assets with 3 years of duration and its liabilities have a3 years’ duration, and the bank has a positive amount of capital the bank’s duration gap is:
 
-- b) positive 
+- a) zero
 
-- c) cannot be determined 
+- b) positive
 
-- d) negative 
+- c) cannot be determined
 
-## **EX 4** , 26) 
+- d) negative
 
-A bank has a duration of assets of 11 years and a duration of liabilities of 11 years.  If interest rates go up, the bank’s net worth: 
+## **EX 4** , 26)
 
-- a) stays constant 
+A bank has a duration of assets of 11 years and a duration of liabilities of 11 years.  If interest rates go up, the bank’s net worth:
 
-- b) increases 
+- a) stays constant
 
-- c) decreases 
+- b) increases
 
-- d) it cannot be determined 
+- c) decreases
 
+- d) it cannot be determined
+
+## Related Notes
+- [[Lect19]]
+- [[Lect3_exercises]]
+- [[Lect23_Questions_Answers]]

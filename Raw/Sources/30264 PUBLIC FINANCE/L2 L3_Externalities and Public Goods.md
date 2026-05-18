@@ -1,564 +1,402 @@
-**==> picture [58 x 208] intentionally omitted <==**
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "Exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **Public Finance** 
+## Public Finance
 
-**BIEM – Spring 2026 Externalities and Public Goods (Ch.5 & 7 & 9.1)** 
+**BIEM – Spring 2026 Externalities and Public Goods (Ch.5 & 7 & 9.1)**
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Externalities: in this course
 
-## Externalities: in this course 
+- 5.1 Externality Theory (quick recap)
 
-**==> picture [58 x 208] intentionally omitted <==**
+- 5.2 Private-Sector Solutions to Negative Externalities
 
-- 5.1 Externality Theory (quick recap) 
+## Introduction to Externalities: Global Warming
 
-- 5.2 Private-Sector Solutions to Negative Externalities 
+- In 2015, representatives from 195 nations met in Paris, France, to negotiate an international pact to limit temperature rise around the world.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Carbon dioxide emissions contribute to global warming, which could cause enormous damage.
 
-## Introduction to Externalities: Global Warming 
+- The cost of reducing the use of fossil fuels, particularly in the major industrialized nations, is immense. Some predict that we will have to reduce our use of fossil fuels to nineteenth-century (preindustrial) levels.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Externalities: Problems and Solutions
 
-**==> picture [508 x 195] intentionally omitted <==**
+- Global warming is a classic example of an externality, which is a kind of market failure.
 
-- In 2015, representatives from 195 nations met in Paris, France, to negotiate an international pact to limit temperature rise around the world. 
+- **Externality**: Externalities arise whenever the actions of one party make another party worse or better off, yet the first party neither bears the costs nor receives the benefits of doing so.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **Market failure:** A problem that causes the market economy to deliver an outcome that does not maximize efficiency.
 
-- Carbon dioxide emissions contribute to global warming, which could cause enormous damage. 
+## There are four possible types of externality:
 
-- The cost of reducing the use of fossil fuels, particularly in the major industrialized nations, is immense. Some predict that we will have to reduce our use of fossil fuels to nineteenth-century (preindustrial) levels. 
+**Production Consumption Positive** SMC curve lies below PMC curve SMB curve lies above PMB curve Ex: investment in R&D Ex: vaccines **Negative** SMC curve lies above PMC curve SMB curve lies below PMB curve Ex: steel production curve Ex: smoking
 
-## Externalities: Problems and Solutions 
+## An example: Negative production externality
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Negative production externality:
 
-- Global warming is a classic example of an externality, which is a kind of market failure. 
+- When a firm’s production reduces the wellbeing of others who are not compensated by the firm (Ex: pollution from steel production)
 
-- **Externality** : Externalities arise whenever the actions of one party make another party worse or better off, yet the first party neither bears the costs nor receives the benefits of doing so. 
+- They drive a wedge (marginal damage, MD) between private and social marginal cost.
 
-- **Market failure:** A problem that causes the market economy to deliver an outcome that does not maximize efficiency. 
+- Private marginal cost (PMC): The direct cost to producers of producing an additional unit of a good.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Social marginal cost (SMC): The private marginal cost to producers plus any costs associated with the production of the good that are imposed on others.
 
-## There are four possible types of externality: 
+There is overproduction of _Q_ 1 – _Q_ 2, with an associated deadweight loss of area _BCA_ .
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Private-Sector Solutions to Negative Externalities: The Solution
 
-**Production Consumption Positive** SMC curve lies below PMC curve SMB curve lies above PMB curve Ex: investment in R&D Ex: vaccines **Negative** SMC curve lies above PMC curve SMB curve lies below PMB curve Ex: steel production curve Ex: smoking 
+- Externalities undermine efficiency because one party does not pay the costs or get all the (net) benefits of its actions.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- The solution to this, therefore, is to **internalize the externality** .
 
-## An example: Negative production externality 
+- Internalizing the externality: When either private negotiations or government action led the party to fully reflect the external costs or benefits of that party’s actions.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Steel producer could pay the fishers for each unit of steel produced so that they are compensated for the damage to their fishing grounds.
 
-## **Negative production externality:** 
+## The Solution: The Coase Theorem
 
-- When a firm’s production reduces the wellbeing of others who are not compensated by the firm (Ex: pollution from steel production) 
+The Coase theorem says that private parties will be able to solve the problem of externalities. This is accomplished by internalizing the externality.
 
-- They drive a wedge (marginal damage, MD) between private and social marginal cost. 
+- Coase theorem (Part I): When there are well-defined property rights and costless bargaining, then negotiations between the party creating the externality and the party affected by the externality can bring about the socially optimal market quantity.
 
-   - Private marginal cost (PMC): The direct cost to producers of producing an additional unit of a good. 
+- Coase theorem (Part II): The efficient solution to an externality does not depend on which party is assigned the property rights as long as someone is assigned those rights.
 
-   - Social marginal cost (SMC): The private marginal cost to producers plus any costs associated with the production of the good that are imposed on others. 
+## The Solution: Coasian Payments
 
-**==> picture [360 x 272] intentionally omitted <==**
+- The charge internalizes the externality and removes the inefficiency of the negative externality.
 
-There is overproduction of _Q_ 1 – _Q_ 2, with an associated deadweight loss of area _BCA_ . 
+## The Problems with Coasian Solutions 1
 
-**==> picture [86 x 105] intentionally omitted <==**
+- There are difficulties with Coasian solutions, making them less likely to arise as more people become involved.
 
-## Private-Sector Solutions to Negative Externalities: The Solution 
+- The assignment problem: The first problem is assigning blame.  Does the fisher pay the steel plant for not polluting? Or does the steel plant pay for polluting?
 
-**==> picture [58 x 208] intentionally omitted <==**
+- The holdout problem: Shared ownership of property rights gives each owner power over all the others. Each person has veto power and so may demand enormous payments.
 
-- Externalities undermine efficiency because one party does not pay the costs or get all the (net) benefits of its actions. 
+## The Problems with Coasian Solutions 2
 
-- The solution to this, therefore, is to **internalize the externality** . 
+- The free rider problem: When an investment has a personal cost but a common benefit, individuals will underinvest. Individuals may not want to pay enough to reduce pollution.
 
-- Internalizing the externality: When either private negotiations or government action led the party to fully reflect the external costs or benefits of that party’s actions. 
+- Transaction costs and negotiating problems: It is hard to negotiate when there are large numbers of individuals on one or both sides of the negotiation.
 
-**==> picture [86 x 105] intentionally omitted <==**
+`o` This problem is amplified for an externality such as global warming, where the potentially divergent interests of billions of parties on one side must be somehow aggregated for a negotiation.
 
-- Steel producer could pay the fishers for each unit of steel produced so that they are compensated for the damage to their fishing grounds. 
+## Bottom Line
 
-## The Solution: The Coase Theorem 
+- Ronald Coase’s insight that externalities can sometimes be internalized was a brilliant one.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- It provides the competitive market model with a defense against the onslaught of market failures.
 
-The Coase theorem says that private parties will be able to solve the problem of externalities. This is accomplished by internalizing the externality. 
+- It is also an excellent reason to suspect that the market may be able to internalize some small-scale, localized externalities.
 
-- Coase theorem (Part I): When there are well-defined property rights and costless bargaining, then negotiations between the party creating the externality and the party affected by the externality can bring about the socially optimal market quantity. 
+- It won’t help with large-scale, global externalities.
 
-- Coase theorem (Part II): The efficient solution to an externality does not depend on which party is assigned the property rights as long as someone is assigned those rights. 
+## Public goods: in this course
 
-**==> picture [86 x 105] intentionally omitted <==**
+- 7.1 Optimal Provision of Public Goods (quick recap)
 
-## The Solution: Coasian Payments 
+- 7.2 Private Provision of Public Goods
 
-**==> picture [58 x 208] intentionally omitted <==**
+- 7.3 Public Provision of Public Goods - 7.4 Conclusion
 
-• The charge internalizes the externality and removes the inefficiency of the negative externality. 
+- - 9.1 Unanimous Consent on Public Goods Levels
 
-**==> picture [398 x 279] intentionally omitted <==**
+## Public Goods: A taxonomy
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Pure public goods: Goods that are perfectly non-rival in consumption and are non-excludable.
 
-## The Problems with Coasian Solutions 1 
+- Non-rival in consumption: One individual’s consumption of a good does not affect another’s opportunity to consume the good.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Non-excludable: Individuals cannot deny each other the opportunity to consume a good.
 
-- There are difficulties with Coasian solutions, making them less likely to arise as more people become involved. 
+- Impure public goods: Goods that satisfy the two public good conditions (non-rival in consumption and nonexcludable) to some extent but not fully.
 
-- The assignment problem: The first problem is assigning blame.  Does the fisher pay the steel plant for not polluting? Or does the steel plant pay for polluting? 
+## Optimal Provision of Public Goods: Introduction
 
-- The holdout problem: Shared ownership of property rights gives each owner power over all the others. Each person has veto power and so may demand enormous payments. 
+- How much of the public good should society provide?
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Markets will not provide the correct amount!
 
-## The Problems with Coasian Solutions 2 
+## Horizontal Summation in **Private** Goods Market
 
-**==> picture [58 x 208] intentionally omitted <==**
+- To find the social demand curve, add quantity at each price and sum horizontally.
 
-- The free rider problem: When an investment has a personal cost but a common benefit, individuals will underinvest. Individuals may not want to pay enough to reduce pollution. 
+## Vertical Summation in **Public** Goods Market
 
-- Transaction costs and negotiating problems: It is hard to negotiate when there are large numbers of individuals on one or both sides of the negotiation. 
+## Private Provision of Public Goods: Private-Sector Underprovision
 
-`o` This problem is amplified for an externality such as global warming, where the potentially divergent interests of billions of parties on one side must be somehow aggregated for a negotiation. 
+- - The market does not produce the efficient amount of public goods **because of** .
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **the free rider problem**
 
-## Bottom Line 
+- Free rider problem: When an investment has a personal cost but a common benefit, individuals will underinvest.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Since Ben’s consumption of missiles also benefits Jerry, Jerry may not want to pay (or vice versa).
 
-- Ronald Coase’s insight that externalities can sometimes be internalized was a brilliant one. 
+- This results in the private market producing an **inefficiently low quantity of** .
 
-- It provides the competitive market model with a defense against the onslaught of market failures. 
+- **the good**
 
-- It is also an excellent reason to suspect that the market may be able to internalize some small-scale, localized externalities. 
+## Can Private Providers Overcome the Free Rider Problem?
 
-**==> picture [86 x 105] intentionally omitted <==**
+- The free rider problem does not lead to a complete absence of private provision of public goods.
 
-- It won’t help with large-scale, global externalities. 
+- When private suppliers are given the ability to **overcome the problem of nonexcludability** , they can produce the efficient quantity of the good.
 
-## Public goods: in this course 
+- The private sector can in some cases combat the free rider problem to provide public goods by charging user **fees that are proportional to their valuation** .
 
-**==> picture [58 x 208] intentionally omitted <==**
+- **of the public good**
 
-•7.1 Optimal Provision of Public Goods (quick recap) 
+## Altruism and Social Capital
 
-•7.2 Private Provision of Public Goods 
+- Private markets provide public goods when people are altruistic.
 
-•7.3 Public Provision of Public Goods •7.4 Conclusion 
+- Altruistic: When individuals value the benefits and costs to others in making their consumption choices.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Many laboratory experiments provide evidence for altruism and show that people contribute to public goods.
 
-- •9.1 Unanimous Consent on Public Goods Levels 
+- Social capital: The value of altruistic and communal behavior in society.
 
-## Public Goods: A taxonomy 
+- The quantity of social capital depends on how much people of the same community affected by the public good can “trust” each other and are therefore willing to chance their personal investment of time and effort into paying for the public good without any formal guarantee of reciprocity from other community members.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Warm Glow
 
-- Pure public goods: Goods that are perfectly non-rival in consumption and are non-excludable. 
+- People might simply feel good about contributing to public goods or charity.
 
-   - Non-rival in consumption: One individual’s consumption of a good does not affect another’s opportunity to consume the good. 
+- Warm glow model: A model of the public goods provision in which individuals care about both the total amount of the public good and their particular contributions as well.
 
-   - Non-excludable: Individuals cannot deny each other the opportunity to consume a good. 
+- - Different from altruism because people don’t care about just the amount of the public good.
 
-**==> picture [388 x 117] intentionally omitted <==**
+## Public Provision of Public Goods
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Even with private provision, there is a role for government provision of public goods.
 
-- Impure public goods: Goods that satisfy the two public good conditions (non-rival in consumption and nonexcludable) to some extent but not fully. 
+- Under private provision, not everyone contributes to the good, even though everyone benefits.
 
-## Optimal Provision of Public Goods: Introduction 
+- Government provision potentially solves the problem of noncontributors.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Nonetheless, there are several challenges to government provision.
 
-- How much of the public good should society provide? 
+## Private Responses to Public Provision: The Problem of Crowd-Out
 
-- Markets will not provide the correct amount! 
+- Crowd-out: As the government provides more of a public good, the private sector will provide less.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- In full crowd-out, government intervention accomplishes nothing because an increase of 5 units provided by the government results in a decrease of 5 units provided privately.
 
-## Horizontal Summation in **Private** Goods Market 
+- Full crowd-out is rare. Partial crowd-out is much more common and can occur in two different cases:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- When noncontributors to the public good are taxed to finance provision of the good
 
-• To find the social demand curve, add quantity at each price and sum horizontally. 
+- When individuals derive utility from their own contribution as well as from the total amount of public good
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Contributors Versus Noncontributors
 
-## Vertical Summation in **Public** Goods Market 
+- Government provision is financed by payments by private individuals.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- By forcing noncontributors to contribute to the fund for public provision, the government can increase total public goods provision.
 
-**==> picture [348 x 417] intentionally omitted <==**
+- Noncontributors will be forced to increase their expenditures on the goods.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- `o` Contributors will experience an increase in effective wealth, which has a positive income effect on their purchase of the private good, so government intervention will not fully crowd out their spending.
 
-## Private Provision of Public Goods: Private-Sector Underprovision 
+## Warm Glow and the Evidence on Crowd-Out
 
-**==> picture [58 x 208] intentionally omitted <==**
+- If you get utility from your particular contributions for any reason (warm glow), then an increase in government contributions will not fully crowd out your giving.
 
-- •The market does not produce the efficient amount of public goods **because of** . 
+- If you only care about how much you give, government contributions have no effect on your giving.
 
-- **the free rider problem** 
+- Existing evidence on crowd-out is quite mixed.
 
-- Free rider problem: When an investment has a personal cost but a common benefit, individuals will underinvest. 
+- Studies assessing how individual contributions respond to government spending suggest a very small crowd-out.
 
-- Since Ben’s consumption of missiles also benefits Jerry, Jerry may not want to pay (or vice versa). 
+- These studies suffer from many bias problems.
 
-**==> picture [86 x 105] intentionally omitted <==**
+`o` Laboratory experiments suggest that crowd-out is large.
 
-- This results in the private market producing an **inefficiently low quantity of** . 
+`o` There is no consensus on the size of crowd-out.
 
-- **the good** 
+## EVIDENCE: Measuring Crowd-Out
 
-## Can Private Providers Overcome the Free Rider Problem? 
+- The evidence on crowd-out is mixed.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Kingma (1989) looked at how contributions varied as local governments contributed different amounts to public radio.
 
-- The free rider problem does not lead to a complete absence of private provision of public goods. 
+- The study found that for every $1 increase in government funding for public radio, private contributions fell by 13.5¢.
 
-- When private suppliers are given the ability to **overcome the problem of nonexcludability** , they can produce the efficient quantity of the good. 
+- Bias: Areas with high government contribution could be high income or have a high taste for radio.
 
-- The private sector can in some cases combat the free rider problem to provide public goods by charging user **fees that are proportional to their valuation** . 
+## The Right Mix of Public and Private
 
-- **of the public good** 
+- - One extreme is provision entirely by the public sector.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- - The other extreme is subsidized or mandated private provision, with the government providing incentives.
 
-## Altruism and Social Capital 
+- - Contracting out: An approach through which the government retains responsibility for providing a good or service but hires private-sector firms to actually provide the good or service.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- - Two problems with contracting out:
 
-- Private markets provide public goods when people are altruistic. 
+- The private sector’s incentives may not align with public goals, leading to lower public costs but worse outcomes along other dimensions that policy makers may care about.
 
-- Altruistic: When individuals value the benefits and costs to others in making their consumption choices. 
+- Bidding in contracting out is often far from competitive.
 
-   - Many laboratory experiments provide evidence for altruism and show that people contribute to public goods. 
+## Measuring the Costs and Benefits of Public Goods 1
 
-- Social capital: The value of altruistic and communal behavior in society. 
+- - Optimal public good provision requires being able to measure both the benefits and the costs of providing public goods. In practice, this is quite difficult.
 
-   - The quantity of social capital depends on how much people of the same community affected by the public good can “trust” each other and are therefore willing to chance their personal investment of time and effort into paying for the public good without any formal guarantee of reciprocity from other community members. 
+- Consider the case of a highway. Cost includes wages and materials. `o` What if, without this highway project, half of the workers on the project would be unemployed?
 
-**==> picture [86 x 105] intentionally omitted <==**
+- How can the government take into account that it is not only paying wages but also providing a new job opportunity for these workers?
 
-## Warm Glow 
+## Measuring the Costs and Benefits of Public Goods 2
 
-**==> picture [58 x 208] intentionally omitted <==**
+- The benefits of highway construction are also difficult to measure.
 
-- People might simply feel good about contributing to public goods or charity. 
+- What is the value of the time saved for commuters due to reduced traffic jams?
 
-- Warm glow model: A model of the public goods provision in which individuals care about both the total amount of the public good and their particular contributions as well. 
+- And what is the value to society of the reduced number of deaths if the highway is improved?
 
-- • Different from altruism because people don’t care about just the amount of the public good. 
+- These difficult questions are addressed by the field of cost-benefit analysis, which provides a framework for measuring the costs and benefits of public projects.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Unanimous Consent on Public Goods Levels (Ch 9.1)
 
-## Public Provision of Public Goods 
+**Lindahl pricing:** An approach to financing public goods in which individuals honestly reveal their willingness to pay and the government charges them that amount to finance the public good.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Getting individuals to reveal their true marginal willingness to pay
 
-- Even with private provision, there is a role for government provision of public goods. 
+- Aggregating these values to ensure that the social benefits exceed total cost
 
-- Under private provision, not everyone contributes to the good, even though everyone benefits. 
+- Charging the individuals according to their willingness to pay
 
-- Government provision potentially solves the problem of noncontributors. 
+## Lindahl Pricing 1
 
-- Nonetheless, there are several challenges to government provision. 
+## Lindahl’s procedure operates as follows:
 
-**==> picture [86 x 105] intentionally omitted <==**
+1. Announce tax prices for the public good.
 
-## Private Responses to Public Provision: The Problem of Crowd-Out 
+2. Everyone says how much of the public good they want at those tax prices.
 
-**==> picture [58 x 208] intentionally omitted <==**
+3. Repeat to construct a marginal willingness to pay schedule for each individual.
 
-- Crowd-out: As the government provides more of a public good, the private sector will provide less. 
+Recall that efficient provision requires that **total** marginal willingness to pay = _MC_ .
 
-- In full crowd-out, government intervention accomplishes nothing because an increase of 5 units provided by the government results in a decrease of 5 units provided privately. 
+4. Add up individual willingnesses to pay at each quantity of public good provided.
 
-- Full crowd-out is rare. Partial crowd-out is much more common and can occur in two different cases: 
+5. Find Q such that total marginal willingness to pay = MC.
 
-   - When noncontributors to the public good are taxed to finance provision of the good 
+6. Finance the public good by charging each individual their willingness to pay for that quantity.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Lindahl Pricing: Graphical Representation
 
-- When individuals derive utility from their own contribution as well as from the total amount of public good 
+## Lindahl Pricing: Why It Works
 
-## Contributors Versus Noncontributors 
+- Under Lindahl pricing, the government produces the efficient amount of the public good.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- This is because _MC_ = total marginal willingness to pay.
 
-- Government provision is financed by payments by private individuals. 
+- Each person’s price is equal to their own marginal willingness to pay, so this is an equilibrium.
 
-- By forcing noncontributors to contribute to the fund for public provision, the government can increase total public goods provision. 
+- Lindahl pricing also exemplifies _benefit taxation_ .
 
-   - Noncontributors will be forced to increase their expenditures on the goods. 
+- Benefit taxation: Taxation in which individuals are taxed for a public good according to their valuation of the benefit they receive from that good.
 
-   - `o` Contributors will experience an increase in effective wealth, which has a positive income effect on their purchase of the private good, so government intervention will not fully crowd out their spending. 
+## Problems with Lindahl Pricing
 
-**==> picture [86 x 105] intentionally omitted <==**
+Lindahl pricing faces several problems that keep it from being used in practice:
 
-## Warm Glow and the Evidence on Crowd-Out 
+1. Preference revelation problem: Individuals have an incentive to lie about their willingness to pay, to lower their price.
 
-**==> picture [58 x 208] intentionally omitted <==**
+2. Preference knowledge problem: Individuals may not know their willingness to pay.
 
-- If you get utility from your particular contributions for any reason (warm glow), then an increase in government contributions will not fully crowd out your giving. 
+3. Preference aggregation problem: It is not obvious how to aggregate individual preferences into a social welfare function.
 
-   - If you only care about how much you give, government contributions have no effect on your giving. 
+# Exercises
 
-- Existing evidence on crowd-out is quite mixed. 
+## MC 1
 
-   - Studies assessing how individual contributions respond to government spending suggest a very small crowd-out. 
+- According to the Coase theorem, the key issue in internalizing externalities is:
 
-**==> picture [86 x 105] intentionally omitted <==**
+a) adding government intervention b) addressing the free rider problem c) defining property rights d) removing transaction costs
 
-- These studies suffer from many bias problems. 
+## MC 2
 
-`o` Laboratory experiments suggest that crowd-out is large. 
+- Which of these does NOT reduce the problem of underprovision of public goods?
 
-`o` There is no consensus on the size of crowd-out. 
+a) business improvement districts
 
-## EVIDENCE: Measuring Crowd-Out 
+b) government intervention
 
-**==> picture [58 x 208] intentionally omitted <==**
+c) social capital
 
-- The evidence on crowd-out is mixed. 
+d) vertical summation
 
-- Kingma (1989) looked at how contributions varied as local governments contributed different amounts to public radio. 
+## MC 3
 
-- The study found that for every $1 increase in government funding for public radio, private contributions fell by 13.5¢. 
+- - Which of these are issues in finding the optimal level of public provision of public goods?
 
-- Bias: Areas with high government contribution could be high income or have a high taste for radio. 
+I. measuring preferences
 
-**==> picture [86 x 105] intentionally omitted <==**
+II. measuring costs
 
-## The Right Mix of Public and Private 
+III. noncontributors
 
-**==> picture [58 x 208] intentionally omitted <==**
+a)I & II only
 
-- •One extreme is provision entirely by the public sector. 
+b)I & III only c)II & III only d)I, II, & III
 
-- •The other extreme is subsidized or mandated private provision, with the government providing incentives. 
+## MC 4
 
-- •Contracting out: An approach through which the government retains responsibility for providing a good or service but hires private-sector firms to actually provide the good or service. 
+Suppose that the government is providing a public good to two people, Lesedi and Sunil. To Lesedi, the marginal benefit of the public good is MB = 1374 – 1,42Q. Sunil’s marginal benefit is MB = 2287 – 1,53Q. The marginal cost of providing the public good is constant and is equal to $1596. What is the efficient quantity of the public good?
 
-- •Two problems with contracting out: 
+400 a) 700 b) 1000 c) 1300 d)
 
-   - The private sector’s incentives may not align with public goals, leading to lower public costs but worse outcomes along other dimensions that policy makers may care about. 
+## MC 5
 
-**==> picture [86 x 105] intentionally omitted <==**
+In a private equilibrium, a positive production externality will lead to _____; a negative consumption externality will lead to _____.
 
-- Bidding in contracting out is often far from competitive. 
+a) SMC less than PMC;
+- SMC greater than PMC b) SMC less than PMC;
+- SMC less than PMC c) SMB less than PMB;
+- SMC greater than PMC d) SMC less than PMC;
+- SMB less than PMB
 
-## Measuring the Costs and Benefits of Public Goods 1 
+## True/False (please provide a justification)
 
-**==> picture [58 x 208] intentionally omitted <==**
+1) If transaction costs are strictly positive, the Coase Theorem guarantees that private bargaining will still lead to the socially efficient outcome.
 
-- •Optimal public good provision requires being able to measure both the benefits and the costs of providing public goods. In practice, this is quite difficult. 
+2) In the presence of a negative production externality, assigning property rights to the affected party (rather than the polluter) always leads to lower equilibrium production. 3) The free rider problem implies that private markets will never provide any public goods.
 
-- Consider the case of a highway. Cost includes wages and materials. `o` What if, without this highway project, half of the workers on the project would be unemployed? 
+## Exercises
 
-   - How can the government take into account that it is not only paying wages but also providing a new job opportunity for these workers? 
+## EXERCISE 1
 
-**==> picture [86 x 105] intentionally omitted <==**
+The care for public gardens entails a positive externality on the community. Assume that the marginal private cost can be represented by the following: $$MC = 20$$ + 3Q, where Q is the number of hours the gardener spends working. Assume also that the private benefit can be represented as follows: Q = 70 – P, and that the marginal external benefit from the gardening activity is 10.
 
-## Measuring the Costs and Benefits of Public Goods 2 
+a) Please compute the equilibrium quantity achieved by the market b) Please compute the socially efficient quantity and the deadweight loss associated with part
 
-**==> picture [58 x 208] intentionally omitted <==**
+a
 
-- The benefits of highway construction are also difficult to measure. 
+## Exercises
 
-   - What is the value of the time saved for commuters due to reduced traffic jams? 
+## EXERCISE 2
 
-   - And what is the value to society of the reduced number of deaths if the highway is improved? 
+There are two types of citizens, type A and type B. Type A’s demand for a public good is as follows: Pa=200-Q, while type B’s demand is Pb= 100-2Q. Please draw these demand functions on two separate graphs.
 
-- These difficult questions are addressed by the field of cost-benefit analysis, which provides a framework for measuring the costs and benefits of public projects. 
+Knowing that the marginal cost of providing the public good is 2250 and that there are 10 citizens per type (20 citizens total), please compute the optimal social quantity. Please provide a graphical representation of the equilibrium. How much is the total cost for the good’s provision? Can you think about a pricing system that allows the government to provide the optimal social quantity of the good? How much would type A citizens pay? And type B? What are the realization problems of this pricing system? Please discuss.
+*(See also: [[C21#^1p2qlj]])*
 
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Unanimous Consent on Public Goods Levels (Ch 9.1) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**Lindahl pricing:** An approach to financing public goods in which individuals honestly reveal their willingness to pay and the government charges them that amount to finance the public good. 
-
-- Getting individuals to reveal their true marginal willingness to pay 
-
-- Aggregating these values to ensure that the social benefits exceed total cost 
-
-- Charging the individuals according to their willingness to pay 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Lindahl Pricing 1 
-
-## Lindahl’s procedure operates as follows: 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-1. Announce tax prices for the public good. 
-
-2. Everyone says how much of the public good they want at those tax prices. 
-
-3. Repeat to construct a marginal willingness to pay schedule for each individual. 
-
-Recall that efficient provision requires that **total** marginal willingness to pay = _MC_ . 
-
-4. Add up individual willingnesses to pay at each quantity of public good provided. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-5. Find Q such that total marginal willingness to pay = MC. 
-
-6. Finance the public good by charging each individual their willingness to pay for that quantity. 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## Lindahl Pricing: Graphical Representation 
-
-**==> picture [248 x 511] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Lindahl Pricing: Why It Works 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Under Lindahl pricing, the government produces the efficient amount of the public good. 
-
-- This is because _MC_ = total marginal willingness to pay. 
-
-- Each person’s price is equal to their own marginal willingness to pay, so this is an equilibrium. 
-
-- Lindahl pricing also exemplifies _benefit taxation_ . 
-
-- Benefit taxation: Taxation in which individuals are taxed for a public good according to their valuation of the benefit they receive from that good. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Problems with Lindahl Pricing 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Lindahl pricing faces several problems that keep it from being used in practice: 
-
-1. Preference revelation problem: Individuals have an incentive to lie about their willingness to pay, to lower their price. 
-
-2. Preference knowledge problem: Individuals may not know their willingness to pay. 
-
-3. Preference aggregation problem: It is not obvious how to aggregate individual preferences into a social welfare function. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-# Exercises 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## MC 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- According to the Coase theorem, the key issue in internalizing externalities is: 
-
-a) adding government intervention b) addressing the free rider problem c) defining property rights d) removing transaction costs 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## MC 2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-•Which of these does NOT reduce the problem of underprovision of public goods? 
-
-a) business improvement districts 
-
-b) government intervention 
-
-c) social capital 
-
-d) vertical summation 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## MC 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- •Which of these are issues in finding the optimal level of public provision of public goods? 
-
-I. measuring preferences 
-
-II. measuring costs 
-
-III. noncontributors 
-
-a)I & II only 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-b)I & III only c)II & III only d)I, II, & III 
-
-## MC 4 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Suppose that the government is providing a public good to two people, Lesedi and Sunil. To Lesedi, the marginal benefit of the public good is MB = 1374 – 1,42Q. Sunil’s marginal benefit is MB = 2287 – 1,53Q. The marginal cost of providing the public good is constant and is equal to $1596. What is the efficient quantity of the public good? 
-
-400 a) 700 b) 1000 c) 1300 d) 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## MC 5 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-In a private equilibrium, a positive production externality will lead to _____; a negative consumption externality will lead to _____. 
-
-a) SMC less than PMC; SMC greater than PMC b) SMC less than PMC; SMC less than PMC c) SMB less than PMB; SMC greater than PMC d) SMC less than PMC; SMB less than PMB 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## True/False (please provide a justification) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-1) If transaction costs are strictly positive, the Coase Theorem guarantees that private bargaining will still lead to the socially efficient outcome. 
-
-2) In the presence of a negative production externality, assigning property rights to the affected party (rather than the polluter) always leads to lower equilibrium production. 3) The free rider problem implies that private markets will never provide any public goods. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 1** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-The care for public gardens entails a positive externality on the community. Assume that the marginal private cost can be represented by the following: MC = 20 + 3Q, where Q is the number of hours the gardener spends working. Assume also that the private benefit can be represented as follows: Q = 70 – P, and that the marginal external benefit from the gardening activity is 10. 
-
-a) Please compute the equilibrium quantity achieved by the market b) Please compute the socially efficient quantity and the deadweight loss associated with part 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-a 
-
-## Exercises 
-
-## **EXERCISE 2** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-There are two types of citizens, type A and type B. Type A’s demand for a public good is as follows: Pa=200-Q, while type B’s demand is Pb= 100-2Q. Please draw these demand functions on two separate graphs. 
-
-Knowing that the marginal cost of providing the public good is 2250 and that there are 10 citizens per type (20 citizens total), please compute the optimal social quantity. Please provide a graphical representation of the equilibrium. How much is the total cost for the good’s provision? Can you think about a pricing system that allows the government to provide the optimal social quantity of the good? How much would type A citizens pay? And type B? What are the realization problems of this pricing system? Please discuss. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
+## Related Notes
+- [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
+- [[C21]]
+- [[C22]]

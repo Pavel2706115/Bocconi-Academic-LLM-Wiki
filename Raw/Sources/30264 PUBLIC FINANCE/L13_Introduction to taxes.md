@@ -1,404 +1,282 @@
-**==> picture [58 x 208] intentionally omitted <==**
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "Introduction to Taxes"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Public Finance BIEM – Spring 2026** 
+**Public Finance BIEM – Spring 2026**
 
-# **Introduction to Taxes** 
+# Introduction to Taxes
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Why study taxation?
 
-## Why study taxation? 
+- Taxes are economically large
 
-**==> picture [58 x 208] intentionally omitted <==**
+- In advanced economies, taxes finance a substantial
 
-- Taxes are economically large 
+- share of public spending
 
-- In advanced economies, taxes finance a substantial 
+- Tax revenue typically amounts to 30–45% of GDP
 
-   - share of public spending 
+- Italy is above the OECD average, but so are many European countries
 
-- Tax revenue typically amounts to 30–45% of GDP 
+Source: OECD (2025), _Revenue Statistics_
 
-- Italy is above the OECD average, but so are many European countries 
+Source: _Revenue Statistics, 2025_
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Tax revenue across countries
 
-Source: OECD (2025), _Revenue Statistics_ 
+- Large cross-country differences
 
-2 
+- Tax-to-GDP ratios vary widely across OECD countries
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Reflect different:
 
-**==> picture [801 x 448] intentionally omitted <==**
+- welfare state models
 
-**==> picture [86 x 105] intentionally omitted <==**
+- social insurance systems
 
-Source: _Revenue Statistics, 2025_ 
+- political choices
 
-## Tax revenue across countries 
+Source: OECD (2025), _Revenue Statistics_
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Tax-to-GDP ratios in 2023 and 2024 (as % of GDP)
 
-- Large cross-country differences 
+Source: _Revenue Statistics, 2025_
 
-- Tax-to-GDP ratios vary widely across OECD countries 
+## Types of Taxation (I)
 
-- Reflect different: 
+- Taxes on Earnings
 
-   - welfare state models 
+- Payroll tax: A tax levied on income earned on one’s job.
 
-   - social insurance systems 
+- Taxes on Individual Income
 
-   - political choices 
+- Individual income tax: A tax paid on individual income accrued during the year.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Capital gains: Earnings from selling capital assets, such as stocks, paintings, and houses.
 
-Source: OECD (2025), _Revenue Statistics_ 
+- Taxes on Corporate Income
 
-4 
+- Corporate income tax: Tax levied on the earnings ofcorporations.
 
-## Tax-to-GDP ratios in 2023 and 2024 (as % of GDP) 
+## Types of Taxation (II)
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Taxes on Wealth
 
-**==> picture [637 x 435] intentionally omitted <==**
+- Wealth taxes: Taxes paid on the value of the assets, such as real estate or stocks, held by a person or family.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Property taxes: A form of wealth tax based on the value of real estate, including the value of real estate.
 
-Source: _Revenue Statistics, 2025_ 
+- Estate taxes: A form of wealth tax based on the value of the estate left behind when one dies.
 
-**==> picture [162 x 37] intentionally omitted <==**
+- Taxes on Consumption:
 
-## Types of Taxation (I) 
+- Sales taxes: Taxes paid by consumers to vendors at the point of sale.
 
-## • Taxes on Earnings 
+- Excise tax: A tax paid on the sales of particular goods, such as cigarettes or gasoline.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## What do governments tax?
 
-   - Payroll tax: A tax levied on income earned on one’s job. 
+Governments raise revenue mainly from:
 
-- Taxes on Individual Income 
+- **Labor taxes** (income tax + social security contributions)
 
-   - Individual income tax: A tax paid on individual income accrued during the year. 
+- **Consumption taxes** (VAT, excises)
 
-   - Capital gains: Earnings from selling capital assets, such as stocks, paintings, and houses. 
+- **Capital & wealth taxes** (capital income, property, inheritance)
 
-- Taxes on Corporate Income 
+OECD (2025), _Revenue Statistics_
 
-**==> picture [86 x 105] intentionally omitted <==**
+Tax structures in 2023 (as % of total tax revenue)
 
-▪ Corporate income tax: Tax levied on the earnings ofcorporations. 
+Source: _Revenue Statistics, 2025_
 
-## Types of Taxation (II) 
+## Italy’s tax mix in international perspective
 
-## • Taxes on Wealth 
+- A labor-heavy tax system
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Italy relies heavily on **labor taxation**
 
-   - Wealth taxes: Taxes paid on the value of the assets, such as real estate or stocks, held by a person or family. 
+- Lower role for:
 
-   - Property taxes: A form of wealth tax based on the value of real estate, including the value of real estate. 
+- inheritance and wealth taxes
 
-   - Estate taxes: A form of wealth tax based on the value of the estate left behind when one dies. 
+- capital income taxation
 
-- Taxes on Consumption: 
+- Consumption taxes play a relevant but not dominant role
 
-**==> picture [86 x 105] intentionally omitted <==**
+Source: European Commission (2023), _Taxation Trends in the European Union_
 
-- Sales taxes: Taxes paid by consumers to vendors at the point of sale. 
+Tax revenues by economic function in EU-27 Member States, 2023 (% of total)
 
-- Excise tax: A tax paid on the sales of particular goods, such as cigarettes or gasoline. 
+Source: _European Comission, 2023_
 
-7 
+## Direct and indirect taxation
 
-## What do governments tax? 
+## Two broad ways to tax:
 
-**==> picture [58 x 208] intentionally omitted <==**
+## **Direct taxes**: levied on income or wealth
 
-Governments raise revenue mainly from: 
+- personal income tax
 
-- **Labor taxes** (income tax + social security contributions) 
+- corporate income tax
 
-- **Consumption taxes** (VAT, excises) 
+- property and inheritance taxes
 
-- **Capital & wealth taxes** (capital income, property, inheritance) 
+- **Indirect taxes**: levied on transactions
 
-**==> picture [86 x 105] intentionally omitted <==**
+- value added tax (VAT)
 
-OECD (2025), _Revenue Statistics_ 
+- excise taxes
 
-8 
+Direct taxes are typically progressive; indirect taxes are easier to collect.
 
-Tax structures in 2023 (as % of total tax revenue) 
+Source: OECD (2022), _Revenue Statistics,_ European Commission (2023), _Taxation Trends in the EU_ 12
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Revenues by type of tax in % of GDP, 2023
 
-**==> picture [634 x 469] intentionally omitted <==**
+Source: _European Comission, 2023_
 
-**==> picture [86 x 105] intentionally omitted <==**
+## The role of labor taxation
 
-Source: _Revenue Statistics, 2025_ 
+- Labor is the main tax base
 
-## Italy’s tax mix in international perspective 
+- Labor income is taxed through:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- personal income taxes
 
-- A labor-heavy tax system 
+- employee social security contributions
 
-- Italy relies heavily on **labor taxation** 
+- employer social security contributions
 
-- Lower role for: 
+- Together, these form the **labor tax wedge**
 
-   - inheritance and wealth taxes 
+- Labor taxes account for the largest share of total tax revenue
 
-   - capital income taxation 
+- in most OECD countries
 
-- Consumption taxes play a relevant but not dominant role 
+Source: OECD (2023), _Taxing Wages,_ OECD (2022), _Revenue Statistics_
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Labour tax revenues in EU Member States (% if GDP)
 
-Source: European Commission (2023), _Taxation Trends in the European Union_ 
+Source: _European Comission, 2023_
 
-10 
+## Income tax plus employee and employer social security contributions, 2023
 
-Tax revenues by economic function in EU-27 Member States, 2023 (% of total) 
+Source: _European Comission, 2023_
 
-**==> picture [829 x 373] intentionally omitted <==**
+## The labor tax wedge
 
-Source: _European Comission, 2023_ 
+What is the tax wedge? Difference between:
 
-## Direct and indirect taxation 
+- **total labor cost for the employer**
 
-## Two broad ways to tax: 
+- **net take-home pay of the worker**
 
-**==> picture [58 x 208] intentionally omitted <==**
+Captures the overall tax burden on labor
 
-## **Direct taxes** : levied on income or wealth 
+Key indicator for:
 
-   - personal income tax 
+- work incentives
 
-   - corporate income tax 
+- labor supply decisions
 
-- property and inheritance taxes 
+- - cross-country comparisons
 
-- **Indirect taxes** : levied on transactions 
+Italy has a relatively high labor tax wedge, similar to some European countries such as Belgium and Germany, and higher than the US.
 
-   - value added tax (VAT) 
+Source: OECD (2023), _Taxing Wages_
 
-   - excise taxes 
+## Percentage of gross wage earnings paid in income tax and employee social secuity contributions, 2023
 
-**==> picture [86 x 105] intentionally omitted <==**
+Source: _European Comission, 2023_
 
-Direct taxes are typically progressive; indirect taxes are easier to collect. 
+## Consumption taxation and VAT
 
-Source: OECD (2022), _Revenue Statistics,_ European Commission (2023), _Taxation Trends in the EU_ 12 
+- Taxing consumption
 
-## Revenues by type of tax in % of GDP, 2023 
+- Value Added Tax (VAT) is the main consumption tax
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Levied on spending rather than income
 
-**==> picture [805 x 352] intentionally omitted <==**
+- VAT is:
 
-**==> picture [86 x 105] intentionally omitted <==**
+- a major revenue source in Europe - relatively neutral with respect to saving decisions - Standard VAT rates vary substantially across countries ^uztala
 
-Source: _European Comission, 2023_ 
+Source: OECD (2022), _Consumption Tax Trends,_ European Commission (2023), _Taxation Trends in the EU_
 
-## The role of labor taxation 
+## Value Added Tax ( % of GDP and % of total tax revenues), EU 27, 2013-2023
 
-**==> picture [58 x 208] intentionally omitted <==**
+Source: _European Comission, 2023_
 
-- Labor is the main tax base 
+## Consumption tax revenues in EU Member States (% of GDP)
 
-- Labor income is taxed through: 
+Source: _European Comission, 2023_
 
-   - personal income taxes 
+## Capital income taxation
 
-   - employee social security contributions 
+- Capital income includes **interest, dividends, and capital gains**
 
-   - employer social security contributions 
+- Compared to labor and consumption, **capital taxes raise a small share of total revenue**
 
-- Together, these form the **labor tax wedge** 
+- In many countries, capital income is taxed at **flat or proportional rates**
 
-- Labor taxes account for the largest share of total tax revenue 
+- Several European countries follow similar approaches: for example, **Italy, Germany, and many Nordic countries apply relatively low or proportional taxes on financial income** ^e4en0j
+*(See also: [[L20 L21_Taxes on risk taking and wealth#^6sqqql]])*
 
-   - in most OECD countries 
+- - Italy applies a **flat tax on most financial income** , with preferential rates for government bonds
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Cross-country differences in capital taxation are large and reflect different policy choices
 
-Source: OECD (2023), _Taxing Wages,_ OECD (2022), _Revenue Statistics_ 
+## Capital tax revenues in EU Member States (% of GDP)
 
-14 
+Source: _European Comission, 2023_
 
-## Labour tax revenues in EU Member States (% if GDP) 
+## Property and inheritance taxation
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Property taxes are typically levied on **real estate** and are often assigned to **local governments**
 
-**==> picture [738 x 370] intentionally omitted <==**
+- Inheritance and gift taxes exist in most countries but generate **very limited revenue**
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Italy relies relatively more on **recurrent property taxation** than on inheritance taxes
 
-Source: _European Comission, 2023_ 
+- In comparison with countries such as France, Belgium, or Germany, inheritance taxation in Italy is relatively low.
 
-## Income tax plus employee and employer social security contributions, 2023 
+- As a result, wealth taxation plays only a **minor role** in overall tax revenues
 
-**==> picture [58 x 208] intentionally omitted <==**
+Source: European Commission (2025), _Annual Report on Taxation_
 
-**==> picture [86 x 105] intentionally omitted <==**
+Revenue from property taxes as share of total tax revenues, 2023 vs 2013
 
-Source: _European Comission, 2023_ 
+Source: _European Comission, 2023_
 
-## The labor tax wedge 
+## Key facts about taxation
 
-What is the tax wedge? Difference between: 
+- Taxes are economically large in advanced economies
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Labor is the main tax base
 
-- **total labor cost for the employer** 
+- Italy relies heavily on labor taxation
 
-- **net take-home pay of the worker** 
+- Consumption taxes play an important supporting role
 
-Captures the overall tax burden on labor 
+- Capital and inheritance taxes raise limited revenue
 
-Key indicator for: 
+- Economic behavior responds to marginal incentives
 
-- work incentives 
+Source: OECD;
+- European Commission;
+- Gruber
 
-- labor supply decisions 
-
-- • cross-country comparisons 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Italy has a relatively high labor tax wedge, similar to some European countries such as Belgium and Germany, and higher than the US. 
-
-Source: OECD (2023), _Taxing Wages_ 
-
-17 
-
-## Percentage of gross wage earnings paid in income tax and employee social secuity contributions, 2023 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: _European Comission, 2023_ 
-
-## Consumption taxation and VAT 
-
-- Taxing consumption 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Value Added Tax (VAT) is the main consumption tax 
-
-- Levied on spending rather than income 
-
-- VAT is: 
-
-▪ a major revenue source in Europe ▪ relatively neutral with respect to saving decisions • Standard VAT rates vary substantially across countries 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: OECD (2022), _Consumption Tax Trends,_ European Commission (2023), _Taxation Trends in the EU_ 
-
-19 
-
-## Value Added Tax ( % of GDP and % of total tax revenues), EU 27, 2013-2023 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [782 x 347] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: _European Comission, 2023_ 
-
-## Consumption tax revenues in EU Member States (% of GDP) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [798 x 359] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: _European Comission, 2023_ 
-
-## Capital income taxation 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Capital income includes **interest, dividends, and capital gains** 
-
-- Compared to labor and consumption, **capital taxes raise a small share of total revenue** 
-
-- In many countries, capital income is taxed at **flat or proportional rates** 
-
-- Several European countries follow similar approaches: for example, **Italy, Germany, and many Nordic countries apply relatively low or proportional taxes on financial income** 
-
-- • Italy applies a **flat tax on most financial income** , with preferential rates for government bonds 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Cross-country differences in capital taxation are large and reflect different policy choices 
-
-22 
-
-## Capital tax revenues in EU Member States (% of GDP) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [799 x 375] intentionally omitted <==**
-
-Source: _European Comission, 2023_ 
-
-## Property and inheritance taxation 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Property taxes are typically levied on **real estate** and are often assigned to **local governments** 
-
-- Inheritance and gift taxes exist in most countries but generate **very limited revenue** 
-
-- Italy relies relatively more on **recurrent property taxation** than on inheritance taxes 
-
-- In comparison with countries such as France, Belgium, or Germany, inheritance taxation in Italy is relatively low. 
-
-- As a result, wealth taxation plays only a **minor role** in overall tax revenues 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: European Commission (2025), _Annual Report on Taxation_ 
-
-24 
-
-Revenue from property taxes as share of total tax revenues, 2023 vs 2013 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [481 x 431] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Source: _European Comission, 2023_ 
-
-## Key facts about taxation 
-
-- Taxes are economically large in advanced economies 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Labor is the main tax base 
-
-- Italy relies heavily on labor taxation 
-
-- Consumption taxes play an important supporting role 
-
-- Capital and inheritance taxes raise limited revenue 
-
-- Economic behavior responds to marginal incentives 
-
-Source: OECD; European Commission; Gruber 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-26 
-
+## Related Notes
+- [[L20 L21_Taxes on risk taking and wealth]]
+- [[L14 L15_Taxation]]
+- [[L1_Intro to public finance]]

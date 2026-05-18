@@ -1,398 +1,219 @@
-**BUSINESS STRATEGY 30060 – MANAGEMENT** Management Book – Chapter 10 
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "THANK YOU"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-2 
+**BUSINESS STRATEGY 30060 – MANAGEMENT** Management Book – Chapter 10
 
-BUSINESS STRATEGY 
+## AGENDA
 
-## AGENDA 
+1. BUSINESS-LEVEL STRATEGY
 
-1. BUSINESS-LEVEL STRATEGY 
+2. DIFFERENTIATION STRATEGY
 
-2. DIFFERENTIATION STRATEGY 
+3. COST-LEADERSHIP STRATEGY
 
-3. COST-LEADERSHIP STRATEGY 
+4. THE FIVE FORCES: BENEFITS AND RISKS
 
-4. THE FIVE FORCES: BENEFITS AND RISKS 
+5. CONCLUDING CASE: GILLETTE IN 2017
 
-5. CONCLUDING CASE: GILLETTE IN 2017 
+6. SUMMARY OF MAIN POINTS
 
-6. SUMMARY OF MAIN POINTS 
+1.0
 
-**==> picture [105 x 54] intentionally omitted <==**
+**BUSINESS-LEVEL STRATEGY**
 
-1.0 
+## We define **BUSINESS-LEVEL STRATEGY**
 
-**BUSINESS-LEVEL STRATEGY** 
+The goal directed actions managers take in their quest for competitive advantage when competing in a single product market.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Managers need to answer to 4 questions:
 
-4 
+**WHO** are the customers? **WHAT** customers needs/wishes/desires will we satisfy?
 
-BUSINESS-LEVEL STRATEGY 
+## WHY
 
-## We define **BUSINESS-LEVEL STRATEGY** 
+do we want to satisfy them? **HOW** will we satisfy them?
 
-The goal directed actions managers take in their quest for competitive advantage when competing in a single product market. 
+## BUSINESS-LEVEL STRATEGY
 
-**==> picture [105 x 54] intentionally omitted <==**
+Industry & Firm effects jointly determine Competitive Advantage At the firm level, performance is determined by Value and Cost positions relative to competitors
 
-5 
+## Incident: The story
 
-BUSINESS-LEVEL STRATEGY 
+- JetBlue was founded by David Neeleman in 2000
 
-## Managers need to answer to 4 questions: 
+- In its early years, JetBlue used value innovation to drive up perceived customer value even while lowering operating costs ^84bt7x
 
-**WHO** are the customers? **WHAT** customers needs/wishes/desires will we satisfy? 
+- Between 2007 and 2015, JetBlue faced several emergency landings, erratic pilot, and bad crew behaviors
 
-## **WHY** 
+- In 2007, JetBlue was forced to cancel about 1,600 flights, and David Barger became CEO
 
-do we want to satisfy them? **HOW** will we satisfy them? 
+- In 2015, JetBlue was lagging the Dow Jones Index, and Robin Hayes was appointed CEO
 
-**==> picture [105 x 54] intentionally omitted <==**
+- In 2017, JetBlue ranked dead last in the annual WSJ survey of U.S. airlines
 
-6 
+- In 2019, JetBlue became the 6th largest Airline company in the U.S., offering approximately 1,000 flights daily, employing 22,000 crew members, and servicing 42 million customers annually
 
-## BUSINESS-LEVEL STRATEGY 
+## Incident
 
-Industry & Firm effects jointly determine Competitive Advantage At the firm level, performance is determined by Value and Cost positions relative to competitors 
+## Since the beginning, JetBlue pursued a Blue Ocean Strategy combining:
 
-**==> picture [457 x 225] intentionally omitted <==**
+## Differentiation strategy
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Cost-Leadership strategy
 
-7 
+Perceived Customer value in service offerings:
 
-BUSINESS LEVEL STRATEGY 
+- Functional website with all travel related services
 
-## Incident                       : The story 
+- Hired work-from-home live agents
 
-- JetBlue was founded by David Neeleman in 2000 
+- High-end flight with multiple amenities (Mint class)
 
-- In its early years, JetBlue used value innovation to drive up perceived customer value even while lowering operating costs 
+- Additional free services
 
-- Between 2007 and 2015, JetBlue faced several emergency landings, erratic pilot, and bad crew behaviors 
+Low operating costs:
 
-- In 2007, JetBlue was forced to cancel about 1,600 flights, and David Barger became CEO 
+- 1 type of Airplane (Airbus A-320), lowering training and maintenance costs
 
-- In 2015, JetBlue was lagging the Dow Jones Index, and Robin Hayes was appointed CEO 
+- Point-to-point model by directing connecting fewer but highly trafficked city pairs: flying longer distance and transporting more passengers
 
-- In 2017, JetBlue ranked dead last in the annual WSJ survey of U.S. airlines 
+- Lower-cost per available seat-mile in the U.S.
 
-- In 2019, JetBlue became the 6th largest Airline company in the U.S., offering approximately 1,000 flights daily, employing 22,000 crew members, and servicing 42 million customers annually 
+## Operating margins of US airline companies
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Generic Strategies
 
-8 
+Differentiation Strategy
 
-BUSINESS LEVEL STRATEGY 
+## Cost-Leadership Strategy
 
-## Incident 
+seeks to create higher value for customers by delivering products with unique features at similar cost but higher price.
 
-**==> picture [162 x 55] intentionally omitted <==**
+seeks to create the same or similar value for customers at a lower cost.
 
-## Since the beginning, JetBlue pursued a Blue Ocean Strategy combining: 
+Examples:
 
-## Differentiation strategy 
+- Tesla offers highly differentiated products and pursues a small market segment.
 
-## Cost-Leadership strategy 
+- GM has a broad scope and ranges from the low-cost positioned Chevy brand (cost leadership strategy) to the differentiated Cadillac brand (differentiation strategy).
 
-Perceived Customer value in service offerings: 
+Generic Business Strategies Competitive scope is the size (narrow or broad) of the market in which a firm chooses to compete
 
-- Functional website with all travel related services 
+Generic Business Strategies Competitive scope is the size (narrow or broad) of the market in which a firm chooses to compete US airline companies
 
-- Hired work-from-home live agents 
+2.0
 
-- High-end flight with multiple amenities (Mint class) 
+**DIFFERENTIATION STRATEGY**
 
-- Additional free services 
+## The goal of **DIFFERENTIATION STRATEGY**
 
-**==> picture [105 x 54] intentionally omitted <==**
+Add unique features that will increase the perceived value of goods and services in the minds of consumers so they are willing to pay a higher price.
 
-Low operating costs: 
+## DIFFERENTIATION STRATEGY
 
-- 1 type of Airplane (Airbus A-320), lowering training and maintenance costs 
+Achieving Competitive Advantage Differentiation strategy
 
-- Point-to-point model by directing connecting fewer but highly trafficked city pairs: flying longer distance and transporting more passengers 
+Value drivers to improve firm’s strategic position
 
-- Lower-cost per available seat-mile in the U.S. 
+**Product Features**
 
-9 
+**Customer Service**
 
-BUSINESS LEVEL STRATEGY 
+**Complements**
 
-## Operating margins of US airline companies 
+OXO utensils with ergonomically designed soft black rubber grips
 
-**==> picture [660 x 302] intentionally omitted <==**
+Zappos’ superior customer service by offering free shipping both ways
 
-**----- Start of picture text -----**<br>
-25,0%<br>20,0%<br>15,0%<br>10,0%<br>5,0%<br>0,0%<br>-5,0%<br>-10,0%<br>-15,0%<br>-20,0%<br>1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019<br>Southwest Legacy carriers Industry average JetBlue<br>**----- End of picture text -----**<br>
+Vodafone, Tim, H3G: Smartphones and Cellular services
 
+Coffee – evolution of a commodity product
 
-10 
+## DIFFERENTIATION STRATEGY
 
-BUSINESS-LEVEL STRATEGY 
+## Starbucks – differentiation strategy
 
-## Generic Strategies 
+Why are consumers willing to pay more than 1,000 USD for an Iphone?
 
-Differentiation Strategy 
+## Some good reasons to spend 1,000 USD for a smartphone
 
-## Cost-Leadership Strategy 
+- Product design
 
-seeks to create higher value for customers by delivering products with unique features at similar cost but higher price. 
+- Aesthetics
 
-seeks to create the same or similar value for customers at a lower cost. 
+- Functionality
 
-Examples: 
+- Quality
 
-**==> picture [33 x 42] intentionally omitted <==**
+- Durability
 
-- Tesla offers highly differentiated products and pursues a small market segment. 
+- Timely delivery
 
-**==> picture [34 x 34] intentionally omitted <==**
+- Service
 
-**==> picture [105 x 54] intentionally omitted <==**
+## DIFFERENTIATION STRATEGY
 
-- GM has a broad scope and ranges from the low-cost positioned Chevy brand (cost leadership strategy) to the differentiated Cadillac brand (differentiation strategy). 
+The cost of making the Iphone X
 
-11 
+Estimated direct manufactuting costs of the Iphone X compared to its predecessors’
 
-BUSINESS-LEVEL STRATEGY 
+Yet, willingness to pay of some customers is even higher
 
-Generic Business Strategies Competitive scope is the size (narrow or broad) of the market in which a firm chooses to compete 
+3.0 **COST-LEADERSHIP STRATEGY**
 
-**==> picture [105 x 54] intentionally omitted <==**
+## The goal of **COST-LEADERSHIP STRATEGY**
 
-**==> picture [462 x 348] intentionally omitted <==**
+Reduce the firm’s cost to manufacture a product or to deliver a service below that of its competitors while offering adequate value.
 
-12 
+## COST-LEADERSHIP STRATEGY
 
-**==> picture [663 x 24] intentionally omitted <==**
+Achieving Competitive Advantage Cost-leadership strategy
 
-**----- Start of picture text -----**<br>
-BUSINESS-LEVEL STRATEGY<br>**----- End of picture text -----**<br>
+## Cost drivers to improve firm’s strategic position
 
+COST OF INPUT FACTORS access to lower-cost input factors
 
-Generic Business Strategies Competitive scope is the size (narrow or broad) of the market in which a firm chooses to compete US airline companies 
+LEARNING-CURVE EFFECTS the technology remains constant and cumulative output increase
 
-2.0 
+decreases in cost per unit as output increases
 
-**DIFFERENTIATION STRATEGY** 
+the technology changes and the cumulative output remains constant
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Production capacity
 
-14 
+**PRODUCTION CAPACITY (PC)**
 
-DIFFERENTIATION STRATEGY 
+**CURRENT PRODUCTION CAPACITY (CPC)**
 
-## The goal of **DIFFERENTIATION STRATEGY** 
+**DEGREE OF UTILIZATION OF PRODUCTION CAPACITY**
 
-Add unique features that will increase the perceived value of goods and services in the minds of consumers so they are willing to pay a higher price. 
+Maximum units of output that can be produced in a given period (time-frame), using current resources
 
-**==> picture [105 x 54] intentionally omitted <==**
+Units of output that are produced in a given time-frame
 
-15 
+The ratio of current production capacity to production capacity
 
-## DIFFERENTIATION STRATEGY 
+Egea has a PC of 10.000 books a year, but its CPC is 7.000. Compute the degree of utilization
 
-Achieving Competitive Advantage Differentiation strategy 
+## Average unit cost
 
-**==> picture [105 x 54] intentionally omitted <==**
+Ratio of production costs to actual quantity produced
 
-**==> picture [460 x 161] intentionally omitted <==**
+AUC = Total Costs Quantity produced Total Costs = Tot. Fixed Costs + Tot. Variable Costs
 
-**==> picture [460 x 162] intentionally omitted <==**
+## Buildin a classroom g
 
-16 
-
-DIFFERENTIATION STRATEGY 
-
-Value drivers to improve firm’s strategic position 
-
-**Product Features** 
-
-**Customer Service** 
-
-**Complements** 
-
-**==> picture [191 x 40] intentionally omitted <==**
-
-**==> picture [191 x 40] intentionally omitted <==**
-
-**==> picture [179 x 87] intentionally omitted <==**
-
-**==> picture [160 x 90] intentionally omitted <==**
-
-OXO utensils with ergonomically designed soft black rubber grips 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Zappos’ superior customer service by offering free shipping both ways 
-
-Vodafone, Tim, H3G: Smartphones and Cellular services 
-
-17 
-
-DIFFERENTIATION STRATEGY 
-
-Coffee – evolution of a commodity product 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [422 x 291] intentionally omitted <==**
-
-18 
-
-## DIFFERENTIATION STRATEGY 
-
-## Starbucks – differentiation strategy 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [496 x 259] intentionally omitted <==**
-
-19 
-
-Why are consumers willing to pay more than 1,000 USD for an Iphone? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-20 
-
-DIFFERENTIATION STRATEGY 
-
-## Some good reasons to spend 1,000 USD for a smartphone 
-
-- Product design 
-
-- Aesthetics 
-
-- Functionality 
-
-- Quality 
-
-- Durability 
-
-- Timely delivery 
-
-- Service 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-21 
-
-## DIFFERENTIATION STRATEGY 
-
-The cost of making the Iphone X 
-
-Estimated direct manufactuting costs of the Iphone X compared to its predecessors’ 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [438 x 273] intentionally omitted <==**
-
-22 
-
-**==> picture [663 x 24] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-DIFFERENTIATION STRATEGY<br>**----- End of picture text -----**<br>
-
-
-Yet, willingness to pay of some customers is even higher 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [442 x 318] intentionally omitted <==**
-
-3.0 **COST-LEADERSHIP STRATEGY** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-24 
-
-COST-LEADERSHIP STRATEGY 
-
-## The goal of **COST-LEADERSHIP STRATEGY** 
-
-Reduce the firm’s cost to manufacture a product or to deliver a service below that of its competitors while offering adequate value. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-25 
-
-## COST-LEADERSHIP STRATEGY 
-
-Achieving Competitive Advantage Cost-leadership strategy 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [461 x 283] intentionally omitted <==**
-
-26 
-
-COST-LEADERSHIP STRATEGY 
-
-## Cost drivers to improve firm’s strategic position 
-
-COST OF INPUT FACTORS access to lower-cost input factors 
-
-LEARNING-CURVE EFFECTS the technology remains constant and cumulative output increase 
-
-ECONOMIES OF SCALE 
-
-EXPERIENCE CURVE 
-
-decreases in cost per unit as output increases 
-
-the technology changes and the cumulative output remains constant 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-27 
-
-COST-LEADERSHIP STRATEGY 
-
-## Production capacity 
-
-**PRODUCTION CAPACITY (PC)** 
-
-**CURRENT PRODUCTION CAPACITY (CPC)** 
-
-**DEGREE OF UTILIZATION OF PRODUCTION CAPACITY** 
-
-Maximum units of output that can be produced in a given period (time-frame), using current resources 
-
-Units of output that are produced in a given time-frame 
-
-The ratio of current production capacity to production capacity 
-
-Egea has a PC of 10.000 books a year, but its CPC is 7.000. Compute the degree of utilization 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-28 
-
-COST-LEADERSHIP STRATEGY 
-
-## Average unit cost 
-
-Ratio of production costs to actual quantity produced 
-
-AUC = Total Costs Quantity produced Total Costs = Tot. Fixed Costs + Tot. Variable Costs 
-
-**==> picture [129 x 129] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-29 
-
-COST-LEADERSHIP STRATEGY 
-
-## Buildin a classroom g 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-||ROOM A (100 sq.m)|ROOM B (150 sq.m)|
+|ROOM A (100 sq.m)|ROOM B (150 sq.m)|
 |---|---|---|
 |PROF. DESK + PROJECTOR|1*3.500=3500|1*3500=3500|
 |BOARD|2*500=1000|2*500=1000|
@@ -406,347 +227,189 @@ COST-LEADERSHIP STRATEGY
 |TOTAL COSTS|34.300|45.050|
 |AVERAGE COST|343|300,3|
 
+Economies of scale Reduction in average unit costs that result from increasing the production capacity (under the assumption that utilization rate is the same)
 
+## Economies of Scale: Sources
 
-30 
+Even if production capacity is low, some inputs cannot be brought in sub-units. Hence, the related costs do not increase when PC increases (or increase less than proportionally) – one door, one professor desk
 
-COST-LEADERSHIP STRATEGY 
+## EFFECT OF SPECIALIZATION
 
-Economies of scale Reduction in average unit costs that result from increasing the production capacity (under the assumption that utilization rate is the same) 
+Larger size means that resources can be employed in a more specialized way (e.g. a R&D department allocates people to specific projects; investing in specialized machines that enhance efficiency)
 
-**==> picture [105 x 54] intentionally omitted <==**
+## LOWER PER UNIT PURCHASING
 
-**==> picture [460 x 301] intentionally omitted <==**
+Higher volumes > negotiate favourable prices for buying in bulk > for suppliers higher volumes means lower transaction costs (billing, administrative costs, transport and delivery etc.); higher bargaining power – i.e. you buy more desks for the classroom
 
-31 
+## Economies of Scale: Sources
 
-COST-LEADERSHIP STRATEGY 
+EMPLOYING SPECIALIZED SYSTEMS AND EQUIPMENT Larger output allows firms to invest in more specialized systems and equipment, such as ERP software or manufacturing robots. Tesla's Model 3 high demand allow to employ robots but driving down costs.
 
-## Economies of Scale: Sources 
+The volume of a body increases disproportionately more than its surface.
 
-INDIVISIBILITY OF CERTAIN OUTPUT 
+Walmart can stock much more merchandise and handle inventory more efficiently.
 
-Even if production capacity is low, some inputs cannot be brought in sub-units. Hence, the related costs do not increase when PC increases (or increase less than proportionally) – one door, one professor desk 
+## Economies of Scale: Risks
 
-**==> picture [105 x 54] intentionally omitted <==**
+Due to technical constraints, managerial complexity and transportation costs. A large facility becomes difficult to control …
 
-## EFFECT OF SPECIALIZATION 
+Again, in the classroom example, as the size increases, the quality of teaching may decrease (more difficult interactions etc.)
 
-Larger size means that resources can be employed in a more specialized way (e.g. a R&D department allocates people to specific projects; investing in specialized machines that enhance efficiency) 
+Remember: some costs do not vary in a certain range of volumes and then increase for other ranges (increasing classroom size from 150 to 200 may not increase cost a lot, but increasing to 400 does)
 
-## LOWER PER UNIT PURCHASING 
+## Fixed-Costs Absorption
 
-Higher volumes > negotiate favourable prices for buying in bulk > for suppliers higher volumes means lower transaction costs (billing, administrative costs, transport and delivery etc.); higher bargaining power – i.e. you buy more desks for the classroom 
+Dividing fixed costs across larger units of output produced (given a production capacity)
 
-32 
+We realize fixed-cost absorption economies by increasing the rate of utilization (for a given PC)
 
-COST-LEADERSHIP STRATEGY 
+These economies are higher if fixed costs represent a larger fraction of total costs (e.g. industrial production as opposed to trade and intermediaries)
 
-## Economies of Scale: Sources 
+## Economies of Scale vs Fixed-Costs Absorption
 
-EMPLOYING SPECIALIZED SYSTEMS AND EQUIPMENT Larger output allows firms to invest in more specialized systems and equipment, such as ERP software or manufacturing robots. Tesla's Model 3 high demand allow to employ robots but driving down costs. 
+## LEARNING CURVE EFFECTS** and **LEARNING ECONOMIES
 
-TAKING ADVANTAGE OF CERTAIN PHYSICAL PROPERTIES 
+- Learning economies are incremental and predictable decrease in unit costs of output as the cumulative production volume increases
 
-The volume of a body increases disproportionately more than its surface. 
+- In the late 1960s BCG began to emphasize the implications of the experience curve for strategy.
 
-Walmart can stock much more merchandise and handle inventory more efficiently. 
+- Some process and products have greater potential for improvement over time than others!
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Greatest leverage at early staged of product lifecycle
 
-33 
+## Learning Economies: Sources
 
-COST-LEADERSHIP STRATEGY 
+**ENHANCED HUMAN SKILLS**
 
-## Economies of Scale: Risks 
+The ability of people to learn to improve their work habits and perform assigned tasks more quickly and better. This applies to all employees a nd managers, not just to those directly involved in production
 
-DISECONOMIES OF SCALE 
+**SIMPLIFICATION OF PRODUCTS & PROCESSES**
 
-QUALITY RANGE OF VARIATION 
+When people gain experience regarding a certain product or production process, they can also grasp possible pathways to simplification, leading to greater efficiency at lower costs
 
-Due to technical constraints, managerial complexity and transportation costs. A large facility becomes difficult to control … 
+**BETTER SELECTION OF MATERIALS**
 
-Again, in the classroom example, as the size increases, the quality of teaching may decrease (more difficult interactions etc.) 
+Understanding which production resources are most appropriate for carrying out a given activity
 
-Remember: some costs do not vary in a certain range of volumes and then increase for other ranges (increasing classroom size from 150 to 200 may not increase cost a lot, but increasing to 400 does) 
+## Learning economies: Sources
 
-**==> picture [105 x 54] intentionally omitted <==**
+## HIGHER COORDINATION
 
-34 
+People must interact and utilize different kinds of plants and equipment as they carry out the activities. With experience, individuals get to know one another and learn to work in teams and coordinate different processes
 
-COST-LEADERSHIP STRATEGY 
+## HIGHER PROGRAMMABILITY OF ACTIVITIES
 
-## Fixed-Costs Absorption 
+Events become more predictable and response-time to nonstandard circumstances is quicker and more effective. This makes it possible to plan processes more effectively by timing each operation, optimizing the mix of different production capacities, coordinating resources etc.
 
-Dividing fixed costs across larger units of output produced (given a production capacity) 
+## ECONOMIES of SCOPE
 
-We realize fixed-cost absorption economies by increasing the rate of utilization (for a given PC) 
+Economies of scope describe the savings that come from producing two outputs at less cost than producing each output individually, even though using the same resources and technology.
 
-These economies are higher if fixed costs represent a larger fraction of total costs (e.g. industrial production as opposed to trade and intermediaries) 
+## Economies of Scope Drivers
 
-**==> picture [105 x 54] intentionally omitted <==**
+COMPLEMENTARITIES IN THE PRODUCTION AND IN THE DISTRIBUTION OF PRODUCTS/SERVICES (i.e. shared inputs)
 
-35 
+AMORTIZING EXPENSES RELATED TO GENERIC R&D
 
-COST-LEADERSHIP STRATEGY 
+DEPLOYMENT OF UNIQUE ASSETS AND CAPABILITIES ACROSS SEVERAL PRODUCTS (e.g. brand reputation)
 
-## Economies of Scale vs Fixed-Costs Absorption 
+(e.g. Apple’s product ecosystem)
 
-**==> picture [623 x 210] intentionally omitted <==**
+## An Example: ARMANI
 
-**----- Start of picture text -----**<br>
-AUC PC Degree of utilization<br>Economies<br>=<br>of scale<br>Fixed cost<br>=<br>absorption<br>**----- End of picture text -----**<br>
+- Sells a broad array of products from clothes to shoes, watches, jewelry, cosmetics and home interior
 
+- Products marketed under several specialized labels
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Sources of scope economies relate to intangible assets (brand advantage, corporate image, know-how)
 
-36 
+4.0
 
-**==> picture [663 x 24] intentionally omitted <==**
+**THE FIVE FORCES: BENEFITS AND RISKS**
 
-**----- Start of picture text -----**<br>
-COST-LEADERSHIP STRATEGY<br>**----- End of picture text -----**<br>
+THE FIVE FORCES: BENEFITS AND RISKS
 
+Differentiation vs Costleadership strategy
 
-**==> picture [260 x 389] intentionally omitted <==**
+5.0
 
-**----- Start of picture text -----**<br>
-Learning<br>Curve<br>Tesla’s per unit<br>cost as cumulative<br>output increases<br>**----- End of picture text -----**<br>
+**CONCLUDING CASE: GILLETTE IN 2017**
 
+GILLETTE IN 2017
 
-**==> picture [460 x 286] intentionally omitted <==**
+## Gillette in the US
 
-37 
+- The historical leader of cartridge razors in the US market
 
-COST-LEADERSHIP STRATEGY 
+- Bought by Procter & Gamble (P&G) in 2007 for $57 billion
 
-## **LEARNING CURVE EFFECTS** and **LEARNING ECONOMIES** 
+- One of the most profitable P&G brands.
 
-- Learning economies are incremental and predictable decrease in unit costs of output as the cumulative production volume increases 
+- It had always pursued a differentiation advantage, with devotion to quality (“The Best a Man Can Get”), constant introduction of better performing models, and premium prices
 
-- In the late 1960s BCG began to emphasize the implications of the experience curve for strategy. 
+- — However, Gillette’s share of US shaving market had fallen from 70% in 2010 to 54% in 2016
 
-   - Some process and products have greater potential for improvement over time than others! 
+GILLETTE IN 2017
 
-   - Greatest leverage at early staged of product lifecycle 
+## The competitors
 
-**==> picture [105 x 54] intentionally omitted <==**
+Gillette was losing market share to private label brands and two new competitors: Dollar Shave Club and Harry’s .
 
-38 
+## Dollar Shave Club (DSC)
 
-COST-LEADERSHIP STRATEGY 
+- An online subscription service. It offered subscriptions for 2, 4, and 6-blade cartridges at prices ranging from $3 to $9 each. The razor was included for free with the first shipment.
 
-## Learning Economies: Sources 
+- Basic but functional products made by Korean giant Dorco.
 
-**ENHANCED HUMAN SKILLS** 
+- DSC became famous in 2012 after it run an edgy advertisement on YouTube. It was subsequently bought by Unilever for $1 billion in 2016.
 
-The ability of people to learn to improve their work habits and perform assigned tasks more quickly and better. This applies to all employees a nd managers, not just to those directly involved in production 
+GILLETTE IN 2017
 
-**SIMPLIFICATION OF PRODUCTS & PROCESSES** 
+## DSC’s benefits for customers
 
-When people gain experience regarding a certain product or production process, they can also grasp possible pathways to simplification, leading to greater efficiency at lower costs 
+- Convenience of autoreplenishment
 
-**BETTER SELECTION OF MATERIALS** 
+- Low price
 
-Understanding which production resources are most appropriate for carrying out a given activity 
+- Direct-to-consumer channel
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Irreverent and antiestablishment brand attitude
 
-39 
+GILLETTE IN 2017
 
-COST-LEADERSHIP STRATEGY 
+## The competitors
 
-## Learning economies: Sources 
+## Harry’s
 
-## **HIGHER COORDINATION** 
+- Another subscription service, launched in 2013
 
-People must interact and utilize different kinds of plants and equipment as they carry out the activities. With experience, individuals get to know one another and learn to work in teams and coordinate different processes 
+- It sold two types of razor handles at $10 and $25 and offered replacement cartridges for about $2 each
 
-**==> picture [105 x 54] intentionally omitted <==**
+- ”Quality” blades made in Germany, and nice packaging
 
-## **HIGHER PROGRAMMABILITY OF ACTIVITIES** 
+- It integrated manufacturing and bought the blade factory in Germany
 
-Events become more predictable and response-time to nonstandard circumstances is quicker and more effective. This makes it possible to plan processes more effectively by timing each operation, optimizing the mix of different production capacities, coordinating resources etc. 
+- Minimalistic “vintage” and hipster aesthetic
 
-40 
+- It started selling its products in Target stores in 2016
 
-COST-LEADERSHIP STRATEGY 
+GILLETTE IN 2017
 
-## **ECONOMIES of SCOPE** 
+## Harry’s benefits for customers
 
-Economies of scope describe the savings that come from producing two outputs at less cost than producing each output individually, even though using the same resources and technology. 
+- Convenience of autoreplenishment
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Affordable price (but not so low)
 
-41 
+- Direct-to-consumer channel + availability in supermarkets
 
-COST-LEADERSHIP STRATEGY 
+- Premium image
 
-## Economies of Scope Drivers 
+GILLETTE IN 2017
 
-COMPLEMENTARITIES IN THE PRODUCTION AND IN THE DISTRIBUTION OF PRODUCTS/SERVICES (i.e. shared inputs) 
+## Prices in 2016
 
-USE SAME ADVERTISING CAMPAIGN FOR MULTIPLE PRODUCTS 
-
-AMORTIZING EXPENSES RELATED TO GENERIC R&D 
-
-DEPLOYMENT OF UNIQUE ASSETS AND CAPABILITIES ACROSS SEVERAL PRODUCTS (e.g. brand reputation) 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-CREATION OF EXIT BARRIERS AND LOCK-IN EFFECTS FOR CONSUMERS 
-
-(e.g. Apple’s product ecosystem) 
-
-42 
-
-COST-LEADERSHIP STRATEGY 
-
-## An Example: ARMANI 
-
-- Sells a broad array of products from clothes to shoes, watches, jewelry, cosmetics and home interior 
-
-- Products marketed under several specialized labels 
-
-- Sources of scope economies relate to intangible assets (brand advantage, corporate image, know-how) 
-
-**==> picture [349 x 221] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-4.0 
-
-**THE FIVE FORCES: BENEFITS AND RISKS** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-44 
-
-THE FIVE FORCES: BENEFITS AND RISKS 
-
-**==> picture [404 x 192] intentionally omitted <==**
-
-Differentiation vs Costleadership strategy 
-
-**==> picture [404 x 192] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-5.0 
-
-**CONCLUDING CASE: GILLETTE IN 2017** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-46 
-
-GILLETTE IN 2017 
-
-## Gillette in the US 
-
-- The historical leader of cartridge razors in the US market 
-
-- Bought by Procter & Gamble (P&G) in 2007 for $57 billion 
-
-**==> picture [162 x 106] intentionally omitted <==**
-
-- One of the most profitable P&G brands. 
-
-- It had always pursued a differentiation advantage, with devotion to quality (“The Best a Man Can Get”), constant introduction of better performing models, and premium prices 
-
-- — However, Gillette’s share of US shaving market had fallen from 70% in 2010 to 54% in 2016 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [205 x 96] intentionally omitted <==**
-
-47 
-
-GILLETTE IN 2017 
-
-## The competitors 
-
-Gillette was losing market share to private label brands and two new competitors: Dollar Shave Club and Harry’s . 
-
-## Dollar Shave Club (DSC) 
-
-- An online subscription service. It offered subscriptions for 2, 4, and 6-blade cartridges at prices ranging from $3 to $9 each. The razor was included for free with the first shipment. 
-
-**==> picture [174 x 111] intentionally omitted <==**
-
-- Basic but functional products made by Korean giant Dorco. 
-
-- DSC became famous in 2012 after it run an edgy advertisement on YouTube. It was subsequently bought by Unilever for $1 billion in 2016. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-48 
-
-GILLETTE IN 2017 
-
-## DSC’s benefits for customers 
-
-- Convenience of autoreplenishment 
-
-- Low price 
-
-- Direct-to-consumer channel 
-
-- Irreverent and antiestablishment brand attitude 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [362 x 242] intentionally omitted <==**
-
-49 
-
-GILLETTE IN 2017 
-
-## The competitors 
-
-## Harry’s 
-
-- Another subscription service, launched in 2013 
-
-- It sold two types of razor handles at $10 and $25 and offered replacement cartridges for about $2 each 
-
-- ”Quality” blades made in Germany, and nice packaging 
-
-- It integrated manufacturing and bought the blade factory in Germany 
-
-**==> picture [176 x 67] intentionally omitted <==**
-
-- Minimalistic “vintage” and hipster aesthetic 
-
-- It started selling its products in Target stores in 2016 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-50 
-
-GILLETTE IN 2017 
-
-## Harry’s benefits for customers 
-
-- Convenience of autoreplenishment 
-
-- Affordable price (but not so low) 
-
-- Direct-to-consumer channel + availability in supermarkets 
-
-- Premium image 
-
-**==> picture [379 x 190] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-51 
-
-GILLETTE IN 2017 
-
-## Prices in 2016 
-
-|Razor Cartridge|Number of<br>blades per<br>cartridge|Price per<br>cartridge|Price per<br>blade|
+|Razor Cartridge|Number of blades per cartridge|Price per cartridge|Price per blade|
 |---|---|---|---|
 |Dollar Shave Club Humble Twin|2|$0.60|$0.30|
 |Schick Hydro|5|$1.68|$0.34|
@@ -754,169 +417,114 @@ GILLETTE IN 2017
 |Dollar Shave Club Executive|6|$2.25|$0.38|
 |Gillette Fusion ProShield|5|$5.62|$1.12|
 
+Schick was a traditional brand sold in supermarkets and owned by Edgewell Personal Care. In Europe, it used the brand Wilkinson. Source: Esty and Fisher (2019), HBR Case 9-720-378.
 
+GILLETTE IN 2017
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Should have Gillette cut prices?
 
-Schick was a traditional brand sold in supermarkets and owned by Edgewell Personal Care. In Europe, it used the brand Wilkinson. Source: Esty and Fisher (2019), HBR Case 9-720-378. 
+- The market for men’s shaving was declining , because men shaved less often and spent more money on toiletries and parfums
 
-52 
+- Gillette launched Gillette Shave Club in 2015, trying to replicate DSC and Harry’s model, but without reducing prices. This club had very limited success
 
-GILLETTE IN 2017 
+- Equity analysts were complaining that Gillette was not listening to customers and that “super premium innovation” was not the only way to win in the product category
 
-## Should have Gillette cut prices? 
+- According to estimates, the elasticity of demand to price for Gillette’s shaving products ranged between -0.50 and -1.10
 
-- The market for men’s shaving was declining , because men shaved less often and spent more money on toiletries and parfums 
+GILLETTE IN 2017
 
-- Gillette launched Gillette Shave Club in 2015, trying to replicate DSC and Harry’s model, but without reducing prices. This club had very limited success 
+## Should have Gillette cut prices?
 
-- Equity analysts were complaining that Gillette was not listening to customers and that “super premium innovation” was not the only way to win in the product category 
+## Let’s apply our decision-making framework.
 
-**==> picture [138 x 138] intentionally omitted <==**
+Scenarios ??? ??? Actions Cut prices ? ? Not cut prices ? ?
 
-- According to estimates, the elasticity of demand to price for Gillette’s shaving products ranged between -0.50 and -1.10 
+GILLETTE IN 2017
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Should have Gillette cut prices?
 
-53 
+## Let’s use the utility model and put appropriate numbers in the matrix.
 
-GILLETTE IN 2017 
+Scenarios Demand is elastic Demand is inelastic Actions Cut prices ? ? Not cut prices ? ?
 
-## Should have Gillette cut prices? 
+GILLETTE IN 2017
 
-## Let’s apply our decision-making framework. 
+## Should have Gillette cut prices?
 
-Scenarios ??? ??? Actions Cut prices ? ? Not cut prices ? ? 
+## What’s the probability threshold for “Demand is elastic?”
 
-**==> picture [105 x 54] intentionally omitted <==**
+GILLETTE IN 2017
 
-54 
+## Should have Gillette cut prices?
 
-GILLETTE IN 2017 
+Based on our analysis, Gillette should have cut prices if it believed that there was a greater probability than 75% that demand was elastic enough.
 
-## Should have Gillette cut prices? 
+## So, Gillette needed:
 
-## Let’s use the utility model and put appropriate numbers in the matrix. 
+- A theory of how customers would react to price cuts -> which one?
 
-Scenarios Demand is elastic Demand is inelastic Actions Cut prices ? ? Not cut prices ? ? 
+- To collect insight from experts -> probably supportive
 
-**==> picture [105 x 54] intentionally omitted <==**
+- To run experiments with cutting prices -> how to run them?
 
-55 
+GILLETTE IN 2017
 
-GILLETTE IN 2017 
+## Why were Gillette customers moving to competitors?
 
-## Should have Gillette cut prices? 
+. The theory needed to address the reasons **why customers were leaving** If prices were the only reason, Gillette could find a price point at which customers would prefer to stay with Gillette (superior quality) than to adopt inferior brands.
 
-## What’s the probability threshold for “Demand is elastic?” 
+But maybe they were not. An equity analyst said:
 
-**==> picture [656 x 263] intentionally omitted <==**
+“The upstarts have become a real threat. Some of them are becoming very very big. It isn’t just a price point conversation: it has evolved into something about brand affinity. People want to be doing things their own way, there is a distrust of big brands. People feel are being smarter now, using a smarter, hipper brand”.
+*(See also: [[slideset 7_v.2#^l12vj2]])*
 
-**----- Start of picture text -----**<br>
-Scenarios Demand is elastic Demand is inelastic<br>Actions<br>Cut prices 100 -300<br>Not cut prices 0 0<br>Benefits of increased demand Wide range of elasticities that<br>are smaller than |1| and<br>negative effect on margins<br>**----- End of picture text -----**<br>
+Source: Esty and Fisher (2019), HBR Case 9-720-378.
 
+GILLETTE IN 2017
 
-56 
+## What did Gillette do?
 
-GILLETTE IN 2017 
+In 2017, it reduced prices by about 12% on average and up to 20% on certain products.
 
-## Should have Gillette cut prices? 
+GILLETTE IN 2017
 
-Based on our analysis, Gillette should have cut prices if it believed that there was a greater probability than 75% that demand was elastic enough. 
+## What happened?
 
-## So, Gillette needed: 
-
-- A theory of how customers would react to price cuts -> which one? 
-
-- To collect insight from experts -> probably supportive 
-
-- To run experiments with cutting prices -> how to run them? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-57 
-
-GILLETTE IN 2017 
-
-## Why were Gillette customers moving to competitors? 
-
-. The theory needed to address the reasons **why customers were leaving** If prices were the only reason, Gillette could find a price point at which customers would prefer to stay with Gillette (superior quality) than to adopt inferior brands. 
-
-But maybe they were not. An equity analyst said: 
-
-“The upstarts have become a real threat. Some of them are becoming very very big. It isn’t just a price point conversation: it has evolved into something about brand affinity. People want to be doing things their own way, there is a distrust of big brands. People feel are being smarter now, using a smarter, hipper brand”. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Source: Esty and Fisher (2019), HBR Case 9-720-378. 
-
-58 
-
-GILLETTE IN 2017 
-
-## What did Gillette do? 
-
-In 2017, it reduced prices by about 12% on average and up to 20% on certain products. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [447 x 295] intentionally omitted <==**
-
-59 
-
-GILLETTE IN 2017 
-
-## What happened? 
-
-## Shares of largest men’s shaving brands in US men's grooming market (Retail value) 
+## Shares of largest men’s shaving brands in US men's grooming market (Retail value)
 
 |Brands (Owner)|2015|2016|2017|2018|2019|2020|
 |---|---|---|---|---|---|---|
 |Gillette (Procter & Gamble Co)|18.7%|16.8%|14.5%|13.8%|13.0%|12.9%|
-|Dollar Shave Club (Unilever Group)||2.1%|2.3%|2.5%|2.6%|2.7%|
+|Dollar Shave Club (Unilever Group)|2.1%|2.3%|2.5%|2.6%|2.7%|
 |Schick (Edgewell Personal Care Brands LLC)|4.4%|3.6%|3.3%|3.0%|2.7%|2.4%|
 |Harry's (HF Global Inc)|0.3%|0.5%|0.7%|1.4%|2.1%|2.3%|
 |Bic (Société Bic SA)|2.0%|1.8%|1.7%|1.5%|1.4%|1.4%|
 
+Source: Passport. Men’s grooming combines shaving, toiletries, and parfums
 
+GILLETTE IN 2017
 
-Source: Passport. Men’s grooming combines shaving, toiletries, and parfums 
+## What would you suggest Gillette to do?
 
-**==> picture [105 x 54] intentionally omitted <==**
+Apart from losing market share, the market as whole is shrinking. DSC has recently started distribution in stores. Harry’s has entered UK and has plans to enter other European countries. What are Gillette’s options?
 
-60 
+6.0
 
-GILLETTE IN 2017 
+**SUMMARY OF MAIN POINTS**
 
-## What would you suggest Gillette to do? 
+## In summary
 
-Apart from losing market share, the market as whole is shrinking. DSC has recently started distribution in stores. Harry’s has entered UK and has plans to enter other European countries. What are Gillette’s options? 
+- Understand what is a business level strategy
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Identify generic business strategies according to competitive scope and strategic position
 
-**==> picture [360 x 286] intentionally omitted <==**
+- Cost-Leadership and Differentiation are distinct strategic positions.
 
-6.0 
+- Value innovation will align the business strategy with total perceived consumer benefits, price, and cost.
 
-**SUMMARY OF MAIN POINTS** 
+# THANK YOU
 
-**==> picture [105 x 54] intentionally omitted <==**
-
-62 
-
-SUMMARY 
-
-## In summary 
-
-- Understand what is a business level strategy 
-
-- Identify generic business strategies according to competitive scope and strategic position 
-
-- Cost-Leadership and Differentiation are distinct strategic positions. 
-
-- Value innovation will align the business strategy with total perceived consumer benefits, price, and cost. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-# **THANK YOU** 
-
+## Related Notes
+- [[slideset 7_v.2]]
+- [[AUC and FCA]]
+- [[ACC_BEP]]

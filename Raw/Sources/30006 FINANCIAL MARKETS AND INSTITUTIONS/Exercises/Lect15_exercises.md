@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 15** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect15_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 15
 
-Which is the primary reason why banks make screening of borrowers before giving out a loan? 
+## EX 1
 
-- a) it reduces borrower moral hazard 
+Which is the primary reason why banks make screening of borrowers before giving out a loan?
 
-- b) to renegotiate loans before default occurs 
+- a) it reduces borrower moral hazard
 
-- c) to learn if borrower is low risk for a given interest rate 
+- b) to renegotiate loans before default occurs
 
-- d) to learn if borrower is eligible for a loan 
+- c) to learn if borrower is low risk for a given interest rate
 
-## **EX 2** 
+- d) to learn if borrower is eligible for a loan
 
-- Why do banks need to engage in liquidity management? 
+## EX 2
 
-- a) bank assets generally have a longer maturity than liabilities 
+- Why do banks need to engage in liquidity management?
 
-- b) bank assets generally have a shorter maturity than liabilities 
+- a) bank assets generally have a longer maturity than liabilities
 
-- c) bank assets generally have the same return as liabilities 
+- b) bank assets generally have a shorter maturity than liabilities
 
-- d) bank assets generally have lower return than liabilities 
+- c) bank assets generally have the same return as liabilities
 
-## **EX 3** 
+- d) bank assets generally have lower return than liabilities
 
-- A bank has $400 worth of assets and $360 of liabilities. Its ROA is 1.3%. What is this bank’s ROE? 
+## EX 3
 
-- a) 6.7% 
+- A bank has $400 worth of assets and $360 of liabilities. Its ROA is 1.3%. What is this bank’s ROE?
+*(See also: [[Lect19#^mxyigg]])*
 
-- b) 19.2% 
+- a) 6.7%
 
-- c) 13.0% 
+- b) 19.2%
 
-- d) 23.0% 
+- c) 13.0%
 
-## **EX 4** 
+- d) 23.0%
 
-Why are bank shareholders willing to reduce capital as much as possible? 
+## EX 4
 
-- a) because most banks nowadays manage assets and liabilities together ( _ALM_ 
+Why are bank shareholders willing to reduce capital as much as possible?
 
-- b) because capital is long term, while banks typically are financed with short term liabilities 
+- a) because most banks nowadays manage assets and liabilities together ( _ALM_
 
-- c) because they have a principal-agent problem with bank managers 
+- b) because capital is long term, while banks typically are financed with short term liabilities
 
-- d) because the more capital they invest, the lower is their return on equity 
+- c) because they have a principal-agent problem with bank managers
 
+- d) because the more capital they invest, the lower is their return on equity
+
+## Related Notes
+- [[Lect19]]
+- [[Lect15]]
+- [[Lect21_exercises]]

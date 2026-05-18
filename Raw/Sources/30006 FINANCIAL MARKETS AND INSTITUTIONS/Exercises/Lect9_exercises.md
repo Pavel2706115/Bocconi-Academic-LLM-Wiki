@@ -1,48 +1,66 @@
-## **Extra exercises of Lecture 9** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect9_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 9
 
-What is/are the advantage/s of futures over forward contracts? 
+## EX 1
 
-- I. the ability to fix price today of an asset delivered in the future II. customized contracts III. the elimination of counterparty risk 
+What is/are the advantage/s of futures over forward contracts?
 
-- IV. standardized contracts 
+- I. the ability to fix price today of an asset delivered in the future II. customized contracts III. the elimination of counterparty risk
 
-- a) I and IV b) III and IV c) I and III d) I and IV 
+- IV. standardized contracts
 
-## **EX 2** 
+- a) I and IV b) III and IV c) I and III d) I and IV
 
-James has entered today a contract on a commodity that will be delivered 120 days in the future. All payments are due on the day of delivery, no matter how the commodity price develops. James payoff 
+## EX 2
 
-- from the contract will be higher if the commodity price falls at the delivery date. You have: 
+James has entered today a contract on a commodity that will be delivered 120 days in the future. All payments are due on the day of delivery, no matter how the commodity price develops. James payoff
 
-- a) bought a futures contract 
+- from the contract will be higher if the commodity price falls at the delivery date. You have:
 
-- b) sold a futures contract 
+- a) bought a futures contract
 
-- c) bought a forward contract 
+- b) sold a futures contract
 
-- d) sold a forward contract 
+- c) bought a forward contract
 
-## **EX 3** 
+- d) sold a forward contract
 
-Mike is asked to draw the profit function of the investor buying a forward contract in a graph (the spot market price at delivery is on the X axis, whereas profit is on the Y axis). The correct graph Mike will draw has 
+## EX 3
 
-- a) a downward sloping line 
+Mike is asked to draw the profit function of the investor buying a forward contract in a graph (the spot market price at delivery is on the X axis, whereas profit is on the Y axis). The correct graph Mike will draw has
+*(See also: [[Lect9-10#^65964d]])*
 
-- b) a kinked line, first horizontal and then upward sloping 
+- a) a downward sloping line
 
-- c) an upward sloping line 
+- b) a kinked line, first horizontal and then upward sloping
 
-- d) a vertical line 
+- c) an upward sloping line
 
-## **EX 4** 
+- d) a vertical line
 
-A finance company sells a bond forward to a mutual fund. What risk does the mutual fund want to hedge? 
+## EX 4
 
-- a) interest rates going up b) interest rates going down 
+A finance company sells a bond forward to a mutual fund. What risk does the mutual fund want to hedge?
 
-- c) counterparty risk 
+- a) interest rates going up b) interest rates going down
 
-- d) none of the others 
+- c) counterparty risk
 
+- d) none of the others
+
+## Related Notes
+- [[Lect9-10]]
+- [[Lect10_exercises]]
+- [[Lect12_Review_exercises_questions]]

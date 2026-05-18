@@ -1,54 +1,72 @@
-## **Extra exercises of Lecture 5** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect5_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 5
 
-Which of the following securities are money market instruments? 
+## EX 1
 
-I. T-bills II. Commercial paper III. Treasury perpetuity bonds IV. Agency bonds a) I, II and III b) II, II and IIV c) I, II and IV d) I and II 
+Which of the following securities are money market instruments?
 
-## **EX 2** 
+I. T-bills II. Commercial paper III. Treasury perpetuity bonds IV. Agency bonds a) I, II and III b) II, II and IIV c) I, II and IV d) I and II
+*(See also: [[Lect5#^qj8z3j]])*
 
-Which entity can issue commercial paper and cannot issue certificates of deposits? 
+## EX 2
 
-- a) a government b) a non-financial corporation 
+Which entity can issue commercial paper and cannot issue certificates of deposits?
 
-- c) a bank d) none of the others 
+- a) a government b) a non-financial corporation
 
-## **EX 3** 
+- c) a bank d) none of the others
 
-The Treasury is auctioning $1,800 million par value 182-day T-bills. The non-competitive bias amounted to $200 million. The following competitive bids were received: 
+## EX 3
 
-- Bidder 1: $600 million at $994 
+The Treasury is auctioning $1,800 million par value 182-day T-bills. The non-competitive bias amounted to $200 million. The following competitive bids were received:
 
-- Bidder 2: $700 million at $997.5 
+- Bidder 1: $600 million at $994
 
-- Bidder 3: $200 million at $996 
+- Bidder 2: $700 million at $997.5
 
-- Bidder 4: $400 million at $997 
+- Bidder 3: $200 million at $996
 
-How many Treasuries does Bidder 1 obtain from the auction? 
+- Bidder 4: $400 million at $997
 
-- a) $200 million 
+How many Treasuries does Bidder 1 obtain from the auction?
 
-- b) $100 million c) $0 (i.e., he obtains no Treasuries) d) $300 million 
+- a) $200 million
 
-## **EX 4** 
+- b) $100 million c) $0 (i.e., he obtains no Treasuries) d) $300 million
 
-Which of the following are true about repos and Fed Funds? 
+## EX 4
 
-- I. repos are secured loans, Fed Funds are not 
+Which of the following are true about repos and Fed Funds?
 
-- II. Fed Funds are secured loans, repos are not 
+- I. repos are secured loans, Fed Funds are not
 
-- III. only some financial intermediaries are allowed to buy Fed Funds from the Fed; with repos, also non-banks can participate 
+- II. Fed Funds are secured loans, repos are not
 
-- IV. both repos and Fed Funds are secured loans, but financial intermediaries can only trade Fed Funds 
+- III. only some financial intermediaries are allowed to buy Fed Funds from the Fed; with repos, also non-banks can participate
 
-- a) I and III 
+- IV. both repos and Fed Funds are secured loans, but financial intermediaries can only trade Fed Funds
 
-- b) II, III and IV 
+- a) I and III
 
-- c) II and IV 
+- b) II, III and IV
 
-- d) III and IV 
+- c) II and IV
 
+- d) III and IV
+
+## Related Notes
+- [[Lect5]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]
+- [[Lect1_exercises]]

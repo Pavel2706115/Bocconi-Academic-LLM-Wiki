@@ -1,36 +1,54 @@
-## **Extra exercises of Lecture 8** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect8_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 8
 
-The Yellow Co. announced it would pay $1 of dividend per share in year 1 with a growth rate of 10% forever. After an unexpected positive shock, the company announces that it would pay $3 in year 1, $1.1 in year 2 with a growth rate of 14% thereafter. If the compensation for risk is 16%, what is the percentage change in the stock price after the announcement of the positive shock? a) 60% 
+## EX 1
 
-- b) 120% 
+The Yellow Co. announced it would pay $1 of dividend per share in year 1 with a growth rate of 10% forever. After an unexpected positive shock, the company announces that it would pay $3 in year 1, $1.1 in year 2 with a growth rate of 14% thereafter. If the compensation for risk is 16%, what is the percentage change in the stock price after the announcement of the positive shock? a) 60% ^jn1dt2
+*(See also: [[Lect8#^yj4tmk]])*
 
-- c) 200% 
+- b) 120%
 
-- d) 140% 
+- c) 200%
 
-## **EX 2** 
+- d) 140%
 
-A firm is in an industry with an average PE ratio of 12. However, the firm is more profitable and less risky than the rest of the industry, so its PE is 30% higher. If the firm’s earnings per share are $5, what do you expect its price to be? 
+## EX 2
 
-- a) $78 b) $60 c) $94 d) $92.8 
+A firm is in an industry with an average PE ratio of 12. However, the firm is more profitable and less risky than the rest of the industry, so its PE is 30% higher. If the firm’s earnings per share are $5, what do you expect its price to be?
 
-## **EX 3** 
+- a) $78 b) $60 c) $94 d) $92.8
 
-Stock A has an expected dividend next year of $10, and then growing forever at 10%, and a required rate of return of 14%. Stock B has an expected dividend next year of $20, and then it is expected to grow forever at 8%. Which is the required rate of return of stock B such that it has the same price today of stock A? 
+## EX 3
 
-- a) 26% b) 16% c) 11% d) 7% 
+Stock A has an expected dividend next year of $10, and then growing forever at 10%, and a required rate of return of 14%. Stock B has an expected dividend next year of $20, and then it is expected to grow forever at 8%. Which is the required rate of return of stock B such that it has the same price today of stock A?
 
-## **EX 4** 
+- a) 26% b) 16% c) 11% d) 7%
 
-If a firm presents a lower Price Earnings (PE) ratio than competitors in the same industry: 
+## EX 4
 
-- a) its earnings are expected to rise in the future more than high PE firms 
+If a firm presents a lower Price Earnings (PE) ratio than competitors in the same industry:
 
-- b) it is believed to be less risky compared to high PE firms, so price is lower 
+- a) its earnings are expected to rise in the future more than high PE firms
 
-- c) both a) and b) 
+- b) it is believed to be less risky compared to high PE firms, so price is lower
 
-- d) neither a) nor b) 
+- c) both a) and b)
 
+- d) neither a) nor b)
+
+## Related Notes
+- [[Lect8]]
+- [[L18 Expectations Financial Markets Stocks]]
+- [[Libby_12e_Chap011_PPT w-corrige print]]

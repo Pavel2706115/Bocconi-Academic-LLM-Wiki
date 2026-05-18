@@ -1,766 +1,570 @@
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "The Determinants of Interest Rates (Chapter 4)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Prof. Francesco Bripi 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025
 
-# **The Determinants of Interest Rates (Chapter 4)** 
+Prof. Francesco Bripi
 
-**==> picture [347 x 234] intentionally omitted <==**
+# The Determinants of Interest Rates (Chapter 4)
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+2-1 Q
 
+2-1
 
-2-1 Q 
+## Outline of Lecture
 
-2-1 
+## Topics of today
 
-## **Outline of Lecture** 
+## 1. Asset demand
 
-## Topics of today 
+- determinants
 
-## 1. Asset demand 
+- 2. Bond market:
 
-- determinants 
+`o` demand curve: derivation `o` supply curve: derivation `o` equilibrium `o` shifts in demand `o` shifts in supply
 
-- 2. Bond market: 
+## Determinants of (Financial) Asset Demand
 
-`o` demand curve: derivation `o` supply curve: derivation `o` equilibrium `o` shifts in demand `o` shifts in supply 
+**1. Wealth**: total resources owned by the individual (house, securities, car…).
 
-## **Determinants of (Financial) Asset Demand** 
+**2. Expected return** (over the next period) on one asset _relative_ to alternative assets
 
-**1. Wealth** : total resources owned by the individual (house, securities, car…). 
+**3. Risk** (uncertainty on asset return) on one asset _relative_ to alternative assets
 
-**2. Expected return** (over the next period) on one asset _relative_ to alternative assets 
+**4. Liquidity** (the ease and speed with which an asset can be turned into cash) _relative_ to alternative assets
 
-**3. Risk** (uncertainty on asset return) on one asset _relative_ to alternative assets 
+## Wealth
 
-**4. Liquidity** (the ease and speed with which an asset can be turned into cash) _relative_ to alternative assets 
+- ✓ Wealth has a positive effect on the demand of financial assets
 
-## **Wealth** 
+- Note: _wealth_ ≠ _income_ , it’s a _stock variable_ , not a _flow_
 
-- ✓ Wealth has a positive effect on the demand of financial assets 
+- ✓ Sounds pretty obvious, since financial assets are _normal goods_ ( _i.e._ not _inferior goods_ )
 
-   - Note: _wealth_ ≠ _income_ , it’s a _stock variable_ , not a _flow_ 
+Holding everything else constant …. an **increase** in **wealth**
 
-- ✓ Sounds pretty obvious, since financial assets are _normal goods_ ( _i.e._ not _inferior goods_ ) 
+**increases** the **demand** of an asset
 
-Holding everything else constant …. an **increase** in **wealth** 
+## Expected Return
 
-**increases** the **demand** of an asset 
+✓ The **expected return** is the average return across all _states of nature_
 
-## **Expected Return** 
+𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1
 
-✓ The **expected return** is the average return across all _states of nature_ 
+where:
 
-𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1 
+𝑅 is the return in state 𝑖 𝑖
 
-where: 
+𝑖 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
 
-𝑅 is the return in state 𝑖 𝑖 
+For example, consider a coin toss: you win $1 if heads and $0 if tails.
 
-𝑖 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable) 
+- **Q**: What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case?
 
-For example, consider a coin toss: you win $1 if heads and $0 if tails. 
+## Expected Return
 
-- **Q** : What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case? 
+✓ The **expected return** is the average return across all _states of nature_
 
-## **Expected Return** 
+𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1
 
-✓ The **expected return** is the average return across all _states of nature_ 
+where:
 
-𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1 
+𝑅 is the return in state 𝑖 𝑖
 
-where: 
+- 𝑖
 
-𝑅 is the return in state 𝑖 𝑖 
+- 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
 
-- 𝑖 
+For example, consider a coin toss: you win $1 if heads and $0 if tails.
 
-- 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable) 
+- **Q**: What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case?
 
-For example, consider a coin toss: you win $1 if heads and $0 if tails. 
+## Expected Return
 
-- **Q** : What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case? 
+✓ Nice thing about expected returns is that they are **additive**
 
-𝑝𝐻 = 𝑝𝑇 = 0.5 ; 𝑅𝐻 = $1, 𝑅𝑇 = $0 𝐸 𝑅= 0.5 × 1 + 0.5 × 0 = $𝟎. 𝟓 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+✓ The expected return of a _portfolio of 2 fin. assets_ ( _A_ and _B)_ is the sum of the expected returns of the two _fin. assets_: 𝐸 𝑅 = 𝐸 𝑅 + 𝑅 = 𝐸 𝑅 𝐴 𝐵 𝐴) + 𝐸(𝑅𝐵 𝑝𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜
 
-## **Expected Return** 
+## Expected Return
 
-✓ Nice thing about expected returns is that they are **additive** 
+## Holding everything else constant, an **increase** in the **expected return increases** the **demand** of an asset
 
-✓ The expected return of a _portfolio of 2 fin. assets_ ( _A_ and _B)_ is the sum of the expected returns of the two _fin. assets_ : 𝐸 𝑅 = 𝐸 𝑅 + 𝑅 = 𝐸 𝑅 𝐴 𝐵 𝐴) + 𝐸(𝑅𝐵 𝑝𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 
+- ✓ Again: quite intuitive!
 
-## **Expected Return** 
+- ✓ Note: _ceteris paribus_ condition ( _= everything else constant_ ) here is key
 
-## Holding everything else constant, an **increase** in the **expected return increases** the **demand** of an asset 
+`o` you may very well prefer an asset with lower expected return, but other factors different (e.g.: lower **risk!** )
 
-- ✓ Again: quite intuitive! 
+- ✓ Often, high expected returns assets also have high risk (risk-return trade-off)
 
-- ✓ Note: _ceteris paribus_ condition ( _= everything else constant_ ) here is key 
+## Risk
 
-`o` you may very well prefer an asset with lower expected return, but other factors different (e.g.: lower **risk!** ) 
+- ✓ We measure **risk** as the standard deviation of an asset return (across all states of the world)
 
-- ✓ Often, high expected returns assets also have high risk (risk-return trade-off) 
+✓ Consider stock A and its forecasted returns for the upcoming year: 3% 𝑝= 1/4 𝑅𝑖 7% 𝑝= 1/2 = ቐ15% 𝑝= 1/4 **Q**: what is the risk of stock A? **A**: 1(st): need to calculate the expected return: 𝐸 𝑅= 0.25 ∙0.03 + 0.5 ∙0.07 + 0.25 ∙0.14 = $0.08 (read 𝟖%) **…**
+*(See also: [[L16 & L17 Expectations Financial Markets Bonds#^3rew15]])*
 
-## **Risk** 
+## Risk: Answer
 
-- ✓ We measure **risk** as the standard deviation of an asset return (across all states of the world) 
+… 2(nd): take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))(2) ෍ 𝑖=1
 
-**==> picture [242 x 41] intentionally omitted <==**
+= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) 𝜎= 0.19% = 4.36%: take the square root:
 
-✓ Consider stock A and its forecasted returns for the upcoming year: 3% 𝑝= 1/4 𝑅𝑖 7% 𝑝= 1/2 = ቐ15% 𝑝= 1/4 **Q** : what is the risk of stock A? **A** : 1[st] : need to calculate the expected return: 𝐸 𝑅= 0.25 ∙0.03 + 0.5 ∙0.07 + 0.25 ∙0.14 = $0.08 (read 𝟖%) **…** 
+Now consider stock B:
 
-## **Risk: Answer** 
+𝑅𝑖 = ሼ𝟖% 𝑝= 1
 
-… 2[nd] : take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))[2] ෍ 𝑖=1 
+**Q**: What is the risk of stock B?
 
-= 0.25 ∙ 0.03 −0.08[2] + 0.5 ∙ 0.07[2] + 0.25 ∙ 0.14 −−0.08[2] = 0.19% 3[rd] 𝜎= 0.19% = 4.36% : take the square root: 
+## Risk: Answer
 
-Now consider stock B: 
+… 2(nd): take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))(2) ෍ 𝑖=1
 
-𝑅𝑖 = ሼ𝟖% 𝑝= 1 
+= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) 𝜎= 0.19% = 4.36%: take the square root:
 
-**Q** : What is the risk of stock B? 
+Now consider stock B: 𝑅𝑖 = ሼ𝟖% 𝑝= 1
 
-## **Risk: Answer** 
+**Q**: What is the risk of stock B? **A**: 0 because the probability is 1 (no uncertainty!)
 
-… 2[nd] : take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))[2] ෍ 𝑖=1 
+## Risk
 
-= 0.25 ∙ 0.03 −0.08[2] + 0.5 ∙ 0.07[2] + 0.25 ∙ 0.14 −−0.08[2] = 0.19% 3[rd] 𝜎= 0.19% = 4.36% : take the square root: 
+So, both stocks A and B have the same expected return: 8%.
 
-Now consider stock B: 𝑅𝑖 = ሼ𝟖% 𝑝= 1 
+- ✓ Should I be indifferent between the two?
 
-**Q** : What is the risk of stock B? **A** : 0 because the probability is 1 (no uncertainty!) 
+`o` a _risk-_ _**averse**_ individual prefers the asset with the **lower** risk (standard deviation), for the same expected return `o` he/she chooses stock **B** (the sure thing) to stock A (the riskier asset), because risk is costly to him/her
 
-## **Risk** 
+- ✓ We assume that people are _risk-averse_ , especially in their financial decisions
 
-So, both stocks A and B have the same expected return: 8%. 
+`o` generally, investors on financial markets are risk averse
 
-- ✓ Should I be indifferent between the two? 
+Holding everything else constant, an **increase** in **risk**
 
-`o` a _risk-_ _**averse**_ individual prefers the asset with the **lower** risk (standard deviation), for the same expected return `o` he/she chooses stock **B** (the sure thing) to stock A (the riskier asset), because risk is costly to him/her 
+**decreases** the **demand** of an asset
 
-- ✓ We assume that people are _risk-averse_ , especially in their financial decisions 
+## Liquidity
 
-`o` generally, investors on financial markets are risk averse 
+- ✓ _Definition_: Ease and speed with which an asset is turn into cash
 
-Holding everything else constant, an **increase** in **risk** 
+- Need many traders (buyers and sellers) and active trades
 
-**decreases** the **demand** of an asset 
+`o` Intuitively: the _higher the number of traders_ in the market, the **easier** it will be to **sell** the asset in any period
 
-## **Liquidity** 
+EX: a house is generally an illiquid asset compared to other securities (stocks and bonds)
 
-- ✓ _Definition_ : Ease and speed with which an asset is turn into cash 
+## Again intuitively:
 
-   - Need many traders (buyers and sellers) and active trades 
+Holding everything else constant, an **increase** in **liquidity increases** the **demand** of an asset
 
-`o` Intuitively: the _higher the number of traders_ in the market, the **easier** it will be to **sell** the asset in any period 
+# Summary
 
-EX: a house is generally an illiquid asset compared to other securities (stocks and bonds) 
+## Supply & Demand in the Bond Market
 
-## Again intuitively: 
+## Definition of bond
 
-Holding everything else constant, an **increase** in **liquidity increases** the **demand** of an asset 
+- ✓ A bond is a debt security that promises the holder the payment of a specified amount (the face value) in the future upon maturity, as well as it may also promise the payment of periodic coupon interest ^rkud1e
 
-# **Summary** 
+`o` if the terms of repayment are not met by the bond issuer (e.g.: default), the bond holder has a claim on the assets of the bond issuer
 
-**==> picture [667 x 306] intentionally omitted <==**
+- ✓ Determination of interest rates happens through **demand and supply** of bonds
 
-## **Supply & Demand in the Bond Market** 
+- ✓ Various types of bonds …
 
-## **Definition of bond** 
+- corporate bonds
 
-- ✓ A bond is a debt security that promises the holder the payment of a specified amount (the face value) in the future upon maturity, as well as it may also promise the payment of periodic coupon interest 
+- `o` government bonds
 
-`o` if the terms of repayment are not met by the bond issuer (e.g.: default), the bond holder has a claim on the assets of the bond issuer 
+- etc …
 
-- ✓ Determination of interest rates happens through **demand and supply** of bonds 
+## … all have different interest rates
 
-- ✓ Various types of bonds … 
+- ✓ However, because rates tend to move together, we will proceed as if there is one interest rate for the entire economy (like in macro)
 
-   - corporate bonds 
+# Interest rates move together
 
-   - `o` government bonds 
+## Bonds: the Demand Curve
 
-   - etc … 
+## Let ’ s start with the **demand** curve
 
-## … all have different interest rates 
+- ✓ Let ’ s consider a one-year ZCB with a face value of $1,000.
 
-- ✓ However, because rates tend to move together, we will proceed as if there is one interest rate for the entire economy (like in macro) 
+- ✓ In this case, the return on this ZCB is entirely determined by its price
 
-# **Interest rates move together** 
+- ✓ The one-year return is, then, the ZCB ’ s yield to maturity (intuitively: YTM is yield if you hold the bond until maturity)
 
-**==> picture [713 x 408] intentionally omitted <==**
+## Derivation of Demand Curve
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-16<br>**----- End of picture text -----**<br>
+Formula for interest rate for one-year discount bond:
 
+𝐹𝑉−𝑃 = 𝑖(𝑒) = 𝑅(𝑒) 𝑃
 
-## **Bonds: the Demand Curve** 
+✓ Point A: if the bond was selling for $950 and face value = $1,000:
 
-## Let ’ s start with the **demand** curve 
+Assume
 
-- ✓ Let ’ s consider a one-year ZCB with a face value of $1,000. 
+at point A ( _i.e._ for 𝑃= $950 )
 
-- ✓ In this case, the return on this ZCB is entirely determined by its price 
+## Derivation of Demand Curve
 
-- ✓ The one-year return is, then, the ZCB ’ s yield to maturity (intuitively: YTM is yield if you hold the bond until maturity) 
+Formula for interest rate for one-year discount bond:
 
-## **Derivation of Demand Curve** 
+𝐹𝑉−𝑃 = 𝑖(𝑒) = 𝑅(𝑒) 𝑃
 
-Formula for interest rate for one-year discount bond: 
+✓ Point A: if the bond was selling for $950 and face value = $1,000:
 
-𝐹𝑉−𝑃 = 𝑖[𝑒] = 𝑅[𝑒] 𝑃 
+Assume
 
-✓ Point A: if the bond was selling for $950 and face value = $1,000: 
+at point A ( _i.e._ for 𝑃= $950 )
 
-**==> picture [404 x 81] intentionally omitted <==**
+## Derivation of Demand Curve (cont.)
 
-Assume 
+Point B: if the bond was selling for $900:
 
-at point A ( _i.e._ for 𝑃= $950 ) 
+**Q**: Is the demand at point B likely to be higher or lower than at point A?
 
-## **Derivation of Demand Curve** 
+## Derivation of Demand Curve (cont.)
 
-Formula for interest rate for one-year discount bond: 
+Point B: if the bond was selling for $900:
 
-𝐹𝑉−𝑃 = 𝑖[𝑒] = 𝑅[𝑒] 𝑃 
+**Q**: Is the demand at point B likely to be higher or lower than at point A?
 
-✓ Point A: if the bond was selling for $950 and face value = $1,000: 
+**A**: higher, because the expected return has gone up . (lower P means higher R) and nothing else has changed Suppose 𝐵(𝑑) at point B is $200 (making up these numbers)
 
-Assume 
+## Derivation of Demand Curve
 
-at point A ( _i.e._ for 𝑃= $950 ) 
+## To continue …
 
-## **Derivation of Demand Curve (cont.)** 
+Point C: 𝑃 =  $850  𝑖= 17.6% 𝐵(𝑑) = 300 Point D: 𝑃 =  $800  𝑖= 25.0% 𝐵(𝑑) = 400 Point E: 𝑃 =  $750  𝑖= 33.0% 𝐵(𝑑) = 500
 
-Point B: if the bond was selling for $900 : 
+✓ As 𝑷↓⇒𝑅(𝑒) ↑⇒𝑩(𝒅) ↑ …
 
-**==> picture [459 x 152] intentionally omitted <==**
+**Demand** curve has usual **downward** slope with respect to **price**
 
-**Q** : Is the demand at point B likely to be higher or lower than at point A? 
+## Demand Curve
 
-## **Derivation of Demand Curve (cont.)** 
+## Demand & Supply Curve
 
-Point B: if the bond was selling for $900 : 
+Quantity, B
 
-**==> picture [459 x 152] intentionally omitted <==**
+## Derivation of Supply Curve
 
-**Q** : Is the demand at point B likely to be higher or lower than at point A? 
+The derivation follows the same idea as the demand curve.
 
-**A** : higher, because the expected return has gone up . (lower P means higher R) and nothing else has changed Suppose 𝐵[𝑑] at point B is $200 (making up these numbers) 
+**Q**: why is the supply curve of bonds **upward** sloping?
 
-## **Derivation of Demand Curve** 
+## Derivation of Supply Curve
 
-## To continue … 
+The derivation follows the same idea as the demand curve.
 
-Point C: 𝑃 =  $850  𝑖= 17.6% 𝐵[𝑑] = 300 Point D: 𝑃 =  $800  𝑖= 25.0% 𝐵[𝑑] = 400 Point E: 𝑃 =  $750  𝑖= 33.0% 𝐵[𝑑] = 500 
+**Q**: why is the supply curve of bonds **upward** sloping?
 
-✓ As 𝑷↓⇒𝑅[𝑒] ↑⇒𝑩[𝒅] ↑ … 
+**A**: If the borrowing cost for the issuer (=interest rate, _i_ ) is lower ⇒ the price is higher
 
-**Demand** curve has usual **downward** slope with respect to **price** 
+`o` then it is more convenient for the supplier to issue more bonds `o` recall supplier of bonds is a borrower (buyer is the lender)! `o` more bonds will be offered (supply) if the expected return (borrowing **cost** for the **issuer** ) is _lower_
 
-## **Demand Curve** 
+## Demand & Supply Curve: Equilibrium
 
-**==> picture [608 x 393] intentionally omitted <==**
+Quantity, B
 
-**----- Start of picture text -----**<br>
-Price, P<br>A<br>950<br>(i=5.3%)<br>B<br>900<br>(i=11.1%)<br>C<br>850<br>(i=17.6%)<br>D<br>800<br>(i=25%)<br>E<br>750 𝐵 [𝑑]<br>(i=33%)<br>100 200 300 400 500<br>**----- End of picture text -----**<br>
+## Market Equilibrium
 
+- ✓ **Market equilibrium** occurs when the amount that people are willing to buy ( _demand_ ) equals the amount that people are willing to sell ( _supply_ ) at a given price
 
-**==> picture [123 x 25] intentionally omitted <==**
+- ✓ **Excess supply** (price is “too high”) and **excess demand** (price is “too low”) are only temporary conditions in a _competitive market …_
 
-**----- Start of picture text -----**<br>
-Quantity, B<br>**----- End of picture text -----**<br>
+- ✓ Market forces will tend to
 
+- equate quantities demanded and supplied
 
-## **Demand & Supply Curve** 
+- at the equilibrium price/interest rate ( _market clearing_((1)) _)_
 
-**==> picture [608 x 394] intentionally omitted <==**
+## Market Equilibrium
 
-**----- Start of picture text -----**<br>
-Price, P<br>𝐵 [𝑠]<br>A<br>950<br>(i=5.3%)<br>B<br>900<br>(i=11.1%)<br>C<br>850<br>(i=17.6%)<br>D<br>800<br>(i=25%)<br>E<br>750 𝐵 [𝑑]<br>(i=33%)<br>100 200 300 400 500<br>**----- End of picture text -----**<br>
+The equilibrium occurs when supply-demand are equalized:
 
+✓ 𝐵(𝑑) =  𝐵(𝑠) , 𝑎𝑡 𝑃(∗) = 850, 𝑖(∗) = 17.6%
 
-Quantity, B 
+- ✓ when 𝑃= $950, 𝑖= 5.3%, 𝐵(𝑠) >  𝐵𝑑 𝑃 - 𝑡𝑜𝑃(∗) - 𝑡𝑜𝑖(∗)
 
-## **Derivation of Supply Curve** 
+- (excess **supply** ): (𝑜𝑟𝑖 )
 
-The derivation follows the same idea as the demand curve. 
+- ✓ when 𝑃= $750, 𝑖= 33.0, 𝐵𝑑> 𝐵(𝑠) (excess **demand** ): 𝑃 - 𝑡𝑜𝑃(∗) (𝑜𝑟𝑖 - 𝑡𝑜𝑖(∗) )
 
-**Q** : why is the supply curve of bonds **upward** sloping? 
+## Changes in Equilibrium Interest Rates
 
-## **Derivation of Supply Curve** 
+✓ We now turn our attention to **shifts** in demand and in supply ✓ Then, we are going to put them together to derive equilibrium interest rates
 
-The derivation follows the same idea as the demand curve. 
+Remember:
 
-**Q** : why is the supply curve of bonds **upward** sloping? 
+- a. movements _along_ the curves will be due to price changes alone
 
-**A** : If the borrowing cost for the issuer (=interest rate, _i_ ) is lower ⇒ the price is higher 
+- b. If **nothing else, that is not on the axes** ( 𝑄, 𝑃 ), changes, it’s a **shift** of either or both curves
 
-`o` then it is more convenient for the supplier to issue more bonds `o` recall supplier of bonds is a borrower (buyer is the lender)! `o` more bonds will be offered (supply) if the expected return (borrowing **cost** for the **issuer** ) is _lower_ 
+## Shift in Demand
 
-## **Demand & Supply Curve: Equilibrium** 
+## Factors that shift demand:
 
-**==> picture [585 x 374] intentionally omitted <==**
+1. Wealth
 
-**----- Start of picture text -----**<br>
-Price, P With excess supply price<br>fall to P  [*]<br>𝐵 [𝑠]<br>A<br>950<br>(i=5.3%)<br>B<br>900<br>(i=11.1%)<br>C<br>P  [*] = 850<br>(i=17.6%)<br>D<br>800<br>(i=25%)<br>E<br>750 𝐵 [𝑑]<br>(i=33%)<br>With excess demand<br>price rise to P  [*]<br>100 200 300 400 500<br>**----- End of picture text -----**<br>
+2. Expected future interest rate: 𝐸(𝑖𝑡+1)
 
+3. Riskiness: 𝜎
 
-Quantity, B 
+4. Expected future inflation: 𝜋(𝑒)
 
-## **Market Equilibrium** 
+5. Liquidity
 
-- ✓ **Market equilibrium** occurs when the amount that people are willing to buy ( _demand_ ) equals the amount that people are willing to sell ( _supply_ ) at a given price 
+**Note:** Only increases in the variables are shown. The effect |of decreases in the variables on the change in demand would be the opposite of those indicated in the remaining columns.
 
-- ✓ **Excess supply** (price is “too high”) and **excess demand** (price is “too low”) are only temporary conditions in a _competitive market …_ 
+## Shift in Demand (1)
 
-- ✓ Market forces will tend to 
+## If wealth((1)) ↑⇒ demand ? Think of economic boom (crisis) that in/de-creases wealth (abslolute)
 
-   - equate quantities demanded and supplied 
+macro shocks, such as a _prolonged_
 
-   - at the equilibrium price/interest rate ( _market clearing_[(1)] _)_ 
+## Shift in Demand (1)
 
-_(1): clearing the market from excess supply or demand_ Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## If wealth((1)) ↑⇒ demand ↑ Think of economic boom (crisis) that in/de-creases wealth (abslolute)
 
-## **Market Equilibrium** 
+macro shocks, such as a _prolonged_
 
-The equilibrium occurs when supply-demand are equalized: 
+## Shift in Demand (2)
 
-✓ 𝐵[𝑑] =  𝐵[𝑠] , 𝑎𝑡 𝑃[∗] = 850, 𝑖[∗] = 17.6% 
+## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand ? If expected interest rate ( 𝑡+1 ) (relative)
 
-- ✓ when 𝑃= $950, 𝑖= 5.3%, 𝐵[𝑠] >  𝐵𝑑 𝑃  𝑡𝑜𝑃[∗]  𝑡𝑜𝑖[∗] 
+Hint: if _E(it+1)_ rises what happens to **price** of **long-term** bonds 𝐸 𝑃 ? 𝑡+1 Hence what happens to the **rate of return** 𝐸 𝑅 ? 𝑡+1
 
-- (excess **supply** ): (𝑜𝑟𝑖 ) 
+𝑑 𝐵 1
 
-- ✓ when 𝑃= $750, 𝑖= 33.0, 𝐵𝑑> 𝐵[𝑠] (excess **demand** ): 𝑃  𝑡𝑜𝑃[∗] (𝑜𝑟𝑖  𝑡𝑜𝑖[∗] ) 
+(demand for long B term bonds)
 
-## **Changes in Equilibrium Interest Rates** 
+**Q**: What happens to 1-year discount bond with maturity of 1 year if 𝐸(𝑖) ↑ ?
 
-✓ We now turn our attention to **shifts** in demand and in supply ✓ Then, we are going to put them together to derive equilibrium interest rates 
+## Shift in Demand (2)
 
-Remember: 
+## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand - If expected interest rate ( 𝑡+1 ) (relative) Hint: if _E(it+1)_
 
-- a. movements _along_ the curves will be due to price changes alone 
+Hint: if _E(it+1)_ rises, **price** of **long** -term bonds 𝐸 𝑃 ↓ 𝑡+1 Hence, the expected **rate of return** 𝐸 𝑅 ↓: demand 𝑡+1 decreases
 
-- b. If **nothing else, that is not on the axes** ( 𝑄, 𝑃 ), changes, it’s a **shift** of either or both curves 
+(demand for long B term bonds)
 
-## **Shift in Demand** 
+# **ECB announced increase of interest rates of 75 bps:** 𝐸(𝑖𝑡+1) ↑
 
-## Factors that shift demand: 
+## Shift in Demand (3)
 
-1. Wealth 
+If riskiness of bonds (relative to other assets) ↑⇒ demand ? (relative)
 
-2. Expected future interest rate: 𝐸(𝑖𝑡+1) 
+## Shift in Demand (3)
 
-3. Riskiness: 𝜎 
+## Shift in Demand (4)
 
-4. Expected future inflation: 𝜋[𝑒] 
+## If 𝜋(𝑒) ↑⇒ demand ? (absolute)
 
-5. Liquidity 
+Hint: recall that bonds pay a nominal interest rate. What happens to the real return? 𝑑 𝐵 1
 
-**Note:** Only increases in the variables are shown. The effect |of decreases in the variables on the change in demand would be the opposite of those indicated in the remaining columns. 
+B
 
-## **Shift in Demand (1)** 
+## Shift in Demand (4)
 
-## If wealth[(1)] ↑⇒ demand ? Think of economic boom (crisis) that in/de-creases wealth (abslolute) 
+## If 𝜋(𝑒) ↑⇒ demand ↓ (absolute)
 
-**==> picture [403 x 289] intentionally omitted <==**
+B
 
-**----- Start of picture text -----**<br>
-P<br>𝑑<br>𝐵<br>1<br>**----- End of picture text -----**<br>
+## Shift in Demand (5)
 
+## If liquidity of bonds ↑⇒ demand ? (relative)
 
-## B 
+B
 
-wealth increase for due to macro (1): may example _periods of expansion_ Copyright ©2015 Pearson Education, Ltd. All rights reserved. (e.g.: boom); the reverse with _recession_ 
+## Shift in Demand (5)
 
-macro shocks, such as a _prolonged_ 
+## If liquidity of bonds ↑⇒ demand ↑ (relative)
 
-## **Shift in Demand (1)** 
+B
 
-## If wealth[(1)] ↑⇒ demand ↑ Think of economic boom (crisis) that in/de-creases wealth (abslolute) 
+## Shift in Supply
 
-**==> picture [403 x 289] intentionally omitted <==**
+Now let’s considers factors that shift the curve supply
 
-**----- Start of picture text -----**<br>
-P<br>𝑑<br>𝐵<br>2<br>𝑑<br>𝐵<br>1<br>**----- End of picture text -----**<br>
+1. Expected **profitability** of investments (say productivity)
 
+2. Expected future **inflation**: 𝜋(𝑒)
 
-## B 
+**3. Government deficit**
 
-wealth increase for due to macro (1): may example _periods of expansion_ Copyright ©2015 Pearson Education, Ltd. All rights reserved. (e.g.: boom); the reverse with _recession_ 
+## Shift in Supply (1)
 
-macro shocks, such as a _prolonged_ 
+## If expected profitability of investment((1)) ↑⇒ supply ? (absolute/relative)
 
-## **Shift in Demand (2)** 
+- (1). profitability of investment may refer both to:
 
-## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand ? If expected interest rate [ 𝑡+1 ] (relative) 
+- a **micro** shock (firm investment opportunities increase due to, say, new patent) or
 
-**==> picture [19 x 283] intentionally omitted <==**
+## Shift in Supply (1)
 
-Hint: if _E(it+1)_ rises what happens to **price** of **long-term** bonds 𝐸 𝑃 ? 𝑡+1 Hence what happens to the **rate of return** 𝐸 𝑅 ? 𝑡+1 
+## If expected profitability of investment((1)) ↑⇒ supply ↑ (absolute/relative)
 
-P 
+- (1). profitability of investment may refer both to:
 
-𝑑 𝐵 1 
+- a **micro** shock (firm investment opportunities increase due to, say, new patent) or
 
-**==> picture [379 x 19] intentionally omitted <==**
+## Shift in Supply (2)
 
-(demand for long B term bonds) 
+## If 𝜋(𝑒) ↑⇒ supply ? (absolute)
 
-**Q** : What happens to 1-year discount bond with maturity of 1 year if 𝐸(𝑖) ↑ ? 
+B
 
-## **Shift in Demand (2)** 
+## Shift in Supply (2)
 
-## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand  If expected interest rate [ 𝑡+1 ] (relative) Hint: if _E(it+1)_ 
+If 𝜋(𝑒) ↑⇒ supply ↑ (absolute)
 
-Hint: if _E(it+1)_ rises, **price** of **long** -term bonds 𝐸 𝑃 ↓ 𝑡+1 Hence, the expected **rate of return** 𝐸 𝑅 ↓ : demand 𝑡+1 decreases 
+Real cost of borrowing↓, it is less costly to borrow by issuing bonds ⇒ supply **increases**
 
-**==> picture [19 x 283] intentionally omitted <==**
+B
 
-**==> picture [17 x 19] intentionally omitted <==**
+## Shift in Supply (3)
 
-**----- Start of picture text -----**<br>
-P<br>**----- End of picture text -----**<br>
+## If government deficit ↑⇒ supply ? (relative)
 
+B
 
-**==> picture [335 x 232] intentionally omitted <==**
+## Shift in Supply (3)
 
-**----- Start of picture text -----**<br>
-𝑑<br>𝐵<br>1<br>𝑑<br>𝐵<br>2<br>**----- End of picture text -----**<br>
+## If government deficit ↑⇒ supply ↑ (relative)
 
+1) Larger deficit need more refinancing … gov. issues more bonds
 
-**==> picture [219 x 73] intentionally omitted <==**
+2) Interest rate required by investor is higher (so lower price) … recall crowding out in macro?
 
-**----- Start of picture text -----**<br>
-𝐶 𝑃𝑡+1 −𝑃𝑡<br>𝐸 𝑅 = +<br>𝑡+1<br>𝑃 𝑃<br>𝑡 𝑡<br>**----- End of picture text -----**<br>
+B
 
+## The Bond Market Vigilantes
 
-**==> picture [379 x 19] intentionally omitted <==**
+## Budget surpluses
 
-(demand for long B term bonds) 
+**Clinton starts deficit reduction policies**
 
-**Q** : What happens to 1-year discount bond with maturity of 1 year if 𝐸(𝑖) ↑ ? **A** : Nothing! YTM=return, only today’s Copyright ©2015 Pearson Education, Ltd. All rights reserved. _i_ matters (in this case: ℎ= 𝑛 ) 
+**Clinton is elected**
 
-# **ECB announced increase of interest rates of 75 bps:** 𝐸(𝑖𝑡+1) ↑ 
+## Recap: shifts in Demand and in Supply
 
-**==> picture [720 x 278] intentionally omitted <==**
+## DEMAND
 
-Soon after announcement, expected interest rate of Italian 10ys Gov bonds ↑ : 𝐸 𝑖 ↑ Copyright ©2015 Pearson Education, Ltd. All rights reserved. 𝑡+1 2-36 
+✓ if **wealth** (absolute*) ↑
 
-## **Shift in Demand (3)** 
+- ⇒ demand ↑ (shift right)
 
-If riskiness of bonds (relative to other assets) ↑⇒ demand ? (relative) 
+✓ if **expected return** (relative*) ↑
 
-**==> picture [402 x 309] intentionally omitted <==**
+- ⇒ demand ↑ (shift right)
 
-**----- Start of picture text -----**<br>
-P<br>𝑑<br>𝐵<br>Assuming  1<br>risk<br>aversion<br>B<br>**----- End of picture text -----**<br>
+- ✓ if risk (relative*) ↑
 
+- ⇒ demand ↓ (shift left)
 
-## **Shift in Demand (3)** 
+- ✓ if **expected inflation** ↑ ( 𝜋(𝑒) ↑ ; absolute*) ⇒ demand ↓ (shift left)
 
-**==> picture [696 x 411] intentionally omitted <==**
+- ✓ if liquidity of bonds (abs./rel.*) ↑
 
-**----- Start of picture text -----**<br>
-If riskiness of bonds (relative to other assets)  ↑⇒ demand  ↓<br>(relative)<br>P<br>𝑑<br>𝐵<br>Assuming  1<br>𝑑<br>risk  𝐵<br>2<br>aversion<br>B<br>**----- End of picture text -----**<br>
+- ⇒ demand ↑ (shift right)
 
+## SUPPLY
 
-## **Shift in Demand (4)** 
+- ✓ if **expected profit. of invest.** (abs./rel.*) ↑⇒ supply ↑ (shift right) ✓ if **expected inflation** ↑ ( 𝜋(𝑒) ↑ ; absolute*) ⇒ supply ↑ (shift right) ✓ if government deficit ↑ (relative*) ↑ ⇒ supply ↑ (shift right)
 
-## If 𝜋[𝑒] ↑⇒ demand ? (absolute) 
+(*): it is absolute if, 4 ex., a reform reduces trading commission costs to all securities; it is relative if it does so only to one category of bonds
 
-Hint: recall that bonds pay a nominal interest rate. What happens to the real return? 𝑑 𝐵 1 
+## Special case: the Fisher Effect
 
-**==> picture [19 x 283] intentionally omitted <==**
+If - _**(e)**_ - , what happens to _B(d )_ and _B(s)_ ?
 
-**==> picture [17 x 19] intentionally omitted <==**
+Fisher effect: _when expected inflation_ _**rises** , interest rates will_ _**rise**_
 
-**----- Start of picture text -----**<br>
-P<br>**----- End of picture text -----**<br>
+_Why?_
 
+## Special case: the Fisher Effect
 
-**==> picture [260 x 212] intentionally omitted <==**
+If - _**(e)**_ - , what happens to _B(d )_ and _B(s)_ ?
 
-**----- Start of picture text -----**<br>
-𝐵<br>1<br>**----- End of picture text -----**<br>
+_R(e)_ -: _1)_
 
+## _B(d)_ shifts in to left
 
-**==> picture [379 x 19] intentionally omitted <==**
+2) real cost of issuance -:
 
-B 
+_B(s)_ shifts to right
 
-## **Shift in Demand (4)** 
+## 3) In the new equilibrium:
 
-## If 𝜋[𝑒] ↑⇒ demand ↓ (absolute) 
+**Figure 4.5** Expected Inflation and Interest Rates (Three-Month Treasury Bills), 1953–2013
 
-**==> picture [548 x 289] intentionally omitted <==**
+## Special case: Business Cycle Expansion
 
-**----- Start of picture text -----**<br>
-P Expected real<br>return falls as<br>inflation is<br>expected to rise<br>𝑑<br>𝐵<br>1<br>𝑑<br>𝐵<br>2<br>**----- End of picture text -----**<br>
+# Suppose there is a **business cycle expansion**
 
+Meaning national income increases
 
-B 
+**Q**: What is the expected effect on equilibrium interest rates? Hint: both demand and supply are affected. Indeed, if national income increases:
 
-## **Shift in Demand (5)** 
+`o` wealth increases demand
 
-## If liquidity of bonds ↑⇒ demand ? (relative) 
+`o` more business opportunities increase supply
 
-**==> picture [402 x 289] intentionally omitted <==**
+## Special case: Business Cycle Expansion
 
-**----- Start of picture text -----**<br>
-P<br>𝑑<br>𝐵<br>1<br>**----- End of picture text -----**<br>
+## What happens to _B(d )_ and _B(s)_ ?
 
+1. Expansion means wealth - , _B(d)_ - and it shifts out to right
 
-B 
+2. Investment opportunities- , _B(s)_ - and it shifts out to right
 
-## **Shift in Demand (5)** 
+**3. Ambigous total effect effect on** _**i**_ **:**
 
-## If liquidity of bonds ↑⇒ demand ↑ (relative) 
+## Suggestive evidence on Business Cycles and Interest Rates
 
-**==> picture [402 x 289] intentionally omitted <==**
+Interest rates are **positively** correlated with business cycle expansions (bond prices **negatively** correlated)
 
-**----- Start of picture text -----**<br>
-P<br>𝑑<br>𝐵<br>2<br>𝑑<br>𝐵<br>1<br>**----- End of picture text -----**<br>
+**3 months T-bills** Shaded areas represent recessions
 
+## Special case: Negative Interest Rates
 
-B 
+- Why would anyone ever buy a government bond with **negative** yield?
 
-## **Shift in Supply** 
+- ✓ Safety (especially for large amounts, say >$100mil.)
 
-Now let’s considers factors that shift the curve supply 
+- ✓ Makes sense if inflation is low and other investment opportunities are scarce
 
-1. Expected **profitability** of investments (say productivity) 
+- there are trillions (!) of $ of government debt yielding negative rates in the world
 
-2. Expected future **inflation** : 𝜋[𝑒] 
+- `o` until recently, all German government bonds (including 30 year !!!) have had negative yield for relevant periods: see 10 year
 
-**3. Government deficit** 
+- in August 2021, 10-year common EU bonds had an interest of about -0.01% (like French debt)
 
-## **Shift in Supply (1)** 
+- situation dramatically changed after Covid crisis (global supply bottlenecks) and war in Ukraine … interest rates (and inflation) went on the rise, even German gov. bonds have, since then, a positive yield… no country nowadays
 
-## If expected profitability of investment[(1)] ↑⇒ supply ? (absolute/relative) 
+## Special case: Negative Interest Rates
 
-**==> picture [384 x 243] intentionally omitted <==**
+✓ In the wake of the global financial crisis, **interest rates** in Europe and the United States, as well as in Japan, have fallen to **extremely low levels** . How can we explain that within the framework discussed so far? `o` it’s a little tricky, but we can do it!
 
-**----- Start of picture text -----**<br>
-P<br>𝑆<br>𝐵<br>1<br>**----- End of picture text -----**<br>
+✓ Inflation fell to negative rates, leading to lower real rates: `o` 𝐵(𝑑) ↑ (shifts out to right … less costly to borrow) `o` 𝐵(𝑠) ↓ (shifts out to left   … less convenient to lend) `o` Net effect was an **increase** in _bond prices_ (falling interest rates)
 
+- ✓ Business cycle contraction led to:
 
-## B 
+`o` 𝐵(𝑑) ↓ (shifts out to left … less need to borrow) `o` 𝐵(𝑠) ↓ (shifts out to left … less opportunities to lend) `o` Net effect was **not clear** on _bond prices_
 
-- (1). profitability of investment may refer both to: 
+## ✓ Overall:
 
-- a **micro** shock (firm investment opportunities increase due to, say, new patent) or 
-
-▪Copyright ©2015 Pearson Education, Ltd. All rights reserved.a **macro** shock (boom/recession). 
-
-## **Shift in Supply (1)** 
-
-## If expected profitability of investment[(1)] ↑⇒ supply ↑ (absolute/relative) 
-
-**==> picture [384 x 243] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-P<br>𝑆<br>𝐵<br>1<br>𝑆<br>𝐵<br>2<br>**----- End of picture text -----**<br>
-
-
-## B 
-
-- (1). profitability of investment may refer both to: 
-
-- a **micro** shock (firm investment opportunities increase due to, say, new patent) or 
-
-▪Copyright ©2015 Pearson Education, Ltd. All rights reserved.a **macro** shock (boom/recession). 
-
-## **Shift in Supply (2)** 
-
-## If 𝜋[𝑒] ↑⇒ supply ? (absolute) 
-
-**==> picture [403 x 289] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-P<br>𝐵𝑠<br>1<br>**----- End of picture text -----**<br>
-
-
-B 
-
-## **Shift in Supply (2)** 
-
-If 𝜋[𝑒] ↑⇒ supply ↑ (absolute) 
-
-Real cost of borrowing↓, it is less costly to borrow by issuing bonds ⇒ supply **increases** 
-
-**==> picture [402 x 281] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-P<br>𝐵𝑠<br>1<br>𝐵𝑠<br>2<br>**----- End of picture text -----**<br>
-
-
-B 
-
-## **Shift in Supply (3)** 
-
-## If government deficit ↑⇒ supply ? (relative) 
-
-**==> picture [402 x 289] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-P<br>𝐵𝑠<br>1<br>**----- End of picture text -----**<br>
-
-
-B 
-
-## **Shift in Supply (3)** 
-
-## If government deficit ↑⇒ supply ↑ (relative) 
-
-**==> picture [402 x 289] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-P<br>1)<br>𝐵𝑠 2)<br>1<br>𝐵𝑠<br>2<br>**----- End of picture text -----**<br>
-
-
-1) Larger deficit need more refinancing … gov. issues more bonds 
-
-2) Interest rate required by investor is higher (so lower price) … recall crowding out in macro? 
-
-B 
-
-## **The Bond Market Vigilantes** 
-
-## **Budget surpluses** 
-
-**Clinton starts deficit reduction policies** 
-
-**Clinton is elected** 
-
-## **Recap: shifts in Demand and in Supply** 
-
-## DEMAND 
-
-✓ if **wealth** (absolute*) ↑ 
-
-- ⇒ demand ↑ (shift right) 
-
-✓ if **expected return** (relative*) ↑ 
-
-   - ⇒ demand ↑ (shift right) 
-
-- ✓ if risk (relative*) ↑ 
-
-   - ⇒ demand ↓ (shift left) 
-
-- ✓ if **expected inflation** ↑ ( 𝜋[𝑒] ↑ ; absolute*) ⇒ demand ↓ (shift left) 
-
-- ✓ if liquidity of bonds (abs./rel.*) ↑ 
-
-- ⇒ demand ↑ (shift right) 
-
-## SUPPLY 
-
-- ✓ if **expected profit. of invest.** (abs./rel.*) ↑⇒ supply ↑ (shift right) ✓ if **expected inflation** ↑ ( 𝜋[𝑒] ↑ ; absolute*) ⇒ supply ↑ (shift right) ✓ if government deficit ↑ (relative*) ↑ ⇒ supply ↑ (shift right) 
-
-(*): it is absolute if, 4 ex., a reform reduces trading commission costs to all securities; it is relative if it does so only to one category of bonds 
-
-## **Special case: the Fisher Effect** 
-
-If  _**[e]**_  , what happens to _B[d ]_ and _B[s]_ ? 
-
-Fisher effect: _when expected inflation_ _**rises** , interest rates will_ _**rise**_ 
-
-_Why?_ 
-
-## **Special case: the Fisher Effect** 
-
-If  _**[e]**_  , what happens to _B[d ]_ and _B[s]_ ? 
-
-**==> picture [448 x 330] intentionally omitted <==**
-
-_R[e]_ : _1)_ 
-
-## _B[d]_ shifts in to left 
-
-2) real cost of issuance : 
-
-_B[s]_ shifts to right 
-
-## 3) In the new equilibrium: 
-
-- _P_ , so _**i**_  
-
-• Copyright ©2015 Pearson Education, Ltd. All rights reserved.the quantity of bonds _may_ change (both  or ) or _may not_ change 
-
-**Figure 4.5** Expected Inflation and Interest Rates (Three-Month Treasury Bills), 1953–2013 
-
-**==> picture [714 x 438] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-54<br>**----- End of picture text -----**<br>
-
-
-## **Special case: Business Cycle Expansion** 
-
-# Suppose there is a **business cycle expansion** 
-
-Meaning national income increases 
-
-**Q** : What is the expected effect on equilibrium interest rates? Hint: both demand and supply are affected. Indeed, if national income increases: 
-
-`o` wealth increases demand 
-
-`o` more business opportunities increase supply 
-
-## **Special case: Business Cycle Expansion** 
-
-## What happens to _B[d ]_ and _B[s]_ ? 
-
-1. Expansion means wealth , _B[d]_  and it shifts out to right 
-
-2. Investment opportunities, _B[s]_  and it shifts out to right 
-
-**3. Ambigous total effect effect on** _**i**_ **:** 
-
-   - a) If _B[s]_ shifts more than _B[d]_ then _P_ , _**i**_  
-
-   - b) If _B[s]_ shifts less than _B[d]_ then _P_ , _i_  
-
-At the new equilibrium: `o` quantity always increases `o` intuitively, if B[s] increases more than B[d] , P (i), and vice versa Copyright ©2015 Pearson Education, Ltd. All rights reserved.. Try at home to make graph of case _b)_ 
-
-## **Suggestive evidence on Business Cycles and Interest Rates** 
-
-Interest rates are **positively** correlated with business cycle expansions (bond prices **negatively** correlated) 
-
-**3 months T-bills** Shaded areas represent recessions 
-
-## **Special case: Negative Interest Rates** 
-
-- Why would anyone ever buy a government bond with **negative** yield? 
-
-- ✓ Safety (especially for large amounts, say >$100mil.) 
-
-- ✓ Makes sense if inflation is low and other investment opportunities are scarce 
-
-   - there are trillions (!) of $ of government debt yielding negative rates in the world 
-
-   - `o` until recently, all German government bonds (including 30 year !!!) have had negative yield for relevant periods: see 10 year 
-
-   - in August 2021, 10-year common EU bonds had an interest of about -0.01% (like French debt) 
-
-   - situation dramatically changed after Covid crisis (global supply bottlenecks) and war in Ukraine … interest rates (and inflation) went on the rise, even German gov. bonds have, since then, a positive yield… no country nowadays 
-
-## **Special case: Negative Interest Rates** 
-
-✓ In the wake of the global financial crisis, **interest rates** in Europe and the United States, as well as in Japan, have fallen to **extremely low levels** . How can we explain that within the framework discussed so far? `o` it’s a little tricky, but we can do it! 
-
-✓ Inflation fell to negative rates, leading to lower real rates: `o` 𝐵[𝑑] ↑ (shifts out to right … less costly to borrow) `o` 𝐵[𝑠] ↓ (shifts out to left   … less convenient to lend) `o` Net effect was an **increase** in _bond prices_ (falling interest rates) 
-
-- ✓ Business cycle contraction led to: 
-
-`o` 𝐵[𝑑] ↓ (shifts out to left … less need to borrow) `o` 𝐵[𝑠] ↓ (shifts out to left … less opportunities to lend) `o` Net effect was **not clear** on _bond prices_ 
-
-## ✓ Overall: 
-
-`o` the shift out to right in 𝐵[𝑑] is _less significant_ than the shift out to left in 𝐵[𝑑] Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` so, the _net effect_ was also an **increase in bond prices** ( 𝑃↑, 𝑟↓ ) 
-
+## Related Notes
+- [[L16 & L17 Expectations Financial Markets Bonds]]
+- [[C2]]
+- [[L7 Financial Markets without banks]]

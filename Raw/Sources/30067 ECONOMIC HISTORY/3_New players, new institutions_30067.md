@@ -1,487 +1,278 @@
-## **NEW PLAYERS, NEW INSTITUTIONS** 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "3_New players, new institutions_30067"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**(ALFANI-COLLI, CH. 4)** 
+## NEW PLAYERS, NEW INSTITUTIONS
 
-Economic history A.y. 2025/2026 Sonia Schifano 
+Economic history A.y. 2025/2026 Sonia Schifano
 
-## **IN THIS EPISODE** 
+## IN THIS EPISODE
 
-- What is the Little Divergence? 
+- What is the Little Divergence?
 
-- Who are the main players? 
+- Who are the main players?
 
-- How historiography theorized this 
+- How historiography theorized this
 
-- Why the very North Sea region overtook the 
+- Why the very North Sea region overtook the Mediterranean?
 
-**==> picture [340 x 227] intentionally omitted <==**
+## THE LITTLE DIVERGENCE
 
-Mediterranean? 
+- Refers to the **growing economic gap within Europe** (c. 16th–19th century).
 
-a.y. 2025/2026 
+- In the course of the early modern period, **the centre of gravity** (economic, political, military,
 
-30067 
+- cultural) of Europe shifted inexorably northwards.
 
-2 
+- This change of balance was not painless for the southern European regions, which will see their standing deteriorate more and more in favour of the economies of the North Sea region (first Dutch Republic, then England). ^tvjs1s
 
-## **THE LITTLE DIVERGENCE** 
+- Nevertheless, we should not think of it as a revolutionary change of position. Rather, it was a
 
-- Refers to the **growing economic gap within Europe** (c. 16th–19th century). 
+- long and complex process.
 
-- In the course of the early modern period, **the centre of gravity** (economic, political, military, 
+## HOW DO WE MEASURE THIS SHIFT?
 
-   - cultural) of Europe shifted inexorably northwards. 
+## Gdp and population growth of Holland
 
-- This change of balance was not painless for the southern European regions, which will see their standing deteriorate more and more in favour of the economies of the North Sea region (first Dutch Republic, then England). 
+## THE MEDITERRANEAN CAME FIRST
 
-- Nevertheless, we should not think of it as a revolutionary change of position. Rather, it was a 
+- Until the Middle Ages (and until the very beginning of the early modern period):
 
-   - long and complex process. 
+- **Mediterranean** (and particularly central-northern Italy with Florence,
 
-a.y. 2025/2026 
+- Genoa, Milan and Venice) was the most developed area in Europe
 
-30067 
+- In the mid 14th century **Venice** becomes the economic centre of Europe
 
-3 
+- and the Mediterranean
 
-## HOW DO WE MEASURE THIS SHIFT? 
+- **Hanseatic and Flanders** cities were the most formidable competitor to
 
-a.y. 2025/2026 
+Venetian supremacy
 
-30067 
+- The opening of the Atlantic routes shifted the core of the ‘Old World’ from the Italian to the
 
-4 
+- Iberian peninsula.
 
-**==> picture [660 x 460] intentionally omitted <==**
+## AND THEN THE BARICENTER WENT NORTH
 
-a.y. 2025/2026 
+- Despite the strengthening of the Spanish and Portuguese empires, the economic centre
 
-5 
+- was located in Northern Europe:
 
-30067 
+- Antwerp (Flanders) became the new centre of the world economy
 
-**==> picture [873 x 492] intentionally omitted <==**
+- Why Antwerp?
 
-30067 
+- Favourable **geographical** position between the Mediterranean and the Baltic
 
-**==> picture [758 x 395] intentionally omitted <==**
+- **Traditional mercantile and manufacturing tradition**
 
-## Gdp and population growth of Holland 
+- Important **financial centre**
 
-a.y. 2025/2026 
+- Last but not least, the city was **part of the Spanish possessions**
 
-30067 
+## WHY NOT THE IBERIAN PENINSULA?
 
-7 
+## PORTUGAL
 
-## **THE MEDITERRANEAN CAME FIRST** 
+## SPAIN
 
-- Until the Middle Ages (and until the very beginning of the early modern period): 
+- Limited economic and demographic resources
 
-   - **Mediterranean** (and particularly central-northern Italy with Florence, 
+- Vastness of the empire and high costs for controlling it
 
-      - Genoa, Milan and Venice) was the most developed area in Europe 
+- Recourse to Flemish merchants to trade spices in northern European markets
 
-   - In the mid 14th century **Venice** becomes the economic centre of Europe 
+- English and Dutch competition targeting the African and Asian coasts
 
-      - and the Mediterranean 
+- English and French competition for control of European territories (the Netherlands were the most coveted)
 
-   - **Hanseatic and Flanders** cities were the most formidable competitor to 
+- Wars of religion
 
-Venetian supremacy 
+- Predatory exploitation of the American colonial empire
 
-- The opening of the Atlantic routes shifted the core of the ‘Old World’ from the Italian to the 
+- Types of imported goods: gold and silver create inflation
 
-   - Iberian peninsula. 
+## THE RISE OF AMSTERDAM AND THE DUTCH REPUBLIC
 
-a.y. 2025/2026 
+- First the continuous bankruptcies of the Spanish empire
 
-30067 
+- The outbreak of the Wars of Religion
 
-8 
+- deterioration of the economy
 
-## **AND THEN THE BARICENTER WENT NORTH** 
+- an increase in discontent in the Spanish Low Countries
 
-- Despite the strengthening of the Spanish and Portuguese empires, the economic centre 
+- (among the richest areas and those that had the most to lose)
 
-   - was located in Northern Europe: 
+- Discontent turned into rebellion
 
-         - Antwerp (Flanders) became the new centre of the world economy 
+- Republic of the Seven United Netherlands (Republiek der Zeven Verenigde Nederlanden) in 1581 (officially recognised only in 1648).
 
-- Why Antwerp? 
+- Antwerp remained under the rule of Spain, accelerating its decadence and eventually favouring the rise of Amsterdam as the new (temporary) centre of the European economy.
 
-      - Favourable **geographical** position between the Mediterranean and the Baltic 
+## DE JURE VS. DE FACTO POWER
 
-      - **Traditional mercantile and manufacturing tradition** 
+- **Power** is the ability to influence outcomes:
 
-      - Important **financial centre** 
+- in political and economic systems, it determines who gets to make decisions and how resources are distributed. Acemoglu and Robinson differentiate between two types of political power.
 
-      - Last but not least, the city was **part of the Spanish possessions** 
+## De Jure Political Power
 
-a.y. 2025/2026 
+## De Facto Political Power
 
-30067 
+- Power that is formally recognized by law or institutions.
 
-9 
+- **Examples:** the right to vote, the authority of an elected president, or the powers granted by a constitution.
 
-## **WHY NOT THE IBERIAN PENINSULA?** 
+- **Source of this power:** formal institutions, such as a country's legal system or its constitution.
 
-## **PORTUGAL** 
+- Power that is held in practice, regardless of legal or institutional recognition.
 
-## **SPAIN** 
+- **Examples**: the influence of a wealthy lobbyist, or a military's capacity to overthrow the government.
 
-- Limited economic and demographic resources 
+**Source of this power**: A group's ability to mobilize, organize, or use force. This power often stems from wealth, numbers, or military strength.
 
-   - Vastness of the empire and high costs for controlling it 
+## THE FLYING DUTCH (REPUBLIC)
 
-- Recourse to Flemish merchants to trade spices in northern European markets 
+- From the end of the 16th century, the Dutch economy became progressively integrated due to the high population density both in cities and small towns and this stimulated continuous innovation, exchange of ideas, and knowledge.
 
-- English and Dutch competition targeting the African and Asian coasts 
+## THE FLYING DUTCH (REPUBLIC)
 
-- English and French competition for control of European territories (the Netherlands were the most coveted) 
+## BUT ….THE OTHER COUNTRIES?
 
-- Wars of religion 
+## THE FLYING DUTCH (REPUBLIC): TRADE
 
-- Predatory exploitation of the American colonial empire 
+- Primacy was gained by taking trade routes and colonial possessions in Asia (with the exception of Goa (India) and Macao (China) from the Portuguese.
 
-- Types of imported goods: gold and silver create inflation 
+- The basis of Dutch commercial superiority was the trade with the **North Sea, the Baltic, the Bay** .
 
-a.y. 2025/2026 
+- **of Biscay, and the Mediterranean**
 
-30067 
+- About 75% of the total goods moved between the Baltic and the Mediterranean were carried by Dutch merchants.
 
-10 
+- **Amsterdam became Europe's main trading emporium** and financial centre, partly due to the large influx of religiously persecuted populations (Jews from Spain and Portugal, Huguenots from France).
 
-**==> picture [728 x 470] intentionally omitted <==**
+- The result was the creation of an important network of relations (resulting in lower transaction costs)
 
-a.y. 2025/2026 
+## THE FLYING DUTCH (REPUBLIC): FINANCE
 
-30067 
+The _Amsterdam Wisselbank_ (Amsterdam Exchange Bank) was the ‘public bank’ of the city of Amsterdam from 1609 to 1820. It had a monopoly in the handling of foreign exchange letters in Amsterdam.
 
-11 
+- **In the 18th century it was the largest bank in the world.**
 
-## THE RISE OF AMSTERDAM AND THE DUTCH REPUBLIC 
+The Amsterdam Stock Exchange soon became a symbol of the **emerging modern capitalist system.**
 
-**==> picture [287 x 378] intentionally omitted <==**
+Adam Smith, in _The Wealth of Nations_ , cites the Dutch Republic as a model for other European nations.
 
-- First the continuous bankruptcies of the Spanish empire 
+## THE FLYING DUTCH (REPUBLIC): INSTITUTIONS
 
-- The outbreak of the Wars of Religion 
+- In Spain and Portugal, overseas trade had always been under royal **monopoly** → **what is an economic consequence of the use of monopoly?**
 
-   - deterioration of the economy 
+- The Dutch States **delegated** not only the control of trade, but also the powers of governance over the colonial territories **to private joint-stock companies**:
 
-   - an increase in discontent in the Spanish Low Countries 
+- the Dutch East India Company, founded in 1602, had a monopoly on trade with the Levant
 
-      - (among the richest areas and those that had the most to lose) 
+- the Dutch West India Company, founded in 1621, had the monopoly on Atlantic trade and between 1630 and 1654 even occupied a portions of Brazil
 
-- Discontent turned into rebellion 
+- The trading companies could enter into commercial and diplomatic treaties; recruit and maintain a fleet and an army; and administer territories independently.
 
-   - Republic of the Seven United Netherlands (Republiek der Zeven Verenigde Nederlanden) in 1581 (officially recognised only in 1648). 
+## HOW THE JSC PROMOTED GROWTH?
 
-- Antwerp remained under the rule of Spain, accelerating its decadence and eventually favouring the rise of Amsterdam as the new (temporary) centre of the European economy. 
+## COMMERCE AND COLONIALISM
 
-a.y. 2025/2026 
+The Dutch model was adopted by other rampant countries: England and France.
 
-30067 
+- There was, however, a substantial difference in objectives:
 
-12 
+- The Dutch Companies aimed at increasing international trade
 
-## **DE JURE VS. DE FACTO POWER** 
+- The French and English Companies aimed at establishing lasting control over overseas territories
 
-##  **Power** is the ability to influence outcomes: 
+- The English proved to be the main competitors of the Dutch from whom they finally wrested primacy in the 18th century.
 
-- in political and economic systems, it determines who gets to make decisions and how resources are distributed. Acemoglu and Robinson differentiate between two types of political power. 
+- The transition was not straightforward and was fought with both
 
-## `o` **De Jure Political Power** 
+- Traditional weapons (wars against the United Provinces, 1652-1674)
 
-## `o` **De Facto Political Power** 
+- Commercial weapons (Navigation Acts, 1651).
 
-- Power that is formally recognized by law or institutions. 
+## COMMERCE AND COLONIALISM
 
-- **Examples:** the right to vote, the authority of an elected president, or the powers granted by a constitution. 
+- In the 18th century, contention for supremacy in international trade involved England and France clashing repeatedly.
 
-- **Source of this power:** formal institutions, such as a country's legal system or its constitution. 
+- **Seven Years War** (1754-1763) in which England defeated France also with the help of the 13 English colonies.
 
-- Power that is held in practice, regardless of legal or institutional recognition. 
+- These episodes brought both a new **awareness of their identity** in the Colonial American populations and an increase in taxes by the English motherland. All this was the detonator for the demand for independence (recognised in 1783).
 
-- **Examples** : the influence of a wealthy lobbyist, or a military's capacity to overthrow the government. 
+- The expansion of trade had thus generated the spark for the construction of a new structure of both politics and the world economy.
 
-`o` **Source of this power** : A group's ability to mobilize, organize, or use force. This power often stems from wealth, numbers, or military strength. 
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **?
 
-a.y. 2025/2026 
+- As is often the case, in the interpretation of complex phenomena, explanatory factors are multiple and often intersect with each other (no monocausal explanation).
 
-30067 
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? GEOGRAPHY
 
-13 
+## The _Little Divergence_ is the outcome of the concurrence of two conditions:
 
-## **THE FLYING DUTCH (REPUBLIC)** 
+- easy access to the Atlantic routes
 
-- From the end of the 16th century, the Dutch economy became progressively integrated due to the high population density both in cities and small towns and this stimulated continuous innovation, exchange of ideas, and knowledge. 
+- greater openness of political institutions to the demands of the new economic elites.
 
-**==> picture [770 x 287] intentionally omitted <==**
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? DEMOGRAPHY
 
-**----- Start of picture text -----**<br>
-Market-oriented<br>Economic Production<br>agriculture and<br>activities specialisation<br>manufacturing<br>New business<br>Developed on a<br>Commerce and  opportunities and<br>local and<br>trade greater economic<br>international scale<br>growth<br>Important<br>Maritime transport,<br>integration with<br>Services banking finance,<br>economic<br>insurance<br>activities<br>**----- End of picture text -----**<br>
+According to John Hajnal and Gregory Clark, certain socio-demographic behaviours typical of north-western European populations were behind the formation of a ‘more mobile and independent’ labour force.
 
+## In particular:
 
-a.y. 2025/2026 
+- higher age at marriage
 
-30067 
+- very high fertility of wealthy families
 
-14 
+- fairer system of inheritance, which, however, led to impoverishment of families: the rich segments thinned out to swell the wealthy bourgeoisie
 
-## **THE FLYING DUTCH (REPUBLIC)** 
+Guido Alfani instead emphasises the demographic consequences of the high mortality caused by the plague epidemic 1629-30. The latter, in Italy, did serious damage to the country's economy leading to a long period of stagnation/decline.
 
-**==> picture [828 x 393] intentionally omitted <==**
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? SOCIAL INSTITUTIONS
 
-**----- Start of picture text -----**<br>
-Agriculture BUT ….THE OTHER COUNTRIES?<br>Confederate<br>Horticulture,<br>Republic<br>dairy, dyeing<br>(greater weight<br>plants.<br>of Holland and<br>Dams and  Manufacture<br>rotations its  statolder ) Draperies and<br>linen, processing of<br>colonial products<br>Freedom<br>(sugar and<br>of<br>tobacco), majolica,<br>Religion beer, weapons,<br>Arts paper, ...<br>Finance<br>sustained<br>stock<br>production for<br>exchange<br>a rampant<br>and bourse<br>bourgeoisie<br>**----- End of picture text -----**<br>
+Black Death According to Tine de Moor and Jan Van Zanden Changes in the marriage choices of (2009): the population in Northern Europe (European Marriage Pattern) Women participate in the labour market More labour force available (women and adolescents) Wages as a source of livelihood Greater gender equality Higher demand for . goods _Industrious_ Consumer revolution
+*(See also: [[2_The Great Divergence_30067#^cxnf4n]])*
 
+(The participation of women and adolescents in the labour market and the increase in hours worked is called the _Industrious Revolution_ . According to Jan De Vries, the _Industrious Revolution_ was an important antecedent of the Industrial Revolution.)
 
-## **BUT ….THE OTHER COUNTRIES?** 
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? ECONOMIC INSTITUTIONS
 
-a.y. 2025/2026 
+- In the organisation of production activity the **guilds would play a different role in England** than in continental Europe:
 
-15 
+- with the spread of the putting out system, production in and Low Countries and England is taken out of their (constraining) control: goods can be produced more freely and more cheaply → **ADAPTATION**
 
-30067 
+- the Guilds of continental Europe, whose products are unable to compete with those of northern Europe especially in terms of price, further stiffen their positions in an attempt to maintain their (old) market share → **RIGIDITY**
 
-## **THE FLYING DUTCH (REPUBLIC): TRADE** 
+The loss of weight of the guilds leads to an efficiency differential in the manufacturing sector to the advantage of northern Europe (England and the Netherlands).
 
-- Primacy was gained by taking trade routes and colonial possessions in Asia (with the exception of Goa (India) and Macao (China) from the Portuguese. 
+## HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? POLITICAL INSTITUTIONS
 
-- The basis of Dutch commercial superiority was the trade with the **North Sea, the Baltic, the Bay** . 
+- North (1973) has focused on the emergence of “full” and “secure” **private property rights** , that would had reduced the uncertainty of economic activity.
 
-- **of Biscay, and the Mediterranean** 
+- A novel and more advanced definition of **citizenship rights** (England, Netherlands) → increased public revenue
+	- Increased production of public goods (Prak & van Zanden 2006)
+	- Reduced transaction costs between citizens and state
 
-   - About 75% of the total goods moved between the Baltic and the Mediterranean were carried by Dutch merchants. 
+- North & Weingast (1989): **parliamentarisation** creates favourable environment for economic growth.
+	- Trust
+	- More willingness to pay taxes
 
-- **Amsterdam became Europe's main trading emporium** and financial centre, partly due to the large influx of religiously persecuted populations (Jews from Spain and Portugal, Huguenots from France). 
-
-   - The result was the creation of an important network of relations (resulting in lower transaction costs) 
-
-a.y. 2025/2026 
-
-30067 
-
-16 
-
-## **THE FLYING DUTCH (REPUBLIC): FINANCE** 
-
-The _Amsterdam Wisselbank_ (Amsterdam Exchange Bank) was the ‘public bank’ of the city of Amsterdam from 1609 to 1820. It had a monopoly in the handling of foreign exchange letters in Amsterdam. 
-
-• **In the 18th century it was the largest bank in the world.** 
-
-The Amsterdam Stock Exchange soon became a symbol of the **emerging modern capitalist system.** 
-
-Adam Smith, in _The Wealth of Nations_ , cites the Dutch Republic as a model for other European nations. 
-
-a.y. 2025/2026 
-
-30067 
-
-17 
-
-## **THE FLYING DUTCH (REPUBLIC): INSTITUTIONS** 
-
-- In Spain and Portugal, overseas trade had always been under royal **monopoly** → **what is an economic consequence of the use of monopoly?** 
-
-- The Dutch States **delegated** not only the control of trade, but also the powers of governance over the colonial territories **to private joint-stock companies** : 
-
-**==> picture [110 x 109] intentionally omitted <==**
-
-**==> picture [110 x 140] intentionally omitted <==**
-
-   - the Dutch East India Company, founded in 1602, had a monopoly on trade with the Levant 
-
-   - the Dutch West India Company, founded in 1621, had the monopoly on Atlantic trade and between 1630 and 1654 even occupied a portions of Brazil 
-
-- The trading companies could enter into commercial and diplomatic treaties; recruit and maintain a fleet and an army; and administer territories independently. 
-
-a.y. 2025/2026 
-
-30067 
-
-18 
-
-## HOW THE JSC PROMOTED GROWTH? 
-
-a.y. 2025/2026 
-
-30067 
-
-19 
-
-## **COMMERCE AND COLONIALISM** 
-
-The Dutch model was adopted by other rampant countries: England and France. 
-
-- There was, however, a substantial difference in objectives: 
-
-      - The Dutch Companies aimed at increasing international trade 
-
-      - The French and English Companies aimed at establishing lasting control over overseas territories 
-
-- The English proved to be the main competitors of the Dutch from whom they finally wrested primacy in the 18th century. 
-
-- The transition was not straightforward and was fought with both 
-
-   - Traditional weapons (wars against the United Provinces, 1652-1674) 
-
-   - Commercial weapons (Navigation Acts, 1651). 
-
-a.y. 2025/2026 
-
-30067 
-
-20 
-
-## **COMMERCE AND COLONIALISM** 
-
-- In the 18th century, contention for supremacy in international trade involved England and France clashing repeatedly. 
-
-- **Seven Years War** (1754-1763) in which England defeated France also with the help of the 13 English colonies. 
-
-- These episodes brought both a new **awareness of their identity** in the Colonial American populations and an increase in taxes by the English motherland. All this was the detonator for the demand for independence (recognised in 1783). 
-
-- The expansion of trade had thus generated the spark for the construction of a new structure of both politics and the world economy. 
-
-a.y. 2025/2026 
-
-30067 
-
-21 
-
-**==> picture [622 x 478] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-22 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **?** 
-
-- As is often the case, in the interpretation of complex phenomena, explanatory factors are multiple and often intersect with each other (no monocausal explanation). 
-
-**==> picture [471 x 269] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Geography<br>Institutions<br>Demography<br>**----- End of picture text -----**<br>
-
-
-a.y. 2025/2026 
-
-30067 
-
-23 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? GEOGRAPHY** 
-
-## The _Little Divergence_ is the outcome of the concurrence of two conditions: 
-
-- easy access to the Atlantic routes 
-
-- greater openness of political institutions to the demands of the new economic elites. 
-
-||Atlantic routes|Institutions|
-|---|---|---|
-|Northern Europe|||
-|France|||
-|Mediterranean (Genoa|||
-|and Venice)|||
-
-
-
-a.y. 2025/2026 
-
-30067 
-
-24 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? DEMOGRAPHY** 
-
-According to John Hajnal and Gregory Clark, certain socio-demographic behaviours typical of north-western European populations were behind the formation of a ‘more mobile and independent’ labour force. 
-
-## In particular: 
-
-- higher age at marriage 
-
-- very high fertility of wealthy families 
-
-- fairer system of inheritance, which, however, led to impoverishment of families: the rich segments thinned out to swell the wealthy bourgeoisie 
-
-Guido Alfani instead emphasises the demographic consequences of the high mortality caused by the plague epidemic 1629-30. The latter, in Italy, did serious damage to the country's economy leading to a long period of stagnation/decline. 
-
-a.y. 2025/2026 
-
-25 
-
-30067 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? SOCIAL INSTITUTIONS** 
-
-Black Death According to Tine de Moor and Jan Van Zanden Changes in the marriage choices of (2009): the population in Northern Europe (European Marriage Pattern) Women participate in the labour market More labour force available (women and adolescents) Wages as a source of livelihood Greater gender equality Higher demand for . goods _Industrious_ Consumer revolution 
-
-[The participation of women and adolescents in the labour market and the increase in hours worked is called the _Industrious Revolution_ . According to Jan De Vries, the _Industrious Revolution_ was an important antecedent of the Industrial Revolution.] 
-
-a.y. 2025/2026 
-
-30067 
-
-26 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? ECONOMIC INSTITUTIONS** 
-
-- In the organisation of production activity the **guilds would play a different role in England** than in continental Europe: 
-
-   - with the spread of the putting out system, production in and Low Countries and England is taken out of their (constraining) control: goods can be produced more freely and more cheaply → **ADAPTATION** 
-
-   - the Guilds of continental Europe, whose products are unable to compete with those of northern Europe especially in terms of price, further stiffen their positions in an attempt to maintain their (old) market share → **RIGIDITY** 
-
-The loss of weight of the guilds leads to an efficiency differential in the manufacturing sector to the advantage of northern Europe (England and the Netherlands). 
-
-a.y. 2025/2026 
-
-30067 
-
-27 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? POLITICAL INSTITUTIONS** 
-
-- North (1973) has focused on the emergence of “full” and “secure” **private property rights** , that would had reduced the uncertainty of economic activity. 
-
-- A novel and more advanced definition of **citizenship rights** (England, Netherlands) → increased public revenue 
-
-   - → increased production of public goods (Prak & van Zanden 2006) 
-
-→ reduced transaction costs between citizens and state 
-
-- North & Weingast (1989): **parliamentarisation** creates favourable environment for economic growth. 
-
-→ trust 
-
-- → more willingness to pay taxes 
-
-a.y. 2025/2026 
-
-30067 
-
-28 
-
-## **HOW TO INTERPRET THE** _**LITTLE DIVERGENCE**_ **? CULTURAL INSTITUTIONS** 
-
-- ❖ Acemoglu, Johnson, and Robinson emphasise the importance of an environment characterised by open political institutions; this environment promotes 
-
-## → social mobility 
-
-   - → the institutional innovations necessary to foster entrepreneurial initiative. 
-
-- ❖ Last but not least, Max Weber considered **the Protestant Reformation** as the reason for the emergence in Central and Northern Europe of new attitudes that paved the way for the development of capitalism. 
-
-a.y. 2025/2026 
-
-30067 
-
-29 
-
+## Related Notes
+- [[2_The Great Divergence_30067]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- 10_Recap 

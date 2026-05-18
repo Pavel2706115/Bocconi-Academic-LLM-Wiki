@@ -1,54 +1,72 @@
-## **Extra exercises of Lecture 16** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect16_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 16
 
-Which is the least costly way for a bank to raise liquidity 
+## EX 1
 
-- a) interbank overnight loans using Fed funds market 
+Which is the least costly way for a bank to raise liquidity
 
-- b) loan sales 
+- a) interbank overnight loans using Fed funds market
 
-- c) discount window borrowing from the FED 
+- b) loan sales
 
-- d) deposit of excess reserves at the FED 
+- c) discount window borrowing from the FED
 
-## **EX 2** 
+- d) deposit of excess reserves at the FED
 
-When reserves are scarce, open market purchases by the central bank 
+## EX 2
 
-- a) increase the Fed funds rate by increasing the supply of reserves 
+When reserves are scarce, open market purchases by the central bank
 
-- b) decrease the Fed funds rate by increasing the demand for reserves 
+- a) increase the Fed funds rate by increasing the supply of reserves
 
-- c) decrease the Fed funds rate by increasing the supply of reserves 
+- b) decrease the Fed funds rate by increasing the demand for reserves
 
-- d) decrease the fed funds rate by decreasing the demand for reserves 
+- c) decrease the Fed funds rate by increasing the supply of reserves
 
-## **EX 3** 
+- d) decrease the fed funds rate by decreasing the demand for reserves
 
-When a bank uses the discount window to borrow from the Fed, 
+## EX 3
 
-- a) its balance sheet is expanded; the Fed balance sheet is expanded 
+When a bank uses the discount window to borrow from the Fed,
 
-- b) its balance sheet is expanded; the Fed balance is unchanged 
+- a) its balance sheet is expanded; the Fed balance sheet is expanded
 
-- c) its balance sheet is unchanged, the Fed balance sheet is expanded 
+- b) its balance sheet is expanded; the Fed balance is unchanged
 
-- d) its balance sheet is unchanged, the Fed balance sheet unchanged 
+- c) its balance sheet is unchanged, the Fed balance sheet is expanded
 
-## **EX 4** 
+- d) its balance sheet is unchanged, the Fed balance sheet unchanged
 
-Suppose the central bank (Federal Reserve) increases the interest rate on excess reserves. Which of the following situations in the federal fund market, before the central bank action, _surely_ generates an increase in the resulting federal fund rate? 
+## EX 4
 
-- a) the Fed fund rate equaled the discount rate 
+Suppose the central bank (Federal Reserve) increases the interest rate on excess reserves. Which of the following situations in the federal fund market, before the central bank action, _surely_ generates an increase in the resulting federal fund rate? ^5qk9f5
+*(See also: [[Lect16#^cr62yv]])*
 
-- b)   the Fed fund rate equaled the interest rate on excess reserves 
+- a) the Fed fund rate equaled the discount rate
 
-- c) the Fed fund rate was determined on the downward sloping part 
+- b)   the Fed fund rate equaled the interest rate on excess reserves
 
-   - of the reserve demand function 
+- c) the Fed fund rate was determined on the downward sloping part
 
-- d) the Fed fund rate was determined on the upward sloping part 
+- of the reserve demand function
 
-   - of the reserve demand function 
+- d) the Fed fund rate was determined on the upward sloping part
 
+- of the reserve demand function
+
+## Related Notes
+- [[Lect16]]
+- [[Lect15]]
+- [[Trigari_03(Chapter 4)]]

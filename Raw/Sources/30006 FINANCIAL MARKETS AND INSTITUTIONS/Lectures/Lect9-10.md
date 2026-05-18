@@ -1,830 +1,781 @@
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Derivatives: Forwards and Futures (Chapter 24)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Derivatives: Forwards and Futures (Chapter 24)** 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi
 
-**==> picture [342 x 181] intentionally omitted <==**
+# Derivatives: Forwards and Futures (Chapter 24)
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Context: Why Derivatives exist
 
+# ✓ Derivatives are a financial instruments designed to manage risk ( **hedging** ) ... we will see how later
 
-**==> picture [324 x 181] intentionally omitted <==**
+## ✓ Here is Warren Buffett’s definition:
 
-**----- Start of picture text -----**<br>
-13-1<br>**----- End of picture text -----**<br>
+`o` _“Essentially, these instruments call for money to change hands at some_ _**future date** , with the amount to be determined by one or more reference items, such as interest rates, stock prices or currency values”_
 
+✓ So: financial contracts are **whose price and cash flows** determined by other, **underlying items…** and **delayed delivery!**
 
-## **Context: Why Derivatives exist** 
+## Context: derivatives and the Financial Crisis
 
-# ✓ Derivatives are a financial instruments designed to manage risk ( **hedging** ) ... we will see how later 
+- ✓ You may have heard that derivatives played an important role in the Financial Crisis of 2008
 
-## ✓ Here is Warren Buffett’s definition: 
+- ✓ Indeed, Warren Buffett, in his **2002** (!) letter to shareholders said(*):
 
-`o` _“Essentially, these instruments call for money to change hands at some_ _**future date** , with the amount to be determined by one or more reference items, such as interest rates, stock prices or currency values”_ 
+`o` _them as “Charlie (Munger, Berkshire’s vice chairman) and I, view_ _**time bombs** , both for the_ _**parties** that deal in them and the_ _**economic system** .”_
 
-✓ So: financial contracts are **whose price and cash flows** determined by other, **underlying items…** and **delayed delivery!** 
+`o` _... “In our view, however,_ _**derivatives are financial weapons of mass destruction** , carrying dangers that, while now latent, are potentially lethal.”_
 
-## **Context: derivatives and the Financial Crisis** 
+- ✓ He said this 5-6 years before the crisis happened!
 
-- ✓ You may have heard that derivatives played an important role in the Financial Crisis of 2008 
+## Context: why Derivatives exist
 
-- ✓ Indeed, Warren Buffett, in his **2002** (!) letter to shareholders said[*] : 
+✓ So, do derivatives _contain_ or _amplify_ risk?
 
-`o` _them as “Charlie [Munger, Berkshire’s vice chairman] and I, view_ _**time bombs** , both for the_ _**parties** that deal in them and the_ _**economic system** .”_ 
+- ✓ Both views are true:
 
-`o` _... “In our view, however,_ _**derivatives are financial weapons of mass destruction** , carrying dangers that, while now latent, are potentially lethal.”_ 
+`o` derivatives hedge risk for the market as a whole … `o` … but can also concentrate risk in the hands of a few ( _counterparty risk_ )
 
-- ✓ He said this 5-6 years before the crisis happened! 
+✓ If these few (ex: AIG) are interconnected (linked) to everyone a small problem (subprime mortgage default) can lead to a collapse of the system!
 
-## **Context: why Derivatives exist** 
+## Chapter Preview
 
-✓ So, do derivatives _contain_ or _amplify_ risk? 
+✓ There are many derivatives. We will be looking at:
 
-- ✓ Both views are true: 
+**1. Forwards** (today)
 
-`o` derivatives hedge risk for the market as a whole … `o` … but can also concentrate risk in the hands of a few ( _counterparty risk_ ) 
+**2. Futures** (today and next class)
 
-✓ If these few (ex: AIG) are interconnected (linked) to everyone a small problem (subprime mortgage default) can lead to a collapse of the system! 
+**3. Options** (next class and the one after the next)
 
-## **Chapter Preview** 
+- ✓ Many other derivatives exist:
 
-✓ There are many derivatives. We will be looking at: 
+- interest-rate swaps, CDS, CDOs…
 
-   **1. Forwards** (today) 
+Let’s look at the **hedging** property first
 
-   **2. Futures** (today and next class) 
+## Hedging
 
-   **3. Options** (next class and the one after the next) 
+## Hedging:
 
-- ✓ Many other derivatives exist: 
+- ✓ is the of risks additional process sterilizing your by entering
 
-   - interest-rate swaps, CDS, CDOs… 
+- financial contracts which have **risk** that is **opposite** to your original risk
 
-Let’s look at the **hedging** property first 
+- ✓ involves in a financial transaction that reduces or engaging
 
-## **Hedging** 
+- eliminates risk
 
-## **Hedging:** 
+_Idea is to enter another financial contract with a risk that is opposite (negatively correlated) with the original risk_
 
-- ✓ is the of risks additional process sterilizing your by entering 
+- ✓ Useful to define two notions for the “sides” of risk
 
-- financial contracts which have **risk** that is **opposite** to your original risk 
+**1. Long** position **2. Short** position
 
-- ✓ involves in a financial transaction that reduces or engaging 
+- ✓ We literally say “you’re long/short in asset X”
 
-- eliminates risk 
+## Hedging
 
-_Idea is to enter another financial contract with a risk that is opposite (negatively correlated) with the original risk_ 
+✓ If you have a **long** position (say: “ _you are long_ ”) `o` think you buy an asset in the future but want to fix the price today `o` increases you **profit** if the asset’s price in the future ( _buy cheaper_ ) `o` you **run** the risk that the asset’s price goes down - ex: same if you already own the asset
 
-- ✓ Useful to define two notions for the “sides” of risk 
+✓ If you have a **short** position  (say: “ _you are short_ ”) `o` think you sell an asset (you already have(@) ) but want to fix its price today `o` decreases you **profit** if the asset’s price ( _sell at higher price_ ) `o` you **risk** that the asset’s price goes up - _ex:_ if the item is a production input for your business
 
-   **1. Long** position **2. Short** position 
+- _@:_ _**short** selling_: you don’t own the asset yet today, so you borrow it to make the sale and return the asset to original owner in the future
 
-- ✓ We literally say “you’re long/short in asset X” 
+## Hedging
 
-## **Hedging** 
+- ✓ Recall: _hedging_ means to enter another financial contract with a risk opposite to the original risk
 
-✓ If you have a **long** position (say: “ _you are long_ ”) `o` think you buy an asset in the future but want to fix the price today `o` increases you **profit** if the asset’s price in the future ( _buy cheaper_ ) `o` you **run** the risk that the asset’s price goes down ▪ ex: same if you already own the asset 
+- ✓ You **hedge**
 
-✓ If you have a **short** position  (say: “ _you are short_ ”) `o` think you sell an asset (you already have[@] ) but want to fix its price today `o` decreases you **profit** if the asset’s price ( _sell at higher price_ ) `o` you **risk** that the asset’s price goes up ▪ _ex:_ if the item is a production input for your business 
+- … a _long_ position by entering a _short_ position
 
-▪ _@:_ _**short** selling_ : you don’t own the asset yet today, so you borrow it to make the sale and return the asset to original owner in the future 
+- `o` … a _short_ position by entering a _long_ position `o` recall hedging is taking a risk that is opposite to original risk
 
-## **Hedging** 
+- ✓ When you hedge a _long_ position by entering a _short_ position `o` the risk that the asset’s price goes down is balanced by opposite risk in short position (price goes up)
 
-- ✓ Recall: _hedging_ means to enter another financial contract with a risk opposite to the original risk 
+- ✓ when you hedge a _short_ position by entering a _long_ position `o` … vice versa
 
-- ✓ You **hedge** 
+## Example of Hedging (non-financial)
 
-   - … a _long_ position by entering a _short_ position 
+- ✓ It is Sep 2021. Suppose you own an oil company
 
-   - `o` … a _short_ position by entering a _long_ position `o` recall hedging is taking a risk that is opposite to original risk 
+- ✓ You have just been given the rights to extract oil from an oil field in Texas from September 2022
 
-- ✓ When you hedge a _long_ position by entering a _short_ position `o` the risk that the asset’s price goes down is balanced by opposite risk in short position (price goes up) 
+- ✓ Your cost of production is $25/bbl (read bbl as “per barrel”)
 
-- ✓ when you hedge a _short_ position by entering a _long_ position `o` … vice versa 
+- ✓ 𝑆 The current market price (spot price, 𝑡 ) is around $80
 
-## **Example of Hedging (non-financial)** 
+- ✓ You’re a smart entrepreneur and want to hedge the risk that the market price will fall below $25 `o` … it was around $20 just one year ago!
 
-- ✓ It is Sep 2021. Suppose you own an oil company 
+- ✓ They’d be happy to enter a **short position to hedge**
 
-- ✓ You have just been given the rights to extract oil from an oil field in Texas from September 2022 
+# OIL PRICE (Brent Crude)
 
-- ✓ Your cost of production is $25/bbl (read bbl as “per barrel”) 
+## Example of Hedging (non-financial)
 
-- ✓ 𝑆 The current market price (spot price, 𝑡 ) is around $80 
+✓ A utility company want to purchase oil to produce electricity
 
-- ✓ You’re a smart entrepreneur and want to hedge the risk that the market price will fall below $25 `o` … it was around $20 just one year ago! 
+- ✓ They are happy with the **spot price** of $80, but worry that geopolitical tensions may increase it
 
-- ✓ They’d be happy to enter a **short position to hedge** 
+- ✓ Say: “they are short in oil”
 
-# **OIL PRICE (Brent Crude)** 
+- ✓ They’d be happy to enter a **long position to hedge**
 
-**==> picture [703 x 326] intentionally omitted <==**
+- ✓ We could write a contract between the oil company and the utility company …
 
-## **Example of Hedging (non-financial)** 
+`o` that fixes prices of oil today (Sep 21) for delivery and payment at future date (Sep 22)
 
-✓ A utility company want to purchase oil to produce electricity 
+## Example of Hedging (non-financial)
 
-- ✓ They are happy with the **spot price** of $80, but worry that geopolitical tensions may increase it 
+✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-- ✓ Say: “they are short in oil” 
+## Example of Hedging (non-financial)
 
-- ✓ They’d be happy to enter a **long position to hedge** 
+✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-- ✓ We could write a contract between the oil company and the utility company … 
+𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80
 
-`o` that fixes prices of oil today (Sep 21) for delivery and payment at future date (Sep 22) 
+- _0=sign contract, fix prices of T:_ 𝐹 _T=delivery time_
 
-## **Example of Hedging (non-financial)** 
+_time_
 
-✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80 
+## Example of Hedging (non-financial)
 
-## **Example of Hedging (non-financial)** 
+✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80 
+𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 
+_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_
 
-**==> picture [128 x 86] intentionally omitted <==**
+_time_
 
-**==> picture [643 x 19] intentionally omitted <==**
+## **Q:** Who wins in each case?
 
-- _0=sign contract, fix prices of T:_ 𝐹 _T=delivery time_ 
+## Example of Hedging (non-financial)
 
-_time_ 
+✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-## **Example of Hedging (non-financial)** 
+𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹
 
-✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80 
+_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹 
+_time_
 
-**==> picture [128 x 86] intentionally omitted <==**
+## **Q:** Who wins in each case?
 
-**==> picture [643 x 19] intentionally omitted <==**
+- **A:** 𝑆 > 𝐹 – Case 1: Utility company, it buys at a price lower than market price: 𝑇
 
-_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_ 
+## Forward Contract
 
-_time_ 
+1. If the spot price of oil in September 2022 is $100 (> $80): `o` the _utility_ company has profited from the forward because it locked in a …
 
-## **Q:** Who wins in each case? 
+lower price ($80): it **profits $20**
 
-## **Example of Hedging (non-financial)** 
+`o` … but the _oil_ company **lost $20** because the spot price $100 is above forward price ($80)
 
-✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80 
+2. Reverse is true if spot price in Sep 2022 is $65 (< $80)
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹 
+`o` the _utility_ company has **lost $15** from the forward because the spot price is below the forward price ($80)
 
-**==> picture [128 x 86] intentionally omitted <==**
+`o` the _oil_ company **profited $15** because the spot price $65 is below forward price ($80)
 
-**==> picture [643 x 19] intentionally omitted <==**
+- ✓ **Key points** about **derivatives** in general:
 
-_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_ 
+`o` _ex-ante_ they reduce risk for both players …
 
-_time_ 
+`o` … but it is a **zero-sum game** (for every winner there’s a loser) `o` each party sacrifices some profits in one state of the world so each can _benefit from insurance_
 
-## **Q:** Who wins in each case? 
+## Forward Contract
 
-- **A:** 𝑆 > 𝐹 – Case 1: Utility company, it buys at a price lower than market price: 𝑇 
+- ✓ This is an example of a **forward contract**
 
-– Case 2: Oil 𝑆 < 𝐹 company, it sells at price higher than market price: 𝑇 Copyright ©2015 Pearson Education, Ltd. All rights reserved.– reverse for losers: Oil in case 1, Utility in case 2 
+- ✓ An _agreement to enter a transaction at some future date_
 
-## **Forward Contract** 
+- ✓ It is not standardized in any way (it is “customized”), but at least it should specify:
 
-1. If the spot price of oil in September 2022 is $100 (> $80): `o` the _utility_ company has profited from the forward because it locked in a … 
+**1. What** item should be delivered and **quality** (properties of the item)
 
-lower price ($80): it **profits $20** 
+**2. Quantity** to be delivered
 
-`o` … but the _oil_ company **lost $20** because the spot price $100 is above forward price ($80) 
+**3. Price** (delivery price)
 
-2. Reverse is true if spot price in Sep 2022 is $65 (< $80) 
+**4. Date** of delivery
 
-`o` the _utility_ company has **lost $15** from the forward because the spot price is below the forward price ($80) 
+- ✓ Eliminates uncertainty about the future price **ex-ante** , but…
 
-`o` the _oil_ company **profited $15** because the spot price $65 is below forward price ($80) 
+- ✓ … **ex-post**: there is always one winner and one loser!
 
-- ✓ **Key points** about **derivatives** in general: 
+# Who won the bet?
 
-`o` _ex-ante_ they reduce risk for both players … 
+## Oil prices and Covid-19
 
-`o` … but it is a **zero-sum game** (for every winner there’s a loser) `o` each party sacrifices some profits in one state of the world so each can _benefit from insurance_ 
+## Future prices for May 2020 delivery (in April 2020)
 
-## **Forward Contract** 
+In April 2020, future price for May 2020 went from $18 to -$37!
 
-- ✓ This is an example of a **forward contract** 
+## Profitability of a Forward Contract
 
-- ✓ An _agreement to enter a transaction at some future date_ 
+✓ Profits of the party **selling** a forward contract: `o` in our example, this was the Oil company
 
-- ✓ It is not standardized in any way (it is “customized”), but at least it should specify: 
+✓ Profits: difference between 𝑭 (agreed forward price, it was $80 𝑺 in the example above) and the spot market price 𝑻 on the day of maturity 𝑻 (which would have been attained otherwise):
 
-   **1. What** item should be delivered and **quality** (properties of the item) 
+𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻
 
-   **2. Quantity** to be delivered 
+- ✓ **Selling** a forward contract _opens_ a **short** position …
 
-   **3. Price** (delivery price) 
+`o` … which is the more valuable the lower the spot price of the asset will be in the future (next slide)
 
-   **4. Date** of delivery 
+## Profitability of a Forward Contract
 
-- ✓ Eliminates uncertainty about the future price **ex-ante** , but… 
+## **Short** position
 
-- ✓ … **ex-post** : there is always one winner and one loser! 
+𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻
 
-# **Who won the bet?** 
+## Profitability of a Forward Contract
 
-**==> picture [713 x 336] intentionally omitted <==**
+✓ Profits of the party **buying** a forward contract: `o` in our example, this was the Utility company
 
-## **Oil prices and Covid-19** 
+✓ Profits: difference between the value of the item at the delivery 𝑆 time (spot price 𝑇 ), the party would have attained without the 𝐹: contract, and
 
-**==> picture [712 x 396] intentionally omitted <==**
+𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻
 
-## **Future prices for May 2020 delivery (in April 2020)** 
+✓ **Buying** a forward contract opens a **long** position … `o` which is the more valuable the higher the spot price of the asset will be in the future (next slide) ^65964d
 
-In April 2020, future price for May 2020 went from $18 to -$37! 
+## Profitability of a Forward Contract
 
-## **Profitability of a Forward Contract** 
+## **Long** position
 
-✓ Profits of the party **selling** a forward contract: `o` in our example, this was the Oil company 
+𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻
 
-✓ Profits: difference between 𝑭 (agreed forward price, it was $80 𝑺 in the example above) and the spot market price 𝑻 on the day of maturity 𝑻 (which would have been attained otherwise): 
+## Forward Contract (Financial)
 
-𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻 
+✓ There are of course forwards not only on real assets, but also on _financial assets_ (4 ex. debt contracts)
 
-- ✓ **Selling** a forward contract _opens_ a **short** position … 
+✓ Example of an **Interest-Rate forward contract** `o` A bank agrees to deliver $5 million in face value of 6% (coupon rate) Treasury bonds maturing in 2032 ⇒ _bank_ _**sells** a bond forward_ say:
 
-`o` … which is the more valuable the lower the spot price of the asset will be in the future (next slide) 
+`o` An insurance company agrees to pay $5 million for the bonds **at the same interest rate as today**: 6% ⇒ insurance a bond forward _say:_ **buys**
 
-## **Profitability of a Forward Contract** 
+`o` **one** The bank and the insurance agree to complete the transaction **year from today** ( _delayed delivery_ )
 
-## **Short** position 
+## Forward Contract (Financial)
 
-𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻 
+## **Q**: who has taken a long position on the forward contract? And the short?
 
-## **Profitability of a Forward Contract** 
+The bank (seller) has taken a short position, the insurance company (buyer) a long position
 
-✓ Profits of the party **buying** a forward contract: `o` in our example, this was the Utility company 
+## **Q**: What risk does the bank want to hedge?
 
-✓ Profits: difference between the value of the item at the delivery 𝑆 time (spot price 𝑇 ), the party would have attained without the 𝐹 : contract, and 
+The bank is long in T-Bonds and wants to hedge **IRR**: the risk that the future interest rates (prices) will go up (down). So they sell a forward at today’s rate of 6%
 
-𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻 
+## **Q**: What risk does the insurance want to hedge?
 
-✓ **Buying** a forward contract opens a **long** position … `o` which is the more valuable the higher the spot price of the asset will be in the future (next slide) 
+The insurance is short on T-bonds: it wants to invest in T-bonds, however worries the price may rise (int.rate fall)
 
-## **Profitability of a Forward Contract** 
+13-26
 
-## **Long** position 
+## Forward Contract (Financial)
 
-𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻 
+**Q**: who has taken a long position on the forward contract? And the short?
 
-## **Forward Contract (Financial)** 
+- the bank (seller) has taken a **short** position
 
-✓ There are of course forwards not only on real assets, but also on _financial assets_ (4 ex. debt contracts) 
+`o` the insurance company (buyer) has taken a **long** position
 
-✓ Example of an **Interest-Rate forward contract** `o` A bank agrees to deliver $5 million in face value of 6% (coupon rate) Treasury bonds maturing in 2032 ⇒ _bank_ _**sells** a bond forward_ say: 
+## **Q**: What risk does the bank want to hedge?
 
-`o` An insurance company agrees to pay $5 million for the bonds **at the same interest rate as today** : 6% ⇒ insurance a bond forward _say:_ **buys** 
+`o` That price may _fall_ (rates may go up). So, they **sell** a forward at today’s rate 6%
 
-`o` **one** The bank and the insurance agree to complete the transaction **year from today** ( _delayed delivery_ ) 
+## **Q**: What risk does the insurance want to hedge?
 
-## **Forward Contract (Financial)** 
+`o` The insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate fall). So, they **buy** a forward…
 
-## **Q** : who has taken a long position on the forward contract? And the short? 
+13-27
 
-The bank (seller) has taken a short position, the insurance company (buyer) a long position 
+## Forward Contract (Financial)
 
-## **Q** : What risk does the bank want to hedge? 
+**Q**: who has taken a long position on the forward contract? And the short?
 
-The bank is long in T-Bonds and wants to hedge **IRR** : the risk that the future interest rates (prices) will go up (down). So they sell a forward at today’s rate of 6% 
+- the bank (seller) has taken a **short** position
 
-## **Q** : What risk does the insurance want to hedge? 
+`o` the insurance company (buyer) has taken a **long** position
 
-The insurance is short on T-bonds: it wants to invest in T-bonds, however worries the price may rise (int.rate fall) 
+**Q**: What risk does the bank want to hedge?
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- that bond price may _fall_ (int. rate may go _up_ ). So, they **sell** a forward at today’s rate 6%
 
-13-26 
+## **Q**: What risk does the insurance want to hedge?
 
-## **Forward Contract (Financial)** 
+`o` The insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate fall). So, they **buy** a forward…
 
-**Q** : who has taken a long position on the forward contract? And the short? 
+13-28
 
-- the bank (seller) has taken a **short** position 
+## Forward Contract (Financial)
 
-`o` the insurance company (buyer) has taken a **long** position 
+**Q**: who has taken a long position on the forward contract? And the short?
 
-## **Q** : What risk does the bank want to hedge? 
+- the bank (seller) has taken a **short** position
 
-`o` That price may _fall_ (rates may go up). So, they **sell** a forward at today’s rate 6% 
+`o` the insurance company (buyer) has taken a **long** position
 
-## **Q** : What risk does the insurance want to hedge? 
+**Q**: What risk does the bank want to hedge?
 
-`o` The insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate fall). So, they **buy** a forward… 
+- that bond price may _fall_ (int. rate may go _up_ ). So, they **sell** a forward at today’s rate 6%
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## **Q**: What risk does the insurance want to hedge?
 
-13-27 
+- the insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate may go _down_ ). So, they **buy** a forward
 
-## **Forward Contract (Financial)** 
+## Forward Contracts
 
-**Q** : who has taken a long position on the forward contract? And the short? 
+**Pros** 1. Not standardized, so **flexible** ( _customized_ )
 
-- the bank (seller) has taken a **short** position 
+## Cons
 
-`o` the insurance company (buyer) has taken a **long** position 
+- Since Forwards are traded on OTC markets
 
-**Q** : What risk does the bank want to hedge? 
+**1. lack of liquidity/depth:**
 
-- that bond price may _fall_ (int. rate may go _up_ ). So, they **sell** a forward at today’s rate 6% 
+`o` hard to find a counter-party for the same contract: who would want exactly $5M of 6% 2032 T-bonds?
 
-## **Q** : What risk does the insurance want to hedge? 
+**2. counterparty risk:** subject to default risk of the counterparty
 
-`o` The insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate fall). So, they **buy** a forward… 
+**3. non-transferability:** it may be difficult to transfer to other parties (in the secondary markets) in case you need to avoid delivery for some reason
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+**FUTURES** were born to address these shortcomings!
 
-13-28 
+## Futures
 
-## **Forward Contract (Financial)** 
+## From problems with forwards to solutions with Futures
 
-**Q** : who has taken a long position on the forward contract? And the short? 
+## 1. lack of liquidity/depth
 
-- the bank (seller) has taken a **short** position 
+➢ design a _standardized_ contract that trades on an organized exchange (rather than OTC)
 
-`o` the insurance company (buyer) has taken a **long** position 
+**2. counterparty risk** ➢ introduce a mechanism to automatically protect against counterparty default
 
-**Q** : What risk does the bank want to hedge? 
+## 3. non-transferability
 
-- that bond price may _fall_ (int. rate may go _up_ ). So, they **sell** a forward at today’s rate 6% 
+➢ introduce multilateral netting of positions in a “ _clearinghouse”_ (we will see how)
 
-## **Q** : What risk does the insurance want to hedge? 
+## Futures
 
-- the insurance wants to invest in T-bonds, but they worry that price may _rise_ (int. rate may go _down_ ). So, they **buy** a forward 
+## ✓ **Futures contracts**:
 
-## **Forward Contracts** 
+`o` similar to forwards (contracts that specify an agreement to exchange an asset a future date at a price specified today
 
-**Pros** 1. Not standardized, so **flexible** ( _customized_ ) 
+## ✓ Differently from forwards, they are:
 
-## **Cons** 
+1. traded on **Organized Exchange** ( _4ex: Chicago Mercantile Exchange_ )
 
-- Since Forwards are traded on OTC markets 
+**2. standardized** in _amounts_ , in _quality_ and in _date_ of delivery
 
-   **1. lack of liquidity/depth:** 
+3. “trading on an exchange” means that you can get a **price** for the future contract even **before delivery**:
 
-`o` hard to find a counter-party for the same contract: who would want exactly $5M of 6% 2032 T-bonds? 
+𝑡= 0 𝑡= 1 𝑡= 2 ... 𝑡= 𝑻 𝐹0 for delivery of 𝐹1 new price of 𝐹2 new price of Item item at future future future exchanged date 𝑇 (same contract, (same contract, at 𝑆𝑇 (or delivery at 𝑇 ) delivery at 𝑇 ) contract closed at 𝐹𝑇)
 
-**2. counterparty risk:** subject to default risk of the counterparty 
+## Futures: Standardization
 
-**3. non-transferability:** it may be difficult to transfer to other parties (in the secondary markets) in case you need to avoid delivery for some reason 
+- ✓ Standardization overcomes the problem of **market liquidity** ( _i.e._ find a counterparty) that forwards have
 
-**FUTURES** were born to address these shortcomings! 
+- ✓ Futures are standardized in much detail (such that it can be verified by court). Mainly:
 
-## **Futures** 
+- **Contract size** . 4ex.: $100,000 face value of T-bonds
 
-## From problems with forwards to solutions with Futures 
 
-## **1. lack of liquidity/depth** 
 
-➢ design a _standardized_ contract that trades on an organized exchange (rather than OTC) 
+- **Delivery dates** 4ex.: last business days of each quarter: March, June, September, December in the Chicago Board of Trade.
 
-**2. counterparty risk** ➢ introduce a mechanism to automatically protect against counterparty default 
+- **Quality**: very specific. 4ex.: orange juice futures need to use this definition for orange juice:
 
-## **3. non-transferability** 
+- “ _US Grade A, with Brix value of not less than 57 degrees, having a Brix value to acid ratio of not less than 13 to 1 nor more than 19 to 1, with factors of color and flavor each scoring 37 points or higher and 19 for defects, with a minimum score 94._ ”
 
-➢ introduce multilateral netting of positions in a “ _clearinghouse”_ (we will see how) 
+## Futures: Delivery
 
-## **Futures** 
+- ✓ The delivery of items in futures market almost never actually happens Why?
 
-## ✓ **Futures contracts** : 
+## ✓ Because most traders
 
-`o` similar to forwards (contracts that specify an agreement to exchange an asset a future date at a price specified today 
+- choose to **close their position** before the delivery period
 
-## ✓ Differently from forwards, they are: 
+- trader “ _closes_ a position” by entering another trade of opposite type than the original one; i.e.: an offsetting position with the **exchange** directly
 
-1. traded on **Organized Exchange** ( _4ex: Chicago Mercantile Exchange_ ) 
+- ✓ the exchange (=clearing house … an intermediary)
 
-**2. standardized** in _amounts_ , in _quality_ and in _date_ of delivery 
+- recognizes you both receive and deliver the same asset on the same date (so your net position is zero)
 
-3. “trading on an exchange” means that you can get a **price** for the future contract even **before delivery** : 
+- and so, it closes out your position: cancels both contracts
 
-**==> picture [702 x 19] intentionally omitted <==**
+- ✓ this closing avoids the cost of delivery (transaction cost)
 
-𝑡= 0 𝑡= 1 𝑡= 2 ... 𝑡= 𝑻 𝐹0 for delivery of 𝐹1 new price of 𝐹2 new price of Item item at future future future exchanged date 𝑇 (same contract, (same contract, at 𝑆𝑇 (or delivery at 𝑇 ) delivery at 𝑇 ) contract closed at 𝐹𝑇) 
+## Example
 
-## **Futures: Standardization** 
+- ✓ If you bought a future     (=you are long) ….
 
-- ✓ Standardization overcomes the problem of **market liquidity** ( _i.e._ find a counterparty) that forwards have 
+## Futures: Prices
 
-- ✓ Futures are standardized in much detail (such that it can be verified by court). Mainly: 
+- ✓ An important fact: the **future price will converge to the spot price** at the **delivery date (** 𝑭𝑻 = 𝑺𝑻 **)**
 
-   - **Contract size** . 4ex.: $100,000 face value of T-bonds 
+- ✓: Why? Because otherwise there is an **arbitrage opportunity**
 
-   - . 
+`o` if 𝐹 < 𝑆 is **lower** 𝑇 𝑇 (price of a future for delivery today than spot price), we can _buy_ a future today, get the good delivered and then _sell_ it = 𝑆 −𝐹 immediately for profit at the spot price ( 𝑇 𝑇 ): demand of futures ↑⇒ 𝐹 ↑ price of future 𝑇
 
-   - **Delivery dates** 4ex.: last business days of each quarter: March, June, September, December in the Chicago Board of Trade. 
+`o` if 𝐹 > 𝑆 is **above** 𝑇 𝑇 (future price for delivery today spot price), buy at _sell_ = 𝐹 −𝑆 ↑ ⇒ 𝐹 spot and futures ( 𝑇 𝑇 ): supply of futures 𝑇 price of future ↓
 
-   - **Quality** : very specific. 4ex.: orange juice futures need to use this definition for orange juice: 
+- ✓ “Smart” traders will be quick to take advantage of any arbitrage opportunity and thus and eliminate them ( **arbitrage** )
 
-      - “ _US Grade A, with Brix value of not less than 57 degrees, having a Brix value to acid ratio of not less than 13 to 1 nor more than 19 to 1, with factors of color and flavor each scoring 37 points or higher and 19 for defects, with a minimum score 94._ ” 
+## Basis Convergence (Basis = F – S)
 
-## **Futures: Delivery** 
+**Why Future prices move?** Movements are largely driven by changes in expectations about the future demand and supply of the asset
 
-- ✓ The delivery of items in futures market almost never actually happens Why? 
+## Futures: Payoffs before/at expiration
 
-## ✓ Because most traders 
+✓ **Payoff** to the **long side** of a future contract closed at date _t_: 𝐹 −𝐹 𝑡 0 `o` where 𝐹 on the future … 0 is the price initially paid `o` … and 𝐹 𝑡 is the price of the future when closing (selling) before delivery
 
-   - choose to **close their position** before the delivery period 
+✓ **Payoff** to the **short side** of a future contract closed at date _t_: 𝐹0 −𝐹𝑡 `o` where 𝐹 received on the future … 0 is the price initially `o` … and 𝐹 𝑡 is the price of the future when closing (buying) before delivery
 
-   - trader “ _closes_ a position” by entering another trade of opposite type than the original one; i.e.: an offsetting position with the **exchange** directly 
+✓ 𝑡= 𝑇 𝐹 = 𝐹 = 𝑆 If the contract is kept until delivery ( ): 𝑡 𝑇 𝑇 `o` but recall that 𝐹 ≠𝐹 𝑡 0
 
-- ✓ the exchange (=clearing house … an intermediary) 
+## Example: Profits going Long
 
-   - recognizes you both receive and deliver the same asset on the same date (so your net position is zero) 
+✓ Assume that you took a long position on a futures contract when the price was **$50**
 
-   - and so, it closes out your position: cancels both contracts 
+- ✓ Today the futures price is **$40**
 
-- ✓ this closing avoids the cost of delivery (transaction cost) 
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0
 
-## **Example** 
+**Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is even lower (say **$30** )?
 
-- ✓ If you bought a future     (=you are long) …. 
+**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
 
-… you can enter an additional position short `o` same (sell the future) with the exchange (=clearing house) Copyright ©2015 Pearso ~~n Education~~ , Ltd. All rights reserved. 
+## Example: Profits going Long
 
-## **Futures: Prices** 
+✓ Assume that you took a long position on a futures contract when the price was **$50**
 
-- ✓ An important fact: the **future price will converge to the spot price** at the **delivery date (** 𝑭𝑻 = 𝑺𝑻 **)** 
+- ✓ Today the futures price is **$40**
 
-- ✓ : Why? Because otherwise there is an **arbitrage opportunity** 
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? ^2hwvqj
 
-`o` if 𝐹 < 𝑆 is **lower** 𝑇 𝑇 (price of a future for delivery today than spot price), we can _buy_ a future today, get the good delivered and then _sell_ it = 𝑆 −𝐹 immediately for profit at the spot price ( 𝑇 𝑇 ): demand of futures ↑⇒ 𝐹 ↑ price of future 𝑇 
+**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
 
-`o` if 𝐹 > 𝑆 is **above** 𝑇 𝑇 (future price for delivery today spot price), buy at _sell_ = 𝐹 −𝑆 ↑ ⇒ 𝐹 spot and futures ( 𝑇 𝑇 ): supply of futures 𝑇 price of future ↓ 
+## Example: Profits going Long
 
-- ✓ “Smart” traders will be quick to take advantage of any arbitrage opportunity and thus and eliminate them ( **arbitrage** ) 
+✓ Assume that you took a long position on a futures contract when the price was **$50**
 
-## **Basis Convergence (Basis = F – S)** 
+- ✓ Today the futures price is **$40**
 
-**==> picture [642 x 386] intentionally omitted <==**
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 _loss_ of 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You _lose_: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
+*(See also: [[Lect10_exercises#^gc4l5s]])*
 
-**Why Future prices move?** Movements are largely driven by changes in expectations about the future demand and supply of the asset 
+## Example: Profits going Short
 
-## **Futures: Payoffs before/at expiration** 
+✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
-✓ **Payoff** to the **long side** of a future contract closed at date _t_ : 𝐹 −𝐹 𝑡 0 `o` where 𝐹 on the future … 0 is the price initially paid `o` … and 𝐹 𝑡 is the price of the future when closing (selling) before delivery 
+✓ Today the futures price is **$40**
 
-✓ **Payoff** to the **short side** of a future contract closed at date _t_ : 𝐹0 −𝐹𝑡 `o` where 𝐹 received on the future … 0 is the price initially `o` … and 𝐹 𝑡 is the price of the future when closing (buying) before delivery 
+**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡
 
-✓ 𝑡= 𝑇 𝐹 = 𝐹 = 𝑆 If the contract is kept until delivery ( ): 𝑡 𝑇 𝑇 `o` but recall that 𝐹 ≠𝐹 𝑡 0 
+**Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )?
 
-## **Example: Profits going Long** 
+**A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇
 
-✓ Assume that you took a long position on a futures contract when the price was **$50** 
+## Example: Profits going Short
 
-- ✓ Today the futures price is **$40** 
+✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0 
+✓ Today the futures price is **$40**
 
-**Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is even lower (say **$30** )? 
+**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇
 
-**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0 
+## Example: Profits going Short
 
-## **Example: Profits going Long** 
+✓ Everything the opposite if we are short at 𝑡= 0 on same future
 
-✓ Assume that you took a long position on a futures contract when the price was **$50** 
+- ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
-- ✓ Today the futures price is **$40** 
+- ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? 
+**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you for 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy 𝑇 _profit_ 0 −𝑆𝑇
 
-**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0 
+## Futures: Exchanges & Default Risk
 
-## **Example: Profits going Long** 
+- ✓ The exchange deals with the other big issue of a forward contract: **default risk** of the counterparty
 
-✓ Assume that you took a long position on a futures contract when the price was **$50** 
+## ✓ How?
 
-- ✓ Today the futures price is **$40** 
+- ✓ The exchange acts as a _clearinghouse_ ( **CCP, Central CounterParty** ) for both traders:
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 _loss_ of 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You _lose_ : 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0 
+- the clearinghouse **guarantees** all futures will be executed even if one counterparty defaults
 
-## **Example: Profits going Short** 
+- ✓ Where does it get the money?
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50** 
+`o` from the buyers and sellers **margin accounts** , whose amount is tied to the value of the future contract
 
-✓ Today the futures price is **$40** 
+## Futures: Margin Account
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 
+`o` similar to a bank account to which the clearinghouse of the futures exchange can make automatic debits/credits, depending on how trader’s futures contract evolves...
 
-**Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? 
+`o` the value of the margin account changes as the value of the future contract changes
 
-**A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You : 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇 
+`o` the account has
 
-## **Example: Profits going Short** 
+- an “ _initial margin_ ”
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50** 
+” - and a minimum “ _maintenance requirement_
 
-✓ Today the futures price is **$40** 
+`o` if your margin account has _insufficient funds_ (it runs below the maintenance requirement), the exchange will give you a margin call asking you to top up with more money (or they will automatically close your position)
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You : 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇 
+## Futures: Marking-to-market
 
-## **Example: Profits going Short** 
+✓ _m.a._ Key point: is adjusted _daily_ ( **daily settlement** ): `o` at each closing date, market prices determine the value in each margin account: **marking-to-market**
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future 
+`o` this eliminates **default risk** . Let’s see how it works …
 
-- ✓ Assume that you took a short position on a futures contract when the price was **$50** 
+- ✓ At the end of every day, the exchange looks at how futures prices have moved
 
-- ✓ Today the futures price is **$40** 
+- it **credits** the margin account of the party whose contract has become more valuable …
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you for 𝑆 = $30 . You : 𝐹 = $50 −$30 = +$20 may buy 𝑇 _profit_ 0 −𝑆𝑇 
+. and it **debits** the counterparty’s account by _exactly the same amount_ s
 
-## **Futures: Exchanges & Default Risk** 
+- (because contract has become les valuable)
 
-- ✓ The exchange deals with the other big issue of a forward contract: **default risk** of the counterparty 
+✓ The **amount** debited/credited corresponds `o` and: 𝑭 _Vs_ 𝑭 to the change in futures prices between today yesterday 𝒕 𝒕−𝟏 `o` … considering the quantity of the good to be delivered
 
-## ✓ How? 
+## Margin calls can cause problems
 
-- ✓ The exchange acts as a _clearinghouse_ ( **CCP, Central CounterParty** ) for both traders: 
+## Exercise 1: Mark-to-Market (1/4)
 
-   - the clearinghouse **guarantees** all futures will be executed even if one counterparty defaults 
+- ✓ Suppose a trader has taken a **long** position in oil futures at **$75** per barrel
 
-- ✓ Where does it get the money? 
+- the contract expires in 3 days, and it consists of 5,000 barrels
 
-`o` from the buyers and sellers **margin accounts** , whose amount is tied to the value of the future contract 
+- as _initial margin_ the trader needs to deposit 4% of value of future contract
 
-## **Futures: Margin Account** 
+`o` value of future contract = _Q×F0_ (= _contract size_ x _future price_ )
 
-`o` similar to a bank account to which the clearinghouse of the futures exchange can make automatic debits/credits, depending on how trader’s futures contract evolves... 
+✓ The futures price in the following three days are:
 
-`o` the value of the margin account changes as the value of the future contract changes 
+1(st) day: 𝐹1 = $80
 
-`o` the account has 
+2(nd) day: 𝐹2 = $74 3(rd) day: 𝐹3 = $77
 
-▪ an “ _initial margin_ ” 
+**Q**: Calculate the trader’s profits and losses in her m.a.
 
-” ▪ and a minimum “ _maintenance requirement_ 
+## Exercise 1: Mark-to-Market (2/4)
 
-`o` if your margin account has _insufficient funds_ (it runs below the maintenance requirement), the exchange will give you a margin call asking you to top up with more money (or they will automatically close your position) 
+✓ The trader is **long** in oil futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 5,000 × $75 × 0.04=$15,000
 
-▪ if the balance of your margin account _exceeds_ the “initial margin Copyright ©2015 Pearson Education, Ltd. All rights reserved.requirement”, you may withdraw those excess funds at anytime 
+✓ If the price **in** creases (- _F>0_ ), trader in long _profits_ `o` clearing house credits the additional profit due to price increase ( _Q_ × - _F)_ on the margin account of trader in long (debits the same amount to trader in short)
 
-## **Futures: Marking-to-market** 
+- ✓ If the price **de** creases (- _F<0_ ), trader in long has _loss_ `o` clearing house debits _Q_ × - _F_ on long trader’s margin account
 
-✓ _m.a._ Key point: is adjusted _daily_ ( **daily settlement** ): `o` at each closing date, market prices determine the value in each margin account: **marking-to-market** 
+## Exercise 1: Mark-to-Market (2/4)
 
-`o` this eliminates **default risk** . Let’s see how it works … 
+✓ The trader is **long** in oil futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 5,000 × $75 × 0.04=$15,000
 
-- ✓ At the end of every day, the exchange looks at how futures prices have moved 
+✓ If the price **in** creases (- _F>0_ ), trader in long _profits_ `o` clearing house credits the additional profit due to price increase ( _Q_ × - _F)_ on the m.a. of trader in long (debits the same amount to trader in short)
 
-   - it **credits** the margin account of the party whose contract has become more valuable … 
+✓ If the price **de** creases (- _F<0_ ), trader in long has _loss_ `o` clearing house debits _Q_ × - _F_ on long trader’s m.a.
 
-   - .. and it **debits** the counterparty’s account by _exactly the same amount_ s 
-
-   - (because contract has become les valuable) 
-
-✓ The **amount** debited/credited corresponds `o` and : 𝑭 _Vs_ 𝑭 to the change in futures prices between today yesterday 𝒕 𝒕−𝟏 `o` … considering the quantity of the good to be delivered 
-
-## **Margin calls can cause problems** 
-
-**==> picture [485 x 380] intentionally omitted <==**
-
-“The rapid run-up in prices had further increased the margin payments — or collateral — Uniper was required to make to exchanges when it trades gas and power’’ (Copyright ©2015 Pearson Education, Ltd. All rights reserved.FT, August 29, 2022) 13-47 
-
-## **Exercise 1: Mark-to-Market (1/4)** 
-
-- ✓ Suppose a trader has taken a **long** position in oil futures at **$75** per barrel 
-
-   - the contract expires in 3 days, and it consists of 5,000 barrels 
-
-   - as _initial margin_ the trader needs to deposit 4% of value of future contract 
-
-`o` value of future contract = _Q×F0_ (= _contract size_ x _future price_ ) 
-
-✓ The futures price in the following three days are: 
-
-1[st] day: 𝐹1 = $80 
-
-2[nd] day: 𝐹2 = $74 3[rd] day: 𝐹3 = $77 
-
-**Q** : Calculate the trader’s profits and losses in her m.a. 
-
-## **Exercise 1: Mark-to-Market (2/4)** 
-
-✓ The trader is **long** in oil futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 5,000 × $75 × 0.04=$15,000 
-
-✓ If the price **in** creases ( _F>0_ ), trader in long _profits_ `o` clearing house credits the additional profit due to price increase ( _Q_ ×  _F)_ on the margin account of trader in long (debits the same amount to trader in short) 
-
-- ✓ If the price **de** creases ( _F<0_ ), trader in long has _loss_ `o` clearing house debits _Q_ ×  _F_ on long trader’s margin account 
-
-## **Exercise 1: Mark-to-Market (2/4)** 
-
-✓ The trader is **long** in oil futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 5,000 × $75 × 0.04=$15,000 
-
-✓ If the price **in** creases ( _F>0_ ), trader in long _profits_ `o` clearing house credits the additional profit due to price increase ( _Q_ ×  _F)_ on the m.a. of trader in long (debits the same amount to trader in short) 
-
-✓ If the price **de** creases ( _F<0_ ), trader in long has _loss_ `o` clearing house debits _Q_ ×  _F_ on long trader’s m.a. 
-
-||`o` clearing hou|sedebits<br> _Q_×|_F_on long trader’s m.a.||
+|`o` clearing hou|sedebits  _Q_×|- _F_on long trader’s m.a.|
 |---|---|---|---|---|
-|**Day**|𝑭𝒕|**Future Price**<br>𝛥𝐹= 𝐹𝑡−𝐹𝑡−1|**Cash flow to m.a.**|**m.a. balance**|
+|**Day**|𝑭𝒕|**Future Price** 𝛥𝐹= 𝐹𝑡−𝐹𝑡−1|**Cash flow to m.a.**|**m.a. balance**|
 |0|$75|--|--|**$15k**|
 |1|$80|$5|**+$25k**= (5k × (+$5))|**$40k**(=$15k+$25k)|
 |2|$74|-$6|**–$30k**= (5k × (-$6))|**$10k**(=$40k-$30k)|
-|3|$77<br>= 𝑆𝑇|$3|**+$15k**= (5k × (+$3))|**$25k**(=$10k+$15k)|
-|Copyr<br>_Total_|ight ©2015 Pearson Educatio|n, Ltd. All rights reserved.<br>_+$2_|**_+$10k_**_=(5k ×($77-$75))_|13-50<br>**_$10k=_**_(=$25k-$15k)_|
+|3|$77 = 𝑆𝑇|$3|**+$15k**= (5k × (+$3))|**$25k**(=$10k+$15k)|
 
+## Exercise 1: Mark-to-Market  (3/4)
 
+- ✓ Since the position was not closed before maturity, delivery takes place at the **spot price of 77$** (not at $75): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 !
 
-## **Exercise 1: Mark-to-Market  (3/4)** 
+- ✓ This is also the price of a future bought at the delivery date (convergence of future with spot price)
 
-- ✓ Since the position was not closed before maturity, delivery takes place at the **spot price of 77$** (not at $75): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 ! 
+- ✓ But wait! She bought oil futures for $75/bbl, as agreed 3 days before, and not $77
 
-- ✓ This is also the price of a future bought at the delivery date (convergence of future with spot price) 
+- **Q:** where are those 2$/bbl?
 
-- ✓ But wait! She bought oil futures for $75/bbl, as agreed 3 days before, and not $77 
+- **A:** in the **margin account!**
 
-- **Q:** where are those 2$/bbl? 
+## Exercise 1: Mark-to-Market (4/4)
 
-- **A:** in the **margin account!** 
+✓ In fact, on the **futures position** the **long trader gained**: 𝜋𝑙𝑜𝑛𝑔 = 𝑆𝑇 −𝐹0 ×Q = $ 77 − $ 75 × 5,000 = +$10,000
 
-## **Exercise 1: Mark-to-Market (4/4)** 
+✓ This is **also** the **same** as the **total cash flows in the margin accounts** $25𝑘−$30𝑘+ $15𝑘= +$10k
 
-✓ In fact, on the **futures position** the **long trader gained** : 𝜋𝑙𝑜𝑛𝑔 = 𝑆𝑇 −𝐹0 ×Q = $ 77 − $ 75 × 5,000 = +$10,000 
+✓ So, the trader pays $77 for barrels, but also gets +$10,000 in the margin account which is **like paying $75** for each barrel:
 
-✓ This is **also** the **same** as the **total cash flows in the margin accounts** $25𝑘−$30𝑘+ $15𝑘= +$10k 
+## Exercise 2: Mark-to-Market (1/4)
 
-✓ So, the trader pays $77 for barrels, but also gets +$10,000 in the margin account which is **like paying $75** for each barrel: 
+- ✓ Suppose a trader has taken a **short** position in silver futures at **$1,220** per ounce
 
-**==> picture [336 x 37] intentionally omitted <==**
+`o` the contract expires in 2 days, and it consists of 100 ounces `o` the trader has to
 
-$10,000 [or can see it as 5,000 𝑏𝑏𝑙[= $2 = $77 −$75][]] 
+- deposit in the m.a. 4% of value of future contract as _initial margin_ - keep in the m.a. 3% of value of future contract as _maintenance margin_ `o` value con future contract = _Q_ × _F0_ (= _contract size_ x _future price_ )
 
-## **Exercise 2: Mark-to-Market (1/4)** 
+✓ The futures price in the following two days are:
 
-- ✓ Suppose a trader has taken a **short** position in silver futures at **$1,220** per ounce 
+`o` 1(st) day: 𝐹1 = $1,200 `o` 2(nd) day: 𝐹2 = $1,205
 
-`o` the contract expires in 2 days, and it consists of 100 ounces `o` the trader has to 
+**Q**: Calculate the trader’s profits and losses in her m.a.. Does trader receive margin call to top up funds?
 
-▪ deposit in the m.a. 4% of value of future contract as _initial margin_ ▪ keep in the m.a. 3% of value of future contract as _maintenance margin_ `o` value con future contract = _Q_ × _F0_ (= _contract size_ x _future price_ ) 
+## Exercise 2: Mark-to-Market (2/4)
 
-✓ The futures price in the following two days are: 
+✓ The trader is **short** in silver futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 100 × $1,220 × 0.04=$4,880 ✓ If the price **in** creases, trader in short has loss `o` clearing house debits of _Q_ × - _F_ on short trader’s margin account `o` if sum is lower than maintenance margin ( _maintenance margin_ = _Q_ × _F0_ × _mm(%)_ = 100 × $1,220 × 0.03=$3,600) clearing house makes a margin call to top up funds in the m.a.
 
-`o` 1[st] day: 𝐹1 = $1,200 `o` 2[nd] day: 𝐹2 = $1,205 
+✓ If the price **de** creases, trader in short profits `o` clearing house credits the additional profit ( _Q_ × - _F)_ on the margin account of trader in short (debits the same amount to trader in long)
 
-**Q** : Calculate the trader’s profits and losses in her m.a.. Does trader receive margin call to top up funds? 
+## Exercise 2: Mark-to-Market (2/4)
 
-## **Exercise 2: Mark-to-Market (2/4)** 
+## ✓ The trader is **short** in silver futures
 
-✓ The trader is **short** in silver futures `o` initial margin= _Q_ × _F0_ × _im(%)_ = 100 × $1,220 × 0.04=$4,880 ✓ If the price **in** creases, trader in short has loss `o` clearing house debits of _Q_ ×  _F_ on short trader’s margin account `o` if sum is lower than maintenance margin [ _maintenance margin_ = _Q_ × _F0_ × _mm(%)_ = 100 × $1,220 × 0.03=$3,600] clearing house makes a margin call to top up funds in the m.a. 
+`o` _initial_ margin = _Q_ × _F0_ × _im(%)_ = 100 × $1,220 × 0.04=$4,880 `o` _maintenance_ margin = _Q_ × _F0_ × _mm(%)_ = 100 × $1,220 × 0.03=$3,600
 
-✓ If the price **de** creases, trader in short profits `o` clearing house credits the additional profit ( _Q_ ×  _F)_ on the margin account of trader in short (debits the same amount to trader in long) 
-
-## **Exercise 2: Mark-to-Market (2/4)** 
-
-## ✓ The trader is **short** in silver futures 
-
-`o` _initial_ margin = _Q_ × _F0_ × _im(%)_ = 100 × $1,220 × 0.04=$4,880 `o` _maintenance_ margin = _Q_ × _F0_ × _mm(%)_ = 100 × $1,220 × 0.03=$3,600 
-
-|**Day**|𝑭𝒕|**Future Price**<br>𝛥𝐹= 𝐹𝑡−1−𝐹𝑡|**Cash flow to m.a.**|**m.a. balance**|
+|**Day**|𝑭𝒕|**Future Price** 𝛥𝐹= 𝐹𝑡−1−𝐹𝑡|**Cash flow to m.a.**|**m.a. balance**|
 |---|---|---|---|---|
 |0|$1,220|--|--|**$4,880**|
 |1st|$1,200|+$20|+$2,000 (= 100 x $20)|**$6,8800**(=$4,880+$2,000)|
 |2nd|$1,205 (= 𝑆𝑇)|-$5|-$500 (= 100 x (-$5))|**$6,380**(=$6,880-500)|
-|_Total_||_+$15_|**_+$1,500 (_**_=100 ×($1,220-$1,205))_|**_+$1,500_**_(=$6,380-$4,880)_|
+|_Total_|_+$15_|**_+$1,500 (_**_=100 ×($1,220-$1,205))_|**_+$1,500_**_(=$6,380-$4,880)_|
 
+✓ Trader does not receive margin call `o` indeed m.a. never falls below $3,600
 
+## Exercise 2: Mark-to-Market (3/4)
 
-✓ Trader does not receive margin call `o` indeed m.a. never falls below $3,600 
+✓ Since the position was not closed before maturity, delivery takes place at the **spot price** 𝑺𝑻 **1,205$** (not at $1,220): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 !
 
-## **Exercise 2: Mark-to-Market (3/4)** 
+- ✓ This is also the price of a future sold at the delivery date (again, convergence of future with spot price)
 
-✓ Since the position was not closed before maturity, delivery takes place at the **spot price** 𝑺𝑻 **1,205$** (not at $1,220): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 ! 
+- ✓ Even if she sold silver futures for $1,220/ounce, as agreed 2 days before, trade is at $1,205
 
-- ✓ This is also the price of a future sold at the delivery date (again, convergence of future with spot price) 
+- **Q:** where are those 15$/ounce?
 
-- ✓ Even if she sold silver futures for $1,220/ounce, as agreed 2 days before, trade is at $1,205 
+- **A:** in the **margin account!**
 
-- **Q:** where are those 15$/ounce? 
+## Exercise 2: Mark-to-Market (4/4)
 
-- **A:** in the **margin account!** 
+✓ In fact, on the **futures** position the **short** trader **gained**: 𝜋𝑠ℎ𝑜𝑟𝑡 = 𝐹0 −𝑆𝑇 ×Q = $ 1,220 − $ 1,205 × 100 = +$1,500
 
-## **Exercise 2: Mark-to-Market (4/4)** 
+✓ This **is also the same as the total cash flows in the margin accounts**: $ 2,000 − $ 5,000 = $1,500
 
-✓ In fact, on the **futures** position the **short** trader **gained** : 𝜋𝑠ℎ𝑜𝑟𝑡 = 𝐹0 −𝑆𝑇 ×Q = $ 1,220 − $ 1,205 × 100 = +$1,500 
+✓ So, the trader gets $1,205 for ounce, but also gets +$1,500 in the margin account which is **like paying $1,220** for each ounce:
 
-✓ This **is also the same as the total cash flows in the margin accounts** : $ 2,000 − $ 5,000 = $1,500 
+## The Elimination of Counterparty Credit Risk
 
-✓ So, the trader gets $1,205 for ounce, but also gets +$1,500 in the margin account which is **like paying $1,220** for each ounce: 
+**Credit risk** is **no longer** an issue. Why?
 
-$1,500 $1,205 + 100 𝑜𝑢𝑛𝑐𝑒𝑠[= $1,205 + $15 = $1,220] 
+- ✓ Suppose a counterparty defaults, no big problem:
 
-$1,500 [or can see it as 100 𝑜𝑢𝑛𝑐𝑒𝑠[= $15 = $1,220 −$1,205][]] 
+- its position will be closed immediately
 
-## **The Elimination of Counterparty Credit Risk** 
+`o` the entire value which the contract had at the moment of the default has already been paid by the now-defaulting counterparty via the margin account system
 
-**Credit risk** is **no longer** an issue. Why? 
+`o` so, you could simply look for another contract partner for your futures position …
 
-- ✓ Suppose a counterparty defaults, no big problem: 
+`o` … simple because the exchange will do that, even automatically, for you: you suffered **no loss at all** !
 
-   - its position will be closed immediately 
+## Profits of short/long investors in futures
 
-`o` the entire value which the contract had at the moment of the default has already been paid by the now-defaulting counterparty via the margin account system 
+✓ Before going on, let’s recall each party’s profit function
 
-`o` so, you could simply look for another contract partner for your futures position … 
+## ✓ Long investor
 
-`o` … simple because the exchange will do that, even automatically, for you: you suffered **no loss at all** ! 
+𝜋𝑙𝑜𝑛𝑔,𝑡 =  𝑄∙ 𝐹1 −𝐹0 + 𝐹2 −𝐹1 + … + 𝐹𝑡 −𝐹𝑡−1 𝜋 𝐹 −𝐹 𝑙𝑜𝑛𝑔,𝑡 = 𝑄∙ 𝑡 0 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to long investor is: 𝜋𝑙𝑜𝑛𝑔,𝑇 = 𝑄∙ 𝑆𝑇 −𝐹0
 
-## **Profits of short/long investors in futures** 
+## ✓ Short investor
 
-✓ Before going on, let’s recall each party’s profit function 
+𝜋𝑠ℎ𝑜𝑟𝑡,𝑡 =  𝑄∙ 𝐹0 −𝐹1 + 𝐹1 −𝐹2 + … + 𝐹𝑡−1 −𝐹𝑡 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑡 = 𝑄∙ 0 −𝐹𝑡 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to short investor is: 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑄∙ 0 −𝑆𝑇
 
-## ✓ Long investor 
+## Stock Index Future
 
-𝜋𝑙𝑜𝑛𝑔,𝑡 =  𝑄∙ 𝐹1 −𝐹0 + 𝐹2 −𝐹1 + … + 𝐹𝑡 −𝐹𝑡−1 𝜋 𝐹 −𝐹 𝑙𝑜𝑛𝑔,𝑡 = 𝑄∙ 𝑡 0 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to long investor is: 𝜋𝑙𝑜𝑛𝑔,𝑇 = 𝑄∙ 𝑆𝑇 −𝐹0 
+- ✓ In a **stock index future** , the underlying asset is a stock market index (4 ex: S&P500)
 
-## ✓ Short investor 
+- ✓ Useful to hedge **stock market risk**
 
-𝜋𝑠ℎ𝑜𝑟𝑡,𝑡 =  𝑄∙ 𝐹0 −𝐹1 + 𝐹1 −𝐹2 + … + 𝐹𝑡−1 −𝐹𝑡 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑡 = 𝑄∙ 0 −𝐹𝑡 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to short investor is: 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑄∙ 0 −𝑆𝑇 
+- ✓ What item is delivered in this case? Just **cash!**
 
-## **Stock Index Future** 
+`o` not a security as in other financial futures
 
-- ✓ In a **stock index future** , the underlying asset is a stock market index (4 ex: S&P500) 
+✓ How much? The cash amount is equal to the stock market index at the delivery date × _**multiplier**_
 
-- ✓ Useful to hedge **stock market risk** 
+𝜋 −𝐹 𝑙𝑜𝑛𝑔,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝑆𝑇 0) 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝐹0 −𝑆𝑇)
 
-- ✓ What item is delivered in this case? Just **cash!** 
+## Example: S&P500 futures
 
-`o` not a security as in other financial futures 
+✓ For the S&P500 futures the multiplier is 250
 
-✓ How much? The cash amount is equal to the stock market index at the delivery date × _**multiplier**_ 
+- ✓ If you sell one contract at a price ( _S&P500T_ ) of $1,500, you agree to deliver in the future 250 × ( _S&P500T_ ) at the delivery date:
 
-𝜋 −𝐹 𝑙𝑜𝑛𝑔,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝑆𝑇 0) 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝐹0 −𝑆𝑇) 
+× `o` value of futures contract: $375,000 (= 250 $1,500)
 
-## **Example: S&P500 futures** 
+✓ Suppose the spot price at 𝑡= 𝑇 is: _S&P500T_ = $1,000: 𝜋𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $1,500 −$1,000 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $500 = $125,000
 
-✓ For the S&P500 futures the multiplier is 250 
+`o` you sold at $375k but only need to deliver $250k (=$375k-$125k) `o` technically, only $125k will be exchanged at delivery
 
-- ✓ If you sell one contract at a price ( _S&P500T_ ) of $1,500, you agree to deliver in the future 250 × ( _S&P500T_ ) at the delivery date: 
+## Stock Index Future
 
-× `o` value of futures contract: $375,000 (= 250 $1,500) 
+**Why would you use a stock index future?**
 
-✓ Suppose the spot price at 𝑡= 𝑇 is: _S&P500T_ = $1,000: 𝜋𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $1,500 −$1,000 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $500 = $125,000 
+✓ Suppose you are long in a portfolio of stocks of $100M that moves one-to-one with the S&P500
 
-`o` you sold at $375k but only need to deliver $250k (=$375k-$125k) `o` technically, only $125k will be exchanged at delivery 
+✓ you want to hedge a downturn: go short on S&P500
 
-## **Stock Index Future** 
+✓ hedge for one year
 
-**Why would you use a stock index future?** 
+- ✓ the S&P500 futures is currently selling at $1,000
 
-✓ Suppose you are long in a portfolio of stocks of $100M that moves one-to-one with the S&P500 
+**Q:** How many future contracts do you need? 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= 𝑆&𝑃500 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑆&𝑃𝑓𝑢𝑡𝑢𝑟𝑒𝑠(=) 𝑇 × 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 $100,000,000 $100,000,000 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= = 400 $1,000 × 250(=) $250,000
 
-✓ you want to hedge a downturn: go short on S&P500 
+## Stock Index Futures
 
-✓ hedge for one year 
+✓ Suppose after the year, the S&P 500 is at $900 ✓ You had a short position in the future, so you gained: `o` 𝜋 = Δ𝐹× 𝑠ℎ𝑜𝑟𝑡 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠× 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$900 × 400 × 250 = +$10𝑀!
 
-- ✓ the S&P500 futures is currently selling at $1,000 
+✓ this will also be the total inflow in the m.a.
 
-**Q:** How many future contracts do you need? 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= 𝑆&𝑃500 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑆&𝑃𝑓𝑢𝑡𝑢𝑟𝑒𝑠[=] 𝑇 × 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 $100,000,000 $100,000,000 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= = 400 $1,000 × 250[=] $250,000 
+`o` since this is cash settled, you never actually sell a portfolio of stocks at $900, but only get credited the difference (+$10M) in your m.a.
 
-## **Stock Index Futures** 
+✓ But your portfolio of $100M is now worth: $90M
 
-✓ Suppose after the year, the S&P 500 is at $900 ✓ You had a short position in the future, so you gained: `o` 𝜋 = Δ𝐹× 𝑠ℎ𝑜𝑟𝑡 #𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠× 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$900 × 400 × 250 = +$10𝑀! 
+## Stock Index Futures
 
-✓ this will also be the total inflow in the m.a. 
+- ✓ Suppose instead, after the year the S&P 500 is at $1,100 ✓ You had a short position, so you lost:
 
-`o` since this is cash settled, you never actually sell a portfolio of stocks at $900, but only get credited the difference (+$10M) in your m.a. 
+- 𝜋 = Δ𝐹∙ 𝑠ℎ𝑜𝑟𝑡 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟
 
-✓ But your portfolio of $100M is now worth: $90M 
+- `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$1,100 ∙400 ∙250 = −$10𝑀!
 
-$90M + $10M = **$100M** 
+- ✓ this will also be the total outflow from the m.a.
 
-## **Stock Index Futures** 
+- again, it is cash settled; you never sell a portfolio of stocks at $1,100, but only get debited the difference (-$10M) in your m.a.
 
-- ✓ Suppose instead, after the year the S&P 500 is at $1,100 ✓ You had a short position, so you lost: 
+- ✓ But your portfolio of $100M is now worth more: $110M
 
-   - 𝜋 = Δ𝐹∙ 𝑠ℎ𝑜𝑟𝑡 #𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠∙𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 
+- ✓ So, your **total net position** ( _portfolio+future profit_ $110M - $10M = **$100M**
 
-   - `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$1,100 ∙400 ∙250 = −$10𝑀! 
+## Stock Index Futures
 
-- ✓ this will also be the total outflow from the m.a. 
+## Either way, net position is $100 million
 
-- again, it is cash settled; you never sell a portfolio of stocks at $1,100, but only get debited the difference (-$10M) in your m.a. 
+- ✓ So, you can gain/lose on futures but opposite for portfolio: that’s what the hedge is for!
 
-- ✓ But your portfolio of $100M is now worth more: $110M 
+- ✓ The portfolio is protected from **downside** risk
 
-- ✓ So, your **total net position** ( _portfolio+future profit_ $110M - $10M = **$100M** 
+- ✓ However, to accomplish this, the manager has also eliminated any **upside** potential
 
-## **Stock Index Futures** 
+- ✓ **Important lesson about hedging**: great to have it, but a hedge gone bad is very dangerous
 
-## **Either way, net position is $100 million** 
+# Summary: Forwards vs Futures
 
-- ✓ So, you can gain/lose on futures but opposite for portfolio: that’s what the hedge is for! 
-
-- ✓ The portfolio is protected from **downside** risk 
-
-- ✓ However, to accomplish this, the manager has also eliminated any **upside** potential 
-
-- ✓ **Important lesson about hedging** : great to have it, but a hedge gone bad is very dangerous 
-
-# **Summary: Forwards vs Futures** 
-
-**==> picture [688 x 312] intentionally omitted <==**
-
+## Related Notes
+- [[Lect10_exercises]]
+- [[Lect9_exercises]]
+- [[Lect12_Review_exercises_questions]]

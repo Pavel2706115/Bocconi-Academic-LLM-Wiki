@@ -1,573 +1,488 @@
-# Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Money markets (Chapter 11)** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Money markets (Chapter 11)**"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [366 x 229] intentionally omitted <==**
+# Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Money markets (Chapter 11)**
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Outline of Lecture
 
+1. Money markets `o` Definition
 
-**==> picture [354 x 229] intentionally omitted <==**
+`o` Purpose `o` Players
 
-**----- Start of picture text -----**<br>
-2-1<br>**----- End of picture text -----**<br>
+2. Money markets instruments `o` Treasury Bills
 
+`o` Federal Funds
 
-## **Outline of Lecture** 
+- Repurchase Agreements
 
-1. Money markets `o` Definition 
+- Negotiable Certificates of Deposit
 
-`o` Purpose `o` Players 
+`o` Commercial Paper `o` Eurodollars
 
-2. Money markets instruments `o` Treasury Bills 
+## Definition
 
-`o` Federal Funds 
+# ✓ We call it **“** _**money market**_ **”** ( **MM** ), because the securities in these market are (see front slide)
 
-   - Repurchase Agreements 
+`o` **short term** `o` with **high liquidity**
 
-   - Negotiable Certificates of Deposit 
+- ✓ so, they are close to being money …
 
-`o` Commercial Paper `o` Eurodollars 
+- ✓ … but money is NOT actually traded `o` (≠ foreign exchange market!)
 
-## **Definition** 
+✓ Money market instruments are generally used: `o` to fill short-term financial needs (supply side) `o` to temporally “warehouse” surplus funds (demand side) - Optional: during the Financial Crisis of 2008 many MM instruments lost their liquidity, this situation created panic (we will see it in specific lecture)
 
-# ✓ We call it **“** _**money market**_ **”** ( **MM** ), because the securities in these market are (see front slide) 
+## Definition & chars
 
-`o` **short term** `o` with **high liquidity** 
+## Three key characteristics:
 
-- ✓ so, they are close to being money … 
+## 1. Usually sold in large denominations
 
-- ✓ … but money is NOT actually traded `o` (≠ foreign exchange market!) 
+**2. Low default risk**
 
-✓ Money market instruments are generally used: `o` to fill short-term financial needs (supply side) `o` to temporally “warehouse” surplus funds (demand side) ▪ Optional: during the Financial Crisis of 2008 many MM instruments lost their liquidity, this situation created panic (we will see it in specific lecture) 
+**3. Original (=at issue) maturity of one year or less**
 
-## **Definition & chars** 
+- although vast majority matures in less than 120 days (many are even _overnight “o/n”)_
 
-## Three key characteristics: 
+`o` note: original maturity ≠ residual maturity! Ex.: a 3-year bond with 2 months left to maturity (residual maturity) is NOT a money market instrument
 
-## **1. Usually sold in large denominations** 
+- ✓ Most money market transactions are made through - -
 
-**2. Low default risk** 
+- over the counter markets (OTC)
 
-**3. Original (=at issue) maturity of one year or less** 
+- OTC Vs Organized Exchange (OE) …
 
-   - although vast majority matures in less than 120 days (many are even _overnight “o/n”)_ 
+- `o`
 
-`o` note: original maturity ≠ residual maturity! Ex.: a 3-year bond with 2 months left to maturity (residual maturity) is NOT a money market instrument 
+## Purpose (lenders)
 
-- ✓ Most money market transactions are made through - - 
+## Demand
 
-- over the counter markets (OTC) 
+- ✓ For _buyers_ of MM instruments (lenders): `o` warehouse surplus funds for short periods of time
 
-- OTC Vs Organized Exchange (OE) … 
+- `o` they accept low returns
 
-- `o` 
+`o` more interested to **liquidity**: act quickly if other investments become available
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved.… but difference recently blurred 
+- Example: over the last years, Apple has held around $50-100bn in “cash, cash equivalents and marketable securities”
 
-## **Purpose (lenders)** 
+- `o` Not just Apple: top 30 companies have >$1tn in cash
 
-## **Demand** 
+- ✓ Clearly, they do not just put all this $ in a bank account …
 
-- ✓ For _buyers_ of MM instruments (lenders): `o` warehouse surplus funds for short periods of time 
+- … they use _**money markets**_
 
-- `o` they accept low returns 
+## Purpose (borrowers)
 
-`o` more interested to **liquidity** : act quickly if other investments become available 
+## Supply
 
-   - Example: over the last years, Apple has held around $50-100bn in “cash, cash equivalents and marketable securities” 
+For _sellers_ of MM instruments (borrowers): ✓ **low-cost** source of temporary funds `o` again, not for large capital projects with high return ✓ cash management
 
-   - `o` Not just Apple: top 30 companies have >$1tn in cash 
+- the **timing** of cash inflows and outflows are not well synchronized
 
-- ✓ Clearly, they do not just put all this $ in a bank account … 
+- `o` For ex.:
 
-      - … they use _**money markets**_ 
+- Candy company pays salaries every month, but sells most of its product on Halloween
 
-## **Purpose (borrowers)** 
+- Ice cream company sells most during summer, but pays salaries every month
 
-## **Supply** 
+- Gov. collects taxes at fixed dates, but pays gov. expenditure every month
 
-For _sellers_ of MM instruments (borrowers): ✓ **low-cost** source of temporary funds `o` again, not for large capital projects with high return ✓ cash management 
+- Banks need to adjust reserves overnight at Central Bank
 
-- the **timing** of cash inflows and outflows are not well synchronized 
+- - etc…
 
-- `o` For ex.: 
+## MM Players
 
-   - Candy company pays salaries every month, but sells most of its product on Halloween 
+## Players
 
-   - Ice cream company sells most during summer, but pays salaries every month 
+## Money Market Instruments
 
-   - Gov. collects taxes at fixed dates, but pays gov. expenditure every month 
+## Money Markets instruments at glance:
 
-   - Banks need to adjust reserves overnight at Central Bank 
+1. Treasury Bills
 
-   - ▪ etc… 
+2. Federal Funds
 
-## **MM Players** 
+3. Repurchase Agreements
 
-**==> picture [718 x 369] intentionally omitted <==**
+4. Negotiable Certificates of Deposit
 
-**----- Start of picture text -----**<br>
-Sellers Buyers<br>(Lenders)<br>(Borrowers)<br>Money Market<br>Government Banks<br>Mutual Funds<br>(Treasury)<br>Corporations<br>Insurance Companies<br>Central<br>Pension Funds<br>Bank<br>**----- End of picture text -----**<br>
+5. Commercial Paper
 
+6. Eurodollars
 
-Ex.: Gov. issues Treasury bills (T-bills) to finance short term expenditure For details of use by each subject: see book and next slideCopyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Money Market Instruments: Treasury Bills
 
-## **Players** 
+✓ T-bills are **short-term** obligations issued by the U.S. Government `o` Maturity: 4-, 13-, 26-, and 52-weeks ( ≤ 1 year)
 
-**Player Name in the US Activity Government** U.S. Treasury issues T-bills, always a demander, never a Department supplier of funds **Central Bank** Federal Reserve buys/sells treasury securities to control the System money supply in the economy **Commercial Banks** hold treasury securities, issue CDs, Fed funds, bank's acepptances, repos. Trade on behalf of customers **Businesses** buy and sell various short-term securities as a regular part of their cash management **Insurance** maintain liquidity need for unexpected demands (e.g., tornadoes in US in 2015) **Companies Pension funds** temporary storage to have money readily available for investment opportunities **Money market** invest in large-denomination money market securities on behalf of many individual **mutual funds** ri ht ©2015 Pearson Education Ltd. All ri hts reserved. small investors 
+## ✓ T-bills are _discount bonds_
 
-## **Money Market Instruments** 
+`o` discounting is common to S.T. securities because historically there was little time to collect coupons
 
-## Money Markets instruments at glance: 
+## ✓ One of most liquid financial markets
 
-1. Treasury Bills 
+`o` practically **riskless** , with liquid, deep market, but with low return: earnings often barely above (and sometimes below) inflation
 
-2. Federal Funds 
+✓ Sold in auction. Two types of bidders: `o` noncompetitive bidding:  submit amount only, buy _at any_ price `o` competitive bidding:        submit amount _and_ price
 
-3. Repurchase Agreements 
+## ✓ Book entry security
 
-4. Negotiable Certificates of Deposit 
+`o` financial asset whose ownership is recorded and tracked electronically rather than through physical certificates
 
-5. Commercial Paper 
+## Money Market Instruments: Treasury Bills
 
-6. Eurodollars 
+Earnings often barely above (and sometimes below) inflation
 
-## **Money Market Instruments: Treasury Bills** 
+## Treasury Bill Auctions
 
-✓ T-bills are **short-term** obligations issued by the U.S. Government `o` Maturity: 4-, 13-, 26-, and 52-weeks ( ≤ 1 year) 
+## ✓ T-bills are sold in **auctions**:
 
-## ✓ T-bills are _discount bonds_ 
+`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market `o` Treasury announces how many and what kind of T-bills
 
-`o` discounting is common to S.T. securities because historically there was little time to collect coupons 
+## Treasury Bill Auctions
 
-## ✓ One of most liquid financial markets 
+## ✓ T-bills are sold in **auctions**:
 
-`o` practically **riskless** , with liquid, deep market, but with low return: earnings often barely above (and sometimes below) inflation 
+`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market
 
-✓ Sold in auction. Two types of bidders: `o` noncompetitive bidding:  submit amount only, buy _at any_ price `o` competitive bidding:        submit amount _and_ price 
+`o` Treasury announces how many and what kind of T-bills
 
-## ✓ Book entry security 
+✓ In a **noncompetitive** _bid_: `o` bidders only provide **only** amount, **not** price `o` Treasury automatically accepts all these bids `o` noncompetitive bidders will pay the price determined by the competitive bidders, but are **guaranteed** the amount ^qj8z3j
 
-`o` financial asset whose ownership is recorded and tracked electronically rather than through physical certificates 
+## Treasury Bill Auctions
 
-✓ Copyright ©2015 Pearson Education, Ltd. All rights reserved.Minimum amount: $100 
+## ✓ T-bills are sold in **auctions**:
 
-## **Money Market Instruments: Treasury Bills** 
+`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market
 
-Earnings often barely above (and sometimes below) inflation 
+`o` Treasury announces how many and what kind of T-bills
 
-**==> picture [704 x 397] intentionally omitted <==**
+## ✓ In a **noncompetitive** _bid_:
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-11<br>**----- End of picture text -----**<br>
+`o` bidders only provide **only** amount, **not** price `o` Treasury automatically accepts all these bids
 
+`o` noncompetitive bidders will pay the price determined by the competitive bidders, but are **guaranteed** the amount
 
-## **Treasury Bill Auctions** 
+## ✓ In a **competitive** _bid_:
 
-## ✓ T-bills are sold in **auctions** : 
+- dealers put in quantity **and** price
 
-`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market `o` Treasury announces how many and what kind of T-bills 
+`o` the bids are accepted in ascending order of yield (descending of price) until offering amount is reached
 
-## **Treasury Bill Auctions** 
+2-14
 
-## ✓ T-bills are sold in **auctions** : 
+## Treasury Bill Auctions: example
 
-`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market 
+✓ The Treasury auctioned $2.5 billion par value Maturity: 91 days (=13 weeks)
 
-`o` Treasury announces how many and what kind of T-bills 
+✓ The following bids were received:
 
-✓ In a **noncompetitive** _bid_ : `o` bidders only provide **only** amount, **not** price `o` Treasury automatically accepts all these bids `o` noncompetitive bidders will pay the price determined by the competitive bidders, but are **guaranteed** the amount 
-
-## **Treasury Bill Auctions** 
-
-## ✓ T-bills are sold in **auctions** : 
-
-`o` they are auctioned to the _primary dealers_ (about 23 banks): example of primary market 
-
-`o` Treasury announces how many and what kind of T-bills 
-
-## ✓ In a **noncompetitive** _bid_ : 
-
-`o` bidders only provide **only** amount, **not** price `o` Treasury automatically accepts all these bids 
-
-`o` noncompetitive bidders will pay the price determined by the competitive bidders, but are **guaranteed** the amount 
-
-## ✓ In a **competitive** _bid_ : 
-
-- dealers put in quantity **and** price 
-
-`o` the bids are accepted in ascending order of yield (descending of price) until offering amount is reached 
-
-`o` Treasury will then sell T-bills at the **highest** yield ( **lowest** price) among the **accepted** bids Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-2-14 
-
-## **Treasury Bill Auctions: example** 
-
-✓ The Treasury auctioned $2.5 billion par value Maturity: 91 days (=13 weeks) 
-
-✓ The following bids were received: 
-
-|a.<br> $750million innoncompetitivebids<br>b.<br>the followingcompetitivebids:|a.<br> $750million innoncompetitivebids<br>b.<br>the followingcompetitivebids:|
+|a.  $750million innoncompetitivebids b. the followingcompetitivebids:|a.  $750million innoncompetitivebids b. the followingcompetitivebids:|
 |---|---|
-|**Bidder**<br>**Bid Amount**<br>**Bid Price**<br>**Int. rate(1)**||
-|1<br>$500 million<br>$0.9940<br>2.37%<br>2<br>$750 million<br>$0.9901<br>3.92%<br>3<br>$1.5 billion<br>$0.9925<br>2.97%<br>4<br>$650 million<br>$0.9936<br>2.53%<br>5<br>$600 million<br>$0.9939<br>2.41%||
-|(1): computed as a discount  rate<br> 1<br>1<br>|0<br>1|
+|**BidderInt. rate(1)**|
+|1 $500 million $0.9940 2.37% 2 $750 million $0.9901 3.92% 3 $1.5 billion $0.9925 2.97% 4 $650 million $0.9936 2.53% 5 $600 million $0.9939 2.41%|
+|(1): computed as a discount  rate  1 1 |0 1|
 
+**Q**: Who will receive T-bills, what quantity, and at what price?
 
+## Treasury Bill Auctions: example
 
-**Q** : Who will receive T-bills, what quantity, and at what price? 
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀
 
-## **Treasury Bill Auctions: example** 
+## Treasury Bill Auctions: example
 
-**A** : 1[st] :  all non-competitive bidders receive their requested amount :  $750𝑀 
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀 2(nd): in competitive bids `o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀
 
-## **Treasury Bill Auctions: example** 
+`o` the T-bills are allotted to the highest bidders until all T-bills are sold ...
 
-**A** : 1[st] :  all non-competitive bidders receive their requested amount :  $750𝑀 2[nd] : in competitive bids `o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀 
+`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids:
 
-`o` the T-bills are allotted to the highest bidders until all T-bills are sold ... 
+## Treasury Bill Auctions: example
 
-`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids: 
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀 2(nd): in competitive bids
 
-## **Treasury Bill Auctions: example** 
+`o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀
 
-**A** : 1[st] :  all non-competitive bidders receive their requested amount :  $750𝑀 2[nd] : in competitive bids 
+`o` the T-bills are allotted to the highest bidders until all T-bills are sold …
 
-`o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀 
+`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids:
 
-`o` the T-bills are allotted to the highest bidders until all T-bills are sold … 
-
-`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids: 
-
-|**Bidder**|**Bid Amount**<br>**Bid Price**<br>**Int. rate(1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate(1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate(1)**|
+|**Bidder**|**Bid AmountInt. rate(1)**|
 |---|---|---|---|
-|1<br>5<br>**4**<br>3<br>2|$500 million<br>$600 million<br>**$650 million**<br>$1.5 billion<br>$750 million|$0.9940<br>$0.9939<br>**$0.9936**<br>$0.9925<br>$0.9901|2.37%<br>2.41%<br>**2.53%**<br>2.97%<br>3.92%|
+|1 5 **42.53%** 2.97% 3.92%|
 
+only these 3 bids are accepted: - $1,750𝑀
 
+(1): computed as a discount  rate(1   )(  0) 1 1
 
-**==> picture [32 x 79] intentionally omitted <==**
+## Treasury Bill Auctions: example
 
-only these 3 bids are accepted:  $1,750𝑀 
+✓ In practice:
 
-(1): computed as a discount  rate[1   ][  0] 1 1 
+`o` re-order bids in ascending int. rate (or descending price) `o` stop when full amount is allotted
 
-## **Treasury Bill Auctions: example** 
+## ✓ Note:
 
-✓ In practice: 
+`o` both the competitive and noncompetitive bidders pay the _highest yield_ / _**lowest** bid_ _**price**_: $0.9936
 
-`o` re-order bids in ascending int. rate (or descending price) `o` stop when full amount is allotted 
+- all T-bills were sold …
 
-## ✓ Note: 
+- … and all other bidders in **c.b.** receive no allotment
 
-`o` both the competitive and noncompetitive bidders pay the _highest yield_ / _**lowest** bid_ _**price**_ : $0.9936 
+- ✓ In this example, sum of accepted bids **in n.c.b.’s =** residual amount
 
-   - all T-bills were sold … 
+- ✓ What if sum of accepted bids **in n.c.b.’s >** residual amount ?
 
-   - … and all other bidders in **c.b.** receive no allotment 
+## Treasury Bill Auctions: example
 
-- ✓ In this example, sum of accepted bids **in n.c.b.’s =** residual amount 
+**Q**: Special case: sum of accepted bids **>** residual amount `o`: In the previous example, assume the following competitive bids
 
-- ✓ What if sum of accepted bids **in n.c.b.’s >** residual amount ? 
-
-## **Treasury Bill Auctions: example** 
-
-**Q** : Special case: sum of accepted bids **>** residual amount `o` : In the previous example, assume the following competitive bids 
-
-|**Bidder**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|
+|**Bidder**|**Bid AmountInt. rate (1)**|
 |---|---|---|---|
-|1<br>5<br>**4**<br>3<br>2|$500 million<br>$600 million<br>**$850 million**<br>$1.5 billion<br>$750million|$0.9940<br>$0.9939<br>**$0.9936**<br>$0.9925<br>$0.9901|2.37%<br>2.41%<br>**2.53%**<br>2.97%<br>3.92%|
-|(1): computed as a discount  rate||||
+|1 5 **42.53%** 2.97% 3.92%|
+|(1): computed as a discount  rate|
 
+only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 )
 
+## Treasury Bill Auctions: example
 
-**==> picture [31 x 75] intentionally omitted <==**
+**Q**: Special case: sum of accepted bids **>** residual amount `o`: In the previous example, assume the following competitive bids
 
-only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 ) 
+only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 )
 
-## **Treasury Bill Auctions: example** 
+**A**: marginal bid is “accepted in less than the full amount you want if your bid is equal to the high discount rate”
 
-**Q** : Special case: sum of accepted bids **>** residual amount `o` : In the previous example, assume the following competitive bids 
+`o` So marginal bidder (no. 4) obtains less than requested: only $650M - see: https://www.treasurydirect.gov/research-center/history-of-marketablesecurities/bills/t-bills-indepth
 
-||**Bidder**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|**Bid Amount**<br>**Bid Price**<br>**Int. rate (1)**|
-|---|---|---|---|---|
-||1<br>5<br>**4**<br>3<br>2|$500 million<br>$600 million<br>**$850 million**<br>$1.5 billion<br>$750million|$0.9940<br>$0.9939<br>**$0.9936**<br>$0.9925<br>$0.9901|2.37%<br>2.41%<br>**2.53%**<br>2.97%<br>3.92%|
-||(1): computed as a discount  rate||||
-||||||
+## Treasury Bill Auction
 
+## ✓ Summing up:
 
+- Non-competitive bids determine **quantities** for each of the two auctions, not price
 
-**==> picture [31 x 75] intentionally omitted <==**
+- Competitive bids determine **price** applied to all bidders (P*= minimum price among accepted competitive bids)
 
-only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 ) 
+- ✓ Note that to ensure competitiveness
 
-**A** : marginal bid is “accepted in less than the full amount you want if your bid is equal to the high discount rate” 
+- in a single auction, a bidder can:
 
-`o` So marginal bidder (no. 4) obtains less than requested: only $650M ▪ see: https://www.treasurydirect.gov/research-center/history-of-marketablesecurities/bills/t-bills-indepth 
+- buy up to $10 million in T-bills by non-competitive bidding
 
-## **Treasury Bill Auction** 
+## or
 
-## ✓ Summing up: 
+- buy up to 35% of the initial offering amount by competitive bidding (see: https://www.treasurydirect.gov/research-center/history-of-marketablesecurities/bills/t-bills-indepth)
 
-   - Non-competitive bids determine **quantities** for each of the two auctions, not price 
+- ✓ After buy, the primary dealers may then sell the T-bills to the public ( _secondary market_ )
 
-   - Competitive bids determine **price** applied to all bidders (P*= minimum price among accepted competitive bids) 
+## Treasury Bill Auction Results
 
-- ✓ Note that to ensure competitiveness 
+T-bills are often quoted with two different rates:
 
-   - in a single auction, a bidder can: 
+✓ _discount rate_
 
-      - buy up to $10 million in T-bills by non-competitive bidding 
+`o` in the denominator you have F rather than P: it is a bit misleading, but it is easy to calculate even without calculator
 
-## _or_ 
+✓ _investment rate_
 
-   - buy up to 35% of the initial offering amount by competitive bidding (see: https://www.treasurydirect.gov/research-center/history-of-marketablesecurities/bills/t-bills-indepth) 
+where:
 
-- ✓ After buy, the primary dealers may then sell the T-bills to the public ( _secondary market_ ) 
+𝑛: days to maturity
 
-`o` they act as the _market maker_ for the security Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+𝐹: face value: purchase price
 
-## **Treasury Bill Auction Results** 
+✓ _investment rate more accurate measure of earnings …_ `o` _denominator is actual price paid_ `o` _365 is actual number of days_
 
-T-bills are often quoted with two different rates: 
+# Treasury Bill Auction Results
 
-✓ _discount rate_ 
+## Fed Funds
 
-**==> picture [234 x 53] intentionally omitted <==**
+## ✓ **Fed Funds**: short-term funds
 
-`o` in the denominator you have F rather than P: it is a bit misleading, but it is easy to calculate even without calculator 
+`o` exchanged (loaned/borrowed) between _financial institutions_ (e.g.: banks), not Fed Gov.
 
-✓ _investment rate_ 
+`o` only some fin. Intemediaries (“banks”) can participate `o` name (“Fed”) because funds held at Federal Reserve
 
-**==> picture [225 x 53] intentionally omitted <==**
+✓ Banks lend/borrow federal funds usually _**overnight**_ (=less than 1 day!)
 
-where: 
+`o` **un** secured
 
-𝑛 : days to maturity 
+`o` direct communication between fin. institutions
 
-𝐹 : face value 
+- ✓ The “banks” use of federal funds for:
 
-: purchase price 
+`o` satisfying reserve requirements set by Fed `o` clearing of transactions (payments)
 
-✓ _investment rate more accurate measure of earnings …_ `o` _denominator is actual price paid_ `o` _365 is actual number of days_ 
+## Fed Funds
 
-# **Treasury Bill Auction Results** 
+## ✓ The interest rate is called _target/intended_ **Fed Funds rate** because that’s what the Fed wants to see
 
-**==> picture [719 x 241] intentionally omitted <==**
+- Monetary policy implemented on this market: when you read “ _The Fed has increased the interest rate to 1.25%_ ” they mean the **Fed Funds rate**
 
-## **Fed Funds** 
+`o` Fed controls _indirectly_ Fed funds rate by purchasing  or selling securities (using federal funds):
 
-## ✓ **Fed Funds** : short-term funds 
+- if Fed _**buys**_ securities, banks receive funds that deposit as reserves at Fed: supply of reserves increases and thus Fed Funds **rate ↓** - the Fed _**sells**_ securities if want Fed Funds **rate** ↑
 
-`o` exchanged (loaned/borrowed) between _financial institutions_ (e.g.: banks), not Fed Gov. 
+## ✓ The _effective_ rate
 
-`o` only some fin. Intemediaries (“banks”) can participate `o` name (“Fed”) because funds held at Federal Reserve 
+`o` determined by demand and supply between banks (weighted avg int. rate) …
 
-✓ Banks lend/borrow federal funds usually _**overnight**_ (=less than 1 day!) 
+`o` … but it moves around target (Fed target rate: see later lecture)
 
-`o` **un** secured 
+## Target Fed Funds Rate
 
-`o` direct communication between fin. institutions 
+dic-14
 
-- ✓ The “banks” use of federal funds for: 
+## Target and Effective Fed Funds Rate
 
-`o` satisfying reserve requirements set by Fed `o` clearing of transactions (payments) 
+# More recently...
 
-## **Fed Funds** 
+## Effective Fed Funds and T-Bill Rates
 
-## ✓ The interest rate is called _target/intended_ **Fed Funds rate** because that’s what the Fed wants to see 
+`o` Interest rate on federal funds tends to follow T-bill closely
 
-- Monetary policy implemented on this market: when you read “ _The Fed has increased the interest rate to 1.25%_ ” they mean the **Fed Funds rate** 
+`o` Why? Because both are short term and safe
 
-`o` Fed controls _indirectly_ Fed funds rate by purchasing  or selling securities (using federal funds) : 
+`o` The step-like shape of the Fed Funds rate is given by the stance of monetary policy
 
-▪ if Fed _**buys**_ securities, banks receive funds that deposit as reserves at Fed: supply of reserves increases and thus Fed Funds **rate ↓** ▪ the Fed _**sells**_ securities if want Fed Funds **rate** ↑ 
+## Repurchase Agreements (Repo)
 
-## ✓ The _effective_ rate 
+sells financial instrument Borrower Lender borrows funds ($X)
 
-`o` determined by demand and supply between banks (weighted avg int. rate) … 
+𝑡 1
 
-`o` … but it moves around target (Fed target rate: see later lecture) 
+## Repurchase Agreements (Repo)
 
-## **Target Fed Funds Rate** 
+sells financial instrument Borrower Lender borrows funds ($X)
 
-9 8 7 6 5 4 3 2 1 0 dic-89 dic-94 dic-99 dic-04 dic-09 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+𝑡 1
 
-dic-14 
+buys back financial instrument Borrower Lender 𝑡 2 repays funds ($X) + interest ($I)
 
-## **Target and Effective Fed Funds Rate** 
+✓ In every bond, issuer (=borrower) sells bond to borrow
 
-**==> picture [720 x 457] intentionally omitted <==**
+✓ in addition to selling the financial instrument, here issuer `o` commits to repurchase the same financial instrument … at higher price
 
-**----- Start of picture text -----**<br>
-9<br>8<br>7<br>6<br>5<br>4<br>3<br>2<br>1<br>0<br>dic-89 dic-94 dic-99 dic-04 dic-09 dic-14<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-28<br>**----- End of picture text -----**<br>
+## Repurchase Agreements (Repo)
 
+## Called “Repo”
 
-# **More recently...** 
+- ✓ It is an agreement where a financial instrument is sold and bought back (repurchased) at a specified future date and at a determined price
 
-**==> picture [714 x 341] intentionally omitted <==**
+- mostly short term (usually 3 to 14 days)
 
-## **Effective Fed Funds and T-Bill Rates** 
+`o` _example_: the borrower (say, a bank) sells financial instrument (ex.: T-bills) for $X to the lender and agrees to buy them back at a future date for **$Y(=$X+$I)>$X**
 
-`o` Interest rate on federal funds tends to follow T-bill closely 
+- ✓ Quite similar to a collateralized short-term loan
 
-`o` Why? Because both are short term and safe 
+`o` if the borrower does **not** buy back, the lender can sell the _collateral_ (typically _T-bills_ )
 
-`o` The step-like shape of the Fed Funds rate is given by the stance of monetary policy 
+`o` note that Repo market collapsed for some time in 2007-08 because collaterals lost value and investors lost trust (optional: "the run on repos")
 
-## **Repurchase Agreements (Repo)** 
+## Repurchase Agreements (Repo)**: **Repo-rate
 
-sells financial instrument Borrower Lender borrows funds ($X) 
+- ✓ The difference between $𝑋 and **P** , the market price of collateral, is called **haircut:**
 
-𝑡 1 
+𝒉𝒂𝒊𝒓𝒄𝒖𝒕 $𝑿 𝑷
 
-## **Repurchase Agreements (Repo)** 
+- ✓ often the collateral consists of government bonds (e.g.: T- bills): highly liquid, stable securities (say 2% haircut)
 
-sells financial instrument Borrower Lender borrows funds ($X) 
+## Repurchase Agreements
 
-𝑡 1 
+✓ The set-up makes a repo agreements essentially a **shortterm collateralized loan**
 
-buys back financial instrument Borrower Lender 𝑡 2 repays funds ($X) + interest ($I) 
+- ✓ This means that the lender is _**se** cured_
 
-✓ In every bond, issuer (=borrower) sells bond to borrow 
+- ✓ The repos are normally low risk because S-T and are backed by a liquid collateral. But losses can happen!
 
-✓ in addition to selling the financial instrument, here issuer `o` commits to repurchase the same financial instrument … at higher price 
+- ✓ _Differences with Fed Funds:_
 
-## **Repurchase Agreements (Repo)** 
+`o` main: repos are _secured_ loans, Fed Funds are _unsecured_ loans `o` another: _only some fin. intermediaries_ allowed to trade Fed Funds, with repos, _also non-banks_ can participate
 
-## Called “Repo” 
+## Negotiable Certificates of Deposit (CD’s)
 
-- ✓ It is an agreement where a financial instrument is sold and bought back (repurchased) at a specified future date and at a determined price 
+✓ A **bank** -issued deposit that specifies `o` the **interest** rate (fixed) `o` the **maturity** date (fixed)
 
-   - mostly short term (usually 3 to 14 days) 
+- ✓ It is a _i.e._ cannot **term deposit** , you withdraw before maturity
 
-`o` _example_ : the borrower (say, a bank) sells financial instrument (ex.: T-bills) for $X to the lender and agrees to buy them back at a future date for **$Y(=$X+$I)>$X** 
+- (as opposed to **demand deposit** )
 
-- ✓ Quite similar to a collateralized short-term loan 
+- ✓ At maturity bearer of the certificate is entitled to the principal and interest
 
-`o` if the borrower does **not** buy back, the lender can sell the _collateral_ (typically _T-bills_ ) 
+## ✓ Characteristics
 
-`o` note that Repo market collapsed for some time in 2007-08 because collaterals lost value and investors lost trust (optional: "the run on repos") 
+- large denominations, ranging from $100K to $10M
 
-## **Repurchase Agreements (Repo)** 
+- `o` buyers/lenders: wealthy individuals and institutional investors (4 ex. pension funds)
 
-: **Repo-rate** 
+`o` maturity between 14 days and 4 months
 
-$𝑌 $𝑋 𝑹𝒆𝒑𝒐𝑹𝒂𝒕𝒆 $𝑋 
+# CD Rates and T-bills
 
-- ✓ The difference between $𝑋 and **P** , the market price of collateral, is called **haircut:** 
+## Commercial Paper (CP)
 
-𝒉𝒂𝒊𝒓𝒄𝒖𝒕 $𝑿 𝑷 
+✓ _**Unsecured** promissory notes_ (a promise to pay), issued by **corporations** with maturity ≤ 270days
 
-- ✓ often the collateral consists of government bonds (e.g.: T- bills): highly liquid, stable securities (say 2% haircut) 
+- ✓ Sold on a discount basis, like T-bills
 
-## **Repurchase Agreements** 
+- ✓ Since CP is _normally_ **unsecured**
 
-✓ The set-up makes a repo agreements essentially a **shortterm collateralized loan** 
+`o` unlike bank deposits, CPs are _not insured_ ( _only by collateral if exists_ ) `o` interest rate reflects _firm’s_ level of _risk_ `o` issued only by largest and trustworthy corporations (also banks)
 
-- ✓ This means that the lender is _**se** cured_ 
+✓ Often sold directly from issuer to buyers `o` _no essentially secondary market_
 
-- ✓ The repos are normally low risk because S-T and are backed by a liquid collateral. But losses can happen! 
+`o` purchasers at first were only banks. Nowadays also others (large insurance co.’s, non-financial businesses, etc…)
 
-- ✓ _Differences with Fed Funds:_ 
+## Commercial Paper
 
-`o` main: repos are _secured_ loans, Fed Funds are _unsecured_ loans `o` another: _only some fin. intermediaries_ allowed to trade Fed Funds, with repos, _also non-banks_ can participate 
+Source: http://www.federalreserve.gov/releases/cp/yrend.htm
 
-## **Negotiable Certificates of Deposit (CD’s)** 
+## But see latest data here
 
-✓ A **bank** -issued deposit that specifies `o` the **interest** rate (fixed) `o` the **maturity** date (fixed) 
+## Eurodollars
 
-- ✓ It is a _i.e._ cannot **term deposit** , you withdraw before maturity 
+✓ Eurodollars: $ denominated deposits held in foreign banks `o` name: originally only in European banks (London) `o` history: USSR had lot of USD in US banks: risk of seize!! `o` nowadays: many contracts out of US call for payment in USD `o` short term **interbank deposits** , often _overnight_ (o/n): alternative source of short-term funding for banks
 
-- (as opposed to **demand deposit** ) 
+✓ Eurobonds: following the Eurodollar logic), they are bonds issued outside of the U.S. but typically denominated in USD (not in Euros!) `o` usually long-term debt instrument
 
-- ✓ At maturity bearer of the certificate is entitled to the principal and interest 
+## Eurodollars: Libor
 
-## ✓ Characteristics 
+✓ was The most important interbank market of Eurodollars **LIBOR** ( **London interbank offer rate** ):
 
-- large denominations, ranging from $100K to $10M 
+“ `o` _At what rate could you borrow funds, were you to do so by asking for and then accepting inter-bank offers (…) just prior to 11 am?_ ” `o` nowadays Eurodollar market is no longer just London, but worldwide `o` in many currencies: $, €, ¥, £ `o` various maturities: o/n, 1M, 3M, 6M, 12M
 
-- `o` buyers/lenders: wealthy individuals and institutional investors (4 ex. pension funds) 
+- ✓ After manipulation scandals (see optional slide) ✓ LIBOR progressively phased out and replaced ✓ last USD LIBOR rates were published at the end of Sep 2024
 
-`o` maturity between 14 days and 4 months 
+# A Comparison of Rates: all have VERY similar levels!
 
-✓ One of the most important money market instruments `o` traded in large volumes, second to T-bill only Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Money Market Securities and Their Depth
 
-# **CD Rates and T-bills** 
+## LIBOR FIXING SCANDAL (optional)
 
-**==> picture [666 x 453] intentionally omitted <==**
+✓ Since their inception, Libor rates played a fundamental role in the financial world: they were used as reference borrowing costs in financial contracts worth trillions of dollars in total
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-37<br>**----- End of picture text -----**<br>
+✓ However, in 2012, the Libor draw much attention for being at the center of a **scandal**:
 
+- it emerged that banks and traders had been manipulating it for years: they were colluding to “fix” the LIBOR
 
-## **Commercial Paper (CP)** 
+- Why? To earn money on interest rate swaps. These are basically bets that (variable) interest rates like LIBOR will go down versus some fixed rate. If you can control the variable rate, it’s an easy bet!
 
-✓ _**Unsecured** promissory notes_ (a promise to pay), issued by **corporations** with maturity ≤ 270days 
+✓ How? Only 18 banks set the $-LIBOR. If a few collude, they can manipulate the average
 
-- ✓ Sold on a discount basis, like T-bills 
+✓ In 2017, decided to discontinue it, with the official deadline to replace it being 2021. Since 2022 LIBOR no longer used as benchmark:
 
-- ✓ Since CP is _normally_ **unsecured** 
+`o` replaced with a host of different rates that were more suited to represent borrowing costs in different jurisdictions
 
-`o` unlike bank deposits, CPs are _not insured_ ( _only by collateral if exists_ ) `o` interest rate reflects _firm’s_ level of _risk_ `o` issued only by largest and trustworthy corporations (also banks) 
-
-✓ Often sold directly from issuer to buyers `o` _no essentially secondary market_ 
-
-`o` purchasers at first were only banks. Nowadays also others (large insurance co.’s, non-financial businesses, etc…) 
-
-✓ The use of CP increased significantly in the early 1980s Copyright ©2015 Pearson Education, Ltd. All rights reserved. because of the rising cost of bank loans 
-
-## **Commercial Paper** 
-
-**==> picture [646 x 354] intentionally omitted <==**
-
-Source: http://www.federalreserve.gov/releases/cp/yrend.htm 
-
-## But see latest data here 
-
-## **Eurodollars** 
-
-✓ Eurodollars: $ denominated deposits held in foreign banks `o` name: originally only in European banks (London) `o` history: USSR had lot of USD in US banks: risk of seize!! `o` nowadays: many contracts out of US call for payment in USD `o` short term **interbank deposits** , often _overnight_ (o/n): alternative source of short-term funding for banks 
-
-✓ Eurobonds: following the Eurodollar logic), they are bonds issued outside of the U.S. but typically denominated in USD [not in Euros!] `o` usually long-term debt instrument 
-
-## **Eurodollars: Libor** 
-
-✓ was The most important interbank market of Eurodollars **LIBOR** ( **London interbank offer rate** ): 
-
-“ `o` _At what rate could you borrow funds, were you to do so by asking for and then accepting inter-bank offers […] just prior to 11 am?_ ” `o` nowadays Eurodollar market is no longer just London, but worldwide `o` in many currencies: $, €, ¥, £ `o` various maturities: o/n, 1M, 3M, 6M, 12M 
-
-- ✓ After manipulation scandals (see optional slide) ✓ LIBOR progressively phased out and replaced ✓ last USD LIBOR rates were published at the end of Sep 2024 
-
-# **A Comparison of Rates: all have VERY similar levels!** 
-
-**==> picture [711 x 407] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-42<br>**----- End of picture text -----**<br>
-
-
-## **Money Market Securities and Their Depth** 
-
-**==> picture [720 x 453] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-43<br>**----- End of picture text -----**<br>
-
-
-## **LIBOR FIXING SCANDAL (optional)** 
-
-✓ Since their inception, Libor rates played a fundamental role in the financial world: they were used as reference borrowing costs in financial contracts worth trillions of dollars in total 
-
-✓ However, in 2012, the Libor draw much attention for being at the center of a **scandal** : 
-
-- it emerged that banks and traders had been manipulating it for years: they were colluding to “fix” the LIBOR 
-
-- Why? To earn money on interest rate swaps. These are basically bets that (variable) interest rates like LIBOR will go down versus some fixed rate. If you can control the variable rate, it’s an easy bet! 
-
-✓ How? Only 18 banks set the $-LIBOR. If a few collude, they can manipulate the average 
-
-✓ In 2017, decided to discontinue it, with the official deadline to replace it being 2021. Since 2022 LIBOR no longer used as benchmark: 
-
-`o` replaced with a host of different rates that were more suited to represent borrowing costs in different jurisdictions 
-
+## Related Notes
+- [[Lect5_exercises]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]
+- [[Trigari_03(Chapter 4)]]

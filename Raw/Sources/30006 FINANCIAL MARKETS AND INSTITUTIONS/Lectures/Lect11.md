@@ -1,544 +1,480 @@
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Derivatives: Options (Chapter 24)** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "✓ The option (gross) **payoff** is the amount the option pays at expiration"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Derivatives: Options (Chapter 24)**
 
-**==> picture [288 x 205] intentionally omitted <==**
+## Outline of today
 
-**----- Start of picture text -----**<br>
-13-1<br>**----- End of picture text -----**<br>
+## Options
 
+## 1. Definition
 
-## **Outline of today** 
+## 2. Types of options
 
-## Options 
+3. Payoff and profit
 
-## 1. Definition 
+4. Prices and determinants
 
-## 2. Types of options 
+## 5. Options Vs Futures
 
-3. Payoff and profit 
+## Options: Definition
 
-4. Prices and determinants 
+✓ An the holder the to an **option** gives **right** buy (or sell) _asset in the future at a underlying pre-determined price_ (the _**strike**_ or _**exercise** price_ ), _at a pre-determined date_ (at _**expiration**_ )
 
-## 5. Options Vs Futures 
+- ✓ Unlike a forward/future contract …
 
-## **Options: Definition** 
+`o` … the **holder** (or **purchaser** ) of an **option is not obliged** to make the purchase/sale of the underlying asset if this is unfavorable to him
 
-✓ An the holder the to an **option** gives **right** buy (or sell) _asset in the future at a underlying pre-determined price_ (the _**strike**_ or _**exercise** price_ ), _at a pre-determined date_ (at _**expiration**_ ) 
+- ✓ Like a forward/future contract…
 
-- ✓ Unlike a forward/future contract … 
+`o` the **writer (** or **seller** ) of an **option has** the **obligation** of complying with these terms and cannot refuse to buy/sell the asset (under unfavorable conditions)
 
-`o` … the **holder** (or **purchaser** ) of an **option is not obliged** to make the purchase/sale of the underlying asset if this is unfavorable to him 
+## Options: Definition
 
-- ✓ Like a forward/future contract… 
+- ✓ In other words, there is a fundamental **asymmetry** between the rights of _**holder**_ of an option vs. those of a _**writer**_
 
-`o` the **writer (** or **seller** ) of an **option has** the **obligation** of complying with these terms and cannot refuse to buy/sell the asset (under unfavorable conditions) 
+✓ To compensate for his/her weaker rights, the seller/writer of an option will demand a compensation, called the **option premium** (effectively, the _price_ of the option)
 
-## **Options: Definition** 
+- ✓ The buyer of the option will always have to pay the premium, no matter if she exercises the option or not
 
-- ✓ In other words, there is a fundamental **asymmetry** between the rights of _**holder**_ of an option vs. those of a _**writer**_ 
+## Types of Options
 
-✓ To compensate for his/her weaker rights, the seller/writer of an option will demand a compensation, called the **option premium** (effectively, the _price_ of the option) 
+There are two main types:
 
-- ✓ The buyer of the option will always have to pay the premium, no matter if she exercises the option or not 
+**1. Call option**: gives the _holder_ the right to _buy_ the underlying asset at the strike price within a specified period of time
 
-## **Types of Options** 
+**2. Put option**: gives the _holder_ the right to _sell_ the underlying asset at the strike price within a specified period of time
 
-There are two main types: 
+Note that you can buy/sell either type! So, it gets complicated
 
-**1. Call option** : gives the _holder_ the right to _buy_ the underlying asset at the strike price within a specified period of time 
+_**Holder Writer**_ **Lon Short ll g (buy) (se ) CALL** Right to buy Obligation to sell **PUT** Ri ht to sell Obli ion g gat to buy
 
-**2. Put option** : gives the _holder_ the right to _sell_ the underlying asset at the strike price within a specified period of time 
+## Options: Simple Example 1
 
-Note that you can buy/sell either type! So, it gets complicated 
+Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5.
 
-_**Holder Writer**_ **Lon Short ll g (buy) (se ) CALL** Right to buy Obligation to sell **PUT** Ri ht to sell Obli ion g gat to buy 
+1. The stock tomorrow is worth $120
 
-## **Options: Simple Example 1** 
+**Q**: Do you exercise the option? What is your profit?
 
-Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5. 
+## Options: Simple Example 1
 
-1. The stock tomorrow is worth $120 
+Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5.
 
-**Q** : Do you exercise the option? What is your profit? 
+1. The stock tomorrow is worth $120
 
-## **Options: Simple Example 1** 
+**Q**: Do you exercise the option? What is your profit? **A:** Yes, you exercise it because it is profitable: You can buy at $100 and sell spot at $120 Gain $120- $100-$5=$15
 
-Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5. 
+## Options: Simple Example 1
 
-1. The stock tomorrow is worth $120 
+Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5.
 
-**Q** : Do you exercise the option? What is your profit? **A:** Yes, you exercise it because it is profitable: You can buy at $100 and sell spot at $120 Gain $120- $100-$5=$15 
+2. The stock tomorrow is worth $90
 
-## **Options: Simple Example 1** 
+**Q**: Do you exercise the option? What is your profit?
 
-Before we get into more details, let’s work out a simple example. ✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5. 
+## Options: Simple Example 1
 
-2. The stock tomorrow is worth $90 
+Before we get into more details, let’s work out a simple example.
 
-**Q** : Do you exercise the option? What is your profit? 
+✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5.
 
-## **Options: Simple Example 1** 
+2. The stock tomorrow is worth $90
 
-Before we get into more details, let’s work out a simple example. 
+**Q**: Do you exercise the option? What is your profit? **A**: No, you do not You could buy at $100 but then sell at $90: avoid loss of $10 but still need to pay the premium: loss of $5
 
-✓ Suppose you have a call option with a strike price of $100, maturing tomorrow (analogous of delivery date in forwards) and a premium of $5. 
+## Options: Simple Example 2
 
-2. The stock tomorrow is worth $90 
+- Another simple example of a holder of an option ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10.
 
-**Q** : Do you exercise the option? What is your profit? **A** : No, you do not You could buy at $100 but then sell at $90: avoid loss of $10 but still need to pay the premium: loss of $5 
+1. The stock tomorrow is worth $210
 
-## **Options: Simple Example 2** 
+**Q**: Do you exercise the option? What is your profit?
 
-- Another simple example of a holder of an option ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10. 
+## Options: Simple Example 2
 
-1. The stock tomorrow is worth $210 
+Another simple example of a holder of an option
 
-**Q** : Do you exercise the option? What is your profit? 
+- ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10.
 
-## **Options: Simple Example 2** 
+1. The stock tomorrow is worth $210
 
-Another simple example of a holder of an option 
+**Q**: Do you exercise the option? What is your profit? **A:** Yes, you exercise it because it is profitable: You can buy spot (if you don’t have it yet!) at $210 and deliver at $250
 
-- ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10. 
+Gain $250 - $210-$10=$30
 
-1. The stock tomorrow is worth $210 
+## Options: Simple Example 2
 
-**Q** : Do you exercise the option? What is your profit? **A:** Yes, you exercise it because it is profitable: You can buy spot (if you don’t have it yet!) at $210 and deliver at $250 
+- Another simple example of a holder of an option ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10.
 
-Gain $250 - $210-$10=$30 
+2. The stock tomorrow is worth $325
 
-## **Options: Simple Example 2** 
+**Q**: Do you exercise the option? What is your profit?
 
-- Another simple example of a holder of an option ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10. 
+## Options: Simple Example 2
 
-2. The stock tomorrow is worth $325 
+Another simple example of a holder of an option
 
-**Q** : Do you exercise the option? What is your profit? 
+- ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10.
 
-## **Options: Simple Example 2** 
+2. The stock tomorrow is worth $325
 
-Another simple example of a holder of an option 
+**Q**: Do you exercise the option? What is your profit? **A**: No, you do not You could buy at $325 but then sell at $250: avoid loss of $75 but still need to pay the premium: loss of $10
 
-- ✓ have a Suppose you put option with a strike price of $250, maturing tomorrow and a premium of $10. 
+## Options Payoff vs Profit
 
-2. The stock tomorrow is worth $325 
+# ✓ The option (gross) **payoff** is the amount the option pays at expiration
 
-**Q** : Do you exercise the option? What is your profit? **A** : No, you do not You could buy at $325 but then sell at $250: avoid loss of $75 but still need to pay the premium: loss of $10 
+- ✓ We call the option payoff the _option_ _**value**_
 
-## **Options Payoff vs Profit** 
+- ✓ The option **profit** is the (gross) payoff …
 
-# ✓ The option (gross) **payoff** is the amount the option pays at expiration 
+`o` … **minus** the premium paid ( _long_ side: holder/purchaser) or `o` … **plus** the premium received ( _short_ side: writer/seller)
 
-- ✓ We call the option payoff the _option_ _**value**_ 
+## Profit for** _**holder**_ **(long)
 
-- ✓ The option **profit** is the (gross) payoff … 
+- ✓ **Call option**: exercise a call option only if buying at the strike price _X_ is more favorable than spot price _S_ (S>X _)_
 
-`o` … **minus** the premium paid ( _long_ side: holder/purchaser) or `o` … **plus** the premium received ( _short_ side: writer/seller) 
+- Payoff is the difference between the value _X_ and _S_ , and in any case never below zero (because if _S < X_ , you don’t exercise the option)
 
-## **Profit for** _**holder**_ **(long)** 
+𝑐𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈
 
-- ✓ **Call option** : exercise a call option only if buying at the strike price _X_ is more favorable than spot price _S_ (S>X _)_ 
+To get the profit subtract 𝑝
 
-   - Payoff is the difference between the value _X_ and _S_ , and in any case never below zero (because if _S < X_ , you don’t exercise the option) 
+## Call Payoff
 
-𝑐𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈 
+- ✓ **Put option**: exercise a put option only if selling at the strike price _X_ is more favorable than the spot price _S_ (X>S _)_
 
-**==> picture [141 x 38] intentionally omitted <==**
+- again, payoff (= _X-S)_ is never below zero (because if _S>X_ , you don’t exercise the option)
 
-**==> picture [97 x 19] intentionally omitted <==**
+- 𝑝𝑢𝑡
 
-To get the profit subtract 𝑝 
+- 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
 
-## Call Payoff 
+Put Payoff
 
-- ✓ **Put option** : exercise a put option only if selling at the strike price _X_ is more favorable than the spot price _S_ (X>S _)_ 
+## Profit from** _**holding**_ **(long) a Call
 
-   - again, payoff (= _X-S)_ is never below zero (because if _S>X_ , you don’t exercise the option) 
+## Profit from** _**holding**_ **(long) a Put
 
-      - 𝑝𝑢𝑡 
+𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 π 𝒍𝒐𝒏𝒈 X X-p Payoff X S -p Profit Memo: right to **sell**
 
-      - 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈 
+## Options: Profit for** _**writer**_ **(short)
 
-**==> picture [137 x 37] intentionally omitted <==**
+- ✓ **Call option**: writer is _**obliged** to sell_ if the buyer of the call exercises the option
 
-Put Payoff 
+`o` holder will exercise only if _S>X_ , but he/she always pays the premium `o` hence writer’s profit is: 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
 
-## **Profit from** _**holding**_ **(long) a Call** 
+- ✓ **Put option**: writer is are _obliged to buy_ if the buyer of the put exercises the option
 
-**==> picture [534 x 413] intentionally omitted <==**
+- holder will exercise only if _X>S_ , but he/she always pays the premium
 
-**----- Start of picture text -----**<br>
-𝐶𝑎𝑙𝑙<br>𝜋 = max<br>π 𝒍𝒐𝒏𝒈 𝑆−𝑋, 0 −𝑝<br>Payoff<br>Profit<br>X<br>S<br>Memo: right to  buy<br>**----- End of picture text -----**<br>
+- `o` hence writer’s profit is
 
+𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0
 
-**==> picture [33 x 28] intentionally omitted <==**
+Let’s see everything graphically
 
-**----- Start of picture text -----**<br>
--p<br>**----- End of picture text -----**<br>
+## Profit from** _**writing**_ **(short in) a Call
 
+𝐶𝑎𝑙𝑙 𝜋 𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
 
-## **Profit from** _**holding**_ **(long) a Put** 
+Profit S X Payoff Obligation to sell
 
-𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 π 𝒍𝒐𝒏𝒈 X X-p Payoff X S -p Profit Memo: right to **sell** 
+## Profit from** _**writing**_ **(short in) a Put
 
-## **Options: Profit for** _**writer**_ **(short)** 
+## Examples of Options
 
-- ✓ **Call option** : writer is _**obliged** to sell_ if the buyer of the call exercises the option 
+✓ _Callable bonds_: bonds that can be called back by the issuing corporation (recall!)… they are a _call option_ ! `o` note that the corporation decides not to exercise the option if the price of the bond (spot) is below the face value (strike price) `o` _i_ the firm pays a premium in terms of higher
 
-`o` holder will exercise only if _S>X_ , but he/she always pays the premium `o` hence writer’s profit is: 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0 
+✓ _: Stock options_ a popular compensation scheme for managers `o` call options at a strike price and at specified dates `o` in theory … it should align the incentives of manager and of the company: pay linked to performance `o` sometimes not so efficient!
 
-- ✓ **Put option** : writer is are _obliged to buy_ if the buyer of the put exercises the option 
+## Options Styles
 
-   - holder will exercise only if _X>S_ , but he/she always pays the premium 
+**1. European options:** do not allow early exercise (before expiration date)
 
-   - `o` hence writer’s profit is 
+## **2. American options:** allow early exercise
 
-𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0 
+Note: the distinction between European and American options has nothing to do with where they are traded!
 
-Let’s see everything graphically 
+**3. Exotic options:** payoff structure is determined in a nonstandard way
 
-## **Profit from** _**writing**_ **(short in) a Call** 
+- such as the average price of an underlying asset in a certain period of time ( _Asian_ option)
 
-𝐶𝑎𝑙𝑙 𝜋 𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0 
+- or _rainbow_ options (on a basket of underlying assets) with payoffs
 
-**==> picture [181 x 358] intentionally omitted <==**
+- determined by:
 
-**----- Start of picture text -----**<br>
-π<br>X<br>**----- End of picture text -----**<br>
+- best of assets max(𝑆1, … , 𝑆𝑛, 𝐾)
 
+- call on max max(max(𝑆1, … , 𝑆𝑛, ) −𝐾, 0)
 
-p 
+## Options Terminology
 
-Profit S X Payoff Obligation to sell 
+✓ _**In** the money_: exercise is profitable
 
-## **Profit from** _**writing**_ **(short in) a Put** 
+- ✓ _**At** the money_: the strike equals the current price of the asset (the option’s intrinsic value is zero),
 
-**==> picture [551 x 383] intentionally omitted <==**
+✓ _**Out**_: exercise is un _of the money_ profitable
 
-**----- Start of picture text -----**<br>
-𝑃𝑢𝑡<br>𝜋<br>π 𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0<br>Profit<br>p<br>S<br>X<br>Payoff<br>p-X<br>-X<br>Obligation to buy<br>**----- End of picture text -----**<br>
+✓ A call option is
 
+`o` _**in**_ the money `o` _**at**_ the money `o` _**out**_ of the money
 
-## **Examples of Options** 
+if S>X if S=X if S<X
 
-✓ _Callable bonds_ : bonds that can be called back by the issuing corporation (recall!)… they are a _call option_ ! `o` note that the corporation decides not to exercise the option if the price of the bond (spot) is below the face value (strike price) `o` _i_ the firm pays a premium in terms of higher 
+𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈
 
-✓ _: Stock options_ a popular compensation scheme for managers `o` call options at a strike price and at specified dates `o` in theory … it should align the incentives of manager and of the company: pay linked to performance `o` sometimes not so efficient! 
+✓ A put option is
 
-## **Options Styles** 
+`o` _**in**_ the money if X>S `o` _**at**_ the money if X=S `o` _**out**_ of the money if X<S
 
-**1. European options:** do not allow early exercise (before expiration date) 
+𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
 
-## **2. American options:** allow early exercise 
+## Options Pricing (Premium)
 
-Note: the distinction between European and American options has nothing to do with where they are traded! 
+✓ Pricing of options is a difficult business, need mathematical models (most famous _Black-Scholes-Merton_ , economics Nobel prize winners in 1997)
 
-**3. Exotic options:** payoff structure is determined in a nonstandard way 
+- ✓ We only examine the determinants of the option premium:
 
-   - such as the average price of an underlying asset in a certain period of time ( _Asian_ option) 
+**1. Strike price** ( _X_ )
 
-   - or _rainbow_ options (on a basket of underlying assets) with payoffs 
+**2. Spot price at expiration** ( _ST_ )*
 
-   - determined by: 
+**3. Volatility of underlying asset price**
 
-▪ best of assets max(𝑆1, … , 𝑆𝑛, 𝐾) 
+**4. Term to expiration**
 
-▪ call on max max(max(𝑆1, … , 𝑆𝑛, ) −𝐾, 0) 
+## Options Pricing Determinants
 
-▪ Copyright ©2015 Pearson Education, Ltd. All rights reserved.… 
+**Increase in Call option value Put option value variable (premium) (premium)** Spot price ( _ST_ ) ↑ ↓ Strike price ( _X_ ) ↓ ↑ Volatility ↑ ↑ Time to expiration ↑ ↑ ^rnnvng
 
-## **Options Terminology** 
+## Options Pricing Determinants
 
-✓ _**In** the money_ : exercise is profitable 
+**Increase in Call option value Put option value variable (premium) (premium)** Spot price ( _ST_ ) ↑ ↓ Strike price ( _X_ ) ↓ ↑ Volatility ↑ ↑ Time to expiration ↑ ↑
 
-- ✓ _**At** the money_ : the strike equals the current price of the asset (the option’s intrinsic value is zero), 
+## Options Pricing Determinants
 
-✓ _**Out**_ : exercise is un _of the money_ profitable 
+- ✓ The effects of increases in **strike and spot prices** ( _S_ and _X_ ) for call and put options have been examined in the previous slides
 
-✓ A call option is 
+- ✓ Note the opposite effects for call and put
 
-`o` _**in**_ the money `o` _**at**_ the money `o` _**out**_ of the money 
+- ✓ _Both_ **volatility** and **term to expiration** increase the value of both **call** and **put** options. Why?
 
-if S>X if S=X if S<X 
+- ✓ a call or a
 
-𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈 
+- Look at the profit function from _holding_ put option:
 
-✓ A put option is 
+## Options Pricing Determinants
 
-`o` _**in**_ the money if X>S `o` _**at**_ the money if X=S `o` _**out**_ of the money if X<S 
+## ✓ **Volatility**
 
-𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈 
+`o` can **only** have a **positive effect**: `o` the greater the chance of spot price (S) increase, the greater your expected profit
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. _perspective of the holder, not of the writer_ 
+`o` the greater chance of S decrease does not matter: you can always decide NOT to exercise the option
 
-## **Options Pricing (Premium)** 
+✓ **Term to expiration** (same logic) `o` it only increases the chance of a positive gain … `o` … with no impact on losses, capped at _-p_
 
-✓ Pricing of options is a difficult business, need mathematical models (most famous _Black-Scholes-Merton_ , economics Nobel prize winners in 1997) 
+✓ These two results are given by the _non-linearity_ of the profit function (it is kinked!) `o` e.g.: can decide not to exercise option …not so for futures!
 
-- ✓ We only examine the determinants of the option premium: 
+## Options: Hedging Exercise
 
-   **1. Strike price** ( _X_ ) 
+- Let’s see how hedging with options would work ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500.
 
-   **2. Spot price at expiration** ( _ST_ )* 
+**Q**: are you _long_ or short in stocks? What type of risk do you want hedge?
 
-   **3. Volatility of underlying asset price** 
+**A**: you’re _long_ in stocks; want hedge a fall in S&P500 price
 
-   **4. Term to expiration** 
+✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M **Q**: What do you buy to hedge?
 
-*: specification of S “at expiration” only matters for European options, not for American ones.Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+**A**: you buy the put: guarantee that your portfolio is worth at least $90M….
 
-## **Options Pricing Determinants** 
+## Options: Hedging Exercise
 
-**Increase in Call option value Put option value variable (premium) (premium)** Spot price ( _ST_ ) ↑ ↓ Strike price ( _X_ ) ↓ ↑ Volatility ↑ ↑ Time to expiration ↑ ↑ 
+Let’s see how hedging with options would work
 
-## **Options Pricing Determinants** 
+- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500.
 
-**Increase in Call option value Put option value variable (premium) (premium)** Spot price ( _ST_ ) ↑ ↓ Strike price ( _X_ ) ↓ ↑ Volatility ↑ ↑ Time to expiration ↑ ↑ 
+**Q**: are you _long_ or short in stocks? What type of risk do you want hedge?
 
-## **Options Pricing Determinants** 
+- **A**: you’re _long_ in stocks; want hedge a fall in S&P500 price
 
-- ✓ The effects of increases in **strike and spot prices** ( _S_ and _X_ ) for call and put options have been examined in the previous slides 
+✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M **Q**: What do you buy to hedge? **A**: you buy the put: guarantee that your portfolio is worth at least $90M….
 
-- ✓ Note the opposite effects for call and put 
+## Options: Hedging Exercise
 
-- ✓ _Both_ **volatility** and **term to expiration** increase the value of both **call** and **put** options. Why? 
+Let’s see how hedging with options would work
 
-- ✓ a call or a 
+- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500.
 
-- Look at the profit function from _holding_ put option: 
+- **Q**: are you _long_ or short in stocks? What type of risk do you
 
-**==> picture [364 x 75] intentionally omitted <==**
+- want hedge?
 
-✓ There are potentially large gains, but only limited losses ( _-p_ Copyright ©2015 Pearson Education, Ltd. All rights reserved.at worst) 
+- **A**: you’re _long_ in stocks; want hedge a fall in S&P500 price
 
-## **Options Pricing Determinants** 
+- ✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M
 
-## ✓ **Volatility** 
+**Q**: What do you buy to hedge?
 
-`o` can **only** have a **positive effect** : `o` the greater the chance of spot price (S) increase, the greater your expected profit 
+**A**: you buy the put: guarantee that your portfolio is worth at least $90M….
 
-`o` the greater chance of S decrease does not matter: you can always decide NOT to exercise the option 
+## Options: Hedging Exercise
 
-✓ **Term to expiration** (same logic) `o` it only increases the chance of a positive gain … `o` … with no impact on losses, capped at _-p_ 
+Let’s see how hedging with options would work
 
-✓ These two results are given by the _non-linearity_ of the profit function (it is kinked!) `o` e.g.: can decide not to exercise option …not so for futures! 
+- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500.
 
-## **Options: Hedging Exercise** 
+- **Q**: are you _long_ or short in stocks? What type of risk do you
 
-- Let’s see how hedging with options would work ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500. 
+- want hedge?
 
-**Q** : are you _long_ or short in stocks? What type of risk do you want hedge? 
+- **A**: you’re _long_ in stocks; want hedge a fall in S&P500 price
 
-**A** : you’re _long_ in stocks; want hedge a fall in S&P500 price 
+- ✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M
 
-✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M **Q** : What do you buy to hedge? 
+- **Q**: What do you buy to hedge?
 
-**A** : you buy the put: guarantee that your portfolio is worth at least $90M…. 
+- **A**: you buy the put: guarantee that your portfolio is worth at least $90M ...
 
-… because you have the asset, so want to protect from downside risk (if Copyright ©2015 Pearson Education, Ltd. All rights reserved.you didn’t have it you’d buy a call) 13-29 
+## Options: Example of NOT hedging
 
-## **Options: Hedging Exercise** 
+- ✓ In the previous example, had you bought the call, you’d be instead betting that the S&P500 will rise!
 
-Let’s see how hedging with options would work 
+- ✓ This can increase your gains!
 
-- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500. 
+- ✓ _SoftBank bought nearly $4 billion of shares in tech giants such as Amazon.com Inc., Microsoft Corp. and Netflix Inc. this spring, plus a stake in Tesla. Not included in those disclosures is the massive options trade (…) SoftBank bought a roughly equal amount of call options tied to the underlying shares it bought, as well as on other names, according to people familiar with the matter._
 
-**Q** : are you _long_ or short in stocks? What type of risk do you want hedge? 
+- ✓ _- th WSJ, September 5 , 2020_
 
-- **A** : you’re _long_ in stocks; want hedge a fall in S&P500 price 
+## Options: Hedging Exercise
 
-✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M **Q** : What do you buy to hedge? **A** : you buy the put: guarantee that your portfolio is worth at least $90M…. 
+# ✓ Suppose the portfolio is worth $120M at maturity
 
-… because you have the asset, so want to protect from downside risk (if Copyright ©2015 Pearson Education, Ltd. All rights reserved.you didn’t have it you’d buy a call) 13-30 
+## **Q**: Do you exercise your put option? What is your profit?
 
-## **Options: Hedging Exercise** 
+13-34
 
-Let’s see how hedging with options would work 
+## Options: Hedging Exercise
 
-- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500. 
+✓ Suppose the portfolio is worth $120M at maturity
 
-   - **Q** : are you _long_ or short in stocks? What type of risk do you 
+**Q**: Do you exercise your put option? What is your profit?
 
-   - want hedge? 
+- **A**: The put has strike price that is _lower_ than spot at maturity ( _X<S_ or $100M<$120M): choose not to exercise it
 
-   - **A** : you’re _long_ in stocks; want hedge a fall in S&P500 price 
+## Options: Hedging Exercise
 
-- ✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M 
+✓ Suppose the portfolio is worth $70M at maturity
 
-**Q** : What do you buy to hedge? 
+## **Q**: Do you exercise your put option? What is your profit?
 
-**A** : you buy the put: guarantee that your portfolio is worth at least $90M…. 
+13-36
 
-… because you have the asset, so want to protect from downside risk (if Copyright ©2015 Pearson Education, Ltd. All rights reserved.you didn’t have it you’d buy a call) 13-31 
+## Options: Hedging Exercise
 
-## **Options: Hedging Exercise** 
+✓ Suppose the portfolio is worth $70M at maturity
 
-Let’s see how hedging with options would work 
+**Q**: Do you exercise your put option? What is your profit?
 
-- ✓ Suppose you have $100M in a stock portfolio indexed to the S&P500. 
+## Options: Hedging Exercise
 
-   - **Q** : are you _long_ or short in stocks? What type of risk do you 
+## Key idea of hedging with a put
 
-   - want hedge? 
+- ✓ If things turn badly …
 
-   - **A** : you’re _long_ in stocks; want hedge a fall in S&P500 price 
+- … you _capped_ your portfolio value at $90M, by paying the premium of $1M
 
-- ✓ You can buy a put with strike price $90M or a call with strike price $110M. Both have a p=$1M 
+- ✓ If things turn well …
 
-   - **Q** : What do you buy to hedge? 
+`o` … you have also reduced your profits by only $1M.
 
-   - **A** : you buy the put: guarantee that your portfolio is worth at least $90M ... 
+- ✓ Put option here works like an _insurance_ . This is why it is called _**protective put**_
 
-… because you have the asset, so want to protect from downside risk (if Copyright ©2015 Pearson Education, Ltd. All rights reserved.you didn’t have it, you’d buy a call) 13-32 
+## Options: Hedging Exercise
 
-## **Options: Example of NOT hedging** 
+## ✓ Recap
 
-- ✓ In the previous example, had you bought the call, you’d be instead betting that the S&P500 will rise! 
-
-- ✓ This can increase your gains! 
-
-**==> picture [685 x 59] intentionally omitted <==**
-
-- ✓ _SoftBank bought nearly $4 billion of shares in tech giants such as Amazon.com Inc., Microsoft Corp. and Netflix Inc. this spring, plus a stake in Tesla. Not included in those disclosures is the massive options trade […] SoftBank bought a roughly equal amount of call options tied to the underlying shares it bought, as well as on other names, according to people familiar with the matter._ 
-
-- ✓ _- th WSJ, September 5 , 2020_ 
-
-## **Options: Hedging Exercise** 
-
-# ✓ Suppose the portfolio is worth $120M at maturity 
-
-## **Q** : Do you exercise your put option? What is your profit? 
-
-**A** : The put has strike price that is _lower_ than spot at maturity ( _X<S_ or $100M<$120M): choose not to exercise it Profit from the option is –p =– $1M **Total** profit (portfolio+option): ($120M – $100M) – $1M= $19M Total value = $120M - $1M = $119M Had you **not** bought the option, total value would be $120 So, from $100M to $119M, not $120M: _hedge value_ = $120M - $1190M = $1M Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-13-34 
-
-## **Options: Hedging Exercise** 
-
-✓ Suppose the portfolio is worth $120M at maturity 
-
-**Q** : Do you exercise your put option? What is your profit? 
-
-- **A** : The put has strike price that is _lower_ than spot at maturity ( _X<S_ or $100M<$120M): choose not to exercise it 
-
-Profit from the option is –p =– $1M **Total** profit (portfolio+option): ($120M – $100M) – $1M= $19M Total value = $120M - $1M = $119M Had you **not** bought the option, total value would be $120 So, from $100M to $119M, not $120M: _hedge value_ = $120M - $119M = $1M Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Options: Hedging Exercise** 
-
-✓ Suppose the portfolio is worth $70M at maturity 
-
-## **Q** : Do you exercise your put option? What is your profit? 
-
-**A** : The put has strike price that is _higher_ than spot at maturity ( _X>S_ or $100M>$70M): choose to exercise put Profit from the option: _X-S – p_ = $90M - $70M - $1M = $19M **Total** profit (portfolio+option): ($70 – $100) + $19   = -$11M Equivalently, since you sell for $90: $90 - $100 - $1= -$11M Total value = $70M + $19M = $89M Had you **not** bought the option, total value would be $70 So from $100M to $89M, not $70M: Copyright ©2015 Pearson Education, Ltd. All rights reserved. _hedge value_ = $89M - $70M = $19M 
-
-13-36 
-
-## **Options: Hedging Exercise** 
-
-✓ Suppose the portfolio is worth $70M at maturity 
-
-**Q** : Do you exercise your put option? What is your profit? 
-
-**A** : The put has strike price that is _higher_ than spot at maturity ( _X>S_ or $100M>$70M): choose to exercise put Profit from the option: _X-S – p_ = $90M - $70M - $1M = $19M **Total** profit (portfolio+option): ($70 – $100) + $19   = -$11M Equivalently, since you sell for $90: $90 - $100 - $1= -$11M Total value = $70M + $19M = $89M Had you **not** bought the option, total value would be $70 So from $100M to $89M, not $70M: Copyright ©2015 Pearson Education, Ltd. All rights reserved. _hedge value_ = $89M - $70M = $19M 
-
-## **Options: Hedging Exercise** 
-
-## **Key idea of hedging with a put** 
-
-- ✓ If things turn badly … 
-
-   - … you _capped_ your portfolio value at $90M, by paying the premium of $1M 
-
-- ✓ If things turn well … 
-
-`o` … you have also reduced your profits by only $1M. 
-
-- ✓ Put option here works like an _insurance_ . This is why it is called _**protective put**_ 
-
-## **Options: Hedging Exercise** 
-
-## ✓ Recap 
-
-|ecap||||
+|ecap|
 |---|---|---|---|
-|||case (1)|case (2)|
-|||ST≥X|ST<X|
-|Spot price at t=0 (S0)||100|100|
-|Strike price (X)||90|90|
-|Spot price at  t=T (ST)||120|70|
-|Value of put option (pput)|-p= -1||X - ST- p = 90 - 70 - 1  = 19|
-|Total profit (pTOT=DS +pput)|= (120 - 100) - 1 =19||=(70 - 100) + 19 = - 11|
+|case (1)|case (2)|
+|ST≥X|ST<X|
+|Spot price at t=0 (S0)|100|100|
+|Strike price (X)|90|90|
+|Spot price at  t=T (ST)|120|70|
+|Value of put option (pput)|-p= -1|X - ST- p = 90 - 70 - 1  = 19|
+|Total profit (pTOT=DS +pput)|= (120 - 100) - 1 =19|=(70 - 100) + 19 = - 11|
 |Final value (S0+pTOT)|= 100 +|19 = 119|= 100 - 11 = 89|
 |Final value (alternative)|(ST- p)|= 120 - 1 = 119|(X - p) = 90 - 1 = 89|
+*(See also: [[Lect11_exercises#^n7aww9]])*
 
+## Options: Hedging Exercise
 
+✓ In general, the **additional value** of buying the **put** option 𝑆 compared to **not buying it** (where 𝑇 is spot price of portfolio at maturity)
 
-## **Options: Hedging Exercise** 
+## Example of speculation
 
-✓ In general, the **additional value** of buying the **put** option 𝑆 compared to **not buying it** (where 𝑇 is spot price of portfolio at maturity) 
+11 April 2017
 
-**==> picture [440 x 181] intentionally omitted <==**
+## Recap on Options
 
-**----- Start of picture text -----**<br>
-𝑺 <90 𝑺 ≥90<br>𝑻 𝑻<br>Portfolio 𝑆 𝑆<br>𝑇 𝑇<br>Put 90- 𝑆 -1 -1<br>𝑇<br>Total 90-1 𝑆 -1<br>𝑇<br>**----- End of picture text -----**<br>
+✓ _Just check out the profit functions from before:_
 
+𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈 𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
 
-## **Example of speculation** 
+_potentially …_ _**limited** losses holder or large gains_
 
-11 April 2017 
+𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
 
-## **Recap on Options** 
+_potentially …_ _**large** losses or limited gains_
 
-✓ _Just check out the profit functions from before:_ 
+_writer_
 
-𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈 𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈 
+## Options Vs Futures
 
-**==> picture [56 x 105] intentionally omitted <==**
+## ✓ Futures are **one-sided bets**:
 
-_potentially …_ _**limited** losses holder or large gains_ 
+`o` you gain if the bet is correct and lose otherwise `o` same is true for the counterparty
 
-𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0 
+- ✓ **a**
 
-**==> picture [56 x 105] intentionally omitted <==**
+- Options are **symmetric bets**
 
-_potentially …_ _**large** losses or limited gains_ 
+- ✓ the **buyer** of the option will experience:
 
-_writer_ 
+- **large** gains if his/her bet is correct
 
-## **Options Vs Futures** 
+- `o` **limited losses** if his/her bet is incorrect
 
-## ✓ Futures are **one-sided bets** : 
+- ✓ the **seller** of the option will experience: `o` **limited gains** if his/her bet is correct `o` **large losses** if his/her bet is incorrect
 
-`o` you gain if the bet is correct and lose otherwise `o` same is true for the counterparty 
+- ✓ _Just check out the profit functions from each case!_
 
-- ✓ **a** 
+## Options Vs Futures
 
-- Options are **symmetric bets** 
+## Once again:
 
-- ✓ the **buyer** of the option will experience: 
+## ✓ Future is an obligation for both parties
 
-   - **large** gains if his/her bet is correct 
+## ✓ Options
 
-   - `o` **limited losses** if his/her bet is incorrect 
+`o` give a right to the option holder `o` but it is an obligation for the option writer (if the holder requests it)
 
-- ✓ the **seller** of the option will experience: `o` **limited gains** if his/her bet is correct `o` **large losses** if his/her bet is incorrect 
+- ✓ Futures are **costless** to initiate `o` no cash is exchanged until the position is closed
 
-   - ✓ _Just check out the profit functions from each case!_ 
+- ✓ Options are **not costless** to initiate `o` the buyer has to pay the seller an **option premium**
 
-   - Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Options Vs Futures** 
-
-## Once again: 
-
-## ✓ Future is an obligation for both parties 
-
-## ✓ Options 
-
-`o` give a right to the option holder `o` but it is an obligation for the option writer (if the holder requests it) 
-
-- ✓ Futures are **costless** to initiate `o` no cash is exchanged until the position is closed 
-
-- ✓ Options are **not costless** to initiate `o` the buyer has to pay the seller an **option premium** 
-
+## Related Notes
+- [[Lect11_exercises]]
+- [[Lect23_Questions_Answers]]
+- [[Lect12_Review_exercises_answers]]

@@ -1,496 +1,332 @@
-## THE CRISIS OF CAPITALISM PART 1 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "14_The 1929 financial Crisis"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Alfani-Colli 10.2 -10.3 Part of Feinstein et al. Chapter 8 Sonia Schifano a.y. 2025/2026 
+## THE CRISIS OF CAPITALISM PART 1
 
-## IN THIS CLASS 
+Alfani-Colli 10.2 -10.3 Part of Feinstein et al. Chapter 8 Sonia Schifano a.y. 2025/2026
 
-- The Course of the Crisis 
+## IN THIS CLASS
 
-- Propagation of the Great Crisis 
+- The Course of the Crisis
 
-- Economic consequences of the 
+- Propagation of the Great Crisis
 
-Great Crisis 
+- Economic consequences of the
 
-**==> picture [275 x 347] intentionally omitted <==**
+Great Crisis
 
-**==> picture [292 x 347] intentionally omitted <==**
+## THE BACKGROUND…
 
-a.y. 2025/2026 
+## Wholesale price index (1929 = 100)
 
-30067 
+- In the United States, the signs of the impending outbreak of an economic crisis were evident in 1928:
 
-2 
+- prices began to fall (indicating the existence of overproduction problems in many industries)
 
-## THE BACKGROUND… 
+- agriculture came to a standstill
 
-## **Wholesale price index (1929 = 100)** 
+- the construction sector slowed down
 
-**==> picture [408 x 270] intentionally omitted <==**
+WHY?
 
-**----- Start of picture text -----**<br>
-120<br>110<br>100<br>90<br>80<br>70<br>60<br>50<br>1926 1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938<br>France Germany UK USA<br>**----- End of picture text -----**<br>
+Source: League of Nations, Statistical Yearbook 1937-38
 
+## THE BACKGROUND...THE GREAT BULL MKT
 
-- In the United States, the signs of the impending outbreak of an economic crisis were evident in 1928: 
+## NYSE market index
 
-   - prices began to fall (indicating the existence of overproduction problems in many industries) 
+- But the very same time:
 
-   - agriculture came to a standstill 
+- profits continued to grow
 
-   - the construction sector slowed down 
+- access to credit was not expensive
 
-WHY? 
+- much of the financial wealth took the path of speculative investments
 
-Source: League of Nations, Statistical Yearbook 1937-38 
+- speculative investments abounded on the stock market
 
-a.y. 2025/2026 
+Source: Kindleberger (1986), _The World in Depression, 1929-1939_
 
-30067 
+## THE GREAT BULL MKT …THE BUBBLE
 
-3 
+- The crash was the result of a structural weakness in the US credit system.
 
-## THE BACKGROUND...THE GREAT BULL MKT 
+- The US banking system was characterised by the presence of many credit institutions that were not controlled by the Fed (= Federal Reserve = US Central Bank)
 
-## **NYSE market index** 
+- The stock market system was constantly expanding due to:
 
-**==> picture [164 x 335] intentionally omitted <==**
+- speculation by large operators
 
-- But the very same time: 
+- high appetite for risk (easy credit)
 
-   - profits continued to grow 
+- investment trusts o perating with few rules and little transparency
 
-   - access to credit was not expensive 
+The vitality of the stock market had spread **the perception that the economy was healthy** but in reality the value of share prices was not linked to the ability of companies to produce profits….
+*(See also: [[13_Economic Instability#^a1jtyx]])*
 
-   - much of the financial wealth took the path of speculative investments 
+## WALL STREET CRASH OF 1929
 
-   - speculative investments abounded on the stock market 
+To avoid the worst, the Fed raised interest rates to bring stock market speculation under control
 
-Source : Kindleberger (1986), _The World in Depression, 1929-1939_ 
+## The result was:
 
-a.y. 2025/2026 
+- the attraction of new capitals to New York
 
-30067 
+- weakening the gold stock on European countries
 
-4 
+On 24 October and 29 October 1929 two waves of selling on the Wall Street stock market brought the system to its knees.
 
-## THE GREAT BULL MKT …THE BUBBLE 
+Cause or Result?
 
-- The crash was the result of a structural weakness in the US credit system. 
+## NYSE market index
 
-- The US banking system was characterised by the presence of many credit institutions that were not controlled by the Fed (= Federal Reserve = US Central Bank) 
+Source: Kindleberger (1986), _The World in Depression, 1929-1939_
 
-- The stock market system was constantly expanding due to: 
+## WALL STREET CRASH OF 1929
 
-   - speculation by large operators 
+- The withdrawal of capital from the New York market was tumultuous and involved both American and foreign investors.
 
-   - high appetite for risk (easy credit) 
+- Many companies feared the worst and started a liquidity race and began to cut their spending.
 
-   - investment trusts o perating with few rules and little transparency 
+- Production collapsed dramatically:
 
-The vitality of the stock market had spread **the perception that the economy was healthy** but in reality the value of share prices was not linked to the ability of companies to produce profits…. 
+- in the automobile industry, for instance, it went from 440.000 units in August 1929 to 92.500 in December on the same year.
 
-a.y. 2025/2026 
+- As economic conditions deteriorated, firms found it increasingly difficult to repay their debt.
 
-30067 
+- Banks then:
 
-5 
+- called in their loans ⟶ further difficulties for firms
 
-## WALL STREET CRASH OF 1929 
+- ⟶
 
-To avoid the worst, the Fed raised interest rates to bring stock market speculation under control 
+- experienced bank runs from depositors liquidity/solvency at risk
 
-## The result was: 
+- failed
 
-- the attraction of new capitals to New York 
+- ⟶ net loss for the economy (the banks’ role as intermediaries was lost)
 
-- weakening the gold stock on European countries 
+- ⟶ loss of savings for depositors
 
-**==> picture [331 x 165] intentionally omitted <==**
+## WALL STREET CRASH OF 1929
 
-On 24 October and 29 October 1929 two waves of selling on the Wall Street stock market brought the system to its knees. 
+The immediate consequence were
 
-LIQUIDITY RACE 
+- The fall of American prices
 
-Cause or Result? 
+- The stop of international trade
 
-a.y. 2025/2026 
+- reduced by 70%
 
-30067 
+- - The crisis reached Europe
 
-6 
+Commercial Balance was at risk:
 
-## **NYSE market index** 
+- Introduction of new tariffs - protectionism
 
-**==> picture [329 x 292] intentionally omitted <==**
+- Reduction of production
 
-**==> picture [518 x 350] intentionally omitted <==**
+Source: Steindl, Frank. “Economic Recovery in the Great Depression”, 2008
 
-Source : Kindleberger (1986), _The World in Depression, 1929-1939_ 
+## THE GREAT DEPRESSION: TRADE
 
-a.y. 2025/2026 
+## World trade decline during the Great Depression (in US$ m)
 
-30067 
+Why protectionism?
 
-7 
+Bilateral Clearing agreement to control the commercial balance and to avoid that currency would leave the country.
 
-## WALL STREET CRASH OF 1929 
+## ….USA INTEREST RATES IN THE LATE 1920s
 
-- The withdrawal of capital from the New York market was tumultuous and involved both American and foreign investors. 
+But rising the interest rates in the main capital exporter has consequences on the balance of payments of capital importing countries…
 
-- Many companies feared the worst and started a liquidity race and began to cut their spending. 
+USA increase interest rate to curb stock market boom:
 
-- Production collapsed dramatically: 
+1. Interest rate hike contributed to initial (mild) domestic US recession
 
-   - in the automobile industry, for instance, it went from 440.000 units in August 1929 to 92.500 in December on the same year. 
+- consumer credit in the 1920
 
-- As economic conditions deteriorated, firms found it increasingly difficult to repay their debt. 
+2. It jeopardised the delicate equilibrium of European countries’ gold standard
 
-- Banks then: 
+## GREAT DEPRESSION AND GS
 
-   - called in their loans ⟶ further difficulties for firms 
+- After WWI and in the 1920s, most European countries had a trade deficit. Still, they went back to Gold Standard.
 
-   - ⟶ 
+- But trade deficit is just one component of balance of payments (current account)
 
-   - experienced bank runs from depositors liquidity/solvency at risk 
+- A balance of payment can be “balanced” even if the current account is in deficit. How?
 
-   - failed 
+- With a surplus in the capital account! I.e. imports of goods >exports of goods, but imports of capital > exports of capital
 
-      - ⟶ net loss for the economy (the banks’ role as intermediaries was lost) 
+- How to attract capital? High interest rates, or at least higher interest rates than capital export countries
 
-      - ⟶ loss of savings for depositors 
+- If you have a trade deficit and you cannot attract capital:
 
-a.y. 2025/2026 
+- Deflation and restore competitiveness
 
-30067 
+- Drain your reserves (i.e. outflow of gold from the country)
 
-8 
+- Suspend convertibility (abandon Gold Standard)
 
-## WALL STREET CRASH OF 1929 
+## THE TRANSMISSION TO EUROPE?
 
-The immediate consequence were 
+- If the USA is in recession, this affects Europe because the USA will import less European goods, but that’s not all:
 
-- The fall of American prices 
+- The equilibrium of (many) European balance of payments was based on US exporting capitals
 
-- The stop of international trade 
+- Furthermore, German growth was relying on US capital exports, and Germany was key for European growth
 
-   - reduced by 70% 
+- This system relied on the fact that interest rates were higher in Germany and in Europe than in the USA
 
-- The crisis reached Europe 
+- When the USA raise the interest rates, the capital flow stops… because now it is as profitable to invest money in the US economy
 
-Commercial Balance was at risk: 
+- However, German economy had its own domestic problems and was already heading towards a recession anyway. The capital inflow stop worsened the situation
 
-**==> picture [556 x 209] intentionally omitted <==**
+## GREAT DEPRESSION: DEFLATION
 
-- Introduction of new tariffs  protectionism 
+## Particularly pernicious was deflation, i.e. the protracted decline in prices:
 
-- Reduction of production 
+- in industrial countries it discouraged investment and postponed consumption
 
-a.y. 2025/2026 
+- in primary goods-producing countries it caused export revenues to plummet and made it more difficult to pay foreign debt
 
-30067 
+- more generally, deflation weakened the ability of debtors to repay debt, causing problems for creditors and the banking system
 
-9 
+- in the relatively interdependent world of the 1920s, the slowdown of one economy affected the others in a downward spiral
 
-**==> picture [475 x 392] intentionally omitted <==**
+## THE GREAT DEPRESSION:
 
-Source: Steindl, Frank. “Economic Recovery in the Great Depression”, 2008 
+- In Europe the crisis became particularly intense in 1931.
 
-a.y. 2025/2026 
+- Financial panic spread in the wake of the bankruptcy of the Austrian _Credit Anstalt_ and the German currency crisis.
 
-30067 
+- The reaction to the crisis was uncoordinated and disjointed.
 
-10 
+Each government took its own decisions unilaterally, without thinking about the (possible) repercussions on other parties.
 
-**==> picture [802 x 442] intentionally omitted <==**
+- In September 1931 Great Britain abandoned the gold standard
 
-a.y. 2025/2026 
+- In 1932 it abandoned free trade by adopting the so-called ‘imperial preference’ (Ottawa Conference).
 
-30067 
+The protectionist spiral contributed to the collapse of world trade and pushed many countries towards forms of autarchy.
 
-11 
+## WHY DID BRITAIN LEAVE GOLD?
 
-## THE GREAT DEPRESSION: TRADE 
+## UNDERLYING STRUCTURAL WEAKNESSES:
 
-## **World trade decline during the Great Depression (in US$ m)** 
+## Balance of Payments Problems:
 
-Why protectionism? 
+- Sterling overvalued by about 10% due to 1925 return to pre-war parity
 
-Bilateral Clearing agreement to control the commercial balance and to avoid that currency would leave the country. 
+- Collapse in export earnings (volume of exports 20% below 1913 level)
 
-**==> picture [527 x 331] intentionally omitted <==**
+- Current account: persistent deficits
 
-a.y. 2025/2026 
+- Capital account: heavy short-term liabilities offset against long-term assets
 
-30067 
+- Colonies and dominions drawing down sterling balances due to falling commodity prices
 
-12 
+## Domestic Factors:
 
-## ….USA INTEREST RATES IN THE LATE 1920s 
+- High budget deficit raised concerns about financial stability
 
-**==> picture [420 x 297] intentionally omitted <==**
+- Bank of England's gold reserves insufficient relative to short-term liabilities
 
-But rising the interest rates in the main capital exporter has consequences on the balance of payments of capital importing countries… 
+- Government unwilling to impose further deflation given high unemployment
 
-USA increase interest rate to curb stock market boom: 
+## THE LAUSANNE CONFERENCE OF 1932
 
-1. Interest rate hike contributed to initial (mild) domestic US recession 
+Europe was crippled by debt and economic collapse.
 
-   - consumer credit in the 1920 
+- Germany could no longer meet its World War I reparations, and earlier attempts.
 
-2. It jeopardised the delicate equilibrium of European countries’ gold standard 
+- In June 1932, the major European powers gathered in Lausanne to seek a lasting solution:
 
-a.y. 2025/2026 
+- France insisted on maintaining its right to reparations, fearing domestic backlash.
 
-30067 
+- Britain and Italy supported Germany’s demand for cancellation, arguing that Europe’s recovery depended on relieving Germany’s burden.
 
-13 
+- The United States, while not directly part of the reparations system, refused to negotiate war debts,
 
-## GREAT DEPRESSION AND GS 
+- undermining any broader agreement.
 
-- After WWI and in the 1920s, most European countries had a trade deficit. Still, they went back to Gold Standard. 
+- The resulting Lausanne Convention effectively ended German reparations. Germany was to deposit bonds
 
-- But trade deficit is just one component of balance of payments (current account) 
+- worth 3 billion marks, but these were never issued.
 
-- A balance of payment can be “balanced” even if the current account is in deficit. How? 
+## THE LONDON CONFERENCE OF 1933
 
-   - With a surplus in the capital account! I.e. imports of goods >exports of goods, but imports of capital > exports of capital 
+In 1933, representatives from 66 nations gathered in London to restore global economic stability through currency cooperation, trade revival, and recovery policies. ^53ey9f
 
-   - How to attract capital? High interest rates, or at least higher interest rates than capital export countries 
+-:
 
-- If you have a trade deficit and you cannot attract capital: 
+- France and other gold-standard countries
 
-   - Deflation and restore competitiveness 
+- wanted to stabilize exchange rates and return to gold
 
-   - Drain your reserves (i.e. outflow of gold from the country) 
+-:
 
-   - Suspend convertibility (abandon Gold Standard) 
+- Britain, having devalued sterling in 1931
 
-a.y. 2025/2026 
+- sought flexible exchange policies to boost trade
 
-30067 
+- The United States, under President Franklin D. Roosevelt:
 
-14 
+- prioritized domestic recovery through inflationary policies and rejected a premature return to gold
 
-## THE TRANSMISSION TO EUROPE? 
+## THE LONDON CONFERENCE OF 1933
 
-- If the USA is in recession, this affects Europe because the USA will import less European goods, but that’s not all: 
+- Negotiators initially reached a secret agreement to stabilize the dollar, pound, and franc.
 
-   - The equilibrium of (many) European balance of payments was based on US exporting capitals 
+- Then details leaked and Roosevelt repudiated the plan, sending his famous “bombshell message” to London.
 
-   - Furthermore, German growth was relying on US capital exports, and Germany was key for European growth 
+**“The sound internal economic situation of a nation is a greater factor in its well-being than the price of its currency.” — F.D. Roosevelt**
 
-   - This system relied on the fact that interest rates were higher in Germany and in Europe than in the USA 
+- The conference collapsed, and international cooperation disintegrated.
 
-   - When the USA raise the interest rates, the capital flow stops… because now it is as profitable to invest money in the US economy 
+- Nations turned inward, forming separate economic and currency blocs (the Sterling Area, Gold Bloc, and Nazi-controlled economies). ^7a7bfd
 
-   - However, German economy had its own domestic problems and was already heading towards a recession anyway. The capital inflow stop worsened the situation 
+- The dream of coordinated recovery gave way to economic nationalism and de-globalization.
 
-a.y. 2025/2026 
+## RECOVERY AND GOLD STANDARD
 
-30067 
+## Annual rates of real GDP growth (%)
 
-15 
+## GOLD STANDARD AND GREAT DEPRESSION
 
-## GREAT DEPRESSION: DEFLATION 
+- The refusal to provide liquidity to banks to protect fixed exchange rates led to more bank failures than they could have been.
 
-## Particularly pernicious was deflation, i.e. the protracted decline in prices: 
+- UK (1931), USA (1933), Scandinavia: with devaluation there is an adjustment of prices and wages that reabsorbs unemployment and stimulates growth.
 
-- in industrial countries it discouraged investment and postponed consumption 
+- The intransigent ‘gold bloc’ (France, Italy, Belgium, Holland) up to 1935-36 experienced persistent stagnation and unemployment.
 
-- in primary goods-producing countries it caused export revenues to plummet and made it more difficult to pay foreign debt 
+## WALL STREET CRASH OF 1929 AND GREAT DEPRESSION: EFFECTS
 
-- more generally, deflation weakened the ability of debtors to repay debt, causing problems for creditors and the banking system 
+## Unemployment rates in some countries (%)
 
-- in the relatively interdependent world of the 1920s, the slowdown of one economy affected the others in a downward spiral 
+**Unemployment** was certainly the most serious problem.
 
-a.y. 2025/2026 
+- 26% unemployed - 20% of them access to aid
 
-30067 
+- 20% of schoolchildren were malnourished
 
-16 
+Insecurity and unemployment translated into a risk for democracy
 
-## THE GREAT DEPRESSION: 
+F.D. Roosevelt the governor of Ney York
 
-**==> picture [408 x 268] intentionally omitted <==**
+Realised the scale of poverty Increased taxation on highest incomes
 
-- In Europe the crisis became particularly intense in 1931. 
-
-- Financial panic spread in the wake of the bankruptcy of the Austrian _Credit Anstalt_ and the German currency crisis. 
-
-- The reaction to the crisis was uncoordinated and disjointed. 
-
-Each government took its own decisions unilaterally, without thinking about the (possible) repercussions on other parties. 
-
-- In September 1931 Great Britain abandoned the gold standard 
-
-- In 1932 it abandoned free trade by adopting the so-called ‘imperial preference’ (Ottawa Conference). 
-
-The protectionist spiral contributed to the collapse of world trade and pushed many countries towards forms of autarchy. 
-
-a.y. 2025/2026 
-
-30067 
-
-17 
-
-## WHY DID BRITAIN LEAVE GOLD? 
-
-## UNDERLYING STRUCTURAL WEAKNESSES: 
-
-## Balance of Payments Problems: 
-
-- Sterling overvalued by about 10% due to 1925 return to pre-war parity 
-
-- Collapse in export earnings (volume of exports 20% below 1913 level) 
-
-- Current account: persistent deficits 
-
-- Capital account: heavy short-term liabilities offset against long-term assets 
-
-- Colonies and dominions drawing down sterling balances due to falling commodity prices 
-
-## Domestic Factors: 
-
-- High budget deficit raised concerns about financial stability 
-
-**==> picture [365 x 207] intentionally omitted <==**
-
-- Bank of England's gold reserves insufficient relative to short-term liabilities 
-
-- Government unwilling to impose further deflation given high unemployment 
-
-a.y. 2025/2026 
-
-30067 
-
-18 
-
-## THE LAUSANNE CONFERENCE OF 1932 
-
-Europe was crippled by debt and economic collapse. 
-
-- Germany could no longer meet its World War I reparations, and earlier attempts. 
-
-- In June 1932, the major European powers gathered in Lausanne to seek a lasting solution: 
-
-      - France insisted on maintaining its right to reparations, fearing domestic backlash. 
-
-      - Britain and Italy supported Germany’s demand for cancellation, arguing that Europe’s recovery depended on relieving Germany’s burden. 
-
-- The United States, while not directly part of the reparations system, refused to negotiate war debts, 
-
-   - undermining any broader agreement. 
-
-- The resulting Lausanne Convention effectively ended German reparations. Germany was to deposit bonds 
-
-   - worth 3 billion marks, but these were never issued. 
-
-a.y. 2025/2026 
-
-30067 
-
-19 
-
-## THE LONDON CONFERENCE OF 1933 
-
-In 1933, representatives from 66 nations gathered in London to restore global economic stability through currency cooperation, trade revival, and recovery policies. 
-
-- : 
-
-- France and other gold-standard countries 
-
-   - wanted to stabilize exchange rates and return to gold 
-
-- : 
-
-- Britain, having devalued sterling in 1931 
-
-   - sought flexible exchange policies to boost trade 
-
-- The United States, under President Franklin D. Roosevelt: 
-
-   - prioritized domestic recovery through inflationary policies and rejected a premature return to gold 
-
-**==> picture [275 x 364] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-20 
-
-## THE LONDON CONFERENCE OF 1933 
-
-**==> picture [268 x 356] intentionally omitted <==**
-
-- Negotiators initially reached a secret agreement to stabilize the dollar, pound, and franc. 
-
-- Then details leaked and Roosevelt repudiated the plan, sending his famous “bombshell message” to London. 
-
-**“The sound internal economic situation of a nation is a greater factor in its well-being than the price of its currency.” — F.D. Roosevelt** 
-
-- The conference collapsed, and international cooperation disintegrated. 
-
-- Nations turned inward, forming separate economic and currency blocs (the Sterling Area, Gold Bloc, and Nazi-controlled economies). 
-
-- The dream of coordinated recovery gave way to economic nationalism and de-globalization. 
-
-a.y. 2025/2026 
-
-30067 
-
-21 
-
-## RECOVERY AND GOLD STANDARD 
-
-## **Annual rates of real GDP growth (%)** 
-
-**==> picture [455 x 353] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-22 
-
-## GOLD STANDARD AND GREAT DEPRESSION 
-
-**==> picture [334 x 342] intentionally omitted <==**
-
-- The refusal to provide liquidity to banks to protect fixed exchange rates led to more bank failures than they could have been. 
-
-- UK (1931), USA (1933), Scandinavia: with devaluation there is an adjustment of prices and wages that reabsorbs unemployment and stimulates growth. 
-
-- The intransigent ‘gold bloc’ (France, Italy, Belgium, Holland) up to 1935-36 experienced persistent stagnation and unemployment. 
-
-a.y. 2025/2026 
-
-30067 
-
-23 
-
-## WALL STREET CRASH OF 1929 AND GREAT DEPRESSION: EFFECTS 
-
-## **Unemployment rates in some countries (%)** 
-
-**Unemployment** was certainly the most serious problem. 
-
-- 26% unemployed  20% of them access to aid 
-
-- 20% of schoolchildren were malnourished 
-
-Insecurity and unemployment translated into a risk for democracy 
-
-F.D. Roosevelt the governor of Ney York 
-
-Realised the scale of poverty Increased taxation on highest incomes 
-
-**==> picture [327 x 304] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-24 
-
+## Related Notes
+- [[13_Economic Instability]]
+- [[9_the first phase of globalisation]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]

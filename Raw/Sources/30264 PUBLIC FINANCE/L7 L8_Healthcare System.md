@@ -1,46 +1,56 @@
-## 30264 - Public Finance 
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "Exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [40 x 194] intentionally omitted <==**
+## 30264 - Public Finance
 
-BIEM Spring 2026 
+BIEM Spring 2026
 
-**Healthcare System Gruber - Chapters 15&16** 
+**Healthcare System Gruber - Chapters 15&16**
 
-**==> picture [84 x 108] intentionally omitted <==**
+## Health Care Spending in the OECD Nations, 2022
 
-## Health Care Spending in the OECD Nations, 2022 
+## Health expenditure as a share of GDP, 2022 (or nearest year)
 
-## Health expenditure as a share of GDP, 2022 (or nearest year) 
+Source: OECD Health Statistics 2023;
+- WHO Global Health Expenditure Database
 
-Source: OECD Health Statistics 2023; WHO Global Health Expenditure Database 
+## Different models around the World
 
-## Different models around the World 
+- **National health insurance**: funded by general taxation, provided by the government, universal access. Examples: UK, Italy.
 
-- **National health insurance** : funded by general taxation, provided by the government, universal access. Examples: UK, Italy. 
+- **Social health insurance**: funded by payroll contributions (employers + employees), provided mostly by private providers, universal access through insurance funds. The government regulates prices.
 
-- **Social health insurance** : funded by payroll contributions (employers + employees), provided mostly by private providers, universal access through insurance funds. The government regulates prices. 
+- **Single-payer**: health insurance funded by taxes and provided by the government.
 
-- **Single-payer** : health insurance funded by taxes and provided by the government. 
+- **Private insurance model**: funded by private insurance and provided by private sector. Example: US.
 
-- **Private insurance model** : funded by private insurance and provided by private sector. Example: US. 
+## How Health Insurance Works: The Basics
 
-## How Health Insurance Works: The Basics 
+- Individuals, or firms on their behalf, pay monthly premiums to insurance companies.
 
-- Individuals, or firms on their behalf, pay monthly premiums to insurance companies. 
+- In return, the insurance companies pay the providers of medical goods and services for most of the cost of goods and services used by the individual.
 
-- In return, the insurance companies pay the providers of medical goods and services for most of the cost of goods and services used by the individual. 
+- There are three types of patient payments:
 
-- There are three types of patient payments: 
+`o` Deductibles—limit to cost individual pays
 
-`o` Deductibles—limit to cost individual pays 
+- Copayment—fixed payment individual pays
 
-- Copayment—fixed payment individual pays 
+`o` Coinsurance—percentage of each bill individual pays
 
-`o` Coinsurance—percentage of each bill individual pays 
+## Distribution of the U.S. Population Across Health Insurance Types
 
-## Distribution of the U.S. Population Across Health Insurance Types 
-
-||**People(millions)**|
+|**People(millions)**|
 |---|---|
 |**Total population**|**324.6**|
 |_Private_|220.8|
@@ -51,496 +61,473 @@ Source: OECD Health Statistics 2023; WHO Global Health Expenditure Database
 |Medicaid|55.9|
 |Tricare/CHAMPVA|3.2|
 |_The uninsured_|26.1|
-|Data from: Keisler-Starkey and Bunch (2020), Table 1.||
+|Data from: Keisler-Starkey and Bunch (2020), Table 1.|
 
+## Private Insurance
 
+- In 2019, about 68.5% of the U.S. population had private health insurance.
 
-## Private Insurance 
+- Private insurance is provided by employers and by the nongroup insurance market.
 
-- In 2019, about 68.5% of the U.S. population had private health insurance. 
+- **Nongroup insurance market:** The market through which individuals or families buy insurance directly rather than through a group, such as the workplace.
 
-- Private insurance is provided by employers and by the nongroup insurance market. 
+## Why do Employers Provide Private Insurance?
 
-- **Nongroup insurance market:** The market through which individuals or families buy insurance directly rather than through a group, such as the workplace. 
+## Motive I: **Risk Pooling**
 
-## _Why do Employers Provide Private Insurance?_ 
+- One reason employers provide insurance is to pool risks.
 
-## Motive I: **Risk Pooling** 
+`o` Risk pool: The group of individuals who enroll in an insurance plan.
 
-- One reason employers provide insurance is to pool risks. 
+- The goal of all insurers is to create _large insurance pools with a predictable_ .
 
-`o` Risk pool: The group of individuals who enroll in an insurance plan. 
+- _distribution of medical risk_
 
-- The goal of all insurers is to create _large insurance pools with a predictable_ . 
+- The _law of large numbers_ helps achieve this goal.
 
-- _distribution of medical risk_ 
+- By pooling all employees, employer-provided health insurance also avoids adverse selection.
 
-- The _law of large numbers_ helps achieve this goal. 
+## Why do Employers Provide Private Insurance?
 
-- By pooling all employees, employer-provided health insurance also avoids adverse selection. 
+## Motive II: **The Tax Subsidy**
 
-## _Why do Employers Provide Private Insurance?_ 
+- Employers also provide insurance because it is subsidized.
 
-## Motive II: **The Tax Subsidy** 
+- **Tax subsidy to employer-provided health insurance:** Workers are taxed on their wage compensation but not on compensation in the form of health insurance, leading to a subsidy to health insurance provided through employers.
 
-- Employers also provide insurance because it is subsidized. 
+- Example:
 
-- **Tax subsidy to employer-provided health insurance:** Workers are taxed on their wage compensation but not on compensation in the form of health insurance, leading to a subsidy to health insurance provided through employers. 
-
-## • Example: 
-
-||**Marginal**<br>**Product,**<br>**Wage**|**Employer Health**<br>**Insurance**<br>**Spending**|**Pre-Tax**<br>**Wage**|**After-Tax**<br>**Wage**|**Personal Health**<br>**Insurance**<br>**Spending**|**After-Tax, After-**<br>**Health Insurance**<br>**Income**|
+|**MarginalIncome**|
 |---|---|---|---|---|---|---|
 |Nigel|$30,000|0|$30,000|$20,000|$4,000|$16,000|
 |Kim|30,000|$5,000|25,000|16,666|0|16,666|
 
+- While Nigel’s private insurance is cheaper, Khadija ends up with more income after taxes due to the subsidy to employer-provided insurance.
 
+## Why do Employers Provide Private Insurance?
 
-- While Nigel’s private insurance is cheaper, Khadija ends up with more income after taxes due to the subsidy to employer-provided insurance. 
+## Motive II: **The Tax Subsidy**
 
-## _Why do Employers Provide Private Insurance?_ 
+The subsidy to employer-provided health insurance is generally not well understood.
 
-## Motive II: **The Tax Subsidy** 
+- Subsidy to employees, not employers.
 
-The subsidy to employer-provided health insurance is generally not well understood. 
+- Employer is indifferent between payments in wages and in health insurance (both are tax deductible).
 
-- Subsidy to employees, not employers. 
+- Worker prefers to be paid in health insurance rather than wages since this reduces the worker’s tax payments.
 
-- Employer is indifferent between payments in wages and in health insurance (both are tax deductible). 
+- To end the tax subsidy, don’t increase the corporate tax paid by the firm; instead, include employer spending on health insurance as part of an employee’s taxable income.
 
-- Worker prefers to be paid in health insurance rather than wages since this reduces the worker’s tax payments. 
+## The Other Alternative: Nongroup Insurance (individual)
 
-- To end the tax subsidy, don’t increase the corporate tax paid by the firm; instead, include employer spending on health insurance as part of an employee’s taxable income. 
+- The nongroup insurance market was traditionally not a well-functioning market.
 
-## The Other Alternative: Nongroup Insurance (individual) 
+- Nongroup insurance was not always available.
 
-- The nongroup insurance market was traditionally not a well-functioning market. 
+- **Those in the worst health were often unable to obtain coverage** (or obtain it only at an incredibly high price).
 
-- Nongroup insurance was not always available. 
+## Medicare
 
-• **Those in the worst health were often unable to obtain coverage** (or obtain it only at an incredibly high price). 
+- Medicare: A federal program that provides health insurance to **all people over age 65** and **disabled persons under age 65** .
 
-## Medicare 
+Every citizen who has worked for 10 years in Medicare-covered employment (and their spouse) is eligible for Medicare at age 65.
 
-# • Medicare: A federal program that provides health insurance to **all people over age 65** and **disabled persons under age 65** . 
+Medicare is financed by a payroll tax on employees and employers.
 
-Every citizen who has worked for 10 years in Medicare-covered employment (and their spouse) is eligible for Medicare at age 65. 
+## Medicaid
 
-Medicare is financed by a payroll tax on employees and employers. 
+- **Medicaid:** A federal and state program that provides healthcare for the **poor** .
 
-## Medicaid 
+- Medicaid benefits are targeted at several groups:
 
-• **Medicaid:** A federal and state program that provides healthcare for the **poor** . 
+`o` Those who qualify for cash welfare programs
 
-- Medicaid benefits are targeted at several groups: 
+`o` Most low-income children in the United States
 
-`o` Those who qualify for cash welfare programs 
+`o` Most low-income pregnant women
 
-`o` Most low-income children in the United States 
+`o` All very low-income families (in states that expanded the program to this group under ACA.)
 
-`o` Most low-income pregnant women 
+`o` The low-income elderly and disabled (for expenses not covered by Medicare).
 
-`o` All very low-income families (in states that expanded the program to this group under ACA.) 
+## TRICARE/CHAMPVA
 
-`o` The low-income elderly and disabled (for expenses not covered by Medicare). 
+- **TRICARE**
 
-## TRICARE/CHAMPVA 
+`o` Administered by the Department of Defense
 
-## • **TRICARE** 
+`o` Serves military retirees and the families of active-duty, retired, or deceased service members
 
-`o` Administered by the Department of Defense 
+- **CHAMPVA**
 
-`o` Serves military retirees and the families of active-duty, retired, or deceased service members 
+`o` Civilian Health and Medical Program for the Department of Veterans Affairs
 
-## • **CHAMPVA** 
+`o` A health care program for disabled dependents of veterans and certain survivors of veterans
 
-`o` Civilian Health and Medical Program for the Department of Veterans Affairs 
+## The Uninsured
 
-`o` A health care program for disabled dependents of veterans and certain survivors of veterans 
+## → **Who are they?**
 
-## The Uninsured 
+- There are 26 million in the United States without any insurance coverage.
 
-## → **Who are they?** 
+- The uninsured have low-than-average incomes.
 
-- There are 26 million in the United States without any insurance coverage. 
+- In 2019, nearly three quarters of the nonelderly uninsured came from families where one or more members were full-time workers.
 
-- The uninsured have low-than-average incomes. 
+- About 14.2% of the uninsured are children.
 
-- In 2019, nearly three quarters of the nonelderly uninsured came from families where one or more members were full-time workers. 
+## → **Why are some individuals uninsured?**
 
-- About 14.2% of the uninsured are children. 
+- They may be counting on uncompensated care.
 
-## → **Why are some individuals uninsured?** 
+- Uncompensated care: The costs of delivering health care for which providers are not reimbursed.
 
-- They may be counting on uncompensated care. 
+- Insurance may cost too much, given risks and prices.
 
-   - Uncompensated care: The costs of delivering health care for which providers are not reimbursed. 
+- Insurers may be unwilling to insure the worst risks because of fears of adverse selection.
 
-- Insurance may cost too much, given risks and prices. 
+- They are not appropriately valuing insurance coverage.
 
-- Insurers may be unwilling to insure the worst risks because of fears of adverse selection. 
+## Why Care About the Uninsured?
 
-- They are not appropriately valuing insurance coverage. 
+1. There are physical externalities associated with communicable diseases.
 
-## Why Care About the Uninsured? 
+2. There is a significant financial externality imposed by the uninsured on the insured.
 
-1. There are physical externalities associated with communicable diseases. 
+3. Care is not delivered appropriately to the uninsured.
 
-2. There is a significant financial externality imposed by the uninsured on the insured. 
+4. Paternalism and equity motivations.
 
-3. Care is not delivered appropriately to the uninsured. 
+5. A final reason for caring about the uninsured is that becoming uninsured is a concern for millions of individuals who currently have insurance → **Job lock**
 
-4. Paternalism and equity motivations. 
+**Job lock: The unwillingness to move to a better job for fear of losing health insurance.**
 
-5. A final reason for caring about the uninsured is that becoming uninsured is a concern for millions of individuals who currently have insurance → **Job lock** 
+→ Health insurance availability may inhibit productivity-increasing job switches.
 
-**Job lock: The unwillingness to move to a better job for fear of losing health insurance.** 
+- Overall, research shows that job lock appears **quantitatively important.**
 
-→ Health insurance availability may inhibit productivity-increasing job switches. 
+## How Generous Should Insurance Be **to Patients** ?
 
-- Overall, research shows that job lock appears **quantitatively important.** 
+- Most generous plans (to patients) provide first-dollar coverage.
 
-## How Generous Should Insurance Be **to Patients** ? 
+- First-dollar coverage: Insurance plans that cover all medical spending, with little or no patient payment.
 
-- Most generous plans (to patients) provide first-dollar coverage. 
+- The consumption-smoothing benefit from first-dollar coverage of minor and predictable medical events is small for two reasons:
 
-   - First-dollar coverage: Insurance plans that cover all medical spending, with little or no patient payment. 
+- Risk-averse individuals gain little utility from insuring a small risk.
 
-- The consumption-smoothing benefit from first-dollar coverage of minor and predictable medical events is small for two reasons: 
+- Individuals are much more able to self-insure such spending than to self-insure large and unpredictable medical events.
 
-   - Risk-averse individuals gain little utility from insuring a small risk. 
+- On the other hand, the **moral hazard costs** are large.
 
-   - Individuals are much more able to self-insure such spending than to self-insure large and unpredictable medical events. 
+## Moral Hazard Costs of Health Insurance for Patients
 
-- On the other hand, the **moral hazard costs** are large. 
+Trade-off of health insurance: the gains in terms of consumption smoothing versus the costs in terms of overuse of medical care
 
-## Moral Hazard Costs of Health Insurance for Patients 
+## Price of visit
 
-Trade-off of health insurance: the gains in terms of consumption smoothing versus the costs in terms of overuse of medical care 
+## Moral Hazard Costs of Health Insurance for Patients
 
-**==> picture [40 x 194] intentionally omitted <==**
+Trade-off of health insurance: the gains in terms of consumption smoothing versus the costs in terms of overuse of medical care
 
-**==> picture [530 x 351] intentionally omitted <==**
+## Price of visit
 
-**----- Start of picture text -----**<br>
-A Marginal Cost borne by<br>$100<br>patients<br>Demand =<br>social marginal benefit<br>10<br>0 Q 1 Number of visits<br>to doctor’s office<br>**----- End of picture text -----**<br>
+## Optimal Health Insurance
 
+Optimal health insurance:
 
-## **Price of visit** 
+- Trades off moral hazard against risk protection.
 
-**==> picture [84 x 108] intentionally omitted <==**
+- First-dollar coverage bad for moral hazard, not very valuable risk protection.
 
-## Moral Hazard Costs of Health Insurance for Patients 
+- Therefore, optimal health insurance policy:
 
-Trade-off of health insurance: the gains in terms of consumption smoothing versus the costs in terms of overuse of medical care 
+`o` Individuals bear a large share of medical costs within some affordable range. `o` Fully insured only against very large costs.
 
-**==> picture [40 x 194] intentionally omitted <==**
+- Most coverage appears more generous than is optimal, and many people don’t have coverage.
 
-**==> picture [608 x 351] intentionally omitted <==**
+→ Why are people either uninsured or “overinsured”?
 
-**----- Start of picture text -----**<br>
-Deadweight loss<br>A B<br>$100<br>Demand =<br>social marginal benefit<br>C<br>Marginal Cost borne by<br>10<br>patients if insurance<br>0 Q 1 Q 2 Number of visits<br>to doctor’s office<br>**----- End of picture text -----**<br>
+## How Generous Should Insurance Be **to Medical Providers** ?
 
+- Insurance often determines how much medical providers are paid.
 
-## **Price of visit** 
+- One payment system is retrospective reimbursement.
 
-## Optimal Health Insurance 
+`o` **Retrospective reimbursement: Reimbursing physicians for the costs they have already incurred.**
 
-Optimal health insurance: 
+- Encourages overutilization since providers are paid regardless of necessity or value of care.
 
-- Trades off moral hazard against risk protection. 
+## Managed Care
 
-- First-dollar coverage bad for moral hazard, not very valuable risk protection. 
+- **Managed care: An approach to controlling medical costs using supply-side restrictions, such as limited choice of medical provider.** ^y4llxf
 
-- Therefore, optimal health insurance policy: 
 
-`o` Individuals bear a large share of medical costs within some affordable range. `o` Fully insured only against very large costs. 
 
-- Most coverage appears more generous than is optimal, and many people don’t have coverage. 
+- One form of managed care are **preferred provider organizations**
 
-→ Why are people either uninsured or “overinsured”? 
+- Preferred provider organization (PPO): A healthcare organization that lowers care costs by shopping for health care providers on behalf of the insured.
 
-## How Generous Should Insurance Be **to Medical Providers** ? 
+- **Health maintenance organizations** are a second kind of managed care organization.
 
-- Insurance often determines how much medical providers are paid. 
+- Health maintenance organization (HMO): A healthcare organization that integrates insurance and delivery of care by, for example, paying its own doctors and hospitals a salary independent of the amount of care they deliver.
 
-- One payment system is retrospective reimbursement. 
+- In the classic staff model, HMOs hire their own physicians and may have their own hospitals.
 
-`o` **Retrospective reimbursement: Reimbursing physicians for the costs they have already incurred.** 
+## Managed Care and Prospective Reimbursement
 
-- Encourages overutilization since providers are paid regardless of necessity or value of care. 
+- Managed care organizations are paid by **prospective** reimbursement, not retrospective.
 
-## Managed Care 
+- **Prospective reimbursement: The practice of paying providers based on what treating patients should cost, not on what the provider spends.**
 
-- **Managed care: An approach to controlling medical costs using supply-side restrictions, such as limited choice of medical provider.** 
+- Payment is the same regardless of spending, so there is an incentive to reduce costs.
 
-- . 
+- Just as retrospective reimbursement offers incentives for excessive care, **prospective reimbursement offers incentives for insufficient care.**
 
-- One form of managed care are **preferred provider organizations** 
+`o` By delivering less care, the physician pockets a larger share of the payment.
 
-   - Preferred provider organization (PPO): A healthcare organization that lowers care costs by shopping for health care providers on behalf of the insured. 
+## Health Care Reform and the ACA
 
-- **Health maintenance organizations** are a second kind of managed care organization. 
+There has been an historical impasse over national health insurance.
 
-   - Health maintenance organization (HMO): A healthcare organization that integrates insurance and delivery of care by, for example, paying its own doctors and hospitals a salary independent of the amount of care they deliver. 
+- Some argue for a single-payer system.
 
-   - In the classic staff model, HMOs hire their own physicians and may have their own hospitals. 
+`o` Government-provided health insurance for all.
 
-## Managed Care and Prospective Reimbursement 
+`o` Guarantees full coverage.
 
-- Managed care organizations are paid by **prospective** reimbursement, not retrospective. 
+`o` Low administrative costs.
 
-- **Prospective reimbursement: The practice of paying providers based on what treating patients should cost, not on what the provider spends.** 
+`o` Eliminates inequality in care.
 
-- Payment is the same regardless of spending, so there is an incentive to reduce costs. 
+`o` Straightforward to control costs by budgeting.
 
-- Just as retrospective reimbursement offers incentives for excessive care, **prospective reimbursement offers incentives for insufficient care.** 
+## Health Care Reform and the ACA
 
-`o` By delivering less care, the physician pockets a larger share of the payment. 
+- Public system also has disadvantages:
 
-## Health Care Reform and the ACA 
+- Dramatically increases government expenditures.
 
-There has been an historical impasse over national health insurance. 
+- Budgeting is a blunt instrument.
 
-- Some argue for a single-payer system. 
+`o` May not allow doctors to use a technology that is worth its high cost.
 
-`o` Government-provided health insurance for all. 
+- Severe political hurdles from health insurance companies.
 
-`o` Guarantees full coverage. 
+- Others push for a private-sector solution, possibly with subsidies.
 
-`o` Low administrative costs. 
+- Adverse selection, other market failures remain.
 
-`o` Eliminates inequality in care. 
+- No evidence that the private sector can contain costs.
 
-`o` Straightforward to control costs by budgeting. 
+## The Massachusetts Experiment
 
-## Health Care Reform and the ACA 
+- In 2006, Massachusetts pushed to cover remaining 9% without insurance.
 
-- Public system also has disadvantages: 
+- “Three-legged-stool” approach:
 
-   - Dramatically increases government expenditures. 
+- 1) Ban pre-existing conditions exclusion, health-based pricing.
 
-   - Budgeting is a blunt instrument. 
+- 2) Individual mandate, avoiding adverse selection.
 
-`o` May not allow doctors to use a technology that is worth its high cost. 
+- Mandate: A legal requirement for employers to offer insurance or for individuals to obtain some type of insurance coverage.
 
-   - Severe political hurdles from health insurance companies. 
+- 3) Subsidized/free insurance for low-income families.
 
-- Others push for a private-sector solution, possibly with subsidies. 
+- Results:
 
-   - Adverse selection, other market failures remain. 
+- Massachusetts uninsurance rate 3%, compared to 18% nationally.
 
-   - No evidence that the private sector can contain costs. 
+- Half of the increase in coverage from Medicaid or government subsidized plans.
 
-## The Massachusetts Experiment 
+- Premiums in the nongroup market have fallen by half relative to national trends.
 
-- In 2006, Massachusetts pushed to cover remaining 9% without insurance. 
+- Costs of the reform roughly consistent with projections.
 
-- “Three-legged-stool” approach: 
+- Some studies have found the policy has improved health of population.
 
-   - 1) Ban pre-existing conditions exclusion, health-based pricing. 
+## The Affordable Care Act
 
-   - 2) Individual mandate, avoiding adverse selection. 
+- In 2010, President Obama signed into law the Affordable Care Act, based on the Massachusetts health reform.
 
-      - Mandate: A legal requirement for employers to offer insurance or for individuals to obtain some type of insurance coverage. 
+- Adopts the “three-legged stool” of Massachusetts:
 
-   - 3) Subsidized/free insurance for low-income families. 
+- Prices are community rated, not health-specific.
 
-- Results: 
+- Individuals are mandated to buy insurance.
 
-   - Massachusetts uninsurance rate 3%, compared to 18% nationally. 
+- Medicaid expanded, with subsidies for lower-income people:
 
-   - Half of the increase in coverage from Medicaid or government subsidized plans. 
+- → There was a massive expansion of the Medicaid program put in place by the ACA, which extended eligibility to all families, regardless of family structure, below 138% of the federal poverty line. (As of 2020, 12 states have opted out of this expansion)
 
-   - Premiums in the nongroup market have fallen by half relative to national trends. 
+## APPLICATION: Rising Health Care Costs and Cost Control Efforts in the ACA
 
-   - Costs of the reform roughly consistent with projections. 
+- Since 1950, the price index for medical care has risen by 2.1 percentage points more per year than inflation, but much of the rapid rise in spending has been quality-improving technological change.
 
-   - Some studies have found the policy has improved health of population. 
+- Limiting spending to efficient uses would reduce costs but is hard to do. The ACA has five approaches.
 
-## The Affordable Care Act 
+1. Cap tax break of employer-provided insurance.
 
-- In 2010, President Obama signed into law the Affordable Care Act, based on the Massachusetts health reform. 
+2. Increase competition for health insurance.
 
-- Adopts the “three-legged stool” of Massachusetts: 
+3. “Depoliticize” rate setting for providers.
 
-   - Prices are community rated, not health-specific. 
+4. Sponsor “comparative effectiveness” research.
 
-   - Individuals are mandated to buy insurance. 
+5. Promote pilot programs of alternative structure for organizing and reimbursing providers.
 
-   - Medicaid expanded, with subsidies for lower-income people: 
+## Early Evidence on the Effects of the ACA
 
-- → There was a massive expansion of the Medicaid program put in place by the ACA, which extended eligibility to all families, regardless of family structure, below 138% of the federal poverty line. (As of 2020, 12 states have opted out of this expansion) 
+Projecting the impacts of a reform as large as the ACA is difficult, but the CBO attempted to do so, most recently in CBO (2014).
 
-## APPLICATION: Rising Health Care Costs and Cost Control Efforts in the ACA 
+- They projected that these reforms would lead to 26 million newly insured residents by 2019.
 
-- Since 1950, the price index for medical care has risen by 2.1 percentage points more per year than inflation, but much of the rapid rise in spending has been quality-improving technological change. 
+- The CBO also projected that the spending cuts and revenue increases in the ACA would more than offset the new spending under the ACA so that the law will reduce the deficit by more than $100 billion over the first decade and more than $1 trillion over the next.
+*(See also: [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)#^sofuen]])*
 
-- Limiting spending to efficient uses would reduce costs but is hard to do. The ACA has five approaches. 
+Uninsurance rates among the states declined precipitously from 2014 through 2016 before rising again in 2017.
 
-   1. Cap tax break of employer-provided insurance. 
+## Projected Impacts of the ACA and Early Evidence on Its Effects
 
-   2. Increase competition for health insurance. 
+Early evidence on the effects of the ACA appears to support the contentions of the CBO analysis.
 
-   3. “Depoliticize” rate setting for providers. 
+- The number of uninsured in the United States has fallen by about 20 million, with the uninsurance rate declining by more than one-third.
 
-   4. Sponsor “comparative effectiveness” research. 
+- Other studies suggest that this coverage has also improved access to care and selfreported health, decreased emergency room use, and increased use of preventive care.
 
-   5. Promote pilot programs of alternative structure for organizing and reimbursing providers. 
+- Cost growth since the passage of the ACA has been historically low, at a rate of 1.4% in 2013.
 
-## Early Evidence on the Effects of the ACA 
+## The ACA Runs Into Trouble
 
-Projecting the impacts of a reform as large as the ACA is difficult, but the CBO attempted to do so, most recently in CBO (2014). 
+- Public support for the ACA was below 50% both before and after passage and remained below 50% even as the law was enacted and the coverage gains took place.
 
-- They projected that these reforms would lead to 26 million newly insured residents by 2019. 
+- This unpopularity was a significant factor in major Republican gains in the 2016 election.
 
-- The CBO also projected that the spending cuts and revenue increases in the ACA would more than offset the new spending under the ACA so that the law will reduce the deficit by more than $100 billion over the first decade and more than $1 trillion over the next. 
+- The ACA’s partial reform structure created more opponents than supporters. `o` Many of the benefits were through expanded Medicaid and other mechanisms not directly linked by voters to “Obamacare.”
 
-**==> picture [619 x 409] intentionally omitted <==**
+- The Trump administration and Congress took actions that significantly weakened the ACA.
 
-**==> picture [632 x 420] intentionally omitted <==**
+- Foremost of these actions is the repeal of the individual mandate.
 
-**==> picture [691 x 268] intentionally omitted <==**
+## The Italian health-care system
 
-Uninsurance rates among the states declined precipitously from 2014 through 2016 before rising again in 2017. 
+- The SSN ( **Sistema Sanitario Nazionale** ) was introduced in 1978. Before 1978: insurance- based system.
 
-## Projected Impacts of the ACA and Early Evidence on Its Effects 
+- SSN: **Universal coverage** ; funded through general taxation.
 
-Early evidence on the effects of the ACA appears to support the contentions of the CBO analysis. 
+- According to international rankings it is one of the best health-care system in the world (health expenditure/GDP vs results).
 
-- The number of uninsured in the United States has fallen by about 20 million, with the uninsurance rate declining by more than one-third. 
+- -
 
-- Other studies suggest that this coverage has also improved access to care and selfreported health, decreased emergency room use, and increased use of preventive care. 
+- The SSN is a regionally based national health service. It provides free of charge universal coverage at the point of service.
 
-- Cost growth since the passage of the ACA has been historically low, at a rate of 1.4% in 2013. 
+- While the **national level** ensures the **general objectives** and **fundamental principles** of the national health care system are met, **regional governments** are responsible for ensuring the **delivery of a benefits package** to the population
 
-## The ACA Runs Into Trouble 
+- After the 1992 Reform→ introduction of « **quasi-mkt** »  features:
 
-- Public support for the ACA was below 50% both before and after passage and remained below 50% even as the law was enacted and the coverage gains took place. 
+- Separation between the health-care purchase and provision
 
-   - This unpopularity was a significant factor in major Republican gains in the 2016 election. 
+- Competition between public providers and private providers (which must satisfy quality standards defined by the State)
 
-- The ACA’s partial reform structure created more opponents than supporters. `o` Many of the benefits were through expanded Medicaid and other mechanisms not directly linked by voters to “Obamacare.” 
+## 4 levels:
 
-- The Trump administration and Congress took actions that significantly weakened the ACA. 
+- **1) Central government** (specifically, the Health Ministry):
 
-   - Foremost of these actions is the repeal of the individual mandate. 
+- controls the distribution of tax revenue for publicly financed health care and defines a national statutory benefits package to be offered to all residents in every region, the “essential levels of care” ( _livelli essenziali di assistenza_ , LEA)
 
-## The Italian health-care system 
+- is responsible for the general guidelines for prevention, diagnosis and therapies
 
-- The SSN ( **Sistema Sanitario Nazionale** ) was introduced in 1978. Before 1978: insurance- based system. 
+- coordinates and monitors Regions’ health activities.
 
-- SSN: **Universal coverage** ; funded through general taxation. 
+## 2) Regions
 
-- According to international rankings it is one of the best health-care system in the world (health expenditure/GDP vs results). 
+- enjoy significant autonomy in determining the macro structure  of their health systems
 
-- - 
+- organize and deliver health services through local health units (ASL)
 
-- The SSN is a regionally based national health service. It provides free of charge universal coverage at the point of service. 
+## **3) ASL (** _**Aziende Sanitarie Locali**_ **)**:
 
-- While the **national level** ensures the **general objectives** and **fundamental principles** of the national health care system are met, **regional governments** are responsible for ensuring the **delivery of a benefits package** to the population 
+- are managed by a general manager appointed by the governor of the region
 
-- After the 1992 Reform→ introduction of « **quasi-mkt** »  features: 
+- are responsible for territorial planning
 
-   - Separation between the health-care purchase and provision 
+- purchase and deliver primary care, hospital care, outpatient specialist care and public health care
 
-   - Competition between public providers and private providers (which must satisfy quality standards defined by the State) 
+- Funded through a fixed reimbursement per-patient
 
-## 4 levels: 
+## **4) Health-care providers** ( **hospitals and physicians** ):
 
-- **1) Central government** (specifically, the Health Ministry): 
+- ₋ Public hospitals either are managed directly by the local health units or operate as semi-independent public enterprises.
 
-- controls the distribution of tax revenue for publicly financed health care and defines a national statutory benefits package to be offered to all residents in every region, the “essential levels of care” ( _livelli essenziali di assistenza_ , LEA) 
+- ₋ Hospitals funded through «perspective payments» based on DRGs: Diagnosis Related Group. Each hospital admission is classified into a group based on the patient’s diagnosis and treatment, and the hospital receives a fixed, pre-set payment for that group, regardless of the actual cost of care.
 
-- is responsible for the general guidelines for prevention, diagnosis and therapies 
+- ₋ General practitioners: they are payed a fixed amount for each patient (max 1500 patients)
 
-- coordinates and monitors Regions’ health activities. 
+₋ Hospital doctors/practitioners: salary determined by the State; varies with age and specialization
 
-## : **2) Regions** 
+# Exercises
 
-- enjoy significant autonomy in determining the macro structure  of their health systems 
+- 1) Which of the following statements correctly describes the difference between prospective and retrospective reimbursement of health care providers?
 
-- organize and deliver health services through local health units (ASL) 
+- a) Retrospective reimbursement pays providers a fixed amount per patient regardless of costs
 
-## **3) ASL (** _**Aziende Sanitarie Locali**_ **)** : 
+- b) Prospective reimbursement reimburses providers based on actual costs incurred
 
-- are managed by a general manager appointed by the governor of the region 
+- c) Retrospective reimbursement creates incentives for overutilization of medical care
 
-- are responsible for territorial planning 
+- d) Prospective reimbursement fully eliminates incentives for inefficient care provision
 
-- purchase and deliver primary care, hospital care, outpatient specialist care and public health care 
+- 2) Which statement correctly describes the tax subsidy to employer-provided health insurance?
 
-- Funded through a fixed reimbursement per-patient 
+- a) It subsidizes employers directly through corporate tax reductions
 
-## **4) Health-care providers** ( **hospitals and physicians** ): 
+- b) It encourages firms to offer insurance instead of wages
 
-- ₋ Public hospitals either are managed directly by the local health units or operate as semi-independent public enterprises. 
+- c) It benefits workers by excluding insurance from taxable income
 
-- ₋ Hospitals funded through «perspective payments» based on DRGs: Diagnosis Related Group. Each hospital admission is classified into a group based on the patient’s diagnosis and treatment, and the hospital receives a fixed, pre-set payment for that group, regardless of the actual cost of care. 
+- d) It reduces government revenue only through payroll taxes
 
-- ₋ General practitioners: they are payed a fixed amount for each patient (max 1500 patients) 
+- 3) Which policy tool in the Affordable Care Act was primarily aimed at reducing adverse selection in insurance markets?
 
-₋ Hospital doctors/practitioners: salary determined by the State; varies with age and specialization 
+- a) Expansion of Medicaid
 
-# Exercises 
+- b) Community rating
 
-- 1) Which of the following statements correctly describes the difference between prospective and retrospective reimbursement of health care providers? 
+- c) Individual mandate
 
-   - a) Retrospective reimbursement pays providers a fixed amount per patient regardless of costs 
+- d) Comparative effectiveness research
 
-   - b) Prospective reimbursement reimburses providers based on actual costs incurred 
+4) Doctor’s checkup have a marginal cost of 150 each. Aggregate demand on part of consumers is represented by the following function: Q = 200 – P. What unitary subsidy should the government put in place if the target is achieving Q = 100 visits?
 
-   - c) Retrospective reimbursement creates incentives for overutilization of medical care 
+a) 50$ b) 100$ c) 150$ d) 25$
 
-   - d) Prospective reimbursement fully eliminates incentives for inefficient care provision 
+- 5) Which of the following best explains why health insurance can lead to moral hazard?
 
-- 2) Which statement correctly describes the tax subsidy to employer-provided health insurance? 
+a) Insured individuals face higher prices for medical care b) Insurance reduces uncertainty about future income
 
-   - a) It subsidizes employers directly through corporate tax reductions 
+c) Insured individuals do not bear the full marginal cost of care d) Insurance eliminates adverse selection
 
-   - b) It encourages firms to offer insurance instead of wages 
+## T/F questions (please provide an explanation)
 
-   - c) It benefits workers by excluding insurance from taxable income 
+- 1) If the government sets a subsidy equal to marginal cost, the quantity of medical visits demanded will always be socially optimal.
 
-   - d) It reduces government revenue only through payroll taxes 
+- 2) Subsidizing doctor visits can generate moral hazard by encouraging excessive use of medical care.
 
-- 3) Which policy tool in the Affordable Care Act was primarily aimed at reducing adverse selection in insurance markets? 
+- 3) The Italian National Health Service (SSN) guarantees universal coverage that is free at the point of service and financed mainly through general taxation.
 
-   - a) Expansion of Medicaid 
+## EXERCISE 1
 
-   - b) Community rating 
+The demand function for antibiotics is as follows: q=30-p. The marginal cost of producing each antibiotic is 10$.
 
-   - c) Individual mandate 
+a) Please compute the market equilibrium.
 
-   - d) Comparative effectiveness research 
+b) If the state subsidizes antibiotics by paying half of each of them (5$) and therefore allowing them to be purchased at a discounted price, what would be the new equilibrium quantity ? Is there going to be any deadweight welfare loss ? If so, please compute it.
 
-4) Doctor’s checkup have a marginal cost of 150 each. Aggregate demand on part of consumers is represented by the following function: Q = 200 – P. What unitary subsidy should the government put in place if the target is achieving Q = 100 visits? 
+## EXERCISE 2
 
-a) 50$ b) 100$ c) 150$ d) 25$ 
+Briefly explain the main trade-off policymakers face when designing health insurance coverage. In your answer, refer to risk protection and moral hazard.
 
-- 5) Which of the following best explains why health insurance can lead to moral hazard? 
-
-a) Insured individuals face higher prices for medical care b) Insurance reduces uncertainty about future income 
-
-c) Insured individuals do not bear the full marginal cost of care d) Insurance eliminates adverse selection 
-
-## **T/F questions (please provide an explanation)** 
-
-- 1) If the government sets a subsidy equal to marginal cost, the quantity of medical visits demanded will always be socially optimal. 
-
-- 2) Subsidizing doctor visits can generate moral hazard by encouraging excessive use of medical care. 
-
-- 3) The Italian National Health Service (SSN) guarantees universal coverage that is free at the point of service and financed mainly through general taxation. 
-
-## **EXERCISE 1** 
-
-The demand function for antibiotics is as follows: q=30-p. The marginal cost of producing each antibiotic is 10$. 
-
-a) Please compute the market equilibrium. 
-
-b) If the state subsidizes antibiotics by paying half of each of them (5$) and therefore allowing them to be purchased at a discounted price, what would be the new equilibrium quantity ? Is there going to be any deadweight welfare loss ? If so, please compute it. 
-
-## **EXERCISE 2** 
-
-Briefly explain the main trade-off policymakers face when designing health insurance coverage. In your answer, refer to risk protection and moral hazard. 
-
+## Related Notes
+- [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
+- [[L6_Social Insurance]]
+- [[C29]]

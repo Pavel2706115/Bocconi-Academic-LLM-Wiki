@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 11** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect11_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 11
 
-A Trader is long on a future of stocks of company BCA Inc.. Which of the following strategies can is best to hedge against the possibility of any loss from holding the future? 
+## EX 1
 
-- a) simultaneous purchase of a put option on stocks 
+A Trader is long on a future of stocks of company BCA Inc.. Which of the following strategies can is best to hedge against the possibility of any loss from holding the future?
 
-- b) simultaneous sell a call option on stocks 
+- a) simultaneous purchase of a put option on stocks
 
-- c) simultaneous opening a short position of a futures contract on stocks 
+- b) simultaneous sell a call option on stocks
 
-- d) simultaneous opening a long position of a forward contract on stocks 
+- c) simultaneous opening a short position of a futures contract on stocks
 
-## **EX 2** 
+- d) simultaneous opening a long position of a forward contract on stocks
 
-What's the profit of 20 put options expiring today with strike price $150 and premium $5 if the spot price of the underlying asset is $110? 
+## EX 2
 
-- a) $100 
+What's the profit of 20 put options expiring today with strike price $150 and premium $5 if the spot price of the underlying asset is $110?
 
-- b) $700 
+- a) $100
 
-- c) $140 
+- b) $700
 
-- d) $0 
+- c) $140
 
-## **EX 3** 
+- d) $0
 
-A trader entered an option position when the spot price of the underlying asset was $100, and the premium was $3. The strike price of the option is $110 and the spot price of the asset at maturity is $99. If trader’s net loss from this position was $8, what position did he/she enter? 
+## EX 3
 
-- a) trader bought a call option 
+A trader entered an option position when the spot price of the underlying asset was $100, and the premium was $3. The strike price of the option is $110 and the spot price of the asset at maturity is $99. If trader’s net loss from this position was $8, what position did he/she enter? ^n7aww9
+*(See also: [[Lect11#^rnnvng]])*
 
-- b) trader bought a put option 
+- a) trader bought a call option
 
-- c) trader wrote a call option 
+- b) trader bought a put option
 
-- d) trader wrote a put option 
+- c) trader wrote a call option
 
-## **EX 4** 
+- d) trader wrote a put option
 
-Which of the following statements is correct? 
+## EX 4
 
-- a) If the spot price increases, the value of a call option increases 
+Which of the following statements is correct?
 
-- b) If the strike price increases, the value of a call option increases 
+- a) If the spot price increases, the value of a call option increases
 
-- c) If volatility increases, the value of a call option decreases 
+- b) If the strike price increases, the value of a call option increases
 
-- d) If the time to expiration increases, the value of a call option decreases 
+- c) If volatility increases, the value of a call option decreases
 
+- d) If the time to expiration increases, the value of a call option decreases
+
+## Related Notes
+- [[Lect11]]
+- [[Lect10_exercises]]
+- [[Lect12_Review_exercises_questions]]

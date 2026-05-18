@@ -1,28 +1,30 @@
-## **Non-linear relationship: happiness vs. working hours** 
+---
+course: "Statistics"
+course_code: "30001"
+tags:
+  - "source"
+  - course_30001
+Title: "Lecture 28 Slides"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**To assess the relationship between happiness and working hours, a sample of 498 individuals is considered.** 
+## Non-linear relationship: happiness vs. working hours
 
-**==> picture [506 x 340] intentionally omitted <==**
+**To assess the relationship between happiness and working hours, a sample of 498 individuals is considered.**
 
-**1** 
+## Non-linear relationship: happiness vs. working hours
 
-## **Non-linear relationship: happiness vs. working hours** 
+**Would you use a linear regression model to predict the level of happiness according to the number of hours worked and sex at birth in the reference population?**
+*(See also: [[Lesson 22-24_Simple Linear Regression#^cu5dji]])*
 
-**Would you use a linear regression model to predict the level of happiness according to the number of hours worked and sex at birth in the reference population?** 
+## Non-linear relationship: happiness vs. working hours
 
-**==> picture [437 x 325] intentionally omitted <==**
+𝟐 **Quadratic Model: Y =** β𝒐 + 𝜷𝟏 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟐 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟑 ∗𝑰 𝒔𝒆𝒙= 𝑴+  ϵ
 
-**==> picture [362 x 244] intentionally omitted <==**
-
-**2** 
-
-## **Non-linear relationship: happiness vs. working hours** 
-
-𝟐 **Quadratic Model: Y =** β𝒐 + 𝜷𝟏 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟐 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟑 ∗𝑰 𝒔𝒆𝒙= 𝑴+  ϵ 
-
-**==> picture [427 x 334] intentionally omitted <==**
-
-**==> picture [402 x 240] intentionally omitted <==**
-
-**3** 
-
+## Related Notes
+- [[Lesson 22-24_Simple Linear Regression]]
+- [[Lecture 22-24_Simple Linear Regression with FULL NOTES]]
+- [[Lecture 25_27 Slides - Multiple Regression]]

@@ -1,848 +1,444 @@
-**Financial Accounting** 12e 
+---
+course: "Financial Accounting 1"
+course_code: "30692"
+tags:
+  - "source"
+  - course_30692
+Title: "Full-material presentation Chapter 10"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## Libby • Libby • Hodge 
+**Financial Accounting** 12e
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Libby - Libby - Hodge
 
-## Learning Objectives 
+## Learning Objectives
 
-After studying this chapter, you should be able to: 
+After studying this chapter, you should be able to:
 
-**10-1** Describe the characteristics of bond securities. 
+**10-1** Describe the characteristics of bond securities.
 
-**10-2** Report bonds payable and interest expense for bond securities issued at par. 
+**10-2** Report bonds payable and interest expense for bond securities issued at par.
 
-**10-3** Compute and analyze the times interest earned ratio. 
+**10-3** Compute and analyze the times interest earned ratio.
 
-**10-4** Report bonds payable and interest expense for bond securities issued at a discount. 
+**10-4** Report bonds payable and interest expense for bond securities issued at a discount.
 
-**10-5** Report bonds payable and interest expense for bond securities issued at a premium. 
+**10-5** Report bonds payable and interest expense for bond securities issued at a premium.
 
-**10-6** Report the early retirement of bond securities. **10-7** Compute and analyze the debt-to-equity ratio. 
+**10-6** Report the early retirement of bond securities. **10-7** Compute and analyze the debt-to-equity ratio.
 
-**10-8** Explain how bond securities are reported on the statement of cash flows. 
+**10-8** Explain how bond securities are reported on the statement of cash flows.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Understanding the Business
 
-**10-2** 
+A company’s capital structure is the mixture of **debt** and **equity** it uses to finance its operations.
 
-## Understanding the Business 
+- Companies raise money from investors by issuing debt securities (referred to as “bonds”) in the bond markets.
 
-A company’s capital structure is the mixture of **debt** and **equity** it uses to finance its operations. 
+- Borrowing a large amount from an individual bank is often impractical, so companies and governments issue bond to the investing public instead.
 
-- Companies raise money from investors by issuing debt securities (referred to as “bonds”) in the bond markets. 
+- After bonds are issued, they are traded on exchanges such as the New York Bond Exchange.
 
-   - Borrowing a large amount from an individual bank is often impractical, so companies and governments issue bond to the investing public instead. 
+- The ability to sell a bond is an advantage to investors because it provides them with liquidity (the ability to convert investments to cash).
 
-- After bonds are issued, they are traded on exchanges such as the New York Bond Exchange. 
+- By issuing more liquid debt that investors can easily buy and sell in the bond markets, companies are able to reduce the cost of long-term borrowing.
 
-   - The ability to sell a bond is an advantage to investors because it provides them with liquidity (the ability to convert investments to cash). 
+## Exhibit 10.1 Excerpts from Amazon’s Long-Term Debt Footnote
 
-   - By issuing more liquid debt that investors can easily buy and sell in the bond markets, companies are able to reduce the cost of long-term borrowing. 
+## Learning Objective 10-1
 
-**==> picture [65 x 560] intentionally omitted <==**
+**10-1** Describe the characteristics of bond securities.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Characteristics of Bonds Payable - Reasons Why Companies Issue Bonds (1 of 2)
 
-**10-3** 
+Advantages of bonds
 
-## Exhibit 10.1 Excerpts from Amazon’s Long-Term Debt Footnote 
+Disadvantages of bonds
 
-**==> picture [657 x 405] intentionally omitted <==**
+- **Stockholders maintain control** because bondholders do not vote or share in any dividend payments.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- **Risk of bankruptcy** exists because the bond interest payments must be paid each period whether the corporation earns income or incurs a loss.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- **A portion of interest expense is tax deductible** which reduces the net cost of borrowing.
 
-**10-4** 
+- **Negative impact on cash flows** because bonds must be repaid at a specific time in the future. Company must be able to repay the debt or refinance it.
 
-## Learning Objective 10-1 
+- **The return to shareholders can be positive** if money is borrowed at a low interest rate and invested in projects that earn a higher rate.
 
-**10-1** Describe the characteristics of bond securities. 
+Characteristics of Bonds Payable - Reasons Why Companies Issue Bonds (2 of 2)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Assume a company has shareholders’ equity of $100,000 and earns net income of $20,000 per year. Management plans to spend $100,000 for new assets that are expected to earn an additional $20,000 per year. To fund the purchase, should management **issue new stock or borrow the money** at an interest rate of 8 percent? Assuming the company has not yet met its tax deductibility cap, the following analysis shows borrowing the money will increase the return to the company’s shareholders.
 
-**10-5** 
+## Bond Terminology (1 of 2)
 
-Characteristics of Bonds Payable - Reasons Why Companies Issue Bonds (1 of 2) 
+A bond usually requires the payment of **interest** over its life with repayment of **bond principal** on the maturity date.
 
-Advantages of bonds 
+## The **bond principal** is:
 
-Disadvantages of bonds 
+- (1) the amount a company must pay to bondholders at the maturity date
 
-• **Stockholders maintain control** because bondholders do not vote or share in any dividend payments. 
+- (2) the amount used to compute the bond’s periodic cash interest payments.
 
-• **Risk of bankruptcy** exists because the bond interest payments must be paid each period whether the corporation earns income or incurs a loss. 
+- or
 
-• **A portion of interest expense is tax deductible** which reduces the net cost of borrowing. 
+- Bond principal is also called **face value, par value, maturity value.**
 
-• **Negative impact on cash flows** because bonds must be repaid at a specific time in the future. Company must be able to repay the debt or refinance it. 
+- All bonds have a face value. The face value is usually $1,000, but it can be any amount.
 
-• **The return to shareholders can be positive** if money is borrowed at a low interest rate and invested in projects that earn a higher rate. 
+## Bond Terminology (2 of 2)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+The **coupon rate** is the interest rate specified on a bond, and the rate used to compute the bond’s periodic cash interest payment.
 
-**==> picture [65 x 560] intentionally omitted <==**
+A bond always specifies the coupon rate and the frequency of periodic cash interest payments.
 
-**10-6** 
+- The **coupon rate** is also called the **stated rate, contract rate,** or **nominal rate** .
 
-Characteristics of Bonds Payable - Reasons Why Companies Issue Bonds (2 of 2) 
+- The interest payments are sometimes called coupon payments.
 
-Assume a company has shareholders’ equity of $100,000 and earns net income of $20,000 per year. Management plans to spend $100,000 for new assets that are expected to earn an additional $20,000 per year. To fund the purchase, should management **issue new stock or borrow the money** at an interest rate of 8 percent? Assuming the company has not yet met its tax deductibility cap, the following analysis shows borrowing the money will increase the return to the company’s shareholders. 
+- A bond’s coupon rate is always stated in annual terms.
 
-**==> picture [550 x 309] intentionally omitted <==**
+- If interest is paid annually the cash interest payment is computed as the bond’s face value × the coupon rate.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- If the interest payment is made more frequently, computing the cash interest payment requires that the coupon rate be converted to a rate per interest period before it is multiplied by the bond’s face value.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Characteristics of different types of bonds
 
-**10-7** 
+Different types of bonds have different characteristics because individual investors have different risk and return preferences.
 
-## Bond Terminology (1 of 2) 
+## Bond Issuance Process
 
-A bond usually requires the payment of **interest** over its life with repayment of **bond principal** on the maturity date. 
+- When a company decides to issue bond securities, it prepares a bond indenture and a bond prospectus.
 
-## The **bond principal** is: 
+- The **indenture** is a legal document that specifies all the details of the bond offering.
 
-   - (1) the amount a company must pay to bondholders at the maturity date 
+- The **prospectus** is a regulatory document that is filed with the Securities and Exchange Commission. It specifies the details of the bond offering such as:  maturity date, rate of interest to be paid, date of each interest payment, other characteristics such as if the bond is callable or convertible.
 
-   - (2) the amount used to compute the bond’s periodic cash interest payments. 
+- The prospectus also describes any **covenants** designed to protect the bondholders such as:
 
-- or 
+- limitations on new debt that the company might issue in the future
 
-- Bond principal is also called **face value, par value, maturity value.** 
+- limitations on the payment of dividends to shareholders
 
-- All bonds have a face value. The face value is usually $1,000, but it can be any amount. 
+- requirements that the company maintain certain minimum accounting ratios, such as the debt-to-equity ratio.
 
-**==> picture [492 x 216] intentionally omitted <==**
+- The prospectus and annual report also describe how the proceeds of the bond will be used.
 
-> © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- When a bond is issued to an investor, the investor receives a **bond certificate** .
 
-**==> picture [65 x 560] intentionally omitted <==**
+- An independent party, called the **trustee** , is usually appointed to represent the bondholders.
 
-**10-8** 
+## Bond Rating Agencies and Their Assessments of Default Risk
 
-## Bond Terminology (2 of 2) 
+Agencies, such as Standard & Poor’s, Moody’s, and Fitch evaluate the bond’s **default risk** (the risk the bond issuer will not be able to meet the requirements in the prospectus).
 
-The **coupon rate** is the interest rate specified on a bond, and the rate used to compute the bond’s periodic cash interest payment. 
+- Higher quality bonds have a lower default risk.
 
-A bond always specifies the coupon rate and the frequency of periodic cash interest payments. 
+## Reporting Bond Transactions - cash payments (1 of 2)
 
-- The **coupon rate** is also called the **stated rate, contract rate,** or **nominal rate** . 
+There are two types of cash payments in the bond contract
 
-- The interest payments are sometimes called coupon payments. 
+**1. Principal.** a single payment made at the end of the bond’s life. It is also called
 
-- A bond’s coupon rate is always stated in annual terms. 
+- **face value**
 
-   - If interest is paid annually the cash interest payment is computed as the bond’s face value × the coupon rate. 
+- par value
 
-   - If the interest payment is made more frequently, computing the cash interest payment requires that the coupon rate be converted to a rate per interest period before it is multiplied by the bond’s face value. 
+- maturity value.
 
-**==> picture [692 x 146] intentionally omitted <==**
+**2. Cash interest payments** (also called coupon payments). These payments represent an annuity and are computed as follows:
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+The bond contract specifies whether interest is paid quarterly, semiannually, or annually.  Be sure and **use the interest rate per period** in your calculations.
 
-**10-9** 
+## Reporting Bond Transactions - cash payments (2 of 2)
 
-## Characteristics of different types of bonds 
+## Consider a bond with the following characteristics:
 
-Different types of bonds have different characteristics because individual investors have different risk and return preferences. 
+If you are asked to compute the cash interest payment for this bond, you will need to use an interest rate per period of **3%** (the **semiannual** coupon rate).
 
-**==> picture [531 x 232] intentionally omitted <==**
+## Market Rate of Interest
 
-**==> picture [519 x 206] intentionally omitted <==**
+- Investors demand a certain rate of return to compensate them for the risks related to the bond offering. The **demanded rate of return** is called the **market interest rate** (also known as the **yield** or **effective interest rate** ).
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- The issuing company does not determine the price of the bond.  The price at which the bonds will sell is determined by the market using a present value calculation. _The market interest rate should be used in computing the present value of a bond._
 
-**==> picture [65 x 560] intentionally omitted <==**
+- **As market interest rates rise, the price of a bond falls** and vice versa. This is because of the important role the market interest rate plays in determining the present value of a bond. The relationship between the market interest rate and the price of a bond is shown below.
 
-**10-10** 
+## Relationship between Coupon Rate and Market Rate (1 of 2)
 
-## Bond Issuance Process 
+On the day a company issues a bond, the market interest rate will be either the same as the coupon rate, greater than the coupon rate, or less than the coupon rate.
 
-- When a company decides to issue bond securities, it prepares a bond indenture and a bond prospectus. 
+The relationship between the market interest rate and the bond’s coupon rate determines whether the bond is issued at **par** , at a **premium** , or at a **discount** .
 
-   - The **indenture** is a legal document that specifies all the details of the bond offering. 
+## Relationship between Coupon Rate and Market Rate (2 of 2)
 
-   - The **prospectus** is a regulatory document that is filed with the Securities and Exchange Commission. It specifies the details of the bond offering such as:  maturity date, rate of interest to be paid, date of each interest payment, other characteristics such as if the bond is callable or convertible. 
+- When a bond’s coupon rate is **less** than the rate investors demand, investors will not buy the bond unless its price is reduced (i.e., a **discount** must be provided).
 
-- The prospectus also describes any **covenants** designed to protect the bondholders such as: 
+- When a bond’s coupon rate is **more** than investors demand, investors will be willing to pay a **premium** to buy the bond.
 
-   - limitations on new debt that the company might issue in the future 
+**Important**: Whether a bond is issued at par, at a discount, or at a premium, **investors will always earn the market rate of return.**
 
-   - limitations on the payment of dividends to shareholders 
+- During the life of the bond, its market price will change as market interest rates change. This change does not affect the company’s financial statements and the way its interest payments are accounted for.
 
-   - requirements that the company maintain certain minimum accounting ratios, such as the debt-to-equity ratio. 
+- The interest rates that matter for accounting purposes are the bond’s **coupon rate** (which does not change over time) and the **market interest** .
 
-- The prospectus and annual report also describe how the proceeds of the bond will be used. 
+- **rate on the day the bond is issued**
 
-- When a bond is issued to an investor, the investor receives a **bond certificate** . 
+## Using Artificial Intelligence (AI) to Invest in Bonds
 
-- An independent party, called the **trustee** , is usually appointed to represent the bondholders. 
+- Investors spend considerable time and effort gathering and assessing **vast amounts of market information** (e.g., market interest rates, general economic conditions) as well as companyspecific information.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- **Using technology to expand and expedite this process would allow investors to make more informed, quicker decisions.**
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- AllianceBernstein, a global investment-management and research firm, has created Abbie, a virtual assistant based on artificial intelligence that helps investors make bond investing decisions.
 
-**10-11** 
+- You can read more about Abbie’s abilities here: **alliancebernstein.com/fixed-income/bonds/abbie.htm**
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Learning Objective 10-2
 
-## Bond Rating Agencies and Their Assessments of Default Risk 
+**10-2** Report bonds payable and interest expense for bond securities issued at par.
 
-**==> picture [513 x 59] intentionally omitted <==**
+## Bonds Issued at Par (1 of 5)
 
-Agencies, such as Standard & Poor’s, Moody’s, and Fitch evaluate the bond’s **default risk** (the risk the bond issuer will not be able to meet the requirements in the prospectus). 
+Bonds sell at their face (par) value when the **market interest** rate that investors demand is **equal to** the interest rate stated in the bond contract (the **coupon rate** ).
 
-##  Higher quality bonds have a lower default risk. 
+## Bonds Issued at Par (2 of 5)
 
-**==> picture [537 x 333] intentionally omitted <==**
+On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Investors are willing to pay $100,000 in cash for the bonds meaning the bonds are sold at **Par** .
 
-**10-12** 
+## Bonds Issued at Par (3 of 5)
 
-## Reporting Bond Transactions - cash payments (1 of 2) 
+The amount of money a company receives when it sells bonds is the **present value of the future cash flows** associated with the bonds.
 
-There are two types of cash payments in the bond contract 
+Amazon agrees to make two types of payments in the future: a single payment of $100,000 when the bond matures in two years and an annuity of $5,000 ($100,000 × (10% × ½ year)) payable twice a year for two years (four total payments).
 
-**1. Principal.** a single payment made at the end of the bond’s life. It is also called 
+- The 10% in the equation is the **bond’s coupon rate.**
 
-- **face value** 
+## Bonds Issued at Par (4 of 5)
 
-- par value 
+**Use the bond’s market interest rate per period (in this case 10% ÷ 2 = 5%) to compute the bond’s present value.** The present value of the bond payments can be computed using tables in Appendix E, a financial calculator, or Excel. This calculation uses the present value tables:
 
-- maturity value. 
+## Bonds Issued at Par (5 of 5)
 
-**2. Cash interest payments** (also called coupon payments). These payments represent an annuity and are computed as follows: 
+- When the market rate of interest equals the coupon rate, the present value of the future cash flows associated with a bond always equals the bond’s face value amount.
 
-**==> picture [626 x 55] intentionally omitted <==**
+- A bond’s selling price is determined by the present value of its future cash flows, not the face value.
 
-The bond contract specifies whether interest is paid quarterly, semiannually, or annually.  Be sure and **use the interest rate per period** in your calculations. 
+On the date the bonds are issued, record a bond liability equal to the amount investors are willing to pay for the bonds:
 
-**==> picture [65 x 560] intentionally omitted <==**
+The amount of interest each period will be $5,000 ($100,000 × 0.10 × ½ year).
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Reporting Interest Expense
 
-**10-13** 
+- Interest expense is reported on the income statement. Because interest is related to financing activities rather than operating activities, it is normally not included in operating expenses on the income statement.
 
-## Reporting Bond Transactions - cash payments (2 of 2) 
+- - Interest expense is typically reported just below “income from operations” on the income statement.
 
-## Consider a bond with the following characteristics: 
+## Learning Objective 10-3
 
-**==> picture [462 x 139] intentionally omitted <==**
+**10-3** Compute and analyze the times interest earned ratio.
 
-If you are asked to compute the cash interest payment for this bond, you will need to use an interest rate per period of **3%** (the **semiannual** coupon rate). 
+## Times Interest Earned
 
-**==> picture [589 x 175] intentionally omitted <==**
+- This ratio shows whether a company is generating sufficient resources from its profit-making operations to meet its current interest obligations.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- - A high ratio indicates an extra margin of protection in case profitability deteriorates.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- Failure to meet required interest payments could result in bankruptcy.
 
-**10-14** 
+## Learning Objective 10-4
 
-## Market Rate of Interest 
+**10-4** Report bonds payable and interest expense for bond securities issued at a discount.
 
-- Investors demand a certain rate of return to compensate them for the risks related to the bond offering. The **demanded rate of return** is called the **market interest rate** (also known as the **yield** or **effective interest rate** ). 
+## Bonds Issued at a Discount (1 of 4)
 
-- The issuing company does not determine the price of the bond.  The price at which the bonds will sell is determined by the market using a present value calculation. _The market interest rate should be used in computing the present value of a bond._ 
+Bonds sell at a **discount** when the **market interest rate is greater than the coupon rate.**
 
-- **As market interest rates rise, the price of a bond falls** and vice versa. This is because of the important role the market interest rate plays in determining the present value of a bond. The relationship between the market interest rate and the price of a bond is shown below. 
+## Bonds Issued at a Discount (2 of 4)
 
-**==> picture [455 x 188] intentionally omitted <==**
+On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The **market interest rate is now 12 percent** . The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026. The coupon rate (10 percent) is less than the market interest rate (12 percent) on the date of issuance, so the bonds sell at a **discount** .
+*(See also: [[Lect2-3#^qe7lwr]])*
 
-> © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+_Thus, if the market interest rate is 12 percent on the date of issuance, investors will be willing to pay Amazon $96,535 for the bonds. Some people refer to this price as 96.5, which indicates the selling price was 96.5 percent of the bond’s face value (96.5 = $96,535 ÷ $100,000)._
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Bonds Issued at a Discount (3 of 4)
 
-**10-15** 
+**Since the present value of the bonds of $96,535 is less than the $100,000 face amount of the bonds, the bonds are issued at a discount of $3,465.** Companies can account for the bond discount explicitly (using a bond discount account) or implicitly.  Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical.
 
-## Relationship between Coupon Rate and Market Rate (1 of 2) 
+Bond discount is a contra-liability account
 
-On the day a company issues a bond, the market interest rate will be either the same as the coupon rate, greater than the coupon rate, or less than the coupon rate. 
+While Amazon received only $96,535 when it sold the bonds, it must repay $100,000 when the bonds mature.
 
-The relationship between the market interest rate and the bond’s coupon rate determines whether the bond is issued at **par** , at a **premium** , or at a **discount** . 
+## Bonds Issued at a Discount (4 of 4)
 
-**==> picture [528 x 143] intentionally omitted <==**
+- While Amazon received only $96,535 when it sold the bonds at a discount, it must repay $100,000 when the bonds mature.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- The $3,465 of additional cash that Amazon must pay at maturity is incrementally reflected in interest expense and added to the book value of the liability each period over the life of the bond.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- This causes interest expense to reflect the **market interest rate** (also referred to as the **effective interest rate** ), while the cash being paid to bondholders each period reflects the **coupon rate.**
 
-**10-16** 
+- - The accounting method used to record interest expense is referred to as the **effective-interest amortization** method.
 
-## Relationship between Coupon Rate and Market Rate (2 of 2) 
+Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (1 of 3)
 
-- When a bond’s coupon rate is **less** than the rate investors demand, investors will not buy the bond unless its price is reduced (i.e., a **discount** must be provided). 
+- Under the effective-interest amortization method, a company computes interest expense by multiplying the bonds payable book value times the market rate of interest on the date of issuance.
 
-- When a bond’s coupon rate is **more** than investors demand, investors will be willing to pay a **premium** to buy the bond. 
+- When bonds are issued at a discount interest expense each period is greater than the cash owed for interest each period.
 
-**Important** : Whether a bond is issued at par, at a discount, or at a premium, **investors will always earn the market rate of return.** 
+- The difference between interest expense and the cash owed for interest is the amount of the bond discount amortized during the period.
 
-- During the life of the bond, its market price will change as market interest rates change. This change does not affect the company’s financial statements and the way its interest payments are accounted for. 
+Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (2 of 3)
 
-- The interest rates that matter for accounting purposes are the bond’s **coupon rate** (which does not change over time) and the **market interest** . 
+- The cash owed for interest is computed by multiplying the bond’s face value ($100,000) by the coupon rate per period (10% × ½ year).
 
-- **rate on the day the bond is issued** 
+- Thus, Amazon owes bondholders cash of $5,000 each June 30 and again on December 31. The first interest payment on the bonds is made on June 30, 2025.
 
-**==> picture [65 x 560] intentionally omitted <==**
+Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (3 of 3)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- Interest expense for the next interest period must reflect the change in the bonds payable book value.
 
-**10-17** 
+- Interest expense for the second half of 2025 is calculated as follows:
 
-**==> picture [65 x 560] intentionally omitted <==**
+- Multiply the bonds payable book value on June 30, 2025 ($97,327) by the market rate of interest per period:
 
-## Using Artificial Intelligence (AI) to Invest in Bonds 
+- $97,327 × (12% × ½ year) = $5,840
 
-**==> picture [516 x 59] intentionally omitted <==**
+- With interest expense equal to $5,840 and cash owed for interest equal to $5,000, the amount of the bond discount amortized on December 31, 2025, is $840.
 
- Investors spend considerable time and effort gathering and assessing **vast amounts of market information** (e.g., market interest rates, general economic conditions) as well as companyspecific information. 
+## Bond Discount Amortization Schedule
 
-- **Using technology to expand and expedite this process would allow investors to make more informed, quicker decisions.** 
+Interest expense for December 31, 2025, is more than interest expense for June 30, 2025. Amazon borrowed more money during the second half of the year because of the unpaid interest accrued during the first half of the year. ^dw1iio
 
- AllianceBernstein, a global investment-management and research firm, has created Abbie, a virtual assistant based on artificial intelligence that helps investors make bond investing decisions. 
+## Learning Objective 10-5
 
-- You can read more about Abbie’s abilities here: **alliancebernstein.com/fixed-income/bonds/abbie.htm** 
+**10-5** Report bonds payable and interest expense for bond securities issued at a premium.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Bonds Issued at a Premium (1 of 3)
 
-**10-18** 
+When the **market interest rate is less than the bond’s coupon rate** , the bonds sell at a **premium** .
 
-## Learning Objective 10-2 
+## Bonds Issued at a Premium (2 of 3)
 
-**10-2** Report bonds payable and interest expense for bond securities issued at par. 
+On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The **market interest rate is now 8 percent** . The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026. The coupon rate (10 percent) is less than the market interest rate (12 . percent) on the date of issuance, so the bonds sell at a **premium**
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Bonds Issued at a Premium (3 of 3)
 
-**10-19** 
+Accounting for bonds issued at a premium is similar to accounting for bonds issued at a discount.
 
-## Bonds Issued at Par (1 of 5) 
+Companies can explicitly use a bond premium account in their journal entries or implicitly keep track of the premium amount.
 
-Bonds sell at their face (par) value when the **market interest** rate that investors demand is **equal to** the interest rate stated in the bond contract (the **coupon rate** ). 
+The journal entries to record the sale of Amazon’s bonds issued at a premium are:
 
-**==> picture [643 x 103] intentionally omitted <==**
+Reporting Interest Expense on Bonds Issued at a Premium Using Effective-Interest Amortization (1 of 2)
 
-**==> picture [65 x 560] intentionally omitted <==**
+Under the effective-interest amortization method, a company computes interest expense in a given period by **multiplying the bonds payable book value times the market rate of interest** on the date of issuance.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Reporting Interest Expense on Bonds Issued at a Premium Using Effective-Interest Amortization (2 of 2)
 
-**10-20** 
+The amortization of a discount **increases** the book value of the liability and the amortization of a premium **decreases** it. Both serve the same purpose: to bring the liability to the bond’s face value at the maturity date.
 
-## Bonds Issued at Par (2 of 5) 
+## Bond Premium Amortization Schedule
 
-On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026. 
+## Journal Entry to Retire the Bonds at Maturity
 
-Investors are willing to pay $100,000 in cash for the bonds meaning the bonds are sold at **Par** . 
+Regardless of whether a company issues bonds at par, at a discount, or at a premium, the company will enter the same journal entry when it retires the bonds at maturity.
 
-**==> picture [603 x 245] intentionally omitted <==**
+For our Amazon example, the journal entry at 12/31/2026 would be:
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Exhibit 10.3
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+The Change in the Book Value of a Bond Over Time
 
-**10-21** 
+## Zero Coupon Bonds
 
-## Bonds Issued at Par (3 of 5) 
+Zero coupon bonds do not pay periodic cash interest. Investors will price the bond so that they earn the market rate of interest.
 
-The amount of money a company receives when it sells bonds is the **present value of the future cash flows** associated with the bonds. 
+Because there is no periodic cash paid for interest:
 
-**==> picture [665 x 187] intentionally omitted <==**
+PV of the Principal = Issue Price of the Bonds
 
-Amazon agrees to make two types of payments in the future: a single payment of $100,000 when the bond matures in two years and an annuity of $5,000 [$100,000 × (10% × ½ year)] payable twice a year for two years (four total payments). 
+- A bond with a zero coupon interest rate is simply a deeply discounted bond that will sell for substantially less than the amount due at maturity (its face value).
 
-- The 10% in the equation is the **bond’s coupon rate.** 
+- Accounting for a zero coupon bond is no different than accounting for other bonds issued at a discount.
 
-**==> picture [65 x 560] intentionally omitted <==**
+However, the amount of **the discount is much larger** .
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Learning Objective 10-6
 
-**10-22** 
+**10-6** Report the early retirement of bond securities.
 
-## Bonds Issued at Par (4 of 5) 
+## Early Retirement of Bonds
 
-**Use the bond’s market interest rate per period (in this case 10% ÷ 2 = 5%) to compute the bond’s present value.** The present value of the bond payments can be computed using tables in Appendix E, a financial calculator, or Excel. This calculation uses the present value tables: 
+Some bonds have a **call** feature that allows the issuing company to call (retire) the bonds early. A call feature most often requires the issuing company to pay investors an amount greater than the bond’s face value to retire the bonds before their maturity date. The amount paid is often stated as a percentage of the bond’s face value.
 
-**==> picture [252 x 181] intentionally omitted <==**
+Cash Paid to Retire Bonds < Book Value = **GAIN**
 
-**==> picture [650 x 138] intentionally omitted <==**
+Cash Paid to Retire Bonds > Book Value = **LOSS**
 
-**==> picture [586 x 137] intentionally omitted <==**
+In some cases, a company may elect to retire bonds early by purchasing them on the **open market** , just as an investor would. This approach is necessary when the bonds do not have a call feature. Even when the bonds have a call feature, retiring them by purchasing them on the open market is attractive when the cost of doing so is less than the cost of paying the call premium.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Journal entry to retire bonds
 
-**10-23** 
+## Assume the following:
 
-## Bonds Issued at Par (5 of 5) 
+- Book value of Amazon’s bonds was $101,000 at the time the bonds
 
-- When the market rate of interest equals the coupon rate, the present value of the future cash flows associated with a bond always equals the bond’s face value amount. 
+- were retired.
 
-- A bond’s selling price is determined by the present value of its future cash flows, not the face value. 
+- Amazon paid $102,000 to retire the bonds.
 
-On the date the bonds are issued, record a bond liability equal to the amount investors are willing to pay for the bonds: 
+- Amazon would recognize a loss on bond call of $1,000 on its income
 
-**==> picture [576 x 131] intentionally omitted <==**
+- statement.
 
-The amount of interest each period will be $5,000 ($100,000 × 0.10 × ½ year). 
+The journal entry would be:
 
-**==> picture [598 x 127] intentionally omitted <==**
+## Price of Bonds versus Market Interest Rates
 
-- © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Bond prices move in the opposite direction of interest rates.** If interest rates go up, bond prices fall, and vice versa. If interest rates go up enough, a company may decide that it makes good economic sense to retire its bonds early by purchasing them on the open market.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Reporting Interest Expense Using Straight-Line Amortization
 
-**10-24** 
+- **GAAP requires that companies use the effective-interest method to amortize bond discounts and bond premiums.** GAAP permits companies to use straight-line amortization when results do not materially differ from results computed using the effective-interest method.
 
-## Reporting Interest Expense 
+- With **straight-line amortization** , a company takes the total amount of the discount or the premium at issuance, divides it by the number of periods in the bond’s life, and amortizes that amount each period.
 
-- Interest expense is reported on the income statement. Because interest is related to financing activities rather than operating activities, it is normally not included in operating expenses on the income statement. 
+## Learning Objective 10-7
 
-- • Interest expense is typically reported just below “income from operations” on the income statement. 
+**10-7** Compute and analyze the debt-to-equity ratio.
 
-**==> picture [586 x 305] intentionally omitted <==**
+## Debt-to-Equity
 
-**==> picture [65 x 560] intentionally omitted <==**
+This ratio shows the relationship between the amount of capital provided by owners and the amount provided by creditors. In general, a high ratio indicates that a company relies heavily on debt financing relative to equity financing. This increases the risk that a company may not be able to meet its contractual financial obligations during a business downturn.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+The 2023 ratio for Amazon is:
 
-**10-25** 
+## Learning Objective 10-8
 
-## Learning Objective 10-3 
+**10-8** Explain how bond securities are reported on the statement of cash flows.
 
-**10-3** Compute and analyze the times interest earned ratio. 
+## Bond Transactions and the Statement of Cash Flows (1 of 2)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Payment of interest under U.S. GAAP is an operating cash outflow.** Interest expense is reported on the income statement and is a component of net income. As a result, GAAP requires that interest payments be reported as operating activities on the statement of cash flows. Analysts are particularly interested in the financing activities section of the statement of cash flows because it provides important insights about the capital structure of a company.
 
-**10-26** 
+## Bond Transactions and the Statement of Cash Flows (2 of 2)
 
-## Times Interest Earned 
+Excerpt from **Amazon** ’s cash flow statement showing its financing activities:
 
-**==> picture [523 x 58] intentionally omitted <==**
+## Chapter Supplement: Accounting for Bonds without a Discount Account or Premium Account
 
-- This ratio shows whether a company is generating sufficient resources from its profit-making operations to meet its current interest obligations. 
+**For financial reporting purposes, it is not necessary to use a discount (or premium) account when recording the sale of bonds. The Chapter Supplement duplicates the journal entries in this chapter without using the bond discount or bond premium accounts.**
 
-- • A high ratio indicates an extra margin of protection in case profitability deteriorates. 
+For example, the journal entries to record the sale of bonds issued at a discount without using a discount account is:
 
-- Failure to meet required interest payments could result in bankruptcy. 
+The journal entry to record interest expense, without the discount account:
 
-**==> picture [604 x 221] intentionally omitted <==**
-
-- © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**10-27** 
-
-## Learning Objective 10-4 
-
-**10-4** Report bonds payable and interest expense for bond securities issued at a discount. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-28** 
-
-## Bonds Issued at a Discount (1 of 4) 
-
-Bonds sell at a **discount** when the **market interest rate is greater than the coupon rate.** 
-
-**==> picture [647 x 108] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-29** 
-
-## Bonds Issued at a Discount (2 of 4) 
-
-On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The **market interest rate is now 12 percent** . The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026. The coupon rate (10 percent) is less than the market interest rate (12 percent) on the date of issuance, so the bonds sell at a **discount** . 
-
-**==> picture [646 x 125] intentionally omitted <==**
-
-_Thus, if the market interest rate is 12 percent on the date of issuance, investors will be willing to pay Amazon $96,535 for the bonds. Some people refer to this price as 96.5, which indicates the selling price was 96.5 percent of the bond’s face value (96.5 = $96,535 ÷ $100,000)._ 
-
-**==> picture [501 x 118] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-30** 
-
-## Bonds Issued at a Discount (3 of 4) 
-
-**Since the present value of the bonds of $96,535 is less than the $100,000 face amount of the bonds, the bonds are issued at a discount of $3,465.** Companies can account for the bond discount explicitly (using a bond discount account) or implicitly.  Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical. 
-
-Bond discount is a contra-liability account 
-
-**==> picture [531 x 216] intentionally omitted <==**
-
-**==> picture [250 x 118] intentionally omitted <==**
-
-While Amazon received only $96,535 when it sold the bonds, it must repay $100,000 when the bonds mature. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-31** 
-
-## Bonds Issued at a Discount (4 of 4) 
-
-- While Amazon received only $96,535 when it sold the bonds at a discount, it must repay $100,000 when the bonds mature. 
-
-   - The $3,465 of additional cash that Amazon must pay at maturity is incrementally reflected in interest expense and added to the book value of the liability each period over the life of the bond. 
-
-- This causes interest expense to reflect the **market interest rate** (also referred to as the **effective interest rate** ), while the cash being paid to bondholders each period reflects the **coupon rate.** 
-
-- • The accounting method used to record interest expense is referred to as the **effective-interest amortization** method. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-32** 
-
-Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (1 of 3) 
-
-- Under the effective-interest amortization method, a company computes interest expense by multiplying the bonds payable book value times the market rate of interest on the date of issuance. 
-
-- When bonds are issued at a discount interest expense each period is greater than the cash owed for interest each period. 
-
-- The difference between interest expense and the cash owed for interest is the amount of the bond discount amortized during the period. 
-
-**==> picture [503 x 272] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-33** 
-
-Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (2 of 3) 
-
-- The cash owed for interest is computed by multiplying the bond’s face value ($100,000) by the coupon rate per period (10% × ½ year). 
-
- Thus, Amazon owes bondholders cash of $5,000 each June 30 and again on December 31. The first interest payment on the bonds is made on June 30, 2025. 
-
-**==> picture [604 x 347] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**10-34** 
-
-Reporting Interest Expense on Bonds Issued at a Discount Using Effective-Interest Amortization (3 of 3) 
-
-- Interest expense for the next interest period must reflect the change in the bonds payable book value. 
-
-- Interest expense for the second half of 2025 is calculated as follows: 
-
-   - Multiply the bonds payable book value on June 30, 2025 ($97,327) by the market rate of interest per period: 
-
-      - $97,327 × (12% × ½ year) = $5,840 
-
-   - With interest expense equal to $5,840 and cash owed for interest equal to $5,000, the amount of the bond discount amortized on December 31, 2025, is $840. 
-
-**==> picture [712 x 201] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-35** 
-
-## Bond Discount Amortization Schedule 
-
-Interest expense for December 31, 2025, is more than interest expense for June 30, 2025. Amazon borrowed more money during the second half of the year because of the unpaid interest accrued during the first half of the year. 
-
-**==> picture [644 x 401] intentionally omitted <==**
-
-> © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**10-36** 
-
-## Learning Objective 10-5 
-
-**10-5** Report bonds payable and interest expense for bond securities issued at a premium. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-37** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bonds Issued at a Premium (1 of 3) 
-
-When the **market interest rate is less than the bond’s coupon rate** , the bonds sell at a **premium** . 
-
-**==> picture [668 x 113] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-38** 
-
-## Bonds Issued at a Premium (2 of 3) 
-
-On January 1, 2025, Amazon issues bonds with a coupon rate of 10 percent and a face value of $100,000. The **market interest rate is now 8 percent** . The bonds start accruing interest on January 1, 2025, and will pay interest each June 30 and December 31. The bonds mature in two years on December 31, 2026. The coupon rate (10 percent) is less than the market interest rate (12 . percent) on the date of issuance, so the bonds sell at a **premium** 
-
-**==> picture [636 x 273] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-39** 
-
-## Bonds Issued at a Premium (3 of 3) 
-
-Accounting for bonds issued at a premium is similar to accounting for bonds issued at a discount. 
-
-Companies can explicitly use a bond premium account in their journal entries or implicitly keep track of the premium amount. 
-
-The journal entries to record the sale of Amazon’s bonds issued at a premium are: 
-
-**==> picture [555 x 260] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-40** 
-
-Reporting Interest Expense on Bonds Issued at a Premium Using Effective-Interest Amortization (1 of 2) 
-
-Under the effective-interest amortization method, a company computes interest expense in a given period by **multiplying the bonds payable book value times the market rate of interest** on the date of issuance. 
-
-**==> picture [507 x 276] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-41** 
-
-Reporting Interest Expense on Bonds Issued at a Premium Using Effective-Interest Amortization (2 of 2) 
-
-**==> picture [657 x 348] intentionally omitted <==**
-
-The amortization of a discount **increases** the book value of the liability and the amortization of a premium **decreases** it. Both serve the same purpose: to bring the liability to the bond’s face value at the maturity date. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-42** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bond Premium Amortization Schedule 
-
-**==> picture [642 x 434] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-43** 
-
-## Journal Entry to Retire the Bonds at Maturity 
-
-Regardless of whether a company issues bonds at par, at a discount, or at a premium, the company will enter the same journal entry when it retires the bonds at maturity. 
-
-For our Amazon example, the journal entry at 12/31/2026 would be: 
-
-**==> picture [647 x 143] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-44** 
-
-## Exhibit 10.3 
-
-The Change in the Book Value of a Bond Over Time 
-
-**==> picture [515 x 434] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-45** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Zero Coupon Bonds 
-
-**==> picture [524 x 62] intentionally omitted <==**
-
-Zero coupon bonds do not pay periodic cash interest. Investors will price the bond so that they earn the market rate of interest. 
-
-Because there is no periodic cash paid for interest: 
-
-PV of the Principal = Issue Price of the Bonds 
-
-- A bond with a zero coupon interest rate is simply a deeply discounted bond that will sell for substantially less than the amount due at maturity (its face value). 
-
-- Accounting for a zero coupon bond is no different than accounting for other bonds issued at a discount. 
-
-However, the amount of **the discount is much larger** . 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-46** 
-
-## Learning Objective 10-6 
-
-**10-6** Report the early retirement of bond securities. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-47** 
-
-## Early Retirement of Bonds 
-
-Some bonds have a **call** feature that allows the issuing company to call (retire) the bonds early. A call feature most often requires the issuing company to pay investors an amount greater than the bond’s face value to retire the bonds before their maturity date. The amount paid is often stated as a percentage of the bond’s face value. 
-
-Cash Paid to Retire Bonds < Book Value = **GAIN** 
-
-Cash Paid to Retire Bonds > Book Value = **LOSS** 
-
-In some cases, a company may elect to retire bonds early by purchasing them on the **open market** , just as an investor would. This approach is necessary when the bonds do not have a call feature. Even when the bonds have a call feature, retiring them by purchasing them on the open market is attractive when the cost of doing so is less than the cost of paying the call premium. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-48** 
-
-## Journal entry to retire bonds 
-
-## Assume the following: 
-
-- Book value of Amazon’s bonds was $101,000 at the time the bonds 
-
-   - were retired. 
-
-- Amazon paid $102,000 to retire the bonds. 
-
-- Amazon would recognize a loss on bond call of $1,000 on its income 
-
-   - statement. 
-
-The journal entry would be: 
-
-**==> picture [574 x 215] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-49** 
-
-## Price of Bonds versus Market Interest Rates 
-
-**Bond prices move in the opposite direction of interest rates.** If interest rates go up, bond prices fall, and vice versa. If interest rates go up enough, a company may decide that it makes good economic sense to retire its bonds early by purchasing them on the open market. 
-
-**==> picture [529 x 243] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-50** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Reporting Interest Expense Using Straight-Line Amortization 
-
- **GAAP requires that companies use the effective-interest method to amortize bond discounts and bond premiums.** GAAP permits companies to use straight-line amortization when results do not materially differ from results computed using the effective-interest method. 
-
- With **straight-line amortization** , a company takes the total amount of the discount or the premium at issuance, divides it by the number of periods in the bond’s life, and amortizes that amount each period. 
-
-**==> picture [534 x 322] intentionally omitted <==**
-
-> © McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-51** 
-
-## Learning Objective 10-7 
-
-**10-7** Compute and analyze the debt-to-equity ratio. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-52** 
-
-**==> picture [421 x 48] intentionally omitted <==**
-
-## Debt-to-Equity 
-
-This ratio shows the relationship between the amount of capital provided by owners and the amount provided by creditors. In general, a high ratio indicates that a company relies heavily on debt financing relative to equity financing. This increases the risk that a company may not be able to meet its contractual financial obligations during a business downturn. 
-
-The 2023 ratio for Amazon is: 
-
-**==> picture [259 x 39] intentionally omitted <==**
-
-**==> picture [244 x 127] intentionally omitted <==**
-
-**==> picture [322 x 127] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**10-53** 
-
-## Learning Objective 10-8 
-
-**10-8** Explain how bond securities are reported on the statement of cash flows. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-54** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bond Transactions and the Statement of Cash Flows (1 of 2) 
-
-**==> picture [464 x 54] intentionally omitted <==**
-
-**==> picture [647 x 122] intentionally omitted <==**
-
-**Payment of interest under U.S. GAAP is an operating cash outflow.** Interest expense is reported on the income statement and is a component of net income. As a result, GAAP requires that interest payments be reported as operating activities on the statement of cash flows. Analysts are particularly interested in the financing activities section of the statement of cash flows because it provides important insights about the capital structure of a company. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-55** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bond Transactions and the Statement of Cash Flows (2 of 2) 
-
-**==> picture [464 x 54] intentionally omitted <==**
-
-Excerpt from **Amazon** ’s cash flow statement showing its financing activities: 
-
-**==> picture [632 x 316] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-56** 
-
-## Chapter Supplement: Accounting for Bonds without a Discount Account or Premium Account 
-
-**For financial reporting purposes, it is not necessary to use a discount (or premium) account when recording the sale of bonds. The Chapter Supplement duplicates the journal entries in this chapter without using the bond discount or bond premium accounts.** 
-
-For example, the journal entries to record the sale of bonds issued at a discount without using a discount account is: 
-
-**==> picture [537 x 89] intentionally omitted <==**
-
-The journal entry to record interest expense, without the discount account: 
-
-**==> picture [537 x 112] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**10-57** 
-
+## Related Notes
+- [[Lect2-3]]
+- Chapter 3
+- [[Lect3_exercises]]

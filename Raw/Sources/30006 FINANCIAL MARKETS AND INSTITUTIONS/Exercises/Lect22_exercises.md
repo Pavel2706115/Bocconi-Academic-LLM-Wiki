@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 22** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect22_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 22
 
-- Which of the following correctly describes financial crises? 
+## EX 1
 
-- a) financial crises reduce adverse selection problems 
+- Which of the following correctly describes financial crises?
 
-   - because all creditors are rationed 
+- a) financial crises reduce adverse selection problems
 
-- b) financial crises disrupt financial markets, _and_ the real economy 
+- because all creditors are rationed
 
-- c) financial crises always induce debt deflation 
+- b) financial crises disrupt financial markets, _and_ the real economy
 
-- d) none of the other 
+- c) financial crises always induce debt deflation
 
-## **EX 2** 
+- d) none of the other
 
-- When a debt deflation occurs, firms' net worth declines because: 
+## EX 2
 
-- a) central bank increases the interest rates and thus the value of debt decreases 
+- When a debt deflation occurs, firms' net worth declines because:
 
-- b) as prices decline, the real value of corporate savings decreases 
+- a) central bank increases the interest rates and thus the value of debt decreases
 
-- c) asset prices do not increase (actually, they decrease) and liabilities increase in real terms 
+- b) as prices decline, the real value of corporate savings decreases
 
-- d) consumer demand increases, thus consumers save less and reduce deposits at the banks 
+- c) asset prices do not increase (actually, they decrease) and liabilities increase in real terms
 
-## **EX 3** 
+- d) consumer demand increases, thus consumers save less and reduce deposits at the banks
 
-During a financial crisis, what are the possible consequences of deleveraging: 
+## EX 3
 
-- a) reduce the value of banks’ assets b) decrease bank capital ratio (capital on loans) 
+During a financial crisis, what are the possible consequences of deleveraging:
 
-- c) increase the value of banks’ assets 
+- a) reduce the value of banks’ assets b) decrease bank capital ratio (capital on loans)
 
-- d) none of the others above 
+- c) increase the value of banks’ assets
 
-## **EX 4** 
+- d) none of the others above
 
-Bank LowCapital has reserves of $20, loans of $110, deposits of $90 and capital of $40. $50 of loans maturing tomorrow. Tomorrow, only $30 of loans are repaid and the bank expects another loss of $10 on remaining loans. The minimum level of bank capital required is 15% of loans. 
+## EX 4
 
-How much of loans should the bank convert into reserves to have a capital ratio exactly equal to the minimum required percentage? Proxy results to the first decimal. 
+Bank LowCapital has reserves of $20, loans of $110, deposits of $90 and capital of $40. $50 of loans maturing tomorrow. Tomorrow, only $30 of loans are repaid and the bank expects another loss of $10 on remaining loans. The minimum level of bank capital required is 15% of loans. ^eigoyd
+*(See also: [[Lect22#^b1gt72]])*
 
-- a) $13.3 
+How much of loans should the bank convert into reserves to have a capital ratio exactly equal to the minimum required percentage? Proxy results to the first decimal.
 
-- b) $20.1 
+- a) $13.3
 
-- c) $11.9 d) $5.0 
+- b) $20.1
 
+- c) $11.9 d) $5.0
+
+## Related Notes
+- [[Lect22]]
+- [[Lect15]]
+- [[Lect21_exercises]]

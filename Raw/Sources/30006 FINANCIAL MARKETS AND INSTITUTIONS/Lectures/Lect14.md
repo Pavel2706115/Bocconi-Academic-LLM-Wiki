@@ -1,486 +1,437 @@
-Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Why Do Financial Institutions Exist? (Chapter 7)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Why Do Financial Institutions Exist? (Chapter 7)** 
+# Why Do Financial Institutions Exist? (Chapter 7)
 
-**==> picture [331 x 199] intentionally omitted <==**
+## Part II: Indirect Finance
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+** : bonds, stocks, money markets, derivatives
 
+## Part II: Indirect Finance
 
-**==> picture [330 x 198] intentionally omitted <==**
+✓ Today we will look at **Financial Intermediaries** in general: functions, advantages…
 
-**----- Start of picture text -----**<br>
-7-1<br>**----- End of picture text -----**<br>
+✓ Next two lectures: **Commercial Banks** and **Central Banks**
 
+✓ Then move on to: **Mutual Funds** and **Investment Banks**
 
-## **Part II: Indirect Finance** 
+- ✓ After, some topics regarding financial institutions in general: ( **Risk Management** , **Regulation** and **Financial Crises** )
 
-**==> picture [710 x 247] intentionally omitted <==**
+- ✓ Last two lectures with me
 
-**----- Start of picture text -----**<br>
-Focus here from<br>now on<br>**----- End of picture text -----**<br>
+`o` Financial Crises
 
+`o` Review and exercises
 
-: bonds, stocks, money markets, derivatives 
+- ✓ Special lecture (3(rd) December)
 
-## **Part II: Indirect Finance** 
+`o` Dr. Giorgio Gobbi, Senior Director at Bank of Italy, - long experience on Financial Stability and Fintech
 
-✓ Today we will look at **Financial Intermediaries** in general: functions, advantages… 
+## Sources of External Finance for Non-Financial Business
 
-✓ Next two lectures: **Commercial Banks** and **Central Banks** 
+## Sources of External Finance for Non-Financial Business
 
-✓ Then move on to: **Mutual Funds** and **Investment Banks** 
+## Sources of External Finance for Non-Financial Business
 
-- ✓ After, some topics regarding financial institutions in general: ( **Risk Management** , **Regulation** and **Financial Crises** ) 
+## Outline of today
 
-- ✓ Last two lectures with me 
+**We go back to the foundations of financial institutions**
 
-`o` Financial Crises 
+1. Why do financial institutions exist?
 
-`o` Review and exercises 
+2. Transaction costs
 
-- ✓ Special lecture (3[rd] December) 
+3. Two sides of Asymmetric Information (Asy Info)
 
-`o` Dr. Giorgio Gobbi, Senior Director at Bank of Italy, ▪ long experience on Financial Stability and Fintech 
+`o` Adverse Selection (Asy Info _ex-ante_ ) `o` Moral Hazard _ex-_ (Asy Info _post_ )
 
-## **Sources of External Finance for Non-Financial Business** 
+4. Some well-known conflicts of interest in financial industry
 
-**==> picture [678 x 449] intentionally omitted <==**
+## Motivation
 
-**----- Start of picture text -----**<br>
-Corporate<br>Bonds<br>New issues<br>Commercial<br>paper<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 7-4<br>**----- End of picture text -----**<br>
+## Why do Financial Institutions (FI) exist?
 
+## ✓ Two primary functions of FI (indirect finance):
 
-## **Sources of External Finance for Non-Financial Business** 
+1. _Lower_ Transaction Costs
 
-**==> picture [683 x 454] intentionally omitted <==**
+2. _Reduce_ Asymmetric Info
 
-**----- Start of picture text -----**<br>
-Indirect Finance<br>( underestimated )<br>Direct Finance<br>(only large firms)<br>( overestimated )<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 7-5<br>**----- End of picture text -----**<br>
+- ✓ _Reason for their existence_
 
+- at least in principle, FI are _better equipped_ than financial markets (direct finance) to solve these problems
 
-## **Sources of External Finance for Non-Financial Business** 
+- By doing 1+2, FI engage in: ✓ **Risk sharing**
 
-**==> picture [697 x 454] intentionally omitted <==**
+- better ability to use portfolio _diversification_ techniques
 
-**----- Start of picture text -----**<br>
-DEBT<br>Indirect Finance<br>Direct Finance<br>(only large firms)<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 7-6<br>**----- End of picture text -----**<br>
+- `o` risk sharing due to lower _transaction_ costs
 
+- ✓ **Asset Transformation:** transform assets into more attractive ones: `o` _maturity_ transformation (long maturities)
 
-## **Outline of today** 
+## Transaction Costs
 
-**We go back to the foundations of financial institutions** 
+✓ **Transactions costs** influence the financial structure
 
-1. Why do financial institutions exist? 
+- ✓ Certain types of investments only available in **large denominations**
 
-2. Transaction costs 
+- ✓ For a _small (number of) transactions_ , commissions and fees represent a high percentage of investments
 
-3. Two sides of Asymmetric Information (Asy Info) 
+- ✓ As a result, small individual investments are not well diversified (bear greater risk)
 
-`o` Adverse Selection (Asy Info _ex-ante_ ) `o` Moral Hazard _ex-_ (Asy Info _post_ ) 
+## Transaction Costs
 
-4. Some well-known conflicts of interest in financial industry 
+FI reduce transactions costs by:
 
-## **Motivation** 
+- **a) Economies of Scale**: average cost (per $ of investment) decreases as the _size_ ( _scale_ ) of transaction increases
 
-## **Why do Financial Institutions (FI) exist?** 
+- consider fixed cost in buying shares
 
-## ✓ Two primary functions of FI (indirect finance): 
+- FI’s can deliver lower cost per transaction simply by making so many financial transactions
 
-   1. _Lower_ Transaction Costs 
+- **b) Economies of Scope**: average cost decreases as _number of products_ offered increases
 
-   2. _Reduce_ Asymmetric Info 
+- transaction cost for a single transaction decreases if FI offers more products. Examples:
 
-- ✓ _Reason for their existence_ 
+- credit card & bank account & mortgage at same institution
 
-   - at least in principle, FI are _better equipped_ than financial markets (direct finance) to solve these problems 
+- online banking & trading platform (the cost of providing additional services via an existing online banking platform is negligible)
 
-- By doing 1+2, FI engage in: ✓ **Risk sharing** 
+## Economies of scale and Risk Sharing
 
-   - better ability to use portfolio _diversification_ techniques 
+- Very broad _diversification_ can be attained via a FI at _lower transaction costs_ !
 
-   - `o` risk sharing due to lower _transaction_ costs 
+- ✓ Suppose you want to diversify $2,000 over 60 different stocks
 
-- ✓ **Asset Transformation:** transform assets into more attractive ones: `o` _maturity_ transformation (long maturities) 
+- ✓ Stock-broker charges $4.59 flat for trade on each stock
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` _denomination_ transformation (large minimum investments) 7-8 
+- ✓ Your transaction cost would be very high if pay for each different trade
 
-## **Transaction Costs** 
+- you’d pay $275.4, i.e **. 14%** of your investment in fees!
 
-✓ **Transactions costs** influence the financial structure 
+- `o` diversification too costly: not feasible!
 
-- ✓ Certain types of investments only available in **large denominations** 
+- ✓ If instead 100 investors were to give $2,000 each to an intermediary. The intermediary would diversify those $200,000 over 60 different stocks (via the same stock-broker)
 
-- ✓ For a _small (number of) transactions_ , commissions and fees represent a high percentage of investments 
+`o` they’d pay all together still $275.4 (only 60 trades overall!) `o` **0.14%** of their individual contribution in transaction fees!
 
-- ✓ As a result, small individual investments are not well diversified (bear greater risk) 
+## Economies of scale and Asset transformation
 
-## **Transaction Costs** 
+## Denomination Transformation
 
-FI reduce transactions costs by: 
+- ✓ Many securities are in principle very interesting but come in large denominations
 
-- **a) Economies of Scale** : average cost (per $ of investment) decreases as the _size_ ( _scale_ ) of transaction increases 
+- one single class A share of Warren Buffet’s Berkshire Hathaway Inc. costs **$736,653** (as of mid Oct. 2025)
 
-   - consider fixed cost in buying shares 
+`o` most _commercial paper_ usually comes in denominations of **$100k** to **$250k**
 
-   - FI’s can deliver lower cost per transaction simply by making so many financial transactions 
+- ✓ You could buy 1, 2, 3, . . . (but no less than 1)
 
-- **b) Economies of Scope** : average cost decreases as _number of products_ offered increases 
+✓ By investing via a FI …
 
-   - transaction cost for a single transaction decreases if FI offers more products. Examples: 
+- …you can nevertheless invest small amounts in securities that have _large_ denominations
 
-      - credit card & bank account & mortgage at same institution 
+## Facts: Direct vs Indirect Finance
 
-      - online banking & trading platform (the cost of providing additional services via an existing online banking platform is negligible) 
+Transaction costs **cannot** explain some facts! Throughout the world, non-financial businesses mostly use **indirect finance** as a source of external funds ( _i.e._ all those funds that do not come from the business itself through retained earnings)
 
-## **Economies of scale and Risk Sharing** 
+FACT 1 **Small firms** _typically_ do **not** issue _bonds+stocks_
 
-- Very broad _diversification_ can be attained via a FI at _lower transaction costs_ ! 
+FACT 2 There is **more debt** (bonds+loans) **than equity** around the world
 
-- ✓ Suppose you want to diversify $2,000 over 60 different stocks 
+FACT 3
 
-- ✓ Stock-broker charges $4.59 flat for trade on each stock 
+Bank loans often require **collateral** _(secured)_
 
-- ✓ Your transaction cost would be very high if pay for each different trade 
+WHY? Main reason: **Asymmetric Information**
 
-   - you’d pay $275.4, i.e **. 14%** of your investment in fees! 
+## Asymmetric Information
 
-   - `o` diversification too costly: not feasible! 
+- ✓ _Definition_: there is asymmetric info when one counterparty lacks crucial information about another party, impacting decision-making
 
-- ✓ If instead 100 investors were to give $2,000 each to an intermediary. The intermediary would diversify those $200,000 over 60 different stocks (via the same stock-broker) 
+- ✓ The market may _break-down_ in the presence of asymmetric info ( _market failure_ )
 
-`o` they’d pay all together still $275.4 (only 60 trades overall!) `o` **0.14%** of their individual contribution in transaction fees! 
+- ✓ Agency theory: analysis of how Asy Info affects economic behavior
 
-## **Economies of scale and Asset transformation** 
+✓ Two types of Asymmetric Info: `o` **Adverse selection**
 
-## _Denomination Transformation_ 
+and
 
-- ✓ Many securities are in principle very interesting but come in large denominations 
+## `o` **Moral hazard**
 
-   - one single class A share of Warren Buffet’s Berkshire Hathaway Inc. costs **$736,653** (as of mid Oct. 2025) 
+## Asymmetric Information
 
-`o` most _commercial paper_ usually comes in denominations of **$100k** to **$250k** 
+## Adverse Selection
 
-- ✓ You could buy 1, 2, 3, . . . (but no less than 1) 
+1. one party that knows more about the transaction most likely produce the undesirable ( _adverse_ ) outcome
 
-✓ By investing via a FI … 
+2. Asy info exists before transaction occurs ( _**ex-ante** )_
 
-- …you can nevertheless invest small amounts in securities that have _large_ denominations 
+- ✓ Famous “ _lemon”_ market problem (Akerlof) in the market for secondhand cars
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` ex of FI: bank or mutual fund 7-12 
+- good or bad (lemon) car
 
-## **Facts: Direct vs Indirect Finance** 
+- good or bad borrower
 
-Transaction costs **cannot** explain some facts! Throughout the world, non-financial businesses mostly use **indirect finance** as a source of external funds ( _i.e._ all those funds that do not come from the business itself through retained earnings) 
+## Adverse Selection
 
-FACT 1 **Small firms** _typically_ do **not** issue _bonds+stocks_ 
+## Adverse Selection
 
-FACT 2 There is **more debt** (bonds+loans) **than equity** around the world 
+- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.:
 
-FACT 3 
+1. A health _insurance_ does not know exact medical condition of a potential customer
 
-Bank loans often require **collateral** _(secured)_ 
+2. A buyer of a _used car_ does not know its quality 3. A bank does not know the creditworthiness of a potential _borrower_
 
-WHY? Main reason: **Asymmetric Information** 
+- ✓ How will each of these respond? 1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate ^hroojd
 
-## **Asymmetric Information** 
+## Adverse Selection
 
-- ✓ _Definition_ : there is asymmetric info when one counterparty lacks crucial information about another party, impacting decision-making 
+## Adverse Selection
 
-- ✓ The market may _break-down_ in the presence of asymmetric info ( _market failure_ ) 
+- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.:
 
-- ✓ Agency theory: analysis of how Asy Info affects economic behavior 
+1. A health _insurance_ does not know exact medical condition of a potential customer
 
-✓ Two types of Asymmetric Info: `o` **Adverse selection** 
+2. A buyer of a _used car_ does not know its quality 3. A bank does not know the creditworthiness of a potential _borrower_
 
-and 
+- ✓ How will each of these respond?
 
-## `o` **Moral hazard** 
+1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate
 
-## **Asymmetric Information** 
+## Adverse Selection
 
-## **Adverse Selection** 
+## Adverse Selection
 
-1. one party that knows more about the transaction most likely produce the undesirable ( _adverse_ ) outcome 
+- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.:
 
-2. Asy info exists before transaction occurs ( _**ex-ante** )_ 
+1. A health _insurance_ does not know exact medical condition of a potential customer
 
-- ✓ Famous “ _lemon”_ market problem (Akerlof) in the market for secondhand cars 
+2. A buyer of a _used car_ does not know its quality
 
-   - good or bad (lemon) car 
+3. A bank does not know the creditworthiness of a potential _borrower_
 
-   - good or bad borrower 
+- ✓ How will each of these respond?
 
-## **Adverse Selection** 
+1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate
 
-## **Adverse Selection** 
+- Response: best types may **withdraw** from the market …. … _Adverse Selection_
 
-- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.: 
+1. Healthy clients do **not** want to pay too high premiums 2. Good used cars a would be **under** valued
 
-   1. A health _insurance_ does not know exact medical condition of a potential customer 
+## Exercise: Adverse Selection
 
-   2. A buyer of a _used car_ does not know its quality 3. A bank does not know the creditworthiness of a potential _borrower_ 
+You want to buy a corporate bond. There are three bonds offered:
 
-- ✓ How will each of these respond? 1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate 
+`o` 1 high-quality value $ 120 `o` 1 medium-quality value $   90 `o` 1 poor quality value $   60
 
-## **Adverse Selection** 
+You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ )
 
-## **Adverse Selection** 
+**Q**: if she offers a bond for sale, how much are you willing to pay for it?
 
-- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.: 
+**A**: you are willing to pay 90: the average quality bond. Equal chance of getting good, medium or bad
 
-   1. A health _insurance_ does not know exact medical condition of a potential customer 
+**Q**: and if the dealer **knows** the quality, but you don’t (Asy. Info.)? **A**: willing to pay 60 at most. If you paid 90 or 120, he’d sell you the junk and earn 30 or 60. He’ll sell you the junk no matter what. You know it, so you pay 60 ^1hjtcs
 
-   2. A buyer of a _used car_ does not know its quality 3. A bank does not know the creditworthiness of a potential _borrower_ 
+7-19
 
-- ✓ How will each of these respond? 
+## Exercise: Adverse Selection
 
-   1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate 
+You want to buy a corporate bond. There are three bonds offered:
 
-## **Adverse Selection** 
+`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60 You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) ^skpgu8
 
-## **Adverse Selection** 
+**Q**: if she offers a bond for sale, how much are you willing to pay for it? **A**: you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad
 
-- ✓ _Before_ agreeing to a transaction ( _ex-_ _**ante**_ ), one party has more information. 4 ex.: 
+**Q**: and if the dealer **knows** the quality, but you don’t (Asy. Info.)? **A**: willing to pay 60 at most. If you paid 90 or 120, he’d sell you the junk and earn 30 or 60. He’ll sell you the junk no matter what. You know it, so you pay 60
 
-      1. A health _insurance_ does not know exact medical condition of a potential customer 
+7-20
 
-      2. A buyer of a _used car_ does not know its quality 
+## Exercise: Adverse Selection
 
-      3. A bank does not know the creditworthiness of a potential _borrower_ 
+You want to buy a corporate bond. There are three bonds offered:
 
-- ✓ How will each of these respond? 
+`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60 You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) **Q**: if she offers a bond for sale, how much are you willing to pay for it? **A**: you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad
 
-      1. Health insurance will charge higher  premiums 2. Buyer will ask a discount to buy a used car 3. Bank will charge a higher  interest rate 
+**Q**: and if the dealer **knows** the quality, but you don’t ( _Asy. Info._ )?
 
-- Response: best types may **withdraw** from the market …. … _Adverse Selection_ 
+## Exercise: Adverse Selection
 
-   1. Healthy clients do **not** want to pay too high premiums 2. Good used cars a would be **under** valued 
+You want to buy a corporate bond. There are three bonds offered:
 
-   Copyright ©2015 Pearson Education, Ltd. All rights reserved.3. Best borrowers do **not** want to pay too high interest rate 
+`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60
 
-## **Exercise: Adverse Selection** 
+You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ )
 
-You want to buy a corporate bond. There are three bonds offered: 
+**Q**: if she offers a bond for sale, how much are you willing to pay for it? **A**: you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad
 
-`o` 1 high-quality value $ 120 `o` 1 medium-quality value $   90 `o` 1 poor quality value $   60 
+**Q**: and if the dealer **knows** the quality, but you don’t ( _Asy. Info._ )? **A**: willing to pay $60 at most. He’ll sell you the junk no matter what: - if you paid $90 or $120, he’d sell you the junk and earn $30 or $60 - since you know it, you willing to pay only $60
 
-You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) 
+## Adverse Selection
 
-**Q** : if she offers a bond for sale, how much are you willing to pay for it? 
+- ✓ **Reputation**
 
-**A** : you are willing to pay 90: the average quality bond. Equal chance of getting good, medium or bad 
+`o`: if Previous example assumes that there are no _reputational issues_ there are repeated interactions, the bond holder will not sell me a _lemon_ the first time
 
-**Q** : and if the dealer **knows** the quality, but you don’t (Asy. Info.)? **A** : willing to pay 60 at most. If you paid 90 or 120, he’d sell you the junk and earn 30 or 60. He’ll sell you the junk no matter what. You know it, so you pay 60 
+## ✓ **Firm size matters**
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- **Large well-established firms** should have less asymmetric info with financial markets (direct finance): reputation, collateral, etc…
 
-7-19 
+- `o` SME’s very opaque w.r.t. information
 
-## **Exercise: Adverse Selection** 
+- ✓ Hence large firms can **more easily issue stocks and bonds**
 
-You want to buy a corporate bond. There are three bonds offered: 
+- less likely that the investors would buy a _lemon (pecking order hypothesis)_
 
-`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60 You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) 
+**2.**
 
-**Q** : if she offers a bond for sale, how much are you willing to pay for it? **A** : you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad 
+## Solutions to Adverse Selection
 
-**Q** : and if the dealer **knows** the quality, but you don’t (Asy. Info.)? **A** : willing to pay 60 at most. If you paid 90 or 120, he’d sell you the junk and earn 30 or 60. He’ll sell you the junk no matter what. You know it, so you pay 60 
+## How do you **solve** Adverse Selection problems?
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## 1. Private Collection of information
 
-7-20 
+- health examination before selling insurance
 
-## **Exercise: Adverse Selection** 
+- `o` Credit Rating Agencies (CRA): S&P, Moody’s, Fitch, etc.
 
-You want to buy a corporate bond. There are three bonds offered: 
+- `o` credit scores to get credit card
 
-`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60 You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) **Q** : if she offers a bond for sale, how much are you willing to pay for it? **A** : you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad 
+- ✓ but private production of info creates a _free riding_ problem: ✓ once info is out in the market, hard to keep it, other can use this info for free, by simply observing your actions
 
-**Q** : and if the dealer **knows** the quality, but you don’t ( _Asy. Info._ )? 
+## Government Regulation
 
-**A** : willing to pay 60 at most. If you paid 90 or 120, he’d sell you the junk and earn 30 or 60. He’ll sell you the junk no matter what. You know it, so you pay 60 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 7-21 
+- reduce Asy Info by having true company’s information revealed
 
-## **Exercise: Adverse Selection** 
+- Auditors check financial statements (does not always work: see _Arthur Andersen_ in the _Enron scandal_ or _Parmalat_ )
 
-You want to buy a corporate bond. There are three bonds offered: 
+## Solutions to Adverse Selection
 
-`o` 1 high-quality, value $ 120 `o` 1 medium-quality, value $   90 `o` 1 poor quality, value $   60 
+## **3. Screening ex-ante from FI** (especially banks)
 
-You can’t tell which is which but assume also the bond dealer does **not know** the quality of his bonds ( _No Info_ ) 
+- _private_ collection of information
 
-**Q** : if she offers a bond for sale, how much are you willing to pay for it? **A** : you are willing to pay $90, the average quality bond: equal chance of getting good, medium or bad 
+- `o` but rather than selling info (like rating agencies)
 
-**Q** : and if the dealer **knows** the quality, but you don’t ( _Asy. Info._ )? **A** : willing to pay $60 at most. He’ll sell you the junk no matter what: ▪ if you paid $90 or $120, he’d sell you the junk and earn $30 or $60 ▪ since you know it, you willing to pay only $60 
+`o` FI make private loans ( _i.e._ non-traded) that other investors cannot observe
 
-## **Adverse Selection** 
+`o` banks also repeatedly lend to same businesses ( _soft information_ )
 
-- ✓ **Reputation** 
+## 3. Collateral / Net Worth
 
-`o` : if Previous example assumes that there are no _reputational issues_ there are repeated interactions, the bond holder will not sell me a _lemon_ the first time 
+” `o` idea: ask ex-ante to borrowers to have some “ _skin in the game_ `o` collateral examples:
 
-## ✓ **Firm size matters** 
+- house for a mortgage
 
-- **Large well-established firms** should have less asymmetric info with financial markets (direct finance): reputation, collateral, etc… 
+- car for car loan
 
-- `o` SME’s very opaque w.r.t. information 
+- firms use Net Worth (NW=Assets-Liabilities) to finance investment
 
-- ✓ Hence large firms can **more easily issue stocks and bonds** 
+## Is Adverse Selection Enough?
 
-   - less likely that the investors would buy a _lemon (pecking order hypothesis)_ 
+✓ Adverse selection can explain why `o` FACT 1: _small firms_ are shut out of capital markets and use banks and `o` FACT 3: why _bank loans_ are usually collateralized
 
-✓ Explains FACT 1: small firms have hard time issuing stocks Copyright ©2015 Pearson Education, Ltd. All rights reserved.and bonds directly (Adverse Selection) 7-23 
+✓ One point still remains unexplained (FACT 2): `o` why so **little equity** as a source of external finance? or say `o` why **so much debt** (bonds+loans)?
 
-**2.** 
+## **Moral Hazard** can explain that
 
-## **Solutions to Adverse Selection** 
+## Moral Hazard
 
-## How do you **solve** Adverse Selection problems? 
+**Moral Hazard** is a situation where one party has the incentive ( _hazard_ ) to engage in undesirable ( _immoral_ ) _activities_ after the _**ex-**_ transaction has occurred ( _**post**_ )
 
-## **1. Private Collection of information** 
+Examples:
 
-- health examination before selling insurance 
+`o` once people get insurance, they become careless
 
-- `o` Credit Rating Agencies (CRA): S&P, Moody’s, Fitch, etc. 
+`o` once the loan is obtained, entrepreneur uses funds to buy perks (Ferrari) than the one approved (Machinery) `o` your investor uses your savings for a riskier project than the one promised
 
-- `o` credit scores to get credit card 
+`o` employee can become lazy right after a promotion `o` customers leaving full plates at all-you-can-eat sushi
 
-- ✓ but private production of info creates a _free riding_ problem: ✓ once info is out in the market, hard to keep it, other can use this info for free, by simply observing your actions 
+## Case of MH: Principal-Agent Problem
 
-## **Government Regulation** 
+## Principal-Agent Problem
 
-- reduce Asy Info by having true company’s information revealed 
+## 1. Result of separation
 
-- Auditors check financial statements (does not always work: see _Arthur Andersen_ in the _Enron scandal_ or _Parmalat_ ) 
+- of ownership by _“many”_ stockholders ( _principals_
 
-## **Solutions to Adverse Selection** 
+- `o` from control by managers ( _agents_ )
 
-## **3. Screening ex-ante from FI** (especially banks) 
+## 2. Problem: agents act in own rather than principals' interest
 
-- _private_ collection of information 
+- ✓ Problem arises because the agents (e.g.: _managers_ ) _know more owners_ about the company than principals (e.g.: )
 
-- `o` but rather than selling info (like rating agencies) 
+- `o` ex.: managers make very risky investments
 
-`o` FI make private loans ( _i.e._ non-traded) that other investors cannot observe 
+- `o` ex.: managers buy perks or steal company cash
 
-`o` banks also repeatedly lend to same businesses ( _soft information_ ) 
+- ✓ Principals could **monitor** agents’ activities but that’s **costly**
 
-## **3. Collateral / Net Worth** 
+## (** _**i.e.**_ **Moral Hazard with Equity)
 
-” `o` idea: ask ex-ante to borrowers to have some “ _skin in the game_ `o` collateral examples: 
+- **1.**: ex **Monitoring** post screening
 
-- house for a mortgage 
+`o` ex.: shareholders can observe the level of effort of the manager `o` problem with monitoring: it is costly (both time and money) `o` FI are good at this
 
-- car for car loan 
+- for example, **venture capitalists** do constant, active monitoring on the use of funds and receive equity share in start-ups that is _not tradable_
 
-- firms use Net Worth (NW=Assets-Liabilities) to finance investment 
+**2. Government Intervention**: enforce the laws on fraudulent behavior (hiding & stealing profits): `o` imposing accounting standards `o` efficiency of _civil justice (optional readings)_
 
-## **Is Adverse Selection Enough?** 
+## Solutions to the Principal-Agent Problem (** _**i.e.**_ **Moral Hazard with Equity)
 
-✓ Adverse selection can explain why `o` FACT 1: _small firms_ are shut out of capital markets and use banks and `o` FACT 3: why _bank loans_ are usually collateralized 
+## **3. Debt Contracts**:
 
-✓ One point still remains unexplained (FACT 2): `o` why so **little equity** as a source of external finance? or say `o` why **so much debt** (bonds+loans)? 
+With equity Principal-Agent problem arises because equity is a claim on profits in all situations of the firm
 
-## **Moral Hazard** can explain that 
+`o` the principal (owners) needs to ensure that **no** profits are _diverted_ and or _hidden away_ by the agent … `o` … but it requires monitoring ( _costly state verification_ )
 
-## **Moral Hazard** 
+- ✓ Debt contract can reduce monitoring costs
 
-**Moral Hazard** is a situation where one party has the incentive ( _hazard_ ) to engage in undesirable ( _immoral_ ) _activities_ after the _**ex-**_ transaction has occurred ( _**post**_ ) 
+`o` only need to monitor in some states of the world: - _repayments past due_ - _default_
 
-Examples: 
+- if the firm has high profits, the lender receives the fixed payment, as agreed, and does not need to monitor
 
-`o` once people get insurance, they become careless 
+## Moral Hazard with Debt
 
-`o` once the loan is obtained, entrepreneur uses funds to buy perks (Ferrari) than the one approved (Machinery) `o` your investor uses your savings for a riskier project than the one promised 
+Explains FACT 2: moral hazard can explain why debt (bonds and/or loans) is much more prevalent than equity
 
-`o` employee can become lazy right after a promotion `o` customers leaving full plates at all-you-can-eat sushi 
+- ✓ But debt itself is not immune from moral hazard
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.Problem is the unknown “ _**action**_ ” of counter party 
+- Ex.: the entrepreneur (borrower), once the funds are obtained, has the incentive to take on riskier projects
 
-## **Case of MH: Principal-Agent Problem** 
+`o` Why? Because he only needs to pay a fixed interest: if he makes more, he can keep the rest
 
-## **Principal-Agent Problem** 
+- ✓ To overcome moral hazard, debt contracts often have:
 
-## 1. Result of separation 
+**1. collateral** (incentive compatible debt contract)
 
-- of ownership by _“many”_ stockholders ( _principals_ 
+**2. covenants** (to prevent undesirable behavior)
 
-- `o` from control by managers ( _agents_ ) 
+## Conflicts of Interests
 
-## 2. Problem: agents act in own rather than principals' interest 
+✓ FI’s solve TC and AI problems, but sometimes their unique knowledge can also create other Asy Info problems (e.g.: m. h.):
 
-   - ✓ Problem arises because the agents (e.g.: _managers_ ) _know more owners_ about the company than principals (e.g.: ) 
+## “ _conflicts of interest_ ”
 
-   - `o` ex.: managers make very risky investments 
+- ✓Mostly due to economies of scope in finance
 
-   - `o` ex.: managers buy perks or steal company cash 
+`o` Investment Banks (IBs) too optimistic: underwriting ⇔ research activities `o` IBs: spinning of IPO’s (on hot IPO shares) `o` Accounting firms: auditing and consulting `o` Credit Rating agencies: credit ratings and ancillary consulting services
 
-   - ✓ Principals could **monitor** agents’ activities but that’s **costly** 
+✓ Financial Regulation may reduce them
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved.Moral Hazard arises especially with equity contracts 
+`o` Sabanes-Oxley Act (2002): addressed some of the concerns w.r.t. the auditing process (ex: accounting Vs audit)
 
-## **(** _**i.e.**_ **Moral Hazard with Equity)** 
-
-- 
-
-- **1.** : ex **Monitoring** post screening 
-
-`o` ex.: shareholders can observe the level of effort of the manager `o` problem with monitoring: it is costly (both time and money) `o` FI are good at this 
-
-▪ for example, **venture capitalists** do constant, active monitoring on the use of funds and receive equity share in start-ups that is _not tradable_ 
-
-**2. Government Intervention** : enforce the laws on fraudulent behavior (hiding & stealing profits): `o` imposing accounting standards `o` efficiency of _civil justice (optional readings)_ 
-
-## **Solutions to the Principal-Agent Problem (** _**i.e.**_ **Moral Hazard with Equity)** 
-
-## **3. Debt Contracts** : 
-
-With equity Principal-Agent problem arises because equity is a claim on profits in all situations of the firm 
-
-`o` the principal (owners) needs to ensure that **no** profits are _diverted_ and or _hidden away_ by the agent … `o` … but it requires monitoring ( _costly state verification_ ) 
-
-- ✓ Debt contract can reduce monitoring costs 
-
-`o` only need to monitor in some states of the world: ▪ _repayments past due_ ▪ _default_ 
-
-- if the firm has high profits, the lender receives the fixed payment, as agreed, and does not need to monitor 
-
-✓ Important result in theoretical finance: Copyright ©2015 Pearson Education, Ltd. All rights reserved. **debt is the optimal security** if moral hazard is present 
-
-## **Moral Hazard with Debt** 
-
-Explains FACT 2: moral hazard can explain why debt (bonds and/or loans) is much more prevalent than equity 
-
-- ✓ But debt itself is not immune from moral hazard 
-
-   - Ex.: the entrepreneur (borrower), once the funds are obtained, has the incentive to take on riskier projects 
-
-`o` Why? Because he only needs to pay a fixed interest: if he makes more, he can keep the rest 
-
-- ✓ To overcome moral hazard, debt contracts often have: 
-
-   **1. collateral** (incentive compatible debt contract) 
-
-   **2. covenants** (to prevent undesirable behavior) 
-
-**==> picture [70 x 34] intentionally omitted <==**
-
-FI usually specialized in monitoring and require and enforce both 1 and 2 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Conflicts of Interests** 
-
-✓ FI’s solve TC and AI problems, but sometimes their unique knowledge can also create other Asy Info problems (e.g.: m. h.): 
-
-## “ _conflicts of interest_ ” 
-
-- ✓Mostly due to economies of scope in finance 
-
-`o` Investment Banks (IBs) too optimistic: underwriting ⇔ research activities `o` IBs: spinning of IPO’s (on hot IPO shares) `o` Accounting firms: auditing and consulting `o` Credit Rating agencies: credit ratings and ancillary consulting services 
-
-✓ Financial Regulation may reduce them 
-
-`o` Sabanes-Oxley Act (2002): addressed some of the concerns w.r.t. the auditing process (ex: accounting Vs audit) 
-
-`o` Global Legal Settlement (2002): prohibited spinning and has drawn a Copyright ©2015 Pearson Education, Ltd. All rights reserved.line between research and underwriting activities of investment banks7-32 
-
+## Related Notes
+- [[Lect14_exercises]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]
+- [[Lect1]]

@@ -1,282 +1,206 @@
-## THE SOCIAL ASPECTS OF THE IR 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "7_The industrialisation process Social Aspects - cl 15"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## Alfani-Colli chapter 7 
+## THE SOCIAL ASPECTS OF THE IR
 
-Schifano Sonia 30067 a.y. 2025/2026 
+## Alfani-Colli chapter 7
 
-A.y. 2025/2026 
+Schifano Sonia 30067 a.y. 2025/2026
 
-30067 
+## IN THIS CLASS
 
-1 
+- The structural change in society
 
-## IN THIS CLASS 
+- Modern Economic Growth and
 
-- The structural change in society 
+- Demographic Transitions
 
-- Modern Economic Growth and 
+- Effects
 
-   - Demographic Transitions 
+- Living standards
 
-      - Effects 
+- Few examples
 
-- Living standards 
+## SOCIETY AND THE IR
 
-      - Few examples 
+## Neal-Cameron:
 
-**==> picture [528 x 298] intentionally omitted <==**
+- Shift from the Old Regime: nobility, clergy and common people
 
-A.y. 2025/2026 
+- Classification
 
-30067 
+- Nobility: living «nobly» without working
 
-2 
+- Haute bourgeoisie: great merchants, professionals (attorneys, notaries)
 
-## SOCIETY AND THE IR 
+- Petite Bourgeoisie: artisans, handicraftsmen
 
-## Neal-Cameron: 
+- Peasants and domestic workers+ indigents and paupers
 
-- Shift from the Old Regime: nobility, clergy and common people 
+- End of 18(th) century we have the IR:
 
-- Classification 
+- Middle classe is the leader
 
-   - Nobility: living «nobly» without working 
+2024/2025
 
-   - Haute bourgeoisie: great merchants, professionals (attorneys, notaries) 
+## SOCIETY AND THE IR
 
-   - Petite Bourgeoisie: artisans, handicraftsmen 
+- At the same time we have the abolishment of feudalism in many part of Europe (Napoleonic Civil Code)
 
-   - Peasants and domestic workers+ indigents and paupers 
+- Full property rights
 
-- End of 18[th] century we have the IR: 
+- Land confiscated from the Church and sold
 
-   - Middle classe is the leader 
+From Land aristocracy to indutrial aristocracy
 
-2024/2025 
+→ A shift in economic and political power from the nobility to the bourgeoisie
 
-30067 - cl. 15 
+- → From ownership of land to industry
 
-3 
+2024/2025
 
-## SOCIETY AND THE IR 
+WHAT WAS THE IMPACT OF THE IF ON THE DIFFERENT SOCIAL CLASSES?
 
-- At the same time we have the abolishment of feudalism in many part of Europe (Napoleonic Civil Code) 
+## MODERN ECONOMIC GROWTH AND INEQUALITY: KUZNET
 
-   - Full property rights 
+«A country's economic growth may be defined as a long-term rise in capacity to supply increasingly diverse economic goods to its population, this growing capacity based on advancing technology and the institutional and ideological adjustments that it demands. »
 
-   - Land confiscated from the Church and sold 
+Kuznet, 1973.
 
-From Land aristocracy to indutrial aristocracy 
+## The Six Characteristics:
 
-→ A shift in economic and political power from the nobility to the bourgeoisie 
+- High rates of growth of per capita product and population
 
-- → From ownership of land to industry 
+- High rate of rise in productivity
 
-**==> picture [451 x 470] intentionally omitted <==**
+- High rate of structural transformation of the economy
 
-2024/2025 
+- Structural change of society and its ideology
 
-30067 - cl. 15 
+- Developed Countries can reach the rest of the World
 
-4 
+- Limited spread of modern economic growth, despite its worldwide partial effects
 
-WHAT WAS THE IMPACT OF THE IF ON THE DIFFERENT SOCIAL CLASSES? 
+2024/2025
 
-A.y. 2025/2026 
+## MODERN ECONOMIC GROWTH AND INEQUALITY: KUZNET
 
-30067 
+- Transition to modern economy growth
 
-5 
+- **18(th) century**: slow economic growth, low educational attainment, limited human capital, high fertility
 
-## MODERN ECONOMIC GROWTH AND INEQUALITY: KUZNET 
+- **Post-1870**: dynamic economic growth and technological progress, rising educational attainment and living standards, declining fertility
 
-«A country's economic growth may be defined as a long-term rise in capacity to supply increasingly diverse economic goods to its population, this growing capacity based on advancing technology and the institutional and ideological adjustments that it demands. » 
+- The origins of modern economic growth
 
-Kuznet, 1973. 
+- The Industrial Revolution
 
-## The Six Characteristics: 
+- ❖ Rising productivity of labour → higher wages
 
-- High rates of growth of per capita product and population 
+- ❖ Increased demand for and returns to education
 
-- High rate of rise in productivity 
+- The demographic transition
 
-- High rate of structural transformation of the economy 
+- ❖ Declining fertility reduced pressure on living standards
 
-- Structural change of society and its ideology 
+- ❖ Families preferred ‘quality’ over quantity of children
 
-- Developed Countries can reach the rest of the World 
+## ➢ **Were these two forces independent or complementary?**
 
-- Limited spread of modern economic growth, despite its worldwide partial effects 
+## MODERN ECONOMIC GROWTH: EFFECTS
 
-2024/2025 
+- Simon Kuznets (1955): Transfer of workforce from a sector having low income and productivity (agriculture) to one with high income (industry and services). Under the hypothesis that the differential in income between the two sectors remains constant during the transition, inequality will grow up until 50% of the workforce has transferred. Later, and for the same reasons, inequality will start to decrease.
+*(See also: 10_Recap #^0zwhxu)*
 
-30067 - cl. 15 
+2024/2025
 
-6 
+## INEQUALITY
 
-## MODERN ECONOMIC GROWTH AND INEQUALITY: KUZNET 
+## Wealth Gini
 
-- Transition to modern economy growth 
+Chapter 5 Table 5.5 Gini coefficient of wealth inequality in selected countries, 1820-2010 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris.
 
-   - **18[th] century** : slow economic growth, low educational attainment, limited human capital, high fertility 
+2024/2025
 
-   - **Post-1870** : dynamic economic growth and technological progress, rising educational attainment and living standards, declining fertility 
+## URBAN (EARLY) GROWTH PARADOX
 
-- The origins of modern economic growth 
+- Increased use of cheap unskilled (incl. child) labour
 
-   - The Industrial Revolution 
+- Discipline: ‘dark satanic mills’
 
-      - ❖ Rising productivity of labour → higher wages 
+- Exploitative work conditions
 
-      - ❖ Increased demand for and returns to education 
+## LIVING STANDARDS AND THE IR
 
-   - The demographic transition 
+- CO2
 
-      - ❖ Declining fertility reduced pressure on living standards 
+- Water pollution → especially in the cities (including the new industrial
 
-      - ❖ Families preferred ‘quality’ over quantity of children 
+- centers)
 
-## ➢ **Were these two forces independent or complementary?** 
+- Absence of sewer system
 
-A.y. 2025/2026 
+- The cholera morbus arrived in Europe in 1831 → role of the poor
 
-30067 
+- Air pollution → respiratory diseases
 
-7 
+- Tuberculosis
 
-## MODERN ECONOMIC GROWTH: EFFECTS 
+- Problems of the overpopulation and poverty became part of the political agenda
 
-• Simon Kuznets (1955): Transfer of workforce from a sector having low income and productivity (agriculture) to one with high income (industry and services). Under the hypothesis that the differential in income between the two sectors remains constant during the transition, inequality will grow up until 50% of the workforce has transferred. Later, and for the same reasons, inequality will start to decrease. 
+- Inquiries on the sanitary conditions
 
-**==> picture [408 x 252] intentionally omitted <==**
+- In the second half of the 19th century, public health regulated by the central government
 
-2024/2025 
+**In the long run, this reduced health inequalities and increased life expectancy**
 
-30067 - cl. 15 
+https://www.nationalarchives.gov.uk/education/resources/victorian-industrial-towns/lodging-houses/
 
-8 
+2024/2025
 
-## INEQUALITY 
+## CO2 EMISSIONS 1820-2000
 
-## Wealth Gini 
+Chapter 10Table 10.9 CO2 emissions per capita in selected countries, 1820-2000 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris.
 
-**==> picture [469 x 264] intentionally omitted <==**
+2024/2025
 
-**----- Start of picture text -----**<br>
-100<br>95<br>90<br>85<br>80<br>75<br>70<br>1820 1830 1840 1850 1860 1870 1880 1890 1900 1910 1920<br>GBR FRA ITA SWE USA<br>**----- End of picture text -----**<br>
+## KNOWLEDGE AND THE IR
 
+We discussed the important role played by knowledge before and during the industrial revolution
 
-Chapter 5 Table 5.5 Gini coefficient of wealth inequality in selected countries, 1820-2010 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris. 
+- Complementarity between university/science and industry
 
-2024/2025 
+## **Promotion of education**:
 
-30067 - cl. 15 
+- Britain 1833 – Factory Act – introduced elementary education for apprentices provided by the owner of textile mill (2 hours per day) and limited working hours
 
-9 
+- Britain - Forster’s Education Act – children 5 to 12
 
-## URBAN (EARLY) GROWTH PARADOX 
+- 1870 – pence + not mandatory
 
-**==> picture [878 x 256] intentionally omitted <==**
+- 1891 – no pence + mandatory
 
-**----- Start of picture text -----**<br>
-• Productivity growth did not immediately increase wages<br>Stage 1 Stage 2 Stage 3 Stage 4<br>–<br>Concentration of income<br>–<br>Decline of handcrafts<br>–<br>Increased use of cheap unskilled (incl. child) labour<br>Birth rate<br>•<br>‘Urban penalty’<br>–<br>Spatial concentration of poor<br>Natural<br>–<br>increase Poor housing and sanitation<br>➢ Detriment to health<br>Death rate • Factory system<br>**----- End of picture text -----**<br>
+- France – Fench Revolution - free- publicly supported education
 
+- disregarded until after 1840
 
-- Increased use of cheap unskilled (incl. child) labour 
+2024/2025
 
-- Discipline: ‘dark satanic mills’ 
+## KNOWLEDGE AND THE IR
 
-- Exploitative work conditions 
+- How were countries doing in terms of literacy and education?
 
-A.y. 2025/2026 
-
-30067 
-
-10 
-
-## LIVING STANDARDS AND THE IR 
-
-- CO2 
-
-- Water pollution → especially in the cities (including the new industrial 
-
-   - centers) 
-
-      - Absence of sewer system 
-
-         - The cholera morbus arrived in Europe in 1831 → role of the poor 
-
-- Air pollution → respiratory diseases 
-
-      - Tuberculosis 
-
-- Problems of the overpopulation and poverty became part of the political agenda 
-
-- Inquiries on the sanitary conditions 
-
-- In the second half of the 19th century, public health regulated by the central government 
-
-**In the long run, this reduced health inequalities and increased life expectancy** 
-
-**==> picture [261 x 361] intentionally omitted <==**
-
-https://www.nationalarchives.gov.uk/education/resources/victorian-industrial-towns/lodging-houses/ 
-
-2024/2025 
-
-30067 - cl. 15 
-
-11 
-
-## CO2 EMISSIONS 1820-2000 
-
-**==> picture [668 x 373] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-CO2 emissions per capita in selected countries, 1820-2000<br>5.00<br>4.50<br>4.00<br>3.50<br>3.00<br>2.50<br>2.00<br>1.50<br>1.00<br>0.50<br>0.00<br>1820 1830 1840 1850 1860 1870 1880 1890 1900 1910 1920<br>GBR NLD FRA DEU ITA ESP SWE USA<br>**----- End of picture text -----**<br>
-
-
-Chapter 10Table 10.9 CO2 emissions per capita in selected countries, 1820-2000 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris. 
-
-2024/2025 
-
-30067 - cl. 15 
-
-12 
-
-## KNOWLEDGE AND THE IR 
-
-**==> picture [421 x 354] intentionally omitted <==**
-
-We discussed the important role played by knowledge before and during the industrial revolution 
-
-- Complementarity between university/science and industry 
-
-## **Promotion of education** : 
-
-- Britain 1833 – Factory Act – introduced elementary education for apprentices provided by the owner of textile mill (2 hours per day) and limited working hours 
-
-- Britain - Forster’s Education Act – children 5 to 12 
-
-   - 1870 – pence + not mandatory 
-
-   - 1891 – no pence + mandatory 
-
-- France – Fench Revolution - free- publicly supported education 
-
-   - disregarded until after 1840 
-
-2024/2025 
-
-30067 - cl. 15 
-
-13 
-
-## KNOWLEDGE AND THE IR 
-
-## • How were countries doing in terms of literacy and education? 
-
-## • Adult literacy of selected Countries (percentage) 
+- Adult literacy of selected Countries (percentage)
 
 |**Country**|**Ca. 1850**|**Ca. 1900**|
 |---|---|---|
@@ -292,19 +216,13 @@ We discussed the important role played by knowledge before and during the indust
 |Spain|25|44|
 |Russia|5-10|28|
 
+Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017.
 
+2024/2025
 
-Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017. 
+## KNOWLEDGE AND THE IR
 
-2024/2025 
-
-30067 - cl. 15 
-
-14 
-
-## KNOWLEDGE AND THE IR 
-
-## • Primary school enrollment rates from selected Countries (per 10,000 Population) 
+- Primary school enrollment rates from selected Countries (per 10,000 Population)
 
 |**Country**|**1830**|**1850**|**1900**|
 |---|---|---|---|
@@ -316,113 +234,85 @@ Neal and Cameron, A Coincise Economic History of the World, Oxford University Pr
 |Italy|300|463 (1860)|881|
 |Russia|-|98 (1870)|348|
 
+Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017.
 
+2024/2025
 
-Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017. 
+## LIVING STANDARDS AND THE IR: MOKYR
 
-2024/2025 
+«Did the changes in British economy actually make people living at the time better off? Naturally, all depends on who people were»
 
-30067 - cl. 15 
+Mokyr (2009)
 
-15 
+- Optimists: before 1850 improvement was quite noticeable, especially after 1815
 
-## LIVING STANDARDS AND THE IR: MOKYR 
+- Pessimists: Living standards improved very little
 
-«Did the changes in British economy actually make people living at the time better off? Naturally, all depends on who people were» 
+- Moderates: the rise in living standards before1850 was modest and that improvements for most of the British working class were slow and late
 
-Mokyr (2009) 
+## The debate has been indecisive:
 
-- Optimists: before 1850 improvement was quite noticeable, especially after 1815 
+- Data availability
 
-- Pessimists: Living standards improved very little 
+- Concurrent events during the Industrial Revolution (wars, epidemies)
 
-- Moderates: the rise in living standards before1850 was modest and that improvements for most of the British working class were slow and late 
+- Change in the basket of goods comsumed
 
-## The debate has been indecisive: 
+2024/2025
 
-- Data availability 
+## LIVING STANDARDS AND THE IR: MOKYR
 
-- Concurrent events during the Industrial Revolution (wars, epidemies) 
+Are real wage statistics a good proxy for living standards?
 
-- Change in the basket of goods comsumed 
+- Real wages for industrial sector → good in quantity and quality
 
-2024/2025 
+- → rare
 
-30067 - cl. 15 
+- Real wages for domestic sector
 
-16 
+- Wage in kind common practice before the 18( th ) century
 
-## LIVING STANDARDS AND THE IR: MOKYR 
+Comparisons between pre and first industrialisation are difficult
 
-Are real wage statistics a good proxy for living standards? 
+2024/2025
 
-- Real wages for industrial sector → good in quantity and quality 
+## LIVING STANDARDS AND THE IR: MOKYR
 
-- → rare 
+- **Biological indicators** – health – height – mortality - morbidity
 
-- Real wages for domestic sector 
+- Reflection of inequality
 
-- Wage in kind common practice before the 18[ th ] century 
+- Affected by where people were living
 
-Comparisons between pre and first industrialisation are difficult 
+- (urban-rural)
 
-2024/2025 
+- Affected by medical progresses
 
-30067 - cl. 15 
+(vaccination against smallpox)
 
-17 
+The **HDI (Human Development Index)** is a more comprehensive index and it uses:
 
-## LIVING STANDARDS AND THE IR: MOKYR 
+- Economic measures
 
-- **Biological indicators** – health – height – mortality - morbidity 
+- Biological indices and anthropometric data
 
-   - Reflection of inequality 
+- Political and social indicators
 
-   - Affected by where people were living 
+2024/2025
 
-      - (urban-rural) 
+## THE HUMAN DEVELOPMENT INDEX
 
-   - Affected by medical progresses 
+## LIVING STANDARDS AND THE IR: MOKYR
 
-(vaccination against smallpox) 
+- **It is important to distinguish the** _**actual**_ **conditions from the possible** _**counterfactual:**_
 
-The **HDI (Human Development Index)** is a more comprehensive index and it uses: 
+_«While actual conditions may not have improved much before 1850, the achievement of the first two generations of the Industrial Revolution was to prevent the growing population and the external negative shocks from creating the kind of pressure that could have caused living standards to fall dramatically»_
 
-- Economic measures 
+_Mokyr (2009)_
 
-- Biological indices and anthropometric data 
+2024/2025
 
-- Political and social indicators 
-
-**==> picture [427 x 388] intentionally omitted <==**
-
-2024/2025 
-
-30067 - cl. 15 
-
-18 
-
-## THE HUMAN DEVELOPMENT INDEX 
-
-**==> picture [654 x 158] intentionally omitted <==**
-
-A.y. 2025/2026 
-
-30067 
-
-19 
-
-## LIVING STANDARDS AND THE IR: MOKYR 
-
-- **It is important to distinguish the** _**actual**_ **conditions from the possible** _**counterfactual:**_ 
-
-_«While actual conditions may not have improved much before 1850, the achievement of the first two generations of the Industrial Revolution was to prevent the growing population and the external negative shocks from creating the kind of pressure that could have caused living standards to fall dramatically»_ 
-
-_Mokyr (2009)_ 
-
-2024/2025 
-
-30067 - cl. 15 
-
-20 
-
+## Related Notes
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- 10_Recap 
+- [[4_5_The industrialisation process_1]]

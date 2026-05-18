@@ -1,636 +1,568 @@
-## **30066 – MACROECONOMICS** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "L22 & L23 Expectations IS LM"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**(8 CFU) CLASS : BIEM 14 & 19 2024 – 25** 
+## 30066 – MACROECONOMICS
 
-**Lecture 22 and 23 (Ch. 17)** The 𝐼𝑆−𝐿𝑀 with expectations 
+**(8 CFU) CLASS: BIEM 14 & 19 2024 – 25**
 
-M I C H E L A B R A G A 
+**Lecture 22 and 23 (Ch. 17)** The 𝐼𝑆−𝐿𝑀 with expectations
 
-## WHERE WE ARE 
+## WHERE WE ARE
 
-## **Fundamentals** 
+## Fundamentals
 
-## **Extensions** 
+## Extensions
 
-1. Macroeconomic variables 
+1. Macroeconomic variables
 
-   - Elements of national accounting 
+- Elements of national accounting
 
-## 2. The short run 
+## 2. The short run
 
-1. Goods markets 
+1. Goods markets
 
-2. Financial markets 
+2. Financial markets
 
-         4. Expectations, financial markets, and economic policies 
+4. Expectations, financial markets, and economic policies
 
-            1. Financial markets and expectations 
+1. Financial markets and expectations
 
-            2. Consumption, investment, and expectations 
+2. Consumption, investment, and expectations
 
-            3. Output, economic policies, and expectations 
+3. Output, economic policies, and expectations
 
-      1. Without commercial  banks 
+1. Without commercial  banks
 
-      2. With commercial banks 
+2. With commercial banks
 
-   3. IS-LM model 
+3. IS-LM model
 
-3. The medium run 
+3. The medium run
 
-   1. Labor market 
+1. Labor market
 
-   2. Phillips curve 
+2. Phillips curve
 
-   3. IS-LM-PC model 
+3. IS-LM-PC model
 
-      1. Medium and short run equilibrium 2. Demand and supply shock 
+1. Medium and short run equilibrium 2. Demand and supply shock
 
-5. Open economy 
+5. Open economy
 
-   1. Exchange rates, trade, and international returns 
+1. Exchange rates, trade, and international returns
 
-   2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy 
+2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy
 
-6. Public debt and fiscal policy 
+6. Public debt and fiscal policy
 
-7. From the Great Recession to Quantitative Tightening 
+7. From the Great Recession to Quantitative Tightening
 
-   - From a housing crisis to a financial crisis 
+- From a housing crisis to a financial crisis
 
-   - Unconventional monetary policies 
+- Unconventional monetary policies
 
-2 
+## TWO PERIODS IS – LM MODEL
 
-## **TWO PERIODS IS – LM MODEL** 
+Add expectations in the IS –LM model using the intertemporal approach
 
-Add expectations in the IS –LM model using the intertemporal approach 
+AIM:
 
-AIM: 
+- explain interactions between expectations and real and financial variables
 
-- explain interactions between expectations and real and financial variables 
+- Show how expectations about the future influence the current dynamics of the economy
 
-- Show how expectations about the future influence the current dynamics of the economy 
+Assumptions
 
-Assumptions 
+- Two periods: present (t) and future (t+1) (all periods after t)
 
-- Two periods: present (t) and future (t+1) (all periods after t) 
+- In both periods all the markets are in equilibrium
 
-- In both periods all the markets are in equilibrium 
+- equilibrium in the goods market: IS curve
 
-   - equilibrium in the goods market: IS curve 
+- Equilibrium in the money market: LM curve with endogenous (standard case) or exogenous (alternative case)  monetary policy
 
-**==> picture [97 x 12] intentionally omitted <==**
+- t+1 is the last period => expectations about the future play a role only in current period
 
-- Equilibrium in the money market: LM curve with endogenous (standard case) or exogenous (alternative case)  monetary policy 
+- Rational agents: use in efficient way available information
 
-**==> picture [66 x 15] intentionally omitted <==**
+## t: current period
 
-- t+1 is the last period => expectations about the future play a role only in current period 
+The goods market:  expectations influence only the goods market through C and I
 
-- Rational agents: use in efficient way available information 
+- Aggregate consumption
 
-## t : current period 
+𝐶𝑡 = 𝐶(𝑌𝑡 −𝑇𝑡, 𝑌𝑡+1𝑒 −𝑇𝑡+1𝑒 , 𝐹𝑊𝑡, 𝐻𝑊𝑡, 𝑟𝑡)
 
-The goods market:  expectations influence only the goods market through C and I 
+- Aggregate investment
 
- Aggregate consumption 
+𝑒 𝑒 𝑒 𝑒 𝐼𝑡 = 𝑓(Π𝑡, V Π(𝑒) ), 𝑥𝑡, 𝑥𝑡+1 = 𝑓(Π𝑡, Π𝑡+1, 𝑟𝑡, 𝑟𝑡+1, 𝛿 , 𝑥𝑡, 𝑥𝑡+1)
 
-𝐶𝑡 = 𝐶(𝑌𝑡 −𝑇𝑡, 𝑌𝑡+1𝑒 −𝑇𝑡+1𝑒 , 𝐹𝑊𝑡, 𝐻𝑊𝑡, 𝑟𝑡) 
+- The goods market is in equilibrium if
 
- Aggregate investment 
+𝐴𝑡 = Aggregate private expenditure: depends on current and expected future variables
 
-𝑒 𝑒 𝑒 𝑒 𝐼𝑡 = 𝑓(Π𝑡, V Π[𝑒] ), 𝑥𝑡, 𝑥𝑡+1 = 𝑓(Π𝑡, Π𝑡+1, 𝑟𝑡, 𝑟𝑡+1, 𝛿 , 𝑥𝑡, 𝑥𝑡+1) 
+## If
 
- The goods market is in equilibrium if 
+- 𝑌 ↑ 𝑡
 
-**==> picture [114 x 15] intentionally omitted <==**
+- 𝐿𝑊𝑡 ↑⇒ more consumption opportunities over the life cycle ⇒𝐶𝑡 ↑
 
-𝐴𝑡 = Aggregate private expenditure: depends on current and expected future variables 
+- - 𝛱𝑡 ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑
 
-## If 
+- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-- 𝑌 ↑ 𝑡 
+- 𝑒
 
-- 𝐿𝑊𝑡 ↑⇒ more consumption opportunities over the life cycle ⇒𝐶𝑡 ↑ 
+- 𝑌 ↑ 𝑡+1
 
-- • 𝛱𝑡 ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑ 
+- more disposable income next period but more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
 
-- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- Fims expect higher profits next period and the PDV of the stream of profits ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑
 
-- 𝑒 
+- 𝑒
 
-- 𝑌 ↑ 𝑡+1 
+- Stocks become more attractive for investors as they expect  higher dividends €𝐷𝑡+1 ↑⇒ higher demand and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
 
-   - more disposable income next period but more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑ 
+- => aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-   - Fims expect higher profits next period and the PDV of the stream of profits ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑ 
+- 𝑒
 
-   - 𝑒 
+- 𝑥𝑡 ↓ and/or 𝑥𝑡+1 ↓
 
-   - Stocks become more attractive for investors as they expect  higher dividends €𝐷𝑡+1 ↑⇒ higher demand and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 
+- The borrowing rate today or tomorrow is lower ⇒ investment is cheaper for firms ⇒𝐼𝑡 ↑
 
-- => aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-- 𝑒 
+- 𝑒
 
-- 𝑥𝑡 ↓ and/or 𝑥𝑡+1 ↓ 
+- 𝑇𝑡 ↓ and/or 𝑇𝑡+1 ↓
 
-- The borrowing rate today or tomorrow is lower ⇒ investment is cheaper for firms ⇒𝐼𝑡 ↑ 
+- More resources acre available over the life cycle ⇒𝐿𝑊𝑡 ↑⇒ more consumption opportunities ⇒𝐶𝑡 ↑
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-- 𝑒 
+- 𝑟 ↓ 𝑡
 
-- 𝑇𝑡 ↓ and/or 𝑇𝑡+1 ↓ 
+- Given disposable income in both periods its PDV increases ⇒ more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
 
-   - More resources acre available over the life cycle ⇒𝐿𝑊𝑡 ↑⇒ more consumption opportunities ⇒𝐶𝑡 ↑ 
+- ↑ the borrowing rate decreases  and the PDV of expected profits increases  making investment in physical capital more convenient for firms more convenient to invest ⇒𝐼𝑡
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑⇒𝐶𝑡 ↑
 
-- 𝑟 ↓ 𝑡 
+- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-   - Given disposable income in both periods its PDV increases ⇒ more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑ 
+- 𝑟𝑒 ↓ 𝑡+1
 
-   - ↑ the borrowing rate decreases  and the PDV of expected profits increases  making investment in physical capital more convenient for firms more convenient to invest ⇒𝐼𝑡 
+- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
 
-   - Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑⇒𝐶𝑡 ↑ 
+- firms are more willing to invest since the PDV of expected profits increases ⇒V Π(𝑒) ↑⇒𝐼 ↑ 𝑡
 
-- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- => aggregare private expenditure inreases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-- 𝑟𝑒 ↓ 𝑡+1 
+- 𝛿↓ firms are more willing to invest since  the devaluation process is slower and the PDV of expected profits increases ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
 
-   - Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 
+- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-   - firms are more willing to invest since the PDV of expected profits increases ⇒V Π[𝑒] ↑⇒𝐼 ↑ 𝑡 
+## In a synthetic way the  current IS With expectations will be
 
-- => aggregare private expenditure inreases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+𝑌𝑡 = 𝐶 𝑌𝑡,, 𝑇𝑡, 𝑌𝑡+1𝑒 , 𝑇𝑡+1𝑒 , 𝑟𝑡,) + 𝐼(𝑌𝑡,, 𝑌𝑡+1𝑒 , 𝑟𝑡, 𝑟𝑡+1𝑒 , 𝑥𝑡, 𝑥𝑡+1𝑒 , 𝛿+ 𝐺𝑡
 
-- 𝛿↓ firms are more willing to invest since  the devaluation process is slower and the PDV of expected profits increases ⇒V Π[𝑒] ↑⇒𝐼𝑡↑ 
+𝐴 𝑡
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+## Current period (t)
 
-## In a synthetic way the  current IS With expectations will be 
+𝑟𝑡, 𝐼𝑆𝑒𝑥𝑝𝑒𝑐𝑡𝑎𝑡𝑖𝑜𝑛𝑠 0 𝐼𝑆 𝑠𝑡𝑎𝑛𝑑𝑎𝑟𝑑 1 1
 
-𝑌𝑡 = 𝐶 𝑌𝑡,, 𝑇𝑡, 𝑌𝑡+1𝑒 , 𝑇𝑡+1𝑒 , 𝑟𝑡,) + 𝐼(𝑌𝑡,, 𝑌𝑡+1𝑒 , 𝑟𝑡, 𝑟𝑡+1𝑒 , 𝑥𝑡, 𝑥𝑡+1𝑒 , 𝛿+ 𝐺𝑡 
+𝑌 ↑𝑌𝑒 ⇒𝐴 ↑ 𝑡 𝑡+1 𝑡 𝑒 𝑟 ↓𝑟 ↓⇒𝐴 ↑𝑇 𝑡 𝑡+1 𝑡 𝑡 ↓𝑇𝑒 ↓⇒𝐴 ↑ 𝑡+1 𝑡 𝑥↓⇒𝐴 ↑ 𝑡 𝛿↓⇒𝐴 ↑ 𝑡 Negative slope but steeper
 
-𝐴 𝑡 
+If 𝑟↓⇒𝐴↑⇒𝑍↑⇒𝑌↑
 
-## Current period (t) 
+But if we take expectations into account  the increase is smaller since the future dynamics of the financial 𝑒 markets ( 𝑟𝑡+1 ) and the of the goods markets ( 𝑌𝑡+1𝑒 ) also matter in determining current demand
 
-𝑟𝑡, 𝐼𝑆𝑒𝑥𝑝𝑒𝑐𝑡𝑎𝑡𝑖𝑜𝑛𝑠 0 𝐼𝑆 𝑠𝑡𝑎𝑛𝑑𝑎𝑟𝑑 1 1 
+𝑌 𝑡,
 
-𝑌 ↑𝑌𝑒 ⇒𝐴 ↑ 𝑡 𝑡+1 𝑡 𝑒 𝑟 ↓𝑟 ↓⇒𝐴 ↑𝑇 𝑡 𝑡+1 𝑡 𝑡 ↓𝑇𝑒 ↓⇒𝐴 ↑ 𝑡+1 𝑡 𝑥↓⇒𝐴 ↑ 𝑡 𝛿↓⇒𝐴 ↑ 𝑡 Negative slope but steeper 
+## Position of the current IS depends on both current and future exogenous variables
 
-If 𝑟↓⇒𝐴↑⇒𝑍↑⇒𝑌↑ 
+The IS curve moves to the right if there is a positive increase in current demand dependent on
 
-But if we take expectations into account  the increase is smaller since the future dynamics of the financial 𝑒 markets ( 𝑟𝑡+1 ) and the of the goods markets ( 𝑌𝑡+1𝑒 ) also matter in determining current demand 
+- Directly driven by changes in current exogenous variables If 𝑐0𝑡 ↑, 𝑇𝑡 ↓, 𝑥↓, 𝛿↓⇒𝐴𝑡 ↑⇒ aggregate demand increases, in the goods market there is an excess demand, and in order to restore the equilibrium through the multiplier, production increases
 
-𝑌 𝑡, 
+- indirectly driven by changes in expectations If 𝑌𝑡+1𝑒 ↑, 𝑇𝑡+1𝑒 ↓, 𝑟𝑡+1𝑒 ↓⇒𝐴𝑡 ↑⇒𝑍𝑡 ↑ current aggregate demand ⇒ thanks to the multiplier 𝑌𝑡 ↑
 
-## Position of the current IS depends on both current and future exogenous variables 
+## The IS curve shifts to the left if there is a contraction in current demand
 
-**==> picture [519 x 215] intentionally omitted <==**
+## t: current period
 
-**----- Start of picture text -----**<br>
-𝑟𝑡 𝐼𝑆 𝑡<br>𝑐0𝑡 ↑, 𝑇𝑡 ↓, 𝑥↓, 𝛿↓⇒𝐴𝑡 ↑<br>𝑌𝑡+1𝑒 ↑, 𝑇𝑡+1𝑒 ↓, 𝑟𝑡+1𝑒 ↓⇒𝐴𝑡 ↑<br>𝑌<br>𝑡,<br>**----- End of picture text -----**<br>
+The money market is not affected by expectations
 
+- Standard case: the CB sets the nominal interest rate 𝑖(ഥ) (short term interest rate 𝑖1𝑡 ) that keeps the money market in equilibrium changing the money supply
 
-The IS curve moves to the right if there is a positive increase in current demand dependent on 
+Money supply: depends on
 
-- Directly driven by changes in current exogenous variables If 𝑐0𝑡 ↑, 𝑇𝑡 ↓, 𝑥↓, 𝛿↓⇒𝐴𝑡 ↑⇒ aggregate demand increases, in the goods market there is an excess demand, and in order to restore the equilibrium through the multiplier, production increases 
+- OMO
 
-- indirectly driven by changes in expectations If 𝑌𝑡+1𝑒 ↑, 𝑇𝑡+1𝑒 ↓, 𝑟𝑡+1𝑒 ↓⇒𝐴𝑡 ↑⇒𝑍𝑡 ↑ current aggregate demand ⇒ thanks to the multiplier 𝑌𝑡 ↑ 
+- Reserve ratio
 
-## The IS curve shifts to the left if there is a contraction in current demand 
+- Money demand: depends on - Current level of transaction
 
-## t : current period 
+- - Current opportunity cost of money
 
-The money market is not affected by expectations 
+- Fraction od money held as currency
 
-- Standard case: the CB sets the nominal interest rate 𝑖[ഥ] (short term interest rate 𝑖1𝑡 ) that keeps the money market in equilibrium changing the money supply 
+Given expected inflation, the LM will be
 
-**==> picture [66 x 14] intentionally omitted <==**
+𝑟=
 
-**----- Start of picture text -----**<br>
-𝑀 [𝑆] = 𝑀 [𝐷]<br>**----- End of picture text -----**<br>
+- Alternative case: the CB sets the money supply, and the interest rate 𝑖 (short term interest rate 𝑖1𝑡 ) is the one that clears the money market
 
+=> Upward sloping LM
 
-Money supply: depends on 
+t+1: future period Being the last period only contemporaneous variables matter
 
-   - OMO 
+- IS: Pairs of GPD and short term real interest rate t+1 allowing for the equilibrium in the goods market
 
-- 
+## The macro equilibrium today and tomorrow
 
-   - Reserve ratio 
+All markets in equilibrium in the current and future period
 
-- 
+It represents what agents expect at time t for the next period
 
-   - Money demand: depends on - Current level of transaction 
+## THE IS – LM MODEL IN ACTION: HOW TO USE IT?
 
-   - - Current opportunity cost of money 
+AIM: to show what happens to the macro equilibrium today, if  we expect something for the future
 
-- Fraction od money held as currency 
+1. Plot the initial equilibrium at t and t+1 and the yield curve
 
-Given expected inflation, the LM will be 
+2. Begin always by studying the impact of the shock/policy at 𝑡+ 1 (future) How does the expected future equilibrium change?
 
-𝑟= 
+Δ𝑌𝑒 ? Δ𝑟𝑒 ? 𝑡+1 𝑡+1
 
-**==> picture [238 x 151] intentionally omitted <==**
+3. Study the impact today ( 𝑡 ) of the policy/shock, incorporating changes in expectations How does the current equilibrium change?
 
-**----- Start of picture text -----**<br>
-𝑟<br>𝑡<br>Contractionary<br>MP<br>ҧ𝑟<br>LM<br>t<br>𝑌<br>𝑡,<br>**----- End of picture text -----**<br>
+Δ𝑌 ? Δ𝑟 𝑡 𝑡
 
+3. Analyse the impact on the yield curve
 
-- Alternative case: the CB sets the money supply, and the interest rate 𝑖 (short term interest rate 𝑖1𝑡 ) is the one that clears the money market 
+## Assumptions
 
-=> Upward sloping LM 
+- Economy in initial equilibrium at t and t+1
 
-t+1 : future period Being the last period only contemporaneous variables matter 
+## MONETARY POLICY AND EXPECTATIONS
 
- IS : Pairs of GPD and short term real interest rate t+1 allowing for the equilibrium in the goods market 
+The role of central banks is not only to adjust the interest rate, but above all to guide expectations.
 
-**==> picture [629 x 393] intentionally omitted <==**
+Shaping expectations can be enough to produce the same effects as the actual implementation of a monetary policy operation.
 
-**----- Start of picture text -----**<br>
-𝑟<br>𝑌𝑡+1 = 𝐶𝑡+1 + 𝐼𝑡+1 + 𝐺𝑡+1 𝑡+1<br>𝐴𝑡+1 =  Future aggregate private expenditure:<br>depends on future contemporaneous variables<br>𝐼𝑆<br>𝑡+1<br>𝑌𝑡+1 = 𝐶 𝑌𝑡+1,, 𝑇𝑡+1) + 𝐼(𝑌𝑡+1,, 𝑟𝑡+1 , 𝑥𝑡+1 , 𝛿+ 𝐺𝑡+1 𝑌𝑡+1<br>𝑟<br>𝑡+1<br> LM t+1  : represents the future equilibrium for the<br>money market (standard or alternative case)<br>𝐿𝑀<br>ҧ𝑟 𝑡+1<br>𝑌<br>𝑡+1<br>**----- End of picture text -----**<br>
+Sometimes, just a few words can have a huge impact.
 
+Mario Draghi's "Whatever it takes" https://www.youtube.com/watch?v=tB2CM2ngpQg
 
-## The macro equilibrium today and tomorrow 
+CB announces its willingness to purchase bonds in the future, in order to address the recession.
 
-All markets in equilibrium in the current and future period 
+_0_ = initial equilibrium
 
-It represents what agents expect at time t for the next period 
+_1_ = final equilibrium
 
-**==> picture [577 x 273] intentionally omitted <==**
+## Economic explanation
 
-**----- Start of picture text -----**<br>
-Present: t Future: t+1<br>𝑟 𝑟<br>𝑡 𝑡+1<br>0<br>0 0<br>𝑟<br>𝐿𝑀 𝑡+1 𝐿𝑀<br>𝑡 𝑡+1<br>0<br>𝑟<br>𝑡<br>𝐼𝑆<br>𝑡 𝐼𝑆<br>𝑡+1<br>0 𝑌 0 𝑌<br>𝑌 𝑡 𝑌 𝑡+1<br>𝑡 𝑡+1<br>**----- End of picture text -----**<br>
+- Agents expect that in t+1, the CB will lower the nominal interest rate. Given the resulting lower real interest rate, investment will increase, stimulating demand and, through the multiplier effect, boosting output
 
+𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑟𝑡+1𝑒 ↓
 
-## **THE IS – LM MODEL IN ACTION: HOW TO USE IT?** 
+- In t, given their rational expectations, agents anticipate the effect expected for the future
 
-AIM: to show what happens to the macro equilibrium today, if  we expect something for the future 
+- 𝑒
 
-1. Plot the initial equilibrium at t and t+1 and the yield curve 
+- 𝑌 ↑ 𝑡+1
 
-2. Begin always by studying the impact of the shock/policy at 𝑡+ 1 (future) How does the expected future equilibrium change? 
+- more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
 
-Δ𝑌𝑒 ? Δ𝑟𝑒 ? 𝑡+1 𝑡+1 
+- - 𝑒 Π𝑡+1 ↑, V Π(𝑒) ↑ investment more profitable ⇒𝐼𝑡↑
 
-3. Study the impact today ( 𝑡 ) of the policy/shock, incorporating changes in expectations How does the current equilibrium change? 
+- 𝑒
 
-Δ𝑌 ? Δ𝑟 𝑡 𝑡 
+- Stocks more attractive a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
 
-3. Analyse the impact on the yield curve 
+- aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-**==> picture [720 x 540] intentionally omitted <==**
+- 𝑟𝑒 ↓ 𝑡+1
 
-**----- Start of picture text -----**<br>
-Present :   𝑡 Future :   𝑡+ 1<br>𝑟𝑡 𝑟𝑡+1<br>0 𝐿𝑀𝑡 0 𝐿𝑀𝑡+1<br>ҧ𝑟 ҧ𝑟<br>3<br>1<br>𝐼𝑆𝑡 𝐼𝑆𝑡+1<br>0 𝑌𝑡 𝑌0<br>𝑌 𝑡+1<br>𝑡<br>2<br>**----- End of picture text -----**<br>
+- stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
 
+𝐼𝑆𝑡 right Equilibrium 0 →1 𝑌𝑡 ↑, 𝑖𝑡 =
 
-## Assumptions 
+- firms more willing to invest ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
 
-- Economy in initial equilibrium at t and t+1 
+- aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
 
-**==> picture [680 x 419] intentionally omitted <==**
+Overall current output increases, the 𝑀(𝐷) ↑ and  the CB to keep the interest rate constant at the chosen policy rate, ↑𝑀(𝑆)
 
-**----- Start of picture text -----**<br>
--<br>In both periods nor actual or expected inflation:<br>𝑒<br>𝜋 = 𝜋 = 0 ⇒𝑟= 𝑖<br>𝑡 𝑡+1<br>-<br>Agents risk neutral: no risk premium in the bond<br>market<br>1<br>=>  𝑖 = ҧ𝑖+ ҧ𝑖= ҧ𝑖<br>2𝑡<br>2<br>-<br>CB has the same policy rate target in both periods<br>ҧ𝑖= 𝑖 = 𝑖𝑒<br>1𝑡 1𝑡+1<br>Yield curve<br>Future: t+1<br>Present: t Yield to<br>(expected in t) maturity,<br>𝑖𝑡 𝑖𝑡+1 𝑖𝑚,𝑡<br>0 𝐿𝑀𝑡+1 𝑖1𝑡 𝑖2𝑡<br>ҧ𝑖<br>0 𝐿𝑀 0<br>0 𝑡 𝑖<br>𝑖 𝑡+1<br>𝑡<br>𝐼𝑆<br>𝑡 𝐼𝑆<br>𝑡+1<br>𝑌𝑡0 𝑌𝑡 𝑌𝑡+10 𝑌𝑡+1 1 2 m, maturity<br>**----- End of picture text -----**<br>
+Effect on the yield curve:
 
+- Same starting point, as the short term interest rate does not change
 
-## **MONETARY POLICY AND EXPECTATIONS** 
+- The slope becomes negative:
 
-The role of central banks is not only to adjust the interest rate, but above all to guide expectations. 
+agents expect future short term interest rate lower than the current one
 
-Shaping expectations can be enough to produce the same effects as the actual implementation of a monetary policy operation. 
+- there is a negative spread btw the future expected short term interest rate and the current one
 
-Sometimes, just a few words can have a huge impact. 
+- The long term interest rate will be lower that the initial one but still higher than the newly expected short-term rate
 
-Mario Draghi's "Whatever it takes" https://www.youtube.com/watch?v=tB2CM2ngpQg 
+The CB after having announced that it would implement an expansionary MP in the future,  unexpectedly lowers the current interest rate.
 
-CB announces its willingness to purchase bonds in the future, in order to address the recession. 
+Two Bloomberg analysts discuss the possible effects:
 
-_0_ = initial equilibrium 
+Analyst 1: _"GDP will definitely increase, and the yield curve will become downward sloping.“_
 
-_1_ = final equilibrium 
+Analyst 2: _"It's not certain that GDP will increase, and we can't draw any definite conclusions about the slope of the yield curve.“_
 
-**==> picture [669 x 333] intentionally omitted <==**
+So, who is right?
 
-**----- Start of picture text -----**<br>
-Future: t+1<br>Present: t (expected in t) Yield to<br>maturity,<br>𝑖𝑡 𝑖𝑡+1 𝑖𝑚,𝑡<br>0 1 𝐿𝑀 𝑡 0 𝐿𝑀𝑡+1 𝑖1𝑡 𝑖2𝑡<br>= 𝑖𝑡0 𝑖𝑡+10 ҧ𝑖<br>1<br>𝑖1<br>𝑡+1<br>𝐼𝑆<br>𝑡 𝐼𝑆<br>𝑡+1<br>𝑌𝑡0 𝑌𝑡1 𝑌𝑡 𝑌𝑡+10 𝑌𝑡+11 𝑌𝑡+1 1 2 m, maturity<br>Direct effect of Expected<br>Indirect effect of the change<br>expansionary MP<br>in expectations at  t+1<br>implemented at t+1<br>**----- End of picture text -----**<br>
+_→ Neither is completely right._
 
+_It’s likely that GDP will increase, but the effect on the yield curve is uncertain._
 
-## Economic explanation 
+Expected expansionary MP Current expansionary MP
 
-- Agents expect that in t+1, the CB will lower the nominal interest rate. Given the resulting lower real interest rate, investment will increase, stimulating demand and, through the multiplier effect, boosting output 
+_0_ = initial equilibrium
 
-𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑟𝑡+1𝑒 ↓ 
+_1_ = final equilibrium
 
-- In t, given their rational expectations, agents anticipate the effect expected for the future 
+The relative reduction in the current interest rate compared to the future rate influences the shape of the yield curve.
 
-- 𝑒 
+## Effects
 
-- 𝑌 ↑ 𝑡+1 
+𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑖𝑡+1𝑒 ↓
 
-   - more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑ 
+- If in t+1 the central bank lowers the nominal interest rate, by buying bonds, it will stimulate the real economy through investment, which becomes cheaper , Z ↑ and through the multiplier effect Y↑.
 
-   - • 𝑒 Π𝑡+1 ↑, V Π[𝑒] ↑ investment more profitable ⇒𝐼𝑡↑ 
+- - In t, the equilibrium will change as a result of
 
-- 𝑒 
+- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↑ 𝑡+1
 
-- Stocks more attractive a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 
+- - more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
 
-- aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- - 𝑒 Π𝑡+1 ↑, V Π(𝑒) ↑ investment more profitable ⇒𝐼𝑡↑
 
-- 𝑟𝑒 ↓ 𝑡+1 
+- - 𝑒 Stocks more attractive for investors a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 𝑒
 
-   - stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 
+- 𝑟 ↓ 𝑡+1
 
-𝐼𝑆𝑡 right Equilibrium 0 →1 𝑌𝑡 ↑, 𝑖𝑡 = 
+- - stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
 
-- firms more willing to invest ⇒V Π[𝑒] ↑⇒𝐼𝑡↑ 
+- - firms more willing to invest ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
 
-- aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 
+- ↑ aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 2) Direct effect of current expansionary monetary policy: as the central bank reduces the nominal interest rate, the borrowing cost decreases, making investment less expensive ⇒ investment increases, stimulating demand and, in equilibrium, output. Equilibrium at time t 0 →1 𝑌𝑡 ↑, 𝑖𝑡 ↓
+*(See also: [[L10 ISLM model#^lf5j0s]])*
 
-Overall current output increases, the 𝑀[𝐷] ↑ and  the CB to keep the interest rate constant at the chosen policy rate, ↑𝑀[𝑆] 
+𝐼𝑆𝑡 right
 
-Effect on the yield curve: 
+𝐿𝑀 down 𝑡
 
-- Same starting point, as the short term interest rate does not change 
+## Effects
 
-- The slope becomes negative: 
+- A permanently expansionary monetary policy has a **greater impact on output** compared to a policy implemented for only one period (either today or expected in the future), as it affects demand through two channels
 
-agents expect future short term interest rate lower than the current one 
+- **Yield curve**
 
-- there is a negative spread btw the future expected short term interest rate and the current one 
+- The starting point will definitely be lower, as the current monetary policy reduces the short-term interest rate.
 
-**==> picture [52 x 18] intentionally omitted <==**
+- The slope depends on the intensity of the current MP compared with the expected future one
 
-- The long term interest rate will be lower that the initial one but still higher than the newly expected short-term rate 
+- 𝑒
 
-**==> picture [66 x 34] intentionally omitted <==**
+- it depends on the difference we expect btw 𝑖𝑡 and 𝑖𝑡+1𝑒
 
-The CB after having announced that it would implement an expansionary MP in the future,  unexpectedly lowers the current interest rate. 
+- If 𝑖 = 𝑖𝑒 flat 𝑡 𝑡+1
 
-Two Bloomberg analysts discuss the possible effects: 
+- If 𝑖𝑡 < 𝑖𝑡+1𝑒 positive slope - If 𝑖𝑡 > 𝑖𝑡+1𝑒 negative slope
 
-Analyst 1: _"GDP will definitely increase, and the yield curve will become downward sloping.“_ 
+- For sure, the new long-term interest rate will be lower than the initial one, given that both the short-term interest rates at time t and time t+1 are lower, and so is their average.
 
-Analyst 2: _"It's not certain that GDP will increase, and we can't draw any definite conclusions about the slope of the yield curve.“_ 
+## FORWARD GUIDANCE OF THE CB
 
-So, who is right? 
+- What is it? Non conventional MP tool
 
-_→ Neither is completely right._ 
+- A communication strategy used by central banks to influence market expectations about the future path of interest rates
 
-_It’s likely that GDP will increase, but the effect on the yield curve is uncertain._ 
+- The CB provides  information about its future monetary policy intentions
 
-Expected expansionary MP Current expansionary MP 
+- Why is it used?
 
-_0_ = initial equilibrium 
+- To lower long-term interest rates in order to stimulate I, Z and  Y, when short-term rates are at or near the zero lower bound.
 
-_1_ = final equilibrium 
+- When and Where?
 
-**==> picture [655 x 328] intentionally omitted <==**
+- Fed: Introduced in 2008, used extensively from 2011
 
-**----- Start of picture text -----**<br>
-Future: t+1<br>Present: t (expected in t) Yield to<br>maturity,<br>𝐼𝑆<br>𝑖𝑡 𝑡 𝑖𝑡+1 𝑖𝑚,𝑡<br>𝑖𝑡0 0 𝐿𝑀 𝑡 𝑖𝑡+10 0 𝐿𝑀𝑡+1 ҧ𝑖 𝑖1𝑡 𝑖2𝑡<br>1 1<br>𝑖1<br>𝑡+1 𝐼𝑆<br>𝑡+1<br>0 1<br>𝑌𝑡 𝑌𝑡 𝑌𝑡 𝑌𝑡+10 𝑌𝑡+11 𝑌𝑡+1 1 2 m, maturity<br>Direct effect of Expected<br>Indirect effect of the change<br>expansionary MP<br>in expectations at  t+1<br>implemented at t+1<br>**----- End of picture text -----**<br>
+- ECB: Officially adopted on July  4, 2013
 
+https://www.ecb.europa.eu/ecb-andyou/explainers/tell-me/html/what-isforward_guidance.en.html
 
-The relative reduction in the current interest rate compared to the future rate influences the shape of the yield curve. 
+Suppose the markets are expecting a servere recession for the next year.  Could the CB prevent the change in current output?
 
-## Effects 
+As we expect lower income in the next period, in current period
 
-𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑖𝑡+1𝑒 ↓ 
+- C ↓ since our lifecyle wealth decreases
 
-- If in t+1 the central bank lowers the nominal interest rate, by buying bonds, it will stimulate the real economy through investment, which becomes cheaper , Z ↑ and through the multiplier effect Y↑. 
+- I ↓ due to lower expected profits, making firms more cautious about investing
 
-- - In t, the equilibrium will change as a result of 
+- Aggregate demand falls
 
-- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↑ 𝑡+1 
+- lowering, through the multiplier effect, output and income
 
-- • more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑ 
+To prevent the decline in current income the CB can use forward guidance on short term interest rates
 
-- • 𝑒 Π𝑡+1 ↑, V Π[𝑒] ↑ investment more profitable ⇒𝐼𝑡↑ 
+- The CB reassures markets about its future interventions to support the real economy by keeping  short term interest rates low
 
-- • 𝑒 Stocks more attractive for investors a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 𝑒 
+Forward guidance helps to offset or eliminate the impact of adverse expectations
 
-- 𝑟 ↓ 𝑡+1 
+- If agents expect ↓𝑖𝑡+1𝑒 , the PDV of expected profits ↑,
 
-- • stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 
+- 𝐼 ↑ => 𝑍 ↑ 𝑡 𝑡
 
-- • firms more willing to invest ⇒V Π[𝑒] ↑⇒𝐼𝑡↑ 
+- current output  increases
 
-- ↑ aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 2) Direct effect of current expansionary monetary policy: as the central bank reduces the nominal interest rate, the borrowing cost decreases, making investment less expensive ⇒ investment increases, stimulating demand and, in equilibrium, output. Equilibrium at time t 0 →1 𝑌𝑡 ↑, 𝑖𝑡 ↓ 
+## FISCAL POLICY AND EXPECTATIONS
 
-𝐼𝑆𝑡 right 
+Governments are not often forward-looking
 
-𝐿𝑀 down 𝑡 
+- rarely act to reduce the deficit
 
-## Effects 
+- they mostly act to preserve political consensus
 
-- A permanently expansionary monetary policy has a **greater impact on output** compared to a policy implemented for only one period (either today or expected in the future), as it affects demand through two channels 
+A contractionary fiscal policy:
 
-- **Yield curve** 
+- In the short run, reduces output
 
-   - The starting point will definitely be lower, as the current monetary policy reduces the short-term interest rate. 
+- In the medium/long run, boosts savings, investment, and output
 
-   - The slope depends on the intensity of the current MP compared with the expected future one 
+But using an intertemporal framework, outcomes could be different
 
-      - 𝑒 
+## Given the higher public debt, agents expect a future contractionary FP.
 
-   - it depends on the difference we expect btw 𝑖𝑡 and 𝑖𝑡+1𝑒 
+_0_ = initial equilibrium
 
-   - If 𝑖 = 𝑖𝑒 flat 𝑡 𝑡+1 
+## Effects
 
-   - If 𝑖𝑡 < 𝑖𝑡+1𝑒 positive slope  If 𝑖𝑡 > 𝑖𝑡+1𝑒 negative slope 
+- Agents expect for t+1 an increase in taxes or a reduction in public 𝐼𝑆𝑡+1 to the left expenditure. The aggregate demand will be lower Z ↓ and through Equilibrium 0 →1
 
-   - For sure, the new long-term interest rate will be lower than the initial one, given that both the short-term interest rates at time t and time t+1 are lower, and so is their average. 
+- the multiplier effect also output Y ↓. Given the lower money 𝑌𝑡+1𝑒 ↓, 𝑖𝑡+1𝑒 = demand the CB will intervene by decreasing the money supply to keep the interest rate constant
 
-## FORWARD GUIDANCE OF THE CB 
+- - In t, the equilibrium will change as a result of
 
-- What is it? Non conventional MP tool 
+- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↓ 𝑡+1
 
-   - A communication strategy used by central banks to influence market expectations about the future path of interest rates 
+- - less disposable income  expected for next ⇒𝐿𝑊𝑡 ↓⇒𝐶𝑡 ↓ 𝐼𝑆𝑡 left - 𝑒 Π𝑡+1 ↓, V Π(𝑒) ↓ investment less profitable ⇒𝐼𝑡↓
 
-   - The CB provides  information about its future monetary policy intentions 
+- - 𝑒 Equilibrium 0 →1 Stocks less attractive for investors a s €𝐷𝑡+1 ↓⇒€𝑄𝑡 ↓⇒𝐹𝑊𝑡 ↓
 
-- Why is it used? 
+Equilibrium 0 →1 𝑌𝑡 ↓, 𝑖𝑡 =
 
-   - To lower long-term interest rates in order to stimulate I, Z and  Y, when short-term rates are at or near the zero lower bound. 
+- => ↓ aggregare private expenditure decreases ⇒Z𝑡↓ and through the multiplier 𝑌𝑡 ↓
 
-- When and Where? 
+=> In the momey market the money demand decreases and the CB to keep the interest rate constant reduces the money supply
 
-   - Fed: Introduced in 2008, used extensively from 2011 
+No changes in the yield curve, since both current and expected short-term interest rates remain unchanged
 
-   - ECB: Officially adopted on July  4, 2013 
+- => long-term rates are also unaffected
 
-https://www.ecb.europa.eu/ecb-andyou/explainers/tell-me/html/what-isforward_guidance.en.html 
+What would happen if the fiscal policy were implemented in the current period as well?
 
-Suppose the markets are expecting a servere recession for the next year.  Could the CB prevent the change in current output? 
+_→ Stronger real effect. Why ?_
 
-As we expect lower income in the next period, in current period 
+_→ Same effect on the yield curve. Why ?_
 
-- C ↓ since our lifecyle wealth decreases 
+What are the effects of a credible announcement of a future contractionary fiscal policy in an economy where the central bank controls the money supply?
 
-- 
+_→ Ambiguous effects. Why ?_
 
-   - I ↓ due to lower expected profits, making firms more cautious about investing 
+## SUMMING UP
 
-- Aggregate demand falls 
+- Expectations are crucial for understanding the effects of shocks and policies today
 
-- lowering, through the multiplier effect, output and income 
+- Expectations shape current economic outcomes.
 
-To prevent the decline in current income the CB can use forward guidance on short term interest rates 
+- Future policies influence today’s consumption and investment decisions
 
-- The CB reassures markets about its future interventions to support the real economy by keeping  short term interest rates low 
+- Credibility of policy announcements is key
 
-Forward guidance helps to offset or eliminate the impact of adverse expectations 
+- Credible announcements can be as powerful as actual actions.
 
-- If agents expect ↓𝑖𝑡+1𝑒 , the PDV of expected profits ↑, 
+- Forward guidance influences outcomes by shaping expectations, not through immediate action
 
-- 𝐼 ↑ => 𝑍 ↑ 𝑡 𝑡 
+- The yield curve reflects both present and future expectations.
 
-- current output  increases 
+- Takeaway: _It's not just what policymakers do, but what people expect they'll do_
 
-## **FISCAL POLICY AND EXPECTATIONS** 
+Two economists, Elena and Marco, are discussing the consequences of expectations regarding a fiscal tightening planned for next year.
 
-Governments are not often forward-looking 
+The government has announced that in period t+1, in order to avoid a public deficit, it will increase taxes and reduce public spending by an equivalent amount.
 
-- rarely act to reduce the deficit 
+Elena argues: _“If the central bank wants to avoid the impact of the fiscal tightening on output both today (t) and tomorrow (t+1), then stock prices will rise and the yield curve will shift downward.”_
 
-- they mostly act to preserve political consensus 
+Marco, on the other hand, claims:
 
-A contractionary fiscal policy: 
+_“If the central bank only responds to offset the change in output in period t+1, then stock prices might not change, but the yield curve will become downward sloping.”_
 
-- In the short run, reduces output 
+Who is right?
 
-- In the medium/long run, boosts savings, investment, and output 
+No one
 
-But using an intertemporal framework, outcomes could be different 
+## QUICK CHECKS
 
-## Given the higher public debt, agents expect a future contractionary FP. 
+In the central bank of a common monetary area buys bonds, output increases _____ in countries where consumers ______ foresighted in their consumption decisions.
 
-_0_ = initial equilibrium 
+a) more, are b) less, are not **c) more, are not** d) none of the previous answers
 
-**==> picture [147 x 16] intentionally omitted <==**
+## TRUE OR FALSE
 
-**----- Start of picture text -----**<br>
-1  = final equilibrium<br>**----- End of picture text -----**<br>
+Consider an economy with an initially flat yield curve. The government announces a future increase in public investment, while the central bank is expected to intervene to prevent changes in both current and future inflation. If agents are forward-looking and the announcement is credible, the yield curve is most likely to remain flat. ^w5wk8g
 
+## FALSE
 
-**==> picture [669 x 336] intentionally omitted <==**
+_We have contrasting effects but we do not know their relative magnitude: we are not able to predict the change in_ 𝑖2𝑡
 
-**----- Start of picture text -----**<br>
-Future: t+1<br>Present: t (expected in t) Yield to<br>maturity,<br>𝑖𝑡 𝑖𝑡+1 𝑖𝑚,𝑡<br>1 0 𝐿𝑀 𝑡 1 0 𝐿𝑀𝑡+1 𝑖1𝑡 𝑖2𝑡<br>= 𝑖𝑡0 = 𝑖𝑡+10 ҧ𝑖<br>𝐼𝑆<br>𝑡 𝐼𝑆<br>𝑡+1<br>0<br>𝑌𝑡1 𝑌𝑡 𝑌𝑡 𝑌𝑡+11 𝑌𝑡+10 𝑌𝑡+1 1 2 m, maturity<br>Indirect effect of the change  Direct effect of<br>in expectations at  t+1 contractionary FP to be<br>implemented at t+1<br>**----- End of picture text -----**<br>
+## QUICK CHECKS
 
+The government announces an increase in taxes in the next period. Today, output will___________ if the central bank in the next period conducts monetary policy __________ .
 
-## Effects 
+a) increase more, endogenously b) increase less, exogenously **c) decrease more, endogenously** d) decrease less, exogenously
 
-- Agents expect for t+1 an increase in taxes or a reduction in public 𝐼𝑆𝑡+1 to the left expenditure. The aggregate demand will be lower Z ↓ and through Equilibrium 0 →1 
+## QUICK CHECK
 
-- the multiplier effect also output Y ↓. Given the lower money 𝑌𝑡+1𝑒 ↓, 𝑖𝑡+1𝑒 = demand the CB will intervene by decreasing the money supply to keep the interest rate constant 
+The central bank announces an expansionary monetary policy in period t, and the policy is perceived as permanent. If the yield curve was flat before the shock, it will
 
-- - In t, the equilibrium will change as a result of 
+a) become flatter and shift downward b) become steeper and shift downward **c) remain flat and shift downward** d) none of the previous answers
 
-- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↓ 𝑡+1 
+## TAKE AWAY AND KEY CONCEPTS
 
-- • less disposable income  expected for next ⇒𝐿𝑊𝑡 ↓⇒𝐶𝑡 ↓ 𝐼𝑆𝑡 left • 𝑒 Π𝑡+1 ↓, V Π[𝑒] ↓ investment less profitable ⇒𝐼𝑡↓ 
+- Expectations
 
-- • 𝑒 Equilibrium 0 →1 Stocks less attractive for investors a s €𝐷𝑡+1 ↓⇒€𝑄𝑡 ↓⇒𝐹𝑊𝑡 ↓ 
+- Two periods IS-LM model and intertemporal framework
 
-Equilibrium 0 →1 𝑌𝑡 ↓, 𝑖𝑡 = 
+- Policy credibility
 
-- => ↓ aggregare private expenditure decreases ⇒Z𝑡↓ and through the multiplier 𝑌𝑡 ↓ 
+- Forward guidance
 
-=> In the momey market the money demand decreases and the CB to keep the interest rate constant reduces the money supply 
+- Expected monetary policy
 
-No changes in the yield curve, since both current and expected short-term interest rates remain unchanged 
+- Expected fiscal  policy
 
-- => long-term rates are also unaffected 
+- Permanent vs. temporary policies
 
-What would happen if the fiscal policy were implemented in the current period as well? 
-
-_→ Stronger real effect. Why ?_ 
-
-_→ Same effect on the yield curve. Why ?_ 
-
-What are the effects of a credible announcement of a future contractionary fiscal policy in an economy where the central bank controls the money supply? 
-
-_→ Ambiguous effects. Why ?_ 
-
-## SUMMING UP 
-
-- Expectations are crucial for understanding the effects of shocks and policies today 
-
-   - Expectations shape current economic outcomes. 
-
-   - Future policies influence today’s consumption and investment decisions 
-
-- Credibility of policy announcements is key 
-
-   - Credible announcements can be as powerful as actual actions. 
-
-- Forward guidance influences outcomes by shaping expectations, not through immediate action 
-
-- The yield curve reflects both present and future expectations. 
-
-- Takeaway: _It's not just what policymakers do, but what people expect they'll do_ 
-
-Two economists, Elena and Marco, are discussing the consequences of expectations regarding a fiscal tightening planned for next year. 
-
-The government has announced that in period t+1, in order to avoid a public deficit, it will increase taxes and reduce public spending by an equivalent amount. 
-
-Elena argues: _“If the central bank wants to avoid the impact of the fiscal tightening on output both today (t) and tomorrow (t+1), then stock prices will rise and the yield curve will shift downward.”_ 
-
-Marco, on the other hand, claims: 
-
-_“If the central bank only responds to offset the change in output in period t+1, then stock prices might not change, but the yield curve will become downward sloping.”_ 
-
-Who is right? 
-
-No one 
-
-## QUICK CHECKS 
-
-In the central bank of a common monetary area buys bonds, output increases _____ in countries where consumers ______ foresighted in their consumption decisions. 
-
-a) more, are b) less, are not **c) more, are not** d) none of the previous answers 
-
-## TRUE OR FALSE 
-
-Consider an economy with an initially flat yield curve. The government announces a future increase in public investment, while the central bank is expected to intervene to prevent changes in both current and future inflation. If agents are forward-looking and the announcement is credible, the yield curve is most likely to remain flat. 
-
-## FALSE 
-
-_We have contrasting effects but we do not know their relative magnitude : we are not able to predict the change in_ 𝑖2𝑡 
-
-## QUICK CHECKS 
-
-The government announces an increase in taxes in the next period. Today, output will___________ if the central bank in the next period conducts monetary policy __________ . 
-
-a) increase more, endogenously b) increase less, exogenously **c) decrease more, endogenously** d) decrease less, exogenously 
-
-## QUICK CHECK 
-
-The central bank announces an expansionary monetary policy in period t, and the policy is perceived as permanent. If the yield curve was flat before the shock, it will 
-
-a) become flatter and shift downward b) become steeper and shift downward **c) remain flat and shift downward** d) none of the previous answers 
-
-## TAKE AWAY AND KEY CONCEPTS 
-
-- Expectations 
-
-- Two periods IS-LM model and intertemporal framework 
-
-- Policy credibility 
-
-- Forward guidance 
-
-- Expected monetary policy 
-
-- Expected fiscal  policy 
-
-- Permanent vs. temporary policies 
-
+## Related Notes
+- [[L10 ISLM model]]
+- [[Macroeconomics Exercise Book-228-446]]
+- [[Macroeconomics Exercise Book]]

@@ -1,547 +1,321 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "THANK YOU"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **HOW TO BUILD A FINANCIAL STATEMENT 30060 – MANAGEMENT** 
+## HOW TO BUILD A FINANCIAL STATEMENT 30060 – MANAGEMENT
 
-Department of Management & Technology 
+Department of Management & Technology
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-2 
+1. HOW TO BUILD A FINANCIAL STATEMENT
 
-HOW TO BUILD A FINANCIAL STATEMENT 
+1.0
 
-## AGENDA 
+**HOW TO BUILD A FINANCIAL STATEMENT**
 
-1. HOW TO BUILD A FINANCIAL STATEMENT 
+How to build a financial statement
 
-**==> picture [119 x 61] intentionally omitted <==**
+## From business to financial statements
 
-1.0 
+Costs Revenues Assets Liabilities
 
-**HOW TO BUILD A FINANCIAL STATEMENT** 
+How do operations affect the financial statements?
 
-**==> picture [105 x 53] intentionally omitted <==**
+How to build a financial statement
 
-4 
-
-How to build a financial statement 
-
-## From business to financial statements 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-**==> picture [140 x 80] intentionally omitted <==**
-
-Costs Revenues Assets Liabilities 
-
-How do operations affect the financial statements? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-5 
-
-How to build a financial statement 
-
-## Shares issuance 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Shares issuance
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-6 
-
-How to build a financial statement 
-
-## Shares issuance 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Shares issuance
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-7 
-
-How to build a financial statement 
-
-## Rent a building 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Rent a building
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-8 
-
-How to build a financial statement 
-
-## Rent a building 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Rent a building
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Rent expenses||
-|Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues Materials Labor costs|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Rent expenses|
+|Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
+## Purchase of materials
 
-**==> picture [105 x 53] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities ^zs2h11
 
-9 
+How to build a financial statement
 
-How to build a financial statement 
+## Purchase of materials
 
-## Purchase of materials 
+Delayed payment
 
-**==> picture [151 x 151] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
+How to build a financial statement
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Purchase of materials
 
-10 
+Contextual payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
+*(See also: [[ACC_2(1)#^17ld3l]])*
 
-How to build a financial statement 
+How to build a financial statement
 
-## Purchase of materials 
+## Purchase of materials
 
-Delayed payment 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-11 
-
-How to build a financial statement 
-
-## Purchase of materials 
-
-Contextual payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-12 
-
-How to build a financial statement 
-
-## Purchase of materials 
-
-End of the year 
-
-**==> picture [151 x 151] intentionally omitted <==**
+End of the year
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Materials||
-|Labor costs<br>Rent expenses<br>Transportation expensens<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Materials|
+|Labor costs Rent expenses Transportation expensens Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
+## Borrowing from banks
 
-**==> picture [105 x 53] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-13 
+How to build a financial statement
 
-How to build a financial statement 
+## Borrowing from banks
 
-## Borrowing from banks 
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-**==> picture [151 x 151] intentionally omitted <==**
+How to build a financial statement
 
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-14 
-
-How to build a financial statement 
-
-## Borrowing from banks 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-15 
-
-How to build a financial statement 
-
-## Payment of interests 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Payment of interests
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-16 
-
-How to build a financial statement 
-
-## Payment of interests 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Payment of interests
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Interest expenses||
-|EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Interest expenses|
+|EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-17 
-
-How to build a financial statement 
-
-## Investment in new Machinery 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Investment in new Machinery
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-18 
-
-How to build a financial statement 
-
-## Investment in new Machinery 
+## Investment in new Machinery
 
 |Delayed payment|Profit &Loss|Balance Sheet|
 |---|---|---|
-||Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-||||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-19 
-
-How to build a financial statement 
-
-## Investment in new Machinery 
+## Investment in new Machinery
 
 |Contextual payment|Profit &Loss|Balance Sheet|
 |---|---|---|
-||Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-||||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
+## Amortization and Depreciation
 
-**==> picture [105 x 53] intentionally omitted <==**
-
-20 
-
-How to build a financial statement 
-
-## Amortization and Depreciation 
-
-End of the year 
-
-**==> picture [151 x 151] intentionally omitted <==**
+End of the year
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Amortization and depreciation||
-|EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Amortization and depreciation|
+|EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
+## Employees
 
-**==> picture [105 x 53] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-21 
+How to build a financial statement
 
-How to build a financial statement 
-
-## Employees 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-22 
-
-How to build a financial statement 
-
-## Employees 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Employees
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Labor costs||
-|Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues Materials|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Labor costs|
+|Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-23 
-
-How to build a financial statement 
-
-## Marketing and sales expenses 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Marketing and sales expenses
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-24 
-
-How to build a financial statement 
-
-## Marketing and sales expenses 
+## Marketing and sales expenses
 
 |Contextual payment|Profit &Loss|Balance Sheet|
 |---|---|---|
-||Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-||Marketing and sales exp.||
-||Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-||||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Marketing and sales exp.|
+|Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
+## Marketing and sales expenses
 
-**==> picture [105 x 53] intentionally omitted <==**
-
-25 
-
-How to build a financial statement 
-
-## Marketing and sales expenses 
-
-Delayed payment 
-
-**==> picture [151 x 151] intentionally omitted <==**
+Delayed payment
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Marketing and sales exp.||
-|Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome||
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Marketing and sales exp.|
+|Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|
+|
 
+How to build a financial statement
 
+## Sales
 
-**==> picture [105 x 53] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-26 
+How to build a financial statement
 
-How to build a financial statement 
+## Sales
 
-## Sales 
+Contextual payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-**==> picture [151 x 151] intentionally omitted <==**
+How to build a financial statement
 
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
+## Sales
 
-**==> picture [105 x 53] intentionally omitted <==**
+Delayed payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-27 
+How to build a financial statement
 
-How to build a financial statement 
+## Income taxes
 
-## Sales 
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-Contextual payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
+How to build a financial statement
 
-**==> picture [105 x 53] intentionally omitted <==**
-
-28 
-
-How to build a financial statement 
-
-## Sales 
-
-Delayed payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-29 
-
-How to build a financial statement 
-
-## Income taxes 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-30 
-
-How to build a financial statement 
-
-## Income taxes 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Income taxes
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|Taxes||
-|Netincome||
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|Taxes|
+|Netincome|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-31 
-
-How to build a financial statement 
-
-## Payment of debts 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Payment of debts
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-32 
-
-How to build a financial statement 
-
-## Payment of debts 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Payment of debts
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities|
-||Cash and deposits<br>Accounts payables|
-||Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities|
+|Cash and deposits Accounts payables|
+|Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
+## Loans repayment
 
-**==> picture [105 x 53] intentionally omitted <==**
+Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
 
-33 
+How to build a financial statement
 
-How to build a financial statement 
-
-## Loans repayment 
-
-**==> picture [151 x 151] intentionally omitted <==**
-
-Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-34 
-
-How to build a financial statement 
-
-## Loans repayment 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Loans repayment
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-35 
-
-How to build a financial statement 
-
-## Collection of receivables 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Collection of receivables
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+How to build a financial statement
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-36 
-
-How to build a financial statement 
-
-## Collection of receivables 
-
-**==> picture [151 x 151] intentionally omitted <==**
+## Collection of receivables
 
 |Profit &Loss|Balance Sheet|
 |---|---|
-|Sales revenues<br>Materials<br>Labor costs<br>Rent expenses<br>Transportation expenses<br>Marketing and sales exp.<br>Administrative overheads<br>EBITDA<br>Amortization and depreciation<br>EBIT<br>Interest expenses<br>EBT<br>Taxes<br>Netincome|Net fixed assets<br>Owners' funds<br>Machinery<br>Issued stocks<br>Equipment<br>Revenue reserves<br>Current assets<br>Long-term<br>liabilities<br>Inventories<br>Bank loans<br>Accounts<br>receivables<br>Current liabilities<br>Cash and deposits<br>Accounts payables<br>Tax debts<br>Totalassets<br>Total liabilities|
-|||
+|Sales revenues Materials Labor costs Rent expenses Transportation expenses Marketing and sales exp. Administrative overheads EBITDA Amortization and depreciation EBIT Interest expenses EBT Taxes Netincome|Net fixed assets Owners' funds Machinery Issued stocks Equipment Revenue reserves Current assets Long-term liabilities Inventories Bank loans Accounts receivables Current liabilities Cash and deposits Accounts payables Tax debts Totalassets Total liabilities|
+|
 
+# THANK YOU
 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-# **THANK YOU** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
+## Related Notes
+- [[ACC_2(1)]]
+- [[ACC_4(1)]]
+- [[30693 - FSA Part 1]]

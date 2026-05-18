@@ -1,734 +1,426 @@
-## _**Financial Accounting – Course 30693**_ 
+---
+course: "Financial Accounting 2"
+course_code: "30693"
+tags:
+  - "source"
+  - course_30693
+Title: "Thank you!"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [198 x 209] intentionally omitted <==**
+## Financial Accounting – Course 30693
 
-## **Financial Statements presentation, reclassification and analysis** 
+## Financial Statements presentation, reclassification and analysis
 
-## **Part 1** 
+## Part 1
 
-**==> picture [119 x 61] intentionally omitted <==**
+## AGENDA
 
-Copyright© Università Bocconi No part of this publication may be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any means – electronic, mechanical, photocoping, recorderig or otherwise – without the permission of Bocconi Undergraduate School. 
+1. Understanding the Business
 
-2 
+2. External decision-makers. F/S presentation
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+3. Internal decision-makers
 
-## AGENDA 
+## PART 1
 
-1. Understanding the Business 
+4. F/S reclassification. Key indicators
 
-2. External decision-makers. F/S presentation 
+- 4A. B/S reclassification
 
-3. Internal decision-makers 
+- 4B. I/S reclassification
 
-## **PART 1** 
+- 4C. Comparative Analysis
 
-4. F/S reclassification. Key indicators 
+- 5. Ratio Analysis
 
-- 4A. B/S reclassification 
+6. FSA in the real-life world
 
-- – 4B. I/S reclassification 
+## Financial statements provide information to:
 
-- – 4C. Comparative Analysis 
+## The Investment Decision (1 of 2)
 
-- 5. Ratio Analysis 
+In considering an investment in stock, investors should evaluate the company’s future income and growth potential on the basis of:
 
-6. FSA in the real-life world 
+**Understand company’s business strategy**
 
-**==> picture [119 x 61] intentionally omitted <==**
+## Understanding a Company’s Strategy (1 of 2)
 
-**==> picture [452 x 34] intentionally omitted <==**
+While financial statements reflect transactions, each of those transactions is the result of a company’s operating decisions as it implements its business strategy.
 
-**==> picture [119 x 61] intentionally omitted <==**
+**Because financial statements are the primary documents that represent a company, a thorough understanding of them is essential to fully grasp the company’s business purpose, operations, and mission.**
 
-4 
+## Understanding a Company’s Strategy (2 of 2)
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+Businesses can earn a high rate of return by following different strategies.  There are two fundamental strategies:
 
-## Financial statements provide information to: 
+1) Product differentiation
 
-**==> picture [639 x 294] intentionally omitted <==**
+2) Cost differentiation
 
-**----- Start of picture text -----**<br>
-External Decision Makers Internal Decision Makers<br>-<br>- Present and potential owners Board of Directors<br>- Investment analysts<br>- Managers<br>- Creditors<br>- Key employees<br>- Banks<br>- Consultants<br>- Tax Authority<br>Financial Statements help people make better economic decisions.<br>PUBLISHED  financial statements<br>.<br>are designed primarily to meet the needs of external decision makers<br>**----- End of picture text -----**<br>
+Here are some examples:
 
+**Financial analysis begins with a solid understanding of a company’s business strategy.** _Read the annual report (10-K), the letter from the president and management’s discussion and analysis (MD&A), other reports (e.g., sustainability or ESG reports), as well as articles in the business press._
 
-5 
+## EXTERNAL DECISION MAKERS (1/2):
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## LIMITED INFORMATION PACKAGE AVAILABLE
 
-## The Investment Decision (1 of 2) 
+The external decision makers (existing and potential shareholders, lenders, employees with limited access to financial information, suppliers, clients,…) have access ONLY to the "official" financial statements of a limited liability company, downloadable from the Public Register of Companies (and on the website, on a voluntarily basis). These statements show:
 
-In considering an investment in stock, investors should evaluate the company’s future income and growth potential on the basis of: 
+- Aggregated data
 
-**==> picture [274 x 186] intentionally omitted <==**
+- Limited information
 
-**==> picture [119 x 61] intentionally omitted <==**
+- _In many cases_ , only details required by the applicable law
 
-**Understand company’s business strategy** 
+_Examples: you don’t have information on the list of customers and/or suppliers and obviously, on the contractual agreements in terms of discounts, prices, payment time line; you don’t know which and how many tangible and intangible assets are owned and used by the company, apart from the broad reclassification in the statements, you don’t know the value in use of an asset unless it is impaired and in any case how this is calculated,…_
 
-6 
+EXTERNAL DECISION MAKERS (2/2): **LIMITED INFORMATION PACKAGE AVAILABLE** Financial statements are presented under standard formats, for US GAAP (the so-called **10-K filing** ) or for IAS/IFRS companies ( **ESEF format** ) or for ITA GAAP (the so-called **XBRL format** ).
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+Which is the content of a full set of financial statements?
 
-## Understanding a Company’s Strategy (1 of 2) 
+**Income statement and balance sheet are always compulsory, everywhere.**
 
-While financial statements reflect transactions, each of those transactions is the result of a company’s operating decisions as it implements its business strategy. 
+All the other statements, notes, reports may be required or not, based on a number of factors (mainly, the size of the entity).
 
-**==> picture [467 x 55] intentionally omitted <==**
+In the following slides there is the comprehensive list of statements, notes and reports that may be required under the different formats applicable.
 
-**==> picture [90 x 62] intentionally omitted <==**
+- Different types of financial statements:
 
-**==> picture [119 x 61] intentionally omitted <==**
+- **U.S. Financial Statements (10-K filings) EU Financial Statements**
 
-**Because financial statements are the primary documents that represent a company, a thorough understanding of them is essential to fully grasp the company’s business purpose, operations, and mission.** 
+- -required by the U.S. Securities and Exchange From 2020, issuers on EU regulated markets are Commission (SEC) required to prepare their IFRS annual financial - one of the most comprehensive and most reporting in a European Single Electronic Format important documents a public company can (ESEF) according to the XBRL format. publish on a yearly basis - information includes corporate history, financial statements, earnings per share, and any other relevant data. - Requires XBRL tagging
 
-7 
+## Content
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+**OTHER REPORTS (Non-Financial Statements/DNF):** ESG report/Sustainability report,…
 
-## Understanding a Company’s Strategy (2 of 2) 
+## INTERNAL DECISION MAKERS (1/2):
 
-Businesses can earn a high rate of return by following different strategies.  There are two fundamental strategies: 
+## FULL INFORMATION PACKAGE AVAILABLE
 
-1) Product differentiation 
+Internal decision makers (Board of Directors, auditors, key managers, and consultancy companies in charge for projects, …) have access to the full financial information package.
 
-2) Cost differentiation 
+What do we mean with "full information package"?
 
-Here are some examples: 
+## IT DEPENDS ON THE TECH QUALITY OF THE ACCOUNTING SYSTEM
 
-**==> picture [322 x 111] intentionally omitted <==**
+The larger is the company, the more crucial is the accounting system: the IT infrastructure shall be adequate to the number and complexity of transactions.
 
-**==> picture [119 x 61] intentionally omitted <==**
+Main issues:
 
-**Financial analysis begins with a solid understanding of a company’s business strategy.** _Read the annual report (10-K), the letter from the president and management’s discussion and analysis (MD&A), other reports (e.g., sustainability or ESG reports), as well as articles in the business press._ 
+1. Sometimes, IT systems are not adequate / timely for reporting purposes 2. Interrelations between different accounting software can cause relevant reporting issues _(example of different software in the same company: one to issue invoices to customers, one to match credit card sales with invoices, one to keep track of orders from clients, one to record inventory increase and decrease, one to allocate properly the employees’ expenses…)_
 
-**==> picture [418 x 77] intentionally omitted <==**
+3. To use an accounting software, employees must be trained, and training takes time and it is expensive!
 
-**==> picture [119 x 61] intentionally omitted <==**
+## INTRO
 
-9 
+As we pointed out before, the “external user” has a limited dataset available, whilst the “internal user” has full access to the financial information of the company.
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- All the activities related to the F/S analysis can be carried out by both categories of users; nevertheless, obviously, the output generated by an "internal user" can be much more accurate than the output of an "external user", due to the limited information the external user is provided with.
 
-## EXTERNAL DECISION MAKERS (1/2): 
+This is the reason why in the M&A transactions there is the **due diligence period** , during which professionals appointed by the buyer (sometimes in contrast with the professionals appointed by the seller) get access to full set of the Target’s data.
 
-## **LIMITED INFORMATION PACKAGE AVAILABLE** 
+The main F/S analysis activities are:
 
-The external decision makers (existing and potential shareholders, lenders, employees with limited access to financial information, suppliers, clients,…) have access ONLY to the "official" financial statements of a limited liability company, downloadable from the Public Register of Companies (and on the website, on a voluntarily basis). These statements show: 
+1. F/S reclassification _(see next slides)_ ;
 
-- Aggregated data 
+2. Calculation of component percentage _(see next slides)_ ; 3. Ratio analysis _(new set of slides – part 2)_ .
 
-- Limited information 
+## FINANCIAL STATEMENTS RECLASSIFICATION/REFORMULATION
 
-- _In many cases_ , only details required by the applicable law 
+Financial statement reclassification refers to reorganizing items in the balance sheet and income statement into alternative formats to better structure financial information and to calculate a number of main key indicators.
 
-_Examples: you don’t have information on the list of customers and/or suppliers and obviously, on the contractual agreements in terms of discounts, prices, payment time line; you don’t know which and how many tangible and intangible assets are owned and used by the company, apart from the broad reclassification in the statements, you don’t know the value in use of an asset unless it is impaired and in any case how this is calculated,…_ 
+This process, often called financial statement reformulation, helps users derive intermediate/partial results (or ratios), improving the analysis of a firm’s performance and financial soundness.
 
-**==> picture [119 x 61] intentionally omitted <==**
+Reformulation generally follows established best practices used in financial statement analysis, although **no formal rules or laws prescribe a single required format** .
 
-10 
+Different textbooks and analysts may use different formats or labels, or sometimes the same labels with different meanings; therefore, **CONSISTENCY in definitions and a clear** . **understanding of the concepts are essential**
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+In the following slides, reclassification refers to internal-use reformulation, meaning it is prepared by users within the firm who have full access to the company’s detailed financial data.
 
-EXTERNAL DECISION MAKERS (2/2): **LIMITED INFORMATION PACKAGE AVAILABLE** Financial statements are presented under standard formats, for US GAAP (the so-called **10-K filing** ) or for IAS/IFRS companies ( **ESEF format** ) or for ITA GAAP (the so-called **XBRL format** ). 
+## BALANCE SHEET RECLASSIFICATION
 
-Which is the content of a full set of financial statements? 
+## Different formats provide different information.
 
-**Income statement and balance sheet are always compulsory, everywhere.** 
+## Reclassified balance sheet format with ONLY focus on liquidity and solvency
 
-All the other statements, notes, reports may be required or not, based on a number of factors (mainly, the size of the entity). 
+## assets are classified according to their liquidity
 
-In the following slides there is the comprehensive list of statements, notes and reports that may be required under the different formats applicable. 
+## liabilities are classified according to their maturity
 
-**==> picture [119 x 61] intentionally omitted <==**
+## ASSETS
 
-11 
+## LIABILITIES
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## SHORT-TERM (or CURRENT) ASSETS:
 
-- Different types of financial statements: 
+_expected to be converted to cash, sold or consumed during the next 12 months_
 
-- **U.S. Financial Statements (10-K filings) EU Financial Statements** 
+- Cash and cash equivalents
 
-- -required by the U.S. Securities and Exchange From 2020, issuers on EU regulated markets are Commission (SEC) required to prepare their IFRS annual financial - one of the most comprehensive and most reporting in a European Single Electronic Format important documents a public company can (ESEF) according to the XBRL format. publish on a yearly basis - information includes corporate history, financial statements, earnings per share, and any other relevant data. - Requires XBRL tagging 
+- Short-term investments
 
-**==> picture [263 x 56] intentionally omitted <==**
+- Accounts receivable _(net of bad debts allowance)_
 
-**----- Start of picture text -----**<br>
-From 2020, issuers on EU regulated markets are<br>required to prepare their IFRS annual financial<br>reporting in a European Single Electronic Format<br>(ESEF) according to the XBRL format.<br>**----- End of picture text -----**<br>
+- Inventories
 
+- Other short-term assets
 
-12 
+## **SHORT-TERM (or CURRENT) LIABILITIES:** _debts due within one year_
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- Accounts payable
 
-## Content 
+- Short term portion of loans;
 
-**==> picture [653 x 314] intentionally omitted <==**
+- Bank overdraft;
 
-**----- Start of picture text -----**<br>
-U.S. Financial Statements  EU Financial Statements<br>(10-K filings)<br>5 distinct sections: Distinct documents (related to type and size<br>1. Business :  overview of the company’s main  of company)<br>operations. 1. Company’s separate financial statements<br>2. Risk factors : outline of any and all risks the  (IS, BS, statement of cash flows and<br>company faces or may face in the future.  statement of stockholders’ equity).<br>3. Selected financial data : financial information  2. Consolidated Financial Statements.<br>about the company over the last five years.  3. Minutes of the shareholders’ meeting with<br>4. Management’s discussion and  the approval of the F.S.<br>analysis (MD&A ) : financial condition and results  4. Directors’ management report.<br>of operations.<br>Cont’d next slide<br>**----- End of picture text -----**<br>
+- Tax payable;
 
+- Other short-term liabilities
 
-13 
+## LONG-TERM (or NON-CURRENT) ASSETS:
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## assets that are not short-term
 
-**==> picture [595 x 228] intentionally omitted <==**
+- Tangible assets _(net of accumulated depreciation)_
 
-**----- Start of picture text -----**<br>
-U.S. Financial Statements  EU Financial Statements<br>(10-K filings)<br>5 distinct sections: Distinct documents (related to type and size<br>… of company)<br>5. Financial statements and supplementary data :  …<br>company’s audited financial statements ( the income  5. Board of auditors’ report<br>statement, balance sheet, and statement of cash flows).  6. List of company associates.<br>A letter from the company’s independent auditor  7. Audit (firm’s) report.<br>certifying the scope of their review is also included in<br>this section<br>**----- End of picture text -----**<br>
+- Intangible assets _(net of accumulated amortization)_
 
+- Long-term Investments
 
-**==> picture [42 x 39] intentionally omitted <==**
+- Other long-term assets
 
-**OTHER REPORTS (Non-Financial Statements/DNF):** ESG report/Sustainability report,… 
+## **LONG-TERM (or NON-CURRENT) LIABILITIES:** _debts which are not classified as short-term_
 
-**==> picture [119 x 61] intentionally omitted <==**
+- Loans payable
 
-**==> picture [119 x 61] intentionally omitted <==**
+- Bonds payable
 
-15 
+- Long term notes payable
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- Other long-term liabilities
 
-## INTERNAL DECISION MAKERS (1/2): 
+## SHAREHOLDERS’ EQUITY
 
-## **FULL INFORMATION PACKAGE AVAILABLE** 
+- Common Stock & Additional paid-in capital
 
-Internal decision makers (Board of Directors, auditors, key managers, and consultancy companies in charge for projects, …) have access to the full financial information package. 
+- Reserves
 
-What do we mean with "full information package"? 
+- Earnings
 
-## **IT DEPENDS ON THE TECH QUALITY OF THE ACCOUNTING SYSTEM** 
+## BALANCE SHEET RECLASSIFICATION
 
-The larger is the company, the more crucial is the accounting system: the IT infrastructure shall be adequate to the number and complexity of transactions. 
+All major consulting firms (see the next slides for two real-life examples from Deloitte and EY) reclassify the balance sheet in a broadly similar way, as follows:
 
-Main issues: 
+- **NET INVESTED CAPITAL**
 
-1. Sometimes, IT systems are not adequate / timely for reporting purposes 2. Interrelations between different accounting software can cause relevant reporting issues _(example of different software in the same company: one to issue invoices to customers, one to match credit card sales with invoices, one to keep track of orders from clients, one to record inventory increase and decrease, one to allocate properly the employees’ expenses…)_ 
+1. Long-lived assets (tangibles, intangibles, financial) 2. Net Working Capital
+	a. Commercial working capital
+	b. Other operating assets/liabilities
 
-3. To use an accounting software, employees must be trained, and training takes time and it is expensive! 
+- **SOURCES OF FINANCING**
 
-**==> picture [119 x 61] intentionally omitted <==**
+_We recall that each reclassification may differ depending on the specific needs and the input data available._
 
-**==> picture [554 x 35] intentionally omitted <==**
+1. Equity 2. Net Financial Position 3. Other liabilities
 
-**==> picture [119 x 61] intentionally omitted <==**
+Please find in the next slides further details.
 
-17 
+BALANCE SHEET RECLASSIFICATION – Example 1 _Deloitte – courtesy translation provided._
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## BALANCE SHEET RECLASSIFICATION – Example 2 _EY – courtesy translation provided._
 
-## INTRO 
+## BALANCE SHEET RECLASSIFICATION - details
 
-As we pointed out before, the “external user” has a limited dataset available, whilst the “internal user” has full access to the financial information of the company. 
+**NET INVESTED CAPITAL** is total assets, less all the “operating” liabilities. It can be defined as “all the resources the company uses, net of the liabilities related to operations”. It is divided into two categories: long-lived assets and Net Working Capital (NWC).
 
-- All the activities related to the F/S analysis can be carried out by both categories of users; nevertheless, obviously, the output generated by an "internal user" can be much more accurate than the output of an "external user", due to the limited information the external user is provided with. 
+**1) Long-lived assets (tangibles, intangibles, financial):** This section totals the net book value of all long-lived assets. Usually they are aggregated; if a single asset is significant for the analysis, then it is presented stand-alone.
 
-This is the reason why in the M&A transactions there is the **due diligence period** , during which professionals appointed by the buyer (sometimes in contrast with the professionals appointed by the seller) get access to full set of the Target’s data. 
+**2) Net Working Capital:** This section includes all the current, operating assets, net of the current, operating liabilities, and it is divided into two sub-sections:
+	 **a. Commercial working capital:** This is the net total of ONLY the following: inventories (+), accounts receivable (+), accounts payable (-). Note that all accounts are net of any contra-asset (e.g., allowance for doubtful accounts)
+	 **b. Other operating assets/liabilities:** This section includes all the other assets and liabilities with an operating nature: wages payable, prepaid expenses (if they have an operating nature), unearned revenues, social security payable, withholding tax payables, contingent liabilities (e.g., provisions for warranties), tax assets (e.g., VAT receivable), tax liabilities (e.g., Income tax payable)
+*(See also: [[Accounting 1 Blab Handout 2024-2025 A.Y.#^v3c0mx]])*
 
-The main F/S analysis activities are: 
+## BALANCE SHEET RECLASSIFICATION - details
 
-1. F/S reclassification _(see next slides)_ ; 
+**SOURCES OF FINANCING:** This total does not coincide with the amount of _total liabilities and equity_ in the balance sheet because, as noted earlier, operating liabilities are subtracted from assets in order to calculate **Net Invested Capital** . This amount therefore represents how the net assets are financed (i.e., it reflects the company’s financing structure).
 
-2. Calculation of component percentage _(see next slides)_ ; 3. Ratio analysis _(new set of slides – part 2)_ . 
+**1. Equity** corresponds to the amount reported in the financial statements.
 
-**==> picture [119 x 61] intentionally omitted <==**
+**2. Net Financial Position (NFP)** is the most important metric in the financial statements analysis together with EBITDA (see slideset Part 3). It is calculated as: (i) total financial liabilities (both short-term and long-term, which include lease liabilities and, in most cases, exclude intra-group financial liabilities) minus (ii) cash and cash equivalents (e.g., financial receivables).
 
-18 
+## – NFP = total Financial Liabilities Cash and Cash equivalents
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+**3. Other liabilities** include shareholder loans and other intra-group financial liabilities. These are liabilities of a financial nature but with a lower risk profile (if a subsidiary is unable to repay a shareholder loan, it is unlikely that the shareholder would initiate bankruptcy proceedings against the subsidiary). In addition, this category includes any dividends payable.
 
-## FINANCIAL STATEMENTS RECLASSIFICATION/REFORMULATION 
+## INCOME STATEMENT RECLASSIFICATION
 
-Financial statement reclassification refers to reorganizing items in the balance sheet and income statement into alternative formats to better structure financial information and to calculate a number of main key indicators. 
+For FSA, income statements can be presented in different formats depending on the analysts’ objectives. In many cases, the standard formats required by accounting standards (e.g., US GAAP or IFRS) already provide a useful starting point for analysis, since they contain most of the information needed and usually require only limited adjustments.
 
-This process, often called financial statement reformulation, helps users derive intermediate/partial results (or ratios), improving the analysis of a firm’s performance and financial soundness. 
+The first section of the income statement, leading up to **EBITDA,** is often _highly flexible_ . Firms may structure this part differently depending on their industry characteristics (e.g., merchandising, manufacturing, or services).
 
-Reformulation generally follows established best practices used in financial statement analysis, although **no formal rules or laws prescribe a single required format** . 
+After EBITDA, the structure of the income statement becomes more standardized: - Subtract Depreciation and Amortization → **EBIT** - Adjust for financial and extraordinary items → **EBT** - Subtract income taxes → **Net Income**
 
-Different textbooks and analysts may use different formats or labels, or sometimes the same labels with different meanings; therefore, **CONSISTENCY in definitions and a clear** . **understanding of the concepts are essential** 
+The next slide presents a standard example of a reclassified income statement for a merchandising company.
 
-In the following slides, reclassification refers to internal-use reformulation, meaning it is prepared by users within the firm who have full access to the company’s detailed financial data. 
+## INCOME STATEMENT RECLASSIFICATION
 
-**==> picture [119 x 61] intentionally omitted <==**
+## A Merchandise Company Standard Format
 
-**==> picture [119 x 61] intentionally omitted <==**
+## + Net sales
 
-20 
+- Cost of goods sold
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- **=  GROSS PROFIT (= GROSS MARGIN)**
 
-## BALANCE SHEET RECLASSIFICATION 
++ Other operating revenues
 
-## Different formats provide different information. 
+- Selling, General and Administrative expenses
 
-**==> picture [631 x 231] intentionally omitted <==**
+- **=   EBITDA (Earnings before interests, taxes, depreciation and amortization)**
 
-**----- Start of picture text -----**<br>
-As for Balance Sheet, there are formats with focus on<br>Liquidity and  Business<br>solvency  Functions<br>Items of the BS are divided in short/long  This reclassification classifies the BS items<br>term assets and liabilities according to the company’s business (e.g.,<br>investment, operations and financing)<br>**----- End of picture text -----**<br>
+- Depreciation and amortization expense
 
+- **=  EBIT (Earnings before interests and taxes** )
 
-21 
++/- Net Non-Recurring Items
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
++ Interest & financial revenues
 
-## Reclassified balance sheet format with ONLY focus on liquidity and solvency 
+- Interest expense and financial charges
 
-## **assets are classified according to their liquidity** 
+- **=   Income before Taxes (EBT, Earning before taxes)**
 
-## **liabilities are classified according to their maturity** 
+- Income taxes
 
-## **ASSETS** 
+**=   Net Income**
 
-## **LIABILITIES** 
+## INCOME STATEMENT RECLASSIFICATION – Example 1 _Real Company Management Report (Internal use) courtesy translation provided - Amount €/000_
 
-## **SHORT-TERM (or CURRENT) ASSETS:** 
+_._
 
-_expected to be converted to cash, sold or consumed during the next 12 months_ 
+## INCOME STATEMENT RECLASSIFICATION – Example 2 _Deloitte – courtesy translation provided_
 
-- •Cash and cash equivalents 
+## INCOME STATEMENT RECLASSIFICATION - details
 
-- •Short-term investments 
+**NET SALES**: this is always the first item in a multiple step income statement, and it consists of total sales net of returns and allowances.
 
-- •Accounts receivable _(net of bad debts allowance)_ 
+## **COST OF GOODS SOLD**: this is often reported in a more detailed way. In particular:
 
-- •Inventories 
+## for a _merchandising company_ , CGS is:
 
-- •Other short-term assets 
+**Purchases (i.e., cost of merchandise purchased) +/ Δ inventory**
 
-## **SHORT-TERM (or CURRENT) LIABILITIES:** _debts due within one year_ 
+## for a _manufacturing company_ , CGS is:
 
-- •Accounts payable 
+**Production costs (typically listed in detail) +/ Δ inventory**
 
-- •Short term portion of loans; 
+**GROSS PROFIT (OR GROSS MARGIN)** gives an idea of how profitable the core of the business activity is. The profitability at this level must be able to cover all the other expenses the company has to bear. Problems at this level are very alarming!
 
-- •Bank overdraft; 
+**OTHER OPERATING REVENUES** include (if any) other revenues arising from the operating activity, such as rentals, license fees, etc.
 
-- •Tax payable; 
+## INCOME STATEMENT RECLASSIFICATION - details
 
-- •Other short-term liabilities 
+## **GENERAL AND ADMINISTRATIVE EXPENSES** typically include, for example:
 
-## **LONG-TERM (or NON-CURRENT) ASSETS:** 
+- Administrative staff salaries, bonuses etc. and related costs (including social security and pensions costs)
 
-## _assets that are not short-term_ 
+- Directors’ executive salaries and related costs;
 
-- •Tangible assets _(net of accumulated depreciation)_ 
+- Costs related to fixed assets used for the G&A activity (e.g., depreciation and maintenance of buildings, etc.);
 
-- •Intangible assets _(net of accumulated amortization)_ 
+- Research costs;
 
-- •Long-term Investments 
+- Professional fees.
 
-- •Other long-term assets 
+- **SELLING EXPENSES** typically include: - Sales salaries, commissions and bonuses and related costs (including social security and pension costs);
 
-## **LONG-TERM (or NON-CURRENT) LIABILITIES:** _debts which are not_ 
+- - Advertising and promotion costs;
 
-## _classified as short-term_ 
+- - Warehousing costs;
 
-- •Loans payable 
+- - Transportation costs;
 
-- •Bonds payable 
+- - Costs related to fixed assets used in the selling activity (including depreciation and maintenance costs).
 
-- •Long term notes payable 
+## INCOME STATEMENT RECLASSIFICATION - details
 
-- •Other long-term liabilities 
+**EBITDA** is operating income before depreciation and amortization. This is the most important metric in the financial statements analysis together with NFP (see slide set Part 3).
 
-**==> picture [119 x 61] intentionally omitted <==**
+**DEPRECIATION AND AMORTIZATION** represent the depreciation and amortization of long-lived assets. They are routine, non-cash operating charges. In contrast, reversals and impairments are classified as extraordinary items.
 
-## **SHAREHOLDERS’ EQUITY** 
+**OPERATING INCOME** is often called **EBIT** , that is “Earnings before interest and taxes”. - O.I. is one of the most important pieces of information on which one should focus to analyze financial statements: it shows **if** and **how profitable** is the **core activity** of the company, no matter how such activity is financed. - O.I. should tend to be **stable** in time, if no change in the strategy of the company takes place.
 
-- Common Stock & Additional paid-in capital 
+- - If O.I. is negative or too low, a restructuring process is probably needed to save the company.
 
-- Reserves 
+## INCOME STATEMENT RECLASSIFICATION - details
 
-- Earnings 
+**NET NON-RECURRING ITEMS** also referred to as **Extraordinary items** comprise revenues, gains, costs, or losses that arise outside ordinary operations and are therefore not representative of the firm’s normal earning capacity.
 
-22 
+- Typical examples include capital gains generated by the sale of an entire business segment (rather than by the disposal of operating assets in the ordinary course of business which might be included in the “other revenues”), material write-downs of long-lived assets due to one-off events (e.g., Impacting changes in legislation), and provisions related to exceptional and unpredictable events such as fires, thefts, or accidents.
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- Under current accounting frameworks extraordinary items are no longer presented as a distinct category on the published income statement. Instead, they are generally incorporated within ordinary income statement line items and must be identified through adequate disclosure in the notes to the financial statements. This approach is intended to enhance comparability across firms and to reduce the risk of opportunistic presentation by management.
 
-## BALANCE SHEET RECLASSIFICATION 
+## INCOME STATEMENT RECLASSIFICATION - details
 
-All major consulting firms (see the next slides for two real-life examples from Deloitte and EY) reclassify the balance sheet in a broadly similar way, as follows: 
+## **NET NON-RECURRING ITEMS** (cont'd):
 
-##  **NET INVESTED CAPITAL** 
+- From the standpoint of financial statement analysis, extraordinary or non-recurring items should be isolated and reclassified below EBIT in order to obtain a more accurate measure of sustainable profitability and core operating performance. However, the identification of such items is inherently judgmental and subject to managerial discretion. For this reason, analysts must evaluate these classifications critically, as firms may have incentives to present recurring operating costs as one-off items in order to inflate adjusted earnings.
 
-1. Long-lived assets (tangibles, intangibles, financial) 2. Net Working Capital 
+Then we have the **FINANCIAL REVENUES AND EXPENSES** , the **EARNINGS BEFORE TAXES (EBT)** , **TAXES** and **NET INCOME** .
 
-   - a. Commercial working capital b. Other operating assets/liabilities 
+- As we saw in the cash flow statement, _taxes are not broken down even though they may include components related to financing or extraordinary activities_ . Instead, they are presented as a single amount, reflecting the overall tax impact on the company. From an investor’s perspective, what matters is the total tax burden affecting the company rather than separating it into different components.
 
-##  **SOURCES OF FINANCING** 
+## THE IMPORTANCE OF  COMPARABILITY
 
-_We recall that each reclassification may differ depending on the specific needs and the input data available._ 
+To properly analyze the information reported in financial statements, it is necessary to develop appropriate comparisons
 
-1. Equity 2. Net Financial Position 3. Other liabilities 
+Two  general methods for making financial comparisons
 
-Please find in the next slides further details. 
+## COMPARISON ACROSS COMPANIES
 
-**==> picture [119 x 61] intentionally omitted <==**
+## COMPARISON APPROACHES
 
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
+## COMPONENT PERCENTAGES
 
-23 
+## HORIZONTAL ANALYSIS– Example
 
-BALANCE SHEET RECLASSIFICATION – Example 1 _Deloitte – courtesy translation provided._ 
+Horizontal (Time series): analyze the trend of a specific item (e.g., Sales) over time (2006 to 2009, in this case)
 
-**==> picture [119 x 61] intentionally omitted <==**
+## VERTICAL ANALYSIS– Example
 
-**==> picture [370 x 301] intentionally omitted <==**
+Vertical (Percentages Components): analyze the trend of a specific item (e.g. EBIT) as percentage of a given  base amount (Sales, in this case)
 
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
+## F/S COMPONENT PERCENTAGES – Example
 
-24 
+## I/S RECLASSIFICATION + COMPONENT PERCENTAGES – Example _Adopted from Textbook_
 
-## BALANCE SHEET RECLASSIFICATION – Example 2 _EY – courtesy translation provided._ 
+Net sales will be set to 100 percent, and all other components are expressed as a percentage of net sales.
 
-**==> picture [119 x 61] intentionally omitted <==**
+## FINANCIAL STATEMENTS ANALYSIS WORKFLOW
 
-**==> picture [339 x 315] intentionally omitted <==**
+## _AFTER_ having:
 
-25 
+**1. Reclassified the Trial Balance** , for both the Income Statement (IS) and the Balance Sheet (BS), calculating the main key indicators;
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+2. Performed the same analysis over multiple years and in percentage terms ( **Horizontal and Vertical analysis** );
 
-## BALANCE SHEET RECLASSIFICATION - details 
+3. Where necessary, performed the same analysis on **competitors** (Benchmarking);
 
-**NET INVESTED CAPITAL** is total assets, less all the “operating” liabilities. It can be defined as “all the resources the company uses, net of the liabilities related to operations”. It is divided into two categories: long-lived assets and Net Working Capital (NWC). 
+## _THEN_ , it is possible to proceed to the following steps:
 
-- **1) Long-lived assets (tangibles, intangibles, financial):** This section totals the net book value of all long-lived assets. Usually they are aggregated; if a single asset is significant for the analysis, then it is presented stand-alone. 
+- The work involving **Ratio Analysis** (Set 2 of slides)
 
-- **2) Net Working Capital:** This section includes all the current, operating assets, net of the current, operating liabilities, and it is divided into two sub-sections: 
+- - If applicable, the **Valuation** (e.g., using Multiples) (Set 3 of slides).
 
-   - **a. Commercial working capital:** This is the net total of ONLY the following: inventories (+), accounts receivable (+), accounts payable (-). Note that all accounts are net of any contra-asset (e.g., allowance for doubtful accounts) 
+# Thank you!
 
-   - **b. Other operating assets/liabilities:** This section includes all the other assets and liabilities with an operating nature: wages payable, prepaid expenses (if they have an operating nature), unearned revenues, social security payable, withholding tax payables, contingent liabilities (e.g., provisions for warranties), tax assets (e.g., VAT receivable), tax liabilities (e.g., Income tax payable) 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-26 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## BALANCE SHEET RECLASSIFICATION - details 
-
-**SOURCES OF FINANCING:** This total does not coincide with the amount of _total liabilities and equity_ in the balance sheet because, as noted earlier, operating liabilities are subtracted from assets in order to calculate **Net Invested Capital** . This amount therefore represents how the net assets are financed (i.e., it reflects the company’s financing structure). 
-
-**1. Equity** corresponds to the amount reported in the financial statements. 
-
-**2. Net Financial Position (NFP)** is the most important metric in the financial statements analysis together with EBITDA (see slideset Part 3). It is calculated as: (i) total financial liabilities (both short-term and long-term, which include lease liabilities and, in most cases, exclude intra-group financial liabilities) minus (ii) cash and cash equivalents (e.g., financial receivables). 
-
-## **– NFP = total Financial Liabilities Cash and Cash equivalents** 
-
-**3. Other liabilities** include shareholder loans and other intra-group financial liabilities. These are liabilities of a financial nature but with a lower risk profile (if a subsidiary is unable to repay a shareholder loan, it is unlikely that the shareholder would initiate bankruptcy proceedings against the subsidiary). In addition, this category includes any dividends payable. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-28 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION 
-
-For FSA, income statements can be presented in different formats depending on the analysts’ objectives. In many cases, the standard formats required by accounting standards (e.g., US GAAP or IFRS) already provide a useful starting point for analysis, since they contain most of the information needed and usually require only limited adjustments. 
-
-The first section of the income statement, leading up to **EBITDA,** is often _highly flexible_ . Firms may structure this part differently depending on their industry characteristics (e.g., merchandising, manufacturing, or services). 
-
-After EBITDA, the structure of the income statement becomes more standardized:  Subtract Depreciation and Amortization → **EBIT**  Adjust for financial and extraordinary items → **EBT**  Subtract income taxes → **Net Income** 
-
-The next slide presents a standard example of a reclassified income statement for a merchandising company. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-29 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION 
-
-## **A Merchandise Company Standard Format** 
-
-## **+ Net sales** 
-
-- Cost of goods sold 
-
-- **=  GROSS PROFIT (= GROSS MARGIN)** 
-
-**==> picture [513 x 12] intentionally omitted <==**
-
-+ Other operating revenues 
-
-- Selling, General and Administrative expenses 
-
-- **=   EBITDA (Earnings before interests, taxes, depreciation and amortization)** 
-
-**==> picture [513 x 11] intentionally omitted <==**
-
-- Depreciation and amortization expense 
-
-- **=  EBIT (Earnings before interests and taxes** ) 
-
-+/- Net Non-Recurring Items 
-
-+ Interest & financial revenues 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-- Interest expense and financial charges 
-
-- **=   Income before Taxes (EBT, Earning before taxes)** 
-
-- Income taxes 
-
-**=   Net Income** 
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-30 
-
-## INCOME STATEMENT RECLASSIFICATION – Example 1 _Real Company Management Report (Internal use) courtesy translation provided - Amount €/000_ 
-
-_._ 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-31 
-
-## INCOME STATEMENT RECLASSIFICATION – Example 2 _Deloitte – courtesy translation provided_ 
-
-**==> picture [477 x 274] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-32 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION - details 
-
-**NET SALES** : this is always the first item in a multiple step income statement, and it consists of total sales net of returns and allowances. 
-
-## **COST OF GOODS SOLD** : this is often reported in a more detailed way. In particular: 
-
-## for a _merchandising company_ , CGS is: 
-
-**Purchases (i.e., cost of merchandise purchased) +/ Δ inventory** 
-
-## for a _manufacturing company_ , CGS is: 
-
-**Production costs (typically listed in detail) +/ Δ inventory** 
-
-**GROSS PROFIT (OR GROSS MARGIN)** gives an idea of how profitable the core of the business activity is. The profitability at this level must be able to cover all the other expenses the company has to bear. Problems at this level are very alarming! 
-
-**OTHER OPERATING REVENUES** include (if any) other revenues arising from the operating activity, such as rentals, license fees, etc. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-33 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION - details 
-
-## **GENERAL AND ADMINISTRATIVE EXPENSES** typically include, for example: 
-
-- Administrative staff salaries, bonuses etc. and related costs (including social security and pensions costs) 
-
-- Directors’ executive salaries and related costs; 
-
-- Costs related to fixed assets used for the G&A activity (e.g., depreciation and maintenance of buildings, etc.); 
-
-- Research costs; 
-
-- Professional fees. 
-
-- **SELLING EXPENSES** typically include: • Sales salaries, commissions and bonuses and related costs (including social security and pension costs); 
-
-- • Advertising and promotion costs; 
-
-- • Warehousing costs; 
-
-- • Transportation costs; 
-
-- • Costs related to fixed assets used in the selling activity (including depreciation and maintenance costs). 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-34 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION - details 
-
-**EBITDA** is operating income before depreciation and amortization. This is the most important metric in the financial statements analysis together with NFP (see slide set Part 3). 
-
-**DEPRECIATION AND AMORTIZATION** represent the depreciation and amortization of long-lived assets. They are routine, non-cash operating charges. In contrast, reversals and impairments are classified as extraordinary items. 
-
-**OPERATING INCOME** is often called **EBIT** , that is “Earnings before interest and taxes”. •O.I. is one of the most important pieces of information on which one should focus to analyze financial statements: it shows **if** and **how profitable** is the **core activity** of the company, no matter how such activity is financed. •O.I. should tend to be **stable** in time, if no change in the strategy of the company takes place. 
-
-- •If O.I. is negative or too low, a restructuring process is probably needed to save the company. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-35 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION - details 
-
-**NET NON-RECURRING ITEMS** also referred to as **Extraordinary items** comprise revenues, gains, costs, or losses that arise outside ordinary operations and are therefore not representative of the firm’s normal earning capacity. 
-
-- Typical examples include capital gains generated by the sale of an entire business segment (rather than by the disposal of operating assets in the ordinary course of business which might be included in the “other revenues”), material write-downs of long-lived assets due to one-off events (e.g., Impacting changes in legislation), and provisions related to exceptional and unpredictable events such as fires, thefts, or accidents. 
-
-- Under current accounting frameworks extraordinary items are no longer presented as a distinct category on the published income statement. Instead, they are generally incorporated within ordinary income statement line items and must be identified through adequate disclosure in the notes to the financial statements. This approach is intended to enhance comparability across firms and to reduce the risk of opportunistic presentation by management. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-36 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## INCOME STATEMENT RECLASSIFICATION - details 
-
-## **NET NON-RECURRING ITEMS** (cont'd): 
-
-- From the standpoint of financial statement analysis, extraordinary or non-recurring items should be isolated and reclassified below EBIT in order to obtain a more accurate measure of sustainable profitability and core operating performance. However, the identification of such items is inherently judgmental and subject to managerial discretion. For this reason, analysts must evaluate these classifications critically, as firms may have incentives to present recurring operating costs as one-off items in order to inflate adjusted earnings. 
-
-Then we have the **FINANCIAL REVENUES AND EXPENSES** , the **EARNINGS BEFORE TAXES (EBT)** , **TAXES** and **NET INCOME** . 
-
-- As we saw in the cash flow statement, _taxes are not broken down even though they may include components related to financing or extraordinary activities_ . Instead, they are presented as a single amount, reflecting the overall tax impact on the company. From an investor’s perspective, what matters is the total tax burden affecting the company rather than separating it into different components. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-**==> picture [378 x 34] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-38 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## THE IMPORTANCE OF  COMPARABILITY 
-
-To properly analyze the information reported in financial statements, it is necessary to develop appropriate comparisons 
-
-Two  general methods for making financial comparisons 
-
-**==> picture [227 x 108] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-COMPARISON ACROSS TIME<br>Time-series analysis<br>Information for a single<br>company is compared<br>over time<br>**----- End of picture text -----**<br>
-
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-## **COMPARISON ACROSS COMPANIES** 
-
-**==> picture [226 x 147] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Cross-sectional analysis<br>Information for multiple<br>companies is compared at a<br>point in time  or across time<br>Typically:<br>•<br>key competitors<br>•<br>industry average<br>**----- End of picture text -----**<br>
-
-
-39 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## COMPARISON APPROACHES 
-
-**==> picture [634 x 302] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Horizontal<br>Vertical<br>approach<br>approach<br>• •<br>Line-by-line comparison of the  It provides evidence of structural changes in the<br>accounts with those of the previous accounts: i.e., increased profitability through<br>year. more efficient production, or greater dependence<br>•<br>It provides, over several years, a trend  on borrowing to finance new investment.<br>•<br>of changes, indicating decline or  “component percentage”: expression of each<br>growth (i.e., a time series analysis). item on a financial statement as a percentage of<br>a single base amount.<br>**----- End of picture text -----**<br>
-
-
-40 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## COMPONENT PERCENTAGES 
-
-**==> picture [458 x 225] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Component percentages  express each item on a<br>particular financial statement as a percentage of a<br>single base amount.<br>TOTAL ASSETS<br>NET SALES<br>For the income statement for the balance sheet<br>**----- End of picture text -----**<br>
-
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-41 
-
-## HORIZONTAL ANALYSIS– Example 
-
-Horizontal (Time series): analyze the trend of a specific item (e.g., Sales) over time (2006 to 2009, in this case) 
-
-**==> picture [499 x 287] intentionally omitted <==**
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-42 
-
-## VERTICAL ANALYSIS– Example 
-
-Vertical (Percentages Components): analyze the trend of a specific item (e.g. EBIT) as percentage of a given  base amount (Sales, in this case) 
-
-**==> picture [489 x 294] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-43 
-
-## F/S COMPONENT PERCENTAGES – Example 
-
-**==> picture [677 x 324] intentionally omitted <==**
-
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
-
-44 
-
-## I/S RECLASSIFICATION + COMPONENT PERCENTAGES – Example _Adopted from Textbook_ 
-
-Net sales will be set to 100 percent, and all other components are expressed as a percentage of net sales. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-**==> picture [359 x 296] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-46 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## FINANCIAL STATEMENTS ANALYSIS WORKFLOW 
-
-## _AFTER_ having: 
-
-**1. Reclassified the Trial Balance** , for both the Income Statement (IS) and the Balance Sheet (BS), calculating the main key indicators; 
-
-2. Performed the same analysis over multiple years and in percentage terms ( **Horizontal and Vertical analysis** ); 
-
-3. Where necessary, performed the same analysis on **competitors** (Benchmarking); 
-
-## _THEN_ , it is possible to proceed to the following steps: 
-
-- The work involving **Ratio Analysis** (Set 2 of slides) 
-
-- • If applicable, the **Valuation** (e.g., using Multiples) (Set 3 of slides). 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-# Thank you! 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
+## Related Notes
+- [[Accounting 1 Blab Handout 2024-2025 A.Y.]]
+- [[Full-material presentation Chapter 1]]
+- [[BLAB ACC SHEET CHAPTER 1]]

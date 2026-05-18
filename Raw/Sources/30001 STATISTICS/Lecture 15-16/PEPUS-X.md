@@ -1,12 +1,19 @@
-## 
+---
+course: "Statistics"
+course_code: "30001"
+tags:
+  - "source"
+  - course_30001
+Title: "PEPUS-X"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [651 x 373] intentionally omitted <==**
+##
 
-**==> picture [651 x 373] intentionally omitted <==**
-
-**==> picture [651 x 407] intentionally omitted <==**
-
-**==> picture [651 x 381] intentionally omitted <==**
-
-**==> picture [651 x 392] intentionally omitted <==**
-
+## Related Notes
+- [[THE GREAT PEPUS]]
+- [[Simple Linear Regression Annotated Output WOW!]]
+- Computation of b0 and b1 through Least Squares 

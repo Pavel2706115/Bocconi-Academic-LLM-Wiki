@@ -1,58 +1,76 @@
-## **Extra exercises of Lecture 4** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect4_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 4
 
-Some economists forecast lower inflation next year. We expect bond prices to 
+## EX 1
 
-a) increase 
+Some economists forecast lower inflation next year. We expect bond prices to
 
-b) decrease 
+a) increase
 
-- c) stay unchanged 
+b) decrease
 
-- d) we can’t say for sure 
+- c) stay unchanged
 
-## **EX 2** 
+- d) we can’t say for sure
 
-If a government reduces the inheritance tax, which increases private wealth but also increases the government debt, then interest rates will necessarily: 
+## EX 2
 
-a) decrease 
+If a government reduces the inheritance tax, which increases private wealth but also increases the government debt, then interest rates will necessarily:
 
-b) increase 
+a) decrease
 
-- c) not change 
+b) increase
 
-- d) cannot be determined 
+- c) not change
 
-## **EX 3** 
+- d) cannot be determined
 
-Assume that the economy has experienced a decrease in its aggregate savings due to a period of recession. All else equal, what happens to interest rates? 
+## EX 3
 
-a) they increase 
+Assume that the economy has experienced a decrease in its aggregate savings due to a period of recession. All else equal, what happens to interest rates?
+*(See also: [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz#^w4uwgh]])*
 
-- b) they should remain unchanged 
+a) they increase
 
-- c) the effect could go either way 
+- b) they should remain unchanged
 
-- d) they should decrease 
+- c) the effect could go either way
 
-## **EX 4** 
+- d) they should decrease
 
-Which of the following aspects about a security will typically increase investor demand for the security? 
+## EX 4
 
-- I. high liquidity 
+Which of the following aspects about a security will typically increase investor demand for the security?
 
-- II. high expected inflation 
+- I. high liquidity
 
-- III. high risk 
+- II. high expected inflation
 
-- IV. high expected return 
+- III. high risk
 
-- a) I and IV 
+- IV. high expected return
 
-- b) II, III and IV 
+- a) I and IV
 
-- c) I, II, III and IV 
+- b) II, III and IV
 
-- d) I, II and IV 
+- c) I, II, III and IV
 
+- d) I, II and IV
+
+## Related Notes
+- [[Lect4]]
+- [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]
+- [[Mock_general_1_solutions]]

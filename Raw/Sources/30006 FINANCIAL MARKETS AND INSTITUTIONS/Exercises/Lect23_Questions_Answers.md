@@ -1,502 +1,510 @@
-Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi Final review + Exercises 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "BIG PICTURE OVERVIEW OF THE COURSE"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [282 x 191] intentionally omitted <==**
+## Outline
 
-**==> picture [98 x 39] intentionally omitted <==**
+## 1. BIG PICTURE: OVERVIEW OF THE COURSE
 
-**==> picture [240 x 187] intentionally omitted <==**
+## 2. EXERCISES (Lectures 12-22)
 
-## Outline 
+**3. EXERCISES (Lectures 1-11)**
 
-## **1. BIG PICTURE: OVERVIEW OF THE COURSE** 
+# BIG PICTURE OVERVIEW OF THE COURSE
 
-## **2. EXERCISES (Lectures 12-22)** 
+## Overview
 
-**3. EXERCISES (Lectures 1-11)** 
+- ✓ The **financial system** performs the basic function of moving funds from lenders/savers to borrowers/spenders
 
-# **BIG PICTURE OVERVIEW OF THE COURSE** 
+✓ It uses **financial assets** , which are claims on real assets
 
-## Overview 
+- ✓ It can do this with
 
-- ✓ The **financial system** performs the basic function of moving funds from lenders/savers to borrowers/spenders 
+`o` **direct** _finance_ (borrowers access financial markets directly)
 
-✓ It uses **financial assets** , which are claims on real assets 
+`o` or with **indirect** _finance_ (borrowers deal with an intermediary who is managing the ultimate lender’s savings)
 
-- ✓ It can do this with 
+✓ The financial system also `o` reduces **transaction costs**
 
-`o` **direct** _finance_ (borrowers access financial markets directly) 
+`o` and solves two types (really? two?) of **asymmetric information**
 
-`o` or with **indirect** _finance_ (borrowers deal with an intermediary who is managing the ultimate lender’s savings) 
+## Overview
 
-✓ The financial system also `o` reduces **transaction costs** 
+- ✓ **Direct Finance**: direct issuance of either **debt** or **equity**
 
-`o` and solves two types (really? two?) of **asymmetric information** 
+- ✓ These claims are traded in secondary markets
 
-## Overview 
+- ✓ Debt entails no ownership right, but it promises the debt holder a **pre-defined** (often fixed) **payment** and has a predefined **maturity** (although there are also perpetuities)
 
-- ✓ **Direct Finance** : direct issuance of either **debt** or **equity** 
+- ✓ Equity entails **ownership rights and has no pre-defined maturity.** Equity is the **residual claim:** its holders are entitled to whatever is left after creditors have been paid off
 
-- ✓ These claims are traded in secondary markets 
+## Overview
 
-- ✓ Debt entails no ownership right, but it promises the debt holder a **pre-defined** (often fixed) **payment** and has a predefined **maturity** (although there are also perpetuities) 
+# ✓ Debt instruments with original maturity of less than 1 year are traded in **money markets**
 
-- ✓ Equity entails **ownership rights and has no pre-defined maturity.** Equity is the **residual claim:** its holders are entitled to whatever is left after creditors have been paid off 
+✓ Debt instruments with original maturity of more than 1 year are traded in the **bond market** (part of **capital markets** together with the **stock market** )
 
-## Overview 
+## Overview
 
-# ✓ Debt instruments with original maturity of less than 1 year are traded in **money markets** 
+- ✓ The price of any financial asset is inversely related to its return
 
-✓ Debt instruments with original maturity of more than 1 year are traded in the **bond market** (part of **capital markets** together with the **stock market** ) 
+- ✓ The **price of debt, therefore, is inversely related to interest rates** (and the longer the maturity, the more the price will fall if interest rates rise: **duration** )
 
-## Overview 
+- ✓ Interest rates are determined by the forces of **supply and demand** which are affected by many things (wealth, risk, 𝐸(𝑖) , 𝜋(𝑒) , government deficits…)
 
-- ✓ The price of any financial asset is inversely related to its return 
+## Overview
 
-- ✓ The **price of debt, therefore, is inversely related to interest rates** (and the longer the maturity, the more the price will fall if interest rates rise: **duration** ) 
+- ✓ Equity is traded in the stock market (grouped in an index) ✓ There are multiple ways stocks can be traded, which are generally classified as
 
-- ✓ Interest rates are determined by the forces of **supply and demand** which are affected by many things (wealth, risk, 𝐸(𝑖) , 𝜋[𝑒] , government deficits…) 
+`o` **organized exchanges** (OE) `o` and **over-the-counter markets** (OTC)
 
-## Overview 
+- ✓ As for any financial instrument, it is the future that matters for stock valuation, not the past
 
-- ✓ Equity is traded in the stock market (grouped in an index) ✓ There are multiple ways stocks can be traded, which are generally classified as 
+- ✓ In order to value a share of stock, one needs to discount future **expected cash flows by the appropriate discount rate**
 
-`o` **organized exchanges** (OE) `o` and **over-the-counter markets** (OTC) 
+- ✓ Equity holders expect a cash flow distribution at some point, even if the firm doesn’t pay dividends
 
-- ✓ As for any financial instrument, it is the future that matters for stock valuation, not the past 
+## Overview
 
-- ✓ In order to value a share of stock, one needs to discount future **expected cash flows by the appropriate discount rate** 
+Derivatives are financial securities whose **payoffs are linked to another, previously issued security** (or asset)
 
-- ✓ Equity holders expect a cash flow distribution at some point, even if the firm doesn’t pay dividends 
+We studied:
 
-## Overview 
+`o` **forwards** (OTC, not standardized, $ exchanged in the future at delivery)
 
-Derivatives are financial securities whose **payoffs are linked to another, previously issued security** (or asset) 
+`o` **futures** (traded on exchanges, standardized, daily settlement) `o` **options** (premium paid upfront, option value or payoff ≠ option profit)
 
-We studied: 
+An important function of derivatives is **hedging** (insurance against particular risks) but it can be risky!
 
-`o` **forwards** (OTC, not standardized, $ exchanged in the future at delivery) 
+## Overview
 
-`o` **futures** (traded on exchanges, standardized, daily settlement) `o` **options** (premium paid upfront, option value or payoff ≠ option profit) 
+- ✓ **Market efficiency** is the degree to which the **prices** of financial securities reflect those securities’ **fundamental values**
 
-An important function of derivatives is **hedging** (insurance against particular risks) but it can be risky! 
+- ✓ There are three forms of market efficiency: ✓ **Weak**
 
-## Overview 
+- ✓ **Semi- strong** ✓ **Strong**
 
-- ✓ **Market efficiency** is the degree to which the **prices** of financial securities reflect those securities’ **fundamental values** 
+- ✓ Markets are probably semi-strong efficient most of the time, at least in the short-term
 
-- ✓ There are three forms of market efficiency: ✓ **Weak** 
+- ✓ Sometimes, however, market efficiency may break down, especially over long horizons (value investing & Mr. Buffett)
 
-   - ✓ **Semi- strong** ✓ **Strong** 
+## Overview
 
-- ✓ Markets are probably semi-strong efficient most of the time, at least in the short-term 
+- ✓ Financial markets are plagued by **transaction costs and information asymmetries**
 
-- ✓ Sometimes, however, market efficiency may break down, especially over long horizons (value investing & Mr. Buffett) 
+- ✓ These problems create a need for Financial Institutions (FIs).
 
-## Overview 
+`o` FIs specialize in **collecting and processing information** about borrowers and financial products
 
-- ✓ Financial markets are plagued by **transaction costs and information asymmetries** 
+`o` FIs can also **minimize transaction costs**
 
-- ✓ These problems create a need for Financial Institutions (FIs). 
+- ✓ That’s why most external finance is provided by FIs (indirect finance) rather than financial markets (direct finance)
 
-`o` FIs specialize in **collecting and processing information** about borrowers and financial products 
+- ✓ And **moral hazard** can explain **why debt is more common than equity** (less need for monitoring)
 
-`o` FIs can also **minimize transaction costs** 
+## Overview
 
-- ✓ That’s why most external finance is provided by FIs (indirect finance) rather than financial markets (direct finance) 
+- ✓ **Commercial Banks** are institutions that take deposits and make private loans (and other investments)
 
-- ✓ And **moral hazard** can explain **why debt is more common than equity** (less need for monitoring) 
+- ✓ **excess reserves**
 
-## Overview 
+- They need to keep to manage the outflow of deposits and manage to have **enough capital** to remain solvent while giving returns to shareholders
 
-- ✓ **Commercial Banks** are institutions that take deposits and make private loans (and other investments) 
+- ✓ **ROA** Their overall profitability can be assessed with , **ROE** (ROE=ROA×A/E)
 
-- ✓ **excess reserves** 
+- ✓ Their ability to generate cash from interest activities with the **NIM** =Net Interest Income/A=(Int.Income-Int.Exp)/A
 
-- They need to keep to manage the outflow of deposits and manage to have **enough capital** to remain solvent while giving returns to shareholders 
+## Overview
 
-- ✓ **ROA** Their overall profitability can be assessed with , **ROE** (ROE=ROA×A/E) 
+- ✓ **Central banks** are in charge of monetary policy.
 
-- ✓ Their ability to generate cash from interest activities with the **NIM** =Net Interest Income/A=(Int.Income-Int.Exp)/A 
+- ✓ Assets=securities. Liabilities=reserves+$ in circulation. Greatly expanded their balance sheet after 2008 (QE etc)
 
-## Overview 
+- ✓ They implement monetary policy (i.e. the supply of money in the economy) in the market for **bank reserves**
 
-- ✓ **Central banks** are in charge of monetary policy. 
+- ✓ The demand for reserves by banks: **interest rate paid on excess reserves** provides a floor (flattening out of curve)
 
-- ✓ Assets=securities. Liabilities=reserves+$ in circulation. Greatly expanded their balance sheet after 2008 (QE etc) 
+- ✓ The supply of reserves by the central bank: upward vertical (monopolist) but **discount window rate** provides a ceiling
 
-- ✓ They implement monetary policy (i.e. the supply of money in the economy) in the market for **bank reserves** 
+## Overview
 
-- ✓ The demand for reserves by banks: **interest rate paid on excess reserves** provides a floor (flattening out of curve) 
+- ✓ **Mutual funds** and **hedge funds** pool money of individual investors and invest this pool into **diversified portfolios**
 
-- ✓ The supply of reserves by the central bank: upward vertical (monopolist) but **discount window rate** provides a ceiling 
+- ✓ These institutions help investors **minimize transaction costs** and offer **expertise**
 
-## Overview 
+- ✓ Main revenue: **fees**
 
-- ✓ **Mutual funds** and **hedge funds** pool money of individual investors and invest this pool into **diversified portfolios** 
+- ✓ **ETFs** are passive open-end index funds but trade like a single stock (closed-end). ETF price=NAV through arbitrage
 
-- ✓ These institutions help investors **minimize transaction costs** and offer **expertise** 
+- ✓ MFs are regulated, while hedge funds not much
 
-- ✓ Main revenue: **fees** 
+## Overview
 
-- ✓ **ETFs** are passive open-end index funds but trade like a single stock (closed-end). ETF price=NAV through arbitrage 
+- ✓ **Investment banks** help firms issue debt and equity in primary markets (underwriting)
 
-- ✓ MFs are regulated, while hedge funds not much 
+- primary market transactions occur when the issuer of the security receives the funds (like IPOs)
 
-## Overview 
+- ✓ Company may opt for **firm commitment underwriting** , guaranteed to raise an amount, or for **best effort underwriting**
 
-- ✓ **Investment banks** help firms issue debt and equity in primary markets (underwriting) 
+- ✓ Investment banks, but also mutual funds, and other intermediaries are prone to **conflicts of interest** (multiple objectives and those objectives conflict with each other)
 
-   - primary market transactions occur when the issuer of the security receives the funds (like IPOs) 
+- ✓ Conflict of interest is a type of **moral hazard**
 
-- ✓ Company may opt for **firm commitment underwriting** , guaranteed to raise an amount, or for **best effort underwriting** 
+## Overview
 
-- ✓ Investment banks, but also mutual funds, and other intermediaries are prone to **conflicts of interest** (multiple objectives and those objectives conflict with each other) 
+- ✓ Banks are **asset transformers**: they sell liabilities (deposits) with one set of characteristic and buy assets with a different set of characteristics
 
-- ✓ Conflict of interest is a type of **moral hazard** 
+- ✓ Generally, banks’ liabilities are more liquid and have shorter maturities than their assets ( **duration gap** >0, **income gap** ?0). This exposes banks to IRR
 
-## Overview 
+- ✓ Bank **net worth** is what is owned by **bank owners**
 
-- ✓ Banks are **asset transformers** : they sell liabilities (deposits) with one set of characteristic and buy assets with a different set of characteristics 
+- ✓ Net worth (capital) is the cushion against insolvency
 
-- ✓ Generally, banks’ liabilities are more liquid and have shorter maturities than their assets ( **duration gap** >0, **income gap** ?0). This exposes banks to IRR 
+- ✓ Insolvency is a situation when net worth becomes negative
 
-- ✓ Bank **net worth** is what is owned by **bank owners** 
+- ✓ Furthermore, banks need to manage **credit risk** and **interest-rate risk**
 
-- ✓ Net worth (capital) is the cushion against insolvency 
+## Overview
 
-- ✓ Insolvency is a situation when net worth becomes negative 
+- ✓ Bank failures are costly. So the government uses a safety net, such as **deposit insurance** to prevent bank failures
 
-- ✓ Furthermore, banks need to manage **credit risk** and **interest-rate risk** 
+✓ It will also rescue the too-big-to-fail banks `o` However, this can create **moral hazard** at banks
 
-## Overview 
+- ✓ In order to prevent excessive risk-taking, there are minimum **capital requirements** imposed on banks
 
-- ✓ Bank failures are costly. So the government uses a safety net, such as **deposit insurance** to prevent bank failures 
+- ✓ Also **risk-assesment** , **restrictions on asset holdings** ,
 
-✓ It will also rescue the too-big-to-fail banks `o` However, this can create **moral hazard** at banks 
+- **competition** , etc..
 
-- ✓ In order to prevent excessive risk-taking, there are minimum **capital requirements** imposed on banks 
+## Overview
 
-- ✓ Also **risk-assesment** , **restrictions on asset holdings** , 
+- ✓ **Financial crises** (bank panics) occur because of uncertainty about the quality of the assets of financial institutions
 
-- **competition** , etc.. 
+- ✓ This quality may deteriorate because of sudden asset price declines, because of excessive risk-taking, or other factors
 
-## Overview 
+- ✓ Declines in net worth lead to **deleveraging**
 
-- ✓ **Financial crises** (bank panics) occur because of uncertainty about the quality of the assets of financial institutions 
+- ✓ Deleveraging decreases the amount of credit; economic activity declines
 
-- ✓ This quality may deteriorate because of sudden asset price declines, because of excessive risk-taking, or other factors 
+- ✓ A sharp decline in prices can also lead to **debt deflation**
 
-- ✓ Declines in net worth lead to **deleveraging** 
+# EXERCISES (Lectures 12-22)
 
-- ✓ Deleveraging decreases the amount of credit; economic activity declines 
+## Exercise 1
 
-- ✓ A sharp decline in prices can also lead to **debt deflation** 
+Both Bank A and Bank B have total assets valued at $5,000,000. They also have the same amount of capital, $450,000. Bank A's risk-weighted assets are $3,000,000 while Bank B's risk-weighted assets are $2,500,000 Which bank is riskier?
 
-# **EXERCISES (Lectures 12-22)** 
+**A**: Obviously, Bank A is riskier: for the same amount of capital, it has more risk-weighted assets than bank B.
 
-## Exercise 1 
+## Exercise 1 Solutions
 
-Both Bank A and Bank B have total assets valued at $5,000,000. They also have the same amount of capital, $450,000. Bank A's risk-weighted assets are $3,000,000 while Bank B's risk-weighted assets are $2,500,000 Which bank is riskier? 
+Both Bank A and Bank B have total assets valued at $5,000,000. They also have the same amount of capital, $450,000. Bank A's risk-weighted assets are $3,000,000 while Bank B's risk-weighted assets are $2,500,000 Which bank is riskier? **A**: Obviously, Bank A is riskier: for the same amount of capital, it has more risk-weighted assets than bank B.
 
-**A** : Obviously, Bank A is riskier: for the same amount of capital, it has more risk-weighted assets than bank B. 
+## Exercise 2
 
-## Exercise 1 Solutions 
+A bank has a capital to asset ratio of 10% and an income gap of –$300.
 
-Both Bank A and Bank B have total assets valued at $5,000,000. They also have the same amount of capital, $450,000. Bank A's risk-weighted assets are $3,000,000 while Bank B's risk-weighted assets are $2,500,000 Which bank is riskier? **A** : Obviously, Bank A is riskier: for the same amount of capital, it has more risk-weighted assets than bank B. 
+**Q1**: If it has $100 of capital and 50% of its assets are rate-sensitive, what is the amount of rate- _in_ sensitive liabilities this bank has?
 
-## Exercise 2 
+**A1**:. Hence:
 
-A bank has a capital to asset ratio of 10% and an income gap of –$300. 
+Capital ratio (or CR)=E/A (inverse of Equity Multiplier=A/E): A=CR/E= $100/0.1=$1,000. IncomeGap=RSA-RSL, so: RSL=RSA - IncomeGap.
 
-**Q1** : If it has $100 of capital and 50% of its assets are rate-sensitive, what is the amount of rate- _in_ sensitive liabilities this bank has? 
+RSL=50% × $1,000+$300=$800. Total Liab.: L=$1,000-$100=$900. Then, the amount rate-insensitive liabilities is: $900-$800=$100
 
-**A1** :. Hence: 
+## Exercise 2 Solutions
 
-Capital ratio (or CR)=E/A (inverse of Equity Multiplier=A/E): A=CR/E= $100/0.1=$1,000. IncomeGap=RSA-RSL, so: RSL=RSA - IncomeGap. 
+A bank has a capital to asset ratio of 10% and an income gap of –$300.
 
-RSL=50% × $1,000+$300=$800. Total Liab.: L=$1,000-$100=$900. Then, the amount rate-insensitive liabilities is: $900-$800=$100 
+**Q1**: If it has $100 of capital and 50% of its assets are rate-sensitive, what is the amount of rate- _in_ sensitive liabilities this bank has?
 
-## Exercise 2 Solutions 
+**A1**: Capital Ratio (or CR)=E/A (inverse of Equity Multiplier=A/E): A = E/CR = $100/0.1 = $1,000
 
-A bank has a capital to asset ratio of 10% and an income gap of –$300. 
+IncomeGap = RSA−RSL, so: RSL = RSA − IncomeGap RSL = 50% × $1,000 + $300 = $800 Total Liab.: L = A − E = $1,000 − $100 = $900 Then, the amount rate- _in_ sensitive liabilities is: L − RSL = $900 − $800 = $100
 
-**Q1** : If it has $100 of capital and 50% of its assets are rate-sensitive, what is the amount of rate- _in_ sensitive liabilities this bank has? 
+## Exercise 3
 
-**A1** : Capital Ratio (or CR)=E/A (inverse of Equity Multiplier=A/E): A = E/CR = $100/0.1 = $1,000 
+**Q2**: Take data from previous exercise. How will banks' income change if interest rates go up by 1%? What will be the effect of this rate increase on the bank's net interest income if it converts $100 of its rate-sensitive liabilities into rate- _in_ sensitive liabilities?
 
-IncomeGap = RSA−RSL, so: RSL = RSA − IncomeGap RSL = 50% × $1,000 + $300 = $800 Total Liab.: L = A − E = $1,000 − $100 = $900 Then, the amount rate- _in_ sensitive liabilities is: L − RSL = $900 − $800 = $100 
+**A2**:
 
-## Exercise 3 
+If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then: ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2
 
-**Q2** : Take data from previous exercise. How will banks' income change if interest rates go up by 1%? What will be the effect of this rate increase on the bank's net interest income if it converts $100 of its rate-sensitive liabilities into rate- _in_ sensitive liabilities? 
+## Exercise 3 Solutions
 
-**A2** : 
+**Q2**: Take data from previous exercise. How will banks' income change if interest rates go up by 1%? What will be the effect of this rate increase on the bank's net interest income if it converts $100 of its rate-sensitive liabilities into rate- _in_ sensitive liabilities?
 
-If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then: ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2 
+## **A2**:
 
-## Exercise 3 Solutions 
+If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then:
 
-**Q2** : Take data from previous exercise. How will banks' income change if interest rates go up by 1%? What will be the effect of this rate increase on the bank's net interest income if it converts $100 of its rate-sensitive liabilities into rate- _in_ sensitive liabilities? 
+- ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2
 
-## **A2** : 
+## Exercise 4
 
-If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then: 
+Bank AAA has $400 of capital and $4,600 in deposits. The bank has two options. The first option is to invest in government bonds, which yield 5% per year, risk free.
 
-- ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2 
+The second option is to invest in junk bonks, which with probability 60% will yield a return of 10%, and with the remaining 40% probability will yield a return of -8%. The bank has to pay 3% per year to its depositors, regardless of the option it chooses and there are no reserve requirements.
 
-## Exercise 4 
+**Q**: Which option will the bank owners choose?
 
-Bank AAA has $400 of capital and $4,600 in deposits. The bank has two options. The first option is to invest in government bonds, which yield 5% per year, risk free. 
+## Exercise 4 Solutions
 
-The second option is to invest in junk bonks, which with probability 60% will yield a return of 10%, and with the remaining 40% probability will yield a return of -8%. The bank has to pay 3% per year to its depositors, regardless of the option it chooses and there are no reserve requirements. 
+**A**: Total assets are $5,000 (=$4,600+$400). If bank invests in … a)  govt bonds:  $5,000×5% − $4,600×3% = $112 b) junk bonds:
 
-**Q** : Which option will the bank owners choose? 
+b1) with prob. 60%, they get $5,000×10% − $4,600×3% = $362 b2) with prob. 40% they lose $400, which would wipe out shareholders (all capital is depleted). In thos case, the bank does not need to pay depositors any interest. Thus, the total expected profit from investing in the junk bond is $362×60% − $400×40% = $57.2
 
-## Exercise 4 Solutions 
+Since $57.2 < $112, the bank invests in govt bonds
 
-**A** : Total assets are $5,000 (=$4,600+$400). If bank invests in … a)  govt bonds:  $5,000×5% − $4,600×3% = $112 b) junk bonds: 
+## Exercise 5
 
-b1) with prob. 60%, they get $5,000×10% − $4,600×3% = $362 b2) with prob. 40% they lose $400, which would wipe out shareholders (all capital is depleted). In thos case, the bank does not need to pay depositors any interest. Thus, the total expected profit from investing in the junk bond is $362×60% − $400×40% = $57.2 
+XYZ Bank has $100 worth of government securities and $150 worth of loans. It has $250 worth of deposits. Assume that the required reserve ratio is 5%.
 
-Since $57.2 < $112, the bank invests in govt bonds 
+**Q**: How much reserves does this bank have if it keeps $10 in excess reserves? How much capital does the bank have?
 
-## Exercise 5 
+**A**: Required Reserves=$250×0.05 = $12.5, and since Total Reserves (TR)= Required + Excess, then $$TR = $22.5=$$ $10+$12.5 Assets = Gov. securities + Loans +$$TR = Assets$$ = $100 + $150 + $22.5 = $272.5 Liabilities = $250 (only deposits here) Capital = Assets − Liabilities = $272.5 − $250 = $22.5
 
-XYZ Bank has $100 worth of government securities and $150 worth of loans. It has $250 worth of deposits. Assume that the required reserve ratio is 5%. 
+## Exercise 5 Solutions
 
-**Q** : How much reserves does this bank have if it keeps $10 in excess reserves? How much capital does the bank have? 
+XYZ Bank has $100 worth of government securities and $150 worth of loans. It has $250 worth of deposits. Assume that the required reserve ratio is 5%.
 
-**A** : Required Reserves=$250×0.05 = $12.5, and since Total Reserves (TR)= Required + Excess, then TR = $22.5= $10+$12.5 Assets = Gov. securities + Loans +TR = Assets = $100 + $150 + $22.5 = $272.5 Liabilities = $250 (only deposits here) Capital = Assets − Liabilities = $272.5 − $250 = $22.5 
+**Q**: How much reserves does this bank have if it keeps $10 in excess reserves? How much capital does the bank have?
 
-## Exercise 5 Solutions 
+**A**: Required Reserves=$250×0.05 = $12.5, and since Total Reserves (TR)= Required + Excess, then $$TR = $22.5=$$ $10+$12.5
 
-XYZ Bank has $100 worth of government securities and $150 worth of loans. It has $250 worth of deposits. Assume that the required reserve ratio is 5%. 
+Assets = Gov. securities + Loans +TR Assets = $100 + $150 + $22.5 = $272.5 Liabilities = $250 (only deposits here) Capital = Assets − Liabilities = $272.5 − $250 = $22.5
 
-**Q** : How much reserves does this bank have if it keeps $10 in excess reserves? How much capital does the bank have? 
+## Exercise 6
 
-**A** : Required Reserves=$250×0.05 = $12.5, and since Total Reserves (TR)= Required + Excess, then TR = $22.5= $10+$12.5 
+Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to borrow in the commercial paper market at 2% in order to finance a loan that pays 3%.
 
-Assets = Gov. securities + Loans +TR Assets = $100 + $150 + $22.5 = $272.5 Liabilities = $250 (only deposits here) Capital = Assets − Liabilities = $272.5 − $250 = $22.5 
+**Q**: How much did the bank borrow if its new NIM, after lending, is 3%?
 
-## Exercise 6 
+𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠(=) 𝐴𝑠𝑠𝑒𝑡𝑠 Where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿: $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250
+*(See also: [[Lect12_Review_exercises_questions#^vnbgmu]])*
 
-Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to borrow in the commercial paper market at 2% in order to finance a loan that pays 3%. 
+## Exercise 6 Solutions
 
-**Q** : How much did the bank borrow if its new NIM, after lending, is 3%? 
+Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to borrow in the commercial paper market at 2% in order to finance a loan that pays 3%. **Q**: How much did the bank borrow if its new NIM, after lending, is 3%?
 
-𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠[=] 𝐴𝑠𝑠𝑒𝑡𝑠 Where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿 : $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250 
+𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠(=) 𝐴𝑠𝑠𝑒𝑡𝑠 where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿: $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250
 
-## Exercise 6 Solutions 
+## Exercise 7
 
-Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to borrow in the commercial paper market at 2% in order to finance a loan that pays 3%. **Q** : How much did the bank borrow if its new NIM, after lending, is 3%? 
+An investment bank agrees to underwrite 2,000 shares of stock for firm on a best-efforts basis. The investment bank is able to sell all shares for $10.00 per share, and it charges the firm $0.90 per share sold. At the end of the day, the stock price is down to $7.
 
-𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠[=] 𝐴𝑠𝑠𝑒𝑡𝑠 where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿 : $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250 
+**Q:** How much money does the firm receive? What is the gross profit to the investment bank, including fees? **A**: the firm gets $18,200=2,000×($10-$0.9) and the IB gets $1,800=$2,000×0.9. End of day price is irrelevant.
 
-## Exercise 7 
+## Exercise 7 Solutions
 
-An investment bank agrees to underwrite 2,000 shares of stock for firm on a best-efforts basis. The investment bank is able to sell all shares for $10.00 per share, and it charges the firm $0.90 per share sold. At the end of the day, the stock price is down to $7. 
+An investment bank agrees to underwrite 2,000 shares of stock for firm on a best-efforts basis. The investment bank is able to sell all shares for $10.00 per share, and it charges the firm $0.90 per share sold. At the end of the day, the stock price is down to $7.
 
-**Q:** How much money does the firm receive? What is the gross profit to the investment bank, including fees? **A** : the firm gets $18,200=2,000×($10-$0.9) and the IB gets $1,800=$2,000×0.9. End of day price is irrelevant. 
+**Q:** How much money does the firm receive? What is the gross profit to the investment bank, including fees? **A**: the firm gets $18,200=2,000 × ($10 − $0.9)                 … and the IB gets $1,800=$2,000 × $0.9. End of day price is irrelevant.
 
-## Exercise 7 Solutions 
+## Exercise 8
 
-An investment bank agrees to underwrite 2,000 shares of stock for firm on a best-efforts basis. The investment bank is able to sell all shares for $10.00 per share, and it charges the firm $0.90 per share sold. At the end of the day, the stock price is down to $7. 
+Wise Bank has assets totaling $250 million with an average duration of 5 years, and liabilities totaling $225 million, with an average duration of 4 years. Wise Bank is subject to Basel III requirements and therefore has to maintain a capital/asset ratio of at least 8%. Determine if Wise Bank complies with the requirement when interest rates increase from 6% to 7%.
 
-**Q:** How much money does the firm receive? What is the gross profit to the investment bank, including fees? **A** : the firm gets $18,200=2,000 × ($10 − $0.9)                 … and the IB gets $1,800=$2,000 × $0.9. End of day price is irrelevant. 
+## Exercise 8 Solutions
 
-## Exercise 8 
+**A**:
 
-Wise Bank has assets totaling $250 million with an average duration of 5 years, and liabilities totaling $225 million, with an average duration of 4 years. Wise Bank is subject to Basel III requirements and therefore has to maintain a capital/asset ratio of at least 8%. Determine if Wise Bank complies with the requirement when interest rates increase from 6% to 7%. 
+= t 0: NW = $250M −$225M = $25M 0
 
-## Exercise 8 Solutions 
+𝑁𝑊 $25M = 𝐶𝑅 0 𝐴 $250M(= 10% > mcr (= 8%)) 0(=) = t 1: change in capital and in assets due to Δi.
 
-**A** : 
+𝑁𝑊1 NW0+ΔNW $25M−$3.3𝑀 = = 𝐶𝑅 1 𝐴1(=) A0+ΔA $250M−$11.8M(= 9.1% > mcr (= 8%))
 
-= t 0: NW = $250M −$225M = $25M 0 
+## Exercise 9
 
-𝑁𝑊 $25M = 𝐶𝑅 0 𝐴 $250M[= 10% > mcr (= 8%)] 0[=] = t 1: change in capital and in assets due to Δi. 
+The CEO of firm A announces the following dividend policy from next year: $4 per share per year and a 9% growth for ever. The CEO of firm B announces another policy: $120 for the next year, then $1 for the subsequent year with a 5% growth for ever.
 
-$225M 𝐷𝑈𝑅 = 𝐷𝑈𝑅−= 5 − 𝐺𝐴𝑃 $250M[4 = 1.4] Δi 0.01 ΔNW = −DUR −1.4 GAP 1+i[A =] 1+0.06[$250M = −$3.3M] Δi 0.01 ΔA = −DUR −5 A 1+i[A =] 1+0.06[$250M = −$11.8M] S0, new capital ratio: 
+The required return is 12%. Which price is higher? Solution:
 
-𝑁𝑊1 NW0+ΔNW $25M−$3.3𝑀 = = 𝐶𝑅 1 𝐴1[=] A0+ΔA $250M−$11.8M[= 9.1% > mcr (= 8%)] 
+𝐷𝑖𝑣1 1 $4 $4 𝑃 𝐴= 𝑘 1.12(×) 0.12 −0.09(=) 0.02(= $133.3) 𝑒 −𝑔(=) $120 1 $1 𝑃 𝐵= 1.12(+) 1.12(×) 0.12 −0.05(= $107.1 + $12.8 = $119.9) 𝑃 𝐴> 𝑃 𝐵 .
 
-## Exercise 9 
+## Exercise 9 Solutions
 
-The CEO of firm A announces the following dividend policy from next year: $4 per share per year and a 9% growth for ever. The CEO of firm B announces another policy: $120 for the next year, then $1 for the subsequent year with a 5% growth for ever. 
+The CEO of firm A announces the following dividend policy from next year: $4 per share per year and a 9% growth for ever.
 
-The required return is 12%. Which price is higher? Solution: 
+The CEO of firm B announces another policy: $120 for the next year, then $1 for the subsequent year with a 6% growth for ever.
 
-𝐷𝑖𝑣1 1 $4 $4 𝑃 𝐴= 𝑘 1.12[×] 0.12 −0.09[=] 0.02[= $133.3] 𝑒 −𝑔[=] $120 1 $1 𝑃 𝐵= 1.12[+] 1.12[×] 0.12 −0.05[= $107.1 + $12.8 = $119.9] 𝑃 𝐴> 𝑃 𝐵 . 
+The required return is 12%. Which price is higher? Solution:
 
-## Exercise 9 Solutions 
+𝐷𝑖𝑣1 $4 $4 𝑃 𝐴= 𝑘 0.12 −0.09(=) 0.02(= $133.3) 𝑒 −𝑔(=) $120 1 $1 𝑃 𝐵= 1.12(+) 1.12(×) 0.12 −0.06(= $107.1 + $14.9 = $122.0) 𝑃 𝐴> 𝑃 𝐵 .
 
-The CEO of firm A announces the following dividend policy from next year: $4 per share per year and a 9% growth for ever. 
+# EXERCISES (Lectures 1-11)
 
-The CEO of firm B announces another policy: $120 for the next year, then $1 for the subsequent year with a 6% growth for ever. 
+## Exercise 10
 
-The required return is 12%. Which price is higher? Solution: 
+The government is reducing the budget deficit and inflation expectations are revised upward.
 
-𝐷𝑖𝑣1 $4 $4 𝑃 𝐴= 𝑘 0.12 −0.09[=] 0.02[= $133.3] 𝑒 −𝑔[=] $120 1 $1 𝑃 𝐵= 1.12[+] 1.12[×] 0.12 −0.06[= $107.1 + $14.9 = $122.0] 𝑃 𝐴> 𝑃 𝐵 . 
+**Q**: As a result, equilibrium (nominal) interest on long-term bonds today will: increase/decrease/unchanged/can’t be …
 
-# **EXERCISES (Lectures 1-11)** 
+**A**: It cannot be determined because the two move interest rates in opposite directions: i. the reduction in the budget deficit reduces interest rates (by decreasing supply) ii. 𝜋(𝑒) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
 
-## Exercise 10 
+## Exercise 10 Solutions
 
-The government is reducing the budget deficit and inflation expectations are revised upward. 
+The government is reducing the budget deficit and inflation expectations are revised upward.
 
-**Q** : As a result, equilibrium (nominal) interest on long-term bonds today will: increase/decrease/unchanged/can’t be … 
+**Q**: As a result, equilibrium (nominal) interest on long-term bonds today will: increase/decrease/unchanged/can’t be …
 
-**A** : It cannot be determined because the two move interest rates in opposite directions: i. the reduction in the budget deficit reduces interest rates (by decreasing supply) ii. 𝜋[𝑒] ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect) 
+**A**: It cannot be determined because the two move interest rates in opposite directions:
 
-## Exercise 10 Solutions 
+i. the reduction in the budget deficit reduces interest rates (by decreasing supply)
 
-The government is reducing the budget deficit and inflation expectations are revised upward. 
+ii. 𝜋(𝑒) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
 
-**Q** : As a result, equilibrium (nominal) interest on long-term bonds today will: increase/decrease/unchanged/can’t be … 
+## Exercise 11
 
-**A** : It cannot be determined because the two move interest rates in opposite directions: 
+Bond A is an annual coupon bond of $2,000 face value and of four years remaining until maturity, with 5% YTM and a market price of $2,200. Bond B is a zero-coupon bond and has three years remaining to maturity. Then, Which bond has shorter duration?
 
-i. the reduction in the budget deficit reduces interest rates (by decreasing supply) 
+Solution: The principal payment of bond A alone makes a contribution $2,000 of:(/$2,200 = 74.8%)( to its present value and therefore a ) 1.05(4) contribution of 0.748 × 4yrs = 3.0 yrs to its duration. Irrespective of what the exact contributions of the remaining coupons of bond A to its overall duration are, they’re positive (it’s a CB!). Since duration of ZBC (bond B) is 3 years, the duration of bond A is always higher than that of bond B.
 
-ii. 𝜋[𝑒] ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect) 
+## Exercise 11 Solutions
 
-## Exercise 11 
+Bond A is an annual coupon bond of $2,000 face value and of four years remaining until maturity, with 5% YTM and a market price of $2,200. Bond B is a zero-coupon bond and has three years remaining to maturity. Then, Which bond has shorter duration?
 
-Bond A is an annual coupon bond of $2,000 face value and of four years remaining until maturity, with 5% YTM and a market price of $2,200. Bond B is a zero-coupon bond and has three years remaining to maturity. Then, Which bond has shorter duration? 
+Solution: The principal payment of bond A alone makes a contribution $2,000 of:(/$2,200 = 74.8%)( to its present value and therefore a ) 1.05(4) contribution of 0.748 × 4yrs = 3.0 yrs to its duration. Irrespective of what the exact contributions of the remaining coupons of bond A to its overall duration are, they’re positive (it’s a CB!). Since duration of ZBC (bond B) is 3 years, the duration of bond A is always higher than that of bond B.
 
-Solution: The principal payment of bond A alone makes a contribution $2,000 of:[/$2,200 = 74.8%][ to its present value and therefore a ] 1.05[4] contribution of 0.748 × 4yrs = 3.0 yrs to its duration. Irrespective of what the exact contributions of the remaining coupons of bond A to its overall duration are, they’re positive (it’s a CB!). Since duration of ZBC (bond B) is 3 years, the duration of bond A is always higher than that of bond B. 
+## Exercise 12
 
-## Exercise 11 Solutions 
+Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and a price of $2,000.
 
-Bond A is an annual coupon bond of $2,000 face value and of four years remaining until maturity, with 5% YTM and a market price of $2,200. Bond B is a zero-coupon bond and has three years remaining to maturity. Then, Which bond has shorter duration? 
+Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ?
 
-Solution: The principal payment of bond A alone makes a contribution $2,000 of:[/$2,200 = 74.8%][ to its present value and therefore a ] 1.05[4] contribution of 0.748 × 4yrs = 3.0 yrs to its duration. Irrespective of what the exact contributions of the remaining coupons of bond A to its overall duration are, they’re positive (it’s a CB!). Since duration of ZBC (bond B) is 3 years, the duration of bond A is always higher than that of bond B. 
+Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $1,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant.
 
-## Exercise 12 
+## Exercise 12 Solutions
 
-Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and a price of $2,000. 
+Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and a price of $2,000.
 
-Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ? 
+Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ?
 
-Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $1,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000[+ 7 ×] $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant. 
+Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $3,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant.
 
-## Exercise 12 Solutions 
+## Exercise 13
 
-Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and a price of $2,000. 
+What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point)
 
-Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ? 
+Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)(𝑡)(+) 1+𝑖/2(2𝑛) 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐 = 𝐹𝑉(, so )(𝐶= $1,000 × 0.07 = $70)( and) 2(= $35) 𝑖 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, 𝑃𝑉=(+)(= $1,019.3)(.) 1.025(+) 1.025(2) 1.025(2)
 
-Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $3,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000[+ 7 ×] $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant. 
+## Exercise 13 Solutions
 
-## Exercise 13 
+What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point)
 
-What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point) 
+Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)(𝑡)(+) 1+𝑖/2(2𝑛) 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐.𝑟. = 𝐹𝑉(, so )(𝐶= $1,000 × 0.07 = $70)( and) 2(= $35) 𝑖 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, 𝑃𝑉= 1.025(+) 1.025(2)(+) 1.025(2)(= $1,019.3)
 
-Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)[𝑡][+] 1+𝑖/2[2𝑛] 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐 = 𝐹𝑉[, so ][𝐶= $1,000 × 0.07 = $70][ and] 2[= $35] 𝑖 5% and derive: 2[=] 2[= 0.025] $35 $35 $1,000 Then, 𝑃𝑉=[+][= $1,019.3][.] 1.025[+] 1.025[2] 1.025[2] 
+## Exercise 14
 
-## Exercise 13 Solutions 
+A trader has bought copper futures at $92 per pound. The contract consists of 10,000 pounds. She closes her position one day before delivery when the future price is $98. On the date of delivery, the spot price turns out to be $88. What is the profit/loss of the trader?
 
-What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point) 
+Solution:
 
-Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)[𝑡][+] 1+𝑖/2[2𝑛] 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐.𝑟. = 𝐹𝑉[, so ][𝐶= $1,000 × 0.07 = $70][ and] 2[= $35] 𝑖 5% and derive: 2[=] 2[= 0.025] $35 $35 $1,000 Then, 𝑃𝑉= 1.025[+] 1.025[2][+] 1.025[2][= $1,019.3] 
+𝜋= $98 −$92 × 10,000 = $60,000 = $145.3 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
 
-## Exercise 14 
+## Exercise 14 Solutions
 
-A trader has bought copper futures at $92 per pound. The contract consists of 10,000 pounds. She closes her position one day before delivery when the future price is $98. On the date of delivery, the spot price turns out to be $88. What is the profit/loss of the trader? 
+A trader has bought copper futures at $92 per pound. The contract consists of 10,000 pounds. She closes her position one day before delivery when the future price is $98. On the date of delivery, the spot price turns out to be $88. What is the profit/loss of the trader?
 
-Solution: 
+Solution:
 
-𝜋= $98 −$92 × 10,000 = $60,000 = $145.3 Since the position is closed before delivery, data on spot price at delivery is irrelevant. 
+𝜋= $98 −$92 × 10,000 = $60,000 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
 
-## Exercise 14 Solutions 
+## Exercise 15
 
-A trader has bought copper futures at $92 per pound. The contract consists of 10,000 pounds. She closes her position one day before delivery when the future price is $98. On the date of delivery, the spot price turns out to be $88. What is the profit/loss of the trader? 
+A trader has written a European call option when the spot price of the underlying asset was $105, and the premium was $3. The strike price of the option is $110. At expiration, the spot price of the asset is $125. What was the net profit or loss of his/her counterparty?
 
-Solution: 
+Solution:
 
-𝜋= $98 −$92 × 10,000 = $60,000 Since the position is closed before delivery, data on spot price at delivery is irrelevant. 
+The trader sold a call option, so she received the premium (+$3). Later, the price increased and so your counterparty exercised the option, so you had to pay − $15 (= − $125 + $110). Therefore, trader’s net position is a loss: − $15+ $3= − $12. The position of her counterparty is specular: she paid the premium but gained because the price increased: +$15 − $3= +$12. The info on the price of the underlying asset is irrelevant.
 
-## Exercise 15 
+## Exercise 15 Solutions
 
-A trader has written a European call option when the spot price of the underlying asset was $105, and the premium was $3. The strike price of the option is $110. At expiration, the spot price of the asset is $125. What was the net profit or loss of his/her counterparty? 
+A trader has written a European call option when the spot price of the underlying asset was $105, and the premium was $3. The strike price of the option is $110. At expiration, the spot price of the asset is $125. What was the net profit or loss of his/her counterparty?
 
-Solution: 
+## Solution:
 
-The trader sold a call option, so she received the premium (+$3). Later, the price increased and so your counterparty exercised the option, so you had to pay − $15 (= − $125 + $110). Therefore, trader’s net position is a loss: − $15+ $3= − $12. The position of her counterparty is specular: she paid the premium but gained because the price increased: +$15 − $3= +$12. The info on the price of the underlying asset is irrelevant. 
+The trader sold a call option, so she received the premium (+$3). Later, the increased and so exercised the so price your counterparty option, you had to pay −$125 + $110 = −$15.
 
-## Exercise 15 Solutions 
+Therefore, trader’s net position is a loss: −$15+ $3= −$12. The position of her counterparty is specular: she paid the premium but gained because the price increased: +$15 −$3= +$12. The info on the price of the underlying asset is irrelevant.
 
-A trader has written a European call option when the spot price of the underlying asset was $105, and the premium was $3. The strike price of the option is $110. At expiration, the spot price of the asset is $125. What was the net profit or loss of his/her counterparty? 
+## Exercise 16
 
-## Solution: 
+During the year, a firm buys spot 400,000 lbs of sugar every month to make candies.
 
-The trader sold a call option, so she received the premium (+$3). Later, the increased and so exercised the so price your counterparty option, you had to pay −$125 + $110 = −$15. 
+**Q1:** To hedge the input price risk while minimizing counterparty risk as much as the firm should forwards or possible, buy futures?
 
-Therefore, trader’s net position is a loss: −$15+ $3= −$12. The position of her counterparty is specular: she paid the premium but gained because the price increased: +$15 −$3= +$12. The info on the price of the underlying asset is irrelevant. 
+**Q2:** And if each derivative contract is for the delivery of 10,000 lbs, how many contracts should the firm take?
 
-## Exercise 16 
+**Q3:** Is it better to enter in derivatives only once at the beginning of the year or to do it every month? Solution: **A1**: buy futures because they minimize the counterparty risk **A2**: buy 40 futures contracts of a standard size of 10,000 lb sugar
 
-During the year, a firm buys spot 400,000 lbs of sugar every month to make candies. 
+**A3**: firm can only choose to buy every month because you need
 
-**Q1:** To hedge the input price risk while minimizing counterparty risk as much as the firm should forwards or possible, buy futures? 
+## Exercise 16 Solutions
 
-**Q2:** And if each derivative contract is for the delivery of 10,000 lbs, how many contracts should the firm take? 
+During the year, a firm buys spot 400,000 lbs of sugar every month to make candies.
 
-**Q3:** Is it better to enter in derivatives only once at the beginning of the year or to do it every month? Solution: **A1** : buy futures because they minimize the counterparty risk **A2** : buy 40 futures contracts of a standard size of 10,000 lb sugar 
+**Q1:** To hedge the input price risk while minimizing counterparty risk as much as the firm should forwards or possible, buy futures?
 
-**A3** : firm can only choose to buy every month because you need 
+**Q2:** And if each derivative contract is for the delivery of 10,000 lbs, how many contracts should the firm take?
 
-## Exercise 16 Solutions 
+**Q3:** Is it better to enter in derivatives only once at the beginning of the year or to do it every month? Solution:
 
-During the year, a firm buys spot 400,000 lbs of sugar every month to make candies. 
+**A1**: buy futures because they minimize the counterparty risk **A2**: buy 40 futures contracts of a standard size of 10,000 lb sugar
 
-**Q1:** To hedge the input price risk while minimizing counterparty risk as much as the firm should forwards or possible, buy futures? 
+**A3**: firm can only choose to buy every month because you need
 
-**Q2:** And if each derivative contract is for the delivery of 10,000 lbs, how many contracts should the firm take? 
+## Exercise 17
 
-**Q3:** Is it better to enter in derivatives only once at the beginning of the year or to do it every month? Solution: 
+An investor has 200 shares of Stock A that sell for $56, but to protect against the risk of a price fall, she buys 100 (European) puts with a strike of $60 for $4 each. At expiration the stock is selling for $48. What is the investor's net gain or loss on his/her entire stock/option portfolio?
 
-**A1** : buy futures because they minimize the counterparty risk **A2** : buy 40 futures contracts of a standard size of 10,000 lb sugar 
+Solution:
 
-**A3** : firm can only choose to buy every month because you need 
+_The change in the value of this investor's stock holdings due to spot prices is_ - _V =100 *($48-$56)=-$1600. spot Since the strike price is greater than the spot price at expiration, the investor exercises his/her options, for a profit of:_ - _(put) =($60-$48-$4)*100 = $1,600. Thus, her net gain/loss is:_ - _Vp =_ - _Vspot +_ - _(put) = -$1,600 + $1,600 = $0._
 
-## Exercise 17 
+## Exercise 17 Solutions
 
-An investor has 200 shares of Stock A that sell for $56, but to protect against the risk of a price fall, she buys 100 (European) puts with a strike of $60 for $4 each. At expiration the stock is selling for $48. What is the investor's net gain or loss on his/her entire stock/option portfolio? 
+An investor has 200 shares of Stock A that sell for $56, but to protect against the risk of a price fall, she buys 100 (European) puts with a strike of $60 for $4 each. At expiration the stock is selling for $48. What is the investor's net gain or loss on his/her entire stock/option portfolio?
 
-Solution: 
+Solution:
 
-_The change in the value of this investor's stock holdings due to spot prices is_  _V =100 *($48-$56)=-$1600. spot Since the strike price is greater than the spot price at expiration, the investor exercises his/her options, for a profit of:_  _[put] =($60-$48-$4)*100 = $1,600. Thus, her net gain/loss is:_  _Vp =_  _Vspot +_  _[put] = -$1,600 + $1,600 = $0._ 
+The change in the value of the investor's stock holdings due to spot prices is - V = 200 × ($48-$56)=-$1600. spot
 
-## Exercise 17 Solutions 
+Since the strike price is greater than the spot price at expiration, the investor exercises his/her options, for a profit of:
 
-An investor has 200 shares of Stock A that sell for $56, but to protect against the risk of a price fall, she buys 100 (European) puts with a strike of $60 for $4 each. At expiration the stock is selling for $48. What is the investor's net gain or loss on his/her entire stock/option portfolio? 
+- (put) = 200 × ($60-$48-$4) = $1,600.
 
-Solution: 
+Thus, her net gain/loss is: - Vp = - Vspot + - (put) = -$1,600 + $1,600 = $0.
 
-The change in the value of the investor's stock holdings due to spot prices is V = 200 × ($48-$56)=-$1600. spot 
+## Exercise 18
 
-Since the strike price is greater than the spot price at expiration, the investor exercises his/her options, for a profit of: 
+An investor a call on buys European option 1,000 Treasury bonds with an exercise price of $108. If the price of the Treasury bond is $112 at expiration, determine the premium if the profit equals $3,500.
 
-[put] = 200 × ($60-$48-$4) = $1,600. 
+## Solution:
 
-Thus, her net gain/loss is: Vp = Vspot + [put] = -$1,600 + $1,600 = $0. 
+The investor exercises the call option so that she has the right to buy 1,000 Treasury bonds at $108 and then sell them at for a If the this means $112, profit. profit equaled $3,500 that the profit was: ($112 – $108) × 1,000 – p = $3,500. So, p = $4,000 – 3,500 = $500.
 
-## Exercise 18 
+## Exercise 18 Solutions
 
-An investor a call on buys European option 1,000 Treasury bonds with an exercise price of $108. If the price of the Treasury bond is $112 at expiration, determine the premium if the profit equals $3,500. 
+An investor a call on buys European option 1,000 Treasury bonds with an exercise price of $108. If the price of the Treasury bond is $112 at expiration, determine the premium if the profit equals $3,500.
 
-## Solution: 
+## Solution:
 
-The investor exercises the call option so that she has the right to buy 1,000 Treasury bonds at $108 and then sell them at for a If the this means $112, profit. profit equaled $3,500 that the profit was: ($112 – $108) × 1,000 – p = $3,500. So, p = $4,000 – 3,500 = $500. 
+The investor exercises the call option so that she has the right to buy 1,000 Treasury bonds at $108 and then sell them at for a If the this means $112, profit. profit equaled $3,500 that the profit was:
 
-## Exercise 18 Solutions 
+($112 – $108) × 1,000 – p = $3,500. So, p = $4,000 – 3,500 = $500.
 
-An investor a call on buys European option 1,000 Treasury bonds with an exercise price of $108. If the price of the Treasury bond is $112 at expiration, determine the premium if the profit equals $3,500. 
-
-## Solution: 
-
-The investor exercises the call option so that she has the right to buy 1,000 Treasury bonds at $108 and then sell them at for a If the this means $112, profit. profit equaled $3,500 that the profit was: 
-
-($112 – $108) × 1,000 – p = $3,500. So, p = $4,000 – 3,500 = $500. 
-
+## Related Notes
+- [[Lect12_Review_exercises_questions]]
+- [[Lect12_Review_exercises_answers]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]

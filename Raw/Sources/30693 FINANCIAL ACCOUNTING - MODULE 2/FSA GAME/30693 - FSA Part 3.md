@@ -1,368 +1,268 @@
-## _**Financial Accounting – Course 30693**_ 
+---
+course: "Financial Accounting 2"
+course_code: "30693"
+tags:
+  - "source"
+  - course_30693
+Title: "Thank you!"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [198 x 209] intentionally omitted <==**
+## Financial Accounting – Course 30693
 
-## **Financial Statement presentation, reclassification and analysis** 
+## Financial Statement presentation, reclassification and analysis
 
-## **Part 3** 
+## Part 3
 
-**==> picture [119 x 61] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-Copyright© Università Bocconi No part of this publication may be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any means – electronic, mechanical, photocoping, recorderig or otherwise – without the permission of Bocconi Undergraduate School. 
+## AGENDA
 
-2 
+1. Understanding the Business
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+2. External decision-makers. F/S presentation
 
-## AGENDA 
+3. Internal decision-makers
 
-1. Understanding the Business 
+4. F/S reclassification. Key indicators
 
-2. External decision-makers. F/S presentation 
+5. Ratio Analysis
 
-3. Internal decision-makers 
+- 6. FSA in the real life world
 
-4. F/S reclassification. Key indicators 
+- 6A. Forecast, budget and business plan
 
-5. Ratio Analysis 
+- – 6B. Rating agencies and analyst reports
 
-- 
+- – 6C. The valuation multiples
 
-- 6. FSA in the real life world 
+- 6D. Focus on EBITDA, EBIT & NFP
 
-   - 6A. Forecast, budget and business plan 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-   - – 6B. Rating agencies and analyst reports 
+## Budgeting and business plans
 
-   - – 6C. The valuation multiples 
+Mastery of Accounting is necessary to prepare three fundamental documents:
 
-**==> picture [70 x 33] intentionally omitted <==**
+(1) Forecast consists of predicting the income statement and cash flow statement for the current year (e.g., in March 2024, the forecast includes monthly or quarterly projections through December). The balance sheet is sometimes excluded, as _the purpose is to monitor short-term performance, particularly (i) monthly net income and (ii) available cash._
 
-**----- Start of picture text -----**<br>
-PART 3<br>**----- End of picture text -----**<br>
+(2) Budget represents the forecast of the Income Statement (IS), Balance Sheet (BS), and Cash Flow Statement (CFS) for the subsequent accounting period. It is usually prepared in the second half of the year (e.g., in October 2024, the 2025 budget is approved by the Board). _Its purpose is to set financial targets for the following year._
 
+(3) Business Plan is a key document that provides forecasts of IS, BS, and CFS over the next three to five years. It serves multiple purposes, including assessing the soundness of the company’s strategy, supporting impairment testing through the estimation of future cash flows, guiding long-term investment decisions (e.g., evaluating whether a new production plant will generate profits and cash inflows), informing debt restructuring plans, and supporting extraordinary transactions. It is also used to estimate the company’s market value. Overall, _its primary objective is to project how the financial statements will evolve in the coming years._
+*(See also: [[30693 - FSA Part 2#^hed77o]])*
 
-- 6D. Focus on EBITDA, EBIT & NFP 
+All three documents are prepared following a careful analysis of historical IS, BS, and CFS data, as well as component percentage calculations. These documents, especially the Business Plan, are formally approved by the Board of Directors.
 
-**==> picture [119 x 61] intentionally omitted <==**
+> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000
 
-**==> picture [582 x 34] intentionally omitted <==**
+An example of a Business Plan prepared in 2010 (Budget 2011 plan from 2012 on)
 
-**==> picture [119 x 61] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-4 
+## Rating agencies and analyst reports
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## Rating agencies and Financial Analysts are:
 
-## Budgeting and business plans 
+- Expert in firms’ valuation
 
-Mastery of Accounting is necessary to prepare three fundamental documents: 
+- Highly visible and qualified
 
-(1) Forecast consists of predicting the income statement and cash flow statement for the current year (e.g., in March 2024, the forecast includes monthly or quarterly projections through December). The balance sheet is sometimes excluded, as _the purpose is to monitor short-term performance, particularly (i) monthly net income and (ii) available cash._ 
+- Provide Recommendations and Target Prices
 
-(2) Budget represents the forecast of the Income Statement (IS), Balance Sheet (BS), and Cash Flow Statement (CFS) for the subsequent accounting period. It is usually prepared in the second half of the year (e.g., in October 2024, the 2025 budget is approved by the Board). _Its purpose is to set financial targets for the following year._ 
+## What do they do?
 
-(3) Business Plan is a key document that provides forecasts of IS, BS, and CFS over the next three to five years. It serves multiple purposes, including assessing the soundness of the company’s strategy, supporting impairment testing through the estimation of future cash flows, guiding long-term investment decisions (e.g., evaluating whether a new production plant will generate profits and cash inflows), informing debt restructuring plans, and supporting extraordinary transactions. It is also used to estimate the company’s market value. Overall, _its primary objective is to project how the financial statements will evolve in the coming years._ 
+- They “Filter” the information released by the firms and insert it in their own evaluation process.
 
-**==> picture [119 x 61] intentionally omitted <==**
+- The elaboration of the information end with the output of the specific activity of an analyst: the production of the analyst reports.
 
-All three documents are prepared following a careful analysis of historical IS, BS, and CFS data, as well as component percentage calculations. These documents, especially the Business Plan, are formally approved by the Board of Directors. 
+Analyst reports (also called Equity research report) is an analyst-authored document that evaluates a publicly traded company and advises investors on whether to purchase, retain, or sell its shares.
 
-5 
+## Buy-side firms
 
-> TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° **THIS SLIDE IS NOT ASSESSED IN THE EXAM** 0000 
+## Sell-side firms
 
-**==> picture [583 x 378] intentionally omitted <==**
+- Such as asset management companies, maintain in-house research teams that generate analyses and recommendations on which securities portfolio managers should purchase or divest. These reports are intended strictly for internal use to support investment decisions and are not shared with the public.
 
-An example of a Business Plan prepared in 2010 (Budget 2011 plan from 2012 on) 
+- Like investment banks produce equity research reports for external distribution to clients in sales and trading as well as wealth management. These reports are typically provided at no cost and include explicit ratings (buy, sell, or hold) along with a projected target price.
 
-**==> picture [119 x 61] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-**==> picture [587 x 34] intentionally omitted <==**
+## Analyst reports (Forecast Firms’ Future Value)
 
-**==> picture [119 x 61] intentionally omitted <==**
+## The analyst’s work can be represented as a “ _step by step_ ” procedure:
 
-7 
+- from the _collection_ and the _elaboration_ of the information,
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- to the _conversion of the forecasts_ into the estimation of the _firm value_
 
-## Rating agencies and analyst reports 
+- and the formulation of _target prices_ and _stocks recommendations_ that can influence the market behavior.
 
-## Rating agencies and Financial Analysts are: 
+The main output is a simple question with a multifaceted – yet always incomplete – answer:
 
-- Expert in firms’ valuation 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-- Highly visible and qualified 
+## Valuation Multiples
 
-- Provide Recommendations and Target Prices 
+Valuation multiples are one of the two most common methods used to estimate the market value of a company (i.e., to value a company), starting from the data presented in the financial statements.
 
-## What do they do? 
+Valuation multiples are a method of obtaining an initial, broad, and approximate estimate of a company’s value, as follows:
 
-- They “Filter” the information released by the firms and insert it in their own evaluation process. 
+First, you select an accounting item from the company’s financial statements to be evaluated (the “ **Target** ”) _(e.g., net income, also referred to as net earnings)._
 
-- The elaboration of the information end with the output of the specific activity of an analyst: the production of the analyst reports. 
+Second, you select a sample of comparable companies operating in the same industry, with publicly available data _(e.g., listed companies),_ and compute a ratio in which the numerator is the market value and the denominator is the same accounting item selected for the target company _(e.g., the Price/Earnings, or P/E, ratio)._
 
-Analyst reports (also called Equity research report) is an analyst-authored document that evaluates a publicly traded company and advises investors on whether to purchase, retain, or sell its shares. 
+Third, you multiply the accounting item selected for the target by the corresponding market multiple; this yields the estimated market value of the target company.
 
-## **Buy-side firms** 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-## **Sell-side firms** 
+## Valuation Multiples (Example 1/2)
 
-- Such as asset management companies, maintain in-house research teams that generate analyses and recommendations on which securities portfolio managers should purchase or divest. These reports are intended strictly for internal use to support investment decisions and are not shared with the public. 
+ABC is a company operating in the consumer healthcare products sector. ABC’s average earnings over the past three years, as well as the projected earnings for the next three years according to the business plan, are €70,000 with no significant variation.
 
-**==> picture [119 x 61] intentionally omitted <==**
+What is the market value of ABC’s shares if a potential investor intends to acquire the company?
 
-- Like investment banks produce equity research reports for external distribution to clients in sales and trading as well as wealth management. These reports are typically provided at no cost and include explicit ratings (buy, sell, or hold) along with a projected target price. 
+Assume that Pfizer’s P/E ratio is in line with that of its competitors and is reliable for this purpose.
 
-8 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## Valuation Multiples (Example 2/2)
 
-## Analyst reports (Forecast Firms’ Future Value) 
+In light of the data provided above, the market value of ABC’s shares is:
 
-## The analyst’s work can be represented as a “ _step by step_ ” procedure: 
+€ 70,000 \times 15.27 = € 1,068,900
 
-- from the _collection_ and the _elaboration_ of the information, 
+Speaking in general terms, and purely for illustrative purposes, using only the data provided in this example, a buyer could offer the shareholders a price between €1 million and €1.1 million for the acquisition of 100% of the company’s shares.
 
-- to the _conversion of the forecasts_ into the estimation of the _firm value_ 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-- and the formulation of _target prices_ and _stocks recommendations_ that can influence the market behavior. 
+## Valuation Multiples
 
-The main output is a simple question with a multifaceted – yet always incomplete – answer: 
+This is an Accounting course, not a finance and/or valuation course. The objective is simply to highlight that, when the market value of a company is derived from its financial statements, those statements must be reliable and properly adjusted (“normalized”). Only with a solid understanding of Accounting can such an evaluation be considered reliable.
 
-**==> picture [119 x 61] intentionally omitted <==**
+The following are a few examples illustrating this point:
 
-**==> picture [481 x 163] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-**----- Start of picture text -----**<br>
-Initial Coverage<br>Three main types<br>Analyst Report<br>of analyst report: first time an<br>Updates<br>analyst issues a  regular reports<br>report on a constant  needed when<br>basis firms’ related<br>event might<br>influence firms’<br>value.<br>**----- End of picture text -----**<br>
+## Valuation of companies in an M&A transaction
 
+As stated previously, this is not a valuation course; however, it is useful to highlight the two most important figures in financial statements that are commonly used worldwide to estimate (broadly) the market value of companies.
 
-**==> picture [351 x 34] intentionally omitted <==**
+Before addressing this, it is important to note that the market value of a company can be estimated either on an Asset Side basis or on an Equity Side basis.
 
-**==> picture [119 x 61] intentionally omitted <==**
+## Asset side
 
-10 
+## Equity side
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- - when you calculate the market value of a company asset side you are calculating the **ENTERPRISE VALUE** , which is the market value of the assets of a company i.e., the amount that a buyer should pay to purchase all the assets of a company together, leaving then the target as a “box” full only of cash and debt
 
-## Valuation Multiples 
+- - when you calculate the market value of a company equity side you are calculating the **EQUITY VALUE** , which is the market value of the shares of a company.
 
-Valuation multiples are one of the two most common methods used to estimate the market value of a company (i.e., to value a company), starting from the data presented in the financial statements. 
+The Enterprise Value (EV) or the Equity Value (EqV) can be calculated using two methods (among the others but with the highest frequency):
 
-Valuation multiples are a method of obtaining an initial, broad, and approximate estimate of a company’s value, as follows: 
+- Discounted Cash Flow (DCF): first you prepare a Business Plan, then you calculate free cash flows and then you calculate the present value of the cash flows in the plan, plus a terminal value
 
-First, you select an accounting item from the company’s financial statements to be evaluated (the “ **Target** ”) _(e.g., net income, also referred to as net earnings)._ 
+- Multiples: see preceding slides
 
-**==> picture [40 x 40] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-Second, you select a sample of comparable companies operating in the same industry, with publicly available data _(e.g., listed companies),_ and compute a ratio in which the numerator is the market value and the denominator is the same accounting item selected for the target company _(e.g., the Price/Earnings, or P/E, ratio)._ 
+## Valuation of companies in an M&A transaction
 
-Third, you multiply the accounting item selected for the target by the corresponding market multiple; this yields the estimated market value of the target company. 
+To calculate the Enterprise Value and the Equity Value, the two most important data of the financial statements are:
 
-**==> picture [119 x 61] intentionally omitted <==**
+## EBITDA and NET FINANCIAL POSITION (NFP)
 
-**==> picture [40 x 39] intentionally omitted <==**
+**– Equity Value = Enterprise Value Net Financial Position** _Someone who knows the importance of EBITDA … Source: LinkedIn_
 
-11 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## The most frequent multiples
 
-## Valuation Multiples (Example 1/2) 
+Following are some of the most frequent valuation multiples.
 
-ABC is a company operating in the consumer healthcare products sector. ABC’s average earnings over the past three years, as well as the projected earnings for the next three years according to the business plan, are €70,000 with no significant variation. 
+## ASSET SIDE
 
-What is the market value of ABC’s shares if a potential investor intends to acquire the company? 
+- EV/Sales: enterprise value is calculated as a multiple of the sales. Example: pharmacies, between 1.3x and 1.5x
 
-Assume that Pfizer’s P/E ratio is in line with that of its competitors and is reliable for this purpose. 
+- EV/EBITDA: this is the most common valuation multiple used worldwide; enterprise value is calculated as a multiple of EBITDA. Example: healthcare sector between 10x and 15x
 
-**==> picture [119 x 61] intentionally omitted <==**
+- EV/EBIT: enterprise value is calculated as a multiple of EBIT.
 
-**==> picture [437 x 216] intentionally omitted <==**
+_(remember that if you use an asset-side multiple, to calculate the value of the shares you have to subtract Net Financial Position or add it, if cash > financial debt)._
 
-12 
+- P/E and P/BV: referred to as market ratios (see next slide)
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-## Valuation Multiples (Example 2/2) 
+## Market Ratios
 
-In light of the data provided above, the market value of ABC’s shares is: 
+## Price-to-Earnings Ratio (P/E)
 
-€ 70,000 x 15.27 = € 1,068,900 
+- **Market Price per share**
 
-Speaking in general terms, and purely for illustrative purposes, using only the data provided in this example, a buyer could offer the shareholders a price between €1 million and €1.1 million for the acquisition of 100% of the company’s shares. 
+- `━━━━━━━━━━━`
 
-13 
+- **EPS**
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- - Measures the relationship between current market price and EPS (Earnings Per Share)
 
-## Valuation Multiples 
+- - Market price reflects the expectations of the market for future earnings
 
-This is an Accounting course, not a finance and/or valuation course. The objective is simply to highlight that, when the market value of a company is derived from its financial statements, those statements must be reliable and properly adjusted (“normalized”). Only with a solid understanding of Accounting can such an evaluation be considered reliable. 
+- - It is based on future subjective expectations, not on actual past figures
 
-The following are a few examples illustrating this point: 
+## Price-to-Book Value Ratio (P/BV)
 
-**==> picture [654 x 200] intentionally omitted <==**
+- **Market Price per Share**
 
-**----- Start of picture text -----**<br>
-Have any recurring<br>Are there any non-<br>What are the  but non-monetary<br>Has any impairment  recurring, unusual, or<br>company’s  items been recorded<br>loss been recorded? exceptional revenues<br>depreciation policies? (e.g., allowance for<br>or expenses?<br>doubtful accounts)?<br>Are the targets in the  Are all estimates<br>Have all adjusting<br>business plan  Are revenues properly  (e.g., net receivables,<br>entries been properly<br>reasonable or overly  recognized? inventory) properly<br>recorded?<br>ambitious? measured?<br>**----- End of picture text -----**<br>
+- `━━━━━━━━━━━━━━`
 
+- **Book Value per Share**
 
-14 
+- - Measures the relationship between the current market price and the book value per share (= book value of total shareholders’equity)
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+- - Shows how much investors are willing to pay for each unit of stockholders’equity
 
-## Valuation of companies in an M&A transaction 
+- - Reflects market expectations about the company’s asset quality, profitability, and future growth
 
-As stated previously, this is not a valuation course; however, it is useful to highlight the two most important figures in financial statements that are commonly used worldwide to estimate (broadly) the market value of companies. 
+- - Based on accounting net worth, so it is more balancesheet focused than earnings focused
 
-Before addressing this, it is important to note that the market value of a company can be estimated either on an Asset Side basis or on an Equity Side basis. 
+- - Useful especially for asset-heavy businesses such as banks, financial institutions, and manufacturing firms
 
-## **Asset side** 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-## **Equity side** 
+## Focus on EBITDA (and EBIT)
 
-- •when you calculate the market value of a company asset side you are calculating the **ENTERPRISE VALUE** , which is the market value of the assets of a company i.e., the amount that a buyer should pay to purchase all the assets of a company together, leaving then the target as a “box” full only of cash and debt 
+In the first FSA session in the standard format example of an Income Statement format, we calculated:
 
-- •when you calculate the market value of a company equity side you are calculating the **EQUITY VALUE** , which is the market value of the shares of a company. 
+They are both measures of a business's profitability
 
-The Enterprise Value (EV) or the Equity Value (EqV) can be calculated using two methods (among the others but with the highest frequency): 
+Because EBIT and EBITDA are independent of discretionary capital structure decisions (i.e., the financing mix) and are pre-tax measures of profitability, they can be used for comparability purposes across different companies. In particular, EBITDA is a metric used to evaluate a company’s operating performance, indicating whether the company is able to generate operating income and cash flows, excluding investment, extraordinary, financing, and tax effects.
 
-**==> picture [119 x 61] intentionally omitted <==**
+The magnitude of the difference between EBIT and EBITDA depends on the industry in which the company operates, as well as on discretionary management decisions (e.g., the choices of capitalizations and/or the assumed useful life of fixed assets (PP&E) and management’s efficiency in capital expenditures, or lack thereof).
 
-- Discounted Cash Flow (DCF): first you prepare a Business Plan, then you calculate free cash flows and then you calculate the present value of the cash flows in the plan, plus a terminal value 
+The difference between EBIT and EBITDA has further increased in recent years due to the growing use of the “Adjusted EBITDA” metric, which extends traditional EBITDA through additional discretionary adjustments.
 
-- Multiples: see preceding slides 
+The rationale for these adjustments, at least in theory, is to present a company’s operating performance more accurately and provide investors with greater transparency, albeit at the cost of increased managerial discretion and reduced standardization.
 
-15 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+## Focus on EBITDA (and EBIT)
 
-## Valuation of companies in an M&A transaction 
+In practice, EBIT and EBITDA are two of the most widely used metrics, particularly for performing valuation analyses, such as in the context of fundamental investing in public markets and mergers and acquisitions (M&A) transactions.
 
-To calculate the Enterprise Value and the Equity Value, the two most important data of the financial statements are: 
+The use of EBITDA is more common in M&A transactions because it is broadly aligned with the target’s cash flow profile* and ultimately translates into operating cash flow, which is the key variable being negotiated (subject to mutually agreed adjustments).
 
-## EBITDA and NET FINANCIAL POSITION (NFP) 
+_*Please note that the target’s cash flow profile must be normalized in order to produce reliable cash flow projections; all distorting elements to be included or excluded, thereby leading to normalized EBITDA, should be clearly identified._
 
-**==> picture [119 x 61] intentionally omitted <==**
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-**– Equity Value = Enterprise Value Net Financial Position** _Someone who knows the importance of EBITDA … Source: LinkedIn_ 
+## EBITDA vs. Cash (A Simple Example)
 
-16 
+Assume a consulting firm performs services worth 100 each year and incurs cash operating expenses of 40 each year. In Year 1, the firm invoices the customer for 100 but only collects 80 in cash before year-end, so 20 remains in accounts receivable. In Year 2, the firm again earns revenue of 100, however, collects it all and it also collects the 20 receivable from Year 1.
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## The most frequent multiples 
-
-Following are some of the most frequent valuation multiples. 
-
-## ASSET SIDE 
-
-- EV/Sales: enterprise value is calculated as a multiple of the sales. Example: pharmacies, between 1.3x and 1.5x 
-
-- EV/EBITDA: this is the most common valuation multiple used worldwide; enterprise value is calculated as a multiple of EBITDA. Example: healthcare sector between 10x and 15x 
-
-- EV/EBIT: enterprise value is calculated as a multiple of EBIT. 
-
-_(remember that if you use an asset-side multiple, to calculate the value of the shares you have to subtract Net Financial Position or add it, if cash > financial debt)._ 
-
-EQUITY SIDE 
-
-- P/E and P/BV: referred to as market ratios (see next slide) 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-17 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## Market Ratios 
-
-## Price-to-Earnings Ratio (P/E) 
-
-   - **Market Price per share** 
-
-   - `━━━━━━━━━━━` 
-
-      - **EPS** 
-
-- •Measures the relationship between current market price and EPS (Earnings Per Share) 
-
-- •Market price reflects the expectations of the market for future earnings 
-
-- •It is based on future subjective expectations, not on actual past figures 
-
-## Price-to-Book Value Ratio (P/BV) 
-
-      - **Market Price per Share** 
-
-   - `━━━━━━━━━━━━━━` 
-
-      - **Book Value per Share** 
-
-- •Measures the relationship between the current market price and the book value per share (= book value of total shareholders’equity) 
-
-- •Shows how much investors are willing to pay for each unit of stockholders’equity 
-
-- •Reflects market expectations about the company’s asset quality, profitability, and future growth 
-
-- •Based on accounting net worth, so it is more balancesheet focused than earnings focused 
-
-- •Useful especially for asset-heavy businesses such as banks, financial institutions, and manufacturing firms 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-**==> picture [492 x 32] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-19 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## Focus on EBITDA (and EBIT) 
-
-In the first FSA session in the standard format example of an Income Statement format, we calculated: 
-
-EBITDA AND EBIT 
-
-**==> picture [39 x 33] intentionally omitted <==**
-
-They are both measures of a business's profitability 
-
-Because EBIT and EBITDA are independent of discretionary capital structure decisions (i.e., the financing mix) and are pre-tax measures of profitability, they can be used for comparability purposes across different companies. In particular, EBITDA is a metric used to evaluate a company’s operating performance, indicating whether the company is able to generate operating income and cash flows, excluding investment, extraordinary, financing, and tax effects. 
-
-The magnitude of the difference between EBIT and EBITDA depends on the industry in which the company operates, as well as on discretionary management decisions (e.g., the choices of capitalizations and/or the assumed useful life of fixed assets (PP&E) and management’s efficiency in capital expenditures, or lack thereof). 
-
-The difference between EBIT and EBITDA has further increased in recent years due to the growing use of the “Adjusted EBITDA” metric, which extends traditional EBITDA through additional discretionary adjustments. 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-The rationale for these adjustments, at least in theory, is to present a company’s operating performance more accurately and provide investors with greater transparency, albeit at the cost of increased managerial discretion and reduced standardization. 
-
-20 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## Focus on EBITDA (and EBIT) 
-
-In practice, EBIT and EBITDA are two of the most widely used metrics, particularly for performing valuation analyses, such as in the context of fundamental investing in public markets and mergers and acquisitions (M&A) transactions. 
-
-The use of EBITDA is more common in M&A transactions because it is broadly aligned with the target’s cash flow profile* and ultimately translates into operating cash flow, which is the key variable being negotiated (subject to mutually agreed adjustments). 
-
-_*Please note that the target’s cash flow profile must be normalized in order to produce reliable cash flow projections; all distorting elements to be included or excluded, thereby leading to normalized EBITDA, should be clearly identified._ 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-21 
-
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
-
-## EBITDA vs. Cash (A Simple Example) 
-
-Assume a consulting firm performs services worth 100 each year and incurs cash operating expenses of 40 each year. In Year 1, the firm invoices the customer for 100 but only collects 80 in cash before year-end, so 20 remains in accounts receivable. In Year 2, the firm again earns revenue of 100, however, collects it all and it also collects the 20 receivable from Year 1. 
-
-||Year 1|Year 2|Total|
+|Year 1|Year 2|Total|
 |---|---|---|---|
 |Revenue|100|100|200|
 |Operating expenses|(40)|(40)|(80)|
@@ -372,79 +272,61 @@ Assume a consulting firm performs services worth 100 each year and incurs cash o
 |Cashpayments|(40)|(40)|(80)|
 |Operating cash flow|40|80|120|
 
+_This shows why EBITDA can be viewed as a proxy for cash flow over time: working capital movements can create short-term timing differences, but once those timing effects reverse, the difference disappears._
 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-**==> picture [119 x 61] intentionally omitted <==**
+## Focus on EBITDA (and EBIT)
 
-_This shows why EBITDA can be viewed as a proxy for cash flow over time: working capital movements can create short-term timing differences, but once those timing effects reverse, the difference disappears._ 
+EBIT and EBITDA metrics are frequently used to perform relative valuation, in which the two metrics coincide with the enterprise value (TEV) metric.
 
-22 
+EV (Enterprise value) EBITDA EV (Enterprise value)
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+_Two of the most common valuation multiples used – in relative valuation such as comparable companies' analysis (or “trading comps”) and precedent transactions analysis (or “transaction comps”)_
 
-## Focus on EBITDA (and EBIT) 
+For a valuation multiple to be practical, the numerator (i.e. the value measure) and denominator (i.e. the value driver) must match concerning the stakeholders represented.
 
-EBIT and EBITDA metrics are frequently used to perform relative valuation, in which the two metrics coincide with the enterprise value (TEV) metric. 
+Hence, EBIT and EBITDA both correspond to enterprise value, rather than equity value, since the profit metrics have not yet been adjusted for any payments to lenders, namely the periodic interest expense payment owed on outstanding debt.
 
-EV (Enterprise value) EBITDA EV (Enterprise value) 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-EBIT 
+## Focus on NFP
 
-_Two of the most common valuation multiples used – in relative valuation such as comparable companies' analysis (or “trading comps”) and precedent transactions analysis (or “transaction comps”)_ 
+As stated previously, NFP is subtracted from Enterprise Value to compute Equity Value. It is calculated as follows:
 
-For a valuation multiple to be practical, the numerator (i.e. the value measure) and denominator (i.e. the value driver) must match concerning the stakeholders represented. 
+- NFP = financial liabilities cash and cash equivalent
 
-Hence, EBIT and EBITDA both correspond to enterprise value, rather than equity value, since the profit metrics have not yet been adjusted for any payments to lenders, namely the periodic interest expense payment owed on outstanding debt. 
+_It is measured at the end of each reporting period (typically annually or quarterly). Financial assets and liabilities are valued at market value._
 
-**==> picture [119 x 61] intentionally omitted <==**
+Nonetheless, within an M&A transaction, several elements affect this value; in this context, the indicator is referred to as normalized NFP.
 
-23 
+_Please note: In M&A transactions, Financial Due Diligence involves an in-depth examination and analysis of, among other aspects, three key elements: EBITDA, Net Financial Position, and Net Working Capital. These elements constitute the basis for determining the value of a company (or group of companies or business unit) that is the subject of the transaction._
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 
-## Focus on NFP 
+## Final remarks
 
-As stated previously, NFP is subtracted from Enterprise Value to compute Equity Value. It is calculated as follows: 
+Once again, and in conclusion, we emphasize that if the market value of a company is calculated based on accounting figures, a solid understanding of Accounting is essential to make sound investment, strategic, operating, M&A, and financing decisions.
 
-- NFP = financial liabilities cash and cash equivalent 
+Indeed, accounting policies (or accounting fraud) can have a significant impact on the returns of all stakeholders involved. Consider the following examples:
 
-_It is measured at the end of each reporting period (typically annually or quarterly). Financial assets and liabilities are valued at market value._ 
+_What if the inventory’s book value must be written down?_
 
-Nonetheless, within an M&A transaction, several elements affect this value; in this context, the indicator is referred to as normalized NFP. 
+_What if too many expenses have been capitalized, thereby affecting EBITDA?_
 
-_Please note: In M&A transactions, Financial Due Diligence involves an in-depth examination and analysis of, among other aspects, three key elements: EBITDA, Net Financial Position, and Net Working Capital. These elements constitute the basis for determining the value of a company (or group of companies or business unit) that is the subject of the transaction._ 
+_What if an impairment test is overly optimistic and an intangible asset is not impaired?_
 
-**==> picture [119 x 61] intentionally omitted <==**
+_What if a debt instrument is not properly measured?_
 
-24 
+_What if an unusual transaction is not disclosed as such in the notes, and is therefore included in normalized EBITDA?_
 
-TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000 
+_What if net accounts What about the calculation receivable are not properly What if VAT was nonof income taxes and measured (i.e., errors in deductible? contingent liabilities? bad debt expense)?_
 
-## Final remarks 
+_Knowledge of the correct accounting rules for recording and measurement will guide all of you, as future CEOs, CFOs, consultants, analysts, fund managers, and advisors, in making sound decisions._
 
-Once again, and in conclusion, we emphasize that if the market value of a company is calculated based on accounting figures, a solid understanding of Accounting is essential to make sound investment, strategic, operating, M&A, and financing decisions. 
+# Thank you!
 
-Indeed, accounting policies (or accounting fraud) can have a significant impact on the returns of all stakeholders involved. Consider the following examples: 
-
-_What if the inventory’s book value must be written down?_ 
-
-_What if too many expenses have been capitalized, thereby affecting EBITDA?_ 
-
-_What if an impairment test is overly optimistic and an intangible asset is not impaired?_ 
-
-_What if a debt instrument is not properly measured?_ 
-
-_What if an unusual transaction is not disclosed as such in the notes, and is therefore included in normalized EBITDA?_ 
-
-_What if net accounts What about the calculation receivable are not properly What if VAT was nonof income taxes and measured (i.e., errors in deductible? contingent liabilities? bad debt expense)?_ 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-**==> picture [71 x 67] intentionally omitted <==**
-
-_Knowledge of the correct accounting rules for recording and measurement will guide all of you, as future CEOs, CFOs, consultants, analysts, fund managers, and advisors, in making sound decisions._ 
-
-# Thank you! 
-
-**==> picture [119 x 61] intentionally omitted <==**
-
+## Related Notes
+- [[30693 - FSA Part 2]]
+- [[30693 - FSA Part 1]]
+- [[ACC_3(1)]]

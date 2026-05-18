@@ -1,728 +1,590 @@
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Commercial Banking Bank Balance sheet (Chapter 17)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Commercial Banking Bank Balance sheet (Chapter 17)** 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi
 
-**==> picture [348 x 204] intentionally omitted <==**
+# Commercial Banking Bank Balance sheet (Chapter 17)
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Outline of today
 
+## 1. The Bank Balance Sheet
 
-**==> picture [255 x 213] intentionally omitted <==**
+2. Off-Balance Sheet activities
 
-**----- Start of picture text -----**<br>
-7-1<br>**----- End of picture text -----**<br>
+3. Basics of Banking
 
+4. General Principles of Bank Management
 
-## **Outline of today** 
+5. Measuring Bank Performance
 
-## 1. The Bank Balance Sheet 
+## What are Commercial Banks?
 
-2. Off-Balance Sheet activities 
+## ✓ **Commercial Banks** (CBs) are institutions that: `o` accept **deposits** ( _Liabilities_ ) and
 
-3. Basics of Banking 
+## `o` make **loans**
 
-4. General Principles of Bank Management 
+## ( _Assets_ )
 
-5. Measuring Bank Performance 
+- ✓ CBs differ from other depository institutions because they:
 
-## **What are Commercial Banks?** 
+- are traditionally the largest Financial Intermediary (FI) by asset size
 
-## ✓ **Commercial Banks** (CBs) are institutions that: `o` accept **deposits** ( _Liabilities_ ) and 
+- offer wider variety of lending activities than savings institutions and credit unions
 
-## `o` make **loans** 
+- pursue profit (≠ credit unions)
 
-## ( _Assets_ ) 
+`o` liabilities comprise not only of deposits (as in savings institutions), but also of debentures / commercial paper
 
-- ✓ CBs differ from other depository institutions because they: 
+- _are chartered differently and regulated by different regulators than the savings institutions and credit unions_
 
-   - are traditionally the largest Financial Intermediary (FI) by asset size 
+30% 2% 11% 3% 15% 10%
 
-   - offer wider variety of lending activities than savings institutions and credit unions 
+## Size of Indirect Finance by Type
 
-   - pursue profit (≠ credit unions) 
+**2015**
 
-`o` liabilities comprise not only of deposits (as in savings institutions), but also of debentures / commercial paper 
+## Always largest FI
 
-- _are chartered differently and regulated by different regulators than the savings institutions and credit unions_ 
+## Eroding Banks’ Market Share
 
-✓ _Note: Investment Banks_ (IB) are not depository institutions Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` in Europe model of “Universal Bank” (UB = CB & IB) allowed 
+3% 22%
 
-30% 2% 11% 3% 15% 10% 
+5%7-4
 
-## **Size of Indirect Finance by Type** 
-
-**2015** 
-
-## **Always largest FI** 
-
-**==> picture [319 x 40] intentionally omitted <==**
-
-## **Eroding Banks’ Market Share** 
-
-**==> picture [319 x 37] intentionally omitted <==**
-
-3% 22% 
-
-5%7-4 
-
-## **Largest Commercial Banks in the USA by Assets (June 2025)** 
+## Largest Commercial Banks in the USA by Assets (June 2025)
 
 |**Rank **|**Bank Name**|**Assets(1)**|
 |---|---|---|
-|||**(inblns of USD)**|
+|**(inblns of USD)**|
 |1|**JPMorgan Chase**|3,788.60|
 |2|**Bankof America**|2,665.60|
 |3|**Citigroup**|1,833.90|
 |4|**Wells Fargo**|1,746.40|
 |5|**U.S. Bank National Association**|671.4|
-|(1): consilidated total assets|||
+|(1): consilidated total assets|
 
+Source: Federal Reserve
 
+`o` After deregulation in the 80’s, banks through a phase of concentration - long run process
 
-Source: Federal Reserve 
+`o` Nowadays a few players, enormous size dominate the market `o` Compare with US Nominal GDP in 2024≈ $29tn `o` Total US commercial banks’ assets around **80%** of  US GDP
 
-`o` After deregulation in the 80’s, banks through a phase of concentration ▪ long run process 
+# by Assets (2020)*
 
-`o` Nowadays a few players, enormous size dominate the market `o` Compare with US Nominal GDP in 2024≈ $29tn `o` Total US commercial banks’ assets around **80%** of  US GDP 
+**Assets Rank (country) Bank Name (in Blns of USD)** 1 (JPN) **Mitsubishi UFJ Financial Group** $2,892B 2 (UK) **HSBC Holdings** $2,725B 3 (USA) **JPMorgan Chase** $2,691B 4 (USA) **Bank of America** $2,932B 5 (FRA) **BNP Paribas** $2,144B
 
-# **by Assets (2020)*** 
+_*: This list only considers privately owned banks. If government-owned banks were included, the big-four Chinese banks would be #1,2,3,4 in the world, respectively. For an updated list see here!_
 
-**Assets Rank (country) Bank Name (in Blns of USD)** 1 (JPN) **Mitsubishi UFJ Financial Group** $2,892B 2 (UK) **HSBC Holdings** $2,725B 3 (USA) **JPMorgan Chase** $2,691B 4 (USA) **Bank of America** $2,932B 5 (FRA) **BNP Paribas** $2,144B 
+## The Bank Balance Sheet
 
-_*: This list only considers privately owned banks. If government-owned banks were included, the big-four Chinese banks would be #1,2,3,4 in the world, respectively. For an updated list see here!_ 
+✓ The Balance Sheet is a list of a bank ’ s assets and liabilities `o` **Total Assets = Total Liabilities + Capital (or Equity or Net Worth)**
 
-## **The Bank Balance Sheet** 
+## ✓ A bank ’ s balance sheet lists
 
-✓ The Balance Sheet is a list of a bank ’ s assets and liabilities `o` **Total Assets = Total Liabilities + Capital (or Equity or Net Worth)** 
+`o` sources of bank funds ( _Liabilities_ ) and
 
-## ✓ A bank ’ s balance sheet lists 
+`o` uses to which they are put ( _Assets_ ) and
 
-`o` sources of bank funds ( _Liabilities_ ) and 
+- capital (=excess of assets over liabilities)
 
-`o` uses to which they are put ( _Assets_ ) and 
+- ✓ **book values** ( _i.e._ what you read on the balance sheet) are different from
 
-   - capital (=excess of assets over liabilities) 
+- ✓ **market values** ( _i.e._ as evaluated by the market using prices)
 
-- ✓ **book values** ( _i.e._ what you read on the balance sheet) are different from 
+## Balance Sheet: JP Morgan Chase
 
-- ✓ **market values** ( _i.e._ as evaluated by the market using prices) 
+## 2015, end of year USD billion
 
-## **Balance Sheet: JP Morgan Chase** 
+## Assets Liabilities and Net Worth
 
-## 2015, end of year USD billion 
+## Balance Sheet: Goo le g
 
-## **Assets Liabilities and Net Worth** 
+## 2015, end of year USD billion
 
-|||**Assets**|**Liabilities and Net Worth**|**Liabilities and Net Worth**||||
-|---|---|---|---|---|---|---|---|
-|||||||||
-|||Cash and Reserves|20|Total Deposits|1,280|||
-|||Investment and Securities|1,290|Demand/Checkable Deposits|392|||
-|||||<br>Savings/Time Deposits|663|||
-|||Loans|835|||||
-|||Commercial and Industrial|155|Total Debt and Borrowings|519|||
-|||Consumer|476|<br>Short-term debt|256|||
-|||Real Estate (Mortgages)|95|Long-term debt|263|||
-|||<br>Other|108|||||
-|||Loan Loss Reserves|(13.5)|Other Liabilities|304|||
-|||Property|14.3|||||
-|||||||||
-|||Other Assets|157.2|Equity|247|||
-|||||||||
-|||Total|**2,370**<br>Total||**2,370**|||
-||Ciht 2015 P Edti Ltd All iht d<br>78|||||||
-
-
-
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Balance Sheet: Goo le g** 
-
-## 2015, end of year USD billion 
-
-||**Assets**<br>**Liabilities and Net Worth**<br>Cash and Cash Equivalents<br>73<br>Other Current Assets<br>17<br>Current Liabilities<br>19<br>Long-term Assets<br>57<br>Long-term Debt<br>2<br>of which:<br>Fixed Assets<br>30.7<br>Other liabilities<br>6<br>Goodwill<br>15.8<br>Other Intangibles<br>3.8<br>Investments<br>6.52<br>Equity<br>120<br>Total<br>**147**<br>Total<br>**147**|
+|**Assets147**|
 |---|---|
 
+## Comparison
 
+✓ JPM’s balance sheet is 16 times **larger** than Google’s
 
-## **Comparison** 
+- ✓ _Accounting_ Equity/Assets is
 
-✓ JPM’s balance sheet is 16 times **larger** than Google’s 
+- ✓ about 10% for JPM
 
-- ✓ _Accounting_ Equity/Assets is 
+- ✓ about 80% for Google
 
-   - ✓ about 10% for JPM 
+- ✓ i.e. **high leverage** of JPM
 
-   - ✓ about 80% for Google 
+- ✓ But also _market value_ of equity of JPM is high: about 2 times
 
-   - ✓ i.e. **high leverage** of JPM 
-
-- ✓ But also _market value_ of equity of JPM is high: about 2 times 
-
-## **(% of total, 2021)** 
+## (% of total, 2021)
 
 |**Assets**|**Liabilities and Net Worth**|
 |---|---|
-|Cash and Reserves<br>2.4<br>10%|Total Deposits<br>19.6<br>83%|
-|Securities<br>7.2<br>31%<br>Treasury<br>1.5<br>6%<br>Agency securities (MBS)<br>3.5<br>15%|Demand/Checkable Deposits<br>6.4<br>27%<br>Savings/Time Deposits<br>13.2<br>56%|
-|Municipal and Corporate Bonds<br>1.7<br>7%|Bonds and other debt<br>0.32<br>1%|
-|Other<br>0.5<br>2%||
-|Loans<br>11.3<br>48%|Other Liabilities<br>1.32<br>6%|
-|Real Estate (Mortgages)<br>5.2<br>22%<br>Commercial and Industrial<br>2.1<br>9%<br>Consumer<br>1.8<br>8%<br>Other<br>2.0<br>9%||
-|||
-||Equity<br>2.3<br>10%|
-|Other Assets<br>2.6<br>11%||
+|Cash and Reserves 2.4 10%|Total Deposits 19.6 83%|
+|Securities 7.2 31% Treasury 1.5 6% Agency securities (MBS) 3.5 15%|Demand/Checkable Deposits 6.4 27% Savings/Time Deposits 13.2 56%|
+|Municipal and Corporate Bonds 1.7 7%|Bonds and other debt 0.32 1%|
+|Other 0.5 2%|
+|Loans 11.3 48%|Other Liabilities 1.32 6%|
+|Real Estate (Mortgages) 5.2 22% Commercial and Industrial 2.1 9% Consumer 1.8 8% Other 2.0 9%|
+|
+|Equity 2.3 10%|
+|Other Assets 2.6 11%|
+*(See also: [[Lect16#^z1qvth]])*
 
+Total **23.6**
 
+Total
 
-Total **23.6** 
+**23.6**
 
-Total 
+## Commercial Banks: Assets
 
-**23.6** 
+## **1. Cash** and **Reserves** (10%)
 
-## **Commercial Banks: Assets** 
+`o` Cash = physical cash in bank’s vault
 
-## **1. Cash** and **Reserves** (10%) 
+`o` Cash items in process of collection (ex: checks)
 
-`o` Cash = physical cash in bank’s vault 
+`o` Reserves = accounts held in an account at the Federal Reserve
 
-`o` Cash items in process of collection (ex: checks) 
+## **2. Securities** (31%)
 
-`o` Reserves = accounts held in an account at the Federal Reserve 
+`o` only debt (by US law commercial banks not allowed to hold equity): look! `o` mostly US Government debt bonds (most liquid) … `o` … but also:
 
-## **2. Securities** (31%) 
+- State and Local Government bonds
 
-`o` only debt (by US law commercial banks not allowed to hold equity): look! `o` mostly US Government debt bonds (most liquid) … `o` … but also: 
+- Mortgage-Backed Securities (see book and optional)
 
-- State and Local Government bonds 
+## **3. Loans** (49%)
 
-▪ Mortgage-Backed Securities (see book and optional) 
+`o` mostly loans to _business_ and _real estate_ loans (=household mortgages) `o` also interbank loans (mainly overnight Fed funds) and consumer loans
 
-## **3. Loans** (49%) 
+## **4. Other assets** (11%)
 
-`o` mostly loans to _business_ and _real estate_ loans (=household mortgages) `o` also interbank loans (mainly overnight Fed funds) and consumer loans 
+## Commercial Banks: Liabilities
 
-## **4. Other assets** (11%) 
+**1. Deposits** (83%) `o` from households and firms. 2 main types:
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` buildings, IT infrastructure... 
+- _Checking/demand deposits_: allow to withdraw at any time (bank must pay immediately)
 
-## **Commercial Banks: Liabilities** 
+- _Nontransaction deposits_ ( _savings accounts, time deposits, certificates of deposits):_ limited withdrawals (4 ex. time deposits and CDs)
 
-**1. Deposits** (83%) `o` from households and firms. 2 main types: 
+**2. Other short-term borrowing** (7%) `o` _Fed discount loans_ and _Fed funds_ (overnight from other banks) `o` Interbank offshore dollar deposits (Eurodollars) `o` Repurchase agreements `o` Commercial paper and notes
 
-- _Checking/demand deposits_ : allow to withdraw at any time (bank must pay immediately) 
+## Off-Balance Sheet
 
-- _Nontransaction deposits_ ( _savings accounts, time deposits, certificates of deposits):_ limited withdrawals (4 ex. time deposits and CDs) 
+- ✓ _Not everything_ is on the balance sheet!
 
-**2. Other short-term borrowing** (7%) `o` _Fed discount loans_ and _Fed funds_ (overnight from other banks) `o` Interbank offshore dollar deposits (Eurodollars) `o` Repurchase agreements `o` Commercial paper and notes 
+- ✓ In the past two decades banks have greatly expanded their fee income generating **off-balance-sheet (** OBS **) activities**
 
-**3. Capital** (10%): difference between assets and liabilities `o` Net Worth of banks (recall NW in previous lecture) `o` Bank capital = new equity + retained earnings Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` it matters for bankruptcy 
+- ✓ OBS do not show up on the balance sheet, `o` but contribute to a greater extent to bank profit and risk (moral hazard)
 
-## **Off-Balance Sheet** 
+## ✓ OBS may include:
 
-- ✓ _Not everything_ is on the balance sheet! 
+_1. Securitization_ (sell loans and repackage them into securities to free up space in balance sheet, also _bad debt_ )
 
-- ✓ In the past two decades banks have greatly expanded their fee income generating **off-balance-sheet (** OBS **) activities** 
+_2. Loan commitments_ (bank agrees to provide _up to $X_ to borrower) 3. Trading/hedging (ForEx, derivatives: options, futures, interest rate
 
-- ✓ OBS do not show up on the balance sheet, `o` but contribute to a greater extent to bank profit and risk (moral hazard) 
+## Off-Balance Sheet
 
-## ✓ OBS may include: 
+- ✓ Banks have an obvious incentive to bring assets onto the balance sheet and _conceal_ liabilities at the same time
 
-_1. Securitization_ (sell loans and repackage them into securities to free up space in balance sheet, also _bad debt_ ) 
+- ✓ OBS activities do not show up in _book_ equity …
 
-_2. Loan commitments_ (bank agrees to provide _up to $X_ to borrower) 3. Trading/hedging (ForEx, derivatives: options, futures, interest rate 
+- ✓ … but are (should be) taken into consideration for **market equity**
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.swaps): risky, conflicts of interest (4 ex.: Barings bank)! 
+`o` **market equity:** equity evaluated at market values but not only!) `o` **market equity =**
 
-## **Off-Balance Sheet** 
+- **+ market value of assets**
 
-- ✓ Banks have an obvious incentive to bring assets onto the balance sheet and _conceal_ liabilities at the same time 
+- **– market value of liabilities**
 
-- ✓ OBS activities do not show up in _book_ equity … 
+- **+ net OBS position**
 
-- ✓ … but are (should be) taken into consideration for **market equity** 
+## Basics of Banking
 
-`o` **market equity:** equity evaluated at market values but not only!) `o` **market equity =** 
+It is helpful to understand some of the simple accounting associated with the process of banking
 
-- **+ market value of assets** 
+✓ Banks engage in **asset transformation**: `o` a bank uses deposits (your savings) to make loans
 
-▪ **– market value of liabilities** 
+✓ Banks tend to “ borrow short and lend long ” `o` in terms of maturity - but it can also lend short term ( _overdraft_ )
 
-▪ **+ net OBS position** 
+## Basics of Banking
 
-✓ Also depends on how much the market knows about OBS Copyright ©2015 Pearson Education, Ltd. All rights reserved.(public vs private info) 
+✓ Let’s work through some simple exercise
 
-## **Basics of Banking** 
+✓ Deposit of $100 cash into First National Bank ✓ How does the bank balance sheet look like?
 
-It is helpful to understand some of the simple accounting associated with the process of banking 
+## Basics of Banking
 
-✓ Banks engage in **asset transformation** : `o` a bank uses deposits (your savings) to make loans 
+✓ Let’s work through some simple exercise
 
-✓ Banks tend to “ borrow short and lend long ” `o` in terms of maturity ▪ but it can also lend short term ( _overdraft_ ) 
+✓ Deposit of $100 cash into First National Bank
 
-## **Basics of Banking** 
+✓ How does the bank balance sheet look like?
 
-✓ Let’s work through some simple exercise 
+Reserves (vault cash)
 
-✓ Deposit of $100 cash into First National Bank ✓ How does the bank balance sheet look like? 
+- ➢ _have you ever been in a bank vault?_
 
-## **Basics of Banking** 
+➢ _so much money (apparently!)_
 
-✓ Let’s work through some simple exercise 
+## Basics of Banking
 
-✓ Deposit of $100 cash into First National Bank 
+✓ Where did the check come from?
 
-✓ How does the bank balance sheet look like? 
+- ✓ From an account the customer held at another bank (Second National Bank)
 
-Reserves (vault cash) 
+- ✓ How does Second National Bank balance sheet look like after the transfer?
 
-**==> picture [240 x 161] intentionally omitted <==**
+Reserves (vault cash)=Reserves
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+`o` when bank receives deposits, reserves - by equal amount `o` when bank loses deposits, reserves - by equal amount
 
+## Basics of Banking
 
-- ➢ _have you ever been in a bank vault?_ 
+# ✓ Suppose there’s a reserve requirement: 10% (of deposits) `o` Required reserves = $10;
 
-➢ _so much money (apparently!)_ 
+- Excess reserves is the rest = $90
 
-## **Basics of Banking** 
+✓ However keeping excess reserves is costly, they yield little (0.25%)… no profit! Alternatively the bank can make loans
 
-✓ Where did the check come from? 
+7-20
 
-- ✓ From an account the customer held at another bank (Second National Bank) 
+## Basics of Banking
 
-- ✓ How does Second National Bank balance sheet look like after the transfer? 
+- ✓ Suppose there’s a reserve requirement: 10% (of deposits) `o` Required reserves = $10;
+- Excess reserves is the rest = $90
 
-**==> picture [680 x 113] intentionally omitted <==**
+# ✓ However keeping excess reserves is costly, they yield little: low profits! Alternatively the bank can make loans
 
-Reserves (vault cash)=Reserves 
+## General Principles of Bank Management
 
-`o` when bank receives deposits, reserves  by equal amount `o` when bank loses deposits, reserves  by equal amount 
+# The bank has four primary concerns: _**A. Liquidity**_ **management**
 
-## **Basics of Banking** 
+# _**B. Asset**_ **management**
 
-# ✓ Suppose there’s a reserve requirement: 10% (of deposits) `o` Required reserves = $10; Excess reserves is the rest = $90 
+# _**C. Liability**_ **management**
 
-**==> picture [517 x 114] intentionally omitted <==**
+**D. Managing** _**capital adequacy**_
 
-✓ However keeping excess reserves is costly, they yield little (0.25%)… no profit! Alternatively the bank can make loans 
+## A. Liquidity Management
 
-✓ The bank has thus _transformed_ into loans Copyright ©2015 Pearson Education, Ltd. All rights reserved. deposits 
+- ✓ The need for **liquidity management** arises because of:
 
-7-20 
+- _maturity mismatch_
 
-## **Basics of Banking** 
+- the maturity of banks’ assets is generally longer
 
-- ✓ Suppose there’s a reserve requirement: 10% (of deposits) `o` Required reserves = $10; Excess reserves is the rest = $90 
+- `o` than the maturity of their liabilities
 
-**==> picture [517 x 114] intentionally omitted <==**
+- ✓ Therefore, a bank may have
 
-# ✓ However keeping excess reserves is costly, they yield little: low profits! Alternatively the bank can make loans 
+- to meet its obligations (pay its creditors: depositors, etc …)
 
-**==> picture [517 x 120] intentionally omitted <==**
+- `o` before it receives the proceeds from its assets (loans, etc..)
 
-✓ The bank has thus _transformed_ into loans Copyright ©2015 Pearson Education, Ltd. All rights reserved. deposits 
+- ✓ _Liquidity management_ deals with _maturity mismatch_: `o` it ensures that there is enough **cash/reserves** to pay its creditors when they wish to withdraw their money
 
-## **General Principles of Bank Management** 
+- ✓ Furthermore, banks need to have enough **reserves** to satisfy the _minimum reserve requirements_
 
-# The bank has four primary concerns: _**A. Liquidity**_ **management** 
+## A. Liquidity Management
 
-# _**B. Asset**_ **management** 
+Reserves requirement = 10% of deposits=$10M So, excess reserves = $10M
 
-# _**C. Liability**_ **management** 
+Suppose a **deposit outflow** of $10 million occurs
 
-**D. Managing** _**capital adequacy**_ 
+Now excess reserves = 10 – (0.1 × 90)=$1 million **With ample excess reserves, no changes needed in balance sheet**
 
-## **A. Liquidity Management** 
+## A. Liquidity Management
 
-- ✓ The need for **liquidity management** arises because of : 
+Reserves requirement = 10% of deposits=$10M So, excess reserves = $10M
 
-- _maturity mismatch_ 
+Suppose a **deposit outflow** of $10 million occurs
 
-   - the maturity of banks’ assets is generally longer 
+## A. Liquidity Management
 
-   - `o` than the maturity of their liabilities 
+Suppose the banks wants to keep **0** excess reserves, so it can make more loans (more profitable)
 
-- ✓ Therefore, a bank may have 
+Suppose the same deposit outflow of $10 million occurs
 
-   - to meet its obligations (pay its creditors: depositors, etc …) 
+## A. Liquidity Management
 
-   - `o` before it receives the proceeds from its assets (loans, etc..) 
+**0** Suppose the banks wants to keep excess reserves, so it can make more loans (more profitable)
 
-- ✓ _Liquidity management_ deals with _maturity mismatch_ : `o` it ensures that there is enough **cash/reserves** to pay its creditors when they wish to withdraw their money 
+Suppose the same deposit outflow of $10 million occurs
 
-- ✓ Furthermore, banks need to have enough **reserves** to satisfy the _minimum reserve requirements_ 
+Bank has $9 million **reserve shortfall!**
 
-## **A. Liquidity Management** 
+What can the bank do in case it has no excess reserves?
 
-**==> picture [582 x 132] intentionally omitted <==**
+## A. Liquidity Management
 
-Reserves requirement = 10% of deposits=$10M So, excess reserves = $10M 
+## **1. Borrow from other banks** Cost: Federal Funds rate (o/n)
 
-Suppose a **deposit outflow** of $10 million occurs 
+**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”)
 
-**==> picture [589 x 133] intentionally omitted <==**
+## A. Liquidity Management
 
-Now excess reserves = 10 – (0.1 × 90)=$1 million **With ample excess reserves, no changes needed in balance sheet** 
+## **1. Borrow from other banks** Cost: Federal Funds rate (o/n)
 
-## **A. Liquidity Management** 
+**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”)
 
-**==> picture [582 x 132] intentionally omitted <==**
+7-29
 
-Reserves requirement = 10% of deposits=$10M So, excess reserves = $10M 
+## A. Liquidity Management
 
-Suppose a **deposit outflow** of $10 million occurs 
+## **1. Borrow from other banks** Cost: Federal Funds rate (o/n)
 
-**==> picture [589 x 133] intentionally omitted <==**
+**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”)
 
-Now excess reserves = $10M – (0.1 × $90M) = $10M –$9M = $1M With **excess** reserves **no ample , changes** needed in other parts of Copyright ©2015 Pearson Education, Ltd. All rights reserved.balance sheet 
+## A. Liquidity Management
 
-## **A. Liquidity Management** 
+## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate)
 
-Suppose the banks wants to keep **0** excess reserves, so it can make more loans (more profitable) 
+**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_
 
-**==> picture [56 x 61] intentionally omitted <==**
+## A. Liquidity Management
 
-**----- Start of picture text -----**<br>
-$10<br>$90<br>**----- End of picture text -----**<br>
+## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate)
 
+**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_
 
-Suppose the same deposit outflow of $10 million occurs 
+## A. Liquidity Management
 
-## **A. Liquidity Management** 
+## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate)
 
-**0** Suppose the banks wants to keep excess reserves, so it can make more loans (more profitable) 
+**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_
 
-$10 $90 
+## A. Liquidity Management
 
-Suppose the same deposit outflow of $10 million occurs 
+## Conclusion:
 
-**==> picture [583 x 128] intentionally omitted <==**
+_excess reserves_ are **insurance** against above 4 costs from deposit outflows
 
-Bank has $9 million **reserve shortfall!** 
+- ✓ Liquidity management consists of `o` minimizing the risk of inefficient liquidation
 
-What can the bank do in case it has no excess reserves? 
+- ✓ and it involves the choice of assets facing the trade off `o` banks are **willing** to hold excess reserves in order to avoid these costs
 
-## **A. Liquidity Management** 
+`o` however, **large** excess reserves holdings substantially reduce the profitability of the bank (less loans)!
 
-## **1. Borrow from other banks** Cost: Federal Funds rate (o/n) 
+- ✓ In other terms: liquid, short-term securities …
 
-**==> picture [628 x 163] intentionally omitted <==**
+- … are _easy to convert_ into cash if liquidity problems (deposit
 
-**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”) 
+- outflows) occur
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- … but they _yield less_ than long-term illiquid assets
 
-## **A. Liquidity Management** 
+## B. Asset Management
 
-## **1. Borrow from other banks** Cost: Federal Funds rate (o/n) 
+## Bank must manage the composition of its assets
 
-**==> picture [600 x 156] intentionally omitted <==**
+✓ Esentially, banks seek to
 
-**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”) 
+`o` earn high returns on securities and loans `o` without taking too much risk
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- ✓ How? Strategies to attain this goal: `o` screening of borrowers
 
-7-29 
+- to make loans with low default risk and high interest rates `o` investment in securities (with low risk and high returns) `o` diversification (to further reduce risk)
 
-## **A. Liquidity Management** 
+`o` careful liquidity management      keeping adequate liquid assets - such as _excess reserves_ and _secondary reserves_
 
-## **1. Borrow from other banks** Cost: Federal Funds rate (o/n) 
+## C. Liability Management
 
-**==> picture [600 x 156] intentionally omitted <==**
+## Bank management of the liability side of its balance sheet
 
-**2. Sell securities** Cost: transaction costs (low if use government securities, highly liquid, also named as “secondary reserves”) 
+✓ Before the 1960’s:
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- banks considered the liability side as given (they tried to allocate the funds optimally given the amount of deposits they had)
 
-## **A. Liquidity Management** 
+## ✓ Since the 1960’s:
 
-## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate) 
+`o` _money center banks_ (large banks in NY, Chicago, SFO) started retrieving funds more actively from the money market: the overnight market, CD’s, etc…
 
-**==> picture [670 x 162] intentionally omitted <==**
+## ✓ Today:
 
-**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_ 
+- if a money center bank needs increase liabilities (to get an attractive loan opportunity or with low reserves)
 
-**==> picture [670 x 137] intentionally omitted <==**
+- it may simply sell a negotiable CD or go overnight with Fed funds mkt `o` while small banks remain more dependent on deposits `o` most banks now manage assets and liabilities together ( _ALM Committee_ )
 
-## **A. Liquidity Management** 
+## D. Capital Adequacy Management
 
-## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate) 
+- ✓ **Capital/Equity/Net Worth** is the difference between assets and liabilities
 
-**==> picture [579 x 151] intentionally omitted <==**
+- ✓ Funds supplied by bank owners (shareholders):
 
-**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_ 
+`o` either directly via purchases of shares
 
-**==> picture [670 x 137] intentionally omitted <==**
+- or through retention of **retained earnings** (portion of profits that are not distributed through dividends)
 
-## **A. Liquidity Management** 
+## ✓ When losses occur,
 
-## **3. Borrow from Fed** (discount window) Cost: _discount rate_ (higher than Fed Funds rate) 
+- they first get subtracted from the bank’s net worth, before other creditors get affected
 
-**==> picture [579 x 151] intentionally omitted <==**
+- ✓ If assets drop below the value of liabilities …
 
-**4. Call in loans** (not renew) or **sell off loans** Cost: _antagonize_ clients or _low liquidity_ in secondary market for loans _(fire sale prices)_ 
+`o` … the bank’s net worth (book value) becomes **negative**
 
-**==> picture [574 x 129] intentionally omitted <==**
+- ✓ Negative net worth means that the bank is **insolvent**
 
-## **A. Liquidity Management** 
+## D. Capital Adequacy Management
 
-## Conclusion: 
+Banks need to manage the amount of capital held for 2 main reasons:
 
-_excess reserves_ are **insurance** against above 4 costs from deposit outflows 
+1. … a strong capital stock **protects from bank failure**
 
-- ✓ Liquidity management consists of `o` minimizing the risk of inefficient liquidation 
+`o` bank capital is a _cushion_ that prevents bank failure `o` there are regulatory _minimum capital requirements_
 
-- ✓ and it involves the choice of assets facing the trade off `o` banks are **willing** to hold excess reserves in order to avoid these costs 
+2. … but reduces its **profitability**
 
-`o` however, **large** excess reserves holdings substantially reduce the profitability of the bank (less loans)! 
+- ✓ Again, _trade – off_ between points 1 and 2
 
-- ✓ In other terms: liquid, short-term securities … 
+## D. Capital Adequacy Management
 
-   - … are _easy to convert_ into cash if liquidity problems (deposit 
+## 1) Bank capital is a cushion that prevents bank failure For example, these two banks differ in capital
 
-   - outflows) occur 
+## Assume both banks lose $5M from bad loans
 
-- … but they _yield less_ than long-term illiquid assets 
+(ex.: _subprime mortgage loans_ )
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+✓ Low capital bank is insolvent:
 
-## **B. Asset Management** 
+7-39
 
-## **Bank must manage the composition of its assets** 
+## D. Capital Adequacy Management
 
-✓ Esentially, banks seek to 
+## 1) Bank capital is a cushion that prevents bank failure For example, these two banks differ in capital
 
-`o` earn high returns on securities and loans `o` without taking too much risk 
+## Assume both banks lose $5M from bad loans
 
-- ✓ How? Strategies to attain this goal: `o` screening of borrowers 
+(ex.: _subprime mortgage loans_ )
 
-▪ to make loans with low default risk and high interest rates `o` investment in securities (with low risk and high returns) `o` diversification (to further reduce risk) 
+## D. Capital Adequacy Management
 
-`o` careful liquidity management      keeping adequate liquid assets ▪ such as _excess reserves_ and _secondary reserves_ 
+2) Capital reduces profitability Assume both banks make $1M of net income
 
-## **C. Liability Management** 
+## Return _per unit_ of capital
 
-## **Bank management of the liability side of its balance sheet** 
+Return _per unit_ of capital
 
-✓ Before the 1960’s: 
+- ✓ So banks naturally may **not** want to hold **high** level of capital (even if it improves solvency)
 
-- banks considered the liability side as given (they tried to allocate the funds optimally given the amount of deposits they had) 
+## D. Capital Adequacy Management
 
-## ✓ Since the 1960’s: 
+✓ Problem is with equity holders
 
-`o` _money center banks_ (large banks in NY, Chicago, SFO) started retrieving funds more actively from the money market: the overnight market, CD’s, etc… 
+`o` _trade off_:
 
-## ✓ Today: 
+- incentive to reduce bank capital is higher
 
-- if a money center bank needs increase liabilities (to get an attractive loan opportunity or with low reserves) 
+- than one to maintain the bank stable (and not be wiped out in bankruptcy)
 
-▪ it may simply sell a negotiable CD or go overnight with Fed funds mkt `o` while small banks remain more dependent on deposits `o` most banks now manage assets and liabilities together ( _ALM Committee_ ) 
+- since equity holders do not fully _internalize_ the **social cost of bank failures** (4ex.: bank runs), they would make choices (of capital level as well as banks’ attitude to risk)
 
-## **D. Capital Adequacy Management** 
+- that are optimal for _themselves_
 
-- ✓ **Capital/Equity/Net Worth** is the difference between assets and liabilities 
+- - but _not for society (bank runs)_
 
-- ✓ Funds supplied by bank owners (shareholders): 
+- ✓ Solution: Government imposes _mimimum capital requirements_ `o` purpose is to avoid bank failures (bank runs: see lecture 20 to 22)
 
-`o` either directly via purchases of shares 
+- `o` _align_ incentives of shareholders with the objective of keeping banks stable
 
-- or through retention of **retained earnings** (portion of profits that are not distributed through dividends) 
+## Bank Performance
 
-## ✓ When losses occur, 
+Interest Income + NonInterest Income = **Operating Income**
 
-   - they first get subtracted from the bank’s net worth, before other creditors get affected 
+# Interest Expenses + NonInterest Expenses = **Operating Expenses**
 
-- ✓ If assets drop below the value of liabilities … 
+Operating Income (+) – O eratin Ex enses = p g p ( ) **Net Operating Income**
 
-`o` … the bank’s net worth (book value) becomes **negative** 
+– Taxes extraordinar items loan losses rovision , y , p ( ) **Net Income***
 
-- ✓ Negative net worth means that the bank is **insolvent** 
+7-43
 
-## **D. Capital Adequacy Management** 
+## Bank Performance
 
-Banks need to manage the amount of capital held for 2 main reasons: 
+## ✓ **Return on Assets(*)**:
 
-1. … a strong capital stock **protects from bank failure** 
+## 𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒
 
-`o` bank capital is a _cushion_ that prevents bank failure `o` there are regulatory _minimum capital requirements_ 
+𝑅𝑂𝐴 =
 
-2. … but reduces its **profitability** 
+𝐴𝑠𝑠𝑒𝑡𝑠
 
-- ✓ Again, _trade – off_ between points 1 and 2 
+`o` _ROA_ gives a _broad idea_ of how well the bank is using its assets to generate income
 
-## **D. Capital Adequacy Management** 
+- ✓: **Return on Equity(*)**
 
-## 1) Bank capital is a cushion that prevents bank failure For example, these two banks differ in capital 
+𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒
 
-**==> picture [353 x 105] intentionally omitted <==**
+𝑅𝑂𝐸 = 𝐸𝑞𝑢𝑖𝑡𝑦
 
-**==> picture [351 x 105] intentionally omitted <==**
+`o` _ROE_ is what owners (equity holders) ultimately care about: this is the return they get on the capital they provided to the bank
 
-## Assume both banks lose $5M from bad loans 
+(*): ROA and ROE also used for performance of non-financial firms
 
-(ex.: _subprime mortgage loans_ ) 
+## Bank Performance
 
-✓ Low capital bank is insolvent: 
+✓ The two are linked … with the **Equity Multiplier (EM)**:
 
-`o` Copyright ©2015 Pearson Education, Ltd. All rights reserved.even if it sold all its asset, not enough $ to pay all creditors 
+𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑀= 𝐸𝑞𝑢𝑖𝑡𝑦
 
-7-39 
+## Note that 𝐸𝑀> 1 , so that
 
-## **D. Capital Adequacy Management** 
+## 𝑅𝑂𝐸= 𝑅𝑂𝐴× 𝐸𝑀
 
-## 1) Bank capital is a cushion that prevents bank failure For example, these two banks differ in capital 
+𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝐴𝑠𝑠𝑒𝑡𝑠 = × 𝐸𝑞𝑢𝑖𝑡𝑦 𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑞𝑢𝑖𝑡𝑦
 
-**==> picture [353 x 105] intentionally omitted <==**
+✓ For a given ROA and Assets, bank shareholders (who care about ROE) would like to attain a high ROE, by choosing a low amount of capital (high EM):
 
-**==> picture [351 x 105] intentionally omitted <==**
+`o` the smaller the ratio of capital to assets ( 1/𝐸𝑀↓ ), the greater the ROE, for a given Net Income; or also: if 𝐸𝑀↑⟹𝑅𝑂𝐸↑
 
-## Assume both banks lose $5M from bad loans 
+## Bank Performance
 
-(ex.: _subprime mortgage loans_ ) 
+## Net Interest Margin
 
-**==> picture [137 x 46] intentionally omitted <==**
+# 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 𝑁𝐼𝑀 = 𝐴𝑠𝑠𝑒𝑡𝑠
 
-**==> picture [351 x 109] intentionally omitted <==**
+## ✓ _NIM_ is the _spread_ between
 
-**==> picture [136 x 46] intentionally omitted <==**
+`o` what the bank earns in _interest_ income
 
-**==> picture [351 x 108] intentionally omitted <==**
+and
 
-✓ High capital is solvent, while Low capital bank is insolvent: `o` Copyright ©2015 Pearson Education, Ltd. All rights reserved.even if it sold all its asset, not enough $ to pay all creditors 
+`o` what it has to pay as _interest_ on its liabilities
 
-## **D. Capital Adequacy Management** 
+- ✓ _NIM_ measures how well the bank generates income from its _primary (core) function_:
 
-2) Capital reduces profitability Assume both banks make $1M of net income 
+- issuing liabilities and investing in _interest-earning_ assets
 
-**==> picture [353 x 106] intentionally omitted <==**
+## Chapter Summary
 
-**==> picture [351 x 106] intentionally omitted <==**
+- ✓ **The Bank Balance Sheet**: we reviewed the basic assets, liabilities, and bank capital that make up the balance sheet
 
-**==> picture [137 x 46] intentionally omitted <==**
+- ✓ **Off-Balance Sheet Activities**: we briefly reviewed some of the (risky) activities that banks engage in that don ’ t appear on the balance sheet
 
-## Return _per unit_ of capital 
+- ✓ **Basics of Banking**: we examined the accounting entries for a series of simple bank transactions
 
-**==> picture [136 x 46] intentionally omitted <==**
+- ✓ **General Principles of Bank Management**: we discussed the roles of liquidity, liability, asset, and capital adequacy management for a bank
 
-Return _per unit_ of capital 
+- ✓ **Measuring Bank Performance**: we reviewed the key ratios commonly used for measuring and comparing bank performance
 
-$1𝑀 $10𝑀[= 𝟏𝟎%] 
+## **Table 17.2 Income Statement for All Federally Insured Banks, 2015** (1 of 2)
 
-$1𝑀 $4𝑀[= 𝟐𝟓%][$] 
-
-- ✓ So banks naturally may **not** want to hold **high** level of capital (even if it improves solvency) 
-
-## **D. Capital Adequacy Management** 
-
-✓ Problem is with equity holders 
-
-`o` _trade off_ : 
-
-      - incentive to reduce bank capital is higher 
-
-      - than one to maintain the bank stable (and not be wiped out in bankruptcy) 
-
-   - since equity holders do not fully _internalize_ the **social cost of bank failures** (4ex.: bank runs), they would make choices (of capital level as well as banks’ attitude to risk) 
-
-      - that are optimal for _themselves_ 
-
-      - ▪ but _not for society (bank runs)_ 
-
-- ✓ Solution: Government imposes _mimimum capital requirements_ `o` purpose is to avoid bank failures (bank runs: see lecture 20 to 22) 
-
-- `o` _align_ incentives of shareholders with the objective of keeping banks stable 
-
-## **Bank Performance** 
-
-Interest Income + NonInterest Income = **Operating Income** 
-
-# Interest Expenses + NonInterest Expenses = **Operating Expenses** 
-
-Operating Income (+) – O eratin Ex enses = p g p ( ) **Net Operating Income** 
-
-– Taxes extraordinar items loan losses rovision , y , p ( ) **Net Income*** 
-
-***:** Copyright ©2015 Pearson Education, Ltd. All rights reserved.in the book this is also named as «net profit after taxes» 
-
-7-43 
-
-## **Bank Performance** 
-
-## ✓ **Return on Assets[*]** : 
-
-## 𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒 
-
-𝑅𝑂𝐴 = 
-
-𝐴𝑠𝑠𝑒𝑡𝑠 
-
-`o` _ROA_ gives a _broad idea_ of how well the bank is using its assets to generate income 
-
-- ✓ : **Return on Equity[*]** 
-
-𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒 
-
-𝑅𝑂𝐸 = 𝐸𝑞𝑢𝑖𝑡𝑦 
-
-`o` _ROE_ is what owners (equity holders) ultimately care about: this is the return they get on the capital they provided to the bank 
-
-(*): ROA and ROE also used for performance of non-financial firms 
-
-## **Bank Performance** 
-
-✓ The two are linked … with the **Equity Multiplier (EM)** : 
-
-𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑀= 𝐸𝑞𝑢𝑖𝑡𝑦 
-
-## Note that 𝐸𝑀> 1 , so that 
-
-## 𝑅𝑂𝐸= 𝑅𝑂𝐴× 𝐸𝑀 
-
-𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝐴𝑠𝑠𝑒𝑡𝑠 = × 𝐸𝑞𝑢𝑖𝑡𝑦 𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑞𝑢𝑖𝑡𝑦 
-
-✓ For a given ROA and Assets, bank shareholders (who care about ROE) would like to attain a high ROE, by choosing a low amount of capital (high EM): 
-
-`o` the smaller the ratio of capital to assets [ 1/𝐸𝑀↓ ], the greater the ROE, for a given Net Income; or also: if 𝐸𝑀↑⟹𝑅𝑂𝐸↑ 
-
-`o` but in uncertain times, better increase bank capital (accept lower EM) Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` if have huge losses, difficult to raise capital (credit crunch: lect. 21!) 
-
-## **Bank Performance** 
-
-## : **Net Interest Margin** 
-
-# 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 𝑁𝐼𝑀 = 𝐴𝑠𝑠𝑒𝑡𝑠 
-
-## ✓ _NIM_ is the _spread_ between 
-
-`o` what the bank earns in _interest_ income 
-
-and 
-
-`o` what it has to pay as _interest_ on its liabilities 
-
-- ✓ _NIM_ measures how well the bank generates income from its _primary (core) function_ : 
-
-   - issuing liabilities and investing in _interest-earning_ assets 
-
-## **Chapter Summary** 
-
-- ✓ **The Bank Balance Sheet** : we reviewed the basic assets, liabilities, and bank capital that make up the balance sheet 
-
-- ✓ **Off-Balance Sheet Activities** : we briefly reviewed some of the (risky) activities that banks engage in that don ’ t appear on the balance sheet 
-
-- ✓ **Basics of Banking** : we examined the accounting entries for a series of simple bank transactions 
-
-- ✓ **General Principles of Bank Management** : we discussed the roles of liquidity, liability, asset, and capital adequacy management for a bank 
-
-- ✓ **Measuring Bank Performance** : we reviewed the key ratios commonly used for measuring and comparing bank performance 
-
-## **Table 17.2 Income Statement for All Federally Insured Banks, 2015** (1 of 2) 
-
-|Blank|**Amount**<br>**($billio**<br>**ns)**|Blank|**Share of**<br>**Operating Income**<br>**or Expense(%)**|Blank|
+|Blank|**Amountor Expense(%)**|Blank|
 |---|---|---|---|---|
 |**Operating Income**|Blank|Blank|Blank|Blank|
 |Interest income|Blank|478.5|Blank|65.4|
@@ -730,15 +592,13 @@ and
 |Interest onsecurities|70.5|Blank|9.6|Blank|
 |Other interest|26.0|Blank|3.6|Blank|
 |Noninterest income|Blank|253.3|Blank|34.6|
-|Service charges on<br>deposit accounts|34.6|Blank|4.7|Blank|
+|Service charges on deposit accounts|34.6|Blank|4.7|Blank|
 |Other noninterest income|218.7|Blank|29.9|Blank|
 |Total operatingincome|Blank|731.8|Blank|100.0|
 
+## **Table 17.2 Income Statement for All Federally Insured Banks, 2015** (2 of 2)
 
-
-## **Table 17.2 Income Statement for All Federally Insured Banks, 2015** (2 of 2) 
-
-|Blank|**Amount**<br>**($billions)**|Blank|**Share of Operating**<br>**Income or**<br>**Expense(%)**|Blank|
+|Blank|**AmountExpense(%)**|Blank|
 |---|---|---|---|---|
 |**Operating Expenses**|Blank|Blank|Blank|Blank|
 |Interest expense|Blank|46.5|Blank|9.3|
@@ -752,7 +612,9 @@ and
 |Provisions for loan losses|37.0|Blank|Blank|7.4|
 |Total operatingexpense|500.8|Blank|Blank|100.0|
 
+7-49
 
-
-7-49 
-
+## Related Notes
+- [[Lect16]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]
+- [[Lect16_exercises]]

@@ -1,14 +1,25 @@
-**==> picture [421 x 132] intentionally omitted <==**
+---
+course: "Statistics"
+course_code: "30001"
+tags:
+  - "source"
+  - course_30001
+Title: "Categorical Variables in Multiple Linear Regression"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [444 x 182] intentionally omitted <==**
+##
 
-**==> picture [11 x 5] intentionally omitted <==**
+##
 
-## 
+##
 
-## 
+##
 
-## 
-
-## 
-
+## Related Notes
+- [[PEPUS-X]]
+- [[THE GREAT PEPUS]]
+- Computation of b0 and b1 through Least Squares 

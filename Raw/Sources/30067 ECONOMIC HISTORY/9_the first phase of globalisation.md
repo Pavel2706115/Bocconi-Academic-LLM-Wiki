@@ -1,946 +1,581 @@
-THE FIRST GLOBALIZATION ALFANI-COLLI, CH. 9.1-9.2 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "9_the first phase of globalisation"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Economic History 30067 Ay 2025/2026 Sonia Schifano 
+THE FIRST GLOBALIZATION ALFANI-COLLI, CH. 9.1-9.2
 
-## IN THIS EPISODE 
+Economic History 30067 Ay 2025/2026 Sonia Schifano
 
-- How to define globalization? 
+## IN THIS EPISODE
 
-- The four pillars of globalization: 
+- How to define globalization?
 
-   - economic integration 
+- The four pillars of globalization:
 
-   - transport and communication 
+- economic integration
 
-   - trade policies 
+- transport and communication
 
-   - gold standard 
+- trade policies
 
-- Globalization and migrations 
+- gold standard
 
-- Globalization and imperialism 
+- Globalization and migrations
 
-**==> picture [419 x 334] intentionally omitted <==**
+- Globalization and imperialism
 
-a.y. 2025/2026 
+## DEFINITION
 
-30067 
+- Globalization could be defined as a process of political, economic, social, and cultural integration characterised by the rapid and easy transfer of goods (international trade), capital (international investments), knowledge, and people (migration)
 
-2 
+- It is not a spontaneous process, it is based on
 
-## DEFINITION 
+- Technology
 
-- Globalization could be defined as a process of political, economic, social, and cultural integration characterised by the rapid and easy transfer of goods (international trade), capital (international investments), knowledge, and people (migration) 
+- Political choices
 
-- It is not a spontaneous process, it is based on 
+## HOW IS DEGLOBALIZATION POSSIBLE?
 
-   - Technology 
+## GLOBALIZATION
 
-   - Political choices 
+How to define **globalization**
 
-!!! It is a reversable process !!! 
+Distinction between two kind of globalization:
 
-a.y. 2025/2026 
+- **Soft** globalization: when the Old World became directly connected with the Americas in 1571 via Manila (Flinn, Giráldez 2004)
 
-30067 
+- **Hard** globalization: integration of markets across space during the nineteenth century (O’Rourke, Williamson 2004)
 
-3 
+## SOFT OR PROTO GLOBALIZATION
 
-## HOW IS DEGLOBALIZATION POSSIBLE? 
+- The opening up of the World
 
-a.y. 2025/2026 
+- Silk Road
 
-30067 
+- More connections with respect to Africa, America, Asia
 
-4 
+- This resulted in more
 
-**==> picture [960 x 530] intentionally omitted <==**
+- Trades and connection
 
-**----- Start of picture text -----**<br>
-Go to the article<br>Read more:<br>«The European Union seems an unorthodox champion of free trade. Beyond<br>a few purveyors of handbags and slimming drugs, few of its big companies<br>compete successfully with rivals from America and China, the world’s two<br>30067 biggest economies.»<br>**----- End of picture text -----**<br>
+- Exchanges of ideas and food
 
+- Printing
 
-## GLOBALIZATION 
+- E.g. Potatoes (considered as easy bread) arrived in Europe and Asia being able to sustain population growth
 
-How to define **globalization** 
+- Mobility of production factors (especially labour)
 
-Distinction between two kind of globalization: 
+- → Failed to accelerate because of the lack of interaction and technology
 
-- **Soft** globalization: when the Old World became directly connected with the Americas in 1571 via Manila (Flinn, Giráldez 2004) 
+- → Slow transportation
 
-- **Hard** globalization: integration of markets across space during the nineteenth century (O’Rourke, Williamson 2004) 
+- → High transportation costs
 
-a.y. 2025/2026 
+## HARD OR FIRST GLOBALIZATION 1850-1914
 
-30067 
+- Industrial Revolution
 
-6 
+- Cheap production of household items
 
-## SOFT OR PROTO GLOBALIZATION 
+- Rapid population growth
 
-- The opening up of the World 
+- sustained demand for commodities
 
-   - Silk Road 
+- Transportation costs reduced
 
-   - More connections with respect to Africa, America, Asia 
+- People and goods travelled faster
 
-- This resulted in more 
+- Communication increased and became faster
 
-   - Trades and connection 
+- International capital market and foreign exchange market
 
-   - Exchanges of ideas and food 
+- Stock Exchanges of London, Paris, Amsterdam, Frankfurt
 
-      - Printing 
+## FIRT GLOBALIZATION 1850-1914
 
-      - E.g. Potatoes (considered as easy bread) arrived in Europe and Asia being able to sustain population growth 
+## 1 – ECONOMIC INTEGRATION
 
-   - Mobility of production factors (especially labour) 
+Globalization means price convergence
 
-**==> picture [336 x 260] intentionally omitted <==**
+NB: convergence only occurs when there is market integration. Where there are high tariff barriers, prices do not converge
 
-- → Failed to accelerate because of the lack of interaction and technology 
+## 1 – ECONOMIC INTEGRATION
 
-   - → Slow transportation 
+In a globalized world, price fluctuations propagate more rapidly.
 
-   - → High transportation costs 
+- In pre-industrial economies, price fluctuations were influenced by local or regional phenomena, often caused by "natural" factors such as droughts, famines, or floods, which had repercussions on crop yields or the supply of precious metals (commodity money).
 
-a.y. 2025/2026 
+- With industrialization, fluctuations increasingly became linked to the "state of trade" and demand fluctuations. In other words, as the economy integrated, price fluctuations took on a more cyclic nature.
 
-30067 
+→ **Synchronization of various national economies** → **Crisis become systemic** → **Convergence of prices (law of one price)**
 
-7 
+→ **Increase in international mobility of goods, labour, and capital**
 
-## HARD OR FIRST GLOBALIZATION 1850-1914 
+## 1 – ECONOMIC INTEGRATION
 
-**==> picture [310 x 198] intentionally omitted <==**
+## 1 – ECONOMIC INTEGRATION
 
-- Industrial Revolution 
+In addition to the movement of goods, the movement of capital was fundamental for the international market integration.
 
-   - Cheap production of household items 
+## Factors
 
-- Rapid population growth 
+- prolonged period of peace
 
-   - sustained demand for commodities 
+- - gold standard
 
-- Transportation costs reduced 
+- - presence of raw materials in target countries
 
-**==> picture [200 x 217] intentionally omitted <==**
+- Forms of international capital flows: portfolio investments (purchase of stocks and bonds) foreign direct investments (FDI, i.e., multinational corporations)
 
-   - People and goods travelled faster 
+## 1 – ECONOMIC INTEGRATION
 
-- Communication increased and became faster 
+- Capital export is based on gold or foreign exchange
 
-- International capital market and foreign exchange market 
+- Main reason: The expectation of a higher rate of return abroad than at home
 
-   - Stock Exchanges of London, Paris, Amsterdam, Frankfurt 
+- Some actors: markets for foreign exchange, stock and bond markets, central banks, private and joinstock investment banks
 
-a.y. 2025/2026 
+- They all increased during the 19(th) century
 
-30067 
+- The period 1896-1914 has been labeled “The Golden Age of Global Capitalism” (Frieden, Global Capitalism, 2006)
 
-8 
+https://www.youtube.com/watch?v=NiZI7YnAhp8
 
-## FIRT GLOBALIZATION 1850-1914 
+## 2 – TRANSPORT AND COMMUNICATION
 
-**==> picture [20 x 37] intentionally omitted <==**
+## 2 – TRANSPORT AND COMMUNICATION
 
-**==> picture [364 x 331] intentionally omitted <==**
+- The intensification of trade and financial flows was made possible by a (further) **revolution in**:
 
-**----- Start of picture text -----**<br>
-Transport and<br>communicatio<br>n<br>Economic  Trade<br>integration policies<br>Gold<br>standard<br>**----- End of picture text -----**<br>
+- **transport and communications**
 
+- Trains and steam navigation
 
-a.y. 2025/2026 
+- Suez Canal (1859-69) and Panama Canal (1881)
 
-30067 
+- The main consequences were:
 
-9 
+- The decline in transport costs
 
-## 1 – ECONOMIC INTEGRATION 
+- The creation of a national (and later international) market served quickly, extensively, and reliably
 
-Globalization means price convergence 
+## 2 – TRANSPORT AND COMMUNICATION
 
-NB: convergence only occurs when there is market integration. Where there are high tariff barriers, prices do not converge 
+- Telegraph (1840)
 
-**==> picture [612 x 444] intentionally omitted <==**
+- Transatlantic cables (1860)
 
-a.y. 2025/2026 
+- Telephone (1870)
 
-30067 
+_«It is a more glorious triumph, because it is much more useful to humanity, than anything everwon on the battlefield. May the Atlantic Telegraph, under the blessing of heaven, prove a bond of perpetual peace and friendship between kindred nations, and an instrument destined by Divine Providence to spread religion, civilization, liberty and law throughout the world»_
+*(See also: [[13_Economic Instability#^a1jtyx]])*
 
-10 
+_Queen Vittoria 1858 (celebration of the first transatlantic cable)_
 
-## 1 – ECONOMIC INTEGRATION 
+“The inhabitant of London could order by telephone, sipping his morning tea in bed, the various products of the whole Earth, in such quantity as he might see fit, and reasonably expect their early delivery upon his doorstep.”
 
-In a globalized world, price fluctuations propagate more rapidly. 
+John Maynard Keynes (1883-1946)
 
-- In pre-industrial economies, price fluctuations were influenced by local or regional phenomena, often caused by "natural" factors such as droughts, famines, or floods, which had repercussions on crop yields or the supply of precious metals (commodity money). 
+## 3 – TRADE POLICIES
 
-- With industrialization, fluctuations increasingly became linked to the "state of trade" and demand fluctuations. In other words, as the economy integrated, price fluctuations took on a more cyclic nature. 
+We have seen that many Countries relied upon protectionist measures during the 19(th) century, but…
 
-→ **Synchronization of various national economies** → **Crisis become systemic** → **Convergence of prices (law of one price)** 
+- David Ricardo, _On the Principles of Political Economy and taxation_ (1819)
 
-→ **Increase in international mobility of goods, labour, and capital** 
+- Adam Smith, _The Wealth of Nations_ (1776)
 
-a.y. 2025/2026 
+- John Stuart Mill, _Principles of political economy_ (1848)
 
-30067 
+In these works, the authors advocated the beneficial effects of
 
-11 
+- the law of comparative advantage
 
-## 1 – ECONOMIC INTEGRATION 
+- division of labour (including international division of labour)
 
-**==> picture [482 x 314] intentionally omitted <==**
+- the functioning of a market free from any form of artificial barriers.
 
-**==> picture [460 x 267] intentionally omitted <==**
+All of this would lead to an optimal allocation of resources
 
-a.y. 2025/2026 
+## → THESE THEORIES RESTED ON PURE LOGICAL GROUND
 
-30067 
+## 3 – TRADE POLICIES
 
-12 
+- Different phases of English trade policies
 
-## 1 – ECONOMIC INTEGRATION 
+- England used mercantilism first and then protectionism
 
-In addition to the movement of goods, the movement of capital was fundamental for the international market integration. 
+- And (as anticipated last week) only from the mid-19(th) century moved to FREE TRADE policies
 
-**==> picture [523 x 292] intentionally omitted <==**
+## HOW and WHY?
 
-## Factors 
+## 3 – TRADE POLICIES
 
-- prolonged period of peace 
+- The best known protectionist measures of the early 19th century are certainly the English Corn Laws, in force from 1815 to 1846.
 
-- • gold standard 
+- In England, already in the early 1800s, some groups were urging the government to adopt liberal measures. The liberal front strengthened in 1839 with the establishment of the **Anti-Corn Law** .
 
-- • presence of raw materials in target countries 
+- **League**
 
-- Forms of international capital flows: portfolio investments (purchase of stocks and bonds) foreign direct investments (FDI, i.e., multinational corporations) 
+- During the Napoleonic wars, due to the continental blockade, agriculture had become extremely profitable. Unsurprisingly, in order not to lose a lucrative source of income, the large landowners, well represented in Parliament, fought to keep these laws in order.
 
-a.y. 2025/2026 
+## 3 – TRADE POLICIES
 
-30067 
+- The decisive blow that led to the repeal of the Corn Laws was the terrible famine in Ireland in 1845.
 
-13 
+- → The famine was so severe that the government within months voted
 
-## 1 – ECONOMIC INTEGRATION 
+- to repeal the Corn Laws.
 
-- Capital export is based on gold or foreign exchange 
+- The corn laws were repealed in 1846, and in 1849, the Navigation Acts were also repealed.
 
-- Main reason: The expectation of a higher rate of return abroad than at home 
+- The growth in trade was such that, despite an overall reduction in tariffs, customs revenues in 1860 were higher than those in 1842.
 
-- Some actors: markets for foreign exchange, stock and bond markets, central banks, private and joinstock investment banks 
+- **In the second half of the 19th century began for Great Britain a phase of intransigent free trade policy.**
 
-   - They all increased during the 19[th] century 
+## 3 – TRADE POLICIES
 
-- The period 1896-1914 has been labeled “The Golden Age of Global Capitalism” (Frieden, Global Capitalism, 2006) 
+«Free trade is a principle which recognizes the paramount importance of individual action.
 
-https://www.youtube.com/watch?v=NiZI7YnAhp8 
+Peace will come to earth when the people have more to do with each other and governments less.
 
-a.y. 2025/2026 
+**(We)**
+advocated Free Trade, not merely on account of the material wealth which it would bring to the community, but for the far loftier motive of securing permanent peace between nations»
 
-30067 
+## 3 – TRADE POLICIES
 
-14 
+- Cobden, a leader of the anti-Corn Laws struggle, was also the advocate of the **Anglo-French Treaty of 1860 (or CobdenChevalier Treaty), a milestone of free-trade policies.**
 
-## 2 – TRANSPORT AND COMMUNICATION 
+- Traditionally devoted to protectionism, with Napoleon III's rise to power in 1851, France radically changed its political-economic attitude.
 
-**==> picture [569 x 384] intentionally omitted <==**
+- Fundamental was the Emperor's desire to gain political and diplomatic credit for France after particularly turbulent decades for the hexagon.
 
-a.y. 2025/2026 
+## 3 – TRADE POLICIES
 
-30067 
+- The Cobden-Chevalier Treaty provided that:
 
-15 
+- France would lift the restrictions on English goods, but establish duties
 
-## 2 – TRANSPORT AND COMMUNICATION 
+- These were in any case not to exceed 30% of the value of the goods
 
-- The intensification of trade and financial flows was made possible by a (further) **revolution in** : 
+- Great Britain eliminated any form of duty on manufactured goods
 
-- **transport and communications** 
+- On foodstuffs, duties were instead greatly reduced
 
-   - Trains and steam navigation 
+- But fundamental to this treaty is the **most-favoured-nation** clause:
 
-   - Suez Canal (1859-69) and Panama Canal (1881) 
+- the two contracting states undertake to grant each other the most favourable trade and tax treatment, compared to what has been agreed in the past and what will be agreed in the future with other states.
 
-- The main consequences were: 
+- **International trade increased** by 10% per year (both within and outside Europe)
 
-   - The decline in transport costs 
+- **Competition increased** and more efficiency was demanded
 
-   - The creation of a national (and later international) market served quickly, extensively, and reliably 
+The MFN clause gave rise to a practically multilateral international trading system. Another feature of these treaties: they were long-lasting and therefore offered a stable institutional framework for trade.
 
-**==> picture [396 x 170] intentionally omitted <==**
+## 3 – TRADE POLICIES - THE GREAT DEFLATION
 
-**==> picture [348 x 196] intentionally omitted <==**
+The phase of industrial and commercial expansion came to a halt in the late 19th century, between the 1870s and early 1890s: → **the Great Deflation**
 
-a.y. 2025/2026 
+In Europe, the Great Deflation had its origins in the 1870s in the real estate sector. In the USA it was the banks exposed in the railway sector that were hardest hit.
 
-30067 
+Different explanations:
 
-16 
+1. The increasing international **competition** resulting from international treaties.
 
-## 2 – TRANSPORT AND COMMUNICATION 
+## 2. . **Overproduction**
 
-- Telegraph (1840) 
+3. A large-scale influx of **non-European primary goods** into European markets due to lower prices and declining transportation costs.
 
-- Transatlantic cables (1860) 
+**Competition was blamed for this!** → **The obvious demand was for more protection from external competition, and thus a return to protectionist policies.**
 
-- Telephone (1870) 
+## 3 – TRADE POLICIES - THE GREAT DEFLATION
 
-**==> picture [630 x 249] intentionally omitted <==**
+## 3 – TRADE POLICIES - PROTECTIONIST THEORIES
 
-_«It is a more glorious triumph, because it is much more useful to humanity, than anything everwon on the battlefield. May the Atlantic Telegraph, under the blessing of heaven, prove a bond of perpetual peace and friendship between kindred nations, and an instrument destined by Divine Providence to spread religion, civilization, liberty and law throughout the world»_ 
+Protectionist positions, like liberal ones, had their theoretical formulations. Among the most important texts are:
 
-_Queen Vittoria 1858 (celebration of the first transatlantic cable)_ 
+- "Report on the Subject of Manufacturers" by Alexander Hamilton, 1791.
 
-a.y. 2025/2026 
+- "Das nationale System der politischen Oekonomie" by Friedrich List, 1837.
 
-30067 
+**Both authors contested liberalism and justified the adoption of protectionism based on a nation's level of development.**
 
-17 
+Even John Stuart Mill supported List's theories and accepted protectionism under certain conditions:
 
-“The inhabitant of London could order by telephone, sipping his morning tea in bed, the various products of the whole Earth, in such quantity as he might see fit, and reasonably expect their early delivery upon his doorstep.” 
+- Protection should be only temporary.
 
-John Maynard Keynes (1883-1946) 
+- Protection can be granted to a "young and emerging nation" with the goal of "naturalizing thriving industries abroad but compatible with internal resources and productive vocations.
 
-a.y. 2025/2026 
+## 3 – TRADE POLICIES – PROTECTIONIST THEORIES
 
-30067 
+## According to Friedrich List's vision:
 
-18 
+- Liberalism was not an economic law but **a tool of dominance** by industrial powers over less developed countries.
 
-## 3 – TRADE POLICIES 
+- **Free trade could not be universally valid** ; it had to be applied while considering a nation's level of economic development.
 
-We have seen that many Countries relied upon protectionist measures during the 19[th] century, but… 
+- Protectionism was the **means to become an industrialized nation** .
 
-- David Ricardo, _On the Principles of Political Economy and taxation_ (1819) 
+- The state was the sole entity capable of **organizing economic policies** consistent with the project of industrialization.
 
-- Adam Smith, _The Wealth of Nations_ (1776) 
+List justified protectionism, but only for the time necessary to strengthen the emerging industry.
 
-- John Stuart Mill, _Principles of political economy_ (1848) 
+## 3 – TRADE POLICIES - PROTECTIONISM
 
-In these works, the authors advocated the beneficial effects of 
+- Bismarck approved a new tariff law in 1879 introducing protectionism for both industry and agriculture
 
-- the law of comparative advantage 
+- France followed Germany in the introduction of industrial protectionism in 1881 and agricultural protectionist tariffs in 1892
 
-- division of labour (including international division of labour) 
+- Italy, Austria-Hungary, Russia were also in the protectionism bloc
 
-- the functioning of a market free from any form of artificial barriers. 
+- Great Britain, the Netherlands, Belgium, Denmark were part of the free trade bloc
 
-All of this would lead to an optimal allocation of resources 
+However, we should not think that the return to protectionism led to a crisis or stagnation of international trade.
 
-## → THESE THEORIES RESTED ON PURE LOGICAL GROUND 
+https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm
 
-a.y. 2025/2026 
+## 4 – GOLD STANDARD
 
-30067 
+The development of trade and commerce made the adoption of a more solid monetary system urgent.
 
-19 
+- The English monetary system imposed itself because of the importance of:
 
-## 3 – TRADE POLICIES 
+- English goods in world trade
 
-- Different phases of English trade policies 
+- English capital in international flows
 
-   - England used mercantilism first and then protectionism 
+- Pound as an international payment instrument
 
-   - And (as anticipated last week) only from the mid-19[th] century moved to FREE TRADE policies 
+- English banks around the world
 
-## **HOW and WHY?** 
+## 4 – GOLD STANDARD
 
-a.y. 2025/2026 
+The system had gold as its base and was based on the following principles:
 
-30067 
+- the Bank of England had to convert banknotes into gold at sight
 
-20 
+- there were no restrictions on the buying, selling and exporting of gold (= freedom of capital movement)
 
-## 3 – TRADE POLICIES 
+- the exchange rate between the unit of account (pound sterling) and gold was fixed (gold parity).
 
-- The best known protectionist measures of the early 19th century are certainly the English Corn Laws, in force from 1815 to 1846. 
+Between 1870 and 1900, most of the industrialised countries (or those on the path to industrialisation) adhered to the gold standard:
 
-- In England, already in the early 1800s, some groups were urging the government to adopt liberal measures. The liberal front strengthened in 1839 with the establishment of the **Anti-Corn Law** . 
+## 4 – GOLD STANDARD
 
-- **League** 
+- Germany in 1871
 
-- During the Napoleonic wars, due to the continental blockade, agriculture had become extremely profitable. Unsurprisingly, in order not to lose a lucrative source of income, the large landowners, well represented in Parliament, fought to keep these laws in order. 
+- Also thanks to the indemnity of 5 billion francs extracted from the victory in the Franco-Prussia War
 
-**==> picture [246 x 390] intentionally omitted <==**
+- Introduced the gold mark
 
-a.y. 2025/2026 
+- The Reichbank established as central bank and sole issuing agency
 
-30067 
+- The Netherlands, Switzerland and Belgium adhered between 1873 and 1878;
 
-21 
+- France and Italy began to use the gold standard from the 1880s but remained under bimetallism;
 
-## 3 – TRADE POLICIES 
+- Russia and Japan in the last decade of the century;
 
-- The decisive blow that led to the repeal of the Corn Laws was the terrible famine in Ireland in 1845. 
+- The United States in 1900.
 
-- → The famine was so severe that the government within months voted 
+## 4 – GOLD STANDARD
 
-- to repeal the Corn Laws. 
+- **Under a gold standard the money supply is determined by (and in some cases consists partially or entirely of) the monetary gold stock**
 
-- The corn laws were repealed in 1846, and in 1849, the Navigation Acts were also repealed. 
+- Unlike a fiat standard, under a gold standard, monetary authorities have considerably less flexibility to deal with shocks
 
-- The growth in trade was such that, despite an overall reduction in tariffs, customs revenues in 1860 were higher than those in 1842. 
+- Under a gold standard the **monetary authority defines the weight of gold coins** or, alternatively, fixes the price of gold in terms of national currency.
 
-- **In the second half of the 19th century began for Great Britain a phase of intransigent free trade policy.** 
+- By being willing to buy and sell gold freely at the mint price, the authority .
 
-**==> picture [303 x 384] intentionally omitted <==**
+- **maintains the fixed price**
 
-a.y. 2025/2026 
+- There are **no restrictions to the ownership or use of gold**
 
-30067 
+1 US 2 GB dollar pounds
 
-22 
+## 4 – GOLD STANDARD
 
-## 3 – TRADE POLICIES 
+- In this system, exchange rates were fixed. For instance, 1 GB pound was exchanged with:
 
-**==> picture [251 x 377] intentionally omitted <==**
+- 4,85 US Dollars
 
-«Free trade is a principle which recognizes the paramount importance of individual action. 
+- The risk associated to international trades was eliminated
 
-Peace will come to earth when the people have more to do with each other and governments less. 
+- 12,10 Dutch Guilder
 
-[We] advocated Free Trade, not merely on account of the material wealth which it would bring to the community, but for the far loftier motive of securing permanent peace between nations» 
+- 26,28 French Francs
 
-a.y. 2025/2026 
+- 20,43 German Marks
 
-30067 
+→ the g.s contributed to increase trades and capital investment abroad !!!
 
-23 
+- …
 
-## 3 – TRADE POLICIES 
+## 4 – GOLD STANDARD:REBALANCING SYSTEM
 
-- Cobden, a leader of the anti-Corn Laws struggle, was also the advocate of the **Anglo-French Treaty of 1860 (or CobdenChevalier Treaty), a milestone of free-trade policies.** 
+## Why was the Gold Standard considered an (almost) automatic exchange rate rebalancing system?
 
-- Traditionally devoted to protectionism, with Napoleon III's rise to power in 1851, France radically changed its political-economic attitude. 
+- In countries adhering to the Gold Standard, the supply of money depended on gold reserves, which, in turn, depended on the balance of payments.
 
-**==> picture [247 x 135] intentionally omitted <==**
+## The Gold Standard provided a mechanism for adjusting imbalances in the balance of payments.
 
-- Fundamental was the Emperor's desire to gain political and diplomatic credit for France after particularly turbulent decades for the hexagon. 
+## Example:
 
-a.y. 2025/2026 
+- t=1: The UK has a trade surplus (exports > imports) ⟶ accumulation of gold (inflows > outflows).
 
-30067 
+- t=2: The inflow of gold increases the money supply in the UK  ⟶ price increase.
 
-24 
+- t=3: Price increase ⟶ less competitiveness of UK goods in foreign markets ⟶ decrease in foreign demand (exports).
 
-## 3 – TRADE POLICIES 
+- t=4: Decrease in exports results in a decrease in prices and a return to competitiveness ⟶ the UK's trade surplus is eliminated.
 
-- The Cobden-Chevalier Treaty provided that: 
+## 4 – GOLD STANDARD
 
-      - France would lift the restrictions on English goods, but establish duties 
+## 4 – GOLD STANDARD
 
-         - These were in any case not to exceed 30% of the value of the goods 
+The Gold Standard lasted for about 40 years because it ensured price stability over the long term and similar price movements among participating countries:
 
-      - Great Britain eliminated any form of duty on manufactured goods 
+- Price levels in all countries were determined by the supply and demand for gold, and no single country exerted a decisive influence on price levels
 
-      - On foodstuffs, duties were instead greatly reduced 
+## → **symmetry**
 
-- But fundamental to this treaty is the **most-favoured-nation** clause: 
+- Firm expectations of fixed exchange rates meant that speculation helped to rebalance the system
 
-   - the two contracting states undertake to grant each other the most favourable trade and tax treatment, compared to what has been agreed in the past and what will be agreed in the future with other states. 
+- → **confidence**
 
-- **International trade increased** by 10% per year (both within and outside Europe) 
+- Deviations from the Gold Standard were nonetheless followed by a return to parity
 
-- **Competition increased** and more efficiency was demanded 
+## → **commitment**
 
-a.y. 2025/2026 
+## Economic policy was subordinate to external objectives:
 
-30067 
+- Before the Great War, internal economic policy objectives (such as combating unemployment) were not on the governments' agenda."
 
-25 
+## 4 – GOLD STANDARD
 
-**==> picture [523 x 416] intentionally omitted <==**
+Monetary policy can only pursue two objectives at a time (Obstfeld & Taylor, 2004).
 
-The MFN clause gave rise to a practically multilateral international trading system. Another feature of these treaties: they were long-lasting and therefore offered a stable institutional framework for trade. 
+- Fixed exchange rates are compatible with independent monetary policy only if capital mobility is restricted.
 
-a.y. 2025/2026 
+- Fixed rates and free capital mobility imply a relinquishment of monetary policy autonomy.
 
-30067 
+- Monetary policy autonomy and free capital mobility can coexist only by giving up fixed exchange rates.
 
-26 
+## 4 – GOLD STANDARD - RISKS
 
-## 3 – TRADE POLICIES - THE GREAT DEFLATION 
+## 1. Different experience of core and peripheral countries.
 
-The phase of industrial and commercial expansion came to a halt in the late 19th century, between the 1870s and early 1890s: → **the Great Deflation** 
+- Though the former generally experienced smooth adjustment, the latter, in the face of periodic supply shocks, experienced balance of payments crises and recessions.
 
-In Europe, the Great Deflation had its origins in the 1870s in the real estate sector. In the USA it was the banks exposed in the railway sector that were hardest hit. 
+## 2. Transmission of the business cycle and financial crises
 
-Different explanations: 
+- Through the fixed exchange rate gold standard;
 
-1. The increasing international **competition** resulting from international treaties. 
+**3. The high resource costs** of basing the monetary system on gold
 
-## 2. . **Overproduction** 
+## 4. Inadequate gold supplies to prevent long-run deflation
 
-3. A large-scale influx of **non-European primary goods** into European markets due to lower prices and declining transportation costs. 
+## 5. Periodic swings in the world price level
 
-**Competition was blamed for this!** → **The obvious demand was for more protection from external competition, and thus a return to protectionist policies.** 
+- Produced by shocks to the demand (new countries joining the gold standard) and supply (gold discoveries)
 
-a.y. 2025/2026 
+## 6. Violation of the rules of the game; and lack of cooperation.
 
-30067 
+## 4 – GOLD STANDARD
 
-27 
+- In the 1920s price stability, exchange rate stability, and international harmony.
 
-## 3 – TRADE POLICIES - THE GREAT DEFLATION 
+- Exchange rate stability, it was hoped, would restore stabilizing capital flows.
 
-**==> picture [504 x 360] intentionally omitted <==**
+- In the 1940s, exchange rate stability was expected to foster the growth of trade and harmony.
 
-a.y. 2025/2026 
+- In the 1960s, emphasis was placed on the automatic and symmetric features of the adjustment mechanism.
 
-30067 
+- In the 1980s, low inflation and the discipline provided by gold as the nominal anchor were the essential attractions of the gold standard.
 
-28 
+a.y. 2025/2026 30067
 
-## 3 – TRADE POLICIES - PROTECTIONIST THEORIES 
+## GLOBALIZATION AND MIGRATIONS
 
-Protectionist positions, like liberal ones, had their theoretical formulations. Among the most important texts are: 
+The increased flow of goods and capitals moving from one side of the globe to the other was followed by the increased flow of people.
 
-- "Report on the Subject of Manufacturers" by Alexander Hamilton, 1791. 
+- Main emigration countries: UK and Italy
 
-- "Das nationale System der politischen Oekonomie" by Friedrich List, 1837. 
+Population grew by 243% during the beginning of  the 19(th) century and the WWI
 
-**Both authors contested liberalism and justified the adoption of protectionism based on a nation's level of development.** 
+**Cause**:
 
-Even John Stuart Mill supported List's theories and accepted protectionism under certain conditions: 
+- **Decreasing mortality rate**
 
-- Protection should be only temporary. 
+- Infrequency of famines and epidemics
 
-- Protection can be granted to a "young and emerging nation" with the goal of "naturalizing thriving industries abroad but compatible with internal resources and productive vocations. 
+- Maintenance of  the high birth rate
 
-a.y. 2025/2026 
+→ Demographic transition
 
-30067 
+## **Effect**:
 
-29 
+- Labour Market Congestion
 
-## 3 – TRADE POLICIES – PROTECTIONIST THEORIES 
+## GLOBALIZATION AND MIGRATIONS
 
-## According to Friedrich List's vision: 
+- **Helping factors**
 
-- Liberalism was not an economic law but **a tool of dominance** by industrial powers over less developed countries. 
+- Technological
 
-- **Free trade could not be universally valid** ; it had to be applied while considering a nation's level of economic development. 
+- Revolution in sea-going transport = iron passengers ships
 
-- Protectionism was the **means to become an industrialized nation** . 
+- Social
 
-- The state was the sole entity capable of **organizing economic policies** consistent with the project of industrialization. 
+- Migration network = sharing information, hospitality
 
-List justified protectionism, but only for the time necessary to strengthen the emerging industry. 
+- Legislative
 
-a.y. 2025/2026 
+- Removal of barriers allowed people to freely circulate
 
-30067 
+## GLOBALIZATION AND MIGRATIONS
 
-30 
+- **Consequences**
 
-## 3 – TRADE POLICIES - PROTECTIONISM 
+Migrations had beneficial effects both for the countries of departure and of destination:
 
-- Bismarck approved a new tariff law in 1879 introducing protectionism for both industry and agriculture 
+- the **wage** decrease in the former and the increase in the latter is slowed down
 
-- France followed Germany in the introduction of industrial protectionism in 1881 and agricultural protectionist tariffs in 1892 
+- the **demographic pressure** in the emigration countries is relieved
 
-- Italy, Austria-Hungary, Russia were also in the protectionism bloc 
+- the remittances favour the balance of payments of the emigration countries and allow an increase in the purchasing power of families by **supporting the domestic market**
 
-- Great Britain, the Netherlands, Belgium, Denmark were part of the free trade bloc 
+The outcome was the formation of an international labour market.
 
-However, we should not think that the return to protectionism led to a crisis or stagnation of international trade. 
+## GLOBALIZATION AS VICTORY OF THE WEST
 
-**==> picture [417 x 317] intentionally omitted <==**
+## GLOBALIZATION AND IMPERIALISM
 
-https://www.wto.org/english/thewto_e/whatis_e/tif_e/fact2_e.htm 
+Moreover, this wave of globalization was characterised by a new imperialist wave.
 
-a.y. 2025/2026 
+The explanations that have been given for this phenomenon are manifold:
 
-30067 
+- **search for markets to supply raw materials** , for an outlet for industrial production, for an outlet for demographic surpluses
 
-31 
+- transformation of the enterprise and the nature of competition: enterprises are becoming increasingly **multinational**
 
-## 4 – GOLD STANDARD 
+- need to **invest surplus capital**
 
-The development of trade and commerce made the adoption of a more solid monetary system urgent. 
+There are also political and ideological explanations: imperialism was seen as a founding element of national identity, a demonstration of European (but not only) power and superiority.
 
-- The English monetary system imposed itself because of the importance of: 
+## THE SCRAMBLE FOR AFRICA
 
-   - English goods in world trade 
-
-   - English capital in international flows 
-
-   - Pound as an international payment instrument 
-
-   - English banks around the world 
-
-**==> picture [216 x 216] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-32 
-
-## 4 – GOLD STANDARD 
-
-The system had gold as its base and was based on the following principles: 
-
-- the Bank of England had to convert banknotes into gold at sight 
-
-- there were no restrictions on the buying, selling and exporting of gold (= freedom of capital movement) 
-
-- the exchange rate between the unit of account (pound sterling) and gold was fixed (gold parity). 
-
-Between 1870 and 1900, most of the industrialised countries (or those on the path to industrialisation) adhered to the gold standard: 
-
-a.y. 2025/2026 
-
-30067 
-
-33 
-
-## 4 – GOLD STANDARD 
-
-**==> picture [321 x 344] intentionally omitted <==**
-
-- Germany in 1871 
-
-   - Also thanks to the indemnity of 5 billion francs extracted from the victory in the Franco-Prussia War 
-
-   - Introduced the gold mark 
-
-   - The Reichbank established as central bank and sole issuing agency 
-
-- The Netherlands, Switzerland and Belgium adhered between 1873 and 1878; 
-
-- France and Italy began to use the gold standard from the 1880s but remained under bimetallism; 
-
-- Russia and Japan in the last decade of the century; 
-
-- The United States in 1900. 
-
-a.y. 2025/2026 
-
-30067 
-
-34 
-
-## 4 – GOLD STANDARD 
-
-- **Under a gold standard the money supply is determined by (and in some cases consists partially or entirely of) the monetary gold stock** 
-
-   - Unlike a fiat standard, under a gold standard, monetary authorities have considerably less flexibility to deal with shocks 
-
-- Under a gold standard the **monetary authority defines the weight of gold coins** or, alternatively, fixes the price of gold in terms of national currency. 
-
-**==> picture [183 x 138] intentionally omitted <==**
-
-= 
-
-= 
-
-- By being willing to buy and sell gold freely at the mint price, the authority . 
-
-- **maintains the fixed price** 
-
-**==> picture [118 x 48] intentionally omitted <==**
-
-**==> picture [49 x 49] intentionally omitted <==**
-
-**==> picture [48 x 49] intentionally omitted <==**
-
-- There are **no restrictions to the ownership or use of gold** 
-
-1 US 2 GB dollar pounds 
-
-a.y. 2025/2026 
-
-30067 
-
-35 
-
-## 4 – GOLD STANDARD 
-
-- In this system, exchange rates were fixed. For instance, 1 GB pound was exchanged with: 
-
-- 4,85 US Dollars 
-
-   - The risk associated to international trades was eliminated 
-
-- 12,10 Dutch Guilder 
-
-- 26,28 French Francs 
-
-- 20,43 German Marks 
-
-→ the g.s contributed to increase trades and capital investment abroad !!! 
-
-- … 
-
-a.y. 2025/2026 
-
-30067 
-
-36 
-
-**==> picture [480 x 222] intentionally omitted <==**
-
-**==> picture [481 x 215] intentionally omitted <==**
-
-**==> picture [622 x 164] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-37 
-
-## 4 – GOLD STANDARD:REBALANCING SYSTEM 
-
-## **Why was the Gold Standard considered an (almost) automatic exchange rate rebalancing system?** 
-
-- In countries adhering to the Gold Standard, the supply of money depended on gold reserves, which, in turn, depended on the balance of payments. 
-
-## **The Gold Standard provided a mechanism for adjusting imbalances in the balance of payments.** 
-
-## Example: 
-
-- t=1: The UK has a trade surplus (exports > imports) ⟶ accumulation of gold (inflows > outflows). 
-
-- t=2: The inflow of gold increases the money supply in the UK  ⟶ price increase. 
-
-- t=3: Price increase ⟶ less competitiveness of UK goods in foreign markets ⟶ decrease in foreign demand (exports). 
-
-- t=4: Decrease in exports results in a decrease in prices and a return to competitiveness ⟶ the UK's trade surplus is eliminated. 
-
-a.y. 2025/2026 
-
-30067 
-
-38 
-
-## 4 – GOLD STANDARD 
-
-**==> picture [602 x 340] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-39 
-
-## 4 – GOLD STANDARD 
-
-The Gold Standard lasted for about 40 years because it ensured price stability over the long term and similar price movements among participating countries: 
-
-- Price levels in all countries were determined by the supply and demand for gold, and no single country exerted a decisive influence on price levels 
-
-## → **symmetry** 
-
-- Firm expectations of fixed exchange rates meant that speculation helped to rebalance the system 
-
-   - → **confidence** 
-
-- Deviations from the Gold Standard were nonetheless followed by a return to parity 
-
-## → **commitment** 
-
-## Economic policy was subordinate to external objectives: 
-
-- Before the Great War, internal economic policy objectives (such as combating unemployment) were not on the governments' agenda." 
-
-a.y. 2025/2026 
-
-30067 
-
-40 
-
-## 4 – GOLD STANDARD 
-
-Monetary policy can only pursue two objectives at a time [Obstfeld & Taylor, 2004]. 
-
-- Fixed exchange rates are compatible with independent monetary policy only if capital mobility is restricted. 
-
-- Fixed rates and free capital mobility imply a relinquishment of monetary policy autonomy. 
-
-- Monetary policy autonomy and free capital mobility can coexist only by giving up fixed exchange rates. 
-
-**==> picture [390 x 377] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-41 
-
-## 4 – GOLD STANDARD - RISKS 
-
-## **1. Different experience of core and peripheral countries.** 
-
-- Though the former generally experienced smooth adjustment, the latter, in the face of periodic supply shocks, experienced balance of payments crises and recessions. 
-
-## **2. Transmission of the business cycle and financial crises** 
-
-   - Through the fixed exchange rate gold standard; 
-
-**3. The high resource costs** of basing the monetary system on gold 
-
-## **4. Inadequate gold supplies to prevent long-run deflation** 
-
-## **5. Periodic swings in the world price level** 
-
-- Produced by shocks to the demand (new countries joining the gold standard) and supply (gold discoveries) 
-
-## **6. Violation of the rules of the game; and lack of cooperation.** 
-
-a.y. 2025/2026 
-
-30067 
-
-42 
-
-## 4 – GOLD STANDARD 
-
-- In the 1920s price stability, exchange rate stability, and international harmony. 
-
-   - Exchange rate stability, it was hoped, would restore stabilizing capital flows. 
-
-- In the 1940s, exchange rate stability was expected to foster the growth of trade and harmony. 
-
-- In the 1960s, emphasis was placed on the automatic and symmetric features of the adjustment mechanism. 
-
-- In the 1980s, low inflation and the discipline provided by gold as the nominal anchor were the essential attractions of the gold standard. 
-
-a.y. 2025/2026 
-
-30067 
-
-43 
-
-**==> picture [645 x 472] intentionally omitted <==**
-
-a.y. 2025/2026 30067 
-
-44 
-
-## GLOBALIZATION AND MIGRATIONS 
-
-The increased flow of goods and capitals moving from one side of the globe to the other was followed by the increased flow of people. 
-
-- Main emigration countries: UK and Italy 
-
-Population grew by 243% during the beginning of  the 19[th] century and the WWI 
-
-**Cause** : 
-
-- **Decreasing mortality rate** 
-
-   - Infrequency of famines and epidemics 
-
-- Maintenance of  the high birth rate 
-
-→ Demographic transition 
-
-## **Effect** : 
-
-- Labour Market Congestion 
-
-a.y. 2025/2026 
-
-30067 
-
-45 
-
-## GLOBALIZATION AND MIGRATIONS 
-
-- **Helping factors** 
-
-   - Technological 
-
-      - Revolution in sea-going transport = iron passengers ships 
-
-   - Social 
-
-      - Migration network = sharing information, hospitality 
-
-   - Legislative 
-
-      - Removal of barriers allowed people to freely circulate 
-
-a.y. 2025/2026 
-
-30067 
-
-46 
-
-## GLOBALIZATION AND MIGRATIONS 
-
-- **Consequences** 
-
-Migrations had beneficial effects both for the countries of departure and of destination: 
-
-- the **wage** decrease in the former and the increase in the latter is slowed down 
-
-- the **demographic pressure** in the emigration countries is relieved 
-
-- the remittances favour the balance of payments of the emigration countries and allow an increase in the purchasing power of families by **supporting the domestic market** 
-
-The outcome was the formation of an international labour market. 
-
-a.y. 2025/2026 
-
-30067 
-
-47 
-
-**==> picture [610 x 410] intentionally omitted <==**
-
-**==> picture [348 x 465] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-48 
-
-## GLOBALIZATION AS VICTORY OF THE WEST 
-
-a.y. 2025/2026 
-
-30067 
-
-49 
-
-## GLOBALIZATION AND IMPERIALISM 
-
-Moreover, this wave of globalization was characterised by a new imperialist wave. 
-
-**==> picture [342 x 192] intentionally omitted <==**
-
-The explanations that have been given for this phenomenon are manifold: 
-
-- **search for markets to supply raw materials** , for an outlet for industrial production, for an outlet for demographic surpluses 
-
-- transformation of the enterprise and the nature of competition: enterprises are becoming increasingly **multinational** 
-
-- need to **invest surplus capital** 
-
-There are also political and ideological explanations: imperialism was seen as a founding element of national identity, a demonstration of European (but not only) power and superiority. 
-
-a.y. 2025/2026 
-
-30067 
-
-50 
-
-## THE SCRAMBLE FOR AFRICA 
-
-**==> picture [273 x 298] intentionally omitted <==**
-
-**==> picture [317 x 298] intentionally omitted <==**
-
-**==> picture [289 x 298] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-51 
-
+## Related Notes
+- [[13_Economic Instability]]
+- [[14_The 1929 financial Crisis]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]

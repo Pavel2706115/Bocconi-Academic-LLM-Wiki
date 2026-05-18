@@ -1,568 +1,488 @@
-# **Chapter 9 From the short to the medium run: the** _**IS-LM-PC**_ **model** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 9 From the short to the medium run: the** _**IS-LM-PC**_ **model"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **Plan** 
+# Chapter 9 From the short to the medium run: the** _**IS-LM-PC**_ **model
 
-## • Develop the IS-LM-PC model 
+## Plan
 
-- Study the dynamics of adjustment of output and inflation 
+- Develop the IS-LM-PC model
 
-- Study the dynamic effects of a fiscal consolidation 
+- Study the dynamics of adjustment of output and inflation
 
-- Study the dynamic effects of an increase in the price of oil 
+- Study the dynamic effects of a fiscal consolidation
 
-## **From the short to the medium run: the** _**IS-LM-PC**_ **model** 
+- Study the dynamic effects of an increase in the price of oil
 
-- In Chapters 3 through 6, we looked at equilibrium in the goods and financial markets, and how output is determined in the short run 
+## From the short to the medium run: the** _**IS-LM-PC**_ **model
 
-- In Chapters 7 and 8, we looked at equilibrium in the labor market 
+- In Chapters 3 through 6, we looked at equilibrium in the goods and financial markets, and how output is determined in the short run
 
-- We now put the two parts together and use this IS-LM-PC (PC for Phillips curve) model to characterize the behavior of output both in the short run and the medium run 
+- In Chapters 7 and 8, we looked at equilibrium in the labor market
 
-## **Toward the IS-LM-PC model** 
+- We now put the two parts together and use this IS-LM-PC (PC for Phillips curve) model to characterize the behavior of output both in the short run and the medium run
 
-- From Chapter 6, output in the short run is determined by demand (IS curve): 
+## Toward the IS-LM-PC model
 
-   - _Y_ = _C_ ( _Y_ − _T_ ) + _I_ ( _Y_ , _r_ + _x_ ) + _G_ 
+- From Chapter 6, output in the short run is determined by demand (IS curve):
 
-- From Chapter 8, the relation between inflation and unemployment is given by the Phillips curve: 
+- _Y_ = _C_ ( _Y_ − _T_ ) + _I_ ( _Y_ , _r_ + _x_ ) + _G_
 
-**==> picture [202 x 30] intentionally omitted <==**
+- From Chapter 8, the relation between inflation and unemployment is given by the Phillips curve:
 
-- We will show that we can write the Phillips curve in terms of output, as follows 
+- We will show that we can write the Phillips curve in terms of output, as follows
 
-**==> picture [235 x 59] intentionally omitted <==**
+- This way both the IS curve and the Phillips curve are in terms of output
 
-- This way both the IS curve and the Phillips curve are in terms of output 
+## The IS-LM-PC model
 
-## **The IS-LM-PC model** 
+- **IS curve**: captures **short-run aggregate demand** forces
 
-- **IS curve** : captures **short-run aggregate demand** forces 
+- **LM curve**: captures **short-run** effects of **monetary policy**
 
-**==> picture [269 x 19] intentionally omitted <==**
+- **PC:** captures **medium-run aggregate supply** forces
 
-- **LM curve** : captures **short-run** effects of **monetary policy** 
+## The IS-LM-PC model
 
-**==> picture [47 x 13] intentionally omitted <==**
+- Model
 
-- **PC:** captures **medium-run aggregate supply** forces 
+- Endogenous variables, in green:
 
-**==> picture [206 x 70] intentionally omitted <==**
+- Output: _Y_
 
-## **The IS-LM-PC model** 
+- Interest rate: _r_
 
-- Model 
+- Inflation: 𝜋
 
-**==> picture [217 x 15] intentionally omitted <==**
+- Policy variables, in red:
 
-**==> picture [39 x 11] intentionally omitted <==**
+- Fiscal policy: _T_ , _G_
 
-**==> picture [170 x 17] intentionally omitted <==**
+- Monetary policy: ҧ𝑟
 
-- Endogenous variables, in green: 
+- The other exogenous variables or parameters, in blue:
 
-   - Output: _Y_ 
+- The labour force: _L_
 
-   - Interest rate: _r_ 
+- The risk premium: _x_
 
-   - Inflation: 𝜋 
+- The natural level of output: 𝑌𝑛 (in turn function of m and z)
 
-- Policy variables, in red: 
+- The expected inflation rate: 𝜋(𝑒)
 
-   - Fiscal policy: _T_ , _G_ 
+- The parameter of the PC: 𝛼
 
-   - Monetary policy: ҧ𝑟 
+## Derivation of the output gap
 
-- The other exogenous variables or parameters, in blue: 
+− _U L N N_ - Unemployment rate: _u_ = = = 1 − _L L L_
 
-   - The labour force: _L_ 
+where _**Y**_ = or _**n**_ **natural level of output potential output**
 
-   - The risk premium: _x_ 
+- − = − − − = − −
 
-   - The natural level of output: 𝑌𝑛 (in turn function of m and z) 
+- **Output gap:** _Y Y L_ 1 _u L_ 1 _u L u u n_ ( ) ( _n_ ) ( _n_ )
 
-   - The expected inflation rate: 𝜋[𝑒] 
+## Derivation of the PC in terms of output
 
-   - The parameter of the PC: 𝛼 
+- PC in terms of the unemployment gap:
 
-## **Derivation of the output gap** 
+- Substitute _(Y - Yn) = - L(u - un)_:
 
-− _U L N N_ • Unemployment rate: _u_ = = = 1 − _L L L_ 
+- Assume expected inflation this year = inflation last year:
 
-**==> picture [254 x 20] intentionally omitted <==**
+which says that **when Y is above Yn (positive output gap), inflation increases**
 
-**==> picture [289 x 30] intentionally omitted <==**
+## What does the PC tell us?
 
-**==> picture [318 x 31] intentionally omitted <==**
+- Phillips curve in terms of the output gap:
 
-where _**Y**_ = or _**n**_ **natural level of output potential output** 
+- Implications:
 
-- − = − − − = − − 
+**If** _**Y > Yn**_ **then** _**π  > π(-1),**_ **that is, inflation is increasing**
 
-- **Output gap:** _Y Y L_ 1 _u L_ 1 _u L u u n_ ( ) ( _n_ ) ( _n_ ) 
+When output is above potential the economy is in an expansion, the economy is overheated, and there are upward pressures on wages and prices
 
-## **Derivation of the PC in terms of output** 
+**If** _**Y < Yn**_ **then** _**π  < π(-1),**_ **that is, inflation is decreasing**
 
-## • PC in terms of the unemployment gap: 
+When output is below potential the economy is in an expansion, the economy is depressed, and there are downward pressures on wages and prices **If** _**Y = Yn**_ **then** _**π  = π(-1),**_ **that is, inflation is constant**
 
-**==> picture [202 x 30] intentionally omitted <==**
+When output is at potential the economy is at the “natural” equilibrium and inflation is constant
 
-- Substitute _(Y - Yn) = - L(u - un)_ : 
+## The IS-LM-PC model
 
-**==> picture [235 x 59] intentionally omitted <==**
+𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺
 
-- Assume expected inflation this year = inflation last year: 
+A lower policy rate leads to higher output (lower r, higher I, higher Z, and higher Y)
 
-**==> picture [320 x 68] intentionally omitted <==**
+𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛
 
-which says that **when Y is above Yn (positive output gap), inflation increases** 
+- A higher output leads to a larger change in inflation
 
-## **What does the PC tell us?** 
+- The change in inflation is 0 when the output gap is 0, that is, when output equals potential output
 
-- Phillips curve in terms of the output gap: 
+- The change in inflation is positive (negative) when output is above (below) potential
 
-**==> picture [215 x 21] intentionally omitted <==**
+## The IS-LM-PC model Equilibrium A is a short run equilibrium
 
-- Implications: 
+𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺
 
-**If** _**Y > Yn**_ **then** _**π  > π(-1),**_ **that is, inflation is increasing** 
+- Suppose the central bank picks a policy rate equal to r
 
-When output is above potential the economy is in an expansion, the economy is overheated, and there are upward pressures on wages and prices 
+- Associated with this interest rate there is a level of output Y
 
-**If** _**Y < Yn**_ **then** _**π  < π(-1),**_ **that is, inflation is decreasing** 
+𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛
 
-When output is below potential the economy is in an expansion, the economy is depressed, and there are downward pressures on wages and prices **If** _**Y = Yn**_ **then** _**π  = π(-1),**_ **that is, inflation is constant** 
+- The level of output Y is above potential and implies that inflation is increasing
 
-When output is at potential the economy is at the “natural” equilibrium and inflation is constant 
+- Less formally: the economy is overheated, putting pressures on inflation
 
-## **The IS-LM-PC model** 
+## The IS-LM-PC model: dynamics and medium run equilibrium
 
-𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺 
+- If there is no change in the monetary policy rate, nor in fiscal policy, output remains above potential and inflation continues increasing
 
-A lower policy rate leads to higher output (lower r, higher I, higher Z, and higher Y) 
+- At some point, **the central bank (CB) will respond**: it will **gradually increase the policy rate** to **decrease output to potential** output and to **eliminate inflationary pressures**
 
-𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛 
+- The initial equilibrium is in point A. As the CB increases the policy rate r, the economy moves from equilibrium A to equilibrium A’
 
-- A higher output leads to a larger change in inflation 
+- From the top graph we see the economy moves along the IS curve and output decreases
 
-- The change in inflation is 0 when the output gap is 0, that is, when output equals potential output 
+- From the bottom graph we see that as output decreases, the economy moves along the PC and the change in inflation becomes smaller (despite positive)
 
-- The change in inflation is positive (negative) when output is above (below) potential 
+- **At point A’, the medium run equilibrium, output equals potential and the change in inflation is 0 (inflation is constant)**
 
-**==> picture [282 x 197] intentionally omitted <==**
+- The policy rate in the medium run equilibrium, associated to potential output _Yn_ , is denoted _**rn**_ and is called **the natural rate of interest** (or the neutral or Wicksellian rate of interest)
 
-**==> picture [294 x 217] intentionally omitted <==**
+## The IS-LM-PC model: dynamics and medium run equilibrium
 
-## **The IS-LM-PC model Equilibrium A is a short run equilibrium** 
+- **Two key observations**
 
-𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺 
+- **First** , if the central bank wants to keep output at potential and inflation stable, why doesn’t it do it right away? Because this is not as easy as it seems:
 
-- Suppose the central bank picks a policy rate equal to r 
+- First, Yn is not observed and it is not always easy to estimate
 
-- Associated with this interest rate there is a level of output Y 
+- Second, it takes time for the economy to respond
 
-𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛 
+- **Second** , note that while the central bank raises the policy rate gradually and output decreases to Yn, **inflation is continuously increasing**
 
-- The level of output Y is above potential and implies that inflation is increasing 
+Thus, **when the economy reaches equilibrium A’, inflation is higher then in A!**
 
-- Less formally: the economy is overheated, putting pressures on inflation 
+If the central bank cares not only about **stable inflation** , but also about the **level of inflation** , it will have to reduce inflation
 
-**==> picture [282 x 197] intentionally omitted <==**
+To do this, it needs to increase the policy rate beyond rn to generate a decrease in inflation **until the level of inflation is back to an acceptable level** , reaching for example point C
 
-**==> picture [294 x 217] intentionally omitted <==**
+Put it differently, if the central bank wants to achieve a constant level of inflation over the medium run, then the initial boom must be followed by a recession
 
-## **The IS-LM-PC model: dynamics and medium run equilibrium** 
+## Short-run equilibrium in the IS-LM-PC model
 
-- If there is no change in the monetary policy rate, nor in fiscal policy, output remains above potential and inflation continues increasing 
+## Price rigidity
 
-- At some point, **the central bank (CB) will respond** : it will **gradually increase the policy rate** to **decrease output to potential** output and to **eliminate inflationary pressures** 
+- In the “IS-LM” model prices are completely fixed
 
-- The initial equilibrium is in point A. As the CB increases the policy rate r, the economy moves from equilibrium A to equilibrium A’ 
+- In the “IS-LM-PC” model, prices exhibit partial rigidity—they are sticky. Specifically, wages do not adjust flexibly to unexpected shocks, meaning wages are sticky. As a result, the expected price 𝑃(𝑒) used in wage-setting may differ from the actual price 𝑃
 
-- From the top graph we see the economy moves along the IS curve and output decreases 
+## Role of demand and of monetary and fiscal policies
 
-- From the bottom graph we see that as output decreases, the economy moves along the PC and the change in inflation becomes smaller (despite positive) 
+- When prices are rigid, demand factors influence output in the short run
 
-- **At point A’, the medium run equilibrium, output equals potential and the change in inflation is 0 (inflation is constant)** 
+- Among these factors, monetary and fiscal policies play a significant role
 
-- The policy rate in the medium run equilibrium, associated to potential output _Yn_ , is denoted _**rn**_ and is called **the natural rate of interest** (or the neutral or Wicksellian rate of interest) 
+- If monetary policy impacts output, it is said to have real effects, or that it is non-neutral
 
-**==> picture [294 x 423] intentionally omitted <==**
+## Medium-run equilibrium in the IS-LM-PC model
 
-## **The IS-LM-PC model: dynamics and medium run equilibrium** 
+## Price flexibility
 
-- **Two key observations** 
+- In the medium run, prices adjust and become flexible flexible
 
-- **First** , if the central bank wants to keep output at potential and inflation stable, why doesn’t it do it right away? Because this is not as easy as it seems: 
+- Agents, particularly wage setters, adjust their expectations to align with actual prices
 
-   - First, Yn is not observed and it is not always easy to estimate 
+- In the "IS-LM-PC" model, wage setters renegotiate wages in the medium run, ensuring that the expected price 𝑃(𝑒) used in wage setting aligns with the actual price 𝑃
 
-   - Second, it takes time for the economy to respond 
+## No role of demand and monetary neutrality
 
-- **Second** , note that while the central bank raises the policy rate gradually and output decreases to Yn, **inflation is continuously increasing** 
+- When prices are flexible, demand factors do not influence output
 
-Thus, **when the economy reaches equilibrium A’, inflation is higher then in A!** 
+- Output equals the natural level of output, 𝑌𝑛 , determined by non-demand factors such as labor market institutions, z, and degree of competition in goods markets, m
 
-If the central bank cares not only about **stable inflation** , but also about the **level of inflation** , it will have to reduce inflation 
+- The ”WS-PS” model describes this medium run equilibrium, d etermining 𝑢𝑛 (and 𝑌𝑛 )
 
-To do this, it needs to increase the policy rate beyond rn to generate a decrease in inflation **until the level of inflation is back to an acceptable level** , reaching for example point C 
+- If monetary policy cannot affect output, it is said to be neutral
 
-Put it differently, if the central bank wants to achieve a constant level of inflation over the medium run, then the initial boom must be followed by a recession 
+## From the short-run to the medium-run equilibrium in the IS-LM-PC model
 
-**==> picture [294 x 423] intentionally omitted <==**
+There are two ways the economy can transition from short-run to medium-run equilibrium:
 
-## **Short-run equilibrium in the IS-LM-PC model** 
+## Adjustment of price expectations
 
-**==> picture [169 x 68] intentionally omitted <==**
+- Agents, particularly wage setters, revise their expectations to align with actual prices
 
-## : **Price rigidity** 
+- We do not study this case
 
-- In the “IS-LM” model prices are completely fixed 
+## Monetary policy stabilization
 
-- In the “IS-LM-PC” model, prices exhibit partial rigidity—they are sticky. Specifically, wages do not adjust flexibly to unexpected shocks, meaning wages are sticky. As a result, the expected price 𝑃[𝑒] used in wage-setting may differ from the actual price 𝑃 
+- The central bank aims to maintain stable inflation and ensure output remains at its natural level; to do that, it adjusts the policy rate accordingly
 
-## : **Role of demand and of monetary and fiscal policies** 
+- Fiscal policy can also contribute to stabilization, but it is less flexible as a tool
 
-- When prices are rigid, demand factors influence output in the short run 
+In this course, the focus is on **monetary policy stabilization** , where **the interest rate (** 𝒓 **) is adjusted to its natural level (** 𝒓𝒏 **)** , as it is considered the most realistic approach
 
-- Among these factors, monetary and fiscal policies play a significant role 
+## Revisiting the role of expectations in the PC
 
-- If monetary policy impacts output, it is said to have real effects, or that it is non-neutral 
+- Recall: before 1970s inflation expectations set at the average level of inflation
 
-## **Medium-run equilibrium in the IS-LM-PC model** 
+- After 1970s, wage setters changed the way of setting expectations
 
-**==> picture [163 x 66] intentionally omitted <==**
+- In macro jargon, we refer to this phenomena as **de-anchoring of expectations**
 
-## : **Price flexibility** 
+- Expectations previously anchored at ത𝜋 , de-anchor and starts being determined by current inflation, so that higher inflation leads to higher expected inflation
 
-- In the medium run, prices adjust and become flexible flexible 
+- In the 1990s, inflation expectations **re-anchored** to the **target inflation rate**
 
-- Agents, particularly wage setters, adjust their expectations to align with actual prices 
+## Re-anchoring of inflation expectations in the 1900s
 
-- In the "IS-LM-PC" model, wage setters renegotiate wages in the medium run, ensuring that the expected price 𝑃[𝑒] used in wage setting aligns with the actual price 𝑃 
+- Starting the early 1980s, many CBs (including the Fed) increasingly emphasized their **commitment to maintaining low and stable inflation**
 
-## : **No role of demand and monetary neutrality** 
+- Many indicated that they would maintain inflation close to a **target value** , **typically 2%**
 
-- When prices are flexible, demand factors do not influence output 
+- By the 1990s, the Fed had largely achieved this goal, and inflation had been stable for a decade so that the **target** became **credible**
 
-- Output equals the natural level of output, 𝑌𝑛 , determined by non-demand factors such as labor market institutions, z, and degree of competition in goods markets, m 
+- Wage setters **changed again the way they formed expectations**
 
-- The ”WS-PS” model describes this medium run equilibrium, d etermining 𝑢𝑛 (and 𝑌𝑛 ) 
+- Even if inflation was higher than the target for a year, people assume that the CB would take measure to bring inflation back to target in the future
 
-- If monetary policy cannot affect output, it is said to be neutral 
+- Expected inflation become roughly constant, and equal to the target set by the CB
 
-## **From the short-run to the medium-run equilibrium in the IS-LM-PC model** 
+- **Expectations** that had become de-anchored in the 1970s and 1980s, **become re-anchored** from the 1990s, hence reacting little or not at all to movements in actual inflation
 
-There are two ways the economy can transition from short-run to medium-run equilibrium: 
+## Inflation rate, US, 1948-2024
 
-## : **Adjustment of price expectations** 
+De-anchoring Re-anchoring
 
-- Agents, particularly wage setters, revise their expectations to align with actual prices 
+## Implications of anchored expectations
 
-- We do not study this case 
+- Recall that if inflation expectations are anchored at some ത𝜋 , the PC is
 
-## : **Monetary policy stabilization** 
+- Implications:
 
-- The central bank aims to maintain stable inflation and ensure output remains at its natural level; to do that, it adjusts the policy rate accordingly 
+**If** _**Y > Yn**_ **then** _**π  >**_ ഥ𝝅, **that is, inflation is higher than target inflation**
 
-- Fiscal policy can also contribute to stabilization, but it is less flexible as a tool 
+When output is above potential the economy is in an expansion, the economy is overheated, and there are upward pressures on wages and prices
 
-In this course, the focus is on **monetary policy stabilization** , where **the interest rate (** 𝒓 **) is adjusted to its natural level (** 𝒓𝒏 **)** , as it is considered the most realistic approach 
+**If** _**Y < Yn**_ **then** _**π  <**_ ഥ𝝅, **that is, inflation is lower than target inflation**
 
-## **Revisiting the role of expectations in the PC** 
+When output is below potential the economy is in an expansion, the economy is depressed, and there are downward pressures on wages and prices
 
-- Recall: before 1970s inflation expectations set at the average level of inflation 
+**If** _**Y = Yn**_ **then** _**π  =**_ ഥ𝝅 _**,**_ **that is, inflation is equal to target inflation**
 
-**==> picture [66 x 31] intentionally omitted <==**
+When output is at potential the economy is at the “natural” equilibrium and inflation is constant
 
-- After 1970s, wage setters changed the way of setting expectations 
+## Anchored expectations: implications for inflation dynamics
 
-**==> picture [171 x 32] intentionally omitted <==**
+- As we said, a positive output gap generates **a higher level of inflation** , rather than **an increase in inflation**
 
-- In macro jargon, we refer to this phenomena as **de-anchoring of expectations** 
+- In previous analysis, when the economy reaches the new equilibrium A’, and the policy rate is at _rn_ , then output is back at potential and inflation is at ത𝜋
 
-- Expectations previously anchored at ത𝜋 , de-anchor and starts being determined by current inflation, so that higher inflation leads to higher expected inflation 
+- So long as inflation **expectations** remain **anchored** , the central bank does not need to compensate for the initial boom by a recession later
 
-- In the 1990s, inflation expectations **re-anchored** to the **target inflation rate** 
+- **Credible** CBs have an easier time, in normal times, to maintain **expected inflation anchored at** the **target level for inflation** , typically 2%
 
-## **Re-anchoring of inflation expectations in the 1900s** 
+## Inflation rate, US, 1948-2024
 
-- Starting the early 1980s, many CBs (including the Fed) increasingly emphasized their **commitment to maintaining low and stable inflation** 
+Recent inflation surge associated to fears of de-anchoring of expectations!
 
-- Many indicated that they would maintain inflation close to a **target value** , **typically 2%** 
+## A fiscal consolidation in the short and in the medium run
 
-- By the 1990s, the Fed had largely achieved this goal, and inflation had been stable for a decade so that the **target** became **credible** 
+- Suppose output is at potential and the economy is in point A: Y=Yn, r=rn and inflation is stable
 
-- Wage setters **changed again the way they formed expectations** 
+- Now the government implements a **fiscal consolidation**: it **increases taxes T**
 
-- Even if inflation was higher than the target for a year, people assume that the CB would take measure to bring inflation back to target in the future 
+- The IS curve shifts to the left. The new equilibrium is in A’. At the initial policy rate rn, output decreases (top graph) and inflation starts decreasing (bottom graph). The fiscal consolidation leads to a recession. A’ is the short run equilibrium studied in Chapter 5
 
-- Expected inflation become roughly constant, and equal to the target set by the CB 
+- The central bank is however likely to react to bring output back at potential. The LM shifts down and the economy moves to equilibrium A’’. Output increases back to potential (top graph) and inflation is again stable (bottom graph)
 
-- **Expectations** that had become de-anchored in the 1970s and 1980s, **become re-anchored** from the 1990s, hence reacting little or not at all to movements in actual inflation 
+- After the fiscal consolidation, the interest rate needed to maintain output at potential is lower, r’n rather than rn
 
-## **Inflation rate, US, 1948-2024** 
+- What do we know about **composition of output** ?
 
-De-anchoring Re-anchoring 
+- **Short run**: C lower because of higher T and lower Y;
+- I lower because of lower Y
 
-19 
+- **Medium run**: C lower because of higher T;
+- I higher because of lower r
 
-## **Implications of anchored expectations** 
+- The fiscal consolidation reduces investment in the short run, but increases investment in the medium run if the central bank can coordinate with the fiscal authorities!
 
-- Recall that if inflation expectations are anchored at some ത𝜋 , the PC is 
+## The effects of an increase in the price of oil, a supply shock
 
-**==> picture [196 x 21] intentionally omitted <==**
+## The nominal and the real price of oil, 1970−2015
 
-- Implications: 
+Over the last 50 years, there have been two sharp increases in the real price of oil, the first in the 1970s (formation of OPEC) and the second in the 2000s (higher demand from emerging economies, in particular China)
 
-**If** _**Y > Yn**_ **then** _**π  >**_ ഥ𝝅, **that is, inflation is higher than target inflation** 
+## The effects of an increase in the price of oil on the natural rate of unemployment
 
-When output is above potential the economy is in an expansion, the economy is overheated, and there are upward pressures on wages and prices 
+- Where is the price of oil in our model?
 
-**If** _**Y < Yn**_ **then** _**π  <**_ ഥ𝝅, **that is, inflation is lower than target inflation** 
+- **Oil** is an **input to production** , but we have assumed Y is produced using only N
 
-When output is below potential the economy is in an expansion, the economy is depressed, and there are downward pressures on wages and prices 
+- Can we study the effects of a change in the price of oil without changing the model? What happens when the **price of oil raises** ?
 
-**If** _**Y = Yn**_ **then** _**π  =**_ ഥ𝝅 _**,**_ **that is, inflation is equal to target inflation** 
+- Even if wages don’t change, it is more expensive to produce, that is, the **cost of producing an additional unit of Y increases**
 
-When output is at potential the economy is at the “natural” equilibrium and inflation is constant 
+- Thus, firms will **charge** a **higher price** at given wages…
 
-## **Anchored expectations: implications for inflation dynamics** 
+- This has the **same effect as an increase in the markup!**
 
-- As we said, a positive output gap generates **a higher level of inflation** , rather than **an increase in inflation** 
+- An **increase in the price of oil** is equivalent to an **increase in the markup**
 
-- In previous analysis, when the economy reaches the new equilibrium A’, and the policy rate is at _rn_ , then output is back at potential and inflation is at ത𝜋 
+- It leads to lower real wages and a higher natural rate of unemployment
 
-- So long as inflation **expectations** remain **anchored** , the central bank does not need to compensate for the initial boom by a recession later 
+- **Supply shocks change the natural rate of unemployment un and potential output Yn**
 
-- **Credible** CBs have an easier time, in normal times, to maintain **expected inflation anchored at** the **target level for inflation** , typically 2% 
+## Short and medium run effects of a raise in the price of oil
 
-## **Inflation rate, US, 1948-2024** 
+- Suppose output is at potential and the economy is in point A: Y=Yn, r=rn and inflation is stable
 
-**==> picture [564 x 387] intentionally omitted <==**
+- Now the **price of oil increases**: the natural rate of unemployment goes up and **potential output goes down**
 
-**----- Start of picture text -----**<br>
-Fears of de-anchoring<br>**----- End of picture text -----**<br>
+- **The PC curve shifts up** . The new equilibrium is in A’.  At the initial policy rate rn and if the **IS curve does not shift** , output is unchanged, but the associated inflation is higher. For given wages, the higher price of oil leads firms to increase their prices , so inflation is higher
+*(See also: [[L13 & L14 ISLMPC#^1zzryo]])*
 
+- If the central bank were to leave the policy rate unchanged, output would remain higher than the now lower potential output and inflation would continue increasing
 
-Recent inflation surge associated to fears of de-anchoring of expectations! 
+- The central bank is however likely to react to stabilize inflation. The LM shifts up and the economy moves to equilibrium A’’. Output decreases to the new potential level and inflation increases but more and more slowly until it is again stable
 
-22 
+- **Stagflation** - lower output and higher inflation -  occurs along the transition
 
-## **A fiscal consolidation in the short and in the medium run** 
+## Short and medium run effects of a raise in the price of oil
 
-- Suppose output is at potential and the economy is in point A: Y=Yn, r=rn and inflation is stable 
+- Three key observations
 
-- Now the government implements a **fiscal consolidation** : it **increases taxes T** 
+- **First** , when the price of oil increases there are several reasons demand could also change, shifting the IS curve
 
-- The IS curve shifts to the left. The new equilibrium is in A’. At the initial policy rate rn, output decreases (top graph) and inflation starts decreasing (bottom graph). The fiscal consolidation leads to a recession. A’ is the short run equilibrium studied in Chapter 5 
+- First, firms could reduce their investment plans
 
-- The central bank is however likely to react to bring output back at potential. The LM shifts down and the economy moves to equilibrium A’’. Output increases back to potential (top graph) and inflation is again stable (bottom graph) 
+- Second, the increase in the price of oil redistributes resources from oil producers to oil buyers. If oil producers consume less than oil buyers, overall demand will go down
 
-- After the fiscal consolidation, the interest rate needed to maintain output at potential is lower, r’n rather than rn 
+- If, for the reasons above, the IS curve shifts to the left, then **output goes down also in the short run**
 
-- What do we know about **composition of output** ? 
+- **Second** , consider the evolution of inflation
 
-   - **Short run** : C lower because of higher T and lower Y; I lower because of lower Y 
+- In A’’ inflation will be higher than in A, before the raise in the price of oil, since inflation has been continuously raising
 
-   - **Medium run** : C lower because of higher T; I higher because of lower r 
+- To lower inflation back to the initial level, the central bank must reduce Y below the new natural level for some time
 
-   - The fiscal consolidation reduces investment in the short run, but increases investment in the medium run if the central bank can coordinate with the fiscal authorities! 
+- In this case, the economy will go through a **larger recession** with **only a partial recovery**
 
-**==> picture [300 x 421] intentionally omitted <==**
+- **Third** , consider the role of price expectations
 
-## **The effects of an increase in the price of oil, a supply shock** 
+- Suppose expected inflation is constant, as opposed to equal to last year inflation (because inflation targeting and CB credibility)
 
-## **The nominal and the real price of oil, 1970−2015** 
+- Then when the economy reaches A’’, inflation is back to the level before the increase in the price of oil
 
-**==> picture [134 x 53] intentionally omitted <==**
+- There is no need for the central bank to further decrease output to decrease inflation
 
-**==> picture [485 x 264] intentionally omitted <==**
+## The zero lower bounds and deflation spiral
 
-Over the last 50 years, there have been two sharp increases in the real price of oil, the first in the 1970s (formation of OPEC) and the second in the 2000s (higher demand from emerging economies, in particular China) 
+- Consider the case in which the economy is in a recession: at equilibrium A, at the current policy rate r, output is far below _Yn_
 
-## **The effects of an increase in the price of oil on the natural rate of unemployment** 
+- What should the central bank do? Reduce the policy rate until output is back to potential, that is, until _r=rn_
 
-- Where is the price of oil in our model? 
+- If the **zero lower bound** prevents monetary policy from reducing to potential, the result may be a _r_ to _rn_ and increasing output back **deflation spiral** or a **deflation trap**
 
-- **Oil** is an **input to production** , but we have assumed Y is produced using only N 
+- Assume that initially the inflation rate is 0, then because of the zero lower bound the minimum real rate that the central bank can achieve is 0 and an associated level of output Y’ still below potential output (equilibrium A’)
 
-- Can we study the effects of a change in the price of oil without changing the model? What happens when the **price of oil raises** ? 
+- Since output is below potential, inflation decreases but as inflation decreases and becomes negative (a deflation) causing the real interest rate to increase and output to decrease further
 
-- Even if wages don’t change, it is more expensive to produce, that is, the **cost of producing an additional unit of Y increases** 
+- More deflation leads to a higher real policy rate, and the higher policy rate in turn leads to lower output and more deflation
 
-- Thus, firms will **charge** a **higher price** at given wages… 
+- Instead of converging to the medium run equilibrium the economy moves away from it, with output steadily decreasing and deflation steadily becoming larger
 
-- This has the **same effect as an increase in the markup!** 
+## Deflation in the Great Depression
 
-**==> picture [363 x 304] intentionally omitted <==**
+- The economy seemed to be in a deflation trap between 1929 and 1933
 
-- An **increase in the price of oil** is equivalent to an **increase in the markup** 
+- Monetary policy decreased the nominal interest rate from 5.3% to 2.6% in 1933, but with negative inflation rates, the real rate reached 12.3% in 1931 and 7.8% in 1933
 
-- It leads to lower real wages and a higher natural rate of unemployment 
+- Deflation turned larger and larger, output growth turned increasingly negative and unemployment increasingly high
 
-- **Supply shocks change the natural rate of unemployment un and potential output Yn** 
+**The Nominal Interest Rate, Inflation, and the Real Interest Rate, 1929−1933**
 
-## **Short and medium run effects of a raise in the price of oil** 
+## Deflation in the Great Recession
 
-- Suppose output is at potential and the economy is in point A: Y=Yn, r=rn and inflation is stable 
+- The financial crisis gave rise to similar worries
 
-- Now the **price of oil increases** : the natural rate of unemployment goes up and **potential output goes down** 
+- With the nominal policy rate at the zero lower bound in major advanced economies, the worry was that inflation would turn negative and start a similar spiral
 
-- **The PC curve shifts up** . The new equilibrium is in A’.  At the initial policy rate rn and if the **IS curve does not shift** , output is unchanged, but the associated inflation is higher. For given wages, the higher price of oil leads firms to increase their prices , so inflation is higher 
+- This did not happen. Inflation decreased and, in some countries, it turned negative, but **deflation was limited,** and the deflation spiral did not happen. Why?
 
-- If the central bank were to leave the policy rate unchanged, output would remain higher than the now lower potential output and inflation would continue increasing 
+- One reason is that inflation **expectations remained largely anchored**
 
-- The central bank is however likely to react to stabilize inflation. The LM shifts up and the economy moves to equilibrium A’’. Output decreases to the new potential level and inflation increases but more and more slowly until it is again stable 
+- As a result, the Philips curve equation took the form of
 
-- **Stagflation** - lower output and higher inflation -  occurs along the transition 
+𝜋= 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛
 
-**==> picture [306 x 443] intentionally omitted <==**
+- Negative output gaps led to low inflation and, in some cases, to mild deflation, but not to a deflation trap as it was the case during the Great Depression
 
-## **Short and medium run effects of a raise in the price of oil** 
+- **Credibility** of modern central banks has been key
 
-## • Three key observations 
+## The IS-LM-PC model with math
 
-- **First** , when the price of oil increases there are several reasons demand could also change, shifting the IS curve 
+- **IS curve**: captures **short-run aggregate demand** forces
 
-   - First, firms could reduce their investment plans 
+- **LM curve**: captures **short-run** effects of **monetary policy**
 
-   - Second, the increase in the price of oil redistributes resources from oil producers to oil buyers. If oil producers consume less than oil buyers, overall demand will go down 
+- **PC:** captures **medium-run aggregate supply** forces
 
-   - If, for the reasons above, the IS curve shifts to the left, then **output goes down also in the short run** 
+- If 𝜋(𝑒) = ത𝜋→𝜋= 𝑌−𝑌 → PC is a relation between π −ത𝜋 and 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛 𝑛
 
-## • **Second** , consider the evolution of inflation 
+- If 𝜋(𝑒) = 𝜋 →𝜋= 𝜋 𝑌−𝑌 → PC is a relation between 𝜋−𝜋 and 𝑌−𝑌 −1 −1 + (𝛼/𝐿) 𝑛 −1 𝑛
 
-   - In A’’ inflation will be higher than in A, before the raise in the price of oil, since inflation has been continuously raising 
+## The IS-LM-PC model with graphs Medium run equilibrium
 
-   - To lower inflation back to the initial level, the central bank must reduce Y below the new natural level for some time 
+## The IS-LM-PC model with graphs Short run equilibrium: recession
 
-   - In this case, the economy will go through a **larger recession** with **only a partial recovery** 
+PC with unanchored expectations
 
-- **Third** , consider the role of price expectations 
+PC with anchored expectations
 
-   - Suppose expected inflation is constant, as opposed to equal to last year inflation (because inflation targeting and CB credibility) 
+## Summing up and conclusions
 
-   - Then when the economy reaches A’’, inflation is back to the level before the increase in the price of oil 
+- Shocks or changes in policy typically have different effects in the short run and in the medium run
 
-   - There is no need for the central bank to further decrease output to decrease inflation 
+- Disagreements about the effects of various policies depend on how fast the economy is thought to adjust to shocks, that is, whether the focus is on the short or the medium run
 
-**==> picture [306 x 443] intentionally omitted <==**
+- Movements in output around its trend are called **output fluctuations business cycles**
 
-## **The zero lower bounds and deflation spiral** 
+- **Economic fluctuations** are the results of shocks and their dynamic effects, called the **propagation mechanism**
 
-- Consider the case in which the economy is in a recession: at equilibrium A, at the current policy rate r, output is far below _Yn_ 
+## Summing up and conclusions
 
-- What should the central bank do? Reduce the policy rate until output is back to potential, that is, until _r=rn_ 
+- We have thought of **monetary policy** as the key policy tool to bring the economy back to its **medium run equilibrium**
 
-- If the **zero lower bound** prevents monetary policy from reducing to potential, the result may be a _r_ to _rn_ and increasing output back **deflation spiral** or a **deflation trap** 
+- However, **fiscal policy** can also be used as a tool to **stabilize business cycles**
 
-- Assume that initially the inflation rate is 0, then because of the zero lower bound the minimum real rate that the central bank can achieve is 0 and an associated level of output Y’ still below potential output (equilibrium A’) 
+- We have looked at **two** types of **shocks** causing short run changes in output and inflation: a **fiscal consolidation** and an **increase in the price of oil**
 
-- Since output is below potential, inflation decreases but as inflation decreases and becomes negative (a deflation) causing the real interest rate to increase and output to decrease further 
+- We have assumed monetary policy moves to offset the short run effects
 
-- More deflation leads to a higher real policy rate, and the higher policy rate in turn leads to lower output and more deflation 
+- A key difference between the two types of shocks is that the first only changes aggregate demand, while the second also changes the natural level of output
 
-- Instead of converging to the medium run equilibrium the economy moves away from it, with output steadily decreasing and deflation steadily becoming larger 
+- **Other types of shocks** are: a **financial shock** (change in x); a **consumer confidence shock** (change in c0); a change in **labor market institutions** (change in z), etc…
 
-**==> picture [293 x 407] intentionally omitted <==**
+- We studied the consequences of the **ZLB** and the possibility of a **deflation spiral**
 
-## **Deflation in the Great Depression** 
+- We have looked at **two PC** associated to two ways of setting **inflation expectations**
 
-- The economy seemed to be in a deflation trap between 1929 and 1933 
-
-- Monetary policy decreased the nominal interest rate from 5.3% to 2.6% in 1933, but with negative inflation rates, the real rate reached 12.3% in 1931 and 7.8% in 1933 
-
-- Deflation turned larger and larger, output growth turned increasingly negative and unemployment increasingly high 
-
-**The Nominal Interest Rate, Inflation, and the Real Interest Rate, 1929−1933** 
-
-**==> picture [570 x 181] intentionally omitted <==**
-
-## **Deflation in the Great Recession** 
-
-- The financial crisis gave rise to similar worries 
-
-- With the nominal policy rate at the zero lower bound in major advanced economies, the worry was that inflation would turn negative and start a similar spiral 
-
-- This did not happen. Inflation decreased and, in some countries, it turned negative, but **deflation was limited,** and the deflation spiral did not happen. Why? 
-
-- One reason is that inflation **expectations remained largely anchored** 
-
-- As a result, the Philips curve equation took the form of 
-
-𝜋= 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛 
-
-- Negative output gaps led to low inflation and, in some cases, to mild deflation, but not to a deflation trap as it was the case during the Great Depression 
-
-- **Credibility** of modern central banks has been key 
-
-## **The IS-LM-PC model with math** 
-
-## • **IS curve** : captures **short-run aggregate demand** forces 
-
-**==> picture [269 x 19] intentionally omitted <==**
-
-- **LM curve** : captures **short-run** effects of **monetary policy** 
-
-**==> picture [47 x 13] intentionally omitted <==**
-
-- **PC:** captures **medium-run aggregate supply** forces 
-
-**==> picture [206 x 21] intentionally omitted <==**
-
-- If 𝜋[𝑒] = ത𝜋→𝜋= 𝑌−𝑌 → PC is a relation between π −ത𝜋 and 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛 𝑛 
-
-- If 𝜋[𝑒] = 𝜋 →𝜋= 𝜋 𝑌−𝑌 → PC is a relation between 𝜋−𝜋 and 𝑌−𝑌 −1 −1 + (𝛼/𝐿) 𝑛 −1 𝑛 
-
-## **The IS-LM-PC model with graphs Medium run equilibrium** 
-
-**==> picture [686 x 430] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑟 𝑟<br>𝐿𝑀<br>ҧ𝑟=𝑟 𝐿𝑀 ҧ𝑟=𝑟<br>𝑛 𝑛<br>𝐼𝑆 𝐼𝑆<br>Y<br>𝑌<br>𝑌 [𝑛] 𝑌 [𝑛]<br>π −ത𝜋 𝑃𝐶 π −𝜋−1 𝑃𝐶<br>0 0<br>Y Y<br>𝑌 [𝑛] 𝑌 [𝑛]<br>PC with anchored expectations PC with unanchored expectations<br>**----- End of picture text -----**<br>
-
-
-32 
-
-## **The IS-LM-PC model with graphs Short run equilibrium: recession** 
-
-**==> picture [686 x 398] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑟 𝑟<br>𝐴 𝐴<br>𝐿𝑀<br>ҧ𝑟 𝐿𝑀 ҧ𝑟<br>𝑟<br>𝑛<br>𝑟<br>𝑛<br>𝐼𝑆 𝐼𝑆<br>𝑌 𝑌 [𝑛] Y 𝑌 𝑌 [𝑛] Y<br>π −ത𝜋 𝑃𝐶 π −𝜋−1 𝑃𝐶<br>0<br>0<br>𝑌 𝑌 [𝑛] Y 𝑌 𝑌 [𝑛] Y<br>π −𝜋<br>π −ത𝜋 −1<br>𝐴 𝐴<br>**----- End of picture text -----**<br>
-
-
-PC with unanchored expectations 
-
-PC with anchored expectations 
-
-33 
-
-## **Summing up and conclusions** 
-
-- Shocks or changes in policy typically have different effects in the short run and in the medium run 
-
-- Disagreements about the effects of various policies depend on how fast the economy is thought to adjust to shocks, that is, whether the focus is on the short or the medium run 
-
-- Movements in output around its trend are called **output fluctuations business cycles** 
-
-- **Economic fluctuations** are the results of shocks and their dynamic effects, called the **propagation mechanism** 
-
-## **Summing up and conclusions** 
-
-- We have thought of **monetary policy** as the key policy tool to bring the economy back to its **medium run equilibrium** 
-
-- However, **fiscal policy** can also be used as a tool to **stabilize business cycles** 
-
-- We have looked at **two** types of **shocks** causing short run changes in output and inflation: a **fiscal consolidation** and an **increase in the price of oil** 
-
-   - We have assumed monetary policy moves to offset the short run effects 
-
-   - A key difference between the two types of shocks is that the first only changes aggregate demand, while the second also changes the natural level of output 
-
-- **Other types of shocks** are: a **financial shock** (change in x); a **consumer confidence shock** (change in c0); a change in **labor market institutions** (change in z), etc… 
-
-- We studied the consequences of the **ZLB** and the possibility of a **deflation spiral** 
-
-- We have looked at **two PC** associated to two ways of setting **inflation expectations** 
-
+## Related Notes
+- [[L13 & L14 ISLMPC]]
+- [[L15 ISLMPC Shock]]
+- [[L12 Phillips Curve]]

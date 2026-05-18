@@ -1,682 +1,493 @@
-FROM THE SPREAD OF IR TO THE SECOND IR ALFANI-COLLI, CH. 5.3 AND 6 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "6_The industrialisation process_2"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Economic history A.y. 2025/2026 Sonia Schifano 
+FROM THE SPREAD OF IR TO THE SECOND IR ALFANI-COLLI, CH. 5.3 AND 6
 
-## IN THIS CLASS 
+Economic history A.y. 2025/2026 Sonia Schifano
 
-- When and how industrialisation spreads (regional factors) 
+## IN THIS CLASS
 
-- When industry does not take off on its own 
+- When and how industrialisation spreads (regional factors)
 
-- The role of universal banks 
+- When industry does not take off on its own
 
-- The role of the State 
+- The role of universal banks
 
-**==> picture [705 x 217] intentionally omitted <==**
+- The role of the State
 
-**----- Start of picture text -----**<br>
-Gerschenkron theory<br>Pollard theory<br>JPN<br>GB BEL CH FRA USA GER ITA<br>RUS<br>First Industrial Revolution Second Industrial Revolution<br>1800 1870<br>1914<br>**----- End of picture text -----**<br>
+2024/2025
 
+30067 - cl- 15
 
-2024/2025 
+## THE LONG WAY TO INDUSTRIALISATION
 
-30067 - cl- 15 
+- England strenuously defended ‘its’ inventions but:
 
-2 
+- from 1824 English craftsmen could legally expatriate and from 1825 they could start producing machinery abroad under licence.
 
-## THE LONG WAY TO INDUSTRIALISATION 
+- from 1843, with the adoption of a free-trade policy, restrictions on the movement of labour were completely removed.
 
-- England strenuously defended ‘its’ inventions but: 
+- This favoured the spread of the new production systems across the whole European continent.
 
-   - from 1824 English craftsmen could legally expatriate and from 1825 they could start producing machinery abroad under licence. 
+2024/2025
 
-   - from 1843, with the adoption of a free-trade policy, restrictions on the movement of labour were completely removed. 
+30067 - cl- 15
 
-- This favoured the spread of the new production systems across the whole European continent. 
+2024/2025
 
-2024/2025 
+30067 - cl- 15
 
-30067 - cl- 15 
+## THE LONG WAY TO INDUSTRIALISATION
 
-3 
+- The first regions to adopt English technologies were Belgium, Alsace, Rhineland, Northern France, (Protestant) Switzerland, Saxony, Bohemia, and Lombardy. ^zug3yg
 
-**==> picture [670 x 466] intentionally omitted <==**
+- Why? **They were already part of mercantile exchange circuits and/or had a well-established manufacturing tradition.**
 
-2024/2025 
+- These regions began by imitating the production and the organisational system of the English industry, looking in particular at the textile sector.
 
-30067 - cl- 15 
+2024/2025
 
-4 
+30067 - cl- 15
 
-## THE LONG WAY TO INDUSTRIALISATION 
+## POLLARD THEORY
 
-- The first regions to adopt English technologies were Belgium, Alsace, Rhineland, Northern France, (Protestant) Switzerland, Saxony, Bohemia, and Lombardy. 
+- According to a model theorised by Sidney Pollard, the spread of industrialisation in Europe is the
 
-- Why? **They were already part of mercantile exchange circuits and/or had a well-established manufacturing tradition.** 
+result of numerous **regional developments**:
 
-- These regions began by imitating the production and the organisational system of the English industry, looking in particular at the textile sector. 
+- development does not take place nationally, but regionally (i.e. by homogeneous areas, not
 
-2024/2025 
+- necessarily belonging to the same country)
 
-30067 - cl- 15 
+- homogeneity in resources and human capital was particularly crucial
 
-5 
+→ all countries have developed areas and backward areas
 
-## POLLARD THEORY 
+## ! Given the same resources, the institutional contexts were often very different and therefore
 
-- According to a model theorised by Sidney Pollard, the spread of industrialisation in Europe is the 
+## development had different speeds and characteristics from region to region!
 
-result of numerous **regional developments** : 
+2024/2025
 
-- development does not take place nationally, but regionally (i.e. by homogeneous areas, not 
+30067 - cl- 15
 
-   - necessarily belonging to the same country) 
+## POLLARD THEORY
 
-- homogeneity in resources and human capital was particularly crucial 
+- An additional concept introduced by Pollard and important for understanding industrialization is the socalled " **contemporaneity differential** ":
 
-→ all countries have developed areas and backward areas 
+- Developments in the international economy interfere with the development plans of individual countries, directing their effects either positively or negatively.
 
-## **! Given the same resources, the institutional contexts were often very different and therefore** 
+- An example is the railways, built in all European countries and in the USA during the 19th century, but with very different results:
 
-## **development had different speeds and characteristics from region to region!** 
+- Great Britain = followed industrial development and were a consequence of it.
 
-2024/2025 
+- France, Germany, USA = the railways promoted development.
 
-30067 - cl- 15 
+- Italy = the railways caused great expenses without particular benefits.
 
-6 
+## RAILWAYS AND ECONOMIC GROWTH
 
-## POLLARD THEORY 
+- WHY ARE RAILWAYS SO IMPORTANT?
 
-- An additional concept introduced by Pollard and important for understanding industrialization is the socalled " **contemporaneity differential** ": 
+**1. Economic and industrial impact:** he railway system was a powerful engine for economic growth. It created a massive demand for materials like coal, iron, and steel, which in turn stimulated the growth of industries like mining, metallurgy, and engineering. The construction of railways themselves became a major industry, employing millions and spurring innovation in civil engineering. ^bb3lc2
+*(See also: [[Economic History Blab Handout 2024-2025 A.Y.#^89ptvv]])*
 
-- Developments in the international economy interfere with the development plans of individual countries, directing their effects either positively or negatively. 
+**2. Social and cultural transformation**: for the first time, mass travel became accessible to the general public. This facilitated migration from rural areas to burgeoning urban centers, fueling the growth of cities and suburbs.. The railway also accelerated the spread of ideas and information.
 
-- An example is the railways, built in all European countries and in the USA during the 19th century, but with very different results: 
+**3. Global expansion and colonialism: t** he railway revolution was not confined to Europe and North America. It became a crucial tool for imperial expansion, particularly in colonies like India and across Africa. Colonial powers used railways to efficiently transport raw materials from the interior to coastal ports for export.
 
-   - Great Britain = followed industrial development and were a consequence of it. 
+## BELGIUM
 
-   - France, Germany, USA = the railways promoted development. 
+Was the first country to adopt the British model
 
-   - Italy = the railways caused great expenses without particular benefits. 
+- Institutions
 
-**==> picture [254 x 129] intentionally omitted <==**
+- Proximity
 
-**==> picture [246 x 160] intentionally omitted <==**
+- Industrial tradition – manufacture – cotton - linen
 
-**==> picture [285 x 402] intentionally omitted <==**
+- Commerce
 
-**==> picture [277 x 392] intentionally omitted <==**
+- Transportation – State intervention in 1830 for a basic railway network
 
-**==> picture [277 x 392] intentionally omitted <==**
+- → Infusion of foreign technologies
 
-## RAILWAYS AND ECONOMIC GROWTH 
+- Natural resources
 
-- WHY ARE RAILWAYS SO IMPORTANT? 
+- Mining industry
 
-**1. Economic and industrial impact:** he railway system was a powerful engine for economic growth. It created a massive demand for materials like coal, iron, and steel, which in turn stimulated the growth of industries like mining, metallurgy, and engineering. The construction of railways themselves became a major industry, employing millions and spurring innovation in civil engineering. 
+- Canals connecting Belgium with northern France
 
-**2. Social and cultural transformation** : for the first time, mass travel became accessible to the general public. This facilitated migration from rural areas to burgeoning urban centers, fueling the growth of cities and suburbs.. The railway also accelerated the spread of ideas and information. 
+- → Attractive incentives from French capital
 
-**3. Global expansion and colonialism: t** he railway revolution was not confined to Europe and North America. It became a crucial tool for imperial expansion, particularly in colonies like India and across Africa. Colonial powers used railways to efficiently transport raw materials from the interior to coastal ports for export. 
+2024/2025
 
-**==> picture [259 x 383] intentionally omitted <==**
+30067 - cl- 15
 
-## BELGIUM 
+## FRANCE-THE FRENCH PARADOX
 
-Was the first country to adopt the British model 
+- Backwardness (but different phases) 17001750-1800-1850
 
-- Institutions 
+- Low demographic growth
 
-- Proximity 
+- French Revolution
 
-- Industrial tradition – manufacture – cotton - linen 
+- Napoleonic Civil Code and Commercial Code
 
-- Commerce 
+- No richness in coal – importing 30% of coal supplies
 
-- Transportation – State intervention in 1830 for a basic railway network 
+- Machine production – export and domestic texile industry
 
-      - → Infusion of foreign technologies 
+- Small scale enterprises – water dependence
 
-- Natural resources 
+- Food self-sufficiency
 
-   - Mining industry 
+2024/2025
 
-   - Canals connecting Belgium with northern France 
+30067 - cl- 15
 
-      - → Attractive incentives from French capital 
+## THE SECOND INDUSTRIAL REVOLUTION
 
-**==> picture [401 x 368] intentionally omitted <==**
+## THE DOUBLE LEAP
 
-2024/2025 
+- Late-industrializing nations faced a unique «double leap».
 
-30067 - cl- 15 
+- This dual challenge required massive capital and coordinated strategy, often beyond the capacity of the private sector alone.
 
-10 
+- The two fronts:
 
-## FRANCE-THE FRENCH PARADOX 
+- **First Industrial Revolution (Catch-up):** They had to modernize existing industries, particularly in areas like textiles, coal mining, and iron production. These were the foundational sectors of the initial industrial age.
 
-- Backwardness (but different phases) 17001750-1800-1850 
+- **Second Industrial Revolution (New Frontiers):** Simultaneously, they had to invest heavily in the emerging, capital-intensive sectors of the new era.
 
-- Low demographic growth 
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-- French Revolution 
+- Scientific knowledge applied to production processes: more and more **R&D** .
 
-- Napoleonic Civil Code and Commercial Code 
 
-- No richness in coal – importing 30% of coal supplies 
 
-- Machine production – export and domestic texile industry 
+- Emergence of big business with **new organisational structures**
 
-- Small scale enterprises – water dependence 
+- New industrial sectors → **increasingly capital intensive**
 
-- Food self-sufficiency 
+- The United States outperforms Great Britain to become the centre of the world economy.
 
-**==> picture [408 x 279] intentionally omitted <==**
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-2024/2025 
+The **new technologies** have different characteristics to those of the first industrial revolution:
 
-30067 - cl- 15 
+- **greater capital intensity**
 
-11 
+- much closer relationship between **science and technology**
 
-## THE SECOND INDUSTRIAL REVOLUTION 
+- greater number of **industrial sectors** involved in innovation
 
-**==> picture [486 x 384] intentionally omitted <==**
+Within a few decades, industrial **R&D** laboratories become key locations for technological innovation processes and science becomes key to generating innovation
 
-A.y. 2025/2026 
+Growth accelerates at a faster pace than during the first industrial revolution.
 
-30067 
+## INDUSTRIALISATION AND ECONOMIC GROWTH
 
-12 
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-## THE DOUBLE LEAP 
+- **Steel production**: new processes
 
-- Late-industrializing nations faced a unique «double leap». 
+- invented between 1856 and 1876 allow mass production. Volumes of output soar from the 1880s.
 
-- This dual challenge required massive capital and coordinated strategy, often beyond the capacity of the private sector alone. 
+- 1856: Bessemer method
 
-- The two fronts: 
+- 1856-67: Martin-Siemens oven
 
-   - **First Industrial Revolution (Catch-up):** They had to modernize existing industries, particularly in areas like textiles, coal mining, and iron production. These were the foundational sectors of the initial industrial age. 
+- 1878-79: Gilchrist Thomas method
 
-   - **Second Industrial Revolution (New Frontiers):** Simultaneously, they had to invest heavily in the emerging, capital-intensive sectors of the new era. 
+_Early iron / steel production in some key countries. Note logarithmic scale and change of time scale for Russia and Japan_
 
-**==> picture [346 x 318] intentionally omitted <==**
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+Also fundamental was the development of the chemical industry:
 
-- Scientific knowledge applied to production processes: more and more **R&D** . 
+- artificial dyes
 
-- . 
+- fertilisers
 
-- Emergence of big business with **new organisational structures** 
+- pharmaceutical products
 
-- New industrial sectors → **increasingly capital intensive** 
+- explosives (nitro-glycerine)
 
-- The United States outperforms Great Britain to become the centre of the world economy. 
+- synthetic fibres
 
-A.y. 2025/2026 
+Organic chemistry is the field in which Germany acquires lasting international leadership thanks to effective cooperation between **universities and industry**
 
-30067 
+## → **Science!**
 
-14 
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+## Electricity
 
-The **new technologies** have different characteristics to those of the first industrial revolution: 
+## Food processing/preservation processes
 
-- **greater capital intensity** 
+- electric motor and dynamo (1820s-30s)
 
-- much closer relationship between **science and technology** 
+- telegraph (1840s-60s)
 
-- greater number of **industrial sectors** involved in innovation 
+- electricity generation and distribution (1880s)
 
-Within a few decades, industrial **R&D** laboratories become key locations for technological innovation processes and science becomes key to generating innovation 
+- canning, used especially in the USA since the 1860s
 
-Growth accelerates at a faster pace than during the first industrial revolution. 
+- mechanical refrigeration
 
-A.y. 2025/2026 
+## Internal combustion engine
 
-30067 
+## Light mechanics
 
-15 
+- automobile (Daimler & Benz;
+- Diesel, 1880s90s)
 
-## INDUSTRIALISATION AND ECONOMIC GROWTH 
+- typewriter
 
-**==> picture [773 x 329] intentionally omitted <==**
+- sewing machine
 
-A.y. 2025/2026 
+## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
 
-30067 
+The transition from the factory of the first industrial revolution to the large modern enterprise of the late 19th century is facilitated  by new technologies and by the enlargement of markets.
 
-16 
+The mid-19th century saw a revolution in transport and communications:
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+- telegraph (1840), transatlantic cables (1860), telephone (1870)
 
-- **Steel production** : new processes 
+- trains and steam navigation
 
-   - invented between 1856 and 1876 allow mass production. Volumes of output soar from the 1880s. 
+- Suez Canal (1859-69) and Panama Canal (1881)
 
-- 1856: Bessemer method 
+## The main consequences were:
 
-- 1856-67: Martin-Siemens oven 
+- **the decline in transport costs**
 
-- 1878-79: Gilchrist Thomas method 
+- the **creation of a national (and later international) market** served quickly, extensively and reliably
 
-**==> picture [449 x 310] intentionally omitted <==**
+## THE RISE OF BIG BUSINESS
 
-A.y. 2025/2026 
+- Constitutive characteristics of the large enterprise:
 
-30067 
+- facilities capable of achieving **economies of scale**
 
-17 
+- **vertical integration**: raw materials ⟶ intermediate products ⟶ distribution
 
-**==> picture [550 x 391] intentionally omitted <==**
+- **managerial hierarchies** (organisational evolution)
 
-_Early iron / steel production in some key countries. Note logarithmic scale and change of time scale for Russia and Japan_ 
+The emergence of the large enterprise alters the dynamics of competition:
 
-A.y. 2025/2026 
+- ⟶
 
-30067 
+- strong industrial concentration **oligopolistic markets**
 
-18 
+- penetration of foreign markets ⟶ _**multinationalisation**_
 
-**==> picture [752 x 464] intentionally omitted <==**
+...and generates dualism between sectors at the technological frontier and sectors with traditional technologies
 
-A.y. 2025/2026 
+## THE RISE OF BIG BUSINESS
 
-30067 
+Big business brings with it major changes in the organisation of work.
 
-19 
+In the Victorian factory
 
-**==> picture [914 x 366] intentionally omitted <==**
+→ the organisation of production (time and methods of work) is in the hands of . **department heads**
 
-A.y. 2025/2026 
+In the factory system that emerged between the 19th and 20th centuries
 
-30067 
+→ the system of organisation is in the hands of **managerial figures** , members of the management team.
 
-20 
+The main innovators in this field are Frederick Taylor, Henry Ford, Charles Eugène Bedaux, and Taiichi Ohno.
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+## HOW CAN BACKWARDNESS BE ADDRESSED?
 
-Also fundamental was the development of the chemical industry: 
+2024/2025
 
-- artificial dyes 
+30067 - cl- 15
 
-- fertilisers 
+## THE GERSCHENKRON MODEL
 
-- pharmaceutical products 
+- **Alexander Gerschenkron** described **the advantages of backwardness** . In his model, it is not the long-term dynamics that are central, but above all the phases of ‘ **preparation** ’ and economic take-off.
 
-- explosives (nitro-glycerine) 
+- Since each nation has a unique **pre-set of conditions** that differ from those of its neighbours, it goes without saying that the various national development processes will each be different.
 
-- synthetic fibres 
+- The more distant prerequisites a country has from the leading economy, the more it will have to change its development model in order to be successful. Conversely, the more a country has similar prerequisites to the first comer, the more the model will be able to follow the one adopted by the latter.
 
-Organic chemistry is the field in which Germany acquires lasting international leadership thanks to effective cooperation between **universities and industry** 
+2024/2025
 
-## → **Science!** 
+30067 - cl- 15
 
-A.y. 2025/2026 
+## THE GERSCHENKRON MODEL
 
-30067 
+- In this model, backwardness brings advantages: it will be possible to imitate the winning technologies of the other competitors without going through a process of slow research and development.
 
-21 
+- In this way there will be:
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+- faster development
 
-## **Electricity** 
+- fast-pace development of large-scale industry
 
-## **Food processing/preservation processes** 
+- less agricultural growth
 
-- electric motor and dynamo (1820s-30s) 
+- greater importance of institutions
 
-- telegraph (1840s-60s) 
+- greater dependence on foreign capital and resources
 
-- electricity generation and distribution (1880s) 
+2024/2025
 
-- canning, used especially in the USA since the 1860s 
+30067 - cl- 15
 
-- mechanical refrigeration 
+## THE GERSCHENKRON MODEL
 
-## **Internal combustion engine** 
+- The ‘natural’ consequence of this model is that the state/region that initially holds the leadership is not necessarily the same one that continues to prosper.
 
-## **Light mechanics** 
+- England vs US
 
-- automobile (Daimler & Benz; Diesel, 1880s90s) 
+(we are applying this model to industrialisation, but it is also valid within a single industrial sector…)
 
-- typewriter 
+2024/2025
 
-- sewing machine 
+30067 - cl- 15
 
-A.y. 2025/2026 
+## THE LONG WAY TO INDUSTRIALISATION
 
-30067 
+- Being at a disadvantage also allows backward countries to find substitutes for the factors necessary for industrialization lacking in their own countries, just as the advanced countries did in the past.
 
-22 
+- Gerschenkron in his essay _Economic Backwardness in Historical Perspective_ (published in 1962) called them **substitute factors** .
 
-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION 
+- The state and the universal bank system, for instance, palyed a central role in the development of many European countries on the Continent.
 
-The transition from the factory of the first industrial revolution to the large modern enterprise of the late 19th century is facilitated  by new technologies and by the enlargement of markets. 
+2024/2025
 
-The mid-19th century saw a revolution in transport and communications: 
+30067 - cl- 15
 
-- telegraph (1840), transatlantic cables (1860), telephone (1870) 
+## THE ROLE OF SUBSTITUTIVE FACTORS: UNIVERSAL BANKS
 
-- trains and steam navigation 
+As we have seen, economic growth generates the need for a supportive and more articulated financial system. In England the banking system had time not only to develop, but also to better articulate and to (hyper) specialise itself, creating a number of different services able to cover the different needs of the market.
 
-- Suez Canal (1859-69) and Panama Canal (1881) 
+In the **Continent** , the much faster pace of growth led to the creation of **Universal Banks**: institutes more ‘generalist’ in nature that could offer a number of financial services, including **both commercial and investment banking** services. ^s2m96v
 
-## The main consequences were: 
+Universal Banks are **joint-stock companies** and their specificity makes them highly exposed to the risk of liquidity crises.
 
-- **the decline in transport costs** 
+2024/2025
 
-- the **creation of a national (and later international) market** served quickly, extensively and reliably 
+30067 - cl- 15
 
-A.y. 2025/2026 
+## THE ROLE OF SUBSTITUTIVE FACTORS: THE STATE
 
-30067 
+After the mid-19th century, the conditions for industrial development became increasingly difficult due to the high costs of production plants and due to the increasing relative backwardness of the laggard countries.
 
-23 
+The role of the state in promoting industrialisation processes became decisive and was expressed through a range of instruments:
 
-**==> picture [960 x 474] intentionally omitted <==**
+- protectionist policies
 
-**----- Start of picture text -----**<br>
-1840<br>1880<br>1850<br>**----- End of picture text -----**<br>
+- fiscal system
 
+- state contracts
 
-A.y. 2025/2026 
+- subsidies
 
-30067 
+- financing and management of infrastructure and enterprises
 
-24 
+- industrial bailouts / rescue
 
-**==> picture [510 x 285] intentionally omitted <==**
+2024/2025
 
-**==> picture [431 x 352] intentionally omitted <==**
+30067 - cl- 15
 
-A.y. 2025/2026 
+## GERMANY
 
-30067 
+- Up to 1833 – awareness of the economic changes occurring in France, Belgium, Britain
 
-25 
+- From 1834 to 1870 imitation and borrowing
 
-**==> picture [660 x 484] intentionally omitted <==**
+- Modern industry (transportation – finance)
 
-A.y. 2025/2026 
+- After 1870 industrial supremacy in Western Europe
 
-30067 
+- Its supremacy was based on production of capital goods or intermediate products for industrial production
 
-26 
+- Coal, iron, steel
 
-## THE RISE OF BIG BUSINESS 
+- Chemicals, electricity
 
-- Constitutive characteristics of the large enterprise: 
+- Rapid urbanisation
 
-   - facilities capable of achieving **economies of scale** 
+- Large size of firms
 
-   - **vertical integration** : raw materials ⟶ intermediate products ⟶ distribution 
+- Cartels+protectionists policies in 1879 = high prices in the domestic market + exports (at competitive prices)
 
-   - **managerial hierarchies** (organisational evolution) 
+2024/2025
 
-The emergence of the large enterprise alters the dynamics of competition: 
+30067 - cl- 15
 
-- ⟶ 
+## ITALY
 
-- strong industrial concentration **oligopolistic markets** 
+The late national unification created a pressing need for economic standardization!
 
-- penetration of foreign markets ⟶ _**multinationalisation**_ 
+## 1870s–1890s:
 
-...and generates dualism between sectors at the technological frontier and sectors with traditional technologies 
+- Late 1870s: some results in textiles (roots in preindustrial period) and railways
 
-A.y. 2025/2026 
+- Increasingly high customs tariffs
 
-30067 
+- A first phase of industrial strengthening in cotton, metallurgy, mechanical and chemical sectors
 
-27 
+- Decisive role of the two major mixed banks (COMIT and CREDIT) in supporting industry
 
-## THE RISE OF BIG BUSINESS 
+- ➢ From 1896 onward: a turning point, thanks in part to hydroelectric power and related industries. Large enterprises in innovative sectors (Fiat), growth in textiles, agri-food, metallurgy, and chemicals
 
-Big business brings with it major changes in the organisation of work. 
+- ➢ Uneven development: the “Industrial Triangle” (Milan–Turin–Genoa)
 
-In the Victorian factory 
+- ➢ Economic growth but also challenges. Mass emigration (painful!), brought significant benefits (demographic pressure, remittances, and export networks abroad)
 
-→ the organisation of production (time and methods of work) is in the hands of . **department heads** 
+## TAYLORISM OR _SCIENTIFIC MANAGEMENT_
 
-In the factory system that emerged between the 19th and 20th centuries 
+Mechanical engineer and business consultant, Frederick Taylor is the founding father of the scientific organisation of work ( _Principles of scientific management_ , 1911)
 
-→ the system of organisation is in the hands of **managerial figures** , members of the management team. 
+The elements that characterise it are:
 
-The main innovators in this field are Frederick Taylor, Henry Ford, Charles Eugène Bedaux, and Taiichi Ohno. 
+- identification of the best way of doing things
 
-A.y. 2025/2026 
+- personnel selection and training
 
-30067 
+- division of labour and management tasks
 
-28 
+Taylor's goal is to increase the **efficiency** of the production process in order to **increase profi** t.
 
-## HOW CAN BACKWARDNESS BE ADDRESSED? 
+## FORDISM
 
-2024/2025 
+_teach the worker the only best way to do his job”,_ but _“arrange things in such a way that he can only do his best work_ ”.
 
-30067 - cl- 15 
+It maximises the principle of **standardisation and economies of scale**:
 
-29 
+- The tasks of individual workers are parcelled out
 
-## THE GERSCHENKRON MODEL 
+- movements reduced to a minimum
 
-- **Alexander Gerschenkron** described **the advantages of backwardness** . In his model, it is not the long-term dynamics that are central, but above all the phases of ‘ **preparation** ’ and economic take-off. 
+- the required skills are practically non-existent
 
-- Since each nation has a unique **pre-set of conditions** that differ from those of its neighbours, it goes without saying that the various national development processes will each be different. 
+The (engineering) design of the production layout and the assembly line solve the problem of work organisation.
 
-- The more distant prerequisites a country has from the leading economy, the more it will have to change its development model in order to be successful. Conversely, the more a country has similar prerequisites to the first comer, the more the model will be able to follow the one adopted by the latter. 
+To this Ford combined
 
-2024/2025 
+- high wages,
 
-30067 - cl- 15 
+- corporate welfare, and
 
-30 
+- total intolerance towards any form of trade union.
 
-## THE GERSCHENKRON MODEL 
-
-- In this model, backwardness brings advantages: it will be possible to imitate the winning technologies of the other competitors without going through a process of slow research and development. 
-
-- In this way there will be: 
-
-   - faster development 
-
-   - fast-pace development of large-scale industry 
-
-   - less agricultural growth 
-
-   - greater importance of institutions 
-
-   - greater dependence on foreign capital and resources 
-
-2024/2025 
-
-30067 - cl- 15 
-
-31 
-
-## THE GERSCHENKRON MODEL 
-
-- The ‘natural’ consequence of this model is that the state/region that initially holds the leadership is not necessarily the same one that continues to prosper. 
-
-**==> picture [32 x 71] intentionally omitted <==**
-
-## • England vs US 
-
-(we are applying this model to industrialisation, but it is also valid within a single industrial sector…) 
-
-2024/2025 
-
-30067 - cl- 15 
-
-32 
-
-## THE LONG WAY TO INDUSTRIALISATION 
-
-- Being at a disadvantage also allows backward countries to find substitutes for the factors necessary for industrialization lacking in their own countries, just as the advanced countries did in the past. 
-
-- Gerschenkron in his essay _Economic Backwardness in Historical Perspective_ (published in 1962) called them **substitute factors** . 
-
-- The state and the universal bank system, for instance, palyed a central role in the development of many European countries on the Continent. 
-
-2024/2025 
-
-30067 - cl- 15 
-
-33 
-
-## THE ROLE OF SUBSTITUTIVE FACTORS: UNIVERSAL BANKS 
-
-As we have seen, economic growth generates the need for a supportive and more articulated financial system. In England the banking system had time not only to develop, but also to better articulate and to (hyper) specialise itself, creating a number of different services able to cover the different needs of the market. 
-
-In the **Continent** , the much faster pace of growth led to the creation of **Universal Banks** : institutes more ‘generalist’ in nature that could offer a number of financial services, including **both commercial and investment banking** services. 
-
-Universal Banks are **joint-stock companies** and their specificity makes them highly exposed to the risk of liquidity crises. 
-
-2024/2025 
-
-30067 - cl- 15 
-
-34 
-
-## THE ROLE OF SUBSTITUTIVE FACTORS: THE STATE 
-
-After the mid-19th century, the conditions for industrial development became increasingly difficult due to the high costs of production plants and due to the increasing relative backwardness of the laggard countries. 
-
-The role of the state in promoting industrialisation processes became decisive and was expressed through a range of instruments: 
-
-- protectionist policies 
-
-- fiscal system 
-
-- state contracts 
-
-- subsidies 
-
-- financing and management of infrastructure and enterprises 
-
-- industrial bailouts / rescue 
-
-2024/2025 
-
-30067 - cl- 15 
-
-35 
-
-## GERMANY 
-
-**==> picture [318 x 267] intentionally omitted <==**
-
-- Up to 1833 – awareness of the economic changes occurring in France, Belgium, Britain 
-
-- From 1834 to 1870 imitation and borrowing 
-
-   - Modern industry (transportation – finance) 
-
-- After 1870 industrial supremacy in Western Europe 
-
-- Its supremacy was based on production of capital goods or intermediate products for industrial production 
-
-   - Coal, iron, steel 
-
-   - Chemicals, electricity 
-
-- Rapid urbanisation 
-
-- Large size of firms 
-
-- Cartels+protectionists policies in 1879 = high prices in the domestic market + exports (at competitive prices) 
-
-2024/2025 
-
-30067 - cl- 15 
-
-36 
-
-## ITALY 
-
-The late national unification created a pressing need for economic standardization! 
-
-## 1870s–1890s: 
-
-- Late 1870s: some results in textiles (roots in preindustrial period) and railways 
-
-- Increasingly high customs tariffs 
-
-- A first phase of industrial strengthening in cotton, metallurgy, mechanical and chemical sectors 
-
-- Decisive role of the two major mixed banks (COMIT and CREDIT) in supporting industry 
-
-- ➢ From 1896 onward: a turning point, thanks in part to hydroelectric power and related industries. Large enterprises in innovative sectors (Fiat), growth in textiles, agri-food, metallurgy, and chemicals 
-
-**==> picture [297 x 236] intentionally omitted <==**
-
-- ➢ Uneven development: the “Industrial Triangle” (Milan–Turin–Genoa) 
-
-- ➢ Economic growth but also challenges. Mass emigration (painful!), brought significant benefits (demographic pressure, remittances, and export networks abroad) 
-
-A.y. 2025/2026 
-
-30067 
-
-37 
-
-## TAYLORISM OR _SCIENTIFIC MANAGEMENT_ 
-
-Mechanical engineer and business consultant, Frederick Taylor is the founding father of the scientific organisation of work ( _Principles of scientific management_ , 1911) 
-
-The elements that characterise it are: 
-
-- identification of the best way of doing things 
-
-- personnel selection and training 
-
-- division of labour and management tasks 
-
-Taylor's goal is to increase the **efficiency** of the production process in order to **increase profi** t. 
-
-A.y. 2025/2026 
-
-30067 
-
-38 
-
-## FORDISM 
-
-_teach the worker the only best way to do his job”,_ but _“arrange things in such a way that he can only do his best work_ ”. 
-
-It maximises the principle of **standardisation and economies of scale** : 
-
-- The tasks of individual workers are parcelled out 
-
-- movements reduced to a minimum 
-
-- the required skills are practically non-existent 
-
-The (engineering) design of the production layout and the assembly line solve the problem of work organisation. 
-
-To this Ford combined 
-
-- high wages, 
-
-- corporate welfare, and 
-
-- total intolerance towards any form of trade union. 
-
-A.y. 2025/2026 
-
-30067 
-
-39 
-
-**==> picture [823 x 463] intentionally omitted <==**
-
-A.y. 2025/2026 
-
-30067 
-
-40 
-
+## Related Notes
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- [[4_5_The industrialisation process_1]]
+- [[8_The industrialisation process outside Europe]]

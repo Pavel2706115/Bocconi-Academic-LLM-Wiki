@@ -1,945 +1,611 @@
-**==> picture [58 x 208] intentionally omitted <==**
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "Public Finance BIEM – Spring 2026 Taxes on Savings (Ch.22)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Public Finance BIEM – Spring 2026 Taxes on Savings (Ch.22)** 
+# Public Finance BIEM – Spring 2026 Taxes on Savings (Ch.22)
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Taxes on Savings
 
-## Taxes on Savings 
+- Taxes on capital income affect how individuals allocate consumption over time.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Understanding these responses is essential for evaluating the efficiency and distributional consequences of tax policy in a context where many countries worry about insufficient private saving for retirement.
 
-- Taxes on capital income affect how individuals allocate consumption over time. 
+- This lecture follows the core structure in Gruber Ch.22 and integrates recent evidence and an Italian/European perspective.
 
-- Understanding these responses is essential for evaluating the efficiency and distributional consequences of tax policy in a context where many countries worry about insufficient private saving for retirement. 
+## What do we mean by taxing capital income?
 
-- This lecture follows the core structure in Gruber Ch.22 and integrates recent evidence and an Italian/European perspective. 
+**Type of taxation What is taxed Examples** Taxes on savings The return to saving Interest income over time Taxes on capital income Financial returns from Interest, dividends, assets capital gains Taxes on wealth Transfer or ownership of Inheritance, gifts, transfers and property assets property taxes
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Overview
 
-2 
+- Individuals choose how much to consume today versus in the future.
 
-## What do we mean by taxing capital income? 
+- Savings is the mechanism linking today’s consumption to tomorrow’s consumption.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Taxes on capital income reduce the after-tax return to saving and may alter this allocation.
 
-**Type of taxation What is taxed Examples** Taxes on savings The return to saving Interest income over time Taxes on capital income Financial returns from Interest, dividends, assets capital gains Taxes on wealth Transfer or ownership of Inheritance, gifts, transfers and property assets property taxes 
+- As in labor supply, the key forces are:
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **Substitution effects** (saving becomes less attractive)
 
-3 
+- **Income effects** (lifetime resources fall)
 
-## Overview 
+- Theory predicts **ambiguous** total effects on saving.
 
-- Individuals choose how much to consume today versus in the future. 
+- Empirical evidence has struggled to settle the debate.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Traditional Theory
 
-- Savings is the mechanism linking today’s consumption to tomorrow’s consumption. 
+- The intertemporal choice model is the main model for understanding how taxes affect savings.
 
-- Taxes on capital income reduce the after-tax return to saving and may alter this allocation. 
+- Intertemporal choice model: A choice about how much to save is really a choice about how to allocate one’s consumption over time.
 
-- As in labor supply, the key forces are: 
+- Savings is not directly modeled but is a residual: the excess of current income over current consumption.
 
-   - **Substitution effects** (saving becomes less attractive) 
+- The model focuses on the trade-off between consumption today and consumption tomorrow.
 
-   - **Income effects** (lifetime resources fall) 
+## Intertemporal choice model (1)
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Suppose Minh lives for two periods.
 
-- Theory predicts **ambiguous** total effects on saving. 
+## Intertemporal choice model (2)
 
-- Empirical evidence has struggled to settle the debate. 
+- Intertemporal budget constraint: The measure of the rate at which individuals can trade off consumption in one period for consumption in another period:
 
-4 
+= 𝐶(𝑅) 1 + 𝑅 𝑌−𝐶(𝑊)
 
-## Traditional Theory 
+- The opportunity cost of one dollar of first-period consumption is (1 + r) dollars of second-period consumption.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Taxes on savings affect behavior by changing the effective interest rate, shifting the budget constraint.
 
-- The intertemporal choice model is the main model for understanding how taxes affect savings. 
+## Intertemporal choice model (3)
 
-   - Intertemporal choice model: A choice about how much to save is really a choice about how to allocate one’s consumption over time. 
+## Figure 22-1
 
-   - Savings is not directly modeled but is a residual: the excess of current income over current consumption. 
+Before taxes are introduced, individuals lose −(1 + r) worth of consumption in period 2 for every dollar of consumption in period 1. Individuals save S in the first period and consume S × (1 + r ) in the second period.
 
-- The model focuses on the trade-off between consumption today and consumption tomorrow. 
+When taxes rise, the budget constraint pivots inward, and − − individuals lose (1 + r × (1 t )) worth of consumption in period 2 for $1 of consumption in period 1. Savings may rise or fall depending on the relative magnitudes of the income and substitution effects.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Substitution and Income Effects of Taxes on Savings
 
-5 
+Taxes and other price changes affect savings in two ways:
 
-## Intertemporal choice model (1) 
+- **Substitution effect:** Lower after-tax interest rates cause first-
 
-## Suppose Minh lives for two periods. 
+- period consumption to rise, reducing savings.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- **Income effect:** Lower after-tax interest rates reduce the lifetime value of income, reducing first-period consumption and increasing savings.
 
-**==> picture [585 x 266] intentionally omitted <==**
+Substitution effects may seem more natural, but a “target savings” model generates complete income effects.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Effect of Taxes on Savings: Substitution Effect Is Larger
 
-6 
+## Figure 22-2a
 
-## Intertemporal choice model (2) 
+If the substitution effect is larger than the income effect, individuals will move from point A to point B, consuming more in the first period (CW2) and thus saving less (S2). As a result, their consumption in period 2 (CR2) falls by a lot.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Effect of Taxes on Savings: Income Effect Is Larger
 
-- Intertemporal budget constraint: The measure of the rate at which individuals can trade off consumption in one period for consumption in another period: 
+## Figure 22-2b
 
-= 𝐶[𝑅] 1 + 𝑅 𝑌−𝐶[𝑊] 
+If the income effect is larger, individuals will move from point A to point C, consuming less in the first period (CW3) and thus saving more (S3). Their consumption in period 2 (CR3) still falls but not by as much.
 
-- The opportunity cost of one dollar of first-period consumption is (1 + r) dollars of second-period consumption. 
+## The intuition behind the substitution and income effect
 
-- Taxes on savings affect behavior by changing the effective interest rate, shifting the budget constraint. 
+A lower after-tax interest rate reduces the reward from postponing consumption.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Substitution effect:
 
-7 
+- Future consumption becomes relatively cheaper.
 
-## Intertemporal choice model (3) 
+- Individuals substitute **toward more consumption today** .
 
-## Figure 22-1 
+- Therefore **saving falls** .
 
-**==> picture [58 x 208] intentionally omitted <==**
+This is the intuitive channel: taxing capital income makes saving less attractive.
 
-**==> picture [506 x 343] intentionally omitted <==**
+A lower after-tax return reduces lifetime resources. **Income effect:**
 
-Before taxes are introduced, individuals lose −(1 + r) worth of consumption in period 2 for every dollar of consumption in period 1. Individuals save S in the first period and consume S × (1 + r ) in the second period. 
+- Individuals feel poorer overall.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- They reduce consumption in all periods.
 
-When taxes rise, the budget constraint pivots inward, and − − individuals lose (1 + r × [1 t ]) worth of consumption in period 2 for $1 of consumption in period 1. Savings may rise or fall depending on the relative magnitudes of the income and substitution effects. 
+- Lower C ₁ _raises saving_ .
 
-8 
+- This effect pushes in the **opposite direction** of the substitution effect.
 
-## Substitution and Income Effects of Taxes on Savings 
+## Ambiguous Impact of Taxes on Savings
 
-Taxes and other price changes affect savings in two ways: 
+Because the substitution and income effects move in opposite directions: **The net effect of a tax on capital income is theoretically ambiguous.**
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Depending on preferences:
 
-- **Substitution effect:** Lower after-tax interest rates cause first- 
+- If substitution effect > income effect → **savings fall** .
 
-   - period consumption to rise, reducing savings. 
+- If income effect > substitution effect → **savings rise** .
 
-- **Income effect:** Lower after-tax interest rates reduce the lifetime value of income, reducing first-period consumption and increasing savings. 
+## Difficulties in Measuring Elasticities
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Empirically estimating how savings responds to after-tax interest rates is challenging:
 
-Substitution effects may seem more natural, but a “target savings” model generates complete income effects. 
+- Identifying the "relevant" interest rate is difficult.
 
-9 
+- Interest rates tend to vary at the same time for everyone, making clean treatment-control comparisons rare.
 
-## Effect of Taxes on Savings: Substitution Effect Is Larger 
+- Many types of savings instruments have different returns and tax treatments.
 
-## Figure 22-2a 
+- Long horizons complicate causal inference.
 
-**==> picture [58 x 208] intentionally omitted <==**
+As a result, economists disagree on whether taxes reduce, increase, or do not affect total private saving.
 
-**==> picture [509 x 331] intentionally omitted <==**
+## Inflation and the Taxation of Savings (1)
 
-If the substitution effect is larger than the income effect, individuals will move from point A to point B, consuming more in the first period (CW2) and thus saving less (S2). As a result, their consumption in period 2 (CR2) falls by a lot. 
+## Most countries tax **nominal** interest income.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Key definitions:
 
-10 
+- **Nominal interest rate**: interest earned in currency terms.
 
-## Effect of Taxes on Savings: Income Effect Is Larger 
+- **Real interest rate**: nominal interest minus inflation.
 
-## Figure 22-2b 
+Taxing nominal interest rates means: When inflation is high, the real return to saving can be very low or even negative.
 
-**==> picture [58 x 208] intentionally omitted <==**
+Taxation amplifies this distortion.
 
-**==> picture [508 x 331] intentionally omitted <==**
+## Inflation and the Taxation of Savings (2)
 
-If the income effect is larger, individuals will move from point A to point C, consuming less in the first period (CW3) and thus saving more (S3). Their consumption in period 2 (CR3) still falls but not by as much. 
+- The relationship between real and nominal interest rates is:
 
-**==> picture [86 x 105] intentionally omitted <==**
+1 + 𝑁𝑜𝑚𝑖𝑛𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒 (𝑖) 𝑅𝑒𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒 𝑟= −1 1 + 𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛 𝑟𝑎𝑡𝑒 (𝜋) - Inflation increases the nominal but not the real interest rate, but taxes are levied on nominal interest rates.
 
-11 
+- Inflation reduces the real after-tax return on savings.
 
-## The intuition behind the substitution and income effect 
+## Inflation Exacerbates Capital Taxation (3)
 
-A lower after-tax interest rate reduces the reward from postponing consumption. 
+## Table 22-1
 
-**==> picture [58 x 208] intentionally omitted <==**
-
-## **Substitution effect:** 
-
-- Future consumption becomes relatively cheaper. 
-
-- Individuals substitute **toward more consumption today** . 
-
-- Therefore **saving falls** . 
-
-This is the intuitive channel: taxing capital income makes saving less attractive. 
-
-A lower after-tax return reduces lifetime resources. **Income effect:** 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Individuals feel poorer overall. 
-
-- They reduce consumption in all periods. 
-
-- Lower C ₁ _raises saving_ . 
-
-- This effect pushes in the **opposite direction** of the substitution effect. 
-
-12 
-
-## Ambiguous Impact of Taxes on Savings 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Because the substitution and income effects move in opposite directions: **The net effect of a tax on capital income is theoretically ambiguous.** 
-
-- Depending on preferences: 
-
-- If substitution effect > income effect → **savings fall** . 
-
-- If income effect > substitution effect → **savings rise** . 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-13 
-
-## Difficulties in Measuring Elasticities 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Empirically estimating how savings responds to after-tax interest rates is challenging: 
-
-- Identifying the "relevant" interest rate is difficult. 
-
-- Interest rates tend to vary at the same time for everyone, making clean treatment-control comparisons rare. 
-
-- Many types of savings instruments have different returns and tax treatments. 
-
-- Long horizons complicate causal inference. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-As a result, economists disagree on whether taxes reduce, increase, or do not affect total private saving. 
-
-14 
-
-## Inflation and the Taxation of Savings (1) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## Most countries tax **nominal** interest income. 
-
-## Key definitions: 
-
-- **Nominal interest rate** : interest earned in currency terms. 
-
-- **Real interest rate** : nominal interest minus inflation. 
-
-Taxing nominal interest rates means: When inflation is high, the real return to saving can be very low or even negative. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-Taxation amplifies this distortion. 
-
-15 
-
-## Inflation and the Taxation of Savings (2) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- The relationship between real and nominal interest rates is: 
-
-1 + 𝑁𝑜𝑚𝑖𝑛𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒 (𝑖) 𝑅𝑒𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒 𝑟= −1 1 + 𝐼𝑛𝑓𝑙𝑎𝑡𝑖𝑜𝑛 𝑟𝑎𝑡𝑒 (𝜋) • Inflation increases the nominal but not the real interest rate, but taxes are levied on nominal interest rates. 
-
-- Inflation reduces the real after-tax return on savings. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-16 
-
-## Inflation Exacerbates Capital Taxation (3) 
-
-## Table 22-1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-|**Case**|**Inflation**|**Tax Rate on**<br>**Interest**|**Savings**|**Nominal**<br>**Interest**<br>**Rate**|**Interest**<br>**Earnings**|**After-Tax**<br>**Resources**|**Price of**<br>**Skittles**|**Bags of Skittles**|
+|**Case**|**Inflation**|**Tax Rate onSkittles**|**Bags of Skittles**|
 |---|---|---|---|---|---|---|---|---|
 |**No inflation**|0%|0%|100|10%|$10|$110|$1.00|110|
-||0%|50%|100|10%|$10|$105|$1.00|105|
+|0%|50%|100|10%|$10|$105|$1.00|105|
 |**Inflation**|10%|0%|100|10%|$10|$110|$1.10|100|
-||10%|50%|100|10%|$10|$105|$1.10|95.5|
-|**Constant real**<br>**rate**|10%|0%|100|21%|$21|$121|$1.10|110|
-||10%|50%|100|21%|$21|$110.5|$1.10|100.5|
+|10%|50%|100|10%|$10|$105|$1.10|95.5|
+|**Constant real** **rate**|10%|0%|100|21%|$21|$121|$1.10|110|
+|10%|50%|100|21%|$21|$110.5|$1.10|100.5|
 
+## Save $100, 10% real interest rate, 50% tax on interest.
 
+## Alternative Models of Saving
 
-**==> picture [86 x 105] intentionally omitted <==**
+## The traditional intertemporal model assumes:
 
-## Save $100, 10% real interest rate, 50% tax on interest. 
+- Full rationality
 
-17 
+- Perfect foresight
 
-## Alternative Models of Saving 
+- No borrowing constraints
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Single discount rate
 
-## The traditional intertemporal model assumes: 
+These assumptions may not describe real households. Gruber presents alternative models to explain observed saving patterns and policy responses.
 
-- Full rationality 
+## Liquidity Constraints and Precautionary Saving
 
-- Perfect foresight 
+. Some individuals face binding **borrowing constraints**
 
-- No borrowing constraints 
+If households cannot borrow against future income:
 
-- Single discount rate 
+- Consumption becomes sensitive to short-term income shocks.
 
-These assumptions may not describe real households. Gruber presents alternative models to explain observed saving patterns and policy responses. 
+- Saving behaves like a buffer against uncertainty.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Interest-rate changes affect savings less than predicted by basic theory.
 
-18 
+Precautionary motives imply:
 
-## Liquidity Constraints and Precautionary Saving 
+- High saving among risk-averse or uncertain households.
 
-. Some individuals face binding **borrowing constraints** 
+- Small responsiveness to after-tax interest rates.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Buffer-Stock Behavior
 
-If households cannot borrow against future income: 
+## Borrowing constraints and income risk lead to **buffer-stock**: **saving**
 
-- Consumption becomes sensitive to short-term income shocks. 
+- Households target a minimum level of assets to self-insure.
 
-- Saving behaves like a buffer against uncertainty. 
+- Saving adjusts mainly to maintain this buffer.
 
-- Interest-rate changes affect savings less than predicted by basic theory. 
+- Changes in after-tax interest rates have **limited influence** . This offers an alternative explanation for weak saving responses to capital taxation.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Self-Control and Behavioral Models
 
-Precautionary motives imply: 
+## Individuals may have **present-biased preferences**
 
-- High saving among risk-averse or uncertain households. 
+- Value today’s consumption disproportionately.
 
-- Small responsiveness to after-tax interest rates. 
+- Struggle to follow long-term saving plans.
 
-19 
+- Choose too little saving relative to long-run goals.
 
-## Buffer-Stock Behavior 
+Behavioral models predict:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Low responsiveness to interest-rate changes.
 
-## Borrowing constraints and income risk lead to **buffer-stock** : **saving** 
+- Significant effects of commitment devices and defaults.
 
-- Households target a minimum level of assets to self-insure. 
+## Commitment Devices and Defaults
 
-- Saving adjusts mainly to maintain this buffer. 
+Because of self-control problems, many households rely on commitment mechanisms:
 
-• Changes in after-tax interest rates have **limited influence** . This offers an alternative explanation for weak saving responses to capital taxation. 
+- Automatic payroll deductions
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Early withdrawal penalties (401(k), IRA)
 
-20 
+- Default contribution rates
 
-## Self-Control and Behavioral Models 
+- “Save More Tomorrow” automatic escalation
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Evidence shows:
 
-## : Individuals may have **present-biased preferences** 
+- Defaults have large effects on participation and contributions.
 
-- Value today’s consumption disproportionately. 
+- **more**
 
-- Struggle to follow long-term saving plans. 
+- These policies matter for saving than after-tax returns.
 
-- Choose too little saving relative to long-run goals. 
+This helps explain why tax incentives often shift where people save, but not how much.
 
-Behavioral models predict: 
+## Tax-Advantaged Retirement Accounts
 
-- Low responsiveness to interest-rate changes. 
+Governments encourage private saving by offering tax-preferred accounts.
 
-- Significant effects of commitment devices and defaults. 
+In the U.S.:
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **401(k) plans** = Tax-preferred retirement savings vehicles offered by employers, to which employers will often match employees’ contributions.
 
-21 
+- **Individual Retirement Accounts (IRA)** = A tax-favored retirement savings vehicle primarily for low- and middle-income taxpayers who make pre-tax contributions and are then taxed on future withdrawals.
 
-## Commitment Devices and Defaults 
+Key economic question: **Do tax subsidies increase total saving, or do they simply shift saving across accounts?**
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Employer-Sponsored Retirement Plans
 
-Because of self-control problems, many households rely on commitment mechanisms: 
+Two main types of retirement plans in the U.S.:
 
-- Automatic payroll deductions 
+- **Defined Benefit (DB)**: benefits based on earnings and years of service.
 
-- Early withdrawal penalties (401(k), IRA) 
+- **Defined Contribution (DC)**: benefits depend on accumulated contributions and investment returns.
 
-- Default contribution rates 
+401(k) plans are the most common DC plan. They allow tax-deferred contributions up to annual limits.
 
-- “Save More Tomorrow” automatic escalation 
+## Traditional IRA and 401(k): Tax Treatment
 
-- Evidence shows: 
+- Contributions are excluded from taxable income.
 
-- Defaults have large effects on participation and contributions. 
+- Funds accumulate untaxed.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Withdrawals are taxed as income in retirement.
 
-- **more** 
+## Tax benefit:
 
-- These policies matter for saving than after-tax returns. 
+- Raises the return to saving for eligible individuals.
 
-This helps explain why tax incentives often shift where people save, but not how much. 
+- Creates an incentive to contribute _up to_ the contribution limit.
 
-22 
+This tax exclusion creates a **kinked budget constraint** .
 
-## Tax-Advantaged Retirement Accounts 
+## Budget Constraint with an IRA (1)
 
-Governments encourage private saving by offering tax-preferred accounts. 
+With an IRA or 401(k), individuals face two saving options:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Save normally: pay tax on interest each year.
 
-In the U.S.: 
+- Save in the IRA: no tax on contributions or accumulation; tax applies at withdrawal.
 
-- **401(k) plans** = Tax-preferred retirement savings vehicles offered by employers, to which employers will often match employees’ contributions. 
+For low levels of saving, individuals can place all saving inside the tax-preferred account, enjoying higher after-tax returns.
 
-- **Individual Retirement Accounts (IRA)** = A tax-favored retirement savings vehicle primarily for low- and middle-income taxpayers who make pre-tax contributions and are then taxed on future withdrawals. 
+## Budget Constraint with an IRA (2)
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Figure 22-3
 
-Key economic question: **Do tax subsidies increase total saving, or do they simply shift saving across accounts?** 
+Individuals initially face a budget constraint BC2 with a slope × - −(1 + r (1 − )). When retirement savings are taxsubsidized, the budget constraint moves to BC3, with a higher slope
 
-23 
+−(1 + _r_ × (1 − - × - )). This leads to a substitution effect toward more savings and an income effect toward less savings.
 
-## Employer-Sponsored Retirement Plans 
+If the substitution effect is larger, then first-period consumption will fall from CW2 to CW3, and to S . If savings will rise from S2 3 the income effect is larger, then first-period consumption will rise from CW to CW 2 4, and savings will fall from S to S . 2 4
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Budget Constraint with an IRA (3)
 
-Two main types of retirement plans in the U.S.: 
+## At the contribution limit:
 
-- **Defined Benefit (DB)** : benefits based on earnings and years of service. 
+- The budget line becomes **kinked** .
 
-- **Defined Contribution (DC)** : benefits depend on accumulated contributions and investment returns. 
+- Additional saving above the limit must occur in a normal taxable account.
 
-401(k) plans are the most common DC plan. They allow tax-deferred contributions up to annual limits. 
+Implication:
 
-**==> picture [86 x 105] intentionally omitted <==**
+The **marginal** return to saving is higher inside the IRA, but **inframarginal** saving simply receives a windfall without increasing total saving.
 
-24 
+## Budget Constraint with an IRA (4)
 
-## Traditional IRA and 401(k): Tax Treatment 
+## Figure 22-4
 
-**==> picture [58 x 208] intentionally omitted <==**
+The availability of IRAs raises the return to savings less than $6,000 from −(1 + r × (1 − - )) to −(1 + r × (1 – - × r)), where r is the net tax preference from using an IRA. Once savings is above $6,000, the IRA simply increases period-two income, and the return to each dollar of savings returns to –(1 + r × (1 – - )).
+*(See also: [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)#^a3rpzr]])*
 
-- Contributions are excluded from taxable income. 
+## Marginal vs Inframarginal Responses
 
-- Funds accumulate untaxed. 
+. IRA tax advantages apply only **up to the contribution limit**
 
-- Withdrawals are taxed as income in retirement. 
+Two types of savers:
 
-## Tax benefit: 
+- **Low savers**: save less than the contribution limit → all saving is marginally subsidized.
 
-- Raises the return to saving for eligible individuals. 
+- **High savers**: save above the limit → only marginal saving faces the higher after-tax return.
 
-- Creates an incentive to contribute _up to_ the contribution limit. 
+This matters for predicting the effect of tax subsidies.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Private vs National Saving
 
-This tax exclusion creates a **kinked budget constraint** . 
+Tax subsidies may increase **private saving** , but this may not translate into higher **national saving** if:
 
-25 
+- Government revenue falls, increasing deficits.
 
-## Budget Constraint with an IRA (1) 
+- Individuals shift assets across accounts.
 
-**==> picture [58 x 208] intentionally omitted <==**
+Key empirical question: **Do IRAs and 401(k)s raise total saving or simply re-label existing saving?**
 
-With an IRA or 401(k), individuals face two saving options: 
+## Roth IRA: Alternative Tax Treatment
 
-- Save normally: pay tax on interest each year. 
+Roth IRAs reverse the tax timing:
 
-- Save in the IRA: no tax on contributions or accumulation; tax applies at withdrawal. 
+- Contributions are made **after tax** .
 
-For low levels of saving, individuals can place all saving inside the tax-preferred account, enjoying higher after-tax returns. 
+- Accumulation and withdrawals are tax-free.
 
-**==> picture [86 x 105] intentionally omitted <==**
+Economic implications: Equivalent to a traditional IRA for many savers if tax rates remain constant.
 
-26 
+Main difference: timing of revenue and political incentives. Roth IRAs illustrate how governments use timing of taxation to shape saving incentives.
 
-## Budget Constraint with an IRA (2) 
+## Empirical Evidence: Key Questions
 
-**==> picture [58 x 208] intentionally omitted <==**
+Do tax-preferred savings accounts actually increase total saving? Or do they simply re-label funds that individuals would have saved anyway?
 
-## Figure 22-3 
+Two central empirical questions:
 
-**==> picture [478 x 332] intentionally omitted <==**
+- **Elasticity question:** Do individuals increase total saving when after-tax returns rise?
 
-Individuals initially face a budget constraint BC2 with a slope ×  −(1 + r [1 − ]). When retirement savings are taxsubsidized, the budget constraint moves to BC3, with a higher slope 
+- **Substitution question:** Do individuals shift savings between accounts with different tax treatments?
 
-−(1 + _r_ × [1 −  ×  ]). This leads to a substitution effect toward more savings and an income effect toward less savings. 
+Modern evidence uses quasi-experimental variation to answer these questions.
 
-If the substitution effect is larger, then first-period consumption will fall from CW2 to CW3, and to S . If savings will rise from S2 3 the income effect is larger, then first-period consumption will rise from CW to CW 2 4, and savings will fall from S to S . 2 4 
+## Chetty et al. (2014): Denmark Retirement Reform
 
-**==> picture [86 x 105] intentionally omitted <==**
+A major Danish reform cut the tax subsidy for retirement contributions for high-income workers.
 
-27 
+Key features:
 
-## Budget Constraint with an IRA (3) 
 
-**==> picture [58 x 208] intentionally omitted <==**
 
-## At the contribution limit: 
+- Only affected **top-bracket taxpayers**
 
-- The budget line becomes **kinked** . 
+- Allowed clean comparison with lower-income workers (control group).
 
-- Additional saving above the limit must occur in a normal taxable account. 
+- Large administrative dataset covering the entire population.
 
-Implication: 
+This is one of the most important empirical papers on saving behavior.
 
-The **marginal** return to saving is higher inside the IRA, but **inframarginal** saving simply receives a windfall without increasing total saving. 
+## Elimination of Subsidy Strongly Reduced Contributions
 
-**==> picture [86 x 105] intentionally omitted <==**
+## After the reform:
 
-28 
+- Contributions among high-income workers **fell sharply**
 
-## Budget Constraint with an IRA (4) 
+- Contributions among unaffected lower-income workers **did** **not change**
 
-## Figure 22-4 
+- The change was almost immediate and very large in magnitude.
 
-**==> picture [58 x 208] intentionally omitted <==**
+Interpretation:
 
-**==> picture [497 x 339] intentionally omitted <==**
+Tax incentives do affect _where_ people save.
 
-The availability of IRAs raises the return to savings less than $6,000 from −(1 + r × [1 −  ]) to −(1 + r × [1 – × r]), where r is the net tax preference from using an IRA. Once savings is above $6,000, the IRA simply increases period-two income, and the return to each dollar of savings returns to –(1 + r × [1 –  ]). 
+‐ **Source:** Chetty, Raj, John N. Friedman, Søren Leth Petersen, Torben Heien Nielsen, and Tore Olsen (2014). _“Active vs. Passive Decisions and Crowd-Out in Retirement Savings Accounts: Evidence from Denmark.”_ **Quarterly Journal of Economics** , 129(3): 1141–1219.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## No Increase in Total Savings
 
-29 
+## Despite large changes in retirement account contributions:
 
-## Marginal vs Inframarginal Responses 
+- **Total private savings did not increase.**
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Individuals compensated by increasing saving in other accounts.
 
-. IRA tax advantages apply only **up to the contribution limit** 
+- The fall in retirement saving was almost perfectly offset by increases in taxable saving.
 
-Two types of savers: 
+Implication:
 
-- **Low savers** : save less than the contribution limit → all saving is marginally subsidized. 
+Tax subsidies mostly cause **reshuffling** , not new saving.
 
-- **High savers** : save above the limit → only marginal saving faces the higher after-tax return. 
+## Mandated Saving Has Large Effects
 
-**==> picture [86 x 105] intentionally omitted <==**
+## In contrast to subsidies:
 
-This matters for predicting the effect of tax subsidies. 
+- Danish **mandatory** employer retirement contributions increased total saving one-for-one.
 
-30 
+- Workers who were required to save more did not reduce saving elsewhere.
 
-## Private vs National Saving 
+Mandates are much more effective than subsidies at raising total saving.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Active vs. Passive Savers
 
-Tax subsidies may increase **private saving** , but this may not translate into higher **national saving** if: 
+## Chetty et al. classify individuals into two groups:
 
-- Government revenue falls, increasing deficits. 
+## Active savers
 
-- Individuals shift assets across accounts. 
+- Adjust savings across accounts.
 
-Key empirical question: **Do IRAs and 401(k)s raise total saving or simply re-label existing saving?** 
+- Respond strongly to price incentives.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Substitution dominates.
 
-31 
+## Passive savers
 
-## Roth IRA: Alternative Tax Treatment 
+- Contribute set amounts and rarely change behavior.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Do not offset mandatory contributions.
 
-Roth IRAs reverse the tax timing: 
+- Default rules matter greatly.
 
-- Contributions are made **after tax** . 
+## Result:
 
-- Accumulation and withdrawals are tax-free. 
+Most individuals are **passive savers** → this explains the large effect of mandates and defaults.
 
-Economic implications: Equivalent to a traditional IRA for many savers if tax rates remain constant. 
+## Policy Implications of Active vs Passive
 
-**==> picture [86 x 105] intentionally omitted <==**
+Tax incentives mainly influence **active savers** , who tend to be higher-income.
 
-Main difference: timing of revenue and political incentives. Roth IRAs illustrate how governments use timing of taxation to shape saving incentives. 
+Defaults, automatic enrollment, and mandates influence **passive savers** , who are the majority.
 
-32 
+Therefore, subsidies are:
 
-## Empirical Evidence: Key Questions 
+- Less effective at raising total savings
 
-**==> picture [58 x 208] intentionally omitted <==**
+- More regressive
 
-Do tax-preferred savings accounts actually increase total saving? Or do they simply re-label funds that individuals would have saved anyway? 
+- Less cost-effective than automatic mechanisms
 
-Two central empirical questions: 
+This modern view shapes policy debates in Europe and the U.S.
 
-- **Elasticity question:** Do individuals increase total saving when after-tax returns rise? 
+## International Stylized Facts
 
-- **Substitution question:** Do individuals shift savings between accounts with different tax treatments? 
+- Key cross-country insights on capital taxation and saving: - Capital income tax rates vary widely across OECD countries.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- - Countries with generous mandatory retirement systems show **low sensitivity** of saving to tax incentives.
 
-Modern evidence uses quasi-experimental variation to answer these questions. 
+- Capital shares and wealth concentration have risen globally.
 
-33 
+- - Despite different tax structures, **household saving rates are relatively stable** across countries.
 
-## Chetty et al. (2014): Denmark Retirement Reform 
+This evidence reinforces the idea that deep behavioral and institutional factors dominate over tax incentives.
 
-**==> picture [58 x 208] intentionally omitted <==**
+_Source: Saez (Berkeley Public Economics Lectures);
+- Saez & Zucman (2019)._
 
-A major Danish reform cut the tax subsidy for retirement contributions for high-income workers. 
+## Modern View of Tax Incentives for Saving
 
-Key features: 
+Summary of the empirical consensus:
 
-- . 
+- Substitution across accounts is large.
 
-- Only affected **top-bracket taxpayers** 
+- Effects on **total saving** are small or zero.
 
-- Allowed clean comparison with lower-income workers (control group). 
+- Mandates and default rules have strong effects.
 
-- Large administrative dataset covering the entire population. 
+- Behavioral factors matter more than after-tax returns.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- High-income individuals respond most to tax incentives.
 
-This is one of the most important empirical papers on saving behavior. 
+- International differences reflect mandatory systems and household portfolios.
 
-34 
+_Source: Saez (Berkeley Public Economics Lectures);
+- Saez & Zucman (2019)._
 
-## Elimination of Subsidy Strongly Reduced Contributions 
+## Italy: Household Saving Rate
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Italy’s household saving rate has declined steadily since the 1990s.
 
-## After the reform: 
+- Rates remain lower than in Germany and France, but similar to Spain.
 
-- . 
+- Demographic aging and slow income growth contribute to low saving.
 
-- Contributions among high-income workers **fell sharply** 
+- Implication: responsiveness to tax incentives is likely limited.
 
-- Contributions among unaffected lower-income workers **did** . 
+**Source:** OECD Household Saving Rate database.
 
-- **not change** 
+**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ .
 
-- The change was almost immediate and very large in magnitude. 
+**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ .
 
-Interpretation: 
+**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ .
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Exercises
 
-Tax incentives do affect _where_ people save. 
+## MC 1
 
-35 
+Who is most responsive to tax incentives for saving?
 
-**==> picture [58 x 208] intentionally omitted <==**
+a) Passive savers b) Low-income liquidity-constrained households c) High-income active savers d) Retirees
 
-**==> picture [595 x 369] intentionally omitted <==**
+## MC 2
 
-**==> picture [86 x 105] intentionally omitted <==**
+According to the intertemporal choice model, why does a tax on interest income have an _ambiguous_ effect on saving?
 
-‐ **Source:** Chetty, Raj, John N. Friedman, Søren Leth Petersen, Torben Heien Nielsen, and Tore Olsen (2014). _“Active vs. Passive Decisions and Crowd-Out in Retirement Savings Accounts: Evidence from Denmark.”_ **Quarterly Journal of Economics** , 129(3): 1141–1219. 
+- a) Because saving depends only on preferences, not on interest rates
 
-36 
+- b) Because the substitution effect lowers saving while the income effect raises saving
 
-## No Increase in Total Savings 
+c) Because both substitution and income effects always reduce saving
 
-**==> picture [58 x 208] intentionally omitted <==**
+d) Because borrowing constraints eliminate both effects
 
-## Despite large changes in retirement account contributions: 
+## MC 3
 
-- **Total private savings did not increase.** 
+Why do tax-preferred retirement accounts (such as IRAs or 401(k)s) often fail to increase _total_ saving?
 
-- Individuals compensated by increasing saving in other accounts. 
+a)Because contribution limits are too low b)Because only low-income households use them c)Because individuals often shift existing savings into these accounts rather than increasing total saving d)Because they reduce the after-tax return to saving
 
-- The fall in retirement saving was almost perfectly offset by increases in taxable saving. 
+## MC 4
 
-Implication: 
+# Evidence from that a Chetty et al. (2014) shows eliminating subsidy for high-income savers in Denmark:
 
-**==> picture [86 x 105] intentionally omitted <==**
+a) Greatly reduce retirement contirbutions and reduced total savings
 
-Tax subsidies mostly cause **reshuffling** , not new saving. 
+b) Had no effect on contributions
 
-37 
+- c) Reduced contributions but total savings total savings remained nearly unchanged
 
-## Mandated Saving Has Large Effects 
+d) Increased total savings
 
-**==> picture [58 x 208] intentionally omitted <==**
+## MC 3
 
-## In contrast to subsidies: 
+Which policy is most likely to generate a one-for-one increase in total saving?
 
-- Danish **mandatory** employer retirement contributions increased total saving one-for-one. 
+a) A reduction in tax rates on interest income b) Expanding contribution limits for IRAs/401(k)s c) Introducing a mandate for employer retirement contributions d) Offering an informational campaign about financial literacy
 
-- Workers who were required to save more did not reduce saving elsewhere. 
+## True/False (please provide a justification)
 
-Mandates are much more effective than subsidies at raising total saving. 
+# 1) A reduction in the tax rate on interest income necessarily increases national saving.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- 2) Passive savers respond strongly to changes in after-tax interest rates.
 
-38 
+- 3) Taxing nominal interest income can lead to negative real after-tax returns when inflation is high.
 
-## Active vs. Passive Savers 
+## Exercises
 
-## Chetty et al. classify individuals into two groups: 
+## EXERCISE 1
 
-**==> picture [58 x 208] intentionally omitted <==**
+Suppose Italy reduces the tax rate on interest income from 26% to20%.
 
-## **Active savers** 
+- Predict the effect on saving for: - liquidity-constrained households - high-income active savers - passive savers
 
-- Adjust savings across accounts. 
+b) Would national saving necessarily rise? c) Denmark-style mandates increased saving one-for-one. Would a similar mandate be effective in Italy? d) How might Italy’s portfolio structure affect the result?
 
-- Respond strongly to price incentives. 
+## Exercises
 
-- Substitution dominates. 
+**EXERCISE 2**
 
-## **Passive savers** 
+In the intertemporal choice model, individuals choose consumption today (C ₁ ) and consumption in the future (C ₂ ). Suppose a tax on interest income is introduced, lowering the after-tax interest rate. Suppose the interest rate is 10% and the tax rate is 20%.
 
-- Contribute set amounts and rarely change behavior. 
+a) How much future consumption does giving up 1 unit of consumption today generate before and after the tax? b) Based on your answer in (a), explain how the tax affects the incentive to save. c) Which effect (substitution or income) is generated by this change? Briefly explain.
 
-- Do not offset mandatory contributions. 
-
-- Default rules matter greatly. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Result: 
-
-Most individuals are **passive savers** → this explains the large effect of mandates and defaults. 
-
-39 
-
-## Policy Implications of Active vs Passive 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Tax incentives mainly influence **active savers** , who tend to be higher-income. 
-
-Defaults, automatic enrollment, and mandates influence **passive savers** , who are the majority. 
-
-Therefore, subsidies are: 
-
-- Less effective at raising total savings 
-
-- More regressive 
-
-- Less cost-effective than automatic mechanisms 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-This modern view shapes policy debates in Europe and the U.S. 
-
-40 
-
-## International Stylized Facts 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Key cross-country insights on capital taxation and saving: • Capital income tax rates vary widely across OECD countries. 
-
-- • Countries with generous mandatory retirement systems show **low sensitivity** of saving to tax incentives. 
-
-- Capital shares and wealth concentration have risen globally. 
-
-- • Despite different tax structures, **household saving rates are relatively stable** across countries. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-This evidence reinforces the idea that deep behavioral and institutional factors dominate over tax incentives. 
-
-_Source: Saez (Berkeley Public Economics Lectures); Saez & Zucman (2019)._ 
-
-41 
-
-## Modern View of Tax Incentives for Saving 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Summary of the empirical consensus: 
-
-- Substitution across accounts is large. 
-
-- Effects on **total saving** are small or zero. 
-
-- Mandates and default rules have strong effects. 
-
-- Behavioral factors matter more than after-tax returns. 
-
-- High-income individuals respond most to tax incentives. 
-
-- International differences reflect mandatory systems and household portfolios. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-_Source: Saez (Berkeley Public Economics Lectures); Saez & Zucman (2019)._ 
-
-42 
-
-## Italy: Household Saving Rate 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Italy’s household saving rate has declined steadily since the 1990s. 
-
-- Rates remain lower than in Germany and France, but similar to Spain. 
-
-- Demographic aging and slow income growth contribute to low saving. 
-
-- Implication: responsiveness to tax incentives is likely limited. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**Source:** OECD Household Saving Rate database. 
-
-43 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [719 x 358] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ . 
-
-44 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [628 x 390] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ . 
-
-45 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**==> picture [639 x 397] intentionally omitted <==**
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**Source:** OECD Economic Outlook Database (EO115), _Annex Table: Household Saving Rates_ . 
-
-46 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## Exercises 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-47 
-
-## MC 1 
-
-Who is most responsive to tax incentives for saving? 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-a) Passive savers b) Low-income liquidity-constrained households c) High-income active savers d) Retirees 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-48 
-
-## MC 2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-According to the intertemporal choice model, why does a tax on interest income have an _ambiguous_ effect on saving? 
-
-- a) Because saving depends only on preferences, not on interest rates 
-
-- b) Because the substitution effect lowers saving while the income effect raises saving 
-
-c) Because both substitution and income effects always reduce saving 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-d) Because borrowing constraints eliminate both effects 
-
-49 
-
-## MC 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Why do tax-preferred retirement accounts (such as IRAs or 401(k)s) often fail to increase _total_ saving? 
-
-a)Because contribution limits are too low b)Because only low-income households use them c)Because individuals often shift existing savings into these accounts rather than increasing total saving d)Because they reduce the after-tax return to saving 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-50 
-
-## MC 4 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-# Evidence from that a Chetty et al. (2014) shows eliminating subsidy for high-income savers in Denmark: 
-
-a) Greatly reduce retirement contirbutions and reduced total savings 
-
-b) Had no effect on contributions 
-
-- c) Reduced contributions but total savings total savings remained nearly unchanged 
-
-d) Increased total savings 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-51 
-
-## MC 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Which policy is most likely to generate a one-for-one increase in total saving? 
-
-a) A reduction in tax rates on interest income b) Expanding contribution limits for IRAs/401(k)s c) Introducing a mandate for employer retirement contributions d) Offering an informational campaign about financial literacy 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-52 
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## True/False (please provide a justification) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-# 1) A reduction in the tax rate on interest income necessarily increases national saving. 
-
-- 2) Passive savers respond strongly to changes in after-tax interest rates. 
-
-- 3) Taxing nominal interest income can lead to negative real after-tax returns when inflation is high. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 1** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Suppose Italy reduces the tax rate on interest income from 26% to20%. 
-
-• Predict the effect on saving for:  liquidity-constrained households  high-income active savers  passive savers 
-
-b) Would national saving necessarily rise? c) Denmark-style mandates increased saving one-for-one. Would a similar mandate be effective in Italy? d) How might Italy’s portfolio structure affect the result? 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-54 
-
-## Exercises 
-
-**EXERCISE 2** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-In the intertemporal choice model, individuals choose consumption today (C ₁ ) and consumption in the future (C ₂ ). Suppose a tax on interest income is introduced, lowering the after-tax interest rate. Suppose the interest rate is 10% and the tax rate is 20%. 
-
-a) How much future consumption does giving up 1 unit of consumption today generate before and after the tax? b) Based on your answer in (a), explain how the tax affects the incentive to save. c) Which effect (substitution or income) is generated by this change? Briefly explain. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-55 
-
+## Related Notes
+- [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
+- [[L19 & L20 & L21 Expectations Consumption and Investment]]
+- [[Mock_general_1_solutions]]

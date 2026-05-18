@@ -1,62 +1,62 @@
-**==> picture [350 x 149] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "BUSINESS STRATEGY 30060 – MANAGEMENT"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **BUSINESS STRATEGY 30060 – MANAGEMENT** 
+# BUSINESS STRATEGY 30060 – MANAGEMENT
 
-Appendix 
+Appendix
 
-**==> picture [139 x 70] intentionally omitted <==**
+**Point B**
 
-2 
+## Average unitary costs (AUC) = total production costs/actual quantity produced
 
-**Point B** 
+We can explain differences in AUC considering:
 
-## **Average unitary costs (AUC) = total production costs/actual quantity produced** 
+**Scale economies**
 
-We can explain differences in AUC considering: 
+**Economies of fixed cost absorption**
 
-**Scale economies** 
+- Scale economies: lower average unitary costs that may result from increasing MPC while keeping the degree of utilizationconstant
 
-**Economies of fixed cost absorption** 
+- Reduction in AUC obtained by dividing fixed costs across larger units of production output
 
-- Scale economies: lower average unitary costs that may result from increasing MPC while keeping the degree of utilizationconstant 
+- Imagine a plant that operates at MPC=x and we increase it up to y, maintaining the degree of utilization constant
 
-- 
+- We achieve scale economies if AUC(y)<AUC(x)
 
-   - Reduction in AUC obtained by dividing fixed costs across larger units of production output 
+- We realize fixed-cost absorption economies by increasing the rate of utilization for a given MPC
 
-- Imagine a plant that operates at MPC=x and we increase it up to y, maintaining the degree of utilization constant 
+- Greater benefits in industries where fixed costs represent a higher fraction of total costs: medical sector , education, services and manufacturing to some extent
 
-- We achieve scale economies if AUC(y)<AUC(x) 
+**Point B**
 
-- We realize fixed-cost absorption economies by increasing the rate of utilization for a given MPC 
+Coherently with the definition, to quantify scale economies we compare AUC of the investment alternatives at the same production capacity.
 
-- Greater benefits in industries where fixed costs represent a higher fraction of total costs: medical sector , education, services and manufacturing to some extent 
+**Scale economies:**
 
-**==> picture [139 x 71] intentionally omitted <==**
+𝐴𝑈𝐶 −𝐴𝑈𝐶 𝐴 𝐵 (at the same production capacity)
 
-3 
+We compute the AUC of B at the same production capacity using the formula: 𝐹𝑖𝑥𝑒𝑑 𝑐𝑜𝑠𝑡𝑠 + 𝑉𝑎𝑟𝑖𝑎𝑏𝑙𝑒 𝑐𝑜𝑠𝑡 𝑝𝑒𝑟 𝑢𝑛𝑖𝑡 (𝐵) 𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦 𝑜𝑓 𝐵 × 𝐶𝑃𝐶 𝑜𝑓 𝐴
+*(See also: [[ACC_BEP#^mqwawu]])*
 
-**Point B** 
+**Point B**
 
-Coherently with the definition, to quantify scale economies we compare AUC of the investment alternatives at the same production capacity. 
+In the same way, to quantify economies of FCA, we need to compare the AUC at different level of production capacity.
 
-**Scale economies:** 
+**Economies of fixed cost absorption**
 
-𝐴𝑈𝐶 −𝐴𝑈𝐶 𝐴 𝐵 (at the same production capacity) 
+𝐴𝑈𝐶𝐵 𝑎𝑡 𝑥% −𝐴𝑈𝐶𝐵 𝑎𝑡 𝑦%
 
-We compute the AUC of B at the same production capacity using the formula: 𝐹𝑖𝑥𝑒𝑑 𝑐𝑜𝑠𝑡𝑠 + 𝑉𝑎𝑟𝑖𝑎𝑏𝑙𝑒 𝑐𝑜𝑠𝑡 𝑝𝑒𝑟 𝑢𝑛𝑖𝑡 (𝐵) 𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦 𝑜𝑓 𝐵 × 𝐶𝑃𝐶 𝑜𝑓 𝐴 
-
-**==> picture [139 x 71] intentionally omitted <==**
-
-4 
-
-**Point B** 
-
-In the same way, to quantify economies of FCA, we need to compare the AUC at different level of production capacity. 
-
-**Economies of fixed cost absorption** 
-
-𝐴𝑈𝐶𝐵 𝑎𝑡 𝑥% −𝐴𝑈𝐶𝐵 𝑎𝑡 𝑦% 
-
-**==> picture [139 x 71] intentionally omitted <==**
-
+## Related Notes
+- [[ACC_BEP]]
+- [[slideset 10]]
+- [[C9]]

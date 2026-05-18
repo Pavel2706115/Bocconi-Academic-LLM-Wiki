@@ -1,256 +1,132 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "INSTITUTIONAL EQUILIBRIUM"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**UNDERSTANDING THE PURPOSE AND THE SYSTEM OF FINANCIAL STATEMENTS 30060 – MANAGEMENT** 
+**UNDERSTANDING THE PURPOSE AND THE SYSTEM OF FINANCIAL STATEMENTS 30060 – MANAGEMENT**
 
-Walsh Book 
+Walsh Book
 
-Department of Management & Technology 
+Department of Management & Technology
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-2 
+1. INTRODUCTION
 
-UNDERSTANDING THE PURPOSE AND THE SYSTEM OF FINANCIAL STATEMENTS 
+2. INSTITUTIONAL EQUILIBRIUM
 
-## AGENDA 
+3. FINANCIAL STATEMENT ANALYSIS
 
-1. INTRODUCTION 
+4. SUMMARY OF MAIN POINTS
 
-2. INSTITUTIONAL EQUILIBRIUM 
+1.0 **INTRODUCTION**
 
-3. FINANCIAL STATEMENT ANALYSIS 
+The basic components of institutional structure
 
-4. SUMMARY OF MAIN POINTS 
+Contributions
 
-**==> picture [119 x 61] intentionally omitted <==**
+Stakeholders
 
-1.0 **INTRODUCTION** 
+Rewards/benefits
 
-**==> picture [105 x 53] intentionally omitted <==**
+2.0
 
-4 
+# INSTITUTIONAL EQUILIBRIUM
 
-INTRODUCTION 
+## CORE STAKEHOLDERS
 
-The basic components of institutional structure 
+All core stakeholders share the values, objectives, governance and organization of the firm
 
-Contributions 
+All core stakeholders receive rewards and benefits which are considered fair given the contributions provided
 
-**==> picture [75 x 105] intentionally omitted <==**
+# What happens if they don’t? When does this usually happen?
 
-Stakeholders 
+Organizations (especially corporations) are often characterized by:
 
-**==> picture [196 x 123] intentionally omitted <==**
+**TRANSFERABILITY AUTONOMOUS EXISTENCE DURABILITY Some degree of openness They can freely set up i.e. Prolonged existence their governance without relying on other organizations.**
 
-Rewards/benefits 
+## Economic sustainability
 
-**==> picture [61 x 52] intentionally omitted <==**
+Organizations need economic sustainability to keep autonomy over time and ensure durability.
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Income equilibrium (Profitability)
 
-2.0 
+Firms make lots of market transactions. Since revenues typically arise after incurring costs there is need of financing, which creates financial charges. Hence, negative and positive components.
 
-# **INSTITUTIONAL EQUILIBRIUM** 
+- Entity (single-firm vs. group)
 
-**==> picture [105 x 53] intentionally omitted <==**
+Cash equilibrium (Solvency) When short-term profitability is lacking, firms use debt management to cover costs. However, debt generates financial charges & increases corporate risk
 
-6 
+## Efficiency
 
-INSTITUTIONAL EQUILIBRIUM 
+Not the same as profitability (e.g. monopolies, negative externalities)
 
-## **CORE STAKEHOLDERS** 
+- Time frame (short vs. long run)
 
-All core stakeholders share the values, objectives, governance and organization of the firm 
+Fairness of remuneration of input Labor and capital
 
-All core stakeholders receive rewards and benefits which are considered fair given the contributions provided 
+## We define **PROFITABILITY**
 
-**==> picture [105 x 53] intentionally omitted <==**
+An indicator of a firm’s ability to cover negative components (including loan and equity capital) with positive components of income at market conditions without systematically getting support from third parties
+*(See also: [[Libby_12e_Chap012_PPT print#^eqnf5k]])*
 
-INSTITUTIONAL EQUILIBRIUM 
+## We define **SOLVENCY**
 
-7 
+The firm’s ability to cover debt at any given moment
 
-# What happens if they don’t? When does this usually happen? 
+3.0
 
-**==> picture [104 x 53] intentionally omitted <==**
+# FINANCIAL STATEMENT ANALYSIS
 
-**==> picture [65 x 69] intentionally omitted <==**
+## Profit and loss account Costs and revenues
 
-8 
+Balance sheet Assets and funds
 
-INSTITUTIONAL EQUILIBRIUM 
+## Cash-flow statement
 
-Organizations (especially corporations) are often characterized by: 
+Profitability Solvency
 
-**TRANSFERABILITY AUTONOMOUS EXISTENCE DURABILITY Some degree of openness They can freely set up i.e. Prolonged existence their governance without relying on other organizations.** 
+## Balance Sheet (B/S)
 
-**==> picture [62 x 61] intentionally omitted <==**
+A snapshot of the assets used by the company and the funds that are related to these assets at an instant in time
 
-**==> picture [58 x 65] intentionally omitted <==**
+## The Balance Sheet of IKEA
 
-**==> picture [50 x 56] intentionally omitted <==**
+## The Balance Sheet of Apple
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Profit and loss account (income statement)
 
-9 
+Measures the gains or losses from both normal and abnormal operations over a period of time.
 
-INSTITUTIONAL EQUILIBRIUM 
+## The Income Statement of IKEA
 
-## Economic sustainability 
+## The Income Statement of Apple
 
-Organizations need economic sustainability to keep autonomy over time and ensure durability. 
+## Cash flow statement
 
-## Income equilibrium (Profitability) 
+A report of the inflows and outflows of cash. It links the most significant elements of B/S and income statement.
 
-Firms make lots of market transactions. Since revenues typically arise after incurring costs there is need of financing, which creates financial charges. Hence, negative and positive components. 
+4.0
 
-- Entity (single-firm vs. group) 
+**SUMMARY OF MAIN POINTS**
 
-Cash equilibrium (Solvency) When short-term profitability is lacking, firms use debt management to cover costs. However, debt generates financial charges & increases corporate risk 
+01 The components of the institutional  equilibrium
 
-## Efficiency 
+Exploring Income Statement, Balance Sheet and the Cash Flow statement.
 
-Not the same as profitability (e.g. monopolies, negative externalities) 
+02 The relation between the principles of the institutional equilibrium and the tools of the financial analysis.
 
-- Time frame (short vs. long run) 
+# THANK YOU
 
-Fairness of remuneration of input Labor and capital 
-
-10 
-
-INSTITUTIONAL EQUILIBRIUM 
-
-## We define **PROFITABILITY** 
-
-An indicator of a firm’s ability to cover negative components (including loan and equity capital) with positive components of income at market conditions without systematically getting support from third parties 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-11 
-
-INSTITUTIONAL EQUILIBRIUM 
-
-## We define **SOLVENCY** 
-
-The firm’s ability to cover debt at any given moment 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-3.0 
-
-# **FINANCIAL STATEMENT ANALYSIS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-13 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## Profit and loss account Costs and revenues 
-
-Balance sheet Assets and funds 
-
-## Cash-flow statement 
-
-**==> picture [121 x 238] intentionally omitted <==**
-
-Profitability Solvency 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-14 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## **Balance Sheet (B/S)** 
-
-A snapshot of the assets used by the company and the funds that are related to these assets at an instant in time 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-15 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## The Balance Sheet of IKEA 
-
-**==> picture [299 x 175] intentionally omitted <==**
-
-**==> picture [310 x 175] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-16 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## The Balance Sheet of Apple 
-
-**==> picture [263 x 341] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-17 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## **Profit and loss account (income statement)** 
-
-Measures the gains or losses from both normal and abnormal operations over a period of time. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-18 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## The Income Statement of IKEA 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [386 x 280] intentionally omitted <==**
-
-19 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## The Income Statement of Apple 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [378 x 310] intentionally omitted <==**
-
-20 
-
-FINANCIAL STATEMENT ANALYSIS 
-
-## **Cash flow statement** 
-
-A report of the inflows and outflows of cash. It links the most significant elements of B/S and income statement. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-4.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-22 
-
-SUMMARY 
-
-01 The components of the institutional  equilibrium 
-
-03 
-
-Exploring Income Statement, Balance Sheet and the Cash Flow statement. 
-
-02 The relation between the principles of the institutional equilibrium and the tools of the financial analysis. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-# **THANK YOU** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
+## Related Notes
+- [[Libby_12e_Chap012_PPT print]]
+- [[Full-material presentation Chapter 1]]
+- [[30693 - FSA Part 1]]

@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 3** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect3_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 3
 
-Consider an annual coupon bond with a duration of 2 years. If the interest rate, which currently is 15%, raises to 16%, what will be the approximate percentage change in the bond’s price? 
+## EX 1
 
-- a) The price will go down by 0.91% 
+Consider an annual coupon bond with a duration of 2 years. If the interest rate, which currently is 15%, raises to 16%, what will be the approximate percentage change in the bond’s price?
 
-- b) The price will go down by 1.74% 
+- a) The price will go down by 0.91%
 
-- c) The price will go up by 0.91% 
+- b) The price will go down by 1.74%
 
-- d) The price will go down by 1.65% 
+- c) The price will go up by 0.91%
 
-## **EX 2** 
+- d) The price will go down by 1.65%
 
-The price of a 5-year zero coupon bond with face value of $1,000 is $903. The current interest rate is 1.5%. What is the bond’s duration? 
+## EX 2
 
-- a) 1.82 
+The price of a 5-year zero coupon bond with face value of $1,000 is $903. The current interest rate is 1.5%. What is the bond’s duration?
 
-- b) 2.21 
+- a) 1.82
 
-- c) 5 
+- b) 2.21
 
-- d) Not enough information 
+- c) 5
 
-## **EX 3** 
+- d) Not enough information
 
-If you invest in a government bond whose time to maturity exceeds your investment horizon, which primary risk do you expose yourself to? 
+## EX 3
 
-a) interest rate risk 
+If you invest in a government bond whose time to maturity exceeds your investment horizon, which primary risk do you expose yourself to?
 
-b) inflation risk 
+a) interest rate risk
 
-- c) reinvestment risk 
+b) inflation risk
 
-- d) default risk 
+- c) reinvestment risk
 
-## **EX 4** 
+- d) default risk
 
-Compare two bonds: Bond A is an annual coupon bond of $1,200 face value and of four years remaining until maturity, with 6% YTM and a market price of $1,500. Bond B is a zero coupon bond and has two years remaining to maturity. Then: 
+## EX 4
 
-- I. Bond B has a shorter duration than bond A 
+Compare two bonds: Bond A is an annual coupon bond of $1,200 face value and of four years remaining until maturity, with 6% YTM and a market price of $1,500. Bond B is a zero coupon bond and has two years remaining to maturity. Then:
+*(See also: [[Lect2-3#^bbgalg]])*
 
-- II. Bond A has a shorter duration than bond B 
+- I. Bond B has a shorter duration than bond A
 
-- III. Bond B has shorter duration than bond A if and only if the YTM on bond B is below 6% 
+- II. Bond A has a shorter duration than bond B
 
-- IV. It cannot be determined 
+- III. Bond B has shorter duration than bond A if and only if the YTM on bond B is below 6%
 
+- IV. It cannot be determined
+
+## Related Notes
+- [[Lect2-3]]
+- Chapter 3
+- [[Full-material presentation Chapter 10]]

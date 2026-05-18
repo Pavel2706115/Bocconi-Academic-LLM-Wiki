@@ -1,3 +1,16 @@
+---
+Title: "Brunello Cucinelli"
+Author: "Bocconi"
+Reference: "Course Material"
+ContentType:
+  - "markdown"
+Created: 2026-05-18
+Processed: true
+tags:
+  - "source"
+
+---
+
 **==> picture [51 x 62] intentionally omitted <==**
 
 **==> picture [579 x 417] intentionally omitted <==**

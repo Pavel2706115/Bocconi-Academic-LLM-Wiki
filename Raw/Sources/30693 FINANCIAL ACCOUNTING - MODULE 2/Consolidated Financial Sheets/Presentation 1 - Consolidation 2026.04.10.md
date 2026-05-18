@@ -1,665 +1,342 @@
-**==> picture [836 x 8] intentionally omitted <==**
+---
+course: "Financial Accounting 2"
+course_code: "30693"
+tags:
+  - "source"
+  - course_30693
+Title: "Presentation 1 - Consolidation 2026.04.10"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## _**Accounting for Business Combinations**_ 
+## Accounting for Business Combinations
 
-**==> picture [44 x 126] intentionally omitted <==**
+_**Slide deck 1**_
 
-_**Slide deck 1**_ 
+## This Agenda will accompany us throughout all the lessons on consolidated financial statements, until the end of the course.
 
-**==> picture [836 x 8] intentionally omitted <==**
+- I. Preface on Business Combinations
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+II. Consolidation and the Concept of “ _control_ ” III. The preparation of the consolidated financial statements
 
-**1** 
+- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S C. Consolidation adjustments 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 2) Depreciation/amortization of plusvalues (minusvalues) 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 4) Elimination of intercompany profits on sale of goods
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-## This Agenda will accompany us throughout all the lessons on consolidated financial statements, until the end of the course. 
+- 6) Elimination of intercompany dividends 7) Computation of NC net income
 
-**==> picture [44 x 126] intentionally omitted <==**
+D. The completion of the work: the consolidated financial statements
 
-**==> picture [66 x 195] intentionally omitted <==**
+## Agenda
 
-- I. Preface on Business Combinations 
+## I. Preface on Business Combinations
 
-II. Consolidation and the Concept of “ _control_ ” III. The preparation of the consolidated financial statements 
+- II. Consolidation and the Concept of “ _control_ ”
 
-- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S C. Consolidation adjustments 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 2) Depreciation/amortization of plusvalues (minusvalues) 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 4) Elimination of intercompany profits on sale of goods 
+III. The preparation of the consolidated financial statements
 
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
+- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S
 
-   - 6) Elimination of intercompany dividends 7) Computation of NC net income 
+- C. Consolidation adjustments
 
-D. The completion of the work: the consolidated financial statements 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 2) Depreciation/amortization of plusvalues (minusvalues)
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- 4) Elimination of intercompany profits on sale of goods
 
-**2** 
+- 5) Elimination of intercompany profits on sale of long-lived assets 6) Elimination of intercompany dividends 7) Computation of NC net income
 
-**==> picture [836 x 8] intentionally omitted <==**
+- D. The completion of the work: the consolidated financial statements
 
-## _**Agenda**_ 
+## I. Preface on Business Combinations
 
-## **I. Preface on Business Combinations** 
+## A little preface
 
-- II. Consolidation and the Concept of “ _control_ ” 
+With reference to business, we are aware that firms grow/expand (or they over time. In attempt/wish) doing so, they might expand horizontally (i.e., in or _their_ getting businesses) vertically (i.e., _integrating parts of production_ . _processes)_
 
-III. The preparation of the consolidated financial statements 
+## I. Preface on Business Combinations
 
-- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S 
+In doing so, firms make usually a very simple choice: They can:
 
-- C. Consolidation adjustments 
+- grow internally
 
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 2) Depreciation/amortization of plusvalues (minusvalues) 
+- grow externally (which means that they _**buy other firms**_ ...)
 
-**==> picture [44 x 126] intentionally omitted <==**
+In the latter case....we usually have what is called broadly speaking “Business Combinations”
 
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
+## I. Preface on Business Combinations
 
-   - 4) Elimination of intercompany profits on sale of goods 
+## “Business Combinations”
 
-   - 5) Elimination of intercompany profits on sale of long-lived assets 6) Elimination of intercompany dividends 7) Computation of NC net income 
+Business Combination happens when a company achieves control of another company through shareholders rights (i.e. buys the shares of another firm). This process is commonly known also as:
 
-- D. The completion of the work: the consolidated financial statements 
+_Merger and Acquisitions_
 
-**==> picture [836 x 8] intentionally omitted <==**
+## I. Preface on Business Combinations
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+## Merger and Acquisitions
 
-**3** 
+_**Merger Acquisition**_ is when one company ( _Acquirer_ ) **merges** with is when one company ( _Acquirer_ ) **buys** another company ( _Target_ ) and the Target’s another company ( _Target_ ) ( _normally by_ operations are incorporated into the Acquirer. _acquiring its shares_ ), but the Target The Target does NOT exist as a separate legal continues to exist as a separate entity and to entity. keep its own assets and liabilities. _**In terms of Accounting process:**_ “ **“** _**one**_ **another one** for and is _**Anytime firm acquires**_ , accounting Merger Acquisition identical. The only difference will be that: - If there is a Merger, the accounting process will take place once - If there is an acquisition, the accounting process will happen at the end of each accounting period as the Target continues to exist.
+*(See also: [[Presentation 6 - Consolidation 2026.04.17#^szt52n]])*
 
-**==> picture [836 x 8] intentionally omitted <==**
+_I. Preface on Business Combinations_
 
-## _I. Preface on Business Combinations_ 
+## Nowadays
 
-## : _A little preface_ 
+- Almost all Publicly listed firms are organized as Business groups. - Group structure is mostly a function of size...
 
-With reference to business, we are aware that firms grow/expand (or they over time. In attempt/wish) doing so, they might expand horizontally (i.e., in or _their_ getting businesses) vertically (i.e., _integrating parts of production_ . _processes)_ 
+Therefore, most of the firms you will be looking at report Consolidated Statements. Hence, it is of crucial importance to get familiar with Consolidation Accounting.
 
-**==> picture [44 x 126] intentionally omitted <==**
+## Agenda
 
-**==> picture [836 x 8] intentionally omitted <==**
+## I. Preface on Business Combinations **II. Consolidation and the Concept of “** _**control**_ **”**
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+## III. The preparation of the consolidated financial statements
 
-**4** 
+- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S
 
-**==> picture [836 x 8] intentionally omitted <==**
+- C. Consolidation adjustments
 
-## _I. Preface on Business Combinations_ 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill
 
-In doing so, firms make usually a very simple choice: They can: 
+- 2) Depreciation/amortization of plusvalues (minusvalues)
 
-- grow internally 
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-# • grow externally (which means that they _**buy other firms**_ ...) 
+- 4) Elimination of intercompany profits on sale of goods
 
-**==> picture [44 x 126] intentionally omitted <==**
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-In the latter case....we usually have what is called broadly speaking “Business Combinations” 
+- 6) Elimination of intercompany dividends 7) Computation of NC net income
 
-**==> picture [836 x 8] intentionally omitted <==**
+- D. The completion of the work: the consolidated financial statements
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+## II. Consolidation and the Concept of “control”
 
-**5** 
+## II . Consolidation and the Concept of “control”
 
-**==> picture [836 x 8] intentionally omitted <==**
+- Consolidation “issues” arise when one company **controls** another company ( _normally by acquiring its shares_ ), but the latter continues to exist as a separate entity and to keep its own assets and liabilities.
 
-## _I. Preface on Business Combinations_ 
+- From an of this is the case in which we accounting point view, “ ” have a **group of companies** and we have to prepare _consolidated financial statements._
 
-## “Business Combinations” 
+## II. Consolidation and the Concept of “control”
 
-Business Combination happens when a company achieves control of another company through shareholders rights (i.e. buys the shares of another firm). This process is commonly known also as: 
+_**IFRS 10**_ assumes that control exists (and therefore consolidation is required) when the investor:
 
-**==> picture [44 x 126] intentionally omitted <==**
+- possesses power over the investee;
 
-_Merger and Acquisitions_ 
+- has exposure to variable returns from its involvement with the investee, and
 
-**==> picture [836 x 8] intentionally omitted <==**
+- has the ability to use its power over the investee to affect its returns.
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+If all the three conditions simultaneously hold, we face a situation of control.
 
-**6** 
+- « **the power to govern the operating and financial policies of an entity so as to obtain benefits from its activities** ».
 
-**==> picture [836 x 8] intentionally omitted <==**
+## II. Consolidation and the Concept of “control”
 
-## _I. Preface on Business Combinations_ 
+After all these premises, **we can now clarify what consolidated financial statements are.**
 
-## _Merger and Acquisitions_ 
+- At this point, we have learned two concepts:
 
-**==> picture [44 x 126] intentionally omitted <==**
+- it is normal business that are run practice companies nowadays using **corporate groups** ,
 
-_**Merger Acquisition**_ is when one company ( _Acquirer_ ) **merges** with is when one company ( _Acquirer_ ) **buys** another company ( _Target_ ) and the Target’s another company ( _Target_ ) ( _normally by_ operations are incorporated into the Acquirer. _acquiring its shares_ ), but the Target The Target does NOT exist as a separate legal continues to exist as a separate entity and to entity. keep its own assets and liabilities. _**In terms of Accounting process:**_ “ **“** _**one**_ **another one** for and is _**Anytime firm acquires**_ , accounting Merger Acquisition identical. The only difference will be that: - If there is a Merger, the accounting process will take place once - If there is an acquisition, the accounting process will happen at the end of each accounting period as the Target continues to exist. 
+- i.e. structures in which there are **many distinct legal entities** that "row in the same direction" since they are all **controlled by a single company** at the top of the group _(as already mentioned, the concept of "control" is linked to the ability to exercise power over the subsidiary);_
 
-**==> picture [836 x 8] intentionally omitted <==**
+- all the companies in a group prepare autonomously their own financial statements relating to their "individual" economic and financial situation: these are the **separate financial statements t** hat you have studied so far.
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- However, (for example) investors who want to purchase shares of the company at the top of a group cannot assess the economic and financial situation, and therefore make an investment decision, without having a **clear understanding of the performance of the entire group of companies.**
 
-**7** 
+## II. Consolidation and the Concept of “control”
 
-**==> picture [836 x 8] intentionally omitted <==**
+## (cont’d)
 
-_I. Preface on Business Combinations_ 
+- Consequently, since the 1980s, parent companies have been required to prepare an **ADDITIONAL** set of financial statements together with its separate financial statements.
 
-## _**Nowadays**_ 
+- This additional set of F/S is the **consolidated financial statements** , which are **the financial statements of a group in which the assets, liabilities, equity, revenues and expenses of the parent and its subsidiaries are presented as those of a single economic entity.** ^yv5r6v
 
-• Almost all Publicly listed firms are organized as Business groups. • Group structure is mostly a function of size... 
+- In other words, the **consolidated F/S** provides a **simulation of what the separate financial statement of the group of companies would have been, if there had been no separate legal entities, but if they had all been a single legal entity.**
 
-**==> picture [44 x 126] intentionally omitted <==**
+## II. Consolidation and the Concept of “control”
 
-Therefore, most of the firms you will be looking at report Consolidated Statements. Hence, it is of crucial importance to get familiar with Consolidation Accounting. 
+## (cont’d)
 
-**==> picture [836 x 8] intentionally omitted <==**
+- In different words, the assets, liabilities, revenues and expenses of each subsidiary are **added to the parent’s accounts as if the parents had acquired directly the** .
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- **assets and liabilities of the subsidiary instead of investing in its shares**
 
-**8** 
+- Therefore, the consolidation process **doesn’t consist only in adding up** the individual companies’ financial statements, but also in **making them consistent** with each other and in **eliminating all those items that wouldn’t be there** if the activities were actually performed by the parent company only (thus avoiding double counting).
 
-**==> picture [780 x 431] intentionally omitted <==**
+- All of this is achieved the **consolidation** which will be by preparing **adjustments** ,
 
-**----- Start of picture text -----**<br>
-I. Preface on Business Combinations<br>**----- End of picture text -----**<br>
+- the subject of study from this point onward.
 
+## II. Consolidation and the Concept of “control”
 
-**==> picture [44 x 126] intentionally omitted <==**
+## Useful terminology
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- A _**parent**_ is an entity that has one or more subsidiaries.
 
-**9** 
+- A _**subsidiary**_ is an entity, including an unincorporated entity such as a partnership, that is controlled by another entity (known as the parent).
 
-**==> picture [836 x 8] intentionally omitted <==**
+- A _**group**_ is a parent and all its subsidiaries.
 
-## _**Agenda**_ 
+- _**Non-controlling**_ **(** or _**minority**_ **)** _**interest**_ is the equity in a subsidiary not attributable, directly or indirectly, to a parent.
 
-## I. Preface on Business Combinations **II. Consolidation and the Concept of “** _**control**_ **”** 
+- _**Separate financial statements (also Stand Alone)**_ are those statements presented by companies as single legal entities.
 
-## III. The preparation of the consolidated financial statements 
+- _**Consolidated financial statements**_ are the financial statements representing the group as a unique economic entity.
 
-- A. Separate F/S collection and pre-consolidation adjustments to make them uniform B. Aggregation of the separate F/S 
+## Agenda
 
-- C. Consolidation adjustments 
+I. Preface on Business Combinations
 
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 
+## II. Consolidation and the Concept of “ _control_ ”
 
-   - 2) Depreciation/amortization of plusvalues (minusvalues) 
+## III. The preparation of the consolidated financial statements
 
-**==> picture [44 x 126] intentionally omitted <==**
+- A. Separate F/S collection and pre-consolidation adjustments to make them uniform
 
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
+- B. Aggregation of the separate F/S
 
-   - 4) Elimination of intercompany profits on sale of goods 
+- C. Consolidation adjustments
 
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill
 
-   - 6) Elimination of intercompany dividends 7) Computation of NC net income 
+- 2) Depreciation/amortization of plusvalues (minusvalues)
 
-- D. The completion of the work: the consolidated financial statements 
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 4) Elimination of intercompany profits on sale of goods
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-**10** 
+- 6) Elimination of intercompany dividends 7) Computation of NC net income
 
-**==> picture [836 x 8] intentionally omitted <==**
+- D. The completion of the work: the consolidated financial statements
 
-## _II. Consolidation and the Concept of “control”_ 
+_III. The preparation of the consolidated financial statements_
 
-**==> picture [44 x 126] intentionally omitted <==**
+_An example….what would Porsche SE Chief Financial do to Officer (CFO) start….the process?_
 
-**==> picture [662 x 390] intentionally omitted <==**
+## Agenda
 
-**----- Start of picture text -----**<br>
-From “Investments in Other corporations”<br>Ownership<br>0 -20% 20 -50% >50%<br>PASSIVE  SIGNIFICANCE<br>INVESTMENTS INFLUENCE CONTROL<br>FV  EQUITY<br>CONSOLIDATION<br>etc… METHOD<br>**----- End of picture text -----**<br>
+## I. Preface on Business Combinations
 
+## II. Consolidation and the Concept of “ _control_ ”
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+## III. The preparation of the consolidated financial statements
 
-**11** 
+- **A. Separate F/S collection and pre-consolidation adjustments to make them uniform**
 
-**==> picture [836 x 8] intentionally omitted <==**
+- B. Aggregation of the separate F/S
 
-## _II . Consolidation and the Concept of “control”_ 
+- C. Consolidation adjustments
 
-- Consolidation “issues” arise when one company **controls** another company ( _normally by acquiring its shares_ ), but the latter continues to exist as a separate entity and to keep its own assets and liabilities. 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill
 
-**==> picture [44 x 126] intentionally omitted <==**
+- 2) Depreciation/amortization of plusvalues (minusvalues)
 
-• From an of this is the case in which we accounting point view, “ ” have a **group of companies** and we have to prepare _consolidated financial statements._ 
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 4) Elimination of intercompany profits on sale of goods
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-**12** 
+- 6) Elimination of intercompany dividends
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 7) Computation of NC net income
 
-## _II. Consolidation and the Concept of “control”_ 
+- D. The completion of the work: the consolidated financial statements
 
-_**IFRS 10**_ assumes that control exists (and therefore consolidation is required) when the investor: 
+## IIIA. Separate F/S collection and pre-consolidation adjustments to make them uniform
 
-- possesses power over the investee; 
+1. Collect the individual companies’ financial statements.
 
-- has exposure to variable returns from its involvement with the investee, and 
+2. Make them uniform as concerns (1) the accounting period’s dates, (2) the accounting policies, (3) the reporting currency and (4) the layout.
 
-- has the ability to use its power over the investee to affect its returns. 
+3. Combine like items - ‘aggregate situation’.
 
-**==> picture [44 x 126] intentionally omitted <==**
+## Pre-Consolidation Adjustments
 
-If all the three conditions simultaneously hold, we face a situation of control. 
+## Pre-Consolidation Adjustments
 
-- « **the power to govern the operating and financial policies of an entity so as to obtain benefits from its activities** ». 
+_**Differences in formats**_: all formats must be aligned before starting The consolidation process.
 
-**==> picture [836 x 8] intentionally omitted <==**
+_**Difference in closing dates**_: (a) They may use a financial statement with a different date as the difference in the dates does not exceed 3 months closing long as, closing (significant events taking place in the meantime are accounted for); (b) must prepare _adhoc_ financial statements if difference is larger than 3 months.
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+_**Different Currencies**_: All Financial statements are “accounted” using the same currency. For the income statement the average exchange rate of the financial year is used; for balance sheet items exchange rate at the "closing“ date is used. Note: differences in the exchange rates will generate a “currency exchange difference” to be reported in the Equity. ^g70aox
 
-**13** 
+## Foreign currency translation (example)
 
-**==> picture [836 x 8] intentionally omitted <==**
+- Company WATER (Italy) controls COLALOCA (USA). Before consolidation, COLALOCA’s financial =
 
-## _II. Consolidation and the Concept of “control”_ 
+- statements must be translated into EUR. Average exchange rate is 1 USD 1 EUR, Exchange rate on December 31 is 1 USD = 1,1 EUR.
 
-After all these premises, **we can now clarify what consolidated financial statements are.** 
+- Exchange rates:
 
-- At this point, we have learned two concepts: 
+– Income statement →average rate: 1 USD = 1 EUR
 
-- it is normal business that are run practice companies nowadays using **corporate groups** , 
+- Balance sheet →closing rate: 1 USD = 1.1 EUR
 
-- i.e. structures in which there are **many distinct legal entities** that "row in the same direction" since they are all **controlled by a single company** at the top of the group _(as already mentioned, the concept of "control" is linked to the ability to exercise power over the subsidiary);_ 
+- Balance Sheet (USD →EUR):
 
-**==> picture [44 x 126] intentionally omitted <==**
+– Cash: 80 →88
 
-- all the companies in a group prepare autonomously their own financial statements relating to their "individual" economic and financial situation: these are the **separate financial statements t** hat you have studied so far. 
+– Payables: 50 →55
 
-- However, (for example) investors who want to purchase shares of the company at the top of a group cannot assess the economic and financial situation, and therefore make an investment decision, without having a **clear understanding of the performance of the entire group of companies.** 
+– Common stock: 10 →11
 
-**==> picture [836 x 8] intentionally omitted <==**
+– Revenues: 100 →100
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- Expenses: 80 →80
 
-**14** 
+## Agenda
 
-**==> picture [836 x 8] intentionally omitted <==**
+## I. Preface on Business Combinations
 
-## _II. Consolidation and the Concept of “control”_ 
+## II. Consolidation and the Concept of “ _control_ ”
 
-## (cont’d) 
+## III. The preparation of the consolidated financial statements
 
-- Consequently, since the 1980s, parent companies have been required to prepare an **ADDITIONAL** set of financial statements together with its separate financial statements. 
+A. Separate F/S collection and pre-consolidation adjustments to make them uniform
 
-**==> picture [44 x 126] intentionally omitted <==**
+- **B. Aggregation of the separate F/S**
 
-- This additional set of F/S is the **consolidated financial statements** , which are **the financial statements of a group in which the assets, liabilities, equity, revenues and expenses of the parent and its subsidiaries are presented as those of a single economic entity.** 
+- C. Consolidation adjustments
 
-- In other words, the **consolidated F/S** provides a **simulation of what the separate financial statement of the group of companies would have been, if there had been no separate legal entities, but if they had all been a single legal entity.** 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 2) Depreciation/amortization of plusvalues (minusvalues)
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-**15** 
+- 4) Elimination of intercompany profits on sale of goods
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-## _II. Consolidation and the Concept of “control”_ 
+- 6) Elimination of intercompany dividends 7) Computation of NC net income
 
-## (cont’d) 
+- D. The completion of the work: the consolidated financial statements
 
-- In different words, the assets, liabilities, revenues and expenses of each subsidiary are **added to the parent’s accounts as if the parents had acquired directly the** . 
+## IIIB. Aggregation of the separate F/S
 
-- **assets and liabilities of the subsidiary instead of investing in its shares** 
+1. “Aggregating” means simply adding together the financial statements of the individual legal entities after the pre-consolidation adjustments.
 
-**==> picture [44 x 126] intentionally omitted <==**
+2. This results in the **aggregate financial statement** , on which consolidation adjustments ~~s~~ .
 
-- Therefore, the consolidation process **doesn’t consist only in adding up** the individual companies’ financial statements, but also in **making them consistent** with each other and in **eliminating all those items that wouldn’t be there** if the activities were actually performed by the parent company only (thus avoiding double counting). 
+are then applied to obtain the consolidated financial statement
 
-- All of this is achieved the **consolidation** which will be by preparing **adjustments** , 
+- =
 
-- the subject of study from this point onward. 
+- 3. Aggregate financial statement +- consolidation adjustments consolidated financial statement.
 
-**==> picture [836 x 8] intentionally omitted <==**
+## IIIB. Aggregation of the separate F/S. Example....
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**16** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _II. Consolidation and the Concept of “control”_ 
-
-## _Useful terminology_ 
-
-- A _**parent**_ is an entity that has one or more subsidiaries. 
-
-- A _**subsidiary**_ is an entity, including an unincorporated entity such as a partnership, that is controlled by another entity (known as the parent). 
-
-- A _**group**_ is a parent and all its subsidiaries. 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-- _**Non-controlling**_ **[** or _**minority**_ **]** _**interest**_ is the equity in a subsidiary not attributable, directly or indirectly, to a parent. 
-
-- _**Separate financial statements (also Stand Alone)**_ are those statements presented by companies as single legal entities. 
-
-- _**Consolidated financial statements**_ are the financial statements representing the group as a unique economic entity. 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**17** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _**Agenda**_ 
-
-I. Preface on Business Combinations 
-
-## II. Consolidation and the Concept of “ _control_ ” 
-
-## **III. The preparation of the consolidated financial statements** 
-
-- A. Separate F/S collection and pre-consolidation adjustments to make them uniform 
-
-- B. Aggregation of the separate F/S 
-
-- C. Consolidation adjustments 
-
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 
-
-   - 2) Depreciation/amortization of plusvalues (minusvalues) 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
-
-   - 4) Elimination of intercompany profits on sale of goods 
-
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
-
-   - 6) Elimination of intercompany dividends 7) Computation of NC net income 
-
-- D. The completion of the work: the consolidated financial statements 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**18** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-_III. The preparation of the consolidated financial statements_ 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [342 x 363] intentionally omitted <==**
-
-_An example….what would Porsche SE Chief Financial do to Officer (CFO) start….the process?_ 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**19** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _**Agenda**_ 
-
-## I. Preface on Business Combinations 
-
-## II. Consolidation and the Concept of “ _control_ ” 
-
-## **III. The preparation of the consolidated financial statements** 
-
-- **A. Separate F/S collection and pre-consolidation adjustments to make them uniform** 
-
-- B. Aggregation of the separate F/S 
-
-- C. Consolidation adjustments 
-
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 
-
-   - 2) Depreciation/amortization of plusvalues (minusvalues) 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
-
-   - 4) Elimination of intercompany profits on sale of goods 
-
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
-
-   - 6) Elimination of intercompany dividends 
-
-   - 7) Computation of NC net income 
-
-- D. The completion of the work: the consolidated financial statements 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**20** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _IIIA. Separate F/S collection and pre-consolidation adjustments to make them uniform_ 
-
-1. Collect the individual companies’ financial statements. 
-
-2. Make them uniform as concerns (1) the accounting period’s dates, (2) the accounting policies, (3) the reporting currency and (4) the layout. 
-
-3. Combine like items - ‘aggregate situation’. 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**21** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-**==> picture [796 x 350] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Point 2 of the process is usually called “pre-consolidation adjustments” phase<br>The purpose of the pre-consolidation phase is to guarantee the uniformity of all the<br>statements to be aggregated with regard to:<br>Pre-consolidation<br>We will get back on this<br>adjustments in a subsequent slide deck<br>Schemes and<br>Accounting<br>contents of the<br>principles and<br>financial<br>policies adopted.<br>statements<br>Closing dates of<br>Reporting<br>the statements<br>currency<br>**----- End of picture text -----**<br>
-
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**22** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-_**Differences in formats**_ : all formats must be aligned before starting The consolidation process. 
-
-_**Difference in closing dates**_ : (a) They may use a financial statement with a different date as the difference in the dates does not exceed 3 months closing long as, closing (significant events taking place in the meantime are accounted for); (b) must prepare _adhoc_ financial statements if difference is larger than 3 months. 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-_**Different Currencies**_ : All Financial statements are “accounted” using the same currency. For the income statement the average exchange rate of the financial year is used; for balance sheet items exchange rate at the "closing“ date is used. Note: differences in the exchange rates will generate a “currency exchange difference” to be reported in the Equity. 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**23** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Foreign currency translation (example)_ 
-
-- Company WATER (Italy) controls COLALOCA (USA). Before consolidation, COLALOCA’s financial = 
-
-- statements must be translated into EUR. Average exchange rate is 1 USD 1 EUR, Exchange rate on December 31 is 1 USD = 1,1 EUR. 
-
-- Exchange rates: 
-
-– Income statement →average rate: 1 USD = 1 EUR 
-
-   - Balance sheet →closing rate: 1 USD = 1.1 EUR 
-
-- Balance Sheet (USD →EUR): 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-– Cash: 80 →88 
-
-– Payables: 50 →55 
-
-– Common stock: 10 →11 
-
-– Revenues: 100 →100 
-
-- Expenses: 80 →80 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**24** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-|||_Foreign currency translation_|_Foreign currency translation_|_Foreign currency translation_|_Foreign currency translation_|_Foreign currency translation_|
-|---|---|---|---|---|---|---|
-||||||||
-||||||||
-||Cash<br>88||11<br>Common Stoc<br>20<br>Profit|k|Costs<br>80|100<br>Revenues|
-||||2<br>Translation re|serve|||
-||||55<br>Payables||||
-
-
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**25** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _**Agenda**_ 
-
-## I. Preface on Business Combinations 
-
-## II. Consolidation and the Concept of “ _control_ ” 
-
-## **III. The preparation of the consolidated financial statements** 
-
-A. Separate F/S collection and pre-consolidation adjustments to make them uniform 
-
-- **B. Aggregation of the separate F/S** 
-
-- C. Consolidation adjustments 
-
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 
-
-   - 2) Depreciation/amortization of plusvalues (minusvalues) 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
-
-   - 4) Elimination of intercompany profits on sale of goods 
-
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
-
-   - 6) Elimination of intercompany dividends 7) Computation of NC net income 
-
-- D. The completion of the work: the consolidated financial statements 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**26** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _IIIB. Aggregation of the separate F/S_ 
-
-1. “Aggregating” means simply adding together the financial statements of the individual legal entities after the pre-consolidation adjustments. 
-
-2. This results in the **aggregate financial statement** , on which consolidation adjustments ~~s~~ . 
-
-are then applied to obtain the consolidated financial statement 
-
-- = 
-
-- 3. Aggregate financial statement +- consolidation adjustments consolidated financial statement. 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**27** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _IIIB. Aggregation of the separate F/S. Example...._ 
-
-|Alfa and Beta<br>FSs and the aggregate<br>accounts||Alfa|Beta|Aggregate|Adj. #1|Adj. #2|Adj. #[]|Conso|
-|---|---|---|---|---|---|---|---|---|
-||**Income Statement**||||||||
-||Revenues|7.500,00|2.800,00|10.300,00|||||
-||Expenses|3.600,00|1.850,00|5.450,00|||||
-||OperatingIncome|3.900,00|950,00|4.850,00|0,00|0,00|0,00|0,00|
-||Financial income & expenses|(1.400,00)|100,00|(1.300,00)|||||
-||Income before taxes|2.500,00|1.050,00|3.550,00|0,00|0,00|0,00|0,00|
-||Taxes|1.250,00|525,00|1.775,00|0,00|0,00|0,00|0,00|
-||Net Income|1.250,00|525,00|1.775,00|0,00|0,00|0,00|0,00|
-||NC share of income||||||||
-||||||||||
-||**Balance Sheet**||||||||
-||Property, plant and equipment|18.000,00|5.000,00|23.000,00|||||
-||Goodwill|0,00|0,00|0,00|||||
-||Other intangible assets|1.900,00|550,00|2.450,00|||||
-||Investments|1.750,00|0,00|1.750,00|||||
-||Deferred tax assets|0,00|0,00|0,00|||||
-||Inventories|2.100,00|150,00|2.250,00|||||
-||Receivables|900,00|300,00|1.200,00|||||
-||Cash & other assets|250,00|950,00|1.200,00|||||
-||Total assets|24.900,00|6.950,00|31.850,00|0,00|0,00|0,00|0,00|
-||||||||||
-||Common stock|10.000,00|1.000,00|11.000,00|||||
-||Retained earnings|5.750,00|200,00|5.950,00|||||
-||Net income|1.250,00|525,00|1.775,00|0,00|0,00|0,00|0,00|
-||NC common stock & ret earnings|0,00|0,00|0,00|||||
-||NC net income|0,00|0,00|0,00|||||
-||Provisions|600,00|1.000,00|1.600,00|||||
-||Deferred tax liabilities|750,00|650,00|1.400,00|||||
-||Trade and financial liabilities|3.100,00|850,00|3.950,00|||||
-||Other liabilities|3.450,00|2.725,00|6.175,00|||||
-||Total liabilities and equity|24.900,00|6.950,00|31.850,00|0,00|0,00|0,00|0,00|
-||||||||||
-
-
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**28** 
-
+## Related Notes
+- [[Presentation 6 - Consolidation 2026.04.17]]
+- [[Presentation 2 - Consolidation 2026.04.14]]
+- [[Presentation 4 - Consolidation 2026.04.17]]

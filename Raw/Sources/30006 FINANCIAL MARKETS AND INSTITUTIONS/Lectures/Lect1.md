@@ -1,418 +1,392 @@
-# **FINANCIAL MARKETS AND INSTITUTIONS** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "FINANCIAL MARKETS AND INSTITUTIONS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Prof. Francesco Bripi** francesco.bripi@unibocconi.it 
+# FINANCIAL MARKETS AND INSTITUTIONS
 
-## **Course Logistics (1/2)** 
+**Prof. Francesco Bripi** francesco.bripi@unibocconi.it
 
-✓ Syllabus contains all the information you need: `o` List of topics 
+## Course Logistics (1/2)
 
-`o` Book (F.S. Mishkin and S.G. Eakins, “Financial Markets & Institutions”, Pearson Education, Ninth Edition) 
+✓ Syllabus contains all the information you need: `o` List of topics
 
-`o` Office hours (by appointment) 
+`o` Book (F.S. Mishkin and S.G. Eakins, “Financial Markets & Institutions”, Pearson Education, Ninth Edition)
 
-## ✓ Exam: 
+`o` Office hours (by appointment)
 
-`o` Only a final exam, on the entire course material `o` One hour 
+## ✓ Exam:
 
-`o` 31 multiple choice questions on theory as well as analytics `o` The exam dates will soon be available online `o` Exam grading (100% non-negotiable) 
+`o` Only a final exam, on the entire course material `o` One hour
 
-## **Course Logistics (2/2)** 
+`o` 31 multiple choice questions on theory as well as analytics `o` The exam dates will soon be available online `o` Exam grading (100% non-negotiable)
 
-## ✓ Online Tests 
+## Course Logistics (2/2)
 
-1. Four problem sets (and their solutions) will be posted on Bboard. Posting dates are in the syllabus 
+## ✓ Online Tests
 
-2. Each problem set covers the corresponding simultaneous course material 3. The problem sets are not graded 
+1. Four problem sets (and their solutions) will be posted on Bboard. Posting dates are in the syllabus
 
-## ➢ Class material : 
+2. Each problem set covers the corresponding simultaneous course material 3. The problem sets are not graded
 
-- Lecture slides and some exercises (again, optional and not graded) … 
+## ➢ Class material:
 
-- … posted just before class on Bb 
+- Lecture slides and some exercises (again, optional and not graded) …
 
-## **Class Attendance** 
+- … posted just before class on Bb
 
-## ✓ Attendance is not compulsory 
+## Class Attendance
 
-- ✓ it is : some are However, _**strongly encouraged**_ topics analyzed more in-depth in class than in the book 
+## ✓ Attendance is not compulsory
 
-- ✓ Similarly, _**only studying class material is not sufficient** for the exam_ : important to attend and to study the book too!!! 
+- ✓ it is: some are However, _**strongly encouraged**_ topics analyzed more in-depth in class than in the book
 
-## Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+- ✓ Similarly, _**only studying class material is not sufficient** for the exam_: important to attend and to study the book too!!!
 
-# **Overview of the Financial System (Chapter 2)** 
+## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi
 
-**==> picture [328 x 199] intentionally omitted <==**
+# Overview of the Financial System (Chapter 2)
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Plan of today
 
+## Finance and Financial Markets (FM):
 
-**==> picture [256 x 200] intentionally omitted <==**
+➢ role (for the economy)
 
-**----- Start of picture text -----**<br>
-2-5<br>**----- End of picture text -----**<br>
+- ➢ purpose
 
+- ➢ players (trading in FM)
 
-## **Plan of today** 
+- ➢ types (of FM)
 
-## Finance and Financial Markets (FM): 
+Financial Intermediaries (FI):
 
-➢ role (for the economy) 
+- ➢ why they exist and what they do
 
-- ➢ purpose 
+- ➢ main types (of FI)
 
-- ➢ players (trading in FM) 
+- ➢ role (for the economy)
 
-- ➢ types (of FM) 
+- ➢ why they are regulated (some “heavily”)
 
-Financial Intermediaries (FI): 
+## Chapter Preview
 
-- ➢ why they exist and what they do 
+## “Big picture” questions:
 
-- ➢ main types (of FI) 
+## 1. WHY DO WE NEED A FINANCIAL MARKET?
 
-- ➢ role (for the economy) 
+**2. WHY DO FINANCIAL INTERMEDIARIES EXIST?**
 
-- ➢ why they are regulated (some “heavily”) 
+An even more fundamental question:
 
-## **Chapter Preview** 
+**IS FINANCE GOOD FOR THE ECONOMY?**
 
-## “Big picture” questions: 
+2-8
 
-## **1. WHY DO WE NEED A FINANCIAL MARKET?** 
+## Finance and Economic Growth
 
-**2. WHY DO FINANCIAL INTERMEDIARIES EXIST?** 
+# ✓ Throughout most of human history, no (per capita) economic growth
 
-An even more fundamental question: 
+- ✓ Zero-sum game: more people meant lower incomes
 
-**IS FINANCE GOOD FOR THE ECONOMY?** 
+- ✓ Not because of the lack of **technological innovations**: `o` windmill, crop-rotations, even new crops from the Americas…
 
-2-8 
+- ✓ These pushed incomes up but only temporarily
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- ✓ Sustained growth per capita only really picked up after 1650 ... why?
 
-## **Finance and Economic Growth** 
+## Sustained growth in England and Holland
 
-# ✓ Throughout most of human history, no (per capita) economic growth 
+## Finance: role and definition
 
-- ✓ Zero-sum game: more people meant lower incomes 
+- ✓ **Finance played a major role**: without financing, difficult to: `o` _invest in capital_ (for machinery, infrastracture, let alone in science, medicine etc…)
 
-- ✓ Not because of the lack of **technological innovations** : `o` windmill, crop-rotations, even new crops from the Americas… 
+- exploitation of natural and human resources in the colonies also helped. But not the only factor: otherwise Spain would have been the richest country of all!
 
-- ✓ These pushed incomes up but only temporarily 
+- `o` _trade_: trade by Dutch and British merchants required financing (and insurance)
 
-- ✓ Sustained growth per capita only really picked up after 1650 ... why? 
+- ✓ Finance is a **promise to future payments** `o` (the word “ _credit_ ” comes from Latin _to trust_ )
 
-## **Sustained growth in England and Holland** 
+- ✓ But the financial system can be sustained only with a belief in growth
 
-**==> picture [600 x 398] intentionally omitted <==**
+- ex: it is profitable to lend if there are credible growth opportunities
 
-## **Finance: role and definition** 
+- `o` otherwise financing (e.g.: credit with interest) is not possible
 
-- ✓ **Finance played a major role** : without financing, difficult to: `o` _invest in capital_ (for machinery, infrastracture, let alone in science, medicine etc…) 
+## The Purpose of Finance
 
-   - exploitation of natural and human resources in the colonies also helped. But not the only factor: otherwise Spain would have been the richest country of all! 
+- ✓ In the economy funds are not distributed equally:
 
-   - `o` _trade_ : trade by Dutch and British merchants required financing (and insurance) 
+- Some have savers … **surplus** of funds ( _lenders)_
 
-- ✓ Finance is a **promise to future payments** `o` (the word “ _credit_ ” comes from Latin _to trust_ ) 
+- `o` Others have **shortage** of funds ( _spenders … borrowers_ )
 
-- ✓ But the financial system can be sustained only with a belief in growth 
+- ✓ **Key idea:** create an opportunity of exchange
 
-   - ex: it is profitable to lend if there are credible growth opportunities 
+- ✓ The function of the financial sector
 
-   - `o` otherwise financing (e.g.: credit with interest) is not possible 
+- channel funds **from** the first group (“ _surplus_ ”) that lacks productive investment opportunities  …
 
-## **The Purpose of Finance** 
+- … to the second group (“ _shortage_ ”), that has productive opportunities
 
-- ✓ In the economy funds are not distributed equally: 
+- `o` both parties better off:
 
-   - Some have savers … **surplus** of funds ( _lenders)_ 
+- spenders can overcome their shortage of funds
 
-   - `o` Others have **shortage** of funds ( _spenders … borrowers_ ) 
+- savers make additional income from interest
 
-- ✓ **Key idea:** create an opportunity of exchange 
+- ✓ _In this sense … financial markets and financial intermediaries are critical for producing an efficient allocation of capital in the economy_ ( **Efficient Use of Capital** )
 
-- ✓ The function of the financial sector 
+## What most people think about finance
 
-   - channel funds **from** the first group (“ _surplus_ ”) that lacks productive investment opportunities  … 
+# Financial markets are unproductive casinos where rich people place their bets
 
-   - … to the second group (“ _shortage_ ”), that has productive opportunities 
+- If they win, **everybody else loses**
 
-   - `o` both parties better off: 
+- If they lose, **everybody else still loses**
 
-      - spenders can overcome their shortage of funds 
+Regulation should protect us, but it does not because the industry lobbied the government hard to maintain its privileges
 
-      - savers make additional income from interest 
+## Players in Finance
 
-- ✓ _In this sense … financial markets and financial intermediaries are critical for producing an efficient allocation of capital in the economy_ ( **Efficient Use of Capital** ) 
+_**Savers (lenders)**_
 
-## **What most people think about finance** 
+1. Households
 
-# Financial markets are unproductive casinos where rich people place their bets 
+2. Business firms
 
-- If they win, **everybody else loses** 
+3. Government
 
-- If they lose, **everybody else still loses** 
+4. Foreigners
 
-Regulation should protect us, but it does not because the industry lobbied the government hard to maintain its privileges 
+_**Spenders (borrowers)**_
 
-## **Players in Finance** 
+1. Government
 
-_**Savers (lenders)**_ 
+2. Business firms
 
-1. Households 
+3. Households
 
-2. Business firms 
+4. Foreigners
 
-3. Government 
+Same players on both sides, but _typically_ …
 
-4. Foreigners 
+- ✓ _firms_ and _governments_ lack funds (spenders)
 
-_**Spenders (borrowers)**_ 
+✓ _households_ have excess of funds  (savers)
 
-1. Government 
+- ✓ _foreigners_: it depends…
 
-2. Business firms 
+## Assets in Finance
 
-3. Households 
+✓ **Asset** is a financial claim or a piece of property that is a store of value _Real_ Asset: _Financial_ Asset:
 
-4. Foreigners 
+## _Financial_ Asset:
 
-Same players on both sides, but _typically_ … 
+## ✓ Entity producing flow of **goods or services**
 
-- ✓ _firms_ and _governments_ lack funds (spenders) 
+- ✓ Contract giving its owner **a claim to payments**
 
-✓ _households_ have excess of funds  (savers) 
+## Examples:
 
-- ✓ _foreigners_ : it depends… 
+- Land
 
-## **Assets in Finance** 
+- Plants, machinery
 
-✓ **Asset** is a financial claim or a piece of property that is a store of value _Real_ Asset: _Financial_ Asset: 
+- People
 
-## _Financial_ Asset: 
+- New invention
 
-## ✓ Entity producing flow of **goods or services** 
+- Goodwill, reputation, brand (intangibles)
 
-- ✓ Contract giving its owner **a claim to payments** 
+## Examples:
 
-## _Examples:_ 
+- Currency
 
-- Land 
+- Bonds, stocks
 
-- Plants, machinery 
+- Bank deposits, loans
 
-- People 
+- Insurance contracts
 
-- New invention 
+- `o` Derivatives (futures, options…)
 
-- Goodwill, reputation, brand (intangibles) 
+## Ex of a loan:
 
-## _Examples:_ 
+`o` **borrower** _issues_ **financial** assets (security/fin. instrument) and _sells it_ to **lenders** and use the proceeds to buy other ( **real)** assets (ex: an investment in plant)
 
-- Currency 
+## Two segments of Finance
 
-- Bonds, stocks 
+**1. Direct Finance (Financial** _**Markets**_ **(= FM))** i. Borrowers borrow _directly_ from lenders … ii. … in _financial markets …_ iii. by selling/issuing financial assets `o` Ex: a corporation sells newly issued stocks to investors
+*(See also: LECTURE_1_FMI#^ufrpcm)*
 
-- Bank deposits, loans 
+**2. Indirect Finance (Financial** _**Intermediaries**_ **(= FI))** i. Borrowers borrow _indirectly_ from lenders … _ii. via_ financial intermediaries (established to source both loanable funds and loan opportunities) …. iii. by issuing financial assets
 
-- Insurance contracts 
+`o` Ex: you borrow a mortgage (long term loan) from a bank (the financial intermediary)
 
-- `o` Derivatives (futures, options…) 
+## Structure of
 
-## Ex of a loan: 
+## Financial Markets (Direct Finance)
 
-`o` **borrower** _issues_ **financial** assets (security/fin. instrument) and _sells it_ to **lenders** and use the proceeds to buy other ( **real)** assets (ex: an investment in plant) 
+It helps to define financial markets along a _variety_ of dimensions
 
-`o` security: a claim on the issuer’s  future income or assets (a.k.a. financial Copyright ©2015 Pearson Education, Ltd. All rights reserved.instrument) 
+## There are many dimensions:
 
-## **Two segments of Finance** 
+✓ type of securities (main: debt, equity)
 
-**1. Direct Finance [Financial** _**Markets**_ **(= FM)]** i. Borrowers borrow _directly_ from lenders … ii. … in _financial markets …_ iii. by selling/issuing financial assets `o` Ex: a corporation sells newly issued stocks to investors 
+✓ type of issuance (market, transacting party)
 
-**2. Indirect Finance [Financial** _**Intermediaries**_ **(= FI)]** i. Borrowers borrow _indirectly_ from lenders … _ii. via_ financial intermediaries (established to source both loanable funds and loan opportunities) …. iii. by issuing financial assets 
+✓ by maturity (4 ex.: short/long term((*)) )
 
-`o` Ex: you borrow a mortgage (long term loan) from a bank (the financial intermediary) 
+✓ …
 
-FINANCIAL INSTITUTIONS 
+## You will all of these in the next 6 weeks
 
-**==> picture [720 x 241] intentionally omitted <==**
+(*): short term is <1 year long term is >=10 years the interval in between is named intermediate term
 
-**----- Start of picture text -----**<br>
-Focus here in the<br>first part of<br>semester<br>FINANCIAL<br>MARKETS<br>**----- End of picture text -----**<br>
+## Classifications of Financial Markets
 
+_by transacting parties:_
 
-## **Structure of** 
+_: by security type_ (*)
 
-## **Financial Markets (Direct Finance)** 
+1. Primary Market
 
-It helps to define financial markets along a _variety_ of dimensions 
+2. Secondary Market
 
-## There are many dimensions: 
+1. Money markets
 
-✓ type of securities (main: debt, equity) 
+2. Capital markets
 
-✓ type of issuance (market, transacting party) 
+3. FX markets
 
-✓ by maturity (4 ex.: short/long term[(*)] ) 
+4. Derivatives markets
 
-✓ … 
+1. Primary Market Users of funds (4 ex.: corporations) raise cash by offering **newly** issued securities for sale
 
-## You will all of these in the next 6 weeks 
+- usually using the services of underwriters, such as the investment bank
 
-(*): short term is <1 year long term is >=10 years the interval in between is named intermediate term 
+2. Secondary Market Holders of securities (investors) trade **already** issued securities among each other
 
-## **Classifications of Financial Markets** 
+## Function of Financial Intermediaries: Indirect Finance
 
-_by transacting parties:_ 
+## Function of Financial Intermediaries: Indirect Finance
 
-_: by security type_ (*) 
+Instead of savers with a lending/investing directly borrowers, financial intermediary (FI), such as a bank, plays as the _middleman_
 
-1. Primary Market 
+The intermediary: ✓ _**obtains** funds_ from savers (e.g.: households or firms) ✓ then _**makes** financial investments_ (say loans)  to spenders (e.g.: again to other households or firms) ^28v62v
 
-2. Secondary Market 
+Ex: a household starts a mortgage with an intermediary (e.g. the bank), not directly with savers (e.g.: the depositors, such as other households…).
 
-      1. Money markets 
+## Why do Financial Intermediaries exist?
 
-      2. Capital markets 
+## Reasons for intermediation
 
-      3. FX markets 
+✓ **Transaction costs**: fixed transaction costs give rise to `o` economies of scale `o` lower t.c.’s allow intermediaries to provide liquidity services
 
-      4. Derivatives markets 
+✓ **Risk sharing**: better ability to use `o` portfolio diversification techniques `o` risk sharing (=asset transformation, also to longer maturity…)
 
-1. Primary Market Users of funds (4 ex.: corporations) raise cash by offering **newly** issued securities for sale 
+- ✓ **Asymmetric information**: specialized skills/tools to mitigate asymmetric information problems
 
-   - usually using the services of underwriters, such as the investment bank 
+`o` adverse selection `o` moral hazard
 
-2. Secondary Market Holders of securities (investors) trade **already** issued securities among each other 
+✓ **Economies of scope**: intermediaries can use the same information source to provide multiple financial services `o` but conflict of interests, due to moral hazard!
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.(*): specific lectures are dedicated to most of these types of FM’s 
+## Focus on Asymmetric Information
 
-## **Function of Financial Intermediaries: Indirect Finance** 
+**Information:** one of a transaction know more **Asymmetric** party may (has . more information) about the value of the trade than the other party Examples with **2 cases** of **Asymmetric Information** ^1eih5b
 
-**==> picture [720 x 442] intentionally omitted <==**
+**1. Adverse Selection** (keywords: type; «lemons»)
 
-**----- Start of picture text -----**<br>
-Focus here in the<br>second part of the<br>semester<br>**----- End of picture text -----**<br>
+## The information problems _before_ the transaction occurs.
 
+## Ex of loan:
 
-## **Function of Financial Intermediaries: Indirect Finance** 
+- potential borrowers who are most likely to demand a loan are those who are most _adverse_ no
 
-Instead of savers with a lending/investing directly borrowers, financial intermediary (FI), such as a bank, plays as the _middleman_ 
+- likely to produce (bad) outcome: repay debt!
 
-The intermediary: ✓ _**obtains** funds_ from savers (e.g.: households or firms) ✓ then _**makes** financial investments_ (say loans)  to spenders (e.g.: again to other households or firms) 
+- lenders become aware that average borrowers have bad credit risk and decide to increase interest rate or when credit risk is prohibitively high not to offer any loan at all.
 
-Ex: a household starts a mortgage with an intermediary (e.g. the bank), not directly with savers (e.g.: the depositors, such as other households…). 
+- Ex of insurance: buy life insurance after an unhealthy life
 
-## **Why do Financial Intermediaries exist?** 
+## Focus on Asymmetric Information
 
-## **Reasons for intermediation** 
+**2. Moral Hazard** (keywords: action; «run away with the money!»)
 
-✓ **Transaction costs** : fixed transaction costs give rise to `o` economies of scale `o` lower t.c.’s allow intermediaries to provide liquidity services 
+The information problems _after_ the transaction occurs: the risk (“hazard”) that borrower engages in activities that are undesirable (“immoral”) from lender’s perspective.
 
-✓ **Risk sharing** : better ability to use `o` portfolio diversification techniques `o` risk sharing (=asset transformation, also to longer maturity…) 
+## Ex of a loan:
 
-- ✓ **Asymmetric information** : specialized skills/tools to mitigate asymmetric information problems 
+- A firm needs funds to implement relatively safe business plan. But after receiving funds, there is a higher incentive to implement riskier business
 
-`o` adverse selection `o` moral hazard 
+- Since this moral hazard increases risk of default, lenders increase ex ante interest rate or require collateral or, at the extreme, do not offer loan at all
 
-✓ **Economies of scope** : intermediaries can use the same information source to provide multiple financial services `o` but conflict of interests, due to moral hazard! 
+Ex of insurance: burn the house if insured it before!
 
-## **Focus on Asymmetric Information** 
+Various tools to both risks and such as mitigate (AS MH), screening, monitoring, collateral, etc…: some tools are in the financial contract, others give role of financial institutions
 
-**Information:** one of a transaction know more **Asymmetric** party may (has . more information) about the value of the trade than the other party Examples with **2 cases** of **Asymmetric Information** 
+2-24
 
-**1. Adverse Selection** (keywords: type; «lemons») 
+## Types of financial institutions
 
-## The information problems _before_ the transaction occurs. 
+## Depository institutions
 
-## Ex of loan: 
+- ✓ Commercial banks: take deposits from savers and make loans
 
-- potential borrowers who are most likely to demand a loan are those who are most _adverse_ no 
+- ✓ Thrifts: similar, but specialized in one loan segment (credit unions, savings banks, savings associations)
 
-- likely to produce (bad) outcome: repay debt! 
+## Contractual savings institutions
 
-- lenders become aware that average borrowers have bad credit risk and decide to increase interest rate or when credit risk is prohibitively high not to offer any loan at all. 
+- ✓ Insurance companies: offer protection against adverse events (e.g. death, illness, injury, fire, theft, etc…)
 
-- Ex of insurance: buy life insurance after an unhealthy life 
+- ✓ Pension funds: invest funds for retirement; taxation deferred
 
-Optional reading:Copyright ©2015 Pearson Education, Ltd. All rights reserved. Adverse Selection and Financial Crises 
+## Investment intermediaries
 
-## **Focus on Asymmetric Information** 
+- ✓ Finance companies: make loans, but (unlike commercial banks) are funded with short-term and long-term debt, or by issuing stocks
 
-**2. Moral Hazard** (keywords: action; «run away with the money!») 
+- ✓ Mutual funds: pool funds from many individuals and invest in diversified portfolios
 
-The information problems _after_ the transaction occurs: the risk (“hazard”) that borrower engages in activities that are undesirable (“immoral”) from lender’s perspective. 
+- ✓ Investment banks: help firms issue securities and engage in related activities (brokerage, trading)
 
-## Ex of a loan: 
+- ✓ Hedge funds: pool funds of small number of wealthy investors and invest on their behalf
 
-- A firm needs funds to implement relatively safe business plan. But after receiving funds, there is a higher incentive to implement riskier business 
+2-26
 
-- Since this moral hazard increases risk of default, lenders increase ex ante interest rate or require collateral or, at the extreme, do not offer loan at all 
+## Regulation of Financial Intermediaries
 
-Ex of insurance: burn the house if insured it before! 
+The financial system is heavily regulated in most advanced countries
 
-Various tools to both risks and such as mitigate (AS MH), screening, monitoring, collateral, etc…: some tools are in the financial contract, others give role of financial institutions 
+- ✓ Main objectives:
 
-Optional reading: Copyright ©2015 Pearson Education, Ltd. All rights reserved.Moral Hazard and Fed’s response during the Covid Pandemic 
+1. reducing asymmetric information problems
 
-2-24 
+2. ensuring financial stability
 
-## **Types of financial institutions** 
+- ✓ Government regulation of FI’s:
 
-## Depository institutions 
+`o` restrictions on entry
 
-- ✓ Commercial banks: take deposits from savers and make loans 
+- disclosure requirements
 
-- ✓ Thrifts: similar, but specialized in one loan segment (credit unions, savings banks, savings associations) 
+- restrictions on assets and activities
 
-## Contractual savings institutions 
+`o` deposit insurance
 
-- ✓ Insurance companies: offer protection against adverse events (e.g. death, illness, injury, fire, theft, etc…) 
+- limits on competition
 
-- ✓ Pension funds: invest funds for retirement; taxation deferred 
+- restrictions on interest rates
 
-## Investment intermediaries 
-
-- ✓ Finance companies: make loans, but (unlike commercial banks) are funded with short-term and long-term debt, or by issuing stocks 
-
-- ✓ Mutual funds: pool funds from many individuals and invest in diversified portfolios 
-
-- ✓ Investment banks: help firms issue securities and engage in related activities (brokerage, trading) 
-
-- ✓ Hedge funds: pool funds of small number of wealthy investors and invest on their behalf 
-
-2-26 
-
-**==> picture [720 x 482] intentionally omitted <==**
-
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Regulation of Financial Intermediaries** 
-
-The financial system is heavily regulated in most advanced countries 
-
-- ✓ Main objectives: 
-
-   1. reducing asymmetric information problems 
-
-   2. ensuring financial stability 
-
-- ✓ Government regulation of FI’s: 
-
-`o` restrictions on entry 
-
-- disclosure requirements 
-
-- restrictions on assets and activities 
-
-`o` deposit insurance 
-
-   - limits on competition 
-
-   - restrictions on interest rates 
-
-- ✓ Various agencies Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
+## Related Notes
+- LECTURE_1_FMI
+- [[Lect1_exercises]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]

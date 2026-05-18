@@ -1,803 +1,465 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "THE MA JOR FUNCTIONS OF MANAGEMENT"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**THE NATURE OF MANAGEMENT 30060 – MANAGEMENT** 
+**THE NATURE OF MANAGEMENT 30060 – MANAGEMENT**
 
-Management book - Chapter 4 Department of Management & Technology 
+Management book - Chapter 4 Department of Management & Technology
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-2 
+1. WHAT DO MANAGERS DO?
 
-THE NATURE OF MANAGEMENT 
+2. THE MAJOR FUNCTIONS OF MANAGEMENT
 
-## AGENDA 
+3. LEVELS OF MANAGEMENT
 
-1. WHAT DO MANAGERS DO? 
+4. DECISION MAKING
 
-2. THE MAJOR FUNCTIONS OF MANAGEMENT 
+5. SUMMARY OF MAIN POINTS
 
-3. LEVELS OF MANAGEMENT 
+1.0
 
-4. DECISION MAKING 
+**WHAT DO MANAGERS DO?**
 
-5. SUMMARY OF MAIN POINTS 
+WHAT DO MANAGERS DO?
 
-**==> picture [119 x 61] intentionally omitted <==**
+What is Management? Who are Managers?
 
-1.0 
+WHAT DO MANAGERS DO?
 
-**WHAT DO MANAGERS DO?** 
+## Recall the definition of **MANAGEMENT**
 
-**==> picture [105 x 53] intentionally omitted <==**
+Management is a process designed to achieve an organization’s objectives by using its resources and in a effectively efficiently changing environment.
 
-WHAT DO MANAGERS DO? 
+WHAT DO MANAGERS DO?
 
-4 
+## We define **MANAGERS**
 
-What is Management? Who are Managers? 
+Managers make decisions about the use of the organization’s resources and are concerned with planning, organizing, directing, and controlling the organization’s activities to reach its objectives.
 
-**==> picture [104 x 53] intentionally omitted <==**
+WHAT DO MANAGERS DO?
 
-**==> picture [228 x 237] intentionally omitted <==**
+What do managers do?
 
-**==> picture [65 x 69] intentionally omitted <==**
+Read the full article at https://www.balancethegrin d.com.au/dailyroutines/jack-dorsey-dailyroutine/
 
-5 
+WHAT DO MANAGERS DO?
 
-WHAT DO MANAGERS DO? 
+Jack Patrick Dorsey
 
-## Recall the definition of **MANAGEMENT** 
+Read the full article at https://www.bala ncethegrind.com. au/dailyroutines/jackdorsey-dailyroutine/
 
-Management is a process designed to achieve an organization’s objectives by using its resources and in a effectively efficiently changing environment. 
+WHAT DO MANAGERS DO?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Before you commit at becoming one of them, let’s have a look at a  typical day of a «500 fastest growing private companies’ CEO»
 
-6 
+Source: The muse
 
-WHAT DO MANAGERS DO? 
+WHAT DO MANAGERS DO?
 
-## We define **MANAGERS** 
+2.0
 
-Managers make decisions about the use of the organization’s resources and are concerned with planning, organizing, directing, and controlling the organization’s activities to reach its objectives. 
+# THE MA JOR FUNCTIONS OF MANAGEMENT
 
-**==> picture [105 x 53] intentionally omitted <==**
+Management functions
 
-7 
+Managers engage in a series of activities to harmonize the use of resources, so that the business can develop, produce, and sell products
 
-WHAT DO MANAGERS DO? 
+## Planning
 
-What do managers do? 
+What should be done By whom When
 
-Read the full article at https://www.balancethegrin d.com.au/dailyroutines/jack-dorsey-dailyroutine/ 
+How
 
-**==> picture [372 x 210] intentionally omitted <==**
+GOAL is what a firm WISHES TO ACHIEVE
 
-**==> picture [105 x 53] intentionally omitted <==**
+An attribute sought A target to be achieved A time frame
 
-8 
+- Profit
 
-WHAT DO MANAGERS DO? 
+- Product quality
 
-Jack Patrick Dorsey 
+- Volume of sales
 
-**==> picture [501 x 279] intentionally omitted <==**
+OBJECTIVES derive from the MISSION
 
-Read the full article at https://www.bala ncethegrind.com. au/dailyroutines/jackdorsey-dailyroutine/ 
+Objectives are measurable:
 
-**==> picture [105 x 53] intentionally omitted <==**
+- % of sales increase
 
-9 
+Competitive advantage
 
-WHAT DO MANAGERS DO? 
+- Market share
 
-Before you commit at becoming one of them, let’s have a look at a  typical day of a «500 fastest growing private companies’ CEO» 
+- Efficiency (i.e. making the best use of the
 
-**==> picture [105 x 53] intentionally omitted <==**
+organization’s resources)
 
-**==> picture [189 x 383] intentionally omitted <==**
+- Growth
 
-Source: The muse 
+## Planning
 
-10 
+- Long-term focused (1 to 5+ years)
 
-WHAT DO MANAGERS DO? 
+- Overall strategy: Vision, Mission, Why, Policies and Direction
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Executive management
 
-**==> picture [360 x 354] intentionally omitted <==**
+- Short-term focused (less than 1 year)
 
-2.0 
+- What activities to be planned in strategic alignment?
 
-# **THE MA JOR FUNCTIONS OF MANAGEMENT** 
+- Middle management
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Very short-term focused (day-to-day running)
 
-12 
+Operational plans
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+- Detail-level processes for specific outcomes
 
-Management functions 
+- Front-line management
 
-Managers engage in a series of activities to harmonize the use of resources, so that the business can develop, produce, and sell products 
+## Whose is this company Mission?
 
-**==> picture [457 x 196] intentionally omitted <==**
+## Whose is this company Mission?
 
-**==> picture [104 x 53] intentionally omitted <==**
+Answer to the question:
 
-13 
+“What business are we in?” The mission statement is a declaration of an organization’s fundamental purpose and basic philosophy
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+## When KFC ran out of chicken… bad planning at work
 
-## Planning 
+Mission vs Purpose
 
-THE PLAN SPECIFIES 
+## Organizing, Directing and Controlling
 
-What should be done By whom When 
+**ORGANIZING**
 
-How 
+## DIRECTING
 
-GOAL is what a firm WISHES TO ACHIEVE 
+## CONTROLLING
 
-An attribute sought A target to be achieved A time frame 
+Structuring of resources and activities to accomplish objectives in an efficient and effective
 
-- Profit 
+manner
 
-- Product quality 
+Motivating and leading employees to achieve organizational objectives
 
-- Volume of sales 
+Evaluating and correcting the activities to keep the organization on course
 
-OBJECTIVES derive from the MISSION 
+- Measuring performance
 
-Objectives are measurable: 
+- Comparing present performance with objectives
 
-- % of sales increase 
+- Identifying deviations from the standards
 
-Competitive advantage 
+- Investigating the causes of deviation
 
-- Market share 
+- Taking corrective action when necessary
 
-- Efficiency (i.e. making the best use of the 
+3.0
 
-organization’s resources) 
+**LEVELS OF MANAGEMENT**
 
-- Growth 
+WHAT DO MANAGERS DO?
 
-**==> picture [105 x 53] intentionally omitted <==**
+What have in common a sole proprietor of a Jewelry store and the hundreds of managers of a large company
 
-14 
+Levels of management
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+More middle management than Top Management
 
-## Planning 
+Differences across firm's size (Small, Medium, and Large firms)
 
-- Long-term focused (1 to 5+ years) 
+## Levels of Management
 
-**==> picture [119 x 112] intentionally omitted <==**
+## TOP MANAGERS
 
-**----- Start of picture text -----**<br>
-Strategic<br>plans<br>Tactical plans<br>**----- End of picture text -----**<br>
+Spend most of their tim e planning Make the
 
+organization’s strategic decisions
 
-- Overall strategy: Vision, Mission, Why, Policies and Direction 
+— CEO
 
-- Executive management 
+— CFO
 
-- Short-term focused (less than 1 year) 
+— COO
 
-- What activities to be planned in strategic alignment? 
+**MIDDLE**
 
-- Middle management 
+**MANAGEMENT**
 
-- Very short-term focused (day-to-day running) 
+Responsible for tactical and operational planning to implement the general guidelines established by Top management
 
-**==> picture [105 x 53] intentionally omitted <==**
+— Plant Managers
 
-Operational plans 
+— Division Managers
 
-- Detail-level processes for specific outcomes 
+— Department Managers
 
-- Front-line management 
+## FIRST-LINE MANAGEMENT
 
-15 
+Supervise workers and the daily operations of the organization. Direct and Control
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+— Foreman
 
-## Whose is this company Mission? 
+— Supervisor
 
-"We aim to be Earth’s most customer centric company. Our mission is to continually raise the bar of the customer experience by using the internet and technology to help consumers find, discover and buy anything, and empower businesses and content creators to maximise their success." 
+- Office Manager
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Top Managers
 
-16 
+## CEO
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+Chief Exectuve Officer manages the overall strategic direction of the company and represents the company to stakeholders
 
-## Whose is this company Mission? 
+## CFO
 
-**==> picture [546 x 187] intentionally omitted <==**
+Chief Financial Officer manages the financial operations of the company and reports to the CEO
 
-**----- Start of picture text -----**<br>
-"We aim to be Earth’s most customer centric company. Our<br>mission is to continually raise the bar of the customer<br>experience by using the internet and technology to help<br>consumers find, discover and buy anything, and empower<br>businesses and content creators to maximise their success."<br>**----- End of picture text -----**<br>
+## COO
 
+Chief Operating Officer is responsible for daily operations of the company and reports to the CEO
 
-**==> picture [105 x 53] intentionally omitted <==**
+Importance of Management functions in each level
 
-17 
+Areas of Management
 
-THE MAJOR FUNCTIONS OF MANAGEMENT 
+There are managers who specialize in the basic functional areas of business, which are important to business' success.
 
-"We aim to be Earth's most customer centric company. Our mission is to continua lly raise the bar of customer experience by using the internet and technology to help consumers find, discover and buy anything, and empower businesses and content creators to maximise their success." 
-
-**==> picture [348 x 146] intentionally omitted <==**
-
-Answer to the question: 
-
-“What business are we in?” The mission statement is a declaration of an organization’s fundamental purpose and basic philosophy 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-18 
-
-THE MAJOR FUNCTIONS OF MANAGEMENT 
-
-## When KFC ran out of chicken… bad planning at work 
-
-**==> picture [239 x 242] intentionally omitted <==**
-
-**==> picture [143 x 171] intentionally omitted <==**
-
-**==> picture [324 x 185] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-19 
-
-THE MAJOR FUNCTIONS OF MANAGEMENT 
-
-Mission vs Purpose 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [363 x 405] intentionally omitted <==**
-
-20 
-
-THE MAJOR FUNCTIONS OF MANAGEMENT 
-
-## Organizing, Directing and Controlling 
-
-**ORGANIZING** 
-
-## **DIRECTING** 
-
-## **CONTROLLING** 
-
-Structuring of resources and activities to accomplish objectives in an efficient and effective 
-
-manner 
-
-Motivating and leading employees to achieve organizational objectives 
-
-Evaluating and correcting the activities to keep the organization on course 
-
-- Measuring performance 
-
-- Comparing present performance with objectives 
-
-- Identifying deviations from the standards 
-
-- Investigating the causes of deviation 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-- Taking corrective action when necessary 
-
-3.0 
-
-**LEVELS OF MANAGEMENT** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-WHAT DO MANAGERS DO? 
-
-22 
-
-What have in common a sole proprietor of a Jewelry store and the hundreds of managers of a large company 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [65 x 69] intentionally omitted <==**
-
-23 
-
-LEVELS OF MANAGEMENT 
-
-Levels of management 
-
-More middle management than Top Management 
-
-Differences across firm's size (Small, Medium, and Large firms) 
-
-**==> picture [437 x 257] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Top<br>Management<br>President, CEO,<br>Executive VPs<br>Middle Management<br>Plant managers, Division<br>managers, Department<br>managers<br>First-line management<br>Foremen, Supervisors, Office managers<br>**----- End of picture text -----**<br>
-
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-24 
-
-LEVELS OF MANAGEMENT 
-
-## Levels of Management 
-
-## **TOP MANAGERS** 
-
-Spend most of their tim e planning Make the 
-
-organization’s strategic decisions 
-
-— CEO 
-
-— CFO 
-
-— COO 
-
-**MIDDLE** 
-
-**MANAGEMENT** 
-
-Responsible for tactical and operational planning to implement the general guidelines established by Top management 
-
-— Plant Managers 
-
-— Division Managers 
-
-— Department Managers 
-
-## **FIRST-LINE MANAGEMENT** 
-
-Supervise workers and the daily operations of the organization. Direct and Control 
-
-— Foreman 
-
-— Supervisor 
-
-- Office Manager 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-25 
-
-LEVELS OF MANAGEMENT 
-
-## Top Managers 
-
-## **CEO** 
-
-Chief Exectuve Officer manages the overall strategic direction of the company and represents the company to stakeholders 
-
-**==> picture [85 x 80] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-## **CFO** 
-
-Chief Financial Officer manages the financial operations of the company and reports to the CEO 
-
-**==> picture [92 x 92] intentionally omitted <==**
-
-## **COO** 
-
-Chief Operating Officer is responsible for daily operations of the company and reports to the CEO 
-
-**==> picture [135 x 97] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Sandberg<br>**----- End of picture text -----**<br>
-
-
-26 
-
-LEVELS OF MANAGEMENT 
-
-Importance of Management functions in each level 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [457 x 327] intentionally omitted <==**
-
-27 
-
-LEVELS OF MANAGEMENT 
-
-Areas of Management 
-
-There are managers who specialize in the basic functional areas of business, which are important to business' success. 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-||Manager<br>Financial Manager|Function<br>Focus on obtaining the money needed for the|
+|Manager Financial Manager|Function Focus on obtaining the money needed for the|
 |---|---|---|
-|||successful operation of the organization and<br>using that money in accordance with<br>organizational goals|
-||Production and|Develop and administer the activities|
-||operations manager|involved in transforming resources into|
-|||goods, services, and ideas ready for the<br>marketplace|
-||Human resource|Handle the staffing function and deal with|
-||manager|employees in a formalized manner|
-||Information|Responsible for implementing, monitoring,|
-||Technology (IT)|and controlling technology applications in|
-||manager|business, such as computer networks|
-||Marketing manager|Responsible for planning, pricing, and|
-|||promoting products and making them|
-|||available to customers through distribution|
-||Administrative|Manage an entire business as a major|
-||manager|segment of a business|
+|successful operation of the organization and using that money in accordance with organizational goals|
+|Production and|Develop and administer the activities|
+|operations manager|involved in transforming resources into|
+|goods, services, and ideas ready for the marketplace|
+|Human resource|Handle the staffing function and deal with|
+|manager|employees in a formalized manner|
+|Information|Responsible for implementing, monitoring,|
+|Technology (IT)|and controlling technology applications in|
+|manager|business, such as computer networks|
+|Marketing manager|Responsible for planning, pricing, and|
+|promoting products and making them|
+|available to customers through distribution|
+|Administrative|Manage an entire business as a major|
+|manager|segment of a business|
+*(See also: [[slideset 5#^cvx5k6]])*
 
+## Managers skills
 
+## TECHNICAL EXPERTISE
 
-28 
+Specialized knowledge and training required to perform jobs
 
-LEVELS OF MANAGEMENT 
+Most needed by first-line managers
 
-## Managers skills 
+## CONCEPTUAL SKILLS
 
-01 
+The ability to think in abstract terms. Think creatively!
 
-## **TECHNICAL EXPERTISE** 
+Important for Top Management
 
-Specialized knowledge and training required to perform jobs 
+## ANALYTICAL SKILLS
 
-Most needed by first-line managers 
+The ability to identify relevant issues and recognize their importance.
 
-02 
+Important for Top Management
 
-## **CONCEPTUAL SKILLS** 
+## HUMAN RELATION SKILLS
 
-The ability to think in abstract terms. Think creatively! 
+The ability to deal with the people, inside and outside the organization. Important for all Levels of Management
 
-Important for Top Management 
+## Leadership style
 
-03 
+**Autocratic Democratic Leadership Leadership** Make all Involve their decisions and employees in then tell decision
 
-## **ANALYTICAL SKILLS** 
+Make all decisions and then tell employees what must be done
 
-The ability to identify relevant issues and recognize their importance. 
+**Free-rein Leadership** Let their employees work without much interference
 
-Important for Top Management 
+**Authentic Leadership**
 
-04 
+Passionate about the goals and mission of the company, display corporate values in the workplace and form longterm relationships with the stakeholders
 
-## **HUMAN RELATION SKILLS** 
+## Leadership style
 
-The ability to deal with the people, inside and outside the organization. Important for all Levels of Management 
+**Democratic Leadership**
 
-29 
+He is known for surrounding himself with people who disagree and challenge him.
 
-LEVELS OF MANAGEMENT 
+**Autocratic Leadership**
 
-## Leadership style 
+She is a meticulous boss who’s very demanding of her employees. She has a very clear vision to share with her staff and her customers
 
-**Autocratic Democratic Leadership Leadership** Make all Involve their decisions and employees in then tell decision 
+**Free-rein Leadership**
 
-Make all decisions and then tell employees what must be done 
+He places immense trust in his managers and gives them a broad leeway to run their operations.
 
-**==> picture [105 x 53] intentionally omitted <==**
+**Authentic Leadership**
 
-**Free-rein Leadership** Let their employees work without much interference 
+“During my lifetime, I have always nurtured a dream: useful work to achieve an important goal. I have always felt that business profit alone was not enough to fulfil my dream and a higher purpose was to be found.” ^6n02su
 
-**Authentic Leadership** 
+Musk’s leadership approach involves using a mix of autocratic, democratic and laissez-faire to accomplish his goals. His autocratic style is often used to make quick decisions, and his democratic style promotes open dialogue while allowing for different ideas to be shared.
 
-Passionate about the goals and mission of the company, display corporate values in the workplace and form longterm relationships with the stakeholders 
+Meanwhile, his laissez-faire approach allows team members to take responsibility for their own decisions and actions without being constantly monitored.
 
-30 
+## Leadership style
 
-LEVELS OF MANAGEMENT 
+“Musk’s leadership approach involves using a mix of autocratic, democratic and laissez-faire to accomplish his goals. His autocratic style is often used to make quick decisions, and his democratic style promotes open dialogue while allowing for different ideas to be shared. Meanwhile, his laissez-faire approach allows team members to take responsibility for their own decisions and actions without being constantly monitored.”
 
-## Leadership style 
+4.0
 
-**Democratic Leadership** 
+**DECISION MAKING**
 
-He is known for surrounding himself with people who disagree and challenge him. 
+How did you choose to study in Bocconi? How did you choose the specific Bocconi program?
 
-**==> picture [94 x 83] intentionally omitted <==**
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-**==> picture [10 x 49] intentionally omitted <==**
+## Homo economicus
 
-**----- Start of picture text -----**<br>
-Tim Cook<br>**----- End of picture text -----**<br>
+- Ability to compare alternative opportunities
 
+- Ability to elaborate all available information
 
-**Autocratic Leadership** 
+- Individual preferences described by utility  functions
 
-She is a meticulous boss who’s very demanding of her employees. She has a very clear vision to share with her staff and her customers 
+- Individual maximization of utility
 
-**==> picture [87 x 83] intentionally omitted <==**
+- Goal: maximization of income and wealth
 
-**==> picture [10 x 76] intentionally omitted <==**
+- Not much room for e.g. reciprocity, trust and  emotions
 
-**----- Start of picture text -----**<br>
-Martha Stewart<br>**----- End of picture text -----**<br>
+## LET’S PLAY A GAME
 
+**4.0**
 
-**Free-rein Leadership** 
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-He places immense trust in his managers and gives them a broad leeway to run their operations. 
+## Rules of the game
 
-**==> picture [94 x 83] intentionally omitted <==**
+- 2 players , player 1 (P1) and player 2 (P2)
 
-**==> picture [10 x 72] intentionally omitted <==**
+- The 2 players decide how to divide a given amount between them
 
-**----- Start of picture text -----**<br>
-Warren Buffett<br>**----- End of picture text -----**<br>
+- P1 proposes a division of the amount
 
+- P2 can accept or reject
 
-**Authentic Leadership** 
+- If accepted, both players gets the agreed shares
 
-“During my lifetime, I have always nurtured a dream: useful work to achieve an important goal. I have always felt that business profit alone was not enough to fulfil my dream and a higher purpose was to be found.” 
+- If rejected players get nothing
 
-**==> picture [86 x 83] intentionally omitted <==**
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-**==> picture [9 x 86] intentionally omitted <==**
+## The Ultimatum Game
 
-**----- Start of picture text -----**<br>
-Brunello Cucinelli<br>**----- End of picture text -----**<br>
+The proposer should offer the smallest possible share and responder would accept it (Rubinstein, 1982).
 
+On average, offers are 40-50% of the amount.
 
-Musk’s leadership approach involves using a mix of autocratic, democratic and laissez-faire to accomplish his goals. His autocratic style is often used to make quick decisions, and his democratic style promotes open dialogue while allowing for different ideas to be shared. 
+About half of the responders reject offers below 30 %
 
-31 
+## How is that possible?
 
-Meanwhile, his laissez-faire approach allows team members to take responsibility for their own decisions and actions without being constantly monitored. 
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-## Leadership style 
+**DECISION MAKING** TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-**==> picture [320 x 253] intentionally omitted <==**
+## THE UNUSUAL DISEASE
 
-“Musk’s leadership approach involves using a mix of autocratic, democratic and laissez-faire to accomplish his goals. His autocratic style is often used to make quick decisions, and his democratic style promotes open dialogue while allowing for different ideas to be shared. Meanwhile, his laissez-faire approach allows team members to take responsibility for their own decisions and actions without being constantly monitored.” 
+- Imagine that the US is preparing for an unusual disease, which is expected to kill 600 people
 
-4.0 
+- Two alternative program
 
-**DECISION MAKING** 
+- s: make a decision!
 
-**==> picture [105 x 53] intentionally omitted <==**
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-DECISION MAKING 
+## The Unusual Disease
 
-33 
+- Imagine that the US is preparing for an unusual disease, which is expected to kill 600 people.
 
-How did you choose to study in Bocconi? How did you choose the specific Bocconi program? 
+- Two alternative programs:
 
-**==> picture [104 x 53] intentionally omitted <==**
+PROGRAM A: 200 people will be saved PROGRAM B: 1/3 prob. of saving 600 people and 2/3 prob. Of saving 0
 
-**==> picture [65 x 69] intentionally omitted <==**
+PROGRAM C: 400 people will die PROGRAM D: 1/3 prob. that nobody will die and 2/3 prob. That 600 will die
 
-34 
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
+## So…framing matters!
 
-## Homo economicus 
+- Program A: 200 people will be saved (out of 600)
 
-- Ability to compare alternative opportunities 
+- Program B: 1/3 prob. of saving 600 people and 2/3 prob. of saving 0
 
-- Ability to elaborate all available information 
+- Program C: 400 people will die (out of 600)
 
-- Individual preferences described by utility  functions 
+- Program D: 1/3 prob. that nobody will die and 2/3 prob. that 600 will die
 
-- Individual maximization of utility 
+- Programs A and C are the same, as are programs B and D
 
-- Goal: maximization of income and wealth 
+- But people show a preference for option A and option D
 
-**==> picture [217 x 116] intentionally omitted <==**
+- If framed in terms of «lives saved» then participant prefer the secure program (A) If framed in terms of «epected deaths», participants prefer to chose the gamble D
 
-- Not much room for e.g. reciprocity, trust and  emotions 
+What might restrict individuals’ actions? Let’s say you want to buy a laptop
 
-**==> picture [105 x 53] intentionally omitted <==**
+What might restrict individuals’ actions?
 
-## LET’S PLAY A GAME 
+- Income​
 
-**==> picture [104 x 53] intentionally omitted <==**
+- Time​
 
-**4.0** 
+- Memory​
 
-36 
+Let’s say you want to buy a laptop
 
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
+- Analytical abilities​
 
-## Rules of the game 
+- Resources and opportunities​
 
-- 2 players , player 1 (P1) and player 2 (P2) 
+- Preferences or tastes
 
-- The 2 players decide how to divide a given amount between them 
+DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000
 
-- P1 proposes a division of the amount 
+## Human Being
 
-- P2 can accept or reject 
+Alternative set of – more realistic – assumptions on individual behavior:
 
-- If accepted, both players gets the agreed shares 
+- Presence of information costs and cognitive limits
 
-- If rejected players get nothing 
+- Preferences also shaped by social capital, social interactions, etc.
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Cooperation and trust
 
-37 
+- Economic activity as a mean to achieve personal ends
 
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
+Goal: maximization of well-being
 
-## The Ultimatum Game 
+How do companies make decisions? The 6 steps approach usually leads to more effective decision making
 
-The proposer should offer the smallest possible share and responder would accept it (Rubinstein, 1982). 
+4.0
 
-On average, offers are 40-50% of the amount. 
+**SUMMARY OF MAIN POINTS**
 
-**==> picture [217 x 136] intentionally omitted <==**
+Managers plan, control, organize, staff and direct.
 
-About half of the responders reject offers below 30 % 
+Understand how individuals make decisions, and how decision making is within firms.
 
-**==> picture [105 x 53] intentionally omitted <==**
+02 There are three levels of management: Top Management, Middle Management and Front-Line Management.
 
-DECISION MAKING 
-
-38 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [228 x 237] intentionally omitted <==**
-
-## How is that possible? 
-
-**==> picture [65 x 69] intentionally omitted <==**
-
-39 
-
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
-
-**==> picture [500 x 294] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-41 
-
-**DECISION MAKING** TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
-
-## THE UNUSUAL DISEASE 
-
-▪ Imagine that the US is preparing for an unusual disease, which is expected to kill 600 people 
-
-- Two alternative program 
-
-   - s: make a decision! 
-
-**==> picture [227 x 227] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-42 
-
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
-
-## The Unusual Disease 
-
-- Imagine that the US is preparing for an unusual disease, which is expected to kill 600 people. 
-
-- Two alternative programs: 
-
-PROGRAM A: 200 people will be saved PROGRAM B: 1/3 prob. of saving 600 people and 2/3 prob. Of saving 0 
-
-PEOPLE CHOOSE A 
-
-PROGRAM C: 400 people will die PROGRAM D: 1/3 prob. that nobody will die and 2/3 prob. That 600 will die 
-
-PEOPLE CHOOSE D 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-43 
-
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
-
-DECISION MAKING 
-
-## So…framing matters! 
-
-- Program A: 200 people will be saved (out of 600) 
-
-- Program B: 1/3 prob. of saving 600 people and 2/3 prob. of saving 0 
-
-- Program C: 400 people will die (out of 600) 
-
-- Program D: 1/3 prob. that nobody will die and 2/3 prob. that 600 will die 
-
-- Programs A and C are the same, as are programs B and D 
-
-- But people show a preference for option A and option D 
-
-- If framed in terms of «lives saved» then participant prefer the secure program (A) If framed in terms of «epected deaths», participants prefer to chose the gamble D 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-44 
-
-LEVELS OF MANAGEMENT 
-
-What might restrict individuals’ actions? Let’s say you want to buy a laptop 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [456 x 305] intentionally omitted <==**
-
-45 
-
-LEVELS OF MANAGEMENT 
-
-What might restrict individuals’ actions? 
-
-- Income​ 
-
-- Time​ 
-
-- Memory​ 
-
-Let’s say you want to buy a laptop 
-
-- Analytical abilities​ 
-
-- Resources and opportunities​ 
-
-- Preferences or tastes 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-46 
-
-DECISION MAKING TITLE  REFERENCE A.Y. 0000/0000/G-LS/N ° 0000 
-
-## Human Being 
-
-Alternative set of – more realistic – assumptions on individual behavior: 
-
-- Presence of information costs and cognitive limits 
-
-- Preferences also shaped by social capital, social interactions, etc. 
-
-- Cooperation and trust 
-
-- Economic activity as a mean to achieve personal ends 
-
-Goal: maximization of well-being 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-47 
-
-LEVELS OF MANAGEMENT 
-
-How do companies make decisions? The 6 steps approach usually leads to more effective decision making 
-
-**==> picture [455 x 173] intentionally omitted <==**
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-4.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-49 
-
-SUMMARY 
-
-01 
-
-Managers plan, control, organize, staff and direct. 
-
-03 
-
-Understand how individuals make decisions, and how decision making is within firms. 
-
-02 There are three levels of management: Top Management, Middle Management and Front-Line Management. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
+## Related Notes
+- [[slideset 5]]
+- [[slideset 1]]
+- [[Full-material presentation Chapter 1]]

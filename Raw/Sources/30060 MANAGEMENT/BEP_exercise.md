@@ -1,16 +1,23 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "BREAK-EVEN POINT ANALYSIS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **BREAK-EVEN POINT ANALYSIS** 
+# BREAK-EVEN POINT ANALYSIS
 
-**==> picture [104 x 53] intentionally omitted <==**
+**EXERCISE 1**
 
-2 
+Managers at “Roundedges”, a producer of low cost tablets, is planning to expand its production facility due to an explosion in demand from young consumers in Europe. They are currently evaluating the options described below
 
-**EXERCISE 1** 
-
-Managers at “Roundedges”, a producer of low cost tablets, is planning to expand its production facility due to an explosion in demand from young consumers in Europe. They are currently evaluating the options described below 
-
-||Plant A|Plant B|
+|Plant A|Plant B|
 |---|---|---|
 |Total investment (expected life = 25 years)|€ 70,000,000|€ 90,000,000|
 |Maximum capacity|2,500,000|3,500,000|
@@ -21,27 +28,17 @@ Managers at “Roundedges”, a producer of low cost tablets, is planning to exp
 |Materials|€ 38.00|€ 35.00|
 |Energy|€ 11.70|€ 11.50|
 
+In line with the market forecasts, they are expecting to sell 1,300,000 tablets at a price of €95 each.
 
+a) Which plant should they invest in? Why?
 
-**==> picture [105 x 53] intentionally omitted <==**
+b) Suppose the estimates of future demand are now unreliable. Managers still want to sell the tablets at a price of €95. Which plant should they decide to invest in now? c) Assume that managers want to reach a target net income of 30,000,000. The tablets are sold at a unitary price of € 95. The firm has a loan of € 20,000,000 at  5% interest rate, and taxes unrelated to income equal to 9,000,000. Which plant should they invest in now?
 
-In line with the market forecasts, they are expecting to sell 1,300,000 tablets at a price of €95 each. 
+**EXERCISE 2**
 
-3 
+Managers at “Smarter phone”, a producer of low cost smartphones, is planning to expand its due to an in demand from consumers in production facility explosion young Europe. They are currently evaluating the options described below.
 
-a) Which plant should they invest in? Why? 
-
-b) Suppose the estimates of future demand are now unreliable. Managers still want to sell the tablets at a price of €95. Which plant should they decide to invest in now? c) Assume that managers want to reach a target net income of 30,000,000. The tablets are sold at a unitary price of € 95. The firm has a loan of € 20,000,000 at  5% interest rate, and taxes unrelated to income equal to 9,000,000. Which plant should they invest in now? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-9 
-
-**EXERCISE 2** 
-
-Managers at “Smarter phone”, a producer of low cost smartphones, is planning to expand its due to an in demand from consumers in production facility explosion young Europe. They are currently evaluating the options described below. 
-
-||Plant A|Plant B|
+|Plant A|Plant B|
 |---|---|---|
 |Total investment (expected life = 20 years)|€ 75,000,000|€ 94,000,000|
 |Maximum capacity|2,500,000|3,500,000|
@@ -52,19 +49,15 @@ Managers at “Smarter phone”, a producer of low cost smartphones, is planning
 |Materials|€ 41.00|€ 38.00|
 |Energy|€ 11.70|€ 11.50|
 
+In line with the market forecasts, they are expecting to sell 1,800,000 tablets at a price of €105 each.
 
+- a) Compare the two options and advise the management. Which plant should they invest in? Why?
 
-**==> picture [105 x 53] intentionally omitted <==**
+- b) Suppose the estimates of future demand are now unreliable. Managers still want to sell the tablets at a price of €105. Which plant should they decide to invest in now?
 
-In line with the market forecasts, they are expecting to sell 1,800,000 tablets at a price of €105 each. 
+- c) Assume that managers want to reach a target net income of 50,000,000. The smartphones are sold at a unitary price of € 105. The firm has loans of € 20,000,000 at 10% interest rate, and taxes unrelated to income equal to 13,000,000. Which plant should they invest in now?
 
-10 
-
-- a) Compare the two options and advise the management. Which plant should they invest in? Why? 
-
-- b) Suppose the estimates of future demand are now unreliable. Managers still want to sell the tablets at a price of €105. Which plant should they decide to invest in now? 
-
-- c) Assume that managers want to reach a target net income of 50,000,000. The smartphones are sold at a unitary price of € 105. The firm has loans of € 20,000,000 at 10% interest rate, and taxes unrelated to income equal to 13,000,000. Which plant should they invest in now? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
+## Related Notes
+- [[AUC and FCA]]
+- [[ACC_BEP]]
+- [[slideset 4]]

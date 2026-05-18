@@ -1,1117 +1,540 @@
-# **EXTERNAL ANALYSIS: INDUSTRY STRUCTURE, COMPETITIVE FORCES, AND STRATEGIC GROUPS** 
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "EXTERNAL ANALYSIS: INDUSTRY STRUCTURE, COMPETITIVE FORCES, AND STRATEGIC GROUPS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Management Book - Chapter 8 
+# EXTERNAL ANALYSIS: INDUSTRY STRUCTURE, COMPETITIVE FORCES, AND STRATEGIC GROUPS
 
-2 
+Management Book - Chapter 8
 
-EXTERNAL ANALYSIS 
+## AGENDA
 
-## AGENDA 
+1. PESTEL FRAMEWORK: ANALYZING FIRMS' EXTERNAL ENVIRONMENT
 
-1. PESTEL FRAMEWORK: ANALYZING FIRMS' EXTERNAL ENVIRONMENT 
+2. FIVE FORCES FRAMEWORK: ANALYZING INDUSTRY STRUCTURE AND FIRM STRATEGY
 
-2. FIVE FORCES FRAMEWORK: ANALYZING INDUSTRY STRUCTURE AND FIRM STRATEGY 
+3. INDUSTRY DYNAMICS
 
-3. INDUSTRY DYNAMICS 
+4. STRATEGIC GROUPS: PERFORMANCE DIFFERENCES WITHIN SAME INDUSTRY
 
-4. STRATEGIC GROUPS: PERFORMANCE DIFFERENCES WITHIN SAME INDUSTRY 
+5. SUMMARY OF MAIN POINTS
 
-5. SUMMARY OF MAIN POINTS 
+## EXTERNAL ANALYSIS
 
-**==> picture [105 x 54] intentionally omitted <==**
+Poll time!
 
-## EXTERNAL ANALYSIS 
+Did the introduction of Airbnb in 2008 disrupt the hotel industry? A) Yes B) No
 
-Poll time! 
+Source
 
-Did the introduction of Airbnb in 2008 disrupt the hotel industry? A) Yes B) No 
+1.0
 
-**==> picture [105 x 54] intentionally omitted <==**
+**PESTEL FRAMEWORK: ANALYZING FIRMS’ EXTERNAL ENVIRONMENT**
 
-**==> picture [296 x 381] intentionally omitted <==**
+## We define **PESTEL FRAMEWORK** as
 
-**==> picture [59 x 24] intentionally omitted <==**
+A framework that categorizes and analyzes an important set of external factors ( **P** olitical, **E** conomic, **S** ocio-cultural, **T** echnological, **E** cological, and **L** egal) that might impinge upon a firm. These factors can create both opportunities and threats for the firm.
 
-**----- Start of picture text -----**<br>
-3<br>**----- End of picture text -----**<br>
+## **P** olitical factors
 
+- Result from processes and actions of government bodies that influence firm decisions and behavior
 
-Source 
+Example: US-China trade war since 2016 has direct implications for a number of businesses like Chinese electronics companies
 
-1.0 
+## **E** conomic factors
 
-**PESTEL FRAMEWORK: ANALYZING FIRMS’ EXTERNAL ENVIRONMENT** 
+- Includes macroeconomic factors such as growth rates, employment rates, interest rates, price stability and currency exchange rates
 
-**==> picture [105 x 54] intentionally omitted <==**
+Example: Covid-19 pandemic has the global economy reeling
 
-5 
+## **S** ocio-cultural factors
 
-PESTEL FRAMEWORK 
+— Capture evolving society’s cultures, norms and values
 
-## We define **PESTEL FRAMEWORK** as 
+Example: English-language broadcasters are pouring money into Spanishlanguage networks to leverage on 18% of US Hispanic population
 
-A framework that categorizes and analyzes an important set of external factors ( **P** olitical, **E** conomic, **S** ocio-cultural, **T** echnological, **E** cological, and **L** egal) that might impinge upon a firm. These factors can create both opportunities and threats for the firm. 
+## **T** echnological factors
 
-**==> picture [105 x 54] intentionally omitted <==**
+— Capture the application of knowledge to create new processes and products
 
-6 
+Example: Recent advances in AI and Machine Learning have brought drastic change in how we work and live
 
-PESTEL FRAMEWORK 
+## Ecological factors
 
-## **P** olitical factors 
+- Involve broad environmental issues such as resource constraints, global warming and climate change
 
-- Result from processes and actions of government bodies that influence firm decisions and behavior 
+- These factors can present both threats and opportunities
 
-Example : US-China trade war since 2016 has direct implications for a number of businesses like Chinese electronics companies 
+Example: Tesla is addressing environmental concerns by building zero-emission batterypowered vehicles
 
-**==> picture [105 x 54] intentionally omitted <==**
+## **L** egal factors
 
-**==> picture [372 x 210] intentionally omitted <==**
+- Include official outcomes of political processes as manifested in laws, mandates, regulations and court decisions
 
-7 
+- Closely related to political factors
 
-PESTEL FRAMEWORK 
+Example: In 2018, EU implemented General Data Protection Regulation (GDPR) to apply legal pressure on US tech companies concerning data privacy
 
-## **E** conomic factors 
+How can we apply the PESTEL framework to identify threats and opportunities in Airbnb’s external environment?
 
-- Includes macroeconomic factors such as growth rates, employment rates, interest rates, price stability and currency exchange rates 
+## What is Airbnb?
 
-**==> picture [273 x 38] intentionally omitted <==**
+- New entrant in the global hotel industry (2008)
 
-Example : Covid-19 pandemic has the global economy reeling 
+- Airbnb is a platform that connect individuals who want to rent out their residences (the hosts) as lodgings for travelers (the guests)
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Not the first-mover in the peer to peer rental space
 
-**==> picture [272 x 163] intentionally omitted <==**
+- In 2019: 5 million listing in over 81,000 cities in more than 190 countries
 
-8 
+- Offer: more accommodations than the three biggest hotel chains combined (Marriot, Hilton and Intercontinental)
 
-PESTEL FRAMEWORK 
+- Airbnb makes money by charging a commission for the service to both the hosts and to the guests
 
-## **S** ocio-cultural factors 
+## Disrupting the hotel industry
 
-— Capture evolving society’s cultures, norms and values 
+- Asset light approach to circumvent traditional entry barriers in the hotel industry (no need to spend millions to acquire and manage physical assets or employees)
 
-Example : English-language broadcasters are pouring money into Spanishlanguage networks to leverage on 18% of US Hispanic population 
+- Marriott has almost 250,000 employees;
+- Airbnb around 2,500
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Sophisticated pricing and reservation system
 
-**==> picture [378 x 213] intentionally omitted <==**
+- Website design
 
-9 
+- Matching of different needs (hosts in need to pay rent or mortgages to keep their homes & users seeking low-cost accomodations)
 
-PESTEL FRAMEWORK 
+- Airbnb can react much faster to changes in demand and supply
 
-## **T** echnological factors 
+## PESTEL FRAMEWORK
 
-— Capture the application of knowledge to create new processes and products 
+PESTEL analysis of Airbnb
 
-Example : Recent advances in AI and Machine Learning have brought drastic change in how we work and live 
+## PESTEL FRAMEWORK
 
-**==> picture [105 x 54] intentionally omitted <==**
+PESTEL analysis of Airbnb
 
-**==> picture [332 x 187] intentionally omitted <==**
+## Airbnb in 2020 – what’s next?
 
-10 
+## New competitors: hotel apartments
 
-PESTEL FRAMEWORK 
+Sonder is a hospitality start-up that operates furnished apartment buildings in 36 cities globally.
 
-## Ecological factors 
+Sonder leases and manages its own buildings, which are licensed as hotels. The model includes contactless checkin, concierge service by phone and text (as well as in person on demand) and apartments with kitchens and laundry appliances — targeting travellers seeking more isolation and privacy. Other start-ups like Blueground, Lyric, and Roost combine elements of hotels and apartment rentals.
 
-- Involve broad environmental issues such as resource constraints, global warming and climate change 
+## Do PESTEL factors support hotel apartments?
 
-- These factors can present both threats and opportunities 
+Factor Analysis Political Economic Social Technological Environmental Legal
 
-Example : Tesla is addressing environmental concerns by building zero-emission batterypowered vehicles 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [301 x 171] intentionally omitted <==**
-
-11 
-
-PESTEL FRAMEWORK 
-
-## **L** egal factors 
-
-- Include official outcomes of political processes as manifested in laws, mandates, regulations and court decisions 
-
-- Closely related to political factors 
-
-Example : In 2018, EU implemented General Data Protection Regulation (GDPR) to apply legal pressure on US tech companies concerning data privacy 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [301 x 159] intentionally omitted <==**
-
-12 
-
-How can we apply the PESTEL framework to identify threats and opportunities in Airbnb’s external environment? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-13 
-
-PESTEL FRAMEWORK 
-
-## What is Airbnb? 
-
-- New entrant in the global hotel industry (2008) 
-
-- Airbnb is a platform that connect individuals who want to rent out their residences (the hosts) as lodgings for travelers (the guests) 
-
-- Not the first-mover in the peer to peer rental space 
-
-- In 2019: 5 million listing in over 81,000 cities in more than 190 countries 
-
-**==> picture [239 x 134] intentionally omitted <==**
-
-- Offer: more accommodations than the three biggest hotel chains combined (Marriot, Hilton and Intercontinental) 
-
-- Airbnb makes money by charging a commission for the service to both the hosts and to the guests 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-14 
-
-PESTEL FRAMEWORK 
-
-## Disrupting the hotel industry 
-
-- Asset light approach to circumvent traditional entry barriers in the hotel industry (no need to spend millions to acquire and manage physical assets or employees) 
-
-- Marriott has almost 250,000 employees; Airbnb around 2,500 
-
-- Sophisticated pricing and reservation system 
-
-- Website design 
-
-- Matching of different needs (hosts in need to pay rent or mortgages to keep their homes & users seeking low-cost accomodations) 
-
-- Airbnb can react much faster to changes in demand and supply 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-15 
-
-## PESTEL FRAMEWORK 
-
-PESTEL analysis of Airbnb 
-
-**==> picture [515 x 191] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-16 
-
-## PESTEL FRAMEWORK 
-
-PESTEL analysis of Airbnb 
-
-**==> picture [576 x 240] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-17 
-
-PESTEL FRAMEWORK 
-
-## Airbnb in 2020 – what’s next? 
-
-||Year|Revenue||Year|Bookings||Year|Gross booking||
-|---|---|---|---|---|---|---|---|---|---|
-|||||||||value||
-||2016|$1.7 bln||2016|126 mln||2016|$13.9 bln||
-||2017|$2.6 bln||2017|186 mln||2017|$21.0 bln||
-||2018|$3.6 bln||2018|250 mln||2018|$29.4 bln||
-||2019|$ 4.7 bln||2019|327 mln||2019|$38.0 bln||
-||2020|$ 3.4 bln||2020|193 mln||2020|$23.9 bln||
-|||||What will happen after Covid?||||||
-
-
-
-18 
-
-PESTEL FRAMEWORK 
-
-## New competitors: hotel apartments 
-
-**==> picture [333 x 164] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-Sonder is a hospitality start-up that operates furnished apartment buildings in 36 cities globally. 
-
-Sonder leases and manages its own buildings, which are licensed as hotels. The model includes contactless checkin, concierge service by phone and text (as well as in person on demand) and apartments with kitchens and laundry appliances — targeting travellers seeking more isolation and privacy. Other start-ups like Blueground, Lyric, and Roost combine elements of hotels and apartment rentals. 
-
-19 
-
-PESTEL FRAMEWORK 
-
-## Do PESTEL factors support hotel apartments? 
-
-Factor Analysis Political Economic Social Technological Environmental Legal 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-20 
-
-PESTEL FRAMEWORK 
-
-## Do PESTEL factors support hotel apartments? 
+## Do PESTEL factors support hotel apartments?
 
 |Factor|Analysis|
 |---|---|
-|Political|•<br>Increased regulation of home sharing; it could reduce the benefits for home<br>sharing hosts, while apartement hotels are already licensed as hotels|
-|Economic|•<br>Reduced business travelling; it could impact both home sharing and apartment<br>hotels|
-|Social|•<br>Increased concerns for hygiene; apartment hotels can be seen as safer<br>•<br>Increased interest in privacy (e.g. working from hotel rooms); apartment hotels<br>offer more isolation|
-|Technological|•<br>Home automation; it could be easier to implement in apartment hotels|
-|Environmental|•<br>Solar panels, energy efficiency; it could be easier to achieve in managed<br>apartment buildings|
-|Legal|•<br>Increased litigation with residents in the building; hotel apartments avoid it|
+|Political|-  Increased regulation of home sharing; it could reduce the benefits for home sharing hosts, while apartement hotels are already licensed as hotels|
+|Economic|-  Reduced business travelling; it could impact both home sharing and apartment hotels|
+|Social|-  Increased concerns for hygiene; apartment hotels can be seen as safer -  Increased interest in privacy (e.g. working from hotel rooms); apartment hotels offer more isolation|
+|Technological|-  Home automation; it could be easier to implement in apartment hotels|
+|Environmental|-  Solar panels, energy efficiency; it could be easier to achieve in managed apartment buildings|
+|Legal|-  Increased litigation with residents in the building; hotel apartments avoid it|
 
-
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-21 
-
-PESTEL FRAMEWORK 
-
-|Should Airbnb introduce hotel apartments?<br>Let’s apply our decision-making framework.<br>Scenarios<br>Actions<br>???<br>???<br>Introduce hotel<br>apartments<br>?<br>?<br>Not introduce hotel<br>apartments<br>?<br>?|Should Airbnb introduce hotel apartments?<br>Let’s apply our decision-making framework.<br>Scenarios<br>Actions<br>???<br>???<br>Introduce hotel<br>apartments<br>?<br>?<br>Not introduce hotel<br>apartments<br>?<br>?|Should Airbnb introduce hotel apartments?<br>Let’s apply our decision-making framework.<br>Scenarios<br>Actions<br>???<br>???<br>Introduce hotel<br>apartments<br>?<br>?<br>Not introduce hotel<br>apartments<br>?<br>?|
+|Should Airbnb introduce hotel apartments? Let’s apply our decision-making framework. Scenarios Actions ??? ??? Introduce hotel apartments ? ? Not introduce hotel apartments ? ?|Should Airbnb introduce hotel apartments? Let’s apply our decision-making framework. Scenarios Actions ??? ??? Introduce hotel apartments ? ? Not introduce hotel apartments ? ?|Should Airbnb introduce hotel apartments? Let’s apply our decision-making framework. Scenarios Actions ??? ??? Introduce hotel apartments ? ? Not introduce hotel apartments ? ?|
 |---|---|---|
-|Scenarios<br>Actions|???|???|
-|Introduce hotel<br>apartments<br>?<br>?|||
-|Not introduce hotel<br>apartments<br>?<br>?|||
+|Scenarios Actions|???|???|
+|Introduce hotel apartments ? ?|
+|Not introduce hotel apartments ? ?|
 
+## Should Airbnb introduce hotel apartments?
 
+## Let’s use the utility model and put appropriate numbers in the matrix.
 
-**==> picture [105 x 54] intentionally omitted <==**
-
-22 
-
-PESTEL FRAMEWORK 
-
-## Should Airbnb introduce hotel apartments? 
-
-## Let’s use the utility model and put appropriate numbers in the matrix. 
-
-|Scenarios<br>Actions|Big growth of the<br>hotel apartment<br>market|No significant<br>growth of the hotel<br>apartment market|
+|Scenarios Actions|Big growth of the hotel apartment market|No significant growth of the hotel apartment market|
 |---|---|---|
-|Introduce hotel<br>apartments<br>?<br>?|||
-|Not introduce hotel<br>apartments<br>?<br>?|||
+|Introduce hotel apartments ? ?|
+|Not introduce hotel apartments ? ?|
 
+## Should Airbnb introduce hotel apartments?
 
+## What’s the probability threshold for “Big growth”?
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Should Airbnb introduce hotel apartments?
 
-23 
+Based on our analysis, Airbnb should introduce hotel apartments if it believes that there is a greater probability than 42.8% that the hotel apartment market will experience a big growth. So, Airbnb needs:
 
-PESTEL FRAMEWORK 
+- A theory of how customers will evolve in the post-pandemic world
 
-## Should Airbnb introduce hotel apartments? 
+- To collect insight from experts
 
-## What’s the probability threshold for “Big growth”? 
+- To run experiments with hotel apartments
 
-**==> picture [652 x 263] intentionally omitted <==**
+## They are indeed running the experiments
 
-**----- Start of picture text -----**<br>
-Scenarios Big growth of the  No significant<br>hotel apartment  growth of the hotel<br>Actions<br>market apartment market<br>Introduce hotel  90 70<br>apartments<br>Not introduce hotel  50 100<br>apartments<br>Airbnb catches the trend  Disaster: customers  Cost of new  Current<br>but it has not the same  move from Airbnb to  hotels and no  situation<br>advantage as before Sonder etc. new revenue<br>**----- End of picture text -----**<br>
+2.0
 
+**FIVE FORCES MODEL:**
 
-24 
+## ANALYZING INDUSTRY STRUCTURE AND FIRM STRATEGY
 
-PESTEL FRAMEWORK 
+## Five Forces model
 
-## Should Airbnb introduce hotel apartments? 
+- Porter’s Five Forces is a business analysis model that helps to explain why various industries are able to sustain different levels of profitability
 
-Based on our analysis, Airbnb should introduce hotel apartments if it believes that there is a greater probability than 42.8% that the hotel apartment market will experience a big growth. So, Airbnb needs: 
+- The model identifies an industry ’s profit potential
 
-- A theory of how customers will evolve in the post-pandemic world 
+- Understand how firms can be positioned within an industry to gain and sustain competitive advantage
 
-- To collect insight from experts 
+## We define an **INDUSTRY** as
 
-- To run experiments with hotel apartments 
+A group of incumbent companies that face more or less the same set of suppliers and buyers.
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Effects on firm performance
 
-25 
+## INDUSTRY EFFECTS
 
-PESTEL FRAMEWORK 
+## FIRM EFFECTS
 
-## They are indeed running the experiments 
+Attribute firm performance to economic structure of the industry in which the firm operates
 
-**==> picture [290 x 222] intentionally omitted <==**
+Attribute firm performance directly to the actions strategic leaders take
 
-**==> picture [105 x 54] intentionally omitted <==**
+## How do you calculate industry vs firm effects?
 
-**==> picture [363 x 303] intentionally omitted <==**
+We have the dataset of the operating margins of the largest US airline companies between 1995 and 2019.
 
-2.0 
+What statistical moments would you use to estimate industry and firm effects?
 
-**FIVE FORCES MODEL:** 
+## Mean and variance
 
-## **ANALYZING INDUSTRY STRUCTURE AND FIRM STRATEGY** 
+Average operating margin of the industry
 
-**==> picture [105 x 54] intentionally omitted <==**
+Variance/standard deviation of the operating margins in the industry
 
-27 
+Industry effect
 
-FIVE FORCES MODEL 
+Firm effects
 
-## Five Forces model 
+## Operating margins of US airline companies
 
-- Porter’s Five Forces is a business analysis model that helps to explain why various industries are able to sustain different levels of profitability 
+Statistically, 68% of the observations are expected to fall in the interval (average – 1 standard deviation; average + 1 standard deviation)
 
-- The model identifies an industry ’s profit potential 
+## Key insights underlying Five Forces
 
-- Understand how firms can be positioned within an industry to gain and sustain competitive advantage 
+Competition should be broadly defined
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Profit potential
 
-**==> picture [375 x 276] intentionally omitted <==**
+- It includes other forces in an industry, such as, buyers, suppliers, potential new entrants and substitutes
 
-28 
+- All these forces attempt to extract value from the industry away from the focal firm
 
-FIVE FORCES MODEL 
+- The stronger the Five Forces, the lower the industry’s profit potential, and vice versa
 
-## We define an **INDUSTRY** as 
+- Firm’s ideal position in an industry should relax constraints of strong forces and leverage weak forces
 
-A group of incumbent companies that face more or less the same set of suppliers and buyers. 
+## Threat of entry
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Describes the risk of potential competitors entering the industry
 
-29 
+- Potential new entry reduces an industry’s profitability
 
-FIVE FORCES MODEL 
+- Several entry barriers exist that reduce threat of entry, protecting incumbents, such as economies of scale, customer switching costs, capital requirements, advantages independent of size, credible threat of retaliation, government policy..
 
-## Effects on firm performance 
+Threat of entry by new competitors is high when the industry is profitable
 
-## INDUSTRY EFFECTS 
+Example: Facebook , with over 2 billion active users worldwide, enjoys tremendous network effects , making it difficult for such other social media entrants such as Twitter or Snapchat to compete effectively. Yet… TikTok managed to arrive at 1 bn users in five years: how?
 
-## FIRM EFFECTS 
+## Power of suppliers
 
-Attribute firm performance to economic structure of the industry in which the firm operates 
+- Industry suppliers reduce industry profit potential by capturing part of the economic value by demanding higher prices for their inputs and/or reducing the quality of the input or service delivered
 
-Attribute firm performance directly to the actions strategic leaders take 
+The relative bargaining power of suppliers is high when:
 
-**==> picture [250 x 143] intentionally omitted <==**
+- Suppliers offer products that are differentiated
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Suppliers do not depend on the industry for a large portion of their revenues
 
-**==> picture [74 x 74] intentionally omitted <==**
+- The supplier’s industry is more concentrated than the industry it sells to
 
-30 
+- Incumbents face large switching costs when changing suppliers
 
-FIVE FORCES MODEL 
+- There are no readily available substitutes for the products that the suppliers offer
 
-## How do you calculate industry vs firm effects? 
+- Suppliers can credibly threaten to forward-integrate into the industry
 
-**==> picture [605 x 141] intentionally omitted <==**
+How credible for a producer of aluminum can is to compete with Coke?
 
-We have the dataset of the operating margins of the largest US airline companies between 1995 and 2019. 
+## Power of buyers
 
-What statistical moments would you use to estimate industry and firm effects? 
+- Buyers demand lower prices or higher product quality which increases production costs, reduces producer margins and revenue
 
-**==> picture [105 x 54] intentionally omitted <==**
+- This way, powerful buyers capture economic value, reducing the industry’s profitability
 
-31 
+The power of buyers is high when:
 
-FIVE FORCES MODEL 
+- There are a few buyers
 
-## Mean and variance 
+- The industry’s products are standardized or undifferentiated commodities
 
-Average operating margin of the industry 
+- Buyers face low or no switching costs
 
-Variance/standard deviation of the operating margins in the industry 
+- Buyers can credibly threaten to backwardly integrate into the industry
 
-**==> picture [59 x 63] intentionally omitted <==**
+## How credible for Coke to produce its own aluminum can?
 
-**==> picture [59 x 63] intentionally omitted <==**
+## Threat of substitutes
 
-Industry effect 
+- Substitutes are products or services available from outside the given industry that come close to meeting the needs of current customers
 
-Firm effects 
+- Threat of substitutes reduces industry’s profit potential by limiting the price that industry’s competitors can charge for their products and services
 
-**==> picture [105 x 54] intentionally omitted <==**
+- The threat of substitutes is high when buyer’s cost of switching to the substitute is low, and when the substitute offers an attractive price-performance trade-off
 
-32 
+## Price-performance
 
-FIVE FORCES MODEL 
+**Do you know Redbox?**
 
-## Operating margins of US airline companies 
+- It’s a movie rental company
 
-**==> picture [596 x 233] intentionally omitted <==**
+- 40,000 kiosks in the USA
 
-**----- Start of picture text -----**<br>
-Average - 1 s.d. Average Average + 1 s.d.<br>30,0%<br>25,0%<br>20,0%<br>15,0%<br>10,0%<br>5,0%<br>0,0%<br>-5,0%<br>-10,0%<br>-15,0%<br>-20,0%<br>1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019<br>**----- End of picture text -----**<br>
+- Movie rentals available for $2
 
+- To who could Redbox represent a menace?
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Rivalry among existing competitors
 
-Statistically, 68% of the observations are expected to fall in the interval (average – 1 standard deviation; average + 1 standard deviation) 
+- The intensity with which incumbents fight each other for market share
 
-33 
+- →
 
-FIVE FORCES MODEL 
+- Competitors use lower prices ( lower revenue) or use differentiation →
 
-## Key insights underlying Five Forces 
+- strategy ( higher costs) to attract customers from rivals, depressing profits
 
-Competition should be broadly defined 
+- — All other forces exert pressure on rivalry (e.g. powerful buyers force incumbents to fight each other in lowering prices)
 
-## Profit potential 
+Rivalry is high when:
 
-- It includes other forces in an industry, such as, buyers, suppliers, potential new entrants and substitutes 
+- The industry is fragmented (as opposed to concentrated)
 
-- All these forces attempt to extract value from the industry away from the focal firm 
+- The industry is not growing
 
-- The stronger the Five Forces, the lower the industry’s profit potential, and vice versa 
+- Incumbents made strategic commitments to the industry (e.g. fixed costs)
 
-- Firm’s ideal position in an industry should relax constraints of strong forces and leverage weak forces 
+- There are exit barriers
 
-**==> picture [105 x 54] intentionally omitted <==**
+## How do you measure concentration?
 
-34 
+It’s an important dimension:
 
-FIVE FORCES MODEL 
+- Concentration reduces rivalry among incumbents
 
-**==> picture [38 x 38] intentionally omitted <==**
+- It makes them stronger against suppliers and buyers (relative concentration)
 
-## Threat of entry 
+- Usually measured through market shares of companies (MS).
 
-- Describes the risk of potential competitors entering the industry 
+Concentration ratio CR n = MS1 + MS2 + ... + MSn
 
-- Potential new entry reduces an industry’s profitability 
+What’s the total market share of the largest **n** companies? The higher, the more concentrated the industry. Usually n = 4
 
-- Several entry barriers exist that reduce threat of entry, protecting incumbents, such as economies of scale, customer switching costs, capital requirements, advantages independent of size, credible threat of retaliation, government policy.. 
+## Similar but:
 
-Threat of entry by new competitors is high when the industry is profitable 
+Herfindhal index HI = MS 2 + MS 2 + ... + MS 2 1 2 n
 
-Example: Facebook , with over 2 billion active users worldwide, enjoys tremendous network effects , making it difficult for such other social media entrants such as Twitter or Snapchat to compete effectively. Yet… TikTok managed to arrive at 1 bn users in five years: how? 
+- **n** is all the companies (or as many as you have) - market shares are **squared** before being summed, to give additional weight to firms with larger size
 
-35 
+## Classes of concentration
 
-FIVE FORCES MODEL 
+CR4 HI Industry 0 – 0.40 0 – 0.15 Not concentrated 0.40 – 0-70 0.15 – 0.25 Moderately concentrated > 0.70 > 0.25 Highly concentrated
 
-**==> picture [38 x 38] intentionally omitted <==**
+## Example: Coffee vs mobile phones
 
-## Power of suppliers 
+Retail market for coffee in Italy 2019 (value in €)
 
-- Industry suppliers reduce industry profit potential by capturing part of the economic value by demanding higher prices for their inputs and/or reducing the quality of the input or service delivered 
+Retail market for mobile phones in Italy 2019 (units sold)
 
-The relative bargaining power of suppliers is high when: 
-
-- Suppliers offer products that are differentiated 
-
-- Suppliers do not depend on the industry for a large portion of their revenues 
-
-- The supplier’s industry is more concentrated than the industry it sells to 
-
-- Incumbents face large switching costs when changing suppliers 
-
-- There are no readily available substitutes for the products that the suppliers offer 
-
-- Suppliers can credibly threaten to forward-integrate into the industry 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-36 
-
-How credible for a producer of aluminum can is to compete with Coke? 
-
-**==> picture [295 x 223] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Producer of aluminum can (supplier)<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [288 x 223] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Customers<br>**----- End of picture text -----**<br>
-
-
-37 
-
-FIVE FORCES MODEL 
-
-**==> picture [39 x 38] intentionally omitted <==**
-
-## Power of buyers 
-
-- Buyers demand lower prices or higher product quality which increases production costs, reduces producer margins and revenue 
-
-- This way, powerful buyers capture economic value, reducing the industry’s profitability 
-
-The power of buyers is high when: 
-
-- There are a few buyers 
-
-- The industry’s products are standardized or undifferentiated commodities 
-
-- Buyers face low or no switching costs 
-
-- Buyers can credibly threaten to backwardly integrate into the industry 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-38 
-
-## How credible for Coke to produce its own aluminum can? 
-
-**==> picture [295 x 223] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Producer of aluminum can (supplier)<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [288 x 223] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Customers<br>**----- End of picture text -----**<br>
-
-
-39 
-
-FIVE FORCES MODEL 
-
-**==> picture [38 x 38] intentionally omitted <==**
-
-## Threat of substitutes 
-
-- Substitutes are products or services available from outside the given industry that come close to meeting the needs of current customers 
-
-- Threat of substitutes reduces industry’s profit potential by limiting the price that industry’s competitors can charge for their products and services 
-
-**==> picture [344 x 94] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-VS<br>Email Express mail<br>**----- End of picture text -----**<br>
-
-
-- The threat of substitutes is high when buyer’s cost of switching to the substitute is low, and when the substitute offers an attractive price-performance trade-off 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-40 
-
-## Price-performance 
-
-**Do you know Redbox?** 
-
-- It’s a movie rental company 
-
-   - 40,000 kiosks in the USA 
-
-   - Movie rentals available for $2 
-
-- To who could Redbox represent a menace? 
-
-**==> picture [368 x 170] intentionally omitted <==**
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-41 
-
-FIVE FORCES MODEL 
-
-**==> picture [38 x 38] intentionally omitted <==**
-
-## Rivalry among existing competitors 
-
-- The intensity with which incumbents fight each other for market share 
-
-- → 
-
-- Competitors use lower prices ( lower revenue) or use differentiation → 
-
-- strategy ( higher costs) to attract customers from rivals, depressing profits 
-
-- — All other forces exert pressure on rivalry (e.g. powerful buyers force incumbents to fight each other in lowering prices) 
-
-Rivalry is high when: 
-
-- The industry is fragmented (as opposed to concentrated) 
-
-- The industry is not growing 
-
-- Incumbents made strategic commitments to the industry (e.g. fixed costs) 
-
-- There are exit barriers 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-42 
-
-FIVE FORCES MODEL 
-
-## How do you measure concentration? 
-
-It’s an important dimension: 
-
-- Concentration reduces rivalry among incumbents 
-
-- It makes them stronger against suppliers and buyers (relative concentration) 
-
-- Usually measured through market shares of companies (MS). 
-
-Concentration ratio CR n = MS1 + MS2 + ... + MSn 
-
-What’s the total market share of the largest **n** companies? The higher, the more concentrated the industry. Usually n = 4 
-
-## Similar but: 
-
-Herfindhal index HI = MS 2 + MS 2 + ... + MS 2 1 2 n 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-• **n** is all the companies (or as many as you have) • market shares are **squared** before being summed, to give additional weight to firms with larger size 
-
-43 
-
-FIVE FORCES MODEL 
-
-## Classes of concentration 
-
-CR4 HI Industry 0 – 0.40 0 – 0.15 Not concentrated 0.40 – 0-70 0.15 – 0.25 Moderately concentrated > 0.70 > 0.25 Highly concentrated 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-44 
-
-FIVE FORCES MODEL 
-
-## Example: Coffee vs mobile phones 
-
-Retail market for coffee in Italy 2019 (value in €) 
-
-Retail market for mobile phones in Italy 2019 (units sold) 
-
-**==> picture [288 x 222] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Company Market share<br>Lavazza SpA, Luigi 0.278<br>Nespresso Italiana SpA 0.107<br>Nestlé Italiana SpA 0.104<br>Kimbo SpA 0.058<br>Segafredo Zanetti SpA 0.043<br>Casa del Caffè Vergnano SpA 0.041<br>L'Aromatica Srl 0.026<br>Caffitaly System SpA 0.024<br>Kraft Foods Italia Srl 0.023<br>Pellini Caffé SpA 0.017<br>Illycaffè SpA 0.016<br>Bialetti Industrie SpA 0.007<br>Coop Italia scarl 0.007<br>Mauro Demetrio SpA 0.005<br>Gruppo Gimoka Srl 0.004<br>Bestespresso Srl 0.003<br>Others 0.237<br>Total 1.000<br>**----- End of picture text -----**<br>
-
-
-**==> picture [289 x 235] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Company Market share<br>Huawei Technologies Italia Srl 0.352<br>Samsung Electronics Italia SpA 0.317<br>Apple Italia Srl 0.095<br>Wiko Italy srl 0.047<br>LG Electronics Italia SpA 0.038<br>Nokia Italia SpA 0.033<br>Yimi Srl (Xiaomi) 0.023<br>OnePlus Italia Srl 0.021<br>Lenovo (Italy) Srl 0.016<br>TCT Mobile Italy Srl 0.012<br>Oppo Italia Srl 0.008<br>AsusTek Italy Srl 0.008<br>Sony Italia SpA 0.005<br>HTC Italia Srl 0.004<br>ZTE Italia Srl 0.002<br>Haier Europe Trading Srl 0.001<br>BlackBerry Ltd 0.001<br>Others 0.017<br>Total 1.000<br>**----- End of picture text -----**<br>
-
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [285 x 58] intentionally omitted <==**
-
-45 
-
-FIVE FORCES MODEL 
-
-## Example: Coffee vs mobile phones 
+## Example: Coffee vs mobile phones
 
 |Industry|CR4|HI|Concentration|
 |---|---|---|---|
 |Coffee|0.55|0.11|Moderate to low|
 |Mobile phones|0.81|0.24|High|
 
+Notice how HI is relatively low for coffee, indicating the high fragmentation of the industry beyond the four leaders. For mobile phones too there is some fragmentation among small players.
 
+## Sixth force: Strategic role of complements
 
-Notice how HI is relatively low for coffee, indicating the high fragmentation of the industry beyond the four leaders. For mobile phones too there is some fragmentation among small players. 
+- A complement is a product, service, or competency that adds value to the original product offering when the two are used in tandem
 
-**==> picture [105 x 54] intentionally omitted <==**
+- — Complements increase demand for the primary product, thereby enhancing the profit potential for the industry and the firm
 
-46 
+What do the Five Forces tell you about the airline industry?
 
-FIVE FORCES MODEL 
+## Not famous for profitability…
 
-## Sixth force: Strategic role of complements 
+Porter (2008), “The Five Competitive Forces That Shape Strategy”, Harvard Business Review
 
-- A complement is a product, service, or competency that adds value to the original product offering when the two are used in tandem 
+## FIVE FORCES MODEL
 
-- — Complements increase demand for the primary product, thereby enhancing the profit potential for the industry and the firm 
+Let’s hear from the man himself
 
-**==> picture [105 x 54] intentionally omitted <==**
+## Is it difficult to enter the airline industry?
 
-**==> picture [106 x 121] intentionally omitted <==**
+Source: Wikipedia
 
-**==> picture [47 x 12] intentionally omitted <==**
+## Applying the five forces model - airlines industry
 
-**----- Start of picture text -----**<br>
-iPhone<br>**----- End of picture text -----**<br>
+Entry barriers low due to low entry requirements Strong forces lead Low switching costs Supplier power to intense rivalry and price info in strong due to few and lower industry real time increase key players profit potential buyer power Substitutes such as trains, cars or buses readily available
 
+Another example: Mobile communications in India
 
-**==> picture [14 x 16] intentionally omitted <==**
+Example: the mobile communications industry in India
 
-**----- Start of picture text -----**<br>
-&<br>**----- End of picture text -----**<br>
+India has more than 1.1 billion phone accounts, second only to China. Even in rural areas, 60% of people have a phone. India has also more than 500 million internet users. It is the first market in the world for WhatsApp (400 million users), Facebook (300), and YouTube (265)
 
+The industry is **really** concentrated CR 4 = 0.99;
+- HI = 0.28 Growing market, high concentration … do you think the industry is profitable?
 
-**==> picture [203 x 121] intentionally omitted <==**
+## The industry is **not** profitable at all
 
-**==> picture [34 x 14] intentionally omitted <==**
+## Why?
 
-**----- Start of picture text -----**<br>
-Apps<br>**----- End of picture text -----**<br>
+- When the market really took off (around 2008), companies had to build costly infrastructure
 
+- Per-capita income is low, so customers need low prices
 
-47 
+- Government also wanted prices to be low (PESTEL)
 
-What do the Five Forces tell you about the airline industry? 
+- TLC service is a commodity (no big differentiation)
 
-**==> picture [105 x 54] intentionally omitted <==**
+- In 2016, when market stabilized and prospects turned good again, a new player entered the industry
 
-48 
+Reliance Jio enters
 
-FIVE FORCES MODEL 
+## Reliance Jio’s price war
 
-## Not famous for profitability… 
+Reliance Industries is an Indian conglomerate and the biggest company by revenue in the country. Its businesses span energy, oil, natural gas, retail, mass media, textiles, and telecommunications.
 
-**==> picture [450 x 148] intentionally omitted <==**
+Reliance Jio offered customers free voice calls, zero roaming charges, and unlimited data services at a price that was 1/3 lower than incumbents.
 
-**==> picture [450 x 148] intentionally omitted <==**
+Jio also introduced its own JioPhone , a feature phone with smartphone capabilities, sold at $20 USD.
 
-**==> picture [105 x 54] intentionally omitted <==**
+The JioPhone made mobile internet accessible to Indians who could not afford smartphones (which cost $158 USD on average, about one tenth of India’s GDP per capita).
 
-Porter (2008), “The Five Competitive Forces That Shape Strategy”, Harvard Business Review 
+## What happens now?
 
-49 
+- The high industry concentration is the result of the price war started by Reliance Jio. The 4 large operators are those that remain from the 15 that were active in 2010.
 
-## FIVE FORCES MODEL 
+- Bharti and Vodafone Idea were recently ordered to pay $ 10 billion for unpaid licensing charges dating back to 2003 (Jio does not have to pay them, since it entered in 2016…).
 
-Let’s hear from the man himself 
+- Vodafone Idea, Bharti, and Reliance Jio all recently announced price increases of up to 50%, with the government’s blessing.
 
-**==> picture [105 x 54] intentionally omitted <==**
+- However, Vodafone Idea is heavily indebted and might not survive for long.
 
-**==> picture [478 x 271] intentionally omitted <==**
+3.0 **INDUSTRY DYNAMICS**
 
-50 
+## INDUSTRY DYNAMICS
 
-FIVE FORCES MODEL 
+Interview to Doug McMillon – CEO of Walmart
 
-**==> picture [673 x 336] intentionally omitted <==**
+## Change in structure over time through **consolidation**
 
-**----- Start of picture text -----**<br>
-Applying the five forces model - airlines industry<br>Entry<br>Supplier power Rivalry Buyer power<br>Substitutes<br>**----- End of picture text -----**<br>
+- Industry structure is not stable but dynamic over time
 
+- Firms can actively change industry structure in their favor through consolidation
 
-51 
+- Industry consolidation leads to fewer competitors which implies higher industry profitability
 
-FIVE FORCES MODEL 
+Example: Several large mergers in the US domestic airline industry lead to higher ticket prices and fewer choices for customers making the industry more profitable
 
-## Is it difficult to enter the airline industry? 
+## INDUSTRY DYNAMICS
 
-**==> picture [598 x 235] intentionally omitted <==**
+## Change in structure over time through **convergence**
 
-**----- Start of picture text -----**<br>
-New airlines established<br>143<br>136<br>133<br>120 121<br>91 91<br>85<br>77 75 75 74<br>66<br>57 55 54<br>44<br>27<br>24<br>20<br>2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020<br>**----- End of picture text -----**<br>
+- Industry convergence takes place when formerly unrelated industries begin to satisfy the same customer need
 
+- Usually brought on by technological advances
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Can lead to emergence of entirely new industries
 
-Source: Wikipedia 
+Example: Acquisitions by internet companies is changing the industry structure and forcing traditional media companies like Time Warner and Disney to adapt
 
-52 
+## INDUSTRY DYNAMICS
 
-FIVE FORCES MODEL 
+Industries also change over time, following a life cycle The output (in terms of volume or revenues) of an industry goes through 4 **stages** from its birth (when the product is introduced, e.g. the automobile is invented) to its end (when a substitute product takes over the market, e.g. the typing machine is killed by the computer)
 
-**==> picture [388 x 171] intentionally omitted <==**
+## Example: Global sales of smartphones
 
-**==> picture [388 x 171] intentionally omitted <==**
+Number of smartphones sold worldwide (in million units)
 
-**==> picture [252 x 210] intentionally omitted <==**
+## What happens during the industry life cycle
 
-53 
+4.0
 
-FIVE FORCES MODEL 
+**STRATEGIC GROUPS: PERFORMANCE DIFFERENCES WITHIN THE SAME INDUSTRY**
 
-## Applying the five forces model - airlines industry 
+## We define **STRATEGIC GROUPS** as
 
-Entry barriers low due to low entry requirements Strong forces lead Low switching costs Supplier power to intense rivalry and price info in strong due to few and lower industry real time increase key players profit potential buyer power Substitutes such as trains, cars or buses readily available 
+The set of companies that pursue a similar strategy within a specific industry in their quest for competitive advantage
 
-54 
+Do you believe that Porter’s Five Forces affect the strategic groups within the airline industry differently?
 
-Another example: Mobile communications in India 
+## Key features of strategic groups
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Competitive rivalry is strongest between firms that are within the same strategic group
 
-55 
+- The external environment affects strategic groups differently
 
-FIVE FORCES MODEL 
+- The five competitive forces affect strategic groups differently
 
-Example: the mobile communications industry in India 
+- Some strategic groups are more profitable than others
 
-India has more than 1.1 billion phone accounts, second only to China. Even in rural areas, 60% of people have a phone. India has also more than 500 million internet users. It is the first market in the world for WhatsApp (400 million users), Facebook (300), and YouTube (265) 
+## Strategic groups model
 
-**==> picture [105 x 54] intentionally omitted <==**
+- Explains differences in firm performance within the same industry by clustering firms into groups based on a few key dimensions
 
-**==> picture [453 x 130] intentionally omitted <==**
+- Done by graphing the firms on two chosen dimensions that form x- and y-axes
 
-**==> picture [453 x 129] intentionally omitted <==**
+- Implies that differences in firm performance not based just on industry but also on strategic group membership
 
-56 
+- Mobility barriers (costly and not easily reversable strategic actions) restrict intra-group movement
 
-FIVE FORCES MODEL 
+5.0
 
-The industry is **really** concentrated CR 4 = 0.99; HI = 0.28 Growing market, high concentration … do you think the industry is profitable? 
+**SUMMARY OF MAIN POINTS**
 
-**==> picture [105 x 54] intentionally omitted <==**
+## EXTERNAL ENVIRONMENT ANALYSIS
 
-57 
+Conduct thorough analysis of firm’s external environment to identify threats and opportunities by using the PESTEL model
 
-FIVE FORCES MODEL 
+## INDUSTRY ANALYSIS
 
-## The industry is **not** profitable at all 
+Understand industry’s profit potential and obtain clues on how to carve out a strategic position that begets competitive advantage by using Porter’s five-forces model
 
-## Why? 
+## INDUSTRY DYNAMICS
 
-- When the market really took off (around 2008), companies had to build costly infrastructure 
+Conduct external analyses at different points in time to gain sense of underlying dynamics
 
-- Per-capita income is low, so customers need low prices 
+## STRATEGIC GROUP ANALYSIS
 
-- Government also wanted prices to be low (PESTEL) 
+Conduct/draw a strategic group analysis/map to unearth and explain performance differences within the same industry
 
-- TLC service is a commodity (no big differentiation) 
+SUMMARY OF MAIN POINTS 75 Threat of entry Economies of scale (supply and demand-side) Customer switching costs Capital requirements Incumbency advantage Unequal access to distribution channels Restrictive government policies and regulations Suppliers power Buyers power Sources of Bargaining Power: Industry Competitors Sources of Bargaining Suppliers’ industry concentration Power: Switching costs (on the industry  Concentration side) Diversity of competitors Size and concentrations of Product differentiation Product differentiation buyers relative to producers Few or no substitute Perishable product Buyers’ switching costs Low dependence on the actual  Excess capacity and exit barriers Buyers’ information industry (suppliers serve many  Industry growth Buyers’ ability to backward industries) integrate Threat of Substitutes Relative price and performance of substitutes Industry characteristics of substitutes (e.g. high coming from highly profitable industries);
+- Buyer propensity to substitute **
+*(See also: [[Lecture 25_27 Slides - Multiple Regression#^30nbss]])*
 
-- In 2016, when market stabilized and prospects turned good again, a new player entered the industry 
+## THANKS.
 
-**==> picture [105 x 54] intentionally omitted <==**
+**Universit→ Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1
 
-Reliance Jio enters 
-
-**==> picture [270 x 287] intentionally omitted <==**
-
-58 
-
-FIVE FORCES MODEL 
-
-## Reliance Jio’s price war 
-
-Reliance Industries is an Indian conglomerate and the biggest company by revenue in the country. Its businesses span energy, oil, natural gas, retail, mass media, textiles, and telecommunications. 
-
-Reliance Jio offered customers free voice calls, zero roaming charges, and unlimited data services at a price that was 1/3 lower than incumbents. 
-
-Jio also introduced its own JioPhone , a feature phone with smartphone capabilities, sold at $20 USD. 
-
-The JioPhone made mobile internet accessible to Indians who could not afford smartphones (which cost $158 USD on average, about one tenth of India’s GDP per capita). 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [236 x 245] intentionally omitted <==**
-
-59 
-
-FIVE FORCES MODEL 
-
-## What happens now? 
-
-- The high industry concentration is the result of the price war started by Reliance Jio. The 4 large operators are those that remain from the 15 that were active in 2010. 
-
-- Bharti and Vodafone Idea were recently ordered to pay $ 10 billion for unpaid licensing charges dating back to 2003 (Jio does not have to pay them, since it entered in 2016…). 
-
-- Vodafone Idea, Bharti, and Reliance Jio all recently announced price increases of up to 50%, with the government’s blessing. 
-
-- However, Vodafone Idea is heavily indebted and might not survive for long. 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [216 x 299] intentionally omitted <==**
-
-3.0 **INDUSTRY DYNAMICS** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-61 
-
-## INDUSTRY DYNAMICS 
-
-Interview to Doug McMillon – CEO of Walmart 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [471 x 267] intentionally omitted <==**
-
-62 
-
-INDUSTRY DYNAMICS 
-
-## Change in structure over time through **consolidation** 
-
-- Industry structure is not stable but dynamic over time 
-
-- Firms can actively change industry structure in their favor through consolidation 
-
-- Industry consolidation leads to fewer competitors which implies higher industry profitability 
-
-Example : Several large mergers in the US domestic airline industry lead to higher ticket prices and fewer choices for customers making the industry more profitable 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [299 x 223] intentionally omitted <==**
-
-63 
-
-## INDUSTRY DYNAMICS 
-
-## Change in structure over time through **convergence** 
-
-- Industry convergence takes place when formerly unrelated industries begin to satisfy the same customer need 
-
-- Usually brought on by technological advances 
-
-- Can lead to emergence of entirely new industries 
-
-Example : Acquisitions by internet companies is changing the industry structure and forcing traditional media companies like Time Warner and Disney to adapt 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [324 x 195] intentionally omitted <==**
-
-64 
-
-## INDUSTRY DYNAMICS 
-
-Industries also change over time, following a life cycle The output (in terms of volume or revenues) of an industry goes through 4 **stages** from its birth (when the product is introduced, e.g. the automobile is invented) to its end (when a substitute product takes over the market, e.g. the typing machine is killed by the computer) 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [370 x 213] intentionally omitted <==**
-
-65 
-
-INDUSTRY DYNAMICS 
-
-## Example: Global sales of smartphones 
-
-Number of smartphones sold worldwide (in million units) 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [486 x 263] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1.800<br>1.600<br>1.400<br>1.200<br>1.000<br>800<br>600<br>400<br>200<br>0<br>2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019<br>Source: Statista<br>**----- End of picture text -----**<br>
-
-
-66 
-
-INDUSTRY DYNAMICS 
-
-## What happens during the industry life cycle 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [459 x 277] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Few  Many  Shake-out and  Many<br>competitors entries consolidation  exits<br>Sales<br>Cash flow<br>Profit<br>Introduction Growth Maturity  Decline<br>**----- End of picture text -----**<br>
-
-
-4.0 
-
-**STRATEGIC GROUPS: PERFORMANCE DIFFERENCES WITHIN THE SAME INDUSTRY** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-68 
-
-STRATEGIC GROUPS 
-
-## We define **STRATEGIC GROUPS** as 
-
-The set of companies that pursue a similar strategy within a specific industry in their quest for competitive advantage 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [721 x 406] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-STRATEGIC GROUPS 69<br>Mobility<br>High<br>Strategic  barrier<br>groups in US<br>domestic<br>GROUP A<br>Low-cost,<br>airline<br>point-to-point<br>industry<br>GROUP B<br>Differentiated,<br>Hub and spoke<br>Low Routes High<br>Cost structure<br>**----- End of picture text -----**<br>
-
-
-70 
-
-Do you believe that Porter’s Five Forces affect the strategic groups within the airline industry differently? 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-71 
-
-STRATEGIC GROUPS 
-
-## Key features of strategic groups 
-
-- Competitive rivalry is strongest between firms that are within the same strategic group 
-
-- The external environment affects strategic groups differently 
-
-- The five competitive forces affect strategic groups differently 
-
-- Some strategic groups are more profitable than others 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-72 
-
-STRATEGIC GROUPS 
-
-## Strategic groups model 
-
-- Explains differences in firm performance within the same industry by clustering firms into groups based on a few key dimensions 
-
-- Done by graphing the firms on two chosen dimensions that form x- and y-axes 
-
-- Implies that differences in firm performance not based just on industry but also on strategic group membership 
-
-- Mobility barriers (costly and not easily reversable strategic actions) restrict intra-group movement 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-5.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-74 
-
-SUMMARY OF MAIN POINTS 
-
-01 
-
-## **EXTERNAL ENVIRONMENT ANALYSIS** 
-
-Conduct thorough analysis of firm’s external environment to identify threats and opportunities by using the PESTEL model 
-
-02 
-
-## **INDUSTRY ANALYSIS** 
-
-Understand industry’s profit potential and obtain clues on how to carve out a strategic position that begets competitive advantage by using Porter’s five-forces model 
-
-03 
-
-## **INDUSTRY DYNAMICS** 
-
-Conduct external analyses at different points in time to gain sense of underlying dynamics 
-
-04 
-
-## **STRATEGIC GROUP ANALYSIS** 
-
-Conduct/draw a strategic group analysis/map to unearth and explain performance differences within the same industry 
-
-**==> picture [105 x 54] intentionally omitted <==**
-
-**==> picture [721 x 406] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-SUMMARY OF MAIN POINTS 75<br>Threat of entry<br>Economies of scale (supply and demand-side)<br>Customer switching costs<br>Capital requirements<br>Incumbency advantage<br>Unequal access to distribution channels<br>Restrictive government policies and<br>regulations<br>Suppliers power<br>Buyers power<br>Sources of Bargaining Power:<br>Industry Competitors<br>Sources of Bargaining<br>Suppliers’ industry concentration<br>Power:<br>Switching costs (on the industry  Concentration<br>side) Diversity of competitors Size and concentrations of<br>Product differentiation Product differentiation buyers relative to producers<br>Few or no substitute Perishable product Buyers’ switching costs<br>Low dependence on the actual  Excess capacity and exit barriers Buyers’ information<br>industry (suppliers serve many  Industry growth Buyers’ ability to backward<br>industries) integrate<br>Threat of Substitutes<br>Relative price and performance of substitutes<br>Industry characteristics of substitutes (e.g. high coming<br>from highly profitable industries); Buyer propensity to<br>substitute<br>**----- End of picture text -----**<br>
-
-
-## **THANKS.** 
-
-**Università Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1 
-
+## Related Notes
+- [[Lecture 25_27 Slides - Multiple Regression]]
+- [[Lecture 25_27 Slides - Multiple Regression with NOTES up to L26]]
+- [[Lect8_exercises]]

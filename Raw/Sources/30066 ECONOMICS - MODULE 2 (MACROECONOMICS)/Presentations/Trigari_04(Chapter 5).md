@@ -1,566 +1,427 @@
-# **Chapter 5 - Goods and financial markets: the IS LM model** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 5 - Goods and financial markets: the IS LM model"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **IS relation from chapter 3** 
+# Chapter 5 - Goods and financial markets: the IS LM model
 
-Remember from chapter 3: 
+## IS relation from chapter 3
 
-- Equilibrium in the goods market: production is equal to demand 
+Remember from chapter 3:
 
-**==> picture [44 x 13] intentionally omitted <==**
+- Equilibrium in the goods market: production is equal to demand
 
-- This condition is called the _**IS**_ **relation** 
+- This condition is called the _**IS**_ **relation**
 
-- In the simple model of Chapter 3, the **interest rate did not affect the demand for goods** 
+- In the simple model of Chapter 3, the **interest rate did not affect the demand for goods**
 
-- In fact, the equilibrium condition was given by 
+- In fact, the equilibrium condition was given by
 
-**==> picture [159 x 17] intentionally omitted <==**
+## Investment function
 
-**==> picture [247 x 15] intentionally omitted <==**
+## Investment was **constant!**
 
-## **Investment function** 
+- Does this make sense?
 
-## Investment was **constant!** 
+- What does investment depend on?
 
-- Does this make sense? 
+## Investment depends primarily on two factors:
 
-- What does investment depend on? 
+- **The level of sales or production (+)**
 
-## Investment depends primarily on two factors: 
+The higher are sales or production Y, the more firms will buy investment goods
 
-- **The level of sales or production (+)** 
+- **The interest rate (-)**
 
-The higher are sales or production Y, the more firms will buy investment goods 
+To buy investment goods firms typically have to borrow. The lower is _i_ , the lower is the cost of borrowing, and the higher is investment, for given _Y_
 
-## • **The interest rate (-)** 
+- Using math: _I_ = _I_ ( _Y_ , _i_ ) ( + , − )
 
-To buy investment goods firms typically have to borrow. The lower is _i_ , the lower is the cost of borrowing, and the higher is investment, for given _Y_ 
+## IS relation
 
-## • Using math: _I_ = _I_ ( _Y_ , _i_ ) ( + , − ) 
+- The condition for equilibrium in the goods markers becomes
 
-## **IS relation** 
+= − _Y C_ ( _Y T_ ) + _I_ ( _Y_ , _i_ ) + _G_
 
-## • The condition for equilibrium in the goods markers becomes 
+- This is the (expanded) IS relation: **a negative relation between output** _**Y**_ **and the interest rate** _**i**_ , as we will see
 
-= − _Y C_ ( _Y T_ ) + _I_ ( _Y_ , _i_ ) + _G_ 
+## = − _Y C Y T_ + _I Y i_ + _G_ ( ) ( , ) + + −
 
-- This is the (expanded) IS relation: **a negative relation between output** _**Y**_ **and the interest rate** _**i**_ , as we will see 
+## First, note that now **demand** is an **increasing** function of **Y** , for **two reasons**:
 
-## = − _Y C Y T_ + _I Y i_ + _G_ ( ) ( , ) + + − 
+- An increase in output leads to an increase in income and, thus, to an increase in **consumption**
 
-## First, note that now **demand** is an **increasing** function of **Y** , for **two reasons** : 
+- An increase in output also leads to an increase in **investment**
 
-- An increase in output leads to an increase in income and, thus, to an increase in **consumption** 
+## How does the new graph look like?
 
-- An increase in output also leads to an increase in **investment** 
+- The demand curve _ZZ_ continues to be upward sloping, with slope less than 1
 
-## **How does the new graph look like?** 
+- Since we have not specified the investment function, we draw _ZZ_ as a curve as opposed to a line
 
-**==> picture [374 x 342] intentionally omitted <==**
+## What happens if the interest rate increases?
 
-**----- Start of picture text -----**<br>
-slope: c1<br>**----- End of picture text -----**<br>
+- An increase in the interest rate _i_ , decreases investment _I_ for given output _Y_ , thus decreases the demand for goods for given output _Y_ , therefore the demand curve _ZZ_ shifts down
 
+- In the new goods markets equilibrium output decreases from _Y_ to _Y’_
 
-- The demand curve _ZZ_ continues to be upward sloping, with slope less than 1 
+## Deriving the IS curve
 
-- Since we have not specified the investment function, we draw _ZZ_ as a curve as opposed to a line 
+a) The IS curve represents the goods market equilibrium in the plan ( _i_ , _Y_ )
 
-## **What happens if the interest rate increases?** 
+- b) We saw that an increase in the interest rate, decreases the demand for goods, therefore equilibrium Y decreases
 
-**==> picture [383 x 330] intentionally omitted <==**
+- c) An increase in the interest rate thus leads to a decrease in output: the **IS curve** is therefore **downward sloping**
 
-- An increase in the interest rate _i_ , decreases investment _I_ for given output _Y_ , thus decreases the demand for goods for given output _Y_ , therefore the demand curve _ZZ_ shifts down 
+- d) The IS curve represents all the **combinations of output** _**Y**_ **and interest rate** _**i**_ for which the **goods market** is in **equilibrium**
 
-- In the new goods markets equilibrium output decreases from _Y_ to _Y’_ 
+## Shifts in the IS curve
 
-## **Deriving the IS curve** 
+- Changes in T and G will shift the IS curve!
 
-a) The IS curve represents the goods market equilibrium in the plan ( _i_ , _Y_ ) 
+- For example, an **increase in** taxes **T** for given interest rate decreases disposable income, decreases consumption, decreases demand and output and **shifts the IS curve to the left**
 
-- b) We saw that an increase in the interest rate, decreases the demand for goods, therefore equilibrium Y decreases 
+- Similarly, a **decrease in** government spending **G** or a **decrease in** consumer confidence **c shift the IS curve to the left 0**
 
-- c) An increase in the interest rate thus leads to a decrease in output: the **IS curve** is therefore **downward sloping** 
+## Example: higher T or lower G or lower c0
 
-- d) The IS curve represents all the **combinations of output** _**Y**_ **and interest rate** _**i**_ for which the **goods market** is in **equilibrium** 
+## To summarize:
 
-**==> picture [312 x 419] intentionally omitted <==**
+- An **increase in the interest rate** leads to a **decrease in output** and correspond to **movements along the downward sloping IS curve**
 
-## **Shifts in the IS curve** 
+- Changes in factors that **decrease the demand for goods** , for given interest rate, **shift the** _**IS**_ **curve to the left** (for example increase in T, decrease in G, decrease in c0)
 
-- Changes in T and G will shift the IS curve! 
+- Changes in factors that **increase the demand for goods** , for given interest rate, **shift the** _**IS**_ **curve to the right** (for example decrease in T, increase in G, increase in c0)
 
-- For example, an **increase in** taxes **T** for given interest rate decreases disposable income, decreases consumption, decreases demand and output and **shifts the IS curve to the left** 
+## LM relation
 
-- Similarly, a **decrease in** government spending **G** or a **decrease in** consumer confidence **c shift the IS curve to the left 0** 
+Remember from chapter 4:
 
-## **Example: higher T or lower G or lower c0** 
+- Equilibrium in financial markets: money supply is equal to money demand
 
-**==> picture [426 x 327] intentionally omitted <==**
+## M=€YL(i)
 
-## To summarize: 
+- Recall that
 
-# • An **increase in the interest rate** leads to a **decrease in output** and correspond to **movements along the downward sloping IS curve** 
+## Nominal GDP = Real GDP x P
 
-- Changes in factors that **decrease the demand for goods** , for given interest rate, **shift the** _**IS**_ **curve to the left** (for example increase in T, decrease in G, decrease in c0) 
+€Y = Y x P
 
-- Changes in factors that **increase the demand for goods** , for given interest rate, **shift the** _**IS**_ **curve to the right** (for example decrease in T, increase in G, increase in c0) 
+- We can rewrite the equilibrium condition in financial markets as
 
-## **LM relation** 
+M=Y P L(i) M/P=YL(i)
 
-Remember from chapter 4: 
+## Two ways of writing the LM relation
 
-- Equilibrium in financial markets: money supply is equal to money demand 
+- In terms of nominal demand of money and nominal income
 
-## M=€YL(i) 
+## M=€YL(i)
 
-- Recall that 
+- In terms of real demand of money and real income
 
-## Nominal GDP = Real GDP x P 
+## M/P=YL(i)
 
-€Y = Y x P 
+- If a cappuccino costs 1.80 euros and I hold money for 2 cappuccinos a day, then
 
-- We can rewrite the equilibrium condition in financial markets as 
+- I hold **nominal money balances** equal to 3.60 euros
 
-M=Y P L(i) M/P=YL(i) 
+- I hold **real money balances** equal to 2 cappuccinos
 
-## Two ways of writing the LM relation 
+## Deriving the LM curve
 
-- In terms of nominal demand of money and nominal income 
+The central bank chooses the interest rate **and adjusts the money supply so as to achieve it, that is such that**
 
-## M=€YL(i) 
+= _M PYL_ ( _i_ )
 
-- In terms of real demand of money and real income 
+## Let’s put the IS and LM together!
 
-## M/P=YL(i) 
+## = − = IS relation: _Y C_ ( _Y T_ ) + _I_ ( _Y_ , _i_ ) + _G_ LM relation: _i_
 
-- If a cappuccino costs 1.80 euros and I hold money for 2 cappuccinos a day, then 
+_i_
 
-   - I hold **nominal money balances** equal to 3.60 euros 
+- a) The **IS curve** represents the **equilibrium** in the **goods market.** It implies that an increase in the interest rate leads to a decrease in output
 
-   - I hold **real money balances** equal to 2 cappuccinos 
+- b) The **LM curve** represents the **equilibrium** in **financial markets.** The LM curve is horizontal at the target interest rate
 
-## **Deriving the LM curve** 
+- c) At the **intersection** of the IS and LM curves **both goods** and **financial markets** are **in equilibrium**
 
-**==> picture [351 x 295] intentionally omitted <==**
+## Fiscal policy
 
-The central bank chooses the interest rate **and adjusts the money supply so as to achieve it, that is such that** 
+- 1) A decrease in _G-T_ is called a **fiscal contraction** , or **fiscal consolidation**
 
-= _M PYL_ ( _i_ ) 
+- 2) An increase in _G-T_ is called a **fiscal expansion**
 
-## **Let’s put the IS and LM together!** 
+## Fiscal policy: effects on output and interest rate Example: a fiscal contraction, T increases
 
-## = − = IS relation : _Y C_ ( _Y T_ ) + _I_ ( _Y_ , _i_ ) + _G_ LM relation : _i_ 
+- a) Which curves moves? LM does not move;
+- IS shifts to the left
 
-_i_ 
+- b) What are the effects? Output decreases; the interest rate does not change (by assumption on monetary policy)
 
-- a) The **IS curve** represents the **equilibrium** in the **goods market.** It implies that an increase in the interest rate leads to a decrease in output 
+- c) What is the economic intuition?
 
-- b) The **LM curve** represents the **equilibrium** in **financial markets.** The LM curve is horizontal at the target interest rate 
+The increase in taxes leads to a decrease in disposable income, which causes a decrease in consumption. This decreases demand, output and income.
 
-- c) At the **intersection** of the IS and LM curves **both goods** and **financial markets** are **in equilibrium** 
+## d) What is the effect on composition of output?
 
-**==> picture [397 x 344] intentionally omitted <==**
+- The increase in _T_ and the decrease in _Y_ both reduce disposable income, so _C_ decreases
 
-## **Fiscal policy** 
+- The decrease in _Y_ leads to a decrease in _I_
 
-- 1) A decrease in _G-T_ is called a **fiscal contraction** , or **fiscal consolidation** 
+- _G_ has not changed
 
-- 2) An increase in _G-T_ is called a **fiscal expansion** 
+## Monetary policy
 
-## **Fiscal policy: effects on output and interest rate Example: a fiscal contraction, T increases** 
+- 1) A decrease in _i_ (or an increase in _M_ ) is called a **monetary expansion**
 
-- a) Which curves moves? LM does not move; IS shifts to the left 
+- 2) An increase in _i_ (or a decrease in _M_ ) is called a **monetary contraction** or **monetary tightening**
 
-- b) What are the effects? Output decreases; the interest rate does not change (by assumption on monetary policy) 
+## Monetary policy: effects on output and interest rate Example: a monetary expansion, i decreases
 
-- c) What is the economic intuition? 
+- a) Which curves moves? IS does not move;
+- LM shifts down
 
-The increase in taxes leads to a decrease in disposable income, which causes a decrease in consumption. This decreases demand, output and income. 
+- b) What are the effects? Output increases; the interest rate decreases (by assumption on monetary policy)
 
-**==> picture [359 x 304] intentionally omitted <==**
+- c) What is the economic intuition? The decrease in the interest rate leads to an increase in investment, leading to an increase in demand, output and income
 
-## d) What is the effect on composition of output? 
+- d) What is the effect on composition of output?
 
-- The increase in _T_ and the decrease in _Y_ both reduce disposable income, so _C_ decreases 
+- The decrease in _i_ and the increase in _Y_ both increase _I_
 
-- The decrease in _Y_ leads to a decrease in _I_ 
+- The increase in income _Y_ leads to an increase in _C_
 
-- _G_ has not changed 
+- _G_ has not changed
 
-## **Monetary policy** 
+## Using a monetary-fiscal policy mix For example when the economy is in a deep recession
 
-- 1) A decrease in _i_ (or an increase in _M_ ) is called a **monetary expansion** 
+- a) The economy is in a deep recession. It may be desirable to use fiscal and monetary policy in the same direction, say, a decrease in _T_ and a decrease in _i_
 
-- 2) An increase in _i_ (or a decrease in _M_ ) is called a **monetary contraction** or **monetary tightening** 
+- b) Which curves moves? IS shifts to the right;
+- LM shifts down
 
-## **Monetary policy: effects on output and interest rate Example: a monetary expansion, i decreases** 
+- c) What are the effects? Output increases; the interest rate decreases
 
-**==> picture [337 x 300] intentionally omitted <==**
+- d) What is the effect on composition of output?
 
-- a) Which curves moves? IS does not move; LM shifts down 
+- The decrease in _i_ and the increase in _Y_ both lead to an increase in _I_
 
-- b) What are the effects? Output increases; the interest rate decreases (by assumption on monetary policy) 
+- The decrease in _T_ and the increase in _Y_ both lead to an increase in _C_
 
-- c) What is the economic intuition? The decrease in the interest rate leads to an increase in investment, leading to an increase in demand, output and income 
+- _G_ has not changed
 
-   - d) What is the effect on composition of output? 
+## Why a policy mix?
 
-      - The decrease in _i_ and the increase in _Y_ both increase _I_ 
+- a) Why not just fiscal policy, say through a sufficiently large increase in G or decrease in T? Why not just monetary policy, though a sufficiently large decrease in the interest rate?
 
-      - The increase in income _Y_ leads to an increase in _C_ 
+- b) An expansionary fiscal policy means increasing the budget deficit (or decreasing the budget surplus). Running a large deficit or increasing government debt may be dangerous, as you will see later. It is better to rely at least in part on monetary policy
 
-      - _G_ has not changed 
+- c) An expansionary monetary policy means decreasing the interest rate. If the rate is very low, then the room for monetary policy may be limited and fiscal policy may have to do more of the job. If the economy is at the _zero lower bound_ , then fiscal policy has to do all the job
 
-## **Using a monetary-fiscal policy mix For example when the economy is in a deep recession** 
+- d) Fiscal and monetary policy have different effects on the composition of output:
 
-- a) The economy is in a deep recession. It may be desirable to use fiscal and monetary policy in the same direction, say, a decrease in _T_ and a decrease in _i_ 
+- A decrease in taxes tends to increase consumption more relative to investment
 
-- b) Which curves moves? IS shifts to the right; LM shifts down 
+- A decrease in the interest rate tends to increase investment more relative to consumption
 
-- c) What are the effects? Output increases; the interest rate decreases 
+## Using a monetary-fiscal policy mix For example when the government is running a large budget deficit
 
-- d) What is the effect on composition of output? 
+- a) The government is running a large budget deficit and would like to reduce it, but does not want to trigger a recession. It may be desirable to use fiscal and monetary policy in the opposite direction, say, an increase in _T_ and a decrease in _i_
 
-   - The decrease in _i_ and the increase in _Y_ both lead to an increase in _I_ 
+- b) Which curves moves? IS shifts to the left;
+- LM shifts down
 
-   - The decrease in _T_ and the increase in _Y_ both lead to an increase in _C_ 
+- c) What are the effects? Output does not change, the interest rate decreases
 
-**==> picture [319 x 279] intentionally omitted <==**
+- d) What is the effect on composition of output?
 
-- _G_ has not changed 
+- The decrease in _i_ , at unchanged _Y_ ,  leads to an increase in _I_
 
-## **Why a policy mix?** 
+- The increase in _T_ , at unchanged _Y_ ,  leads to a decrease in _C_
 
-- a) Why not just fiscal policy, say through a sufficiently large increase in G or decrease in T? Why not just monetary policy, though a sufficiently large decrease in the interest rate? 
+- What would happen to _C_ if the fiscal consolidation is obtained via a reduction in _G_ ?
 
-- b) An expansionary fiscal policy means increasing the budget deficit (or decreasing the budget surplus). Running a large deficit or increasing government debt may be dangerous, as you will see later. It is better to rely at least in part on monetary policy 
+## Deficit reduction: good or bad for investment?
 
-- c) An expansionary monetary policy means decreasing the interest rate. If the rate is very low, then the room for monetary policy may be limited and fiscal policy may have to do more of the job. If the economy is at the _zero lower bound_ , then fiscal policy has to do all the job 
+- Common argument: “ _Private savings go either toward financing the budget deficit or financing investment. It does not take a genius to conclude that reducing the budget deficit leaves more savings available for investment, so investment increases_ ”
 
-- d) Fiscal and monetary policy have different effects on the composition of output: 
+- Equilibrium in the goods market implies _I_ = _S_ + ( _T_ − _G_ )
 
-- A decrease in taxes tends to increase consumption more relative to investment 
+- Thus, given private saving ( _S_ ), a lower public deficit (higher _T_ − _G_ ) means higher _I_
 
-- A decrease in the interest rate tends to increase investment more relative to consumption 
+- However, a fiscal contraction (if not accompanied by a reduction in interest rates) lowers output and so _I_ decreases (since _Y_ lower and _i_ unchanged)
 
-## **Using a monetary-fiscal policy mix For example when the government is running a large budget deficit** 
+- This happens because as _Y_ goes down, _S_ also goes down. It goes down by more than _T − G_ increases, so total savings decrease and _I_ decreases
 
-- a) The government is running a large budget deficit and would like to reduce it, but does not want to trigger a recession. It may be desirable to use fiscal and monetary policy in the opposite direction, say, an increase in _T_ and a decrease in _i_ 
+- If instead the CB also lowers the interest rate to keep _Y_ unchanged, then _I_ necessarily goes up (since _Y_ unchanged and _i_ lower)
 
-- b) Which curves moves? IS shifts to the left; LM shifts down 
+- **Conclusion**: whether a deficit reduction leads to a rise or a decrease in investment depends on the response of monetary policy
 
-- c) What are the effects? Output does not change, the interest rate decreases 
+## Let’s do some math. Start with the IS
 
-- d) What is the effect on composition of output? 
+- The IS curve is
 
-   - The decrease in _i_ , at unchanged _Y_ ,  leads to an increase in _I_ 
+## = − _Y C Y T_ + _I Y i_ + _G_ ( ) ( , )
 
-   - The increase in _T_ , at unchanged _Y_ ,  leads to a decrease in _C_ 
+- Assume everything is linear
 
-**==> picture [305 x 275] intentionally omitted <==**
+where **d and d are the sensitivities of** _**I**_ **to Y and** _**i**_ **1 2**
 
-- What would happen to _C_ if the fiscal consolidation is obtained via a reduction in _G_ ? 
+## Combining we get
 
-## **Deficit reduction: good or bad for investment?** 
+## which can be rearranged, solving for Y,  as
 
-- Common argument: “ _Private savings go either toward financing the budget deficit or financing investment. It does not take a genius to conclude that reducing the budget deficit leaves more savings available for investment, so investment increases_ ” 
+Note **d2 is the sensitivity of demand to interest rates** ; **c1 +d1 is the propensity to spend** (on consumption + investment)
 
-- Equilibrium in the goods market implies _I_ = _S_ + ( _T_ − _G_ ) 
+## Represent IS curve in a graph: position
 
-- Thus, given private saving ( _S_ ), a lower public deficit (higher _T_ − _G_ ) means higher _I_ 
+Output, Y
 
-- However, a fiscal contraction (if not accompanied by a reduction in interest rates) lowers output and so _I_ decreases (since _Y_ lower and _i_ unchanged) 
+Changes in any of the **components of autonomous spending A** will **shift** the **IS**
 
-- This happens because as _Y_ goes down, _S_ also goes down. It goes down by more than _T − G_ increases, so total savings decrease and _I_ decreases 
+## Represent IS curve in a graph: slope
 
-- If instead the CB also lowers the interest rate to keep _Y_ unchanged, then _I_ necessarily goes up (since _Y_ unchanged and _i_ lower) 
+Output, Y
 
-- **Conclusion** : whether a deficit reduction leads to a rise or a decrease in investment depends on the response of monetary policy 
+Changes in **c1, d1, and d2** will change the **slope** of the IS
 
-## **Let’s do some math. Start with the IS** 
+## Turn to the LM curve
 
-## • The IS curve is 
+- Similarly to the IS we chose a functional form for the LM
 
-## = − _Y C Y T_ + _I Y i_ + _G_ ( ) ( , ) 
+- For convenience we rewrite the LM a
 
-## • Assume everything is linear 
+- And assume everything is linear
 
-**==> picture [248 x 24] intentionally omitted <==**
+where **f1 and f2 are the sensitivities of real money demand to** _**Y**_ **and** _**i**_
 
-**==> picture [215 x 25] intentionally omitted <==**
+## 2 cases for LM:
 
-where **d and d are the sensitivities of** _**I**_ **to Y and** _**i**_ **1 2** 
+## Standard - endogenous money supply Alternative - exogenous money supply
 
-## Combining we get 
+## Endogenous money supply
 
-**==> picture [387 x 66] intentionally omitted <==**
+- CB sets           and _i_ = _i_ **adjusts the money supply** _**M**_ according to:
 
-## which can be rearranged, solving for Y,  as 
+## Exogenous money supply
 
-**==> picture [534 x 178] intentionally omitted <==**
+- =
 
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= − −<br>Y [ c 0 + I + G c 1 T ] i<br>− −    − −<br>1 c d  1 c d<br>1 1 1 1<br>=<br>A<br>Autonomous spending<br>New goods market<br>Effect of a change in i on Y<br>multiplier!<br>**----- End of picture text -----**<br>
+- CB sets                  and _M M_ **let the interest** _**i**_ **adjust** according to:
 
+## Standard case: endogenous money supply Represent LM curve in a graph: position and slope
 
-Note **d2 is the sensitivity of demand to interest rates** ; **c1 +d1 is the propensity to spend** (on consumption + investment) 
+Output, Y
 
-## **Represent IS curve in a graph: position** 
+Changes in the target interest rate shifts the LM curve. The slope is horizontal
 
-**==> picture [545 x 314] intentionally omitted <==**
+## Standard case: endogenous money supply Equilibrium
 
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= − −<br>Y [ c 0 + I + G c 1 T ] i<br>− −    − −<br>1 c d  1 c d<br>1 1 1 1<br>= A<br>1<br> Y =  A<br>− −<br>1 c d<br>1 1<br>IS’<br>IS<br>Interest rate, i<br>**----- End of picture text -----**<br>
+## Standard case: endogenous money supply Equilibrium with math
 
+**IS**
 
-Output, Y 
+**LM**
 
-Changes in any of the **components of autonomous spending A** will **shift** the **IS** 
+This is a system in 2 equations and 2 unknowns. Which ones?
 
-## **Represent IS curve in a graph: slope** 
+## Solving the system** we obtain **equilibrium output
 
-**==> picture [551 x 300] intentionally omitted <==**
+## and **equilibrium interest rate**
 
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= − −<br>Y [ c 0 + I + G c 1 T ] i<br>− − − −<br>1 c d 1 c d<br>1 1 1 1<br> i<br>IS<br>d<br> Y = − 2  i<br>− −<br>1 c d<br>1 1<br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
+_i_ = _i_
 
+## Consider **equilibrium output**
 
-Output, Y 
+## FISCAL POLICY MULTIPLIER
 
-Changes in **c1, d1, and d2** will change the **slope** of the IS 
+- The **fiscal policy multiplier** gives the **change in output caused by a change in** _**A**_ (which includes changes in G and T)
 
-## **Turn to the LM curve** 
+- When the CB chooses the level of the interest rate (endogenous monetary policy), the fiscal policy multiplier is identical to the income multiplier derived studying the goods market in isolation
 
-## • Similarly to the IS we chose a functional form for the LM 
+- The **monetary policy multiplier** gives the **change in output caused by a change in** _**i**_
 
-- For convenience we rewrite the LM a 
+- The monetary policy multiplier equals 0 if d2 equals 0, that is, if no component of aggregate demand depends on the interest rate
 
-**==> picture [106 x 45] intentionally omitted <==**
+## Alternative case: exogenous money supply Represent LM curve in a graph: position
 
-- And assume everything is linear 
+Output, Y
 
-**==> picture [168 x 23] intentionally omitted <==**
+Changes in **M** or **P** will **shift** the LM
 
-where **f1 and f2 are the sensitivities of real money demand to** _**Y**_ **and** _**i**_ 
+## Alternative case: exogenous money supply Represent LM curve in a graph: slope
 
-**==> picture [103 x 18] intentionally omitted <==**
+Output, Y
 
-**==> picture [139 x 49] intentionally omitted <==**
+Changes in **f1 and f2** will change the **slope** of the LM
 
-## **2 cases for LM:** 
+## Alternative case: exogenous money supply Equilibrium
 
-## **Standard - endogenous money supply Alternative - exogenous money supply** 
+Output, Y
 
-## **Endogenous money supply** 
+## Alternative case: exogenous money supply Equilibrium with math
 
-- CB sets           and _i_ = _i_ **adjusts the money supply** _**M**_ according to: 
+**IS**
 
-**==> picture [180 x 54] intentionally omitted <==**
+**LM**
 
-## **Exogenous money supply** 
+- Again, this is a system in 2 equations and 2 unknowns, Y and i
 
-- = 
+- Now, however, money supply is exogenous
 
-- CB sets                  and _M M_ **let the interest** _**i**_ **adjust** according to: 
+- Thus, we change the LM equation
 
-**==> picture [160 x 76] intentionally omitted <==**
+## Solving the system** we obtain **equilibrium output
 
-**----- Start of picture text -----**<br>
-f 1 1 M<br>= −<br>i Y<br>f 2 f 2 P<br>**----- End of picture text -----**<br>
+## and **equilibrium interest rate**
 
+− − _f_ 1 / _f_ 2 1 _c_ 1 _d_ 1 _M_ = − − _i_ ( _c_ 0 + _I_ + _G c_ 1 _T_ ) − − − − 1( _c_ 1 _d_ 1) + _f_ 1 _d_ 2 / _f_ 2 _f_ 2 ( 1 _c_ 1 _d_ 1 )+ _f_ 1 _d_ 2 _P_
 
-## **Standard case: endogenous money supply Represent LM curve in a graph: position and slope** 
+## Consider **equilibrium output**
 
-**==> picture [401 x 158] intentionally omitted <==**
+- The **fiscal policy multiplier** gives the **change in output caused by a change in A**
 
-**----- Start of picture text -----**<br>
-i  = i<br>LM<br> i =  i<br>LM’<br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
+- It is smaller than the fiscal policy multiplier arising when the CB chooses the level of the interest rate
 
+- The **monetary policy multiplier** gives the **change in output caused by a change in M (as opposed to i)**
 
-Output, Y 
+- However, the effect of M still works through the effect on i, and ΔY/Δi is the same as before
 
-Changes in the target interest rate shifts the LM curve. The slope is horizontal 
+## Back to the real world How does the IS-LM model fits the facts?
 
-## **Standard case: endogenous money supply Equilibrium** 
+- Suppose the CB implements a contractionary monetary policy: decreases M or increases i
 
-**==> picture [420 x 296] intentionally omitted <==**
+- Recall, in the model the LM curve shifts up
 
-**----- Start of picture text -----**<br>
-i<br>Y Output, Y<br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
+- The IS-LM model predicts that **the interest rate increases** and **output decreases**
 
+- What about prices? In the short run, prices moves little. For simplicity, IS-LM model assumes **constant prices**
 
-## **Standard case: endogenous money supply Equilibrium with math** 
+## The IS-LM model predicts….
 
-**IS** 
+## ….or with exogenous money supply
 
-**==> picture [392 x 69] intentionally omitted <==**
+## The evidence is…
 
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= − −<br>Y [ c 0 + I + G c 1 T ] i<br>− − − −<br>1 c d 1 c d<br>1 1 1 1<br>**----- End of picture text -----**<br>
+To understand the slow dynamics in previous evidence, consider that
 
+- consumers are likely to take some time to adjust their consumption following a change in disposable income
 
-**LM** 
+- firms are likely to take some time to adjust investment spending following a change in their sales
 
-**==> picture [50 x 33] intentionally omitted <==**
+- firms are likely to take some time to adjust investment spending following a change in the interest rate
 
-**----- Start of picture text -----**<br>
-i  = i<br>**----- End of picture text -----**<br>
+- firms are likely to take some time to adjust production following a change in demand
 
-
-This is a system in 2 equations and 2 unknowns. Which ones? 
-
-## **Solving the system** we obtain **equilibrium output** 
-
-**==> picture [389 x 52] intentionally omitted <==**
-
-## and **equilibrium interest rate** 
-
-_i_ = _i_ 
-
-## Consider **equilibrium output** 
-
-**==> picture [488 x 167] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= −<br>Y [ c 0 + I + G c 1 T ] + i<br>− − − −<br>1 c d 1 c d<br>1 1 1 1<br>MONETARY<br>POLICY<br>FISCAL POLICY<br>MULTIPLIER<br>**----- End of picture text -----**<br>
-
-
-## FISCAL POLICY MULTIPLIER 
-
-- The **fiscal policy multiplier** gives the **change in output caused by a change in** _**A**_ (which includes changes in G and T) 
-
-- When the CB chooses the level of the interest rate (endogenous monetary policy), the fiscal policy multiplier is identical to the income multiplier derived studying the goods market in isolation 
-
-- The **monetary policy multiplier** gives the **change in output caused by a change in** _**i**_ 
-
-- The monetary policy multiplier equals 0 if d2 equals 0, that is, if no component of aggregate demand depends on the interest rate 
-
-## **Alternative case: exogenous money supply Represent LM curve in a graph: position** 
-
-**==> picture [514 x 329] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 M f 1<br>= −<br>i + Y<br>f 2 P f 2<br>LM<br>LM’<br>1  M <br> i = − <br> <br>f 2  P <br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
-
-
-Output, Y 
-
-Changes in **M** or **P** will **shift** the LM 
-
-## **Alternative case: exogenous money supply Represent LM curve in a graph: slope** 
-
-**==> picture [520 x 322] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 M f 1<br>= −<br>i + Y<br>f 2 P f 2<br>LM<br>f 1<br> i =  Y<br>f 2<br> Y<br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
-
-
-Output, Y 
-
-Changes in **f1 and f2** will change the **slope** of the LM 
-
-## **Alternative case: exogenous money supply Equilibrium** 
-
-**==> picture [417 x 292] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-i<br>Y<br>i<br>Interest rate,<br>**----- End of picture text -----**<br>
-
-
-Output, Y 
-
-## **Alternative case: exogenous money supply Equilibrium with math** 
-
-**IS** 
-
-**==> picture [392 x 69] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 d<br>2<br>= − −<br>Y [ c 0 + I + G c 1 T ] i<br>− − − −<br>1 c d 1 c d<br>1 1 1 1<br>**----- End of picture text -----**<br>
-
-
-**LM** 
-
-**==> picture [169 x 70] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 M f 1<br>= −<br>i + Y<br>f 2 P f 2<br>**----- End of picture text -----**<br>
-
-
-- Again, this is a system in 2 equations and 2 unknowns, Y and i 
-
-- Now, however, money supply is exogenous 
-
-- Thus, we change the LM equation 
-
-## **Solving the system** we obtain **equilibrium output** 
-
-**==> picture [621 x 60] intentionally omitted <==**
-
-## and **equilibrium interest rate** 
-
-− − _f_ 1 / _f_ 2 1 _c_ 1 _d_ 1 _M_ = − − _i_ [ _c_ 0 + _I_ + _G c_ 1 _T_ ] − − − − 1( _c_ 1 _d_ 1) + _f_ 1 _d_ 2 / _f_ 2 _f_ 2 ( 1 _c_ 1 _d_ 1 )+ _f_ 1 _d_ 2 _P_ 
-
-## Consider **equilibrium output** 
-
-**==> picture [608 x 223] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 d M<br>2<br>= −<br>Y [ c 0 + I + G c 1 T ] +<br>− − − −<br>1( c 1 d 1) + f 1 d 2 / f 2 f 2 1( c 1 d 1) + f 1 d 2 P<br>MONETARY<br>POLICY<br>MULTIPLIER<br>**----- End of picture text -----**<br>
-
-
-**==> picture [87 x 57] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-FISCAL<br>POLICY<br>MULTIPLIER<br>**----- End of picture text -----**<br>
-
-
-- The **fiscal policy multiplier** gives the **change in output caused by a change in A** 
-
-- It is smaller than the fiscal policy multiplier arising when the CB chooses the level of the interest rate 
-
-- The **monetary policy multiplier** gives the **change in output caused by a change in M (as opposed to i)** 
-
-- However, the effect of M still works through the effect on i, and ΔY/Δi is the same as before 
-
-## **Back to the real world How does the IS-LM model fits the facts?** 
-
-- Suppose the CB implements a contractionary monetary policy: decreases M or increases i 
-
-- Recall, in the model the LM curve shifts up 
-
-- The IS-LM model predicts that **the interest rate increases** and **output decreases** 
-
-- What about prices? In the short run, prices moves little. For simplicity, IS-LM model assumes **constant prices** 
-
-## **The IS-LM model predicts….** 
-
-**==> picture [444 x 326] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-i’ LM’<br>i LM<br>IS<br>Y’ Y<br>Output, Y<br>Interest rate, i<br>**----- End of picture text -----**<br>
-
-
-## **….or with exogenous money supply** 
-
-**==> picture [411 x 326] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-LM’<br>LM<br>i’<br>i<br>IS<br>Y’ Y<br>Output, Y<br>Interest rate, i<br>**----- End of picture text -----**<br>
-
-
-## **The evidence is…** 
-
-**==> picture [389 x 406] intentionally omitted <==**
-
-To understand the slow dynamics in previous evidence, consider that 
-
-- consumers are likely to take some time to adjust their consumption following a change in disposable income 
-
-- firms are likely to take some time to adjust investment spending following a change in their sales 
-
-- firms are likely to take some time to adjust investment spending following a change in the interest rate 
-
-- firms are likely to take some time to adjust production following a change in demand 
-
+## Related Notes
+- [[L10 ISLM model]]
+- [[Macroeconomics Exercise Book-228-446]]
+- [[Macroeconomics Exercise Book]]

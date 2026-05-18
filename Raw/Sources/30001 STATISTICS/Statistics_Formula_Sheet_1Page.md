@@ -1,3 +1,16 @@
+---
+Title: "Statistics_Formula_Sheet_1Page"
+Author: "Bocconi"
+Reference: "Course Material"
+ContentType:
+  - "markdown"
+Created: 2026-05-18
+Processed: true
+tags:
+  - "source"
+
+---
+
 ## **STATISTICS FORMULA SHEET – Bocconi University (Course 30001)** 
 
 ------------------------------------------------------------ 

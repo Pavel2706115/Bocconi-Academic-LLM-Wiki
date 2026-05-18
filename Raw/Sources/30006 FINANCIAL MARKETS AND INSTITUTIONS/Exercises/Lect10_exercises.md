@@ -1,56 +1,74 @@
-## **Extra exercises of Lecture 10** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect10_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 10
 
-On January 3, 2026, a trader buys 1,000 futures contracts to receive at the delivery date (December 30, 2026) one barrel of juice per contract. When the position is opened (on January 3[rd] ), the spot price of the stock is $93 and the futures price for December 30 delivery is $89. The trader closes the futures position on June 30, when the spot price of the stock is $128 and the futures price for December 30 delivery is $115. What is trader’s profit/loss? 
+## EX 1
 
-- a) the trader has made a gain of $121,000 
+On January 3, 2026, a trader buys 1,000 futures contracts to receive at the delivery date (December 30, 2026) one barrel of juice per contract. When the position is opened (on January 3(rd) ), the spot price of the stock is $93 and the futures price for December 30 delivery is $89. The trader closes the futures position on June 30, when the spot price of the stock is $128 and the futures price for December 30 delivery is $115. What is trader’s profit/loss?
+*(See also: [[Lect9-10#^2hwvqj]])*
 
-- b) the trader has made a gain of $26,000 
+- a) the trader has made a gain of $121,000
 
-- c) the trader has made a gain of $39,000 
+- b) the trader has made a gain of $26,000
 
-- d) the trader has made a loss of $82,000 
+- c) the trader has made a gain of $39,000
 
-## **EX 2** 
+- d) the trader has made a loss of $82,000
 
-A trader is short on oil futures at $90 per barrel. The contract consists of 20,000 barrels. She closes her position two days before delivery when the future price is $100. On the date of delivery, the spot price turns out to be $95. What is the profit/loss of the trader? 
+## EX 2
 
-- a) a gain of $90,000 
+A trader is short on oil futures at $90 per barrel. The contract consists of 20,000 barrels. She closes her position two days before delivery when the future price is $100. On the date of delivery, the spot price turns out to be $95. What is the profit/loss of the trader? ^gc4l5s
 
-- b) a loss of $200,000 
+- a) a gain of $90,000
 
-- c) a loss of $100,000 
+- b) a loss of $200,000
 
-- d) a gain of $200,000 
+- c) a loss of $100,000
 
-## **EX 3** 
+- d) a gain of $200,000
 
-Which of the following are true about a futures contract: 
+## EX 3
 
-- I. has higher default risk than an equivalent forward contract 
+Which of the following are true about a futures contract:
 
-- II. is traded on an over-the-counter market and customized 
+- I. has higher default risk than an equivalent forward contract
 
-- III. has no default risk and it is standardized 
+- II. is traded on an over-the-counter market and customized
 
-- IV. is easier to sell to other parties (in the secondary markets) before delivery date 
+- III. has no default risk and it is standardized
 
-- a) III and IV 
+- IV. is easier to sell to other parties (in the secondary markets) before delivery date
 
-- b) I and II 
+- a) III and IV
 
-- c) II only 
+- b) I and II
 
-- d) II only 
+- c) II only
 
-## **EX 4** 
+- d) II only
 
-Suppose a trader has taken a long position in liquid gas futures at $45 per cylinder. The contract expires in 3 days, and it consists of 10,000 cylinders. The trader needs to deposit 4% of value con future contract as initial margin. The futures price in the following three days are: $50 at day 1, $55 at day 2 and $48 at day 3. 
+## EX 4
 
-What is the value of the trader’s profits (or loss if negative) in her margin account at day 2? 
+Suppose a trader has taken a long position in liquid gas futures at $45 per cylinder. The contract expires in 3 days, and it consists of 10,000 cylinders. The trader needs to deposit 4% of value con future contract as initial margin. The futures price in the following three days are: $50 at day 1, $55 at day 2 and $48 at day 3.
 
-- a) $60,000 
+What is the value of the trader’s profits (or loss if negative) in her margin account at day 2?
 
-- b) $50,000 c) -$100,000 d) $100,000 
+- a) $60,000
 
+- b) $50,000 c) -$100,000 d) $100,000
+
+## Related Notes
+- [[Lect9-10]]
+- [[Lect12_Review_exercises_questions]]
+- [[Lect11_exercises]]

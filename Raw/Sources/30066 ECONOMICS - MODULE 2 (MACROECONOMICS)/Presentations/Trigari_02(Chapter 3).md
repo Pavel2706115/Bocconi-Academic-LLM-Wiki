@@ -1,420 +1,353 @@
-# **Chapter 3 The goods market** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 3 The goods market"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## Demand → Production → Income → Demand →… 
+# Chapter 3 The goods market
 
-**==> picture [541 x 406] intentionally omitted <==**
+## Demand → Production → Income → Demand →…
 
-**Composition of GDP in terms of the different goods produced and the different buyers of the goods** 
+**Composition of GDP in terms of the different goods produced and the different buyers of the goods**
 
-## **EU15, 2010** 
+## EU15, 2010
 
-**==> picture [649 x 197] intentionally omitted <==**
+- **Consumption (C):**
 
-- **Consumption (C):** 
+- purchases of goods and services by consumers
 
-   - purchases of goods and services by consumers 
+- sum of durables (cars) and non-durable consumption (food)
 
-   - sum of durables (cars) and non-durable consumption (food) 
+- **I**:
 
-- **I** : 
+- **Investment ( )**
 
-- **Investment ( )** 
+- purchases of capital goods
 
-   - purchases of capital goods 
+- sum of residential investment (housing by people) and nonresidential investment (plants and machines by firms)
 
-   - sum of residential investment (housing by people) and nonresidential investment (plants and machines by firms) 
+- **Government spending (G):**
 
-- **Government spending (G):** 
+- purchases of goods and services by the government
 
-   - purchases of goods and services by the government 
+- does not include government transfers, nor interest payments on government debt
 
-   - does not include government transfers, nor interest payments on government debt 
+- different from total government spending
 
-   - different from total government spending 
+- **Imports (IM):** purchases of foreign goods and services by domestic consumers, business firms, and the government
 
-- **Imports (IM):** purchases of foreign goods and services by domestic consumers, business firms, and the government 
+- **Exports (X):** purchases of domestic goods and services by foreigners
 
-- **Exports (X):** purchases of domestic goods and services by foreigners 
+- −
 
-- − 
+- **Net exports or trade balance (X IM):** difference between exports and imports, also called the trade balance
 
-- **Net exports or trade balance (X IM):** difference between exports and imports, also called the trade balance 
+_Exports > imports_ ➔ _trade surplus Exports < imports_ ➔ _trade deficits_
 
-_Exports > imports_ ➔ _trade surplus Exports < imports_ ➔ _trade deficits_ 
+- **Inventory investment:** difference between production and sales (some of the goods produced in a given year are not sold in the same year, but in later years; some of the goods sold in a given year have been produced in earlier years)
 
-• **Inventory investment:** difference between production and sales (some of the goods produced in a given year are not sold in the same year, but in later years; some of the goods sold in a given year have been produced in earlier years) 
+## The demand of goods
 
-## **The demand of goods** 
+## The total demand for goods is given by
 
-## The total demand for goods is given by 
+− _Z_ - _C_ + _I_ + _G_ + _X IM_
 
-− _Z_  _C_ + _I_ + _G_ + _X IM_ 
+This is an identity equation or a definition
 
-This is an identity equation or a definition 
+## To determine Z and Y, we make 3 simplifying assumptions:
 
-## To determine Z and Y, we make 3 simplifying assumptions: 
+1. Assume that all firms produce the **same good** , which can then be used by consumers for consumption, by firms for investment or by the government → we can look at only one market
 
-1. Assume that all firms produce the **same good** , which can then be used by consumers for consumption, by firms for investment or by the government → we can look at only one market 
+2. Assume that firms are willing to supply **any amount** of the good at **given price** _**P**_ and meet the demand in that market → we focus on the role of demand and disregard (for now) the role of supply
 
-2. Assume that firms are willing to supply **any amount** of the good at **given price** _**P**_ and meet the demand in that market → we focus on the role of demand and disregard (for now) the role of supply 
+3. Assume that the economy is **closed** , that it does not trade with the rest of the world, then both exports and imports are zero, that is, X=IM=0 → we disregard (for now) the role of trade
 
-3. Assume that the economy is **closed** , that it does not trade with the rest of the world, then both exports and imports are zero, that is, X=IM=0 → we disregard (for now) the role of trade 
+## Consumption (C)
 
-## **Consumption (C)** 
+- **Disposable income (YD):**
 
-- **Disposable income (YD):** 
+- income that remains once consumers have paid taxes and received transfers from the government
 
-**==> picture [132 x 29] intentionally omitted <==**
+- Y is gross income;
+- T is taxes net of transfers
 
-   - income that remains once consumers have paid taxes and received transfers from the government 
+- **Consumption function:**
 
-   - Y is gross income; T is taxes net of transfers 
+- behavioral equation capturing the behavior of consumer
 
-- **Consumption function:** 
+- consumption depends positively on disposable income
 
-**==> picture [124 x 47] intentionally omitted <==**
+## Example, linear consumption function:
 
-- behavioral equation capturing the behavior of consumer 
+## This function has **2 parameters** , _**c**_ **0** and _**c**_ **1**:
 
-- consumption depends positively on disposable income 
+- _**c**_ is called the **1 marginal propensity to consume**
 
-## Example, linear consumption function: 
+- measures effect of 1 additional euro of disposable income on consumption
 
-**==> picture [179 x 30] intentionally omitted <==**
+- slope of the consumption function in (C,YD) plan
 
-## This function has **2 parameters** , _**c**_ **0** and _**c**_ **1** : 
+- _0<c_ <1 WHY? 1
 
-- _**c**_ is called the **1 marginal propensity to consume** 
+- _**c**_ is called **0 autonomous consumption**
 
-   - measures effect of 1 additional euro of disposable income on consumption 
+- measures the consumption when disposable income is zero
 
-   - slope of the consumption function in (C,YD) plan 
+- captures changes in consumption at given income YD
 
-   - _0<c_ <1 WHY? 1 
+- intercept of the consumption function in (C,YD) plan
 
-- _**c**_ is called **0 autonomous consumption** 
+- _c_ >0 WHY? 0
 
-   - measures the consumption when disposable income is zero 
+## = _C C_ ( _YD_ )
 
-   - captures changes in consumption at given income YD 
+− _Y Y T D_(- ) = − _C c_ 0 + _c_ 1( _Y T_ )
 
-   - intercept of the consumption function in (C,YD) plan 
+Consumption increases with disposable income but less than 1 for 1
 
-   - _c_ >0 WHY? 0 
+# Aside: Heterogeneity in Empirical MPCs
 
-## = _C C_ ( _YD_ ) 
+## Consumption function I
 
-− _Y Y T D_[] = − _C c_ 0 + _c_ 1( _Y T_ ) 
+c c’ > c 0 0 0
 
-**==> picture [386 x 316] intentionally omitted <==**
+## Consumption function II
 
-Consumption increases with disposable income but less than 1 for 1 
+c c' > c 1 1 1
 
-# **Aside: Heterogeneity in Empirical MPCs** 
+Variables that depend on other variables within the model are called **endogenous** Variables that are not explained within the model are called **exogenous**
 
-**==> picture [546 x 284] intentionally omitted <==**
+## Investment (I)
 
-## **Consumption function I** 
+- **Investment (I):** for now investment is taken as given and assumed to be exogenous
 
-c c’ > c 0 0 0 
+## = _I I_
 
-**==> picture [405 x 200] intentionally omitted <==**
+- Later we will endogenize investment
 
-**----- Start of picture text -----**<br>
-C<br>c’<br>0<br>slope: c1<br>c<br>0<br>**----- End of picture text -----**<br>
+## Government spending (G)
 
+- **Government spending (G):** government spending G together with taxes T describes **fiscal policy** , the choice of taxes and spending by the government
 
-**==> picture [22 x 17] intentionally omitted <==**
+- We assume that **G** and **T** are for two reasons: **exogenous**
 
-**----- Start of picture text -----**<br>
-Y<br>D<br>**----- End of picture text -----**<br>
+- Governments do not behave with the same regularity as consumers or firms → more difficult to write a behavioral equation
 
+- Macroeconomists want to think about the implications for the economy of alternative government spending and tax decisions → easier to take fiscal policy as exogenous
 
-## **Consumption function II** 
+## Equilibrium in the goods market
 
-c c' > c 1 1 1 
+- **Demand, Z**: sum of consumption, investment and government spending
 
-**==> picture [443 x 189] intentionally omitted <==**
+- **Supply, Y**: firms willing to supply any amount of goods demanded at given prices P
 
-**----- Start of picture text -----**<br>
-C<br>slope: c’1<br>slope: c1<br>c<br>0<br>**----- End of picture text -----**<br>
+- **Equilibrium**: demand of goods Z must equal supply of goods Y (abstracting from inventories)
 
+## = _Y Z_
 
-**==> picture [21 x 17] intentionally omitted <==**
+- This is an equilibrium equation
 
-**----- Start of picture text -----**<br>
-Y<br>D<br>**----- End of picture text -----**<br>
+- Demand in turn depend on income which is equal to production
 
+- Note that Y denotes both production and income
 
-Variables that depend on other variables within the model are called **endogenous** Variables that are not explained within the model are called **exogenous** 
+## Solving a model
 
-## **Investment (I)** 
+- Solving a model means understanding what factors determine the variables of interest of the model, that is, the endogenous variables
 
-- **Investment (I):** for now investment is taken as given and assumed to be exogenous 
+- algebraically: express the endogenous variables as a function of parameters and exogenous variables
 
-## = _I I_ 
+- graphically: use a graphical analysis to describe how the endogenous variables change when parameters or exogenous variables change
 
-- Later we will endogenize investment 
+- Three tools
 
-## **Government spending (G)** 
+1. algebra to make sure the logic is correct and to provide quantitative answers
 
-- **Government spending (G):** government spending G together with taxes T describes **fiscal policy** , the choice of taxes and spending by the government 
+2. graphs to build the intuition and to provide qualitative answers
 
-- We assume that **G** and **T** are for two reasons: **exogenous** 
+3. words to explain the results and the economic intuition
 
-   - Governments do not behave with the same regularity as consumers or firms → more difficult to write a behavioral equation 
+## Solving for equilibrium Y
 
-   - Macroeconomists want to think about the implications for the economy of alternative government spending and tax decisions → easier to take fiscal policy as exogenous 
+## Using algebra
 
-## **Equilibrium in the goods market** 
+- The equilibrium equation is
 
-- **Demand, Z** : sum of consumption, investment and government spending 
+- Start solving for Y
 
-**==> picture [157 x 21] intentionally omitted <==**
+- Finally
 
-**==> picture [243 x 34] intentionally omitted <==**
+- The term                                   is called ( _c_ 0 + _I_ + _G_ − _cT_ 1 ) **autonomous spending** ; in fact it is the part of the demand for goods that does not depend on output
 
-- **Supply, Y** : firms willing to supply any amount of goods demanded at given prices P 
+- _c_ The term 1/(1- _1_ ) is called the **multiplier** ; in fact, it is a number greater than 1 because the propensity to consume _c_ 1 is between 0 and 1
 
-- **Equilibrium** : demand of goods Z must equal supply of goods Y (abstracting from inventories) 
+## Using graphs
 
-## = _Y Z_ 
+We represent the equilibrium in the (demand Z, income Y) or equivalently in the (output Y, income Y) plan
 
-- This is an equilibrium equation 
+To find the equilibrium we plot **2 curves**
 
-- Demand in turn depend on income which is equal to production 
+- Demand curve (ZZ): demand as a function of income
 
-**==> picture [289 x 56] intentionally omitted <==**
+- Supply curve: supply or production as a function of income; since production equals income, this is just the 45° degree line
 
-- Note that Y denotes both production and income 
+- First, plot production as a
 
-## **Solving a model** 
+function of income
 
-- Solving a model means understanding what factors determine the variables of interest of the model, that is, the endogenous variables 
+- Second, plot demand as a function of income
 
-   - algebraically: express the endogenous variables as a function of parameters and exogenous variables 
+_Z_ = _c_ + _I_ + _G_ − _c T_ + _c Y_ ( 0 1 ) 1
 
-   - graphically: use a graphical analysis to describe how the endogenous variables change when parameters or exogenous variables change 
+- In equilibrium, production equals demand
 
-- Three tools 
+## Effect of an increase in autonomous spending
 
-   1. algebra to make sure the logic is correct and to provide quantitative answers 
+- The first-round increase in demand, represented by the distance _AB,_ equals $1 billion
 
-   2. graphs to build the intuition and to provide qualitative answers 
+- This first-round increase in demand leads to an equal increase in production, or $1 billion, which is also represented by the distance _AB_
 
-   3. words to explain the results and the economic intuition 
+- This first-round increase in production leads to an equal increase in income, represented by the distance _BC_ and equal to $1 billion
 
-## **Solving for equilibrium Y** 
+- Why we do not stop in C? What’s wrong with point C?
 
-## **Using algebra** 
+- In  C, consumers demand more because income has gone up so that there is a second-round increase in demand
 
-## • The equilibrium equation is 
+- The second-round increase in demand, represented by the distance _CD_ , equals $1 billion times the propensity to consume, that is, c1 \times 1 billion
 
-- Start solving for Y 
+- This second-round increase in demand leads to an equal increase in production, also represented by the distance _CD_ , and thus an equal increase in income, represented by the distance _DE_
 
-- Finally 
+- Why we do not stop in E? Because there is a third-round increase in demand
 
-**==> picture [258 x 221] intentionally omitted <==**
+- The third-round increase in demand equals c1  x (c1 \times 1 billion)….and so on until A’
 
-**==> picture [260 x 87] intentionally omitted <==**
+- By summing the subsequent increases in production, we can compute the total effect on output
 
-**----- Start of picture text -----**<br>
-1<br>= −<br>Y c + I + G c T<br>( 0 1 )<br>−   <br>1 c <br>1<br> Autonomous spending<br>Multiplier<br>**----- End of picture text -----**<br>
+- Each subsequent increase in production becomes smaller, forming a geometric series with a common ratio c1 (where ∣ c1 ∣ <1).
 
+- We can then apply the formula for the sum of an infinite geometric series
 
-• The term                                   is called [ _c_ 0 + _I_ + _G_ − _cT_ 1 ] **autonomous spending** ; in fact it is the part of the demand for goods that does not depend on output 
+- The change in Y equals the **initial change in autonomous spending** times the **multiplier** !
 
-• _c_ The term 1/(1- _1_ ) is called the **multiplier** ; in fact, it is a number greater than 1 because the propensity to consume _c_ 1 is between 0 and 1 
+## Example
 
-## **Using graphs** 
+= _c_ 100, _c_ 0.5, _I_ 1000, _G_ = 500, _T_ = 0 0 = 1 =
 
-We represent the equilibrium in the (demand Z, income Y) or equivalently in the (output Y, income Y) plan 
+## Use the formula we found before:
 
-To find the equilibrium we plot **2 curves** 
+- + _I_ + _G_ - _c T_ + 1000 + 500 0 0 1 = = = _Y c_ 100 3200 - 1 _c_ 0.5 1 What happens if government spending goes up?
 
-- Demand curve (ZZ): demand as a function of income 
+= = = = = _c_ 100 _c I_ 1000 _G'_ 1000 _T_ 0 0 , 1 ,5.0 , ,
 
-**==> picture [233 x 37] intentionally omitted <==**
+## Therefore,
 
-- Supply curve: supply or production as a function of income; since production equals income, this is just the 45° degree line 
+− − _c_ + _I_ + _G' c T_ 100 + 1000 + 1000 0 0 1 = = = _Y'_ 4200 − 1 _c_ 5.0 1
 
-## • First, plot production as a 
+So Y goes up! And it goes up by 1000
 
-function of income 
+- Check the numbers: G went up by 500 and c1 is 0.5
 
-- Second, plot demand as a function of income 
+- Thus, Y went up by
 
-_Z_ = _c_ + _I_ + _G_ − _c T_ + _c Y_ ( 0 1 ) 1 
+1 500 ´ = 1000 - 1 0.5
 
-• In equilibrium, production equals demand 
+- Which is the number we found before!
 
-**==> picture [305 x 302] intentionally omitted <==**
+## In words
 
-## **Effect of an increase in autonomous spending** 
+- An increase in demand leads to an increase in production and a corresponding increase in income; this increase in income leads to a further increase in demand, which leads to a further increase in production and so on… subsequent increases in demand and output are smaller and smaller because part of the additional increase in income is saved
+*(See also: [[L4 & L5 The Goods Market#^4lqx32]])*
 
-**==> picture [375 x 362] intentionally omitted <==**
+- End result: increase in output that is larger than the initial shift in demand, by a factor equal to the multiplier
 
-- The first-round increase in demand, represented by the distance _AB,_ equals $1 billion 
+- The value of the multiplier depends on the value of the propensity to consume; to estimate behavioral equations and their parameters, economists use econometrics - a set of statistical methods used in economics
 
-- This first-round increase in demand leads to an equal increase in production, or $1 billion, which is also represented by the distance _AB_ 
+## FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function
 
-- This first-round increase in production leads to an equal increase in income, represented by the distance _BC_ and equal to $1 billion 
+- When people start worrying about the future, they decide to save more even if their current income has not changed
 
-- Why we do not stop in C? What’s wrong with point C? 
+- News about Lehman Brothers going bankrupt in September 2008 reminded people of the Great Depression, as confirmed by the number of searches for “Great Depression” in Google
 
-**==> picture [324 x 339] intentionally omitted <==**
+- Consumption fell even if disposable income had not yet changed
 
-- In  C, consumers demand more because income has gone up so that there is a second-round increase in demand 
+## FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function
 
-- The second-round increase in demand, represented by the distance _CD_ , equals $1 billion times the propensity to consume, that is, c1  x 1 billion 
+Disposable income, consumption, and consumption of durables in the US, 2008:1- 2009:3
 
-- This second-round increase in demand leads to an equal increase in production, also represented by the distance _CD_ , and thus an equal increase in income, represented by the distance _DE_ 
+## FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function
 
-- Why we do not stop in E? Because there is a third-round increase in demand 
+Google search volume for “Great Depression,” January 2008 to September 2009
 
-**==> picture [324 x 313] intentionally omitted <==**
+## Investment = Saving:
 
-- The third-round increase in demand equals c1  x (c1  x 1 billion)….and so on until A’ 
+**An Alternative Way of Thinking About the Goods-Market Equilibrium**
 
-- By summing the subsequent increases in production, we can compute the total effect on output 
+Saving is the sum of **private savings** plus **public saving**
 
-- Each subsequent increase in production becomes smaller, forming a geometric series with a common ratio c1 (where ∣ c1 ∣ <1). 
+- **Private saving** ( **S** ), is saving by consumers
 
-- We can then apply the formula for the sum of an infinite geometric series 
+- **Public saving** equals taxes minus government spending
 
-**==> picture [642 x 57] intentionally omitted <==**
+## _T - G_ Public savings =
 
-**==> picture [138 x 43] intentionally omitted <==**
+- If _T_ > _G_ , the government is running a **budget surplus** —public saving is positive
 
-- The change in Y equals the **initial change in autonomous spending** times the **multiplier** ! 
+- - If _T_ < _G_ , the government is running a **budget deficit** —public saving is negative
 
-## **Example** 
+> Production = Demand _Y_ = _C_ + _I_ + _G Y_ − _C_ − _T_ = _I_ + _G_ − _T_ = − = −
 
-= _c_ 100, _c_ 0.5, _I_ 1000, _G_ = 500, _T_ = 0 0 = 1 = 
+> Investment = Total savings _I S_ + ( _T G_ ) _S I_ + _G T_
 
-## Use the formula we found before: 
+Investment = Total savings
 
-- + _I_ + _G_ - _c T_ + 1000 + 500 0 0 1 = = = _Y c_ 100 3200 - 1 _c_ 0.5 1 What happens if government spending goes up? 
+This explains why the equilibrium condition for the goods market is called the **IS** relation
 
-= = = = = _c_ 100 _c I_ 1000 _G'_ 1000 _T_ 0 0 , 1 ,5.0 , , 
+Put differently, there are 2 ways of stating the condition for equilibrium in goods markets
 
-## Therefore, 
+## Solving for the equilibrium using I = S
 
-− − _c_ + _I_ + _G' c T_ 100 + 1000 + 1000 0 0 1 = = = _Y'_ 4200 − 1 _c_ 5.0 1 
+- First, what determines savings?
 
-So Y goes up! And it goes up by 1000 
+where (1-c1) is the **marginal propensity to save**
 
-# • Check the numbers: G went up by 500 and c1 is 0.5 
+- Thus: **saving** and **consumption decisions** are one and the same: given YD, when consumers have chosen C, they have also chosen S
 
-- Thus, Y went up by 
+- In equilibrium
 
-1 500 ´ = 1000 - 1 0.5 
+- Rearranging we obtain the same expression for equilibrium output
 
-- Which is the number we found before! 
+## The paradox of saving (or the paradox of thrift)
 
-## **In words** 
+- The paradox of saving is that as people attempt to save more, the result is both a decline in output and unchanged saving
 
-- An increase in demand leads to an increase in production and a corresponding increase in income; this increase in income leads to a further increase in demand, which leads to a further increase in production and so on… subsequent increases in demand and output are smaller and smaller because part of the additional increase in income is saved 
+- Suppose at any given level of Y, people save more, that is, they reduce c0; this increases savings
 
-- End result: increase in output that is larger than the initial shift in demand, by a factor equal to the multiplier 
+- The corresponding decrease in consumption reduces equilibrium output and income; this effect decreases savings
 
-- The value of the multiplier depends on the value of the propensity to consume; to estimate behavioral equations and their parameters, economists use econometrics - a set of statistical methods used in economics 
+- What is the net effect? We can show that savings do not change since neither investment, nor taxes nor public spending change
 
-## **FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function** 
+## Is the government omnipotent? A warning
 
-- When people start worrying about the future, they decide to save more even if their current income has not changed 
+Expression for equilibrium output implies that the government can choose G or T to achieve the level of Y it wants. But there are many aspects of reality we have not incorporated into the model:
 
-- News about Lehman Brothers going bankrupt in September 2008 reminded people of the Great Depression, as confirmed by the number of searches for “Great Depression” in Google 
+- Changing government spending or taxes is not always easy
 
-- Consumption fell even if disposable income had not yet changed 
+- Responses of consumption, investment, imports, … are hard to assess with much certainty
 
-## **FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function** 
+- Anticipations are likely to matter
 
-Disposable income, consumption, and consumption of durables in the US, 2008:1- 2009:3 
+- Achieving a given level of output can come with unpleasant side effects in medium run
 
-**==> picture [492 x 309] intentionally omitted <==**
+- Budget deficits and public debt may have adverse implications in long run
 
-## **FOCUS: The Lehman bankruptcy, fears of another Great Depression, and shifts in the consumption function** 
-
-Google search volume for “Great Depression,” January 2008 to September 2009 
-
-**==> picture [607 x 313] intentionally omitted <==**
-
-## **Investment = Saving:** 
-
-**An Alternative Way of Thinking About the Goods-Market Equilibrium** 
-
-Saving is the sum of **private savings** plus **public saving** 
-
-- **Private saving** ( **S** ), is saving by consumers 
-
-**==> picture [313 x 24] intentionally omitted <==**
-
-- **Public saving** equals taxes minus government spending 
-
-## _T - G_ Public savings = 
-
-- If _T_ > _G_ , the government is running a **budget surplus** —public saving is positive 
-
-- • If _T_ < _G_ , the government is running a **budget deficit** —public saving is negative 
-
-> Production = Demand _Y_ = _C_ + _I_ + _G Y_ − _C_ − _T_ = _I_ + _G_ − _T_ = − = − 
-
-> Investment = Total savings _I S_ + ( _T G_ ) _S I_ + _G T_ 
-
-Investment = Total savings 
-
-This explains why the equilibrium condition for the goods market is called the **IS** relation 
-
-Put differently, there are 2 ways of stating the condition for equilibrium in goods markets 
-
-**==> picture [262 x 50] intentionally omitted <==**
-
-## **Solving for the equilibrium using I = S** 
-
-## • First, what determines savings? 
-
-**==> picture [293 x 83] intentionally omitted <==**
-
-**==> picture [287 x 28] intentionally omitted <==**
-
-where (1-c1) is the **marginal propensity to save** 
-
-- Thus: **saving** and **consumption decisions** are one and the same: given YD, when consumers have chosen C, they have also chosen S 
-
-## • In equilibrium 
-
-**==> picture [330 x 64] intentionally omitted <==**
-
-## • Rearranging we obtain the same expression for equilibrium output 
-
-**==> picture [266 x 60] intentionally omitted <==**
-
-## **The paradox of saving (or the paradox of thrift)** 
-
-- The paradox of saving is that as people attempt to save more, the result is both a decline in output and unchanged saving 
-
-- Suppose at any given level of Y, people save more, that is, they reduce c0; this increases savings 
-
-- The corresponding decrease in consumption reduces equilibrium output and income; this effect decreases savings 
-
-**==> picture [239 x 59] intentionally omitted <==**
-
-- What is the net effect? We can show that savings do not change since neither investment, nor taxes nor public spending change 
-
-**==> picture [150 x 22] intentionally omitted <==**
-
-## **Is the government omnipotent? A warning** 
-
-Expression for equilibrium output implies that the government can choose G or T to achieve the level of Y it wants. But there are many aspects of reality we have not incorporated into the model: 
-
-- Changing government spending or taxes is not always easy 
-
-- Responses of consumption, investment, imports, … are hard to assess with much certainty 
-
-- Anticipations are likely to matter 
-
-- Achieving a given level of output can come with unpleasant side effects in medium run 
-
-- Budget deficits and public debt may have adverse implications in long run 
-
+## Related Notes
+- [[L4 & L5 The Goods Market]]
+- [[Macroeconomics Exercise Book-228-446]]
+- [[Macroeconomics Exercise Book]]

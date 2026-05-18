@@ -1,853 +1,482 @@
-**Financial Accounting** 12e 
+---
+course: "Financial Accounting 1"
+course_code: "30692"
+tags:
+  - "source"
+  - course_30692
+Title: "Money invested in an interest-bearing account grows over time.  This is referred to as the time value of money."
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## Libby • Libby • Hodge 
+**Financial Accounting** 12e
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Libby - Libby - Hodge
 
-Learning Objectives After studying this chapter, you should be able to: 
+Learning Objectives After studying this chapter, you should be able to:
 
-**9-1** Define, measure, and report current liabilities. 
+**9-1** Define, measure, and report current liabilities.
 
-**9-2** Compute and interpret the accounts payable turnover ratio. **9-3** Report notes payable and explain the time value of money. **9-4** Report contingent liabilities. 
+**9-2** Compute and interpret the accounts payable turnover ratio. **9-3** Report notes payable and explain the time value of money. **9-4** Report contingent liabilities.
 
-**9-5** Explain the importance of working capital and its impact on cash flows. **9-6** Report long-term liabilities. 
+**9-5** Explain the importance of working capital and its impact on cash flows. **9-6** Report long-term liabilities.
 
-**9-7** Compute and explain present values. 
+**9-7** Compute and explain present values.
 
-**9-8** Apply the present value concept to the reporting of long-term liabilities. 
+**9-8** Apply the present value concept to the reporting of long-term liabilities.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Understanding the Business
 
-**9-2** 
+**Businesses finance the acquisition of assets from two external sources: Debt Equity Funds supplied Funds provided from creditors by owners**
 
-## Understanding the Business 
+**The mixture of debt and equity is called capital structure.**
 
-**Businesses finance the acquisition of assets from two external sources: Debt Equity Funds supplied Funds provided from creditors by owners** 
+**From the firm’s perspective, debt is considered riskier than equity. If a company cannot make the required debt payment, creditors can force bankruptcy and require the sale of assets.**
 
-**The mixture of debt and equity is called capital structure.** 
+## Learning Objective 9-1
 
-**From the firm’s perspective, debt is considered riskier than equity. If a company cannot make the required debt payment, creditors can force bankruptcy and require the sale of assets.** 
+**9-1** Define, measure, and report current liabilities.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Liabilities Defined and Classified
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Defined as the probable future sacrifice of economic benefits that arise from past transactions.** These past transactions obligate the company to pay cash to its creditors at some time in the future, and therefore are reported as liabilities on the balance sheet.
 
-**9-3** 
+**Maturity = 1 year or less Maturity > 1 year Current Liabilities Long-Term Liabilities (to be paid with current assets)**
 
-## Learning Objective 9-1 
+**Liabilities are recorded at their current cash equivalent, which is the cash amount a creditor would accept to settle the liability immediately.** _Interest that will be paid in the future is not included in the reported amount of the liability because it accrues and becomes a liability with the passage of time._
 
-**9-1** Define, measure, and report current liabilities. 
+## Exhibit 9.1
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Liability Section of Starbucks’s Balance Sheets
 
-**9-4** 
+## Current Liabilities (1 of 2)
 
-## Liabilities Defined and Classified 
+Many current liabilities have a direct relationship to the operating activities of a business. Below are some examples from Starbucks's balance sheet:
 
-**Defined as the probable future sacrifice of economic benefits that arise from past transactions.** These past transactions obligate the company to pay cash to its creditors at some time in the future, and therefore are reported as liabilities on the balance sheet. 
+## Operating Activity Current Liability
 
-**Maturity = 1 year or less Maturity > 1 year Current Liabilities Long-Term Liabilities (to be paid with current assets)** 
-
-**Liabilities are recorded at their current cash equivalent, which is the cash amount a creditor would accept to settle the liability immediately.** _Interest that will be paid in the future is not included in the reported amount of the liability because it accrues and becomes a liability with the passage of time._ 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-5** 
-
-## Exhibit 9.1 
-
-## Liability Section of Starbucks’s Balance Sheets 
-
-**==> picture [658 x 440] intentionally omitted <==**
-
-**==> picture [45 x 43] intentionally omitted <==**
-
-**==> picture [46 x 43] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**5-6** 
-
-## Current Liabilities (1 of 2) 
-
-Many current liabilities have a direct relationship to the operating activities of a business. Below are some examples from Starbucks's balance sheet: 
-
-## **Operating Activity Current Liability** 
-
-**==> picture [235 x 335] intentionally omitted <==**
-
-**==> picture [109 x 43] intentionally omitted <==**
-
-**==> picture [109 x 43] intentionally omitted <==**
-
-**==> picture [109 x 43] intentionally omitted <==**
-
-**==> picture [109 x 43] intentionally omitted <==**
-
-**==> picture [235 x 341] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-7** 
-
-## Current Liabilities (2 of 2) 
+## Current Liabilities (2 of 2)
 
 |**Account Name**|**Also Called**|**Definition**|
 |---|---|---|
-|Accounts Payable|Trade Accounts<br>Payable|Obligations to pay for goods and<br>services used in the basic operating<br>activities of the business.|
-|Accrued Liabilities|Accrued Expenses|Obligations related to expenses that<br>have been incurred but have not been<br>paid at the end of the accounting<br>period.|
-|Deferred Revenues|Unearned Revenues|Obligations arising when cash is<br>received prior to the related revenue<br>being earned.|
-|Notes Payable|N/A|Obligations supported by a formal<br>written contract.|
+|Accounts Payable|Trade Accounts Payable|Obligations to pay for goods and services used in the basic operating activities of the business.|
+|Accrued Liabilities|Accrued Expenses|Obligations related to expenses that have been incurred but have not been paid at the end of the accounting period.|
+|Deferred Revenues|Unearned Revenues|Obligations arising when cash is received prior to the related revenue being earned.|
+|Notes Payable|N/A|Obligations supported by a formal written contract.|
 
+## Accrued Taxes Payable
 
+Corporations must pay federal taxes on the income they earn. Corporations also may pay state and local income taxes and, in some cases, foreign income taxes.
 
-**==> picture [65 x 560] intentionally omitted <==**
+_The notes to Starbucks’s Annual Report include the following information pertaining to taxes:_
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Accrued Compensation and Related Costs
 
-**9-8** 
+**Unpaid salaries** may be reported as part of a general accrued liability account on the balance sheet or as a separate item.
 
-## Accrued Taxes Payable 
+**Benefits** refer to items that employees have earned during the reporting period but have not taken or been paid, such as:
 
-Corporations must pay federal taxes on the income they earn. Corporations also may pay state and local income taxes and, in some cases, foreign income taxes. 
+- retirement programs
 
-_The notes to Starbucks’s Annual Report include the following information pertaining to taxes:_ 
+- vacation time
 
-**==> picture [632 x 266] intentionally omitted <==**
+- health insurance
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Payroll Taxes
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Payrolls are subject to a variety of taxes, including federal, state, and local income taxes;
+- Social Security taxes; and federal and state unemployment taxes. Employees pay some of these taxes and employers pay others.
 
-**9-9** 
+**Gross payroll Less:**
 
-## Accrued Compensation and Related Costs 
+**Employee portion of FICA tax (Social Security & Medicare) Federal income tax withheld State and local income taxes withheld**
 
-**Unpaid salaries** may be reported as part of a general accrued liability account on the balance sheet or as a separate item. 
+**= Net Payroll paid to employees**
 
-**Benefits** refer to items that employees have earned during the reporting period but have not taken or been paid, such as: 
+Employers also pay FICA taxes and are charged unemployment taxes through the Federal Unemployment Tax Act (FUTA) and State Unemployment Tax Acts (SUTA).
 
-- retirement programs 
+## Deferred Revenues
 
-- vacation time 
+- Are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period.
 
-- health insurance 
+- The obligation to provide a product or service in the future still exists.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- Are classified as current or long term, depending on when a company expects to provide the product or service.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Starbucks, Inc., financial statement note:
 
-**9-10** 
+## Using mobile app data to understand customer behavior
 
-## Payroll Taxes 
+- **Starbucks** collects and analyzes data from customers using their .
 
-Payrolls are subject to a variety of taxes, including federal, state, and local income taxes; Social Security taxes; and federal and state unemployment taxes. Employees pay some of these taxes and employers pay others. 
+- **mobile app**
 
-**Gross payroll Less:** 
+- Starbucks uses artificial intelligence software to analyze how a customer’s purchase history is associated with things like geographic location, weather, day of the week, and time of the day.
 
-**Employee portion of FICA tax (Social Security & Medicare) Federal income tax withheld State and local income taxes withheld** 
+- Starbucks uses output of this analysis to decide:
 
-**= Net Payroll paid to employees** 
+- what products to emphasize in a given geographic location
 
-Employers also pay FICA taxes and are charged unemployment taxes through the Federal Unemployment Tax Act (FUTA) and State Unemployment Tax Acts (SUTA). 
+- when to push information about these products to customers
 
-**==> picture [65 x 560] intentionally omitted <==**
+- where to locate new stores
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Learning Objective 9-2
 
-**9-11** 
+**9-2** Compute and interpret the accounts payable turnover ratio.
 
-## Deferred Revenues 
+## Accounts Payable Turnover
 
-- Are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period. 
+**Accounts Payable  =  Cost of Goods  ÷ Average Accounts Turnover Sold Payable** Measures how quickly management is paying its suppliers. A high accounts payable ratio normally suggests that a company is paying its suppliers in a timely manner. The 2023 accounts payable turnover ratio for **Starbucks** was 7.64.
 
-- The obligation to provide a product or service in the future still exists. 
+The ratio is more intuitive by dividing it into the number of days in a year: **Average Days to pay payables  =  365 Days  ÷ Accounts Payable Turnover Ratio**
 
-- Are classified as current or long term, depending on when a company expects to provide the product or service. 
+## Learning Objective 9-3
 
-## Starbucks, Inc., financial statement note: 
+**9-3** Report notes payable and explain the time value of money
 
-**==> picture [586 x 169] intentionally omitted <==**
+## Notes Payable
 
-**==> picture [65 x 560] intentionally omitted <==**
+A note payable is a formal written contract that specifies:
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- The amount borrowed
 
-**9-12** 
+- The repayment date
 
-**==> picture [65 x 560] intentionally omitted <==**
+- The annual interest rate associated with the borrowing
 
-## Using mobile app data to understand customer behavior 
+Banks and other creditors are willing to lend cash because they will earn interest in return. Earning interest by loaning money to others reflects the **time** . **value of money** ^bp3gu7
 
-**==> picture [497 x 62] intentionally omitted <==**
+- To the **borrower** , interest reflects the cost of using .
 
-- **Starbucks** collects and analyzes data from customers using their . 
+- someone else’s money and is therefore an **expense**
 
-- **mobile app** 
+- To **lenders** , interest reflects the benefit of allowing someone else to use their money and is therefore **revenue** .
 
-- Starbucks uses artificial intelligence software to analyze how a customer’s purchase history is associated with things like geographic location, weather, day of the week, and time of the day. 
+## Notes Payable, illustration (1 of 4)
 
-- Starbucks uses output of this analysis to decide: 
+Assume that on November 1, a company with a December 31 fiscal year-end borrows $100,000 cash for six months.
 
-   - what products to emphasize in a given geographic location 
+- The annual interest rate is 12%.
 
-   - when to push information about these products to customers 
+- The principal and interest is payable on April 30 of the following year.
 
-   - where to locate new stores 
+- On November 1, the note is recorded in the accounts as follows:
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Notes Payable, illustration (2 of 4)
 
-**9-13** 
+- Interest is an expense incurred when companies borrow money.
 
-## Learning Objective 9-2 
+- Companies record interest expense for a given accounting period, regardless of when they actually pay the bank cash for interest.
 
-**9-2** Compute and interpret the accounts payable turnover ratio. 
+## Notes Payable, illustration (3 of 4)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- By the end of the fiscal year, December 31, the company incurred two months of interest calculated as follows:
 
-**9-14** 
+- The 12/31 entry to record interest expense and interest payable for the two months is:
 
-## Accounts Payable Turnover 
+## Notes Payable, illustration (4 of 4)
 
-**==> picture [559 x 66] intentionally omitted <==**
+- On April 30, the company has incurred an additional four months of interest expense for the period January–April. The entry to record the interest and liability is:
 
-**Accounts Payable  =  Cost of Goods  ÷ Average Accounts Turnover Sold Payable** Measures how quickly management is paying its suppliers. A high accounts payable ratio normally suggests that a company is paying its suppliers in a timely manner. The 2023 accounts payable turnover ratio for **Starbucks** was 7.64. 
+- Also on April 30, the company pays the bank $6,000 cash for six months of interest **and** pays back the principal since the loan was a six-month loan. The cash payment for interest consists of the $2,000 of interest owed for November and December, plus the $4,000 of interest owed for January–April. Another entry is made to record the payment of principal and interest:
 
-**==> picture [279 x 120] intentionally omitted <==**
+## Current Portion of Long-Term Debt
 
-**==> picture [350 x 120] intentionally omitted <==**
+To provide accurate information on how much of its long-term debt is due in the current year, a company must reclassify its long-term debt as a current liability within a year of its maturity date.
 
-The ratio is more intuitive by dividing it into the number of days in a year: **Average Days to pay payables  =  365 Days  ÷ Accounts Payable Turnover Ratio** 
+Starbucks expects to pay $1,818.6 million of its long-term debt in the current year. The remaining $13,547.6 million is due sometime after the current year.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+In the footnotes to its 2023 Annual Report, Starbucks explains that its longterm debt consists of notes that mature on various dates out to 2050.
 
-**5-15** 
+## Refinancing Debt: Current or Long-Term Liability?
 
-## Learning Objective 9-3 
+- Instead of paying off a loan, a company may choose to refinance by renegotiating the loan or by taking out a new loan and using the proceeds to pay off the old loan.
 
-**9-3** Report notes payable and explain the time value of money 
+- If a company intends to refinance a currently maturing loan with a new _**long-term**_ loan and has the ability to do so, the current loan should be classified as a long-term liability.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- It is not a current liability because current liabilities are shortterm obligations that are expected to be paid with current assets within the current operating cycle or one year, whichever is longer.
 
-**9-16** 
+## Learning Objective 9-4
 
-**==> picture [65 x 560] intentionally omitted <==**
+**9-4** Report contingent liabilities.
 
-## Notes Payable 
+## Contingent Liabilities (1 of 2)
 
-A note payable is a formal written contract that specifies: 
+- Some recorded liabilities are based on **estimates** because the exact amount will not be known until a future date.
 
-- The amount borrowed 
+- For example, a contingent liability is created when a company offers a warranty with a product it sells.
 
-- The repayment date 
+- The cost of providing future repair work must be estimated and recorded as a liability (and expense) in the period in which the product is sold.
 
-- The annual interest rate associated with the borrowing 
+Assume a company estimates that it will have to provide $150,000 of warranty services to customers. The company would record the following warranty liability and expense:
 
-Banks and other creditors are willing to lend cash because they will earn interest in return. Earning interest by loaning money to others reflects the **time** . **value of money** 
+Later, when the company provides warranty services, the company would reduce the liability and either refund the customer cash or repair the product.
 
-- To the **borrower** , interest reflects the cost of using . 
+## Contingent Liabilities (1 of 2)
 
-- someone else’s money and is therefore an **expense** 
+- Liabilities are reported on the balance sheet because they involve the **probable** future sacrifice of economic benefits.
 
-- To **lenders** , interest reflects the benefit of allowing someone else to use their money and is therefore **revenue** . 
+- Some transactions only have a reasonably **possible** (but not probable) future sacrifice of economic benefits. These situations create contingent liabilities that are reported in the **footnotes** , but not on a company’s balance sheet.
 
-**==> picture [692 x 47] intentionally omitted <==**
+The probabilities of occurrence are defined in the following manner:
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- Probable—The future event or events are likely to occur.
 
-**9-17** 
+- Reasonably possible—The chance of the future event or events occurring is more than remote but less than likely.
 
-## Notes Payable, illustration (1 of 4) 
+- Remote—The chance of the future event or events occurring is slight.
 
-Assume that on November 1, a company with a December 31 fiscal year-end borrows $100,000 cash for six months. 
+## International Perspective: It’s a Matter of Degree
 
-- The annual interest rate is 12%. 
+The assessment of future probabilities is inherently subjective, but both U.S. GAAP and IFRS provide some guidance.
 
-- The principal and interest is payable on April 30 of the following year. 
+GAAP defines “probable” as IFRS defines “probable” as _likely to occur. more likely than not to occur._ _**> 70% > 50%**_
 
-- On November 1, the note is recorded in the accounts as follows: 
+For some contingent liabilities, IFRS would require the reporting of a liability on the balance sheet, whereas GAAP would simply require footnote disclosure.
 
-**==> picture [632 x 99] intentionally omitted <==**
+## Learning Objective 9-5
 
-**==> picture [651 x 72] intentionally omitted <==**
+**9-5** Explain the importance of working capital and its impact on cash flows.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Working Capital Management
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+A company has **liquidity** if it has the ability to pay current obligations. _Liquidity can be measured using the current ratio and the dollar amount of working capital._
 
-**9-18** 
+**Working Capital  =  Current Assets  −  Current Liabili�es** _Working capital, the dollar difference between current assets and current liabilities, has a significant impact on the health and profitability of the company._
 
-## Notes Payable, illustration (2 of 4) 
+Changes in working capital accounts are important to managers and analysts because they have a direct impact on the cash flows from operating activities reported on the statement of cash flows.
 
-**==> picture [738 x 401] intentionally omitted <==**
+## Working Capital and Cash Flows
 
-- Interest is an expense incurred when companies borrow money. 
+- Many working capital accounts have a direct relationship to incomeproducing activities. For example:
 
-- Companies record interest expense for a given accounting period, regardless of when they actually pay the bank cash for interest. 
+- Accounts receivable increase when sales are made on credit. Cash is collected when customers pay their bills.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- Accounts payable increase when inventory is purchased on credit.  A cash outflow occurs when the account is paid.
 
-**9-19** 
+- Changes in working capital accounts that are related to incomeproducing activities must be considered when computing cash flows from operating activities using the indirect method.
 
-## Notes Payable, illustration (3 of 4) 
+## Learning Objective 9-6
 
-##  By the end of the fiscal year, December 31, the company incurred two months of interest calculated as follows: 
+**9-6** Report long-term liabilities.
 
-**==> picture [612 x 77] intentionally omitted <==**
+## Long-Term Liabilities
 
-##  The 12/31 entry to record interest expense and interest payable for the two months is: 
+Long-term liabilities include all obligations not classified as current liabilities, such as long-term notes payable and bonds payable. Most companies borrow money on a long-term basis in order to purchase long-term assets, such as property or equipment.
 
-**==> picture [628 x 90] intentionally omitted <==**
+**Maturity = 1 year or less Current Liabilities**
 
-**==> picture [564 x 53] intentionally omitted <==**
+**Maturity > 1 year Long-Term Liabilities**
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Secured debt:** when creditors require the borrower to pledge specific assets as security for long-term liabilities. **Unsecured debt**: when the lender relies on the borrower’s integrity and general earning power to repay the loan.
 
-## Notes Payable, illustration (4 of 4) 
+## Long-Term Notes Payable and Bonds
 
- On April 30, the company has incurred an additional four months of interest expense for the period January–April. The entry to record the interest and liability is: 
+Companies can raise capital from a number of financial service organizations in a **private placement** (notes payable). **Banks Insurance Companies**
 
-**==> picture [514 x 49] intentionally omitted <==**
+**Pension Plans**
 
-- Also on April 30, the company pays the bank $6,000 cash for six months of interest **and** pays back the principal since the loan was a six-month loan. The cash payment for interest consists of the $2,000 of interest owed for November and December, plus the $4,000 of interest owed for January–April. Another entry is made to record the payment of principal and interest: 
+If a company needs more capital than any single bank or creditor can provide, the company may issue **publicly traded** bonds to the public (bonds payable).
 
-**==> picture [537 x 101] intentionally omitted <==**
+## Borrowing in Foreign Currencies (1 of 2)
 
-**==> picture [523 x 63] intentionally omitted <==**
+Corporations with foreign operations may elect to finance those operations with foreign debt to lessen exchange rate risk.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- Exchange rate risk exists because the relative value of each nation’s currency varies on a daily basis.
 
-## Current Portion of Long-Term Debt 
+In attempting to mitigate exchange rate risk, **Starbucks** states the following in the footnotes to its 2023 Annual Report:
 
-To provide accurate information on how much of its long-term debt is due in the current year, a company must reclassify its long-term debt as a current liability within a year of its maturity date. 
+## Borrowing in Foreign Currencies (2 of 2)
 
-Starbucks expects to pay $1,818.6 million of its long-term debt in the current year. The remaining $13,547.6 million is due sometime after the current year. 
+For reporting purposes, accountants must convert, or translate, foreign debt into U.S. dollars at the end of the accounting period in order to report the debt on a U.S. company’s balance sheet.
 
-**==> picture [559 x 118] intentionally omitted <==**
+**Starbucks** discusses this conversion in its footnotes to its 2023 Annual Report:
 
-In the footnotes to its 2023 Annual Report, Starbucks explains that its longterm debt consists of notes that mature on various dates out to 2050. 
+## Lease Liabilities (1 of 4)
 
-**==> picture [65 x 560] intentionally omitted <==**
+- Companies often lease assets rather than purchase them.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- When a company leases an asset, it enters into a contractual agreement with the owner of the asset.
 
-**9-22** 
+- For accounting purposes, a lessee can lease an asset by signing either a short-term lease (12 months or less) or a longer-term lease.
 
-## Refinancing Debt: Current or Long-Term Liability? 
+- Longer-term leases are more common and are classified as
 
-**==> picture [524 x 60] intentionally omitted <==**
+- either **finance leases** or **operating leases** depending on whether effective control of the leased asset remains with the lessor or is transferred to the lessee.
 
-- Instead of paying off a loan, a company may choose to refinance by renegotiating the loan or by taking out a new loan and using the proceeds to pay off the old loan. 
+**Lessor**: Party that owns the asset **Lessee**: Party that pays for the right to use the asset
 
-- If a company intends to refinance a currently maturing loan with a new _**long-term**_ loan and has the ability to do so, the current loan should be classified as a long-term liability. 
+_We focus on accounting for leases from the lessee’s perspective._
 
-- It is not a current liability because current liabilities are shortterm obligations that are expected to be paid with current assets within the current operating cycle or one year, whichever is longer. 
+## Lease Liabilities (2 of 4)
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Classifying longer-term lease as **finance lease** or an **operating lease**:
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Classify as **Finance Lease** if lease meets of the finance lease **any** criteria. _**Effective control has been transferred to the lessee.**_
 
-**9-23** 
+if **none** Classify as **Operating Lease** of the Finance Lease Criteria are met. _**Lessor maintains effective control of the asset.**_
 
-## Learning Objective 9-4 
+## Finance Lease Criteria
 
-**9-4** Report contingent liabilities. 
+a. The lease transfers ownership of the underlying asset to the lessee by the end of the lease term.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+b. The lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
 
-**9-24** 
+c. The lease term is for the major part of the remaining economic life of the underlying asset. . . .
 
-## Contingent Liabilities (1 of 2) 
+d. The present value of the sum of the lease payments and any residual value guaranteed by the lessee . . . equals or exceeds substantially all of the fair value of the underlying asset.
 
-- Some recorded liabilities are based on **estimates** because the exact amount will not be known until a future date. 
+e. The underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term.
 
-- For example, a contingent liability is created when a company offers a warranty with a product it sells. 
+## Lease Liabilities (3 of 4)
 
-- The cost of providing future repair work must be estimated and recorded as a liability (and expense) in the period in which the product is sold. 
+## The accounting to initially record a finance lease or operating lease is the same.
 
-Assume a company estimates that it will have to provide $150,000 of warranty services to customers. The company would record the following warranty liability and expense: 
+- Record a **lease asset** and **lease liability** upon signing the lease.
 
-**==> picture [569 x 127] intentionally omitted <==**
+- The amount recognized is the **current cash equivalent** of the required future lease payments.
 
-Later, when the company provides warranty services, the company would reduce the liability and either refund the customer cash or repair the product. 
+- Accountants calculate “present value” of the lease payments to use as the current cash equivalent.
 
-**==> picture [65 x 560] intentionally omitted <==**
+Assume that **Starbucks** signs a four-year lease for a new delivery truck and that the current cash equivalent of the lease is $250,000.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Accounting for the lease over its life differs depending on whether the lease is a finance lease or an operating lease.
 
-**9-25** 
+## Lease Liabilities (4 of 4)
 
-## Contingent Liabilities (1 of 2) 
+## Short term leases:
 
-- Liabilities are reported on the balance sheet because they involve the **probable** future sacrifice of economic benefits. 
+A **short-term lease** is a lease for 12 months or less (including expected renewals and extensions) that does not contain a purchase option that the lessee is expected to exercise.
 
-- Some transactions only have a reasonably **possible** (but not probable) future sacrifice of economic benefits. These situations create contingent liabilities that are reported in the **footnotes** , but not on a company’s balance sheet. 
+- No lease asset or lease liability is recorded.
 
-**==> picture [630 x 88] intentionally omitted <==**
+- Lessee records lease expense over the life of the lease.
 
-The probabilities of occurrence are defined in the following manner: 
+Assume that on December 31, Starbucks signs a short-term lease agreement to rent delivery trucks for the month of January. The agreement stipulates that Starbucks must pay $10,000 at the end of January.
 
-- Probable—The future event or events are likely to occur. 
+- No entry is recorded at the time the lease is signed on December 31.
 
-- Reasonably possible—The chance of the future event or events occurring is more than remote but less than likely. 
+- The only entry recorded comes at the end of January.
 
-- Remote—The chance of the future event or events occurring is slight. 
+## Learning Objective 9-7
 
-**==> picture [65 x 560] intentionally omitted <==**
+**9-7** Compute and explain present values.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Present Value Concepts
 
-**9-26** 
+**$1,000 invested today at 10 percent.**
 
-**==> picture [65 x 560] intentionally omitted <==**
+**In five years, it will be worth $1,610!**
 
-## International Perspective: It’s a Matter of Degree 
+**In one year, it will be worth $1,100.**
 
-**==> picture [557 x 67] intentionally omitted <==**
+# Money invested in an interest-bearing account grows over time.  This is referred to as the time value of money.
 
-The assessment of future probabilities is inherently subjective, but both U.S. GAAP and IFRS provide some guidance. 
+The time value of money plays an important role in how companies report long-term liabilities, such as long-term notes and bonds.
 
-GAAP defines “probable” as IFRS defines “probable” as _likely to occur. more likely than not to occur._ _**> 70% > 50%**_ 
+## Future Value of a Single Amount
 
-For some contingent liabilities, IFRS would require the reporting of a liability on the balance sheet, whereas GAAP would simply require footnote disclosure. 
+If you deposited $100 today in a savings account that earns 10% interest, how much would you have after one year?
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Answer: $110
 
-**9-27** 
+## Present Value of a Single Amount (1 of 3)
 
-## Learning Objective 9-5 
+If you needed $110 in one year, how much would you need to deposit in a savings account today if the savings account earns 10% interest?
 
-**9-5** Explain the importance of working capital and its impact on cash flows. 
+Answer: $100
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Present Value of a Single Amount (2 of 3)
 
-**9-28** 
+While the formula is not difficult to use, most analysts use present value tables, calculators, or Excel.
 
-## Working Capital Management 
+While the formula is not difficult to use, **most analysts use present value tables, calculators, or Excel.**
 
-A company has **liquidity** if it has the ability to pay current obligations. _Liquidity can be measured using the current ratio and the dollar amount of working capital._ 
+## Present Value of a Single Amount (3 of 3)
 
-**Working Capital  =  Current Assets  −  Current Liabili�es** _Working capital, the dollar difference between current assets and current liabilities, has a significant impact on the health and profitability of the company._ 
+Assume that you need to make a $1,000 cash payment in three years. At an interest rate of 10% per year, how much would you need to deposit today to have exactly $1,000 at the end of three years?
 
-Changes in working capital accounts are important to managers and analysts because they have a direct impact on the cash flows from operating activities reported on the statement of cash flows. 
+a.  $1,000.00
 
-**==> picture [65 x 560] intentionally omitted <==**
+b.  $   990.00 c.  $   751.31 d.  $   970.00
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Solve using the present value tables: The future amount is $1,000.**
 
-**9-29** 
+- _**i**_ **= 10% &** _**n**_ **= 3 years**
 
-## Working Capital and Cash Flows 
+**Using the Present Value of $1 table, the factor is 0.75131. $1,000  × 0.75131  =  $751.31**
 
-**==> picture [567 x 67] intentionally omitted <==**
+**Solve using the table, calculator, or excel using these inputs:**
 
-- Many working capital accounts have a direct relationship to incomeproducing activities. For example: 
+## Exhibit 9.2
 
-   - Accounts receivable increase when sales are made on credit. Cash is collected when customers pay their bills. 
+## How a Deposit Grows to $1,000
 
-   - Accounts payable increase when inventory is purchased on credit.  A cash outflow occurs when the account is paid. 
+## Present Value of an Annuity (1 of 2)
 
-- Changes in working capital accounts that are related to incomeproducing activities must be considered when computing cash flows from operating activities using the indirect method. 
+**An annuity is a series of consecutive payments:**
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**1. An equal dollar amount each period**
 
-**9-30** 
+**2. Interest periods of equal length (e.g., a year, half a year, quarterly, or monthly)**
 
-## Learning Objective 9-6 
+**3. The same interest rate each period.**
 
-**9-6** Report long-term liabilities. 
+## Present Value of an Annuity (2 of 2)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+Assume you purchase a piece of equipment and agree to pay $1,000 cash each December 31 for three years. How much would you need to deposit today at an annual interest rate of 10% to make each $1,000 payment? a.  $3,000.00 b.  $2,910.00 c.  $2,700.00 d.  $2,486.85
 
-**9-31** 
+## Solve using the table, calculator, or excel using these inputs:
 
-## Long-Term Liabilities 
+## Illustration of an Annuity over Time
 
-Long-term liabilities include all obligations not classified as current liabilities, such as long-term notes payable and bonds payable. Most companies borrow money on a long-term basis in order to purchase long-term assets, such as property or equipment. 
+Assume you purchase a piece of equipment and agree to pay $1,000 cash each December 31 for three years. How much would you need to deposit today at an annual interest rate of 10% to make each $1,000 payment? The amount of the deposit, which is the present value of the annuity, is $2,486.85.
 
-**Maturity = 1 year or less Current Liabilities** 
+The following chart shows the balance in the account as the $1,000 payment is made each year:
 
-**Maturity > 1 year Long-Term Liabilities** 
+## Interest Rates and Interest Periods
 
-**Secured debt:** when creditors require the borrower to pledge specific assets as security for long-term liabilities. **Unsecured debt** : when the lender relies on the borrower’s integrity and general earning power to repay the loan. 
+The previous examples assumed annual compounding and discounting. Although interest rates are almost always quoted on an annual basis, most compounding periods encountered in business are less than one year. When interest periods are less than a year, **the values of** _**n**_ **and** _**i**_ **must be** . **adjusted to be consistent with the length of the interest period**
 
-**==> picture [65 x 560] intentionally omitted <==**
+Example A: Calculate the present value assuming a 12 percent annual interest rate **compounded annually** for five years.  What is n and i? **n = 5 i = 12%.** Example B: Calculate the present value assuming a 12 percent annual interest rate **compounded quarterly** for five years. What is n and i? **n = 20  (four periods * 5 years) i = 3% (one-quarter of the annual rate or 12% * ¾)** _The interest period is one-quarter of a year (i.e., four periods per year), and the quarterly interest rate is one-quarter of the annual rate (i.e., 3 percent per quarter)._
+*(See also: [[Accounting 1 Blab Handout 2024-2025 A.Y.#^7d34wt]])*
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Truth in Advertising
 
-**9-32** 
+- Online and television advertisements are easy to misinterpret if the consumer does not understand the time value of money.
 
-## Long-Term Notes Payable and Bonds 
+- Advertisements often promise “No payments for one year!” But “no payments” does not mean “no interest.” In almost all cases, during the “no payments” year, interest is accruing (being added to the amount owed).
 
-Companies can raise capital from a number of financial service organizations in a **private placement** (notes payable). **Banks Insurance Companies** 
+- Another misleading advertisement relates to lotteries, which often promise to make winners instant millionaires. If the winner is paid $1,000,000 over 40 years ($25,000 per year) the present value of this annuity at 8% is only $298,000.
 
-**Pension Plans** 
+## Learning Objective 9-8
 
-If a company needs more capital than any single bank or creditor can provide, the company may issue **publicly traded** bonds to the public (bonds payable). 
+**9-8** Apply the present value concept to the reporting of long-term liabilities.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Accounting Applications of Present Values (1 of 4)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+- On January 1, 2025, **Starbucks** bought new delivery trucks by signing a note and agreeing to pay $200,000 on December 31, 2026.
 
-**9-33** 
+- This note is a “non-interest-bearing-note” because no interest payments are required over the life of the note. The interest is built into the final payment.
 
-## Borrowing in Foreign Currencies (1 of 2) 
+- Assume that the annual market interest rate applicable to the note is 12%.
 
-Corporations with foreign operations may elect to finance those operations with foreign debt to lessen exchange rate risk. 
+- - **Compute the present value of the single amount to be paid in the future:** $200,000 × 0.79719 = $159,438
 
- Exchange rate risk exists because the relative value of each nation’s currency varies on a daily basis. 
+## Accounting Applications of Present Values (2 of 4)
 
-In attempting to mitigate exchange rate risk, **Starbucks** states the following in the footnotes to its 2023 Annual Report: 
+## Record the purchase of the delivery truck.
 
-**==> picture [589 x 166] intentionally omitted <==**
+**At the end of each year, record the implied interest expense. Interest for 2025 is calculated as follows:** $159,438 × 0.12 = $19,133
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Accounting Applications of Present Values (3 of 4)
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Interest for 2026 is calculated as follows:
 
-**9-34** 
-
-## Borrowing in Foreign Currencies (2 of 2) 
-
-For reporting purposes, accountants must convert, or translate, foreign debt into U.S. dollars at the end of the accounting period in order to report the debt on a U.S. company’s balance sheet. 
-
-**Starbucks** discusses this conversion in its footnotes to its 2023 Annual Report: 
-
-**==> picture [654 x 166] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**9-35** 
-
-## Lease Liabilities (1 of 4) 
-
-- Companies often lease assets rather than purchase them. 
-
-- When a company leases an asset, it enters into a contractual agreement with the owner of the asset. 
-
-- For accounting purposes, a lessee can lease an asset by signing either a short-term lease (12 months or less) or a longer-term lease. 
-
-   - Longer-term leases are more common and are classified as 
-
-      - either **finance leases** or **operating leases** depending on whether effective control of the leased asset remains with the lessor or is transferred to the lessee. 
-
-**Lessor** : Party that owns the asset **Lessee** : Party that pays for the right to use the asset 
-
-_We focus on accounting for leases from the lessee’s perspective._ 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-36** 
-
-## Lease Liabilities (2 of 4) 
-
-## Classifying longer-term lease as **finance lease** or an **operating lease** : 
-
-Classify as **Finance Lease** if lease meets of the finance lease **any** criteria. _**Effective control has been transferred to the lessee.**_ 
-
-if **none** Classify as **Operating Lease** of the Finance Lease Criteria are met. _**Lessor maintains effective control of the asset.**_ 
-
-## **Finance Lease Criteria** 
-
-a. The lease transfers ownership of the underlying asset to the lessee by the end of the lease term. 
-
-b. The lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise. 
-
-c. The lease term is for the major part of the remaining economic life of the underlying asset. . . . 
-
-d. The present value of the sum of the lease payments and any residual value guaranteed by the lessee . . . equals or exceeds substantially all of the fair value of the underlying asset. 
-
-e. The underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-37** 
-
-## Lease Liabilities (3 of 4) 
-
-## **The accounting to initially record a finance lease or operating lease is the same.** 
-
-- Record a **lease asset** and **lease liability** upon signing the lease. 
-
-- The amount recognized is the **current cash equivalent** of the required future lease payments. 
-
-- Accountants calculate “present value” of the lease payments to use as the current cash equivalent. 
-
-Assume that **Starbucks** signs a four-year lease for a new delivery truck and that the current cash equivalent of the lease is $250,000. 
-
-**==> picture [653 x 147] intentionally omitted <==**
-
-Accounting for the lease over its life differs depending on whether the lease is a finance lease or an operating lease. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-38** 
-
-## Lease Liabilities (4 of 4) 
-
-## **Short term leases:** 
-
-A **short-term lease** is a lease for 12 months or less (including expected renewals and extensions) that does not contain a purchase option that the lessee is expected to exercise. 
-
-- No lease asset or lease liability is recorded. 
-
-- Lessee records lease expense over the life of the lease. 
-
-Assume that on December 31, Starbucks signs a short-term lease agreement to rent delivery trucks for the month of January. The agreement stipulates that Starbucks must pay $10,000 at the end of January. 
-
-- No entry is recorded at the time the lease is signed on December 31. 
-
-- The only entry recorded comes at the end of January. 
-
-**==> picture [658 x 148] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-39** 
-
-## Learning Objective 9-7 
-
-**9-7** Compute and explain present values. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-40** 
-
-## Present Value Concepts 
-
-**$1,000 invested today at 10 percent.** 
-
-**In five years, it will be worth $1,610!** 
-
-**In one year, it will be worth $1,100.** 
-
-# **Money invested in an interest-bearing account grows over time.  This is referred to as the time value of money.** 
-
-The time value of money plays an important role in how companies report long-term liabilities, such as long-term notes and bonds. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-41** 
-
-## Future Value of a Single Amount 
-
-If you deposited $100 today in a savings account that earns 10% interest, how much would you have after one year? 
-
-**==> picture [683 x 202] intentionally omitted <==**
-
-Answer: $110 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-42** 
-
-## Present Value of a Single Amount (1 of 3) 
-
-If you needed $110 in one year, how much would you need to deposit in a savings account today if the savings account earns 10% interest? 
-
-**==> picture [669 x 183] intentionally omitted <==**
-
-Answer: $100 
-
-**==> picture [249 x 160] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-43** 
-
-## Present Value of a Single Amount (2 of 3) 
-
-While the formula is not difficult to use, most analysts use present value tables, calculators, or Excel. 
-
-**==> picture [314 x 68] intentionally omitted <==**
-
-While the formula is not difficult to use, **most analysts use present value tables, calculators, or Excel.** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-44** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Present Value of a Single Amount (3 of 3) 
-
-Assume that you need to make a $1,000 cash payment in three years. At an interest rate of 10% per year, how much would you need to deposit today to have exactly $1,000 at the end of three years? 
-
-a.  $1,000.00 
-
-b.  $   990.00 c.  $   751.31 d.  $   970.00 
-
-**Solve using the present value tables: The future amount is $1,000.** 
-
-- _**i**_ **= 10% &** _**n**_ **= 3 years** 
-
-**Using the Present Value of $1 table, the factor is 0.75131. $1,000  × 0.75131  =  $751.31** 
-
-**Solve using the table, calculator, or excel using these inputs:** 
-
-**==> picture [528 x 129] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-45** 
-
-## Exhibit 9.2 
-
-## How a Deposit Grows to $1,000 
-
-**==> picture [762 x 261] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-46** 
-
-## Present Value of an Annuity (1 of 2) 
-
-**An annuity is a series of consecutive payments:** 
-
-**1. An equal dollar amount each period** 
-
-**2. Interest periods of equal length (e.g., a year, half a year, quarterly, or monthly)** 
-
-**3. The same interest rate each period.** 
-
-**==> picture [754 x 299] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-47** 
-
-## Present Value of an Annuity (2 of 2) 
-
-Assume you purchase a piece of equipment and agree to pay $1,000 cash each December 31 for three years. How much would you need to deposit today at an annual interest rate of 10% to make each $1,000 payment? a.  $3,000.00 b.  $2,910.00 c.  $2,700.00 d.  $2,486.85 
-
-## **Solve using the table, calculator, or excel using these inputs:** 
-
-**==> picture [564 x 126] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-48** 
-
-## Illustration of an Annuity over Time 
-
-Assume you purchase a piece of equipment and agree to pay $1,000 cash each December 31 for three years. How much would you need to deposit today at an annual interest rate of 10% to make each $1,000 payment? The amount of the deposit, which is the present value of the annuity, is $2,486.85. 
-
-The following chart shows the balance in the account as the $1,000 payment is made each year: 
-
-**==> picture [704 x 261] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-49** 
-
-## Interest Rates and Interest Periods 
-
-The previous examples assumed annual compounding and discounting. Although interest rates are almost always quoted on an annual basis, most compounding periods encountered in business are less than one year. When interest periods are less than a year, **the values of** _**n**_ **and** _**i**_ **must be** . **adjusted to be consistent with the length of the interest period** 
-
-Example A: Calculate the present value assuming a 12 percent annual interest rate **compounded annually** for five years.  What is n and i? **n = 5 i = 12%.** Example B: Calculate the present value assuming a 12 percent annual interest rate **compounded quarterly** for five years. What is n and i? **n = 20  (four periods * 5 years) i = 3% (one-quarter of the annual rate or 12% * ¾)** _The interest period is one-quarter of a year (i.e., four periods per year), and the quarterly interest rate is one-quarter of the annual rate (i.e., 3 percent per quarter)._ 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-50** 
-
-## Truth in Advertising 
-
-**==> picture [498 x 59] intentionally omitted <==**
-
-- Online and television advertisements are easy to misinterpret if the consumer does not understand the time value of money. 
-
-- Advertisements often promise “No payments for one year!” But “no payments” does not mean “no interest.” In almost all cases, during the “no payments” year, interest is accruing (being added to the amount owed). 
-
-- Another misleading advertisement relates to lotteries, which often promise to make winners instant millionaires. If the winner is paid $1,000,000 over 40 years ($25,000 per year) the present value of this annuity at 8% is only $298,000. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**9-51** 
-
-## Learning Objective 9-8 
-
-**9-8** Apply the present value concept to the reporting of long-term liabilities. 
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-52** 
-
-## Accounting Applications of Present Values (1 of 4) 
-
-- On January 1, 2025, **Starbucks** bought new delivery trucks by signing a note and agreeing to pay $200,000 on December 31, 2026. 
-
-- This note is a “non-interest-bearing-note” because no interest payments are required over the life of the note. The interest is built into the final payment. 
-
-- Assume that the annual market interest rate applicable to the note is 12%. 
-
-- • **Compute the present value of the single amount to be paid in the future:** $200,000 × 0.79719 = $159,438 
-
-**==> picture [645 x 147] intentionally omitted <==**
-
-**==> picture [492 x 134] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-53** 
-
-## Accounting Applications of Present Values (2 of 4) 
-
-## **Record the purchase of the delivery truck.** 
-
-**==> picture [641 x 161] intentionally omitted <==**
-
-**At the end of each year, record the implied interest expense. Interest for 2025 is calculated as follows:** $159,438 × 0.12 = $19,133 
-
-**==> picture [631 x 191] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-54** 
-
-## Accounting Applications of Present Values (3 of 4) 
-
-## **Interest for 2026 is calculated as follows:** 
-
-$159,438 + $19,133 = $178,571 _Note payable balance at 12/31/2025_ . $178,571 × 0.12 = $21,429 _Interest expense for 2026._ 
-
-**==> picture [646 x 184] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-55** 
-
-## Accounting Applications of Present Values (4 of 4) 
+## Accounting Applications of Present Values (4 of 4)
 
 |**Initial loan balance**|$ 159,438|
 |---|---|
@@ -855,192 +484,68 @@ $159,438 + $19,133 = $178,571 _Note payable balance at 12/31/2025_ . $178,571 ×
 |Interest added 12/31/2026|21,429|
 |**Loan balance at end of loan**|$ 200,000|
 
+## At the end of two years (12/31/2026), repay the loan amount.
 
+## Computing the Amount of a Liability with an Annuity (1 of 4)
 
-## **At the end of two years (12/31/2026), repay the loan amount.** 
+On 1/1/2025, Starbucks purchased espresso machines with a note payable to be paid off in three end-of-year payments of $163,685. Each payment includes principal plus interest on any unpaid balance. The annual interest rate is 11%. What is the present value of this annuity? a.  $399,999 b.  $407,060 Compute the present value with i=11%, n=3 c.  $450,783 periods.  $163,685 × 2.44371 = **$399,999** d.  $491,055
 
-**==> picture [659 x 149] intentionally omitted <==**
+The present value of the note is the amount the company must deposit today at 11% interest to cover the $163,685 payments.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Computing the Amount of a Liability with an Annuity (2 of 4)
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+## Record the purchase of the espresso machines:
 
-**9-56** 
+## Calculate interest expense for the first year:
 
-**==> picture [65 x 560] intentionally omitted <==**
+## At the end of the first year the company makes this journal entry:
 
-## Computing the Amount of a Liability with an Annuity (1 of 4) 
+## Computing the Amount of a Liability with an Annuity (3 of 4)
 
-On 1/1/2025, Starbucks purchased espresso machines with a note payable to be paid off in three end-of-year payments of $163,685. Each payment includes principal plus interest on any unpaid balance. The annual interest rate is 11%. What is the present value of this annuity? a.  $399,999 b.  $407,060 Compute the present value with i=11%, n=3 c.  $450,783 periods.  $163,685 × 2.44371 = **$399,999** d.  $491,055 
+**Calculate interest expense for the second year:** $280,314 note payable balance * 11% annual interest rate = $30,835 interest expense. The remaining payable balance after recording this entry is $147,464.
 
-**==> picture [665 x 156] intentionally omitted <==**
+## Computing the Amount of a Liability with an Annuity (4 of 4)
 
-The present value of the note is the amount the company must deposit today at 11% interest to cover the $163,685 payments. 
+**Calculate interest expense for the third year:** $147,464 note payable balance * 11% annual interest rate = $16,221 interest expense.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**After the last payment of $163,685 the balance in the note payable account is zero.**
 
-**9-57** 
-
-## Computing the Amount of a Liability with an Annuity (2 of 4) 
-
-## **Record the purchase of the espresso machines:** 
-
-**==> picture [624 x 140] intentionally omitted <==**
-
-## **Calculate interest expense for the first year:** 
-
-$399,999 note payable balance × 0.11 annual interest rate = $44,000 interest expense. 
-
-## **At the end of the first year the company makes this journal entry:** 
-
-**==> picture [642 x 201] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-58** 
-
-## Computing the Amount of a Liability with an Annuity (3 of 4) 
-
-**Calculate interest expense for the second year:** $280,314 note payable balance * 11% annual interest rate = $30,835 interest expense. The remaining payable balance after recording this entry is $147,464. 
-
-**==> picture [646 x 204] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-59** 
-
-## Computing the Amount of a Liability with an Annuity (4 of 4) 
-
-**Calculate interest expense for the third year:** $147,464 note payable balance * 11% annual interest rate = $16,221 interest expense. 
-
-**==> picture [645 x 176] intentionally omitted <==**
-
-**After the last payment of $163,685 the balance in the note payable account is zero.** 
-
-|||
+|
 |---|---|
 |**Initial loan balance**|$ 399,999|
 |Principal reduction 2025|(119,685)|
 |Principal reduction 2025|(132,850)|
 |Principal reduction 2026|(147,464)|
 |**Loan balance at end of loan**|$         0|
-|||
+|
 
+## Present Values Involving Both an Annuity and a Single Payment
 
+Starbucks bought new coffee roasting equipment and agreed to pay the supplier $1,000 per month for 20 months and an additional $40,000 at the end of 20 months. The supplier charges 12 percent interest per year, or 1% per month.
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Step 1:** Compute the present value of the annuity using Appendix E. The factor of 18.04555 is based on the interest rate of 1 percent over 20 periods.
 
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
+**Step 2:** Compute the present value of the single payment using Appendix E. The factor of 0.81954 is based on the interest rate of 1 percent over 20 periods.
 
-**9-60** 
+**Step 3:** Add the two amounts to determine the present value of the total obligation.
 
-## Present Values Involving Both an Annuity and a Single Payment 
+Supplement A: Present Value Computations Using the HP 10bII+ (1 of 2)
 
-Starbucks bought new coffee roasting equipment and agreed to pay the supplier $1,000 per month for 20 months and an additional $40,000 at the end of 20 months. The supplier charges 12 percent interest per year, or 1% per month. 
+Supplement A: Present Value Computations Using the HP 10bII+ (2 of 2)
 
-**Step 1:** Compute the present value of the annuity using Appendix E. The factor of 18.04555 is based on the interest rate of 1 percent over 20 periods. 
+Supplement A: Present Value Computations Using the TI BA II Plus (1 of 2)
 
-$1,000 × 18.04555 = $18,046 
+Supplement A: Present Value Computations Using the TI BA II Plus (2 of 2)
 
-**Step 2:** Compute the present value of the single payment using Appendix E. The factor of 0.81954 is based on the interest rate of 1 percent over 20 periods. 
+Supplement A: Present Value Computations Using the HP 12C
 
-$40,000 × 0.81954 = $32,782 
+Supplement A: Present Value Computations Using Excel (1 of 2)
 
-**Step 3:** Add the two amounts to determine the present value of the total obligation. 
+## Supplement A: Present Value Computations Using Excel (2 of 2)
 
-**==> picture [475 x 68] intentionally omitted <==**
+## Supplement B: Deferred Taxes
 
-**==> picture [65 x 560] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-61** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-Supplement A: Present Value Computations Using the HP 10bII+ (1 of 2) 
-
-**==> picture [451 x 381] intentionally omitted <==**
-
-**==> picture [207 x 356] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-62** 
-
-Supplement A: Present Value Computations Using the HP 10bII+ (2 of 2) 
-
-**==> picture [689 x 448] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-63** 
-
-Supplement A: Present Value Computations Using the TI BA II Plus (1 of 2) 
-
-**==> picture [438 x 150] intentionally omitted <==**
-
-**==> picture [711 x 269] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-64** 
-
-Supplement A: Present Value Computations Using the TI BA II Plus (2 of 2) 
-
-**==> picture [725 x 324] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-65** 
-
-Supplement A: Present Value Computations Using the HP 12C 
-
-**==> picture [741 x 452] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**9-66** 
-
-Supplement A: Present Value Computations Using Excel (1 of 2) 
-
-**==> picture [362 x 199] intentionally omitted <==**
-
-**==> picture [359 x 187] intentionally omitted <==**
-
-**==> picture [448 x 8] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC.<br>**----- End of picture text -----**<br>
-
-
-**9-67** 
-
-## Supplement A: Present Value Computations Using Excel (2 of 2) 
-
-**==> picture [520 x 146] intentionally omitted <==**
-
-**==> picture [614 x 367] intentionally omitted <==**
-
-© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**9-68** 
-
-## Supplement B: Deferred Taxes 
-
-**==> picture [574 x 470] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Differences that result from<br>companies reporting revenues<br>Temporary Tax  and expenses on their income<br>Differences statements in a different time<br>period than they report them<br>on their tax returns.<br>Liability created when<br>differences in financial<br>Deferred Tax  reporting and tax reporting<br>cause accounting income to be<br>Liability<br>higher than tax income in a<br>given period.<br>© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC.<br>**----- End of picture text -----**<br>
-
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**9-69** 
-
+## Related Notes
+- [[Accounting 1 Blab Handout 2024-2025 A.Y.]]
+- [[BLAB ACC SHEET CHAPTER 2]]
+- [[Full-material presentation Chapter 4]]

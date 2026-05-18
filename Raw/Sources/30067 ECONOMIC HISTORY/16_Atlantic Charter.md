@@ -1,3 +1,16 @@
+---
+Title: "16_Atlantic Charter"
+Author: "Bocconi"
+Reference: "Course Material"
+ContentType:
+  - "markdown"
+Created: 2026-05-18
+Processed: true
+tags:
+  - "source"
+
+---
+
 **==> picture [322 x 85] intentionally omitted <==**
 
 **==> picture [322 x 85] intentionally omitted <==**

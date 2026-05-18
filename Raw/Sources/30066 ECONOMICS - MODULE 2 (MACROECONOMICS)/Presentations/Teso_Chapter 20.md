@@ -1,450 +1,397 @@
-## **Università Bocconi** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 20: Output, the interest rate and the exchange rate"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Macroeconomics (Economics – Module 2 -30066)** 
+## Universit→ Bocconi
 
-## **Prof. Edoardo Teso** 
+**Macroeconomics (Economics – Module 2 -30066)**
 
-# **Chapter 20: Output, the interest rate and the exchange rate** 
+## Prof. Edoardo Teso
 
-## **Plan of action** 
+# Chapter 20: Output, the interest rate and the exchange rate
 
-## 1. Equilibrium in the Goods Markets 
+## Plan of action
 
-2. Equilibrium in the Financial Markets 
+## 1. Equilibrium in the Goods Markets
 
-3. Putting Goods and Financial Markets Together 
+2. Equilibrium in the Financial Markets
 
-4. The Effects of Policy in an Open Economy 
+3. Putting Goods and Financial Markets Together
 
-5. Fixed Exchange Rates 
+4. The Effects of Policy in an Open Economy
 
-## **The Mundell-Fleming Model** 
+5. Fixed Exchange Rates
 
-- In Chapter 19, we treated the exchange rate as one of the policy instruments available to the government. 
+## The Mundell-Fleming Model
 
-- But we kind of cheated! Governments do not move directly the exchange rate 
+- In Chapter 19, we treated the exchange rate as one of the policy instruments available to the government.
 
-- The exchange rate is instead determined in the foreign exchange market. **It is endogenous!** 
+- But we kind of cheated! Governments do not move directly the exchange rate
 
-- We now examine what happens in equilibrium in both the goods market and financial markets, including the foreign exchange market. 
+- The exchange rate is instead determined in the foreign exchange market. **It is endogenous!**
 
-- The model is an extension to the open economy of the _IS-LM_ model and it is known as the **Mundell-Fleming** model. 
+- We now examine what happens in equilibrium in both the goods market and financial markets, including the foreign exchange market.
 
-## **Equilibrium in the Goods Market** 
+- The model is an extension to the open economy of the _IS-LM_ model and it is known as the **Mundell-Fleming** model.
 
-## Recall the IS curve: 
+## Equilibrium in the Goods Market
 
-**==> picture [560 x 66] intentionally omitted <==**
+## Recall the IS curve:
 
-## which can be rewritten as: 
+## which can be rewritten as:
 
-**==> picture [585 x 66] intentionally omitted <==**
+Checkpoint: why does NX depends negatively on ε?
 
-Checkpoint: why does NX depends negatively on ε? 
+Answer: because we assume that the the Marshall-Lerner condition holds
 
-Answer: because we assume that the the Marshall-Lerner condition holds 
+## Equilibrium in the Goods Market
 
-## **Equilibrium in the Goods Market** 
+We can make 2 simplifications:
 
-**==> picture [576 x 66] intentionally omitted <==**
+1. P and P* are fixed (short run) and since they are indexes we can choose them so that P/P*=1.
 
-We can make 2 simplifications: 
+→ If _ε_ = _E_ Implication
 
-1. P and P* are fixed (short run) and since they are indexes we can choose them so that P/P*=1. 
+2. Since no inflation, then _r=i_
 
-→ If _ε_ = _E_ Implication 
+## We obtain:
 
-2. Since no inflation, then _r=i_ 
+## Equilibrium in Financial Markets
 
-## We obtain: 
+- In the closed economy version, choice between money and bonds
 
-**==> picture [593 x 66] intentionally omitted <==**
+- In an open economy, choice between money, domestic bonds and foreign bonds
 
-## **Equilibrium in Financial Markets** 
+-:
 
-- In the closed economy version, choice between money and bonds 
+- Recall the arbitrage relation or the _interest parity condition_
 
-- In an open economy, choice between money, domestic bonds and foreign bonds 
+- This can be re-arranged to get:
 
-- : 
+- Assume the expected future exchange rate is given (we will drop this: assumption in chapter 21)
 
-- Recall the arbitrage relation or the _interest parity condition_ 
+## Equilibrium in Financial Markets
 
-**==> picture [312 x 70] intentionally omitted <==**
+This condition tells us several interesting things:
 
-- This can be re-arranged to get: 
+1. **An increase in the expected future exchange rate leads to an increase in the current exchange rate.** Why?
 
-**==> picture [48 x 51] intentionally omitted <==**
+- Consider choice between German bonds (domestic) and UK bonds (foreign).
 
-**----- Start of picture text -----**<br>
-Sdsg<br>ggg<br>**----- End of picture text -----**<br>
+- i=2%, i*=2%, expected future E=1: in this case today E =1
 
+- What if expected future E increases to 1.1?
 
-**==> picture [451 x 58] intentionally omitted <==**
+- Then German bonds become more attractive, as return on UK bond decreases
 
-▪ Assume the expected future exchange rate is given (we will drop this : assumption in chapter 21) 
+- People will start selling UK bonds, and exchanging pounds per euros to buy German bonds → demand for euros go up, and E appreciates today
 
-**==> picture [429 x 54] intentionally omitted <==**
+- By how much? Exactly by 1.1, so that the interest parity condition holds again!
 
-## **Equilibrium in Financial Markets** 
+## Equilibrium in Financial Markets
 
-**==> picture [434 x 54] intentionally omitted <==**
+2. **An increase in the domestic interest rate leads to an increase in the current exchange rate.** Why?
 
-This condition tells us several interesting things: 
+- Consider again choice between German bonds (domestic) and UK bonds (foreign).
 
-1. **An increase in the expected future exchange rate leads to an increase in the current exchange rate.** Why? 
+- i=2%, i*=2%, expected future E=1: in this case today E =1
 
-   - Consider choice between German bonds (domestic) and UK bonds (foreign). 
+- What if European Central Bank raises i from 2% to 5%?
 
-**==> picture [48 x 51] intentionally omitted <==**
+- Then German bonds become more attractive than UK bonds
 
-**----- Start of picture text -----**<br>
-Sdsg<br>ggg<br>**----- End of picture text -----**<br>
+- As before, people will start selling UK bonds, and exchanging pounds per euros to buy German bonds → demand for euros go up, and E appreciates today
 
+- By how much? E=1.05/1.02=1.03 (appreciation by 3%), so that the interest parity condition holds again!
 
-- i=2%, i*=2%, expected future E=1: in this case today E =1 
+## Equilibrium in Financial Markets
 
-- What if expected future E increases to 1.1? 
+3. **An increase in the foreign interest rate leads to a decrease in the current exchange rate.** Why?
 
-- Then German bonds become more attractive, as return on UK bond decreases 
+- Consider again choice between German bonds (domestic) and UK bonds (foreign).
 
-- People will start selling UK bonds, and exchanging pounds per euros to buy German bonds → demand for euros go up, and E appreciates today 
+- i=2%, i*=2%, expected future E=1: in this case today E =1
 
-- By how much? Exactly by 1.1, so that the interest parity condition holds again! 
+- What if Bank of England raises i* from 2% to 5%?
 
-## **Equilibrium in Financial Markets** 
+- Then UK bonds become more attractive than German bonds
 
-**==> picture [434 x 54] intentionally omitted <==**
+- People will start selling German bonds, and exchanging euros per pounds to buy UK bonds → demand for pounds go up, and E depreciates today
 
-2. **An increase in the domestic interest rate leads to an increase in the current exchange rate.** Why? 
+- By how much? E=1.02/1.05=0.97 (depreciation by 3%), so that the interest parity condition holds again!
 
-▪ Consider again choice between German bonds (domestic) and UK bonds (foreign). 
+## Equilibrium in Financial Markets - Graphically
 
-- i=2%, i*=2%, expected future E=1: in this case today E =1 
+**The Relation between the Interest Rate and the Exchange Rate Implied by Interest Parity**
 
-- What if European Central Bank raises i from 2% to 5%? 
+A higher domestic interest rate leads to a higher exchange rate ( **movement along the curve** )
 
-**==> picture [48 x 51] intentionally omitted <==**
+**What happens if i* increases?** Curve shifts up (for the same i, E is now lower)
 
-**----- Start of picture text -----**<br>
-Sdsg<br>ggg<br>**----- End of picture text -----**<br>
+**What happens if expected future E increases?** Curve shifts down (for the same i, E is now higher)
 
+## FOCUS: Capital flows, sudden stops and the limits to the interest parity condition
 
-- Then German bonds become more attractive than UK bonds 
+- Arbitrage: only expected returns matter
 
-- As before, people will start selling UK bonds, and exchanging pounds per euros to buy German bonds → demand for euros go up, and E appreciates today 
+- In reality:
 
-- By how much? E=1.05/1.02=1.03 (appreciation by 3%), so that the interest parity condition holds again! 
+1. Uncertainty
 
-## **Equilibrium in Financial Markets** 
+2. Liquidity (ease of sale)
 
-**==> picture [434 x 54] intentionally omitted <==**
+3. Political environment
 
-3. **An increase in the foreign interest rate leads to a decrease in the current exchange rate.** Why? 
+- Sometimes, they play a big role and the interest parity condition fails. For instance, during times where perception of a country’s risk increases
 
-▪ Consider again choice between German bonds (domestic) and UK bonds (foreign). 
+- Then, big selling of assets of a country ( **sudden stop** )
 
-- i=2%, i*=2%, expected future E=1: in this case today E =1 
+- After the Great Recession: funds out of
 
-- What if Bank of England raises i* from 2% to 5%? 
+- countries perceived to be less stable
 
-**==> picture [48 x 51] intentionally omitted <==**
+Net purchases of Brazilian equities
 
-**----- Start of picture text -----**<br>
-Sdsg<br>ggg<br>**----- End of picture text -----**<br>
+## Putting Goods and Financial Markets Together
 
+The open economy versions of the familiar _IS_ and _LM_ relations:
 
-- Then UK bonds become more attractive than German bonds 
+1+i e 𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑖+ 𝐺+ 𝑁𝑋 𝑌, 𝑌(∗) , E 1+i(∗) − − ( , + , ) 𝑖= 𝑖
 
-- People will start selling German bonds, and exchanging euros per pounds to buy UK bonds → demand for pounds go up, and E depreciates today 
+An increase in the interest rate now has two effects:
 
-- By how much? E=1.02/1.05=0.97 (depreciation by 3%), so that the interest parity condition holds again! 
+1. The direct effect on investment, which decreases Y
 
-## **Equilibrium in Financial Markets - Graphically** 
+2. The secondary effect through the exchange rate, which increases E, and so decreases Y
 
-**The Relation between the Interest Rate and the Exchange Rate Implied by Interest Parity** 
+## Putting Goods and Financial Markets Together
 
-A higher domestic interest rate leads to a higher exchange rate ( **movement along the curve** ) 
+## The** _**IS–LM**_ **Model in the Open Economy
 
-**What happens if i* increases?** Curve shifts up (for the same i, E is now lower) 
+The _IS_ curve is downward sloping: an increase in the interest rate reduces output both directly (investment) and indirectly (through the exchange rate).
 
-**What happens if expected future E increases?** Curve shifts down (for the same i, E is now higher) 
+The _LM_ curve is horizontal.
 
-**==> picture [348 x 279] intentionally omitted <==**
+## The Effects of Monetary Policy in an Open Economy
 
-## **FOCUS: Capital flows, sudden stops and the limits to the interest parity condition** 
+- Suppose the Central Bank increases the interest rate
 
-▪ Arbitrage: only expected returns matter 
+- LM moves up;
+- IS and interest parity curve do not move
 
-- In reality: 
+- In new equilibrium: Y lower and E higher (appreciation)
 
-1. Uncertainty 
+- Composition of Y: C lower (since Y lower), I lower (since Y lower and _i_ higher), NX unclear (higher E pushes down, but lower Y pushes up)
 
-2. Liquidity (ease of sale) 
+An increase in the interest rate leads to a decrease in output, now also through the negative impact on output of an appreciation.
 
-3. Political environment 
+## The Effects of Fiscal Policy in an Open Economy
 
-- Sometimes, they play a big role and the interest parity condition fails. For instance, during times where perception of a country’s risk increases 
+- Suppose the government increases G (and the Central Bank does not react)
 
-- Then, big selling of assets of a country ( **sudden stop** ) 
+- IS moves to the right (LM and interest parity curve do not move)
 
-- After the Great Recession: funds out of 
+- In new equilibrium: Y higher and E unchanged
 
-- countries perceived to be less stable 
+- Composition of Y: C higher (since Y higher), I higher (since Y higher and _i_ unchanged), G higher, NX lower (E and Y* unchanged, but higher Y increases IM)
 
-Net purchases of Brazilian equities 
+Deterioration of government budget (G-T decreases) leads to a deterioration of the trade balance
 
-**==> picture [348 x 223] intentionally omitted <==**
+## The Effects of Fiscal Policy in an Open Economy
 
-## **Putting Goods and Financial Markets Together** 
+- Suppose now that the Central Bank reacts to increase in G by raising _i_
 
-The open economy versions of the familiar _IS_ and _LM_ relations: 
+- LM moves up
 
-1+i e 𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑖+ 𝐺+ 𝑁𝑋 𝑌, 𝑌[∗] , E 1+i[∗] − − ( , + , ) 𝑖= 𝑖 
+- In new equilibrium: Y higher (but by less than before) and E higher
 
-An increase in the interest rate now has two effects: 
+- Composition of Y: C higher (since Y higher), I unclear (since Y higher and _i_ higher), G higher, NX lower (E higher and Y higher)
 
-1. The direct effect on investment, which decreases Y 
+**Note: unclear if worse NX than without a move by the Central Bank. Why?**
 
-2. The secondary effect through the exchange rate, which increases E, and so decreases Y 
+## FOCUS: United States in the early 1980s. The Emergence of the Twin Deficits
 
-## **Putting Goods and Financial Markets Together** 
+- Early 1980s: high inflation, the FED decides to raise the interest rate
 
-## **The** _**IS–LM**_ **Model in the Open Economy** 
+- 1980: election of Ronald Reagan, who cuts taxes (but without changing G)
 
-**==> picture [558 x 289] intentionally omitted <==**
+- The 2 effects work in a similar way as what described in the previous slide: IS to the right and LM up.
 
-The _IS_ curve is downward sloping: an increase in the interest rate reduces output both directly (investment) and indirectly (through the exchange rate). 
+- The effects of higher interest rates and a fiscal expansion were in line with what the Mundell-Fleming model predicts
 
-The _LM_ curve is horizontal. 
+## By mid 1980s, new equilibrium:
 
-## **The Effects of Monetary Policy in an Open Economy** 
+- Higher Y
 
-- Suppose the Central Bank increases the interest rate 
+- Higher (real) interest rates
 
-- LM moves up; IS and interest parity curve do not move 
+- Higher exchange rate
 
-- In new equilibrium: Y lower and E higher (appreciation) 
+- Higher trade deficit
 
-- Composition of Y: C lower (since Y lower), I lower (since Y lower and _i_ higher), NX unclear (higher E pushes down, but lower Y pushes up) 
+- Twin deficits: budget deficit + trade deficit
 
-**==> picture [593 x 306] intentionally omitted <==**
+## Effects of Trump’s Tariffs: what can we learn from his previous attempt?
 
-An increase in the interest rate leads to a decrease in output, now also through the negative impact on output of an appreciation. 
+- 2018: Trump administration increases tariffs on imports from China
 
-## **The Effects of Fiscal Policy in an Open Economy** 
+- Similar narrative as of today (foreign countries “taking advantage” of the U.S.)
 
-- Suppose the government increases G (and the Central Bank does not react) 
+- Even if economists disagreed, offering other explanations behind trade deficit: - Low savings in the U.S., so investment financed through trade deficit
 
-- IS moves to the right (LM and interest parity curve do not move) 
+- Attractiveness of U.S. assets, leading to USD appreciation (and so trade deficit)
 
-- In new equilibrium: Y higher and E unchanged 
+- Effect of tariffs: at given E, lower value of IM
 
-- Composition of Y: C higher (since Y higher), I higher (since Y higher and _i_ unchanged), G higher, NX lower (E and Y* unchanged, but higher Y increases IM) 
+- Theory: substitution from foreign to domestic goods → Y increases and NX increases
 
-**==> picture [613 x 297] intentionally omitted <==**
+- - In reality:
 
-Deterioration of government budget (G-T decreases) leads to a deterioration of the trade balance 
+- 2017: trade balance: -2.77% of GDP
 
-## **The Effects of Fiscal Policy in an Open Economy** 
+- 2020: trade balance: -2.94% of GDP
 
-- Suppose now that the Central Bank reacts to increase in G by raising _i_ 
+- Why?
 
-- LM moves up 
+- Trade war: China responded with tariffs on US goods (US exports to China went down)
 
-- In new equilibrium: Y higher (but by less than before) and E higher 
+- Trump also cut Taxes; going back to our previous slides, this worsens trade balance  (with or without Central Bank reaction)
 
-- Composition of Y: C higher (since Y higher), I unclear (since Y higher and _i_ higher), G higher, NX lower (E higher and Y higher) 
+## What Would You Do to Reduce the Trade Deficit Without Changing Y?
 
-**==> picture [612 x 305] intentionally omitted <==**
+- Suppose Y is at potential (and you do not want to decrease it) but you have a big trade deficit that you want to decrease.
 
-**Note: unclear if worse NX than without a move by the Central Bank. Why?** 
+**What can you do?**
 
-## **FOCUS: United States in the early 1980s. The Emergence of the Twin Deficits** 
+- Reduce G (or increase T) + lower the interest rate!
 
-- Early 1980s: high inflation, the FED decides to raise the interest rate 
+- IS moves to the left, but if you lower the interest rate so that Y does not move, then, remember:
 
-- 1980: election of Ronald Reagan, who cuts taxes (but without changing G) 
+- Y (and Y*) constant, with lower _i_ , implies higher NX!
 
-- The 2 effects work in a similar way as what described in the previous slide: IS to the right and LM up. 
+- A reduction of the trade deficit that is not costly for the economy could be achieved with a reduction in the fiscal deficit that goes hand in hand with expansionary monetary policy.
 
-- The effects of higher interest rates and a fiscal expansion were in line with what the Mundell-Fleming model predicts 
+- Note: “not costly” for the economy as a whole (since Y does not change), but costly for some categories (for instance, with T increasing, C goes down, while I increases)
 
-**==> picture [690 x 153] intentionally omitted <==**
+## Fixed Exchange Rates
 
-## **By mid 1980s, new equilibrium:** 
+- Not all countries let their currency adjust freely following equilibrium in foreign exchange market
 
-- Higher Y 
+- Some countries **peg** their currency to another currency (for instance USD or EURO) or to a basket of foreign currencies.
 
-- Higher (real) interest rates 
+- When (rarely) there are changes in E, these are called devaluation (rather than depreciation) and revaluation (rather than appreciation)
 
-- Higher exchange rate 
+- Some countries operate under a **crawling peg** by moving to an exchange rate target slowly (since they have higher inflation rates than the US or Europe).
 
-- Higher trade deficit 
+- The **European Monetary System** (EMS) determined the movements of exchange rates within the European Union from 1978 to 1998
 
-- Twin deficits: budget deficit + trade deficit 
+- Member countries agreed to maintain their E relative to the other currencies in the system within narrow **bands** around a given value
 
-## **Effects of Trump’s Tariffs: what can we learn from his previous attempt?** 
+- Beginning on January 1, 1999, a number of those European countries **euro** .
 
-- 2018: Trump administration increases tariffs on imports from China 
+- adopted a common currency, the
 
-- Similar narrative as of today (foreign countries “taking advantage” of the U.S.) 
+## Fixed Exchange Rates and Monetary Policy
 
-- Even if economists disagreed, offering other explanations behind trade deficit: ▪ Low savings in the U.S., so investment financed through trade deficit 
+Recall the interest rate parity condition:
 
-   - Attractiveness of U.S. assets, leading to USD appreciation (and so trade deficit) 
+If the country pegs the exchange rate, then the interest rate relation becomes:
 
-- Effect of tariffs: at given E, lower value of IM 
+- **Under a fixed exchange rate and perfect capital mobility** , the domestic interest rate must be equal to the foreign interest rate. ^vwzf24
 
-- Theory: substitution from foreign to domestic goods → Y increases and NX increases 
+- Under fixed exchange rates, **the central bank gives up monetary** .
 
-- ▪ In reality: 
+- **policy as a policy instrument**
 
-   - 2017: trade balance: -2.77% of GDP 
+## Fixed Exchange Rates and Fiscal Policy
 
-   - 2020: trade balance: -2.94% of GDP 
+## Same case as before, with G increased and no reaction by the Central Bank
 
-- Why? 
+Risk: if Y goes above potential, spike in inflation that the Central Bank cannot limit
 
-   - Trade war: China responded with tariffs on US goods (US exports to China went down) 
+## FOCUS: German Reunification, Interest Rates, and the EMS
 
-   - Trump also cut Taxes; going back to our previous slides, this worsens trade balance  (with or without Central Bank reaction) 
+- Under EMS, interest rates (and so exchange rates) change only if all members agree to the change, or if 1 country takes the lead and the other need to follow
 
-## **What Would You Do to Reduce the Trade Deficit Without Changing Y?** 
+- - During 1980s, common goals among members, and German Central Bank usually took the lead.
 
-- Suppose Y is at potential (and you do not want to decrease it) but you have a big trade deficit that you want to decrease. 
+- German reunification in 1990 led to large increases in demand and interest rates in Germany: IS to the right + increase in interest rate.
 
-**What can you do?** 
+- To stay in the fixed exchange regime of the EMS, other European members had to match German interest rates, leading to decreases in their output.
 
-- Reduce G (or increase T) + lower the interest rate! 
+**German Reunification, Interest Rates, and Output Growth: Germany, France, and Belgium, 1990–1992**
 
-- IS moves to the left, but if you lower the interest rate so that Y does not move, then, remember: 
+## Fixed Exchange Rates, Interest Rates, and Capital Mobility
 
-**==> picture [385 x 73] intentionally omitted <==**
+- Interest parity assumes perfect capital mobility across countries. - Good assumption for countries with highly developed financial markets - But in countries with less developed financial markets (investors do not have the means to invest abroad), or with capital controls in place (investors are prohibited from investing abroad), assumption is questionable
+*(See also: [[Teso_Chapter 21#^dp389f]])*
 
-- Y (and Y*) constant, with lower _i_ , implies higher NX! 
+- In these countries, the Central Bank might decrease the interest rate while maintaining a fixed E.
 
-- A reduction of the trade deficit that is not costly for the economy could be achieved with a reduction in the fiscal deficit that goes hand in hand with expansionary monetary policy. 
+## Balance Sheet of the Central Bank
 
-- Note: “not costly” for the economy as a whole (since Y does not change), but costly for some categories (for instance, with T increasing, C goes down, while I increases) 
+## Fixed Exchange Rates, Interest Rates, and Capital Mobility
 
-## **Fixed Exchange Rates** 
+- We are in a fixed exchange rate regime with perfect capital mobility.
 
-- Not all countries let their currency adjust freely following equilibrium in foreign exchange market 
+- Suppose CB decides to perform an expansionary open market operation: go to the market, buy bonds and create money.
 
-- Some countries **peg** their currency to another currency (for instance USD or EURO) or to a basket of foreign currencies. 
+- This reduces domestic interest rate. Interest Parity condition implies that financial investors decide to buy foreign bonds: they go to the market for foreign currency and buy foreign currency.
 
-   - When (rarely) there are changes in E, these are called devaluation (rather than depreciation) and revaluation (rather than appreciation) 
+- Price of foreign currency increases, exchange rate tends to depreciate. Impossible in fixed exchange rate regimes!
 
-- Some countries operate under a **crawling peg** by moving to an exchange rate target slowly (since they have higher inflation rates than the US or Europe). 
+- CB must enter in the market and sell foreign currency for domestic currency until monetary base is equal to the monetary base before the open market operation, and domestic interest rate is again equal to foreign rate (this process takes minutes with perfect capital mobility).
 
-- The **European Monetary System** (EMS) determined the movements of exchange rates within the European Union from 1978 to 1998 
+**Balance sheet of the Central Bank after an open market operation, and the induced intervention in the foreign exchange market.**
 
-   - Member countries agreed to maintain their E relative to the other currencies in the system within narrow **bands** around a given value 
+## Fixed Exchange Rates, Interest Rates, and Capital Mobility
 
-   - Beginning on January 1, 1999, a number of those European countries **euro** . 
+- Under fixed exchange rates and perfect capital mobility, the only effect of the open market operation is to **change the composition of the central bank’s balance sheet** but not the monetary base, nor the interest rate.
 
-   - adopted a common currency, the 
+- With imperfect capital mobility (because investors find it difficult to invest abroad, or because the country puts big barriers to do so), then the net effects of the initial open market operation are:
 
-## **Fixed Exchange Rates and Monetary Policy** 
+- _an increase in the monetary base;_ - _a decrease in the domestic interest rate;_
 
-Recall the interest rate parity condition: 
+- _an increase in the central bank’s bond holdings;_ - _and some loss in reserves of foreign currency._
 
-**==> picture [285 x 62] intentionally omitted <==**
+## Fixed Exchange Rates, Interest Rates, and Capital Mobility
 
-If the country pegs the exchange rate, then the interest rate relation becomes: 
+**Takeaway**: with imperfect capital mobility, a country has some freedom to move the domestic interest rate while maintaining its exchange rate.
 
-**==> picture [311 x 30] intentionally omitted <==**
+## Freedom depends on:
 
-- **Under a fixed exchange rate and perfect capital mobility** , the domestic interest rate must be equal to the foreign interest rate. 
+- the degree of development of its financial markets and the willingness of domestic and foreign investors to shift between domestic assets and foreign assets
 
-- Under fixed exchange rates, **the central bank gives up monetary** . 
+- the degree of capital controls
 
-- **policy as a policy instrument** 
+- the amount of foreign exchange reserves it holds
 
-## **Fixed Exchange Rates and Fiscal Policy** 
+## The impossible trinity in international macro
 
-## **Same case as before, with G increased and no reaction by the Central Bank** 
+## It is impossible to have all three of the following:
 
-**==> picture [613 x 297] intentionally omitted <==**
+- Fixed exchange rates
 
-Risk: if Y goes above potential, spike in inflation that the Central Bank cannot limit 
+- Perfect capital mobility
 
-## **FOCUS: German Reunification, Interest Rates, and the EMS** 
+- Independent monetary policy
 
-- Under EMS, interest rates (and so exchange rates) change only if all members agree to the change, or if 1 country takes the lead and the other need to follow 
+## Why would a country adopt a fixed exchange rate?
 
-- ▪ During 1980s, common goals among members, and German Central Bank usually took the lead. 
+Countries give up the choice of a very important tool to boost Y and control the trade balance (and is subject to choices of _i_ * in other countries)
 
-- German reunification in 1990 led to large increases in demand and interest rates in Germany: IS to the right + increase in interest rate. 
+There are, however, some advantages…next chapter…
 
-- To stay in the fixed exchange regime of the EMS, other European members had to match German interest rates, leading to decreases in their output. 
-
-**German Reunification, Interest Rates, and Output Growth: Germany, France, and Belgium, 1990–1992** 
-
-**==> picture [396 x 250] intentionally omitted <==**
-
-## **Fixed Exchange Rates, Interest Rates, and Capital Mobility** 
-
-▪ Interest parity assumes perfect capital mobility across countries. ▪ Good assumption for countries with highly developed financial markets ▪ But in countries with less developed financial markets (investors do not have the means to invest abroad), or with capital controls in place (investors are prohibited from investing abroad), assumption is questionable 
-
-- In these countries, the Central Bank might decrease the interest rate while maintaining a fixed E. 
-
-## **Balance Sheet of the Central Bank** 
-
-**==> picture [366 x 127] intentionally omitted <==**
-
-## **Fixed Exchange Rates, Interest Rates, and Capital Mobility** 
-
-- We are in a fixed exchange rate regime with perfect capital mobility. 
-
-- Suppose CB decides to perform an expansionary open market operation: go to the market, buy bonds and create money. 
-
-- This reduces domestic interest rate. Interest Parity condition implies that financial investors decide to buy foreign bonds: they go to the market for foreign currency and buy foreign currency. 
-
-- Price of foreign currency increases, exchange rate tends to depreciate. Impossible in fixed exchange rate regimes! 
-
-- CB must enter in the market and sell foreign currency for domestic currency until monetary base is equal to the monetary base before the open market operation, and domestic interest rate is again equal to foreign rate (this process takes minutes with perfect capital mobility). 
-
-**Balance sheet of the Central Bank after an open market operation, and the induced intervention in the foreign exchange market.** 
-
-**==> picture [434 x 102] intentionally omitted <==**
-
-## **Fixed Exchange Rates, Interest Rates, and Capital Mobility** 
-
-▪ Under fixed exchange rates and perfect capital mobility, the only effect of the open market operation is to **change the composition of the central bank’s balance sheet** but not the monetary base, nor the interest rate. 
-
-- With imperfect capital mobility (because investors find it difficult to invest abroad, or because the country puts big barriers to do so), then the net effects of the initial open market operation are: 
-
-▪ _an increase in the monetary base;_ ▪ _a decrease in the domestic interest rate;_ 
-
-▪ _an increase in the central bank’s bond holdings;_ ▪ _and some loss in reserves of foreign currency._ 
-
-## **Fixed Exchange Rates, Interest Rates, and Capital Mobility** 
-
-**Takeaway** : with imperfect capital mobility, a country has some freedom to move the domestic interest rate while maintaining its exchange rate. 
-
-## Freedom depends on: 
-
-- the degree of development of its financial markets and the willingness of domestic and foreign investors to shift between domestic assets and foreign assets 
-
-- the degree of capital controls 
-
-- the amount of foreign exchange reserves it holds 
-
-## **The impossible trinity in international macro** 
-
-## It is impossible to have all three of the following: 
-
-## ▪ Fixed exchange rates 
-
-## ▪ Perfect capital mobility 
-
-▪ Independent monetary policy 
-
-## **Why would a country adopt a fixed exchange rate?** 
-
-Countries give up the choice of a very important tool to boost Y and control the trade balance (and is subject to choices of _i_ * in other countries) 
-
-There are, however, some advantages…next chapter… 
-
+## Related Notes
+- [[Teso_Chapter 21]]
+- [[L24 Open Economy Dictionary]]
+- [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]

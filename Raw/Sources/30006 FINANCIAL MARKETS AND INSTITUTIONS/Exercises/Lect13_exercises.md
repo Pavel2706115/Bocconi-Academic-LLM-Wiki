@@ -1,50 +1,65 @@
-## **Extra exercises of Lecture 13** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect13_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 13
 
-Choose the correct answer below. The weak form of the efficient market hypothesis implies that … 
+## EX 1
 
-- a) fundamentals analysis is ineffective 
+Choose the correct answer below. The weak form of the efficient market hypothesis implies that …
 
-- b) current prices fully reflect all information contained in past prices 
+- a) fundamentals analysis is ineffective
 
-- c) both fundamentals analysis and technical analysis are ineffective 
+- b) current prices fully reflect all information contained in past prices
 
-- d) none of the others 
+- c) both fundamentals analysis and technical analysis are ineffective
 
-## **EX 2** 
+- d) none of the others
 
-Suppose that the profits of a company decrease by 9% this year, and this is the largest decrease in the last 25 years of the company. Previously published forecasts predicted profits to decrease by 9.4%. If markets are efficient, the stock price of the company will… 
+## EX 2
 
-- a) increase 
+Suppose that the profits of a company decrease by 9% this year, and this is the largest decrease in the last 25 years of the company. Previously published forecasts predicted profits to decrease by 9.4%. If markets are efficient, the stock price of the company will…
 
-- b) fall 
+- a) increase
 
-- c) stay the same 
+- b) fall
 
-- d) none of the others 
+- c) stay the same
 
-## **EX 3** 
+- d) none of the others
 
-Cheese maker Mr-X has produced some a new soft cheese with very poor ingredients, but this information is initially only known to the management of the firm. One day, a client dies after eating the new soft cheese maker Mr-X, but the cause of the death is initially unknown. Few weeks after the death, the news reveal that investigators found the cheese to be the cause of the death and that it its ingredients are of very poor quality. If financial markets are semi-strong efficient, when would you expect the price of Mr-X shares to fall? 
+## EX 3
 
-- a) on the day of the client death, but not on the day of the news 
+Cheese maker Mr-X has produced some a new soft cheese with very poor ingredients, but this information is initially only known to the management of the firm. One day, a client dies after eating the new soft cheese maker Mr-X, but the cause of the death is initially unknown. Few weeks after the death, the news reveal that investigators found the cheese to be the cause of the death and that it its ingredients are of very poor quality. If financial markets are semi-strong efficient, when would you expect the price of Mr-X shares to fall?
 
-- b) on the day of the client death, and then again on the day of the news 
+- a) on the day of the client death, but not on the day of the news
 
-- c) on the day of the news and even more in the following weeks 
+- b) on the day of the client death, and then again on the day of the news
 
-- d) on the day of the news, but not on the day of the client death 
+- c) on the day of the news and even more in the following weeks
 
-## **EX 4** 
+- d) on the day of the news, but not on the day of the client death
 
-Assume the stock of firm XYZ exhibits for a long period a very high variance of its price every Friday and a very low variance every Monday. This pattern… 
+## EX 4
 
-- a) is coherent with the efficient market hypothesis 
+Assume the stock of firm XYZ exhibits for a long period a very high variance of its price every Friday and a very low variance every Monday. This pattern…
 
-- b) is caused by rational arbitrageurs 
+- a) is coherent with the efficient market hypothesis
 
-- c) is a common feature of many small firm stocks 
+- b) is caused by rational arbitrageurs
 
-- d) is not coherent with the efficient market hypothesis 
+- c) is a common feature of many small firm stocks
 
+- d) is not coherent with the efficient market hypothesis
+
+## Related Notes
+- [[Lect13]]

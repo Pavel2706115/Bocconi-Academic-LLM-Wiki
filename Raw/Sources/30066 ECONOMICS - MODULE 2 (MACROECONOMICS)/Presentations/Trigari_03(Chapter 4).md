@@ -1,450 +1,424 @@
-# **Chapter 4 Financial markets** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 4 Financial markets"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **What is money?** 
+# Chapter 4 Financial markets
 
-• Definition: stock of assets that is generally accepted in payment for goods or services or in the repayment of debts 
+## What is money?
 
-- Objects that qualify as money under this definition: 
+- Definition: stock of assets that is generally accepted in payment for goods or services or in the repayment of debts
 
-Currency (bills and coins) 
+- Objects that qualify as money under this definition:
 
-Checking account deposits (on which you can write a check) 
+Currency (bills and coins)
 
-Perhaps even saving deposits 
+Checking account deposits (on which you can write a check)
 
-• Money can take different forms 
+Perhaps even saving deposits
 
-1. Fiat money: money that has no intrinsic value, only decreed by governments as legal tender 
+- Money can take different forms
 
-2. Commodity money: for example, gold, silver, or cigarettes in prisons 
+1. Fiat money: money that has no intrinsic value, only decreed by governments as legal tender
 
-## **Semantic traps: money, wealth and income** 
+2. Commodity money: for example, gold, silver, or cigarettes in prisons
 
-“Joe has a lot of money” 
+## Semantic traps: money, wealth and income
 
-“Mary is making a lot of money” 
+“Joe has a lot of money”
 
-- Money is distinct from **wealth** and **income** 
+“Mary is making a lot of money”
 
-   - **Wealth** : **stock** of all resources owned by an individual, including all assets (currency and bank deposits, but also bonds, stocks, houses, land, cars,…) 
+- Money is distinct from **wealth** and **income**
 
-   - **Income** : **flow** of earnings per unit of time 
+- **Wealth**: **stock** of all resources owned by an individual, including all assets (currency and bank deposits, but also bonds, stocks, houses, land, cars,…)
 
-## **Measuring money** 
+- **Income**: **flow** of earnings per unit of time
 
-- ECB publishes 3 monetary aggregates 
+## Measuring money
 
-   - M1: currency + checking account deposits (also called overnight deposits) 
+- ECB publishes 3 monetary aggregates
 
-   - M2: M1 + other short/medium term deposits 
+- M1: currency + checking account deposits (also called overnight deposits)
 
-   - M3: M2 + marketable instruments (repurchase agreements and money market funds shares) + debt securities up to 2 years 
+- M2: M1 + other short/medium term deposits
 
-- Fed publishes 2 monetary aggregates 
+- M3: M2 + marketable instruments (repurchase agreements and money market funds shares) + debt securities up to 2 years
 
-   - M1: currency + checking account deposits (also called demand deposits) 
+- Fed publishes 2 monetary aggregates
 
-   - M2: M1 + other short/medium term deposits + retail money market funds shares 
+- M1: currency + checking account deposits (also called demand deposits)
 
-      - (Fed stopped publishing M3 in 2006 as it appeared not to convey any additional information about economic activity that is not already embodied in M2) 
+- M2: M1 + other short/medium term deposits + retail money market funds shares
 
-## **ECB monetary aggregates, 2012** 
+- (Fed stopped publishing M3 in 2006 as it appeared not to convey any additional information about economic activity that is not already embodied in M2)
 
-**Percentage share of components of M3 at end-2012** 
+## ECB monetary aggregates, 2012
 
-**==> picture [388 x 346] intentionally omitted <==**
+**Percentage share of components of M3 at end-2012**
 
-# **Fed monetary aggregates, 2017** 
+# Fed monetary aggregates, 2017
 
-**==> picture [720 x 354] intentionally omitted <==**
+## US M2 and EA M3, 1999-2022
 
-## **US M2 and EA M3, 1999-2022** 
+Why are monetary aggregates growing over time?
 
-**==> picture [500 x 336] intentionally omitted <==**
+- We will only consider the stricter definition of money
 
-Why are monetary aggregates growing over time? 
+**M1 = currency + deposit accounts**
 
-# • We will only consider the stricter definition of money 
+- In the **first** part of the class, **only currency**
 
-**M1 = currency + deposit accounts** 
+- In the **second** part of the class, **add deposit accounts** and **banks**
 
-- In the **first** part of the class, **only currency** 
+## Money and bonds
 
-- In the **second** part of the class, **add deposit accounts** and **banks** 
+Consider an economy in which wealth can be hold in only 2 assets
 
-## **Money and bonds** 
+- **Money** can be used for transactions but pays no interest
 
-Consider an economy in which wealth can be hold in only 2 assets 
+- **Bonds** cannot be used for transactions but pay a positive interest rate _i_
 
-- **Money** can be used for transactions but pays no interest 
+For given wealth, a larger demand for money corresponds to a lower demand for bonds, and vice-versa
 
-- **Bonds** cannot be used for transactions but pay a positive interest rate _i_ 
+- By **holding money**
 
-**==> picture [209 x 18] intentionally omitted <==**
+- give up interest income, but
 
-For given wealth, a larger demand for money corresponds to a lower demand for bonds, and vice-versa 
+- save on transaction costs (time costs or transaction fees) associated with selling the bonds whenever you need money
 
-- By **holding money** 
+- By **holding bonds**
 
-   - give up interest income, but 
+- gain interest income, but
 
-   - save on transaction costs (time costs or transaction fees) associated with selling the bonds whenever you need money 
+- will incur in high transaction costs whenever you need money
 
-- By **holding bonds** 
+## Demand for money
 
-   - gain interest income, but 
+- The demand for money will depend on
 
-   - will incur in high transaction costs whenever you need money 
+- the **level of transactions** , _**€Y**_ (proxied with nominal income)
 
-## **Demand for money** 
+- the **interest rate on bonds** , _**i**_
 
-- The demand for money will depend on 
+- Money demand
 
-   - the **level of transactions** , _**€Y**_ (proxied with nominal income) 
+M(d ) = €Y L(i) (-)
 
-   - the **interest rate on bonds** , _**i**_ 
+- raises proportionally with nominal income
 
-- Money demand 
+- decreases with the interest rate on bonds according to the function L
 
-M[d ] = €Y L(i) (-) 
+## M(d ) = €Y L(i)
 
-- raises proportionally with nominal income 
+- For a given level of nominal income, a lower interest rate increases the demand for money (movement along the curve)
 
-- decreases with the interest rate on bonds according to the function L 
+- At a given interest rate, an increase in nominal income increases the demand for money (shifts of the curve to the right)
 
-## M[d ] = €Y L(i) 
+## Equilibrium interest rate Part I: only currency
 
-(-) 
+- Equilibrium in financial markets requires
 
-**==> picture [358 x 326] intentionally omitted <==**
+## Money supply = Money demand
 
-- For a given level of nominal income, a lower interest rate increases the demand for money (movement along the curve) 
+- This equilibrium relation is called the _**LM**_ **relation**
 
-- At a given interest rate, an increase in nominal income increases the demand for money (shifts of the curve to the right) 
+## Supply of money
 
-## **Equilibrium interest rate Part I: only currency** 
+- Money is only currency
 
-- Equilibrium in financial markets requires 
+- The central bank decides to supply a quantity of money equal to M
 
-## **Money supply = Money demand** 
+M(s) = M
 
-**==> picture [91 x 19] intentionally omitted <==**
+## M(s) = M(d)
 
-- This equilibrium relation is called the _**LM**_ **relation** 
+## M = €Y L(i)
 
-## **Supply of money** 
+Equilibrium interest rate must be such that the supply of money (independent of the interest rate) is equal to the demand for money (dependent on the interest rate) ^rwlaep
 
-- Money is only currency 
+## What happens if nominal GDP increases?
 
-- The central bank decides to supply a quantity of money equal to M 
+- **Graphical analysis**: At given interest rate, an increase in nominal income leads to an increase in the demand for money shifting the money demand curve to the right. The equilibrium shifts from A to A’.
 
-M[s] = M 
+- **Result**: Given the money supply, an increase in nominal income leads to an increase in the interest rate
 
-## M[s] = M[d] 
+- **Economic intuition**: at the initial interest rate, the demand for money exceeds money supply; an increase in the interest rate is needed to decrease the amount of money people want to hold and restore equilibrium
 
-## M = €Y L(i) 
+## What happens if money supply increases?
 
-**==> picture [344 x 318] intentionally omitted <==**
+- **Graphical analysis**: An increase in money supply shifts the money supply curve to the right. The equilibrium shifts from A to A’.
 
-Equilibrium interest rate must be such that the supply of money (independent of the interest rate) is equal to the demand for money (dependent on the interest rate) 
+- **Result**: An increase in money supply leads to a decrease in the interest rate
 
-## **What happens if nominal GDP increases?** 
+- **Economic intuition**: the decrease in the interest rate increases the demand for money so it equals the now larger money supply
 
-**==> picture [346 x 321] intentionally omitted <==**
+## Monetary policy and open market operations
 
-• **Graphical analysis** : At given interest rate, an increase in nominal income leads to an increase in the demand for money shifting the money demand curve to the right. The equilibrium shifts from A to A’. 
+- **Open-market operations** , which take place in the “open market” for bonds, are the standard method central banks use to change the money stock in modern economies
 
-- **Result** : Given the money supply, an increase in nominal income leads to an increase in the interest rate 
+- If the central bank buys bonds and pays for them by creating money, this operation is called an **expansionary open market operation** because the central bank increases ( **expands** ) the supply of money
 
-- **Economic intuition** : at the initial interest rate, the demand for money exceeds money supply; an increase in the interest rate is needed to decrease the amount of money people want to hold and restore equilibrium 
+- If the central bank sells bonds and removes from circulation the money it receives in exchange, this operation is called a **contractionary open market operation** because the central bank decreases ( **contracts** ) the supply of money
 
-## **What happens if money supply increases?** 
+# CB balance sheet and open market operations
 
-**==> picture [350 x 324] intentionally omitted <==**
+## Bond prices and bond yields
 
-   - **Graphical analysis** : An increase in money supply shifts the money supply curve to the right. The equilibrium shifts from A to A’. 
+- Treasury bills or T-bills are issued by the US governments promising payment in a year or less
 
-- **Result** : An increase in money supply leads to a decrease in the interest rate 
+- If you buy the bond today and hold it for a year, the yield on holding a $100 T-bill is
 
-- **Economic intuition** : the decrease in the interest rate increases the demand for money so it equals the now larger money supply 
+## i = (€100- €$$$P(b)$$$ ) / €$$$P(b)$$$
 
-## **Monetary policy and open market operations** 
+- Alternatively, if you know the yield you can obtain the price
 
-- **Open-market operations** , which take place in the “open market” for bonds, are the standard method central banks use to change the money stock in modern economies 
+## €$$$P(b) = €100$$$ / (1+i)
 
-- If the central bank buys bonds and pays for them by creating money, this operation is called an **expansionary open market operation** because the central bank increases ( **expands** ) the supply of money 
+- There is a negative relation between the price and the yield
 
-- If the central bank sells bonds and removes from circulation the money it receives in exchange, this operation is called a **contractionary open market operation** because the central bank decreases ( **contracts** ) the supply of money 
+## What have we learned so far?
 
-# **CB balance sheet and open market operations** 
+- The interest rate is determined by the equality of the supply of money and the demand for money
 
-**==> picture [459 x 360] intentionally omitted <==**
+- By changing the supply of money, the central bank can affect the interest rate
 
-## **Bond prices and bond yields** 
+- The central bank changes the supply of money through open market operations which are purchases or sales of bonds in exchange of money
 
-- Treasury bills or T-bills are issued by the US governments promising payment in a year or less 
+- Open market operations in which the central bank increases the money supply by buying bonds lead to an increase in the price of bonds and a decrease in the interest rate
 
-- If you buy the bond today and hold it for a year, the yield on holding a $100 T-bill is 
+- Open market operations in which the central bank decreases the money supply by selling bonds lead to a decrease in the price of bonds and an increase in the interest rate
 
-## i = (€100- €P[b] ) / €P[b] 
+## Choosing money or choosing the interest rate?
 
-- Alternatively, if you know the yield you can obtain the price 
+- A decision by the central bank to lower the interest rate from _i_ to _i_ ’ is equivalent to increasing the money supply from _M_ to _M’_
 
-## €P[b] = €100 / (1+i) 
+- Rather than the money supply, the central bank could have chosen the interest rate and then adjusted the money supply so as to achieve the interest rate it had chosen
 
-- There is a negative relation between the price and the yield 
+- “Choosing” the interest rate, instead of money supply, is what modern central banks, including the Fed and the ECB, typically do
 
-## **What have we learned so far?** 
+## A monetary policy decision
 
-- The interest rate is determined by the equality of the supply of money and the demand for money 
+## Federal Reserve press release, January 29, 2025
 
-- By changing the supply of money, the central bank can affect the interest rate 
+Recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate has stabilized at a low level in recent months, and labor market conditions remain solid. Inflation remains somewhat elevated.
 
-- The central bank changes the supply of money through open market operations which are purchases or sales of bonds in exchange of money 
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
 
-- Open market operations in which the central bank increases the money supply by buying bonds lead to an increase in the price of bonds and a decrease in the interest rate 
+**In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4- 1/4 to 4-1/2 percent** . In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities. The Committee is strongly committed to supporting maximum employment and returning inflation to its 2 percent objective.
+*(See also: [[L7 Financial Markets without banks#^tgbnej]])*
 
-- Open market operations in which the central bank decreases the money supply by selling bonds lead to a decrease in the price of bonds and an increase in the interest rate 
+In assessing the appropriate stance of monetary policy, the Committee will continue to monitor the implications of incoming information for the economic outlook. The Committee would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that could impede the attainment of the Committee’s goals. The Committee’s assessments will take into account a wide range of information, including readings on labor market conditions, inflation pressures and inflation expectations, and financial and international development.
 
-## **Choosing money or choosing the interest rate?** 
+Voting for the monetary policy action were Jerome H. Powell, Chair;
+- John C. Williams, Vice Chair;
+- Michael S. Barr;
+- Michelle W. Bowman;
+- Susan M. Collins;
+- Lisa D. Cook;
+- Austan D. Goolsbee;
+- Philip N. Jefferson;
+- Adriana D. Kugler;
+- Alberto G. Musalem;
+- Jeffrey R. Schmid; and Christopher J. Waller.
 
-**==> picture [350 x 324] intentionally omitted <==**
+## Federal Funds Rate, U.S. 2006 2024
 
-- A decision by the central bank to lower the interest rate from _i_ to _i_ ’ is equivalent to increasing the money supply from _M_ to _M’_ 
+During both the Great Recession and the Covid recession, the FFR reached the ZLB Since March 2022, the Fed has been tightening monetary policy
 
-- Rather than the money supply, the central bank could have chosen the interest rate and then adjusted the money supply so as to achieve the interest rate it had chosen 
+## Now we introduce
 
-- “Choosing” the interest rate, instead of money supply, is what modern central banks, including the Fed and the ECB, typically do 
+- **checking account deposits,** so that money = currency + deposit accounts
 
-## **A monetary policy decision** 
+- **banks** supplying deposits accounts
 
-## **Federal Reserve press release, January 29, 2025** 
+## Banks
 
-Recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate has stabilized at a low level in recent months, and labor market conditions remain solid. Inflation remains somewhat elevated. 
+Banks receive funds from people and firms in the form of deposit accounts, and use these funds to buy bonds or to make loans to other people and firms
 
-The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate. 
+- Banks receive funds from people and firms: the **liabilities** of the banks are therefore equal to the value of these **checkable deposits**
 
-**In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4- 1/4 to 4-1/2 percent** . In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities. The Committee is strongly committed to supporting maximum employment and returning inflation to its 2 percent objective. 
+- **reserves**
 
-In assessing the appropriate stance of monetary policy, the Committee will continue to monitor the implications of incoming information for the economic outlook. The Committee would be prepared to adjust the stance of monetary policy as appropriate if risks emerge that could impede the attainment of the Committee’s goals. The Committee’s assessments will take into account a wide range of information, including readings on labor market conditions, inflation pressures and inflation expectations, and financial and international development. 
+- Banks keep as some of the funds they receive (either in the form of **cash** or in an **account that banks have a central banks** )
 
-Voting for the monetary policy action were Jerome H. Powell, Chair; John C. Williams, Vice Chair; Michael S. Barr; Michelle W. Bowman; Susan M. Collins; Lisa D. Cook; Austan D. Goolsbee; Philip N. Jefferson; Adriana D. Kugler; Alberto G. Musalem; Jeffrey R. Schmid; and Christopher J. Waller. 
+- The **assets** of banks are the **bonds** and the **loans reserves** plus the
 
-## **Federal Funds Rate, U.S. 2006 2024** 
+## Balance sheet of banks
 
-**==> picture [505 x 340] intentionally omitted <==**
+**Assets Liabilities** Bonds Deposits accounts Loans Reserves
 
-**----- Start of picture text -----**<br>
-Monetary loosening<br>Monetary tightening<br>Zero Lower Bound (ZLB)<br>Great Recession Covid Recession<br>**----- End of picture text -----**<br>
+## Banks hold **reserves** for three reasons:
 
+1. On any given day, some depositors withdraw cash from their checking accounts, while others deposit cash into their accounts with no reason for these flows to balance → banks need to keep reserves
 
-During both the Great Recession and the Covid recession, the FFR reached the ZLB Since March 2022, the Fed has been tightening monetary policy 
+2. On any given day, people with accounts at the bank write checks to people with accounts at other banks, and people with accounts at other banks write checks to people with accounts at the bank → banks need to keep reserves
 
-## Now we introduce 
+3. Banks are typically subject to **reserve requirements** , which require them to hold reserves in some proportion of their deposits
 
-- **checking account deposits,** so that money = currency + deposit accounts 
+# Balance sheets of central bank and banks
 
-- **banks** supplying deposits accounts 
+## Equilibrium interest rate Part II: adding deposits accounts and banks
 
-## **Banks** 
+- Equilibrium in financial markets requires
 
-Banks receive funds from people and firms in the form of deposit accounts, and use these funds to buy bonds or to make loans to other people and firms 
+**Supply of CB money = Demand of CB money**
 
-- Banks receive funds from people and firms: the **liabilities** of the banks are therefore equal to the value of these **checkable deposits** 
+- Supply of central bank money H(s): under the direct control of the CB
 
-- **reserves** 
+- Demand of central bank money H(d) ?
 
-- Banks keep as some of the funds they receive (either in the form of **cash** or in an **account that banks have a central banks** ) 
+- Demand for currency by people, CU(d)
 
-- The **assets** of banks are the **bonds** and the **loans reserves** plus the 
+- Demand for reserves by banks, R(d)
 
-## **Balance sheet of banks** 
+## Demand for money, currency and deposits
 
-**Assets Liabilities** Bonds Deposits accounts Loans Reserves 
+and People can now hold both **currency checkable deposits**
 
-## Banks hold **reserves** for three reasons: 
+Therefore, **two** decisions:
 
-1. On any given day, some depositors withdraw cash from their checking accounts, while others deposit cash into their accounts with no reason for these flows to balance → banks need to keep reserves 
+- First, people must decide how much money to hold. As before
 
-2. On any given day, people with accounts at the bank write checks to people with accounts at other banks, and people with accounts at other banks write checks to people with accounts at the bank → banks need to keep reserves 
+## M(d ) = €Y L(i)
 
-3. Banks are typically subject to **reserve requirements** , which require them to hold reserves in some proportion of their deposits 
+- Second, they must decide how much of this money to hold in currency and how much to hold in checkable deposits
 
-# **Balance sheets of central bank and banks** 
+## CU(d) = c M(d)
 
-**==> picture [420 x 319] intentionally omitted <==**
+## D(d) = (1-c) M(d)
 
-## **Equilibrium interest rate Part II: adding deposits accounts and banks** 
+that is, people hold a fixed proportion c of their money in currency and a fixed proportion 1-c in deposits
 
-- Equilibrium in financial markets requires 
+## Demand for reserves
 
-**Supply of CB money = Demand of CB money** 
+- Banks holds a fraction of deposits as reserves
 
-**==> picture [79 x 20] intentionally omitted <==**
+- We know D(d) from the demand for deposit accounts
 
-- Supply of central bank money H[s] : under the direct control of the CB 
+- Demand for reserves is
 
-- Demand of central bank money H[d] ? 
+R(d ) = θD(d ) = θ(1-c)M(d)
 
-   - Demand for currency by people, CU[d] 
+where θ is the fraction of reserves to deposits
 
-   - Demand for reserves by banks, R[d] 
+## Demand for central bank money
 
-## **Demand for money, currency and deposits** 
+H(d ) = currency by people + reserves by banks
 
-and People can now hold both **currency checkable deposits** 
+H(d ) = CU(d ) + R(d)
 
-Therefore, **two** decisions: 
+= cM(d ) + θ(1-c)M(d)
 
-- First, people must decide how much money to hold. As before 
+= (c + θ(1-c))M(d)
 
-## M[d ] = €Y L(i) 
+- = (c + θ(1-c))€YL(i)
 
-- Second, they must decide how much of this money to hold in currency and how much to hold in checkable deposits 
+- Both the demand for currency and the demand for reserves are proportional to the demand for money
 
-## CU[d] = c M[d] 
+- Hence, they increase with _€Y_ and decrease with the interest rate _i_
 
-## D[d] = (1-c) M[d] 
+## Supply of CB money
 
-that is, people hold a fixed proportion c of their money in currency and a fixed proportion 1-c in deposits 
+- CB money is currency + reserves
 
-## **Demand for reserves** 
+- The central bank decides to supply a quantity of CB money equal to H
 
-- Banks holds a fraction of deposits as reserves 
+H(s) = H
 
-- We know D[d] from the demand for deposit accounts 
+Supply of CB money = Demand of CB money
 
-- Demand for reserves is 
+H(s) = H(d)
 
-R[d ] = θD[d ] = θ(1-c)M[d] 
+H = (c + θ(1-c))€YL(i)
 
-where θ is the fraction of reserves to deposits 
+## Determinants of demand and supply of central bank money
 
-## **Demand for central bank money** 
+**Note**: In the textbook, to simplify the analysis, it is assumed that c=0 or CU(d) =0 That is, people only hold money in the form of deposit accounts
 
-H[d ] = currency by people + reserves by banks 
+## With a graph…
 
-H[d ] = CU[d ] + R[d] 
+- The supply of CB money is under control of the CB and independent of the interest rate
 
-= cM[d ] + θ(1-c)M[d] 
+- The demand of CB money depends negatively on the interest rate for 2 reasons
 
-= [c + θ(1-c)]M[d] 
+- First, an increase in the interest rate decreases the demand for money and thus the demand for currency
 
-   - = [c + θ(1-c)]€YL(i) 
+- Second, as the demand for money decreases also the demand for deposits goes down and this decreases the demand for reserves from banks
 
-- Both the demand for currency and the demand for reserves are proportional to the demand for money 
+- The effects of an increase in nominal income or in the supply of CB money are qualitatively the same as before
 
-- Hence, they increase with _€Y_ and decrease with the interest rate _i_ 
+## Same as before!
 
-## **Supply of CB money** 
+## 2 alternative ways to look at the equilibrium
 
-- CB money is currency + reserves 
+- We have seen: Supply of CB of money = Demand of CB money
 
-- The central bank decides to supply a quantity of CB money equal to H 
+- But we can represent the equilibrium also as
 
-H[s] = H 
+- Money supply = money demand
 
-Supply of CB money = Demand of CB money 
+- Supply of reserves = demand of reserves
 
-H[s] = H[d] 
+## Money supply = money demand
 
-H = [c + θ(1-c)]€YL(i) 
+- Start from the condition that H(s) = H(d)
 
-## **Determinants of demand and supply of central bank money** 
+- _H_ = ( _c_ +q (1 _c_ ))$ _YL_ ( _i_ )
 
-**==> picture [468 x 360] intentionally omitted <==**
+- Divide both sides by (c + θ(1-c)) to get
 
-**Note** : In the textbook, to simplify the analysis, it is assumed that c=0 or CU[d] =0 That is, people only hold money in the form of deposit accounts 
+- The overall supply of money is equal to central bank money H times 1/(c + θ (1-c))
 
-## **With a graph…** 
+## Supply of reserves = demand for reserves
 
-**==> picture [319 x 330] intentionally omitted <==**
+- Start from the condition that H(s) = H(d)
 
-- The supply of CB money is under control of the CB and independent of the interest rate 
+_H_ = _CU d_ + _Rd_
 
-- The demand of CB money depends negatively on the interest rate for 2 reasons 
+- Bring CU(d) on the other side to get
 
-- First, an increase in the interest rate decreases the demand for money and thus the demand for currency 
+- **Federal funds market** is an actual market for bank reserves in the US
 
-• Second, as the demand for money decreases also the demand for deposits goes down and this decreases the demand for reserves from banks 
+- **Federal funds rate** is the interest rate determined on that market
 
-- The effects of an increase in nominal income or in the supply of CB money are qualitatively the same as before 
+- Federal funds rate is the **main indicator of US monetary policy** since the Fed can choose the federal funds rate it wants by changing H
 
-## **Same as before!** 
+## Powerless monetary policy: the liquidity trap
 
-## **2 alternative ways to look at the equilibrium** 
+## What happens once the interest rate falls to the **zero lower bound** ?
 
-- We have seen: Supply of CB of money = Demand of CB money 
+For now, ignore banks and assume all money is currency
 
-- But we can represent the equilibrium also as 
+When the interest rate reaches 0, and once people have enough money for transactions, they become indifferent between holding money and holding bonds **→** the demand for money becomes horizontal
 
-   - Money supply = money demand 
+As the money supply increases, individuals are willing to hold more money at the same interest rate, namely zero
 
-   - Supply of reserves = demand of reserves 
+This implies that, when the interest rate equals 0, further increases in money supply have no effect on the interest rate
 
-## **Money supply = money demand** 
+- What happens if we also consider banks and checkable deposits?
 
-- Start from the condition that H[s] = H[d] 
+- A similar argument as for the demand for money by people also applies to the demand for reserves by banks
 
-## - _H_ = [ _c_ +q (1 _c_ )]$ _YL_ ( _i_ ) 
+- banks are
 
-- Divide both sides by [c + θ(1-c)] to get 
+- If the interest rate is equal to 0, indifferent between holding reserves and buying bonds
 
-**==> picture [630 x 100] intentionally omitted <==**
+- Thus, when the interest rate is at the zero lower bound, and the central bank increases the money supply, we are likely to see an increase in checkable deposits + currency and bank reserves, with the interest rate remaining at 0
 
-**----- Start of picture text -----**<br>
-1<br>=<br>$ YL ( i )<br>−<br>Money  [ c +  (1 c )]  H Money<br>supply demand<br>**----- End of picture text -----**<br>
+## The liquidity trap or zero lower bound in action
 
+The large increase in the supply of central bank money caused by the Great Recession and the Covid Recession was absorbed by households and banks
 
-- The overall supply of money is equal to central bank money H times 1/[c + θ (1-c)] 
-
-## **Supply of reserves = demand for reserves** 
-
-- Start from the condition that H[s] = H[d] 
-
-_H_ = _CU d_ + _Rd_ 
-
-- Bring CU[d] on the other side to get 
-
-**==> picture [538 x 88] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-d d<br>H  - CU =  R Demand for<br>Supply of<br>reserves<br>reserves<br>**----- End of picture text -----**<br>
-
-
-- **Federal funds market** is an actual market for bank reserves in the US 
-
-- **Federal funds rate** is the interest rate determined on that market 
-
-- Federal funds rate is the **main indicator of US monetary policy** since the Fed can choose the federal funds rate it wants by changing H 
-
-## **Powerless monetary policy: the liquidity trap** 
-
-## What happens once the interest rate falls to the **zero lower bound** ? 
-
-**==> picture [276 x 299] intentionally omitted <==**
-
-For now, ignore banks and assume all money is currency 
-
-When the interest rate reaches 0, and once people have enough money for transactions, they become indifferent between holding money and holding bonds **→** the demand for money becomes horizontal 
-
-As the money supply increases, individuals are willing to hold more money at the same interest rate, namely zero 
-
-This implies that, when the interest rate equals 0, further increases in money supply have no effect on the interest rate 
-
-- What happens if we also consider banks and checkable deposits? 
-
-- A similar argument as for the demand for money by people also applies to the demand for reserves by banks 
-
-- banks are 
-
-- If the interest rate is equal to 0, indifferent between holding reserves and buying bonds 
-
-- Thus, when the interest rate is at the zero lower bound, and the central bank increases the money supply, we are likely to see an increase in checkable deposits + currency and bank reserves, with the interest rate remaining at 0 
-
-## **The liquidity trap or zero lower bound in action** 
-
-**==> picture [492 x 332] intentionally omitted <==**
-
-The large increase in the supply of central bank money caused by the Great Recession and the Covid Recession was absorbed by households and banks 
-
+## Related Notes
+- [[L7 Financial Markets without banks]]
+- [[L8 & L9 Financial Markets with banks]]
+- [[Lect16]]

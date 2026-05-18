@@ -1,632 +1,380 @@
-THE END OF BRETTON WOODS AND DEREGULATION ALFANI-COLLI CHAPTER 16 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "19_Bretton woods deregulation"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Economic history Ay 2025/2026 
+THE END OF BRETTON WOODS AND DEREGULATION ALFANI-COLLI CHAPTER 16
 
-## IN THIS EPISODE 
+Economic history Ay 2025/2026
 
-- Bretton Woods: a stable system? 
+## IN THIS EPISODE
 
-- The end of Bretton Woods 
+- Bretton Woods: a stable system?
 
-- The 1970s: a pivot of change 
+- The end of Bretton Woods
 
-   - The oil crisis 
+- The 1970s: a pivot of change
 
-   - The rise of neo-liberalism 
+- The oil crisis
 
-- Reagan, the _Reaganomics_ , and the 
+- The rise of neo-liberalism
 
-- spread of the deregulation 
+- Reagan, the _Reaganomics_ , and the
 
-**==> picture [179 x 119] intentionally omitted <==**
+- spread of the deregulation
 
-**==> picture [270 x 338] intentionally omitted <==**
+## THE BRETTON WOODS SYSTEM
 
-**==> picture [226 x 338] intentionally omitted <==**
+In the post-WWII period, the Bretton Woods monetary system had guaranteed:
 
-a.y. 2025/2026 
+- economic growth: the period of economic miracles or the ‘Golden Age’
 
-30067 
+- low unemployment rate: average unemployment in major OECD countries is 3%
 
-2 
+- monetary stability
 
-## THE BRETTON WOODS SYSTEM 
+- price stability
 
-In the post-WWII period, the Bretton Woods monetary system had guaranteed: 
+- relatively free international trade
 
-   - economic growth: the period of economic miracles or the ‘Golden Age’ 
+- increase in international investment
 
-   - low unemployment rate: average unemployment in major OECD countries is 3% 
+- Bretton Woods was also not just a monetary system but part of a larger political project whose pivot was the USA.
 
-   - monetary stability 
+## THE BRETTON WOODS SYSTEM
 
-   - price stability 
+At the time the Bretton Woods agreements were signed, observers held a major belief:
 
-   - relatively free international trade 
+- the **US** would always economically **outperform** other countries
 
-   - increase in international investment 
+- - their **trade balance** would always be in **surplus** .
 
-- Bretton Woods was also not just a monetary system but part of a larger political project whose pivot was the USA. 
+## THE BRETTON WOODS SYSTEM
 
-a.y. 2025/2026 
+- In the 1950s, however, **Europe** and **Japan** began to recover economically faster than expected and their trade balances improved.
 
-30067 
+- The USA trade balance started to deteriorate
 
-3 
+- Europe became an attractive market for American investment and this caused an **outflow of dollars** from the US to Europe.
 
-## THE BRETTON WOODS SYSTEM 
+## THE BRETTON WOODS SYSTEM
 
-At the time the Bretton Woods agreements were signed, observers held a major belief: 
+- After World War II, the dollar was both a **reserve** and an **international currency** .
 
-- the **US** would always economically **outperform** other countries 
+- It became a source of **unlimited liquidity**
 
-   - their **trade balance** would always be in **surplus** . 
+- for international aid, for trade flows, for foreign investment, for military spending.
 
-a.y. 2025/2026 
+- This mechanism had already been challenged by Keynes, who believed it would trigger a power logic capable of irreparably unbalancing economic relations.
 
-30067 
+- The US was in the position of:
 
-4 
+- **“buying without spending, lending without giving up, giving without losing”**
 
-## THE BRETTON WOODS SYSTEM 
+- Bretton Woods was a fragile and strong system because it allowed a deficit without tears (Jacques Reuff).
 
-- In the 1950s, however, **Europe** and **Japan** began to recover economically faster than expected and their trade balances improved. 
+## THE BRETTON WOODS SYSTEM: A STABLE SYSTEM?
 
-##  The USA trade balance started to deteriorate 
+- As the dollar established itself as the international currency, the system began to show its first problems.
 
-- Europe became an attractive market for American investment and this caused an **outflow of dollars** from the US to Europe. 
+- **TRIFFIN DILEMMA 1960:**
 
-a.y. 2025/2026 
+- To supply liquidity, the U.S. must run balance of payment deficits.
 
-30067 
+- The larger the deficits, the less credible the system become: the value of the dollar decreases and the convertibility at 35$ per once of gold is not credible anymore
 
-5 
+- The more dollars the world’s central banks **stockpiled** as a store of value, the more the US had to **print money** , and the higher the domestic **inflation** .
 
-## THE BRETTON WOODS SYSTEM 
+## DOLLARS VS GOLD
 
-- After World War II, the dollar was both a **reserve** and an **international currency** . 
+## The Gold Pool
 
-- It became a source of **unlimited liquidity** 
+As confidence in the $35-per-ounce gold peg weakened in the early 1960s, major Western central banks created the London Gold Pool in 1961.
 
-   - for international aid, for trade flows, for foreign investment, for military spending. 
+- Coordinated gold sales on the London market to keep the price fixed at $35.
 
-- This mechanism had already been challenged by Keynes, who believed it would trigger a power logic capable of irreparably unbalancing economic relations. 
+- By pooling their reserves, members aimed to defend the gold–dollar standard and prevent speculative pressures from driving gold above the official parity.
 
-- The US was in the position of: 
+- The Gold Pool ultimately collapsed in 1968, when rising dollar imbalances made the fixed price impossible to maintain.
 
-      - **“buying without spending, lending without giving up, giving without losing”** 
+## SDRs:
 
-- Bretton Woods was a fragile and strong system because it allowed a deficit without tears (Jacques Reuff). 
+As the weaknesses of the gold–dollar system became obvious, the IMF created Special Drawing Rights (SDRs) in 1969.
 
-a.y. 2025/2026 
+- SDRs were a reserve asset based on a basket of major currencies.
 
-30067 
+- Their purpose was to give countries an additional source of international liquidity that did not depend on the U.S. running deficits.
 
-6 
+- By providing this new asset, the IMF hoped to ease pressure on the dollar and reduce the incentives for countries to convert their dollar holdings into American gold.
 
-## THE BRETTON WOODS SYSTEM: A STABLE SYSTEM? 
+## INFLATION TO EU
 
-- As the dollar established itself as the international currency, the system began to show its first problems. 
+- The U.S. spent dollars abroad to finance:
 
-## • **TRIFFIN DILEMMA 1960:** 
+- The Marshall Plan
 
-   - To supply liquidity, the U.S. must run balance of payment deficits. 
+- Military bases
 
-   - The larger the deficits, the less credible the system become: the value of the dollar decreases and the convertibility at 35$ per once of gold is not credible anymore 
+- Foreign investment
 
-- The more dollars the world’s central banks **stockpiled** as a store of value, the more the US had to **print money** , and the higher the domestic **inflation** . 
+- imports
 
-a.y. 2025/2026 
+- The Vietnam War
 
-30067 
+- Domestic expansion programs –> The Great Society
 
-7 
+Each dollar sent abroad became a **claim on U.S. gold**
 
-**==> picture [466 x 350] intentionally omitted <==**
+. **To mantain fixed echage rates had to print more money**
 
-**==> picture [453 x 188] intentionally omitted <==**
+## POSSIBLE ACTIONS (NOT TAKEN)
 
-a.y. 2025/2026 
+- Decrease Public Spending.
 
-30067 
+- Increasing taxes in order to limit demand (did not do that until mid-1968).
 
-8 
+- Increase interest rate in the private, non-banking sector.
 
-## DOLLARS VS GOLD 
+- to stimulate savings instead of consumption.
 
-## **The Gold Pool** 
+- **Inflation continued to rise** and affected stronger non protected workers categories.
 
-As confidence in the $35-per-ounce gold peg weakened in the early 1960s, major Western central banks created the London Gold Pool in 1961. 
+- Young people and women
 
-- Coordinated gold sales on the London market to keep the price fixed at $35. 
+- The most offset by inflation are the ones at the bottom of the distribution and poor families.
 
-- By pooling their reserves, members aimed to defend the gold–dollar standard and prevent speculative pressures from driving gold above the official parity. 
+- Wealthy people derive most of their income from profits that adjust weekly to inflation (having stocks, land, commodities).
 
-- The Gold Pool ultimately collapsed in 1968, when rising dollar imbalances made the fixed price impossible to maintain. 
+Strikes and Rebellions spread everywhere in the U.S. and Europe
 
-## **SDRs:** 
+## MEANTIME IN THE WORLD…
 
-As the weaknesses of the gold–dollar system became obvious, the IMF created Special Drawing Rights (SDRs) in 1969. 
+The Baby Boomer Generation and the exposure to mass media
 
-- SDRs were a reserve asset based on a basket of major currencies. 
+- Civil Rights
 
-- Their purpose was to give countries an additional source of international liquidity that did not depend on the U.S. running deficits. 
+- Nuclear Attacks
 
-- By providing this new asset, the IMF hoped to ease pressure on the dollar and reduce the incentives for countries to convert their dollar holdings into American gold. 
+- Women Rights
 
-a.y. 2025/2026 
+- War in Vietnam
 
-30067 
+- Social Movements
 
-9 
+- Peace Movements
 
-## INFLATION TO EU 
+- Anti Capitalism Movements
 
-- The U.S. spent dollars abroad to finance: 
+## THIS IS THE END, MY GOLDEN FRIEND, THE END
 
-   - The Marshall Plan 
+In August 1971 Nixon had two alternatives:
 
-   - Military bases 
+- 1) stick to the pledge of **dollar convertibility:** restrictive monetary policy, spending cuts, limit wage growth
 
-   - Foreign investment 
+## 2) favour national objectives
 
-   - imports 
+He chose the second option and declared the **inconvertibility of the dollar** on 15 August 1971. Re-elected in 1972, the US president did not hesitate and took a series of measures:
 
-   - The Vietnam War 
+- **devaluation** of the dollar against gold (- 10%)
 
-   - Domestic expansion programs –> The Great Society 
+- increased tariff **protection** (+ 10%)
 
-Each dollar sent abroad became a **claim on U.S. gold** 
+- **price and wage controls**
 
-**==> picture [206 x 259] intentionally omitted <==**
+## THIS IS THE END, MY GOLDEN FRIEND, THE END
 
-**==> picture [189 x 259] intentionally omitted <==**
+- The collapse of Bretton Woods removed the restrictions on **exchange rate fluctuations** between currencies.
 
-. **To mantain fixed echage rates had to print more money** 
+- Governments were now free to stimulate the economies of their countries through expansive monetary policies.
 
-a.y. 2025/2026 
+- In the US the **money supply** grew by around 40% from 1971 to 1973, in Britain by 70% in 1972-1973.
 
-30067 
+- Between 1970 and 1973 industrial production in the major western economies grew from 15% to 25%.
 
-10 
+- **Demand for raw materials** grew exponentially and consequently so did **prices** (inflation increased) in the US, food prices rose by 20% in 1973 alone.
 
-## POSSIBLE ACTIONS (NOT TAKEN) 
+- These inflationary pressures were compounded by **the oil crises**: the first in 1973 and the second wave in 1979-1980.
 
-- Decrease Public Spending. 
+## Energy Crisis!!!
 
-- Increasing taxes in order to limit demand (did not do that until mid-1968). 
+## 1970S ENERGY CRISIS
 
-- Increase interest rate in the private, non-banking sector. 
+- The 1970s were characterised by **two oil crises**:
 
-   - to stimulate savings instead of consumption. 
+- **1973**: in reaction to the Yom Kippur War, the Arab **OPEC** countries imposed an embargo on oil sales to the US and Israel’s allies ⟶ the price of oil tripled in the space of a few months
+*(See also: [[17_Prosperity at last#^6gjc4y]])*
 
-- **Inflation continued to rise** and affected stronger non protected workers categories. 
+- **1979**: the Iranian revolution and the ensuing Iran-Iraq war caused a sharp drop in oil production and a sharp increase in the price
 
-   - Young people and women 
+- The drastic effect of higher oil prices was **an inflationary spiral**: in 1974 consumer prices rose by 12% in the US, 14% in France, 16% in the UK, 23% in Japan.
 
-- The most offset by inflation are the ones at the bottom of the distribution and poor families. 
+- In addition to **inflation** , economies were hit by **unemployment and stagnation** . This combination came to be known as **stagflation**: a phenomenon that had never occurred before.
 
-- Wealthy people derive most of their income from profits that adjust weekly to inflation (having stocks, land, commodities). 
+## Oil price in the US, 1970-2000
 
-Strikes and Rebellions spread everywhere in the U.S. and Europe 
+## Inflation in the US, 1953-2015
 
-a.y. 2025/2026 
+## Inflation in selected OECD countries, 1950-2000
 
-30067 
+## THE 1970S: A PIVOT OF CHANGE
 
-11 
+- Only a quarter of the consumer price increases were a direct consequence of the oil crisis: economic and monetary policy choices also played an important role.
 
-## MEANTIME IN THE WORLD… 
+- In the developed economies, the reaction of governments was initially Keynesian: **expansive** .
 
-The Baby Boomer Generation and the exposure to mass media 
+- **monetary policy + expansive fiscal policy**
 
-- Civil Rights 
+- The fiscal stimulus was very generous:
 
-   - Nuclear Attacks 
+- increased **public sector employment**
 
-      - Women Rights 
+- **industrial bailouts**
 
-         - War in Vietnam 
+- increased **welfare spending**
 
-            - Social Movements 
+## THE 1970S: A PIVOT OF CHANGE
 
-               - Peace Movements 
+- Overall, in the **developed economies** Keynesian responses to the crisis did not yield satisfactory results.
 
-                  - Anti Capitalism Movements 
+- This paved the way for a **neo-liberal reaction** that would profoundly reshape the role of government in the economy in the late 1970s and early 1980s.
 
-**==> picture [342 x 232] intentionally omitted <==**
+- In countries that were trying to get out of underdevelopment, the most common response was to **resort to**:
 
-**==> picture [342 x 257] intentionally omitted <==**
+- **foreign borrowing**
 
-a.y. 2025/2026 
+- because of high inflation, real interest rates were low and international banks were willing to lend.
 
-30067 
+## THE 1970S: A PIVOT OF CHANGE
 
-12 
+- In terms of international finance, a triangular circulation was established in the 1970s:
 
-**==> picture [770 x 478] intentionally omitted <==**
+- oil-exporting countries deposit the proceeds of oil sales - petrodollars - with large international banks
 
-a.y. 2025/2026 
+- big international banks lend to late developing countries (LDCs)
 
-30067 
+- LDCs contract borrows to pay both for imports and the heavy oil bills
 
-13 
+- By the end of the 1970s the dollar-denominated foreign debt amounted to hundreds of billions.
 
-**==> picture [478 x 320] intentionally omitted <==**
+## CRISIS OF INTERNATIONAL DEBT
 
-**==> picture [502 x 320] intentionally omitted <==**
+- Since foreign debt was indexed to the dollar, every one-percentage-point increase in U.S. interest rates
 
-a.y. 2025/2026 
+- cost Third World countries four or five billion dollars annually.
 
-30067 
+- Between 1980 and 1983, 34 developing countries were forced to renegotiate their debt.
 
-14 
+- The surge in debt and the increased burdens related to oil prices and the general rise in prices led to the abandonment of import substitution policies previously adopted in many countries...
 
-## THIS IS THE END, MY GOLDEN FRIEND, THE END 
+- …under the pressure of the IMF, which tied assistance to reforms in line with the "Washington consensus”
 
-**==> picture [433 x 180] intentionally omitted <==**
+## THE 1970S: A PIVOT OF CHANGE
 
-In August 1971 Nixon had two alternatives: 
+- As we said, the ineffectiveness of Keynesian policies paved the way for a neo-liberal that would profoundly reshape the role of the state in the economy.
 
-- 1) stick to the pledge of **dollar convertibility:** restrictive monetary policy, spending cuts, limit wage growth 
+- **Milton Friedman** ’s critique of Keynesianism:
 
-## 2) favour national objectives 
+- state intervention distorts the behaviour of economic actors
 
-He chose the second option and declared the **inconvertibility of the dollar** on 15 August 1971. Re-elected in 1972, the US president did not hesitate and took a series of measures: 
+- state intervention causes inflationary spirals
 
-- **devaluation** of the dollar against gold (- 10%) 
+## THE 1970S: A PIVOT OF CHANGE
 
-- increased tariff **protection** (+ 10%) 
+- A new economic paradigm begins to assert itself, linked to the centrality of the market and money, and the reduction of the role of the state. This is referred to as **neo-liberalism** .
 
-- **price and wage controls** 
+- **Monetarism** → management and planning of the money supply in an anti-inflationary direction.
 
-a.y. 2025/2026 
+- **Supply-side economics** → the proper functioning of the market is achieved by acting on the supply, particularly through lower taxation for middle to high-income brackets.
 
-30067 
+## FROM CARTER TO REAGAN
 
-15 
+- Beginning in 1979 - during the Carter presidency - in order to crush high US inflation the new Fed chairman Paul Volcker adopted a restrictive monetary policy that lasted almost three years:
 
-## THIS IS THE END, MY GOLDEN FRIEND, THE END 
+- the Fed raised rates from 10% to 15% and then to 20%, keeping them at these levels until at least the end of 1982.
 
-- The collapse of Bretton Woods removed the restrictions on **exchange rate fluctuations** between currencies. 
+- From 1980 to 1982, US economic performance is dominated by the effects of **monetary tightening**: interest rates (nominal and real) rise caused:
 
-- Governments were now free to stimulate the economies of their countries through expansive monetary policies. 
+- Overevaluation of the $
 
-   - In the US the **money supply** grew by around 40% from 1971 to 1973, in Britain by 70% in 1972-1973. 
+- Recession in the economy.
 
-   - Between 1970 and 1973 industrial production in the major western economies grew from 15% to 25%. 
+- **Volcker** achieved a historic success **limiting inflation expansion** (even if the effect were not long.
 
-- **Demand for raw materials** grew exponentially and consequently so did **prices** (inflation increased) in the US, food prices rose by 20% in 1973 alone. 
+- lasting) but the **US economy went into recession and unemployment rose**
 
-- These inflationary pressures were compounded by **the oil crises** : the first in 1973 and the second wave in 1979-1980. 
+## Inflation in the US, 1979-1990
 
-a.y. 2025/2026 
+## REAGAN AND THE _REAGANOMICS_
 
-30067 
+- Starting in 1981 (with the Economic Recovery Act), the new administration of President Ronald Reagan opted for a massive use of **fiscal policy** to help the US out of the recession caused by Volcker's antiinflationary policies.
 
-16 
+-:
 
-**==> picture [450 x 282] intentionally omitted <==**
+- **Expansionary fiscal policy**
 
-**==> picture [323 x 218] intentionally omitted <==**
+- **tax cuts** for the upper and middle class
 
-**==> picture [351 x 281] intentionally omitted <==**
+- **reduced social spending** , increased military spending
 
-## Energy Crisis!!! 
+- **Deregulation**
 
-a.y. 2025/2026 
+- Signs of confidence from Reagan policies:
 
-30067 
+- **Appreciation of the dollar** (but with negative consequences on the trade balance)
 
-17 
+- **Decline in unemployment** (late 1980s due to a structural change in the economy)
 
-## 1970S ENERGY CRISIS 
+- **Control of inflation**
 
-- The 1970s were characterised by **two oil crises** : 
+## THE _REAGANOMICS_ BEYOND THE US
 
-   - **1973** : in reaction to the Yom Kippur War, the Arab **OPEC** countries imposed an embargo on oil sales to the US and Israel’s allies ⟶ the price of oil tripled in the space of a few months 
+- The assertion of the new economic paradigm pushes in the opposite direction to the previous social compromise based on public spending and political regulation of the economy: ^185ylv
 
-   - **1979** : the Iranian revolution and the ensuing Iran-Iraq war caused a sharp drop in oil production and a sharp increase in the price 
+- the new watchwords **are less taxes** , **less public spending** , and **less regulation** .
 
-- The drastic effect of higher oil prices was **an inflationary spiral** : in 1974 consumer prices rose by 12% in the US, 14% in France, 16% in the UK, 23% in Japan. 
+- During the 1980s, deregulation affected most industrial and service sectors in the United States.
 
-- In addition to **inflation** , economies were hit by **unemployment and stagnation** . This combination came to be known as **stagflation** : a phenomenon that had never occurred before. 
+- Most **European public enterprises** (including banks), now perceived as a source of inefficiency, waste and corruption, are **privatised** during the 1990s.
 
-a.y. 2025/2026 
+- In the late 1990s, industrial economies are freed from state controls and constraints as they have not been since the 1930s
 
-30067 
+**→ extraordinary growth in the size of private enterprises.**
 
-18 
+## THE _REAGANOMICS_ BEYOND THE US
 
-## **Oil price in the US, 1970-2000** 
+- The process began in Great Britain in the Thatcher years and then involved
 
-**==> picture [914 x 368] intentionally omitted <==**
+- France and Italy in terms of value.
 
-a.y. 2025/2026 
+- Privatisation ranks first in Great Britain and second in Italy.
 
-30067 
+- The collapse of the Soviet Union in 1991 also inaugurated an unprecedented **privatisation process in the East**:
 
-19 
+- it was part of the transition from a centrally planned state economy to a market economy.
 
-## **Inflation in the US, 1953-2015** 
+- Narrative and ideology of privatisation processes:
 
-**==> picture [924 x 430] intentionally omitted <==**
+- an inseparable link is postulated between **economic efficiency and private ownership**
 
-a.y. 2025/2026 
+- privatisation as an opportunity to promote **greater efficiency and transparency in financial markets**
 
-30067 
+## EUROPE
 
-20 
+With the fall of the Berlin Wall (1989) and the final dissolution of the Soviet Union (1991), the United States emerged as the definitive political and military **victor in the Cold War** .
 
-**==> picture [620 x 249] intentionally omitted <==**
+. However, a new entity was emerging as one of the major players in the field: **Europe**
 
-**==> picture [541 x 252] intentionally omitted <==**
+The long-awaited German unification made it possible to **complete the process of European unification** that European politicians had been building for at least two generations.
 
-a.y. 2025/2026 
-
-30067 
-
-21 
-
-## **Inflation in selected OECD countries, 1950-2000** 
-
-**==> picture [793 x 445] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-22 
-
-## THE 1970S: A PIVOT OF CHANGE 
-
-- Only a quarter of the consumer price increases were a direct consequence of the oil crisis: economic and monetary policy choices also played an important role. 
-
-- In the developed economies, the reaction of governments was initially Keynesian: **expansive** . 
-
-- **monetary policy + expansive fiscal policy** 
-
-- The fiscal stimulus was very generous: 
-
-   - increased **public sector employment** 
-
-   - **industrial bailouts** 
-
-   - increased **welfare spending** 
-
-a.y. 2025/2026 
-
-30067 
-
-23 
-
-## THE 1970S: A PIVOT OF CHANGE 
-
-- Overall, in the **developed economies** Keynesian responses to the crisis did not yield satisfactory results. 
-
-- This paved the way for a **neo-liberal reaction** that would profoundly reshape the role of government in the economy in the late 1970s and early 1980s. 
-
-- In countries that were trying to get out of underdevelopment, the most common response was to **resort to** : 
-
-- **foreign borrowing** 
-
-   - because of high inflation, real interest rates were low and international banks were willing to lend. 
-
-a.y. 2025/2026 
-
-30067 
-
-24 
-
-## THE 1970S: A PIVOT OF CHANGE 
-
-- In terms of international finance, a triangular circulation was established in the 1970s: 
-
-   - oil-exporting countries deposit the proceeds of oil sales - petrodollars - with large international banks 
-
-   - big international banks lend to late developing countries (LDCs) 
-
-   - LDCs contract borrows to pay both for imports and the heavy oil bills 
-
-- By the end of the 1970s the dollar-denominated foreign debt amounted to hundreds of billions. 
-
-a.y. 2025/2026 
-
-30067 
-
-25 
-
-## CRISIS OF INTERNATIONAL DEBT 
-
-- Since foreign debt was indexed to the dollar, every one-percentage-point increase in U.S. interest rates 
-
-   - cost Third World countries four or five billion dollars annually. 
-
-   - Between 1980 and 1983, 34 developing countries were forced to renegotiate their debt. 
-
-- The surge in debt and the increased burdens related to oil prices and the general rise in prices led to the abandonment of import substitution policies previously adopted in many countries... 
-
-- …under the pressure of the IMF, which tied assistance to reforms in line with the "Washington consensus” 
-
-a.y. 2025/2026 
-
-30067 
-
-26 
-
-## THE 1970S: A PIVOT OF CHANGE 
-
-**==> picture [387 x 291] intentionally omitted <==**
-
-- As we said, the ineffectiveness of Keynesian policies paved the way for a neo-liberal that would profoundly reshape the role of the state in the economy. 
-
-- **Milton Friedman** ’s critique of Keynesianism: 
-
-   - state intervention distorts the behaviour of economic actors 
-
-   - state intervention causes inflationary spirals 
-
-a.y. 2025/2026 
-
-30067 
-
-27 
-
-## THE 1970S: A PIVOT OF CHANGE 
-
-- A new economic paradigm begins to assert itself, linked to the centrality of the market and money, and the reduction of the role of the state. This is referred to as **neo-liberalism** . 
-
-   - **Monetarism** → management and planning of the money supply in an anti-inflationary direction. 
-
-   - **Supply-side economics** → the proper functioning of the market is achieved by acting on the supply, particularly through lower taxation for middle to high-income brackets. 
-
-a.y. 2025/2026 
-
-30067 
-
-28 
-
-## FROM CARTER TO REAGAN 
-
-- Beginning in 1979 - during the Carter presidency - in order to crush high US inflation the new Fed chairman Paul Volcker adopted a restrictive monetary policy that lasted almost three years: 
-
-- the Fed raised rates from 10% to 15% and then to 20%, keeping them at these levels until at least the end of 1982. 
-
-- From 1980 to 1982, US economic performance is dominated by the effects of **monetary tightening** : interest rates (nominal and real) rise caused: 
-
-   - Overevaluation of the $ 
-
-   - Recession in the economy. 
-
-- **Volcker** achieved a historic success **limiting inflation expansion** (even if the effect were not long. 
-
-- lasting) but the **US economy went into recession and unemployment rose** 
-
-a.y. 2025/2026 
-
-30067 
-
-29 
-
-**==> picture [360 x 232] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-30 
-
-**==> picture [579 x 425] intentionally omitted <==**
-
-**==> picture [323 x 425] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-31 
-
-## **Inflation in the US, 1979-1990** 
-
-**==> picture [936 x 361] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-32 
-
-## REAGAN AND THE _REAGANOMICS_ 
-
-- Starting in 1981 (with the Economic Recovery Act), the new administration of President Ronald Reagan opted for a massive use of **fiscal policy** to help the US out of the recession caused by Volcker's antiinflationary policies. 
-
-- : 
-
-- **Expansionary fiscal policy** 
-
-   - **tax cuts** for the upper and middle class 
-
-   - **reduced social spending** , increased military spending 
-
-   - **Deregulation** 
-
-- Signs of confidence from Reagan policies: 
-
-   - **Appreciation of the dollar** (but with negative consequences on the trade balance) 
-
-   - **Decline in unemployment** (late 1980s due to a structural change in the economy) 
-
-   - **Control of inflation** 
-
-a.y. 2025/2026 
-
-30067 
-
-33 
-
-## THE _REAGANOMICS_ BEYOND THE US 
-
-- The assertion of the new economic paradigm pushes in the opposite direction to the previous social compromise based on public spending and political regulation of the economy: 
-
-   - the new watchwords **are less taxes** , **less public spending** , and **less regulation** . 
-
-- During the 1980s, deregulation affected most industrial and service sectors in the United States. 
-
-- Most **European public enterprises** (including banks), now perceived as a source of inefficiency, waste and corruption, are **privatised** during the 1990s. 
-
-- In the late 1990s, industrial economies are freed from state controls and constraints as they have not been since the 1930s 
-
-**→ extraordinary growth in the size of private enterprises.** 
-
-a.y. 2025/2026 
-
-30067 
-
-34 
-
-## THE _REAGANOMICS_ BEYOND THE US 
-
-- The process began in Great Britain in the Thatcher years and then involved 
-
-   - France and Italy in terms of value. 
-
-   - Privatisation ranks first in Great Britain and second in Italy. 
-
-- The collapse of the Soviet Union in 1991 also inaugurated an unprecedented **privatisation process in the East** : 
-
-   - it was part of the transition from a centrally planned state economy to a market economy. 
-
-- Narrative and ideology of privatisation processes: 
-
-      - an inseparable link is postulated between **economic efficiency and private ownership** 
-
-      - privatisation as an opportunity to promote **greater efficiency and transparency in financial markets** 
-
-a.y. 2025/2026 
-
-30067 
-
-35 
-
-## EUROPE 
-
-With the fall of the Berlin Wall (1989) and the final dissolution of the Soviet Union (1991), the United States emerged as the definitive political and military **victor in the Cold War** . 
-
-. However, a new entity was emerging as one of the major players in the field: **Europe** 
-
-The long-awaited German unification made it possible to **complete the process of European unification** that European politicians had been building for at least two generations. 
-
-a.y. 2025/2026 
-
-30067 
-
-36 
-
-**==> picture [798 x 479] intentionally omitted <==**
-
-a.y. 2025/2026 
-
-30067 
-
-37 
-
+## Related Notes
+- [[17_Prosperity at last]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- [[13_Economic Instability]]

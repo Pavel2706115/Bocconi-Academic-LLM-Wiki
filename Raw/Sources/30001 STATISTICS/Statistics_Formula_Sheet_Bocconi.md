@@ -1,3 +1,16 @@
+---
+Title: "Statistics_Formula_Sheet_Bocconi"
+Author: "Bocconi"
+Reference: "Course Material"
+ContentType:
+  - "markdown"
+Created: 2026-05-18
+Processed: true
+tags:
+  - "source"
+
+---
+
 ## **1. Descriptive Statistics** 
 
 Frequency notation f_i = absolute frequency p_i = f_i/n = relative frequency F_i = cumulative frequency n = Σ f_i = sample size 

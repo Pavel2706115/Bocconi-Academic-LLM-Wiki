@@ -1,593 +1,510 @@
-**==> picture [42 x 165] intentionally omitted <==**
+---
+course: "Statistics"
+course_code: "30001"
+tags:
+  - "source"
+  - course_30001
+Title: "RANDOM VARIABLES AND THEIR COMBINATIONS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **RANDOM VARIABLES AND THEIR COMBINATIONS** 
+# RANDOM VARIABLES AND THEIR COMBINATIONS
 
-**Materials prepared by R. Piccarreta for students of course 30001 / Bocconi University. Distribution - including via the web - without permission is prohibited.** 
+## Motivation: the statistical inference problem
 
-## **Motivation: the statistical inference problem [READING]** 
+**(READING)**
 
-The statistical inference problem arises when one is interested in evaluating measures that describe (or summarize) the characteristics of an **entire population** , called _**parameters**_ , but collecting data on all units of the population is _**prohibitively**_ expensive (cost or time), _**difficult**_ or **even** _**impossible.**_ This is the case, for example, when the population is very large (all companies operating in Europe) or not fully defined or accessible (all the people who purchased a certain brand’s products or who were exposed to an advertising message). In such cases, it may be necessary or convenient to collect data only on a **random sample** of units drawn from the population and to infer about population _**parameters**_ based on the sample summary measures calculated on observed data, called _**statistics**_ . 
+The statistical inference problem arises when one is interested in evaluating measures that describe (or summarize) the characteristics of an **entire population** , called _**parameters**_ , but collecting data on all units of the population is _**prohibitively**_ expensive (cost or time), _**difficult**_ or **even** _**impossible.**_ This is the case, for example, when the population is very large (all companies operating in Europe) or not fully defined or accessible (all the people who purchased a certain brand’s products or who were exposed to an advertising message). In such cases, it may be necessary or convenient to collect data only on a **random sample** of units drawn from the population and to infer about population _**parameters**_ based on the sample summary measures calculated on observed data, called _**statistics**_ .
 
-**2** 
+## Motivation: the statistical inference problem
 
-## **Motivation: the statistical inference problem [READING]** 
+**(READING)**
 
-When inferring a **population parameter** from a **statistic** calculated from a **sample** of size 𝒏, it is crucial to assess the **reliability** of this generalization and the **risk associated with it** . Therefore one must appropriately **quantify the uncertainty** inherent to the fact that inference is **one** based upon only of the samples that could have been drawn from the population. 
+When inferring a **population parameter** from a **statistic** calculated from a **sample** of size 𝒏, it is crucial to assess the **reliability** of this generalization and the **risk associated with it** . Therefore one must appropriately **quantify the uncertainty** inherent to the fact that inference is **one** based upon only of the samples that could have been drawn from the population.
 
-Thus, one must evaluate the relationship between the **parameter** of interest and the distribution of the considered **statistic** calculated based on **all the possible samples** of size 𝒏 that can be drawn from the population, in order to quantify, for example, the dispersion of the **statistic** around the **parameter** and the consequent uncertainty of the inferential process. 
+Thus, one must evaluate the relationship between the **parameter** of interest and the distribution of the considered **statistic** calculated based on **all the possible samples** of size 𝒏 that can be drawn from the population, in order to quantify, for example, the dispersion of the **statistic** around the **parameter** and the consequent uncertainty of the inferential process.
 
-In order to make such an assessment, we will first consider the case when it is possible to make assumptions about the population (or better _about the distribution of a variable of interest in the population_ ) and examine: 
+In order to make such an assessment, we will first consider the case when it is possible to make assumptions about the population (or better _about the distribution of a variable of interest in the population_ ) and examine:
 
-▪ The distribution of statistics based on simple random samples drawn from the population ▪ The relationship between the characteristics of this distribution and the parameter of interest Specifically, we consider **random variables* (r.v.)** to describe the outcome of drawing a sample from a population 
+- The distribution of statistics based on simple random samples drawn from the population - The relationship between the characteristics of this distribution and the parameter of interest Specifically, we consider **random variables* (r.v.)** to describe the outcome of drawing a sample from a population
 
-- **(*) The formal definition of a random variable was introduced in the Mathematics 2 course.** 
+- **(*) The formal definition of a random variable was introduced in the Mathematics 2 course.**
 
-**4** 
+# Random variables (r.v.) Discrete and continuous random variables
 
-**==> picture [42 x 165] intentionally omitted <==**
+##
 
-**==> picture [29 x 100] intentionally omitted <==**
+## Discrete r.v.: introduction (see notes)
 
-# **Random variables (r.v.) Discrete and continuous random variables** 
+A company is interested to the number of exposures to an advertising message on a social network (during a pre-specified time period) for subjects in a specific segment (for example, subjects with a certain age class). Below are results observed during a marketing campaign on 1500 subjects.
 
-## 
-
-## **Discrete r.v.: introduction [see notes]** 
-
-A company is interested to the number of exposures to an advertising message on a social network (during a pre-specified time period) for subjects in a specific segment (for example, subjects with a certain age class). Below are results observed during a marketing campaign on 1500 subjects. 
-
-|.|.|**Consider**𝑿**= nr of exposures for a****_generic_ subject. What can be said about**<br>𝑿**?**<br>_The number of exposures to the message for a  “generic” subject –randomly_<br>_chosen among those targeted during the campaign–  is not known a priori: _<br>_it is impossible to know which subject will be drawn! Thus,_𝑿_is random:_**_it is_**<br>**_not possible to know which value it will take corresponding to a generic_**<br>**_subject but only to assess the probability of observing each possible value._**|
+|.|.|**Consider**𝑿**= nr of exposures for a****_generic_ subject. What can be said about_subject but only to assess the probability of observing each possible value._**|
 |---|---|---|
-|**Exposures**|**Counts**|**Consider**𝑿**= nr of exposures for a****_generic_ subject. What can be said about**<br>𝑿**?**<br>_The number of exposures to the message for a  “generic” subject –randomly_<br>_chosen among those targeted during the campaign–  is not known a priori: _<br>_it is impossible to know which subject will be drawn! Thus,_𝑿_is random:_**_it is_**<br>**_not possible to know which value it will take corresponding to a generic_**<br>**_subject but only to assess the probability of observing each possible value._**|
-|**0**|**525**||
-|**1**|**450**||
-|**2**|**300**||
-|**3**|**150**||
-|**4**|**75**||
-|**Total**|**1500**||
-||||
+|**Exposures**|**Counts**|**Consider**𝑿**= nr of exposures for a****_generic_ subject. What can be said about_subject but only to assess the probability of observing each possible value._**|
+|**0**|**525**|
+|**1**|**450**|
+|**2**|**300**|
+|**3**|**150**|
+|**4**|**75**|
+|**Total**|**1500**|
+|
 
+**Consider** 𝑿 **= nr of exposures for a** _**generic**_ **subject. What can be said about** 𝑿 **?**
 
+**What is the probability that a generic subject did not visualize the advertising message?** _Probability of drawing one of the subjects who did not visualize the message Since the subjects who did not visualize the message are 525 out of a total of 1500:_ 𝑃𝑟 **(** 𝑿 **= 0) = 525/1500 = 0.35**
 
-**Consider** 𝑿 **= nr of exposures for a** _**generic**_ **subject. What can be said about** 𝑿 **?** 
+## Discrete r.v.: probability function (see notes)
 
-**What is the probability that a generic subject did not visualize the advertising message?** _Probability of drawing one of the subjects who did not visualize the message Since the subjects who did not visualize the message are 525 out of a total of 1500 :_ 𝑃𝑟 **(** 𝑿 **= 0) = 525/1500 = 0.35** 
+Number of exposures to an advertising message on a social network (during a pre-specified time period) for subjects in a specific segment; campaign targeting 1500 individuals.
 
-**6** 
-
-## **Discrete r.v.: probability function [see notes]** 
-
-Number of exposures to an advertising message on a social network (during a pre-specified time period) for subjects in a specific segment; campaign targeting 1500 individuals. 
-
-|||**r.v.**𝑿**= nr of exposures for a randomly chosen subject.**<br>𝑿is a**discrete r.v. (counting process)**that can take 5 values only. The<br>**probabily**function of a random number assigns a probability to each value<br>𝑥:<br>035<br>= 0|**r.v.**𝑿**= nr of exposures for a randomly chosen subject.**<br>𝑿is a**discrete r.v. (counting process)**that can take 5 values only. The<br>**probabily**function of a random number assigns a probability to each value<br>𝑥:<br>035<br>= 0|**r.v.**𝑿**= nr of exposures for a randomly chosen subject.**<br>𝑿is a**discrete r.v. (counting process)**that can take 5 values only. The<br>**probabily**function of a random number assigns a probability to each value<br>𝑥:<br>035<br>= 0|
+|**r.v.**𝑿**= nr of exposures for a randomly chosen subject.probabily**function of a random number assigns a probability to each value 𝑥: 035 = 0|
 |---|---|---|---|---|
-|**Exposures**|**Counts**||||
-|**0**|**525**||||
-|**1**|**450**||||
-|**2**|**300**||||
-||||035<br>= 0||
-|**3**|**150**||||
-||||𝑃𝑿<br>𝑥=<br>.<br>𝑥<br>0.30<br>𝑥= 1<br>0.20<br>𝑥= 2<br>0.10<br>𝑥= 3<br>0.05<br>𝑥= 4<br>0<br>𝑎𝑙𝑡𝑟𝑜𝑣𝑒||
-|**4**|**75**||||
-|**Total**|**1500**||||
+|**Exposures**|**Counts**|
+|**0**|**525**|
+|**1**|**450**|
+|**2**|**300**|
+|035 = 0|
+|**3**|**150**|
+|𝑃𝑿 𝑥= . 𝑥 0.30 𝑥= 1 0.20 𝑥= 2 0.10 𝑥= 3 0.05 𝑥= 4 0 𝑎𝑙𝑡𝑟𝑜𝑣𝑒|
+|**4**|**75**|
+|**Total**|**1500**|
 
+The probability function describes the **population** , that is, the characteristics of a generic population element with respect to 𝑿. In this case, the probability of observing each value is equal to the frequency of the value in the population.
 
+## Discrete r.v.: probability function, expected value (see notes)
 
-The probability function describes the **population** , that is, the characteristics of a generic population element with respect to 𝑿. In this case, the probability of observing each value is equal to the frequency of the value in the population. 
+The company is about to launch a new marketing campaign aimed at all the subjects in the **assumes** target segment, and that the probability of exposures to the advertising message is . **the same observed in the previous “pilot” campaign**
 
-**7** 
+**What is the probability function of** the **r.v.** 𝑿 _**=**_ **“** _**number of exposures to the ad for a generic subject”?**_
 
-## **Discrete r.v.: probability function, expected value [see notes]** 
-
-The company is about to launch a new marketing campaign aimed at all the subjects in the **assumes** target segment, and that the probability of exposures to the advertising message is . **the same observed in the previous “pilot” campaign** 
-
-**What is the probability function of** the **r.v.** 𝑿 _**=**_ **“** _**number of exposures to the ad for a generic subject”?**_ 
-
-|**_bject”?_**|||
+|**_bject”?_**|
 |---|---|---|
 |0.35|𝑥= 0|_The probability function describes the outcome of a single_|
 |0.30|𝑥= 1|_"random sampling" from the population, based on the_|
-|𝑃𝑿<br>𝑥=<br>0.20<br>0.10|𝑥= 2<br>𝑥= 3|**_assumptions_** _made about the number of exposures to the ad_<br>_based on past experience._|
-|0.05|𝑥= 4||
-|0|𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒||
+|𝑃𝑿 𝑥= 0.20 0.10|𝑥= 2 𝑥= 3|**_assumptions_** _made about the number of exposures to the ad_ _based on past experience._|
+|0.05|𝑥= 4|
+|0|𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒|
 
+## What is the expected number of exposures for a generic subject?
 
+_To determine the_ _**expected value** of  the r.v._ 𝑿 _it is necessary to consider the values that can be observed for a generic subject, weighted by their probability of occurrence!_
 
-## **What is the expected number of exposures for a generic subject?** 
+- - - - - 𝐸 𝑿= 0.35 0 + 0.30 1 + 0.2 2 + 0.1 3 + 0.05 4 = 1.2
 
-_To determine the_ _**expected value** of  the r.v._ 𝑿 _it is necessary to consider the values that can be observed for a generic subject, weighted by their probability of occurrence!_ 
+## Discrete r.v.: probability function and variance (see notes)
 
-     𝐸 𝑿= 0.35 0 + 0.30 1 + 0.2 2 + 0.1 3 + 0.05 4 = 1.2 
+The company is about to launch a new marketing campaign aimed at all the subjects in the **assumes** target segment, and that the probability of exposures to the advertising message is . **the same observed in the previous “pilot” campaign**
 
-**8** 
+## **r.v.** 𝑿 _**=**_ **“** _**number of exposures to the ads for a generic subject”**_
 
-## **Discrete r.v.: probability function and variance [see notes]** 
+0.35 𝑥= 0 0.30 𝑥= 1 0.20 𝑥= 2 𝐸 𝑿= 1.2 𝑃 𝑥= 𝑿 0.10 𝑥= 3 0.05 𝑥= 4 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 **Expected quadratic deviation from** 𝐸 𝑿 **of the number of exposures for generic subject** _? Again, it is necessary to consider the values of quadratic deviations that can be observed on a generic client and weight them by their associated probability!_ 𝑉𝑎𝑟 𝑿= 0 −1.2(2) ∙0.35 + 1 −1.2(2) ∙0.3 + 2 −1.2(2) ∙0.2 + 3 −1.2(2) ∙0.1 + 4 −1.2(2) ∙0.05 = 1.36
 
-The company is about to launch a new marketing campaign aimed at all the subjects in the **assumes** target segment, and that the probability of exposures to the advertising message is . **the same observed in the previous “pilot” campaign** 
+## Discrete r.v.: probability and cumulative distribution function
 
-## **r.v.** 𝑿 _**=**_ **“** _**number of exposures to the ads for a generic subject”**_ 
+A **discrete** random variable 𝑿 can take only a **countable number of distinct values Probability function** of 𝑿: assigns to each value 𝑥 the probability that 𝑿 is equal to 𝑥:
 
-0.35 𝑥= 0 0.30 𝑥= 1 0.20 𝑥= 2 𝐸 𝑿= 1.2 𝑃 𝑥= 𝑿 0.10 𝑥= 3 0.05 𝑥= 4 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 **Expected quadratic deviation from** 𝐸 𝑿 **of the number of exposures for generic subject** _? Again, it is necessary to consider the values of quadratic deviations that can be observed on a generic client and weight them by their associated probability!_ 𝑉𝑎𝑟 𝑿= 0 −1.2[2] ∙0.35 + 1 −1.2[2] ∙0.3 + 2 −1.2[2] ∙0.2 + 3 −1.2[2] ∙0.1 + 4 −1.2[2] ∙0.05 = 1.36 
+𝑃 𝑿 𝑥= Prob(𝑿= 𝑥)
 
-**9** 
+_Probability to observe on a unit randomly selected from a_ 𝑥 _on_ 𝑿 _population the value_
 
-## **Discrete r.v.: probability and cumulative distribution function** 
+This function has the following properties:
 
-A **discrete** random variable 𝑿 can take only a **countable number of distinct values Probability function** of 𝑿: assigns to each value 𝑥 the probability that 𝑿 is equal to 𝑥: 
+- 0 ≤𝑃 𝑥≤ 1    for each 𝑥 𝑿
 
-𝑃 𝑿 𝑥= Prob(𝑿= 𝑥) 
+σ𝑥 𝑃𝑿 𝑥= 1
 
-_Probability to observe on a unit randomly selected from a_ 𝑥 _on_ 𝑿 _population the value_ 
+**The cumulative distribution function** of 𝑿 associates to each 𝑥 the probability that 𝑿 is 𝑥: less than or equal to
 
-This function has the following properties: 
+𝐹 ≤ 𝑿 𝑥= Prob(𝑿 𝑥)
 
-- 0 ≤𝑃 𝑥≤ 1    for each 𝑥 𝑿 
+_Probability to observe on a unit randomly selected from a_ 𝑿 𝑥 _. population a value on at most equal to_
 
-σ𝑥 𝑃𝑿 𝑥= 1 
+## Discrete r.v.: expected value and variance (see notes)
 
-**The cumulative distribution function** of 𝑿 associates to each 𝑥 the probability that 𝑿 is 𝑥: less than or equal to 
+For random variables, we are also interested in calculating some summary measures, such as the **expected value** and the **variance.**
 
-𝐹 ≤ 𝑿 𝑥= Prob(𝑿 𝑥) 
+**Expected value** 𝐸 𝑥𝑃 𝑿(𝑥) 𝑿= μ = ෍ 𝑥 **Variance: expected quadratic deviation of the values of** 𝑿 **from the expected value** 𝑉𝑎𝑟 𝑿= σ(2) = 𝐸(2) 𝑿−μ = 𝐸(𝑿(2) ) −μ(2)
 
-_Probability to observe on a unit randomly selected from a_ 𝑿 𝑥 _. population a value on at most equal to_ 
+**Note:** If the probability function exactly reflects the composition of the population, **the expected value and the variance will coincide with the population mean and variance!**
 
-**10** 
+## Discrete r.v.: the Bernoulli distribution (see notes)
 
-## **Discrete r.v.: expected value and variance [see notes]** 
+A company assumes that the number of exposures to an advertising message on a social network for a generic subject is characterized by the following probability function.
 
-For random variables, we are also interested in calculating some summary measures, such as the **expected value** and the **variance.** 
+It is generally assumed that an ad is more effective when subjects **Exposures Probability 0 0.35** are exposed to it at least 3 times (useful frequency). **1 0.30 What is the probability function of the r.v.** 𝑿 **indicating (1/0) 2 0.20 whether a subject will be exposed to the ad for a “useful” 3 0.10 number of times? 4 0.05** = Prob 𝑿 0 = 0.35 + 0.30 + 0.2 = 0.85 **Total 1.00** = Prob 𝑿 1 = 0.10 + 0.05 = 0.15 0.85 𝑥= 0 𝑥= 0, 1 𝑃 0.15 𝑥= 1 𝑃 𝑿 𝑿 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቊ(0.15)(𝑥)((1 −0.15))(1−𝑥) 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ **Bernoulli ’s r.v.:** for a subject randomly selected from the population, 𝑿 describes whether _success_ 𝑿= 1 𝑿= 0 (an event coded as) a (case when ) or a _failure_ (when ) occurs.
 
-**Expected value** 𝐸 𝑥𝑃 𝑿(𝑥) 𝑿= μ = ෍ 𝑥 **Variance: expected quadratic deviation of the values of** 𝑿 **from the expected value** 𝑉𝑎𝑟 𝑿= σ[2] = 𝐸[2] 𝑿−μ = 𝐸(𝑿[2] ) −μ[2] 
+## Discrete r.v.: the Bernoulli distribution
 
-**Note:** If the probability function exactly reflects the composition of the population, **the expected value and the variance will coincide with the population mean and variance!** 
+A company assumes that the number of exposures to an advertising message on a social network for a generic subject is characterized by the following probability function. **The r.v.** 𝑿 **indicating (1/0) whether a subject will be exposed to the ad for a “useful” number of times has a Bernoulli distribution characterised by a probability of success equal to = 0.15** 𝒑
 
-**11** 
+0.85 𝑥= 0 𝑥= 0, 1 𝑃 0.15 𝑥= 1 𝑃 𝑿 𝑿 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቊ(0.15)(𝑥)((1 −0.15))(1−𝑥) 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ
 
-## **Discrete r.v.: the Bernoulli distribution [see notes]** 
+**Expected value and variance?** - - 𝐸 𝑿= 0.85 0 + 0.15 1 = 0.15 = 𝒑 𝑉𝑎𝑟 𝑿= 0 −0.15(2) ∙0.85 + 1 −0.15(2) ∙0.15 = = 0.15(2) ∙0.85 + 0.85(2) ∙0.15 = 0.15 ∙0.85 ∙ 0.15 + 0.85 = 0.15 ∙0.85 = 0.1275 = 𝒑 𝟏−𝒑
 
-A company assumes that the number of exposures to an advertising message on a social network for a generic subject is characterized by the following probability function. 
+## Discrete r.v.: the Bernoulli distribution (see notes)
 
-It is generally assumed that an ad is more effective when subjects **Exposures Probability 0 0.35** are exposed to it at least 3 times (useful frequency). **1 0.30 What is the probability function of the r.v.** 𝑿 **indicating (1/0) 2 0.20 whether a subject will be exposed to the ad for a “useful” 3 0.10 number of times? 4 0.05** = Prob 𝑿 0 = 0.35 + 0.30 + 0.2 = 0.85 **Total 1.00** = Prob 𝑿 1 = 0.10 + 0.05 = 0.15 0.85 𝑥= 0 𝑥= 0, 1 𝑃 0.15 𝑥= 1 𝑃 𝑿 𝑿 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቊ[0.15][𝑥][(1 −0.15)][1−𝑥] 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ **Bernoulli ’s r.v.:** for a subject randomly selected from the population, 𝑿 describes whether _success_ 𝑿= 1 𝑿= 0 (an event coded as) a (case when ) or a _failure_ (when ) occurs. 
+**A Bernoulli's r.v. is characterized by the parameter** 𝒑 **(indicating the probability of observing a success, i.e., the proportion of successes in the population) has a probability distribution:** (1 −𝑝) 𝑥= 0 𝑥= 0, 1 𝑃 𝑥= 1 𝑿 𝑝 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 = ቊ(𝑝)(𝑥)((1 −𝑝))(1−𝑥) 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ **Expected value and variance of** 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢 𝒑: 𝐸 𝑿= 1 −𝑝∙0 + 𝑝∙1 = 𝑝 𝑉𝑎𝑟 𝑿= 0 −𝑝(2) (1 −𝑝) + 1 −𝑝(2) 𝑝= 𝑝−𝑝(2) = 𝑝 1 −𝑝
 
-**12** 
+## Continuous r.v.: notable distributions
 
-## **Discrete r.v.: the Bernoulli distribution** 
+Defining a density function that adequately describes the population (based on past experience or on the researcher’s assumptions) can be complicated. Theoretical models have been developed to describe some typical situations
 
-A company assumes that the number of exposures to an advertising message on a social network for a generic subject is characterized by the following probability function. **The r.v.** 𝑿 **indicating (1/0) whether a subject will be exposed to the ad for a “useful” number of times has a Bernoulli distribution characterised by a probability of success equal to = 0.15** 𝒑 
+Uniform r.v.                         Normal r.v.                     Chi-squared r.v.
 
-0.85 𝑥= 0 𝑥= 0, 1 𝑃 0.15 𝑥= 1 𝑃 𝑿 𝑿 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቊ[0.15][𝑥][(1 −0.15)][1−𝑥] 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ 
+These distributions depend on **parameters** that act on their **shape so as** to **fit the assumed** characteristics of the population’s distribution
 
-**Expected value and variance?**   𝐸 𝑿= 0.85 0 + 0.15 1 = 0.15 = 𝒑 𝑉𝑎𝑟 𝑿= 0 −0.15[2] ∙0.85 + 1 −0.15[2] ∙0.15 = = 0.15[2] ∙0.85 + 0.85[2] ∙0.15 = 0.15 ∙0.85 ∙ 0.15 + 0.85 = 0.15 ∙0.85 = 0.1275 = 𝒑 𝟏−𝒑 
+## Continuous r.v.: the normal distribution
 
-**13** 
+## The two and **σ(2)** determine the characteristics of the distribution **parameters μ**
 
-## **Discrete r.v.: the Bernoulli distribution [see notes]** 
+## μ
 
-**A Bernoulli's r.v. is characterized by the parameter** 𝒑 **(indicating the probability of observing a success, i.e., the proportion of successes in the population) has a probability distribution:** (1 −𝑝) 𝑥= 0 𝑥= 0, 1 𝑃 𝑥= 1 𝑿 𝑝 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 = ቊ[𝑝][𝑥][(1 −𝑝)][1−𝑥] 0 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 𝑥= ቐ **Expected value and variance of** 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢 𝒑: 𝐸 𝑿= 1 −𝑝∙0 + 𝑝∙1 = 𝑝 𝑉𝑎𝑟 𝑿= 0 −𝑝[2] (1 −𝑝) + 1 −𝑝[2] 𝑝= 𝑝−𝑝[2] = 𝑝 1 −𝑝 
+## Features:
 
-**14** 
+- Bell-shaped and symmetrical
 
-## **Continuous r.v.: notable distributions** 
+- Centered on the mean **μ** (=median)
 
-Defining a density function that adequately describes the population (based on past experience or on the researcher’s assumptions) can be complicated. Theoretical models have been developed to describe some typical situations 
+- The amount of spread depends on the standard deviation, **σ**
 
-Uniform r.v.                         Normal r.v.                     Chi-squared r.v. 
+- As **μ** and **σ** vary, we get a large collection of density functions
 
-**==> picture [176 x 177] intentionally omitted <==**
+**σ=8** Changes in **μ** (keeping constant **σ** ) shift the **μ =16** distribution without **μ=5 μ=24** changing its shape **σ μ=16 σ=5** Changes in (keeping constant **μ** ) affect the dispersion and **σ=8** concentration of values around the mean **σ=24**
 
-**==> picture [175 x 176] intentionally omitted <==**
+## Rstudio: pnorm() and qnorm() - normal distribution
 
-**==> picture [174 x 176] intentionally omitted <==**
+**The cumulative distribution function of a normal r.v.** cannot be calculated **manually** by integrating the density function.
 
-These distributions depend on **parameters** that act on their **shape so as** to **fit the assumed** characteristics of the population’s distribution 
+The functions **pnorm()** and **qnorm()** available in R allow to determine the **cumulative distribution function** and the **percentiles** of a normal distribution, respectively. To simplify the syntax as much as possible, we will use the functions in this way:
 
-**18** 
+**pnorm(q, mean=0, sd=1)**
 
-## **Continuous r.v.: the normal distribution** 
+**qnorm(p, mean=0, sd=1)**
 
-## The two and **σ[2]** determine the characteristics of the distribution **parameters μ** 
+## Where:
 
-## **μ** 
+- **mean** and **sd** (with default values 0 and 1) allow to specify the parameters of the distribution
 
-## **Features:** 
+- **q** is the numeric value at which you want to calculate the cumulative distribution function of a normal distribution with the specified parameters. Thus, the function **pnorm()** calculates 𝐹 **`q`** = Prob(𝑿≤ **`q`** ) (i.e., the area under the normal density curve up to **q** )
 
-- Bell-shaped and symmetrical 
+- **p** indicates the order of the **percentile** to be calculated, i.e., the value at which the cumulative distribution function of a normal distribution with the specified parameters is equal to **p** . Thus, the function **qnorm()** calculates 𝒙 **`1−p`** (*) i.e., the value such that 𝐹 𝒙 **`1−p`** = Prob 𝑿≤ 𝒙 **`1−p`** = **p** .
 
-- Centered on the mean **μ** (=median) 
+* The notation 𝒙 **`1−p`** to indicate the percentile of order **`p`** is as used in the textbook
 
-- The amount of spread depends on the standard deviation, **σ** 
+## Hands-on exercises: the normal distribution
 
-- As **μ** and **σ** vary, we get a large collection of density functions 
+**Suppose** the income of freelancers working in a particular industry and region over the past year has a normal distribution with a mean of 71K and a variance of 324K(2)
 
-**σ=8** Changes in **μ** (keeping constant **σ** ) shift the **μ =16** distribution without **μ=5 μ=24** changing its shape **σ μ=16 σ=5** Changes in (keeping constant **μ** ) affect the dispersion and **σ=8** concentration of values around the mean **σ=24** 
+## A professional declares an income of 20K. What considerations?
 
-**20** 
+**> sqrt(324) # sd**
 
-## **Rstudio: pnorm() and qnorm() - normal distribution** 
+**(1) 18**
 
-**The cumulative distribution function of a normal r.v.** cannot be calculated **manually** by integrating the density function. 
+- **# probability that income is less than 20K:**
 
-The functions **pnorm()** and **qnorm()** available in R allow to determine the **cumulative distribution function** and the **percentiles** of a normal distribution, respectively. To simplify the syntax as much as possible, we will use the functions in this way: 
+- **pnorm(20,mean=71,sd=18)**
 
-**pnorm(q, mean=0, sd=1)** 
+**(1) 0.002303266**
 
-**qnorm(p, mean=0, sd=1)** 
+_The reported income is exceptionally low: only the 0.23% of the population is expected to have an income less than 20K_
 
-## Where: 
+## What is the probability that the income is between 20K and 80K?
 
-- **mean** and **sd** (with default values 0 and 1) allow to specify the parameters of the distribution 
+**> pnorm(80,mean=71,sd=18)- pnorm(20,mean=71,sd=18)**
 
-- **q** is the numeric value at which you want to calculate the cumulative distribution function of a normal distribution with the specified parameters. Thus, the function **pnorm()** calculates 𝐹 **`q`** = Prob(𝑿≤ **`q`** ) (i.e., the area under the normal density curve up to **q** ) 
+**(1) 0.6891592**
 
-- **p** indicates the order of the **percentile** to be calculated, i.e., the value at which the cumulative distribution function of a normal distribution with the specified parameters is equal to **p** . Thus, the function **qnorm()** calculates 𝒙 **`1−p`** (*) i.e., the value such that 𝐹 𝒙 **`1−p`** = Prob 𝑿≤ 𝒙 **`1−p`** = **p** . 
+## What is the probability that the income is greater than 90K?
 
-* The notation 𝒙 **`1−p`** to indicate the percentile of order **`p`** is as used in the textbook 
+**> 1-pnorm(90,mean=71,sd=18)**
 
-**21** 
+**(1) 0.1455857**
 
-## **Hands-on exercises: the normal distribution** 
+## Hands-on exercises: the normal distribution
 
-**Suppose** the income of freelancers working in a particular industry and region over the past year has a normal distribution with a mean of 71K and a variance of 324K[2] 
+# What is the interval including the 90% of the most common incomes?
 
-## **A professional declares an income of 20K. What considerations?** 
+**> c(qnorm(0.05,mean=71,sd=18), qnorm(0.95,mean=71,sd=18)) (1) 41.39263 100.6074**
 
-**> sqrt(324) # sd** 
+**Declaring an income exceeded only by the 10% of the population qualifies for a certain type of tax relief. What is the minimum income threshold for such relief?**
 
-**[1] 18** 
+**> qnorm(0.9,mean=71,sd=18)**
 
-- **# probability that income is less than 20K:** 
+**(1) 94.06793**
 
-- **pnorm(20,mean=71,sd=18)** 
+**The revenue office decides to systematically assess professionals who declared an income below the lowest 5% of income values. What income threshold triggers the tax assessment?**
 
-**[1] 0.002303266** 
+**> qnorm(0.05,mean=71,sd=18) (1) 41.39263**
 
-_The reported income is exceptionally low: only the 0.23% of the population is expected to have an income less than 20K_ 
+**There is a** _**risk**_ **of having a tax assessment if declaring an income below the threshold exceeded by the 70% of the population. What income threshold puts a professional at risk?**
 
-## **What is the probability that the income is between 20K and 80K?** 
+**> qnorm(0.3,mean=71,sd=18)**
 
-**> pnorm(80,mean=71,sd=18)- pnorm(20,mean=71,sd=18)** 
+**(1) 61.56079**
 
-**[1] 0.6891592** 
+# Random variables Linear transformation and standardization
 
-## **What is the probability that the income is greater than 90K?** 
+##
 
-**> 1-pnorm(90,mean=71,sd=18)** 
+##
 
-**[1] 0.1455857** 
+## Expected value and variance of linear transformations of a r.v.
 
-**22** 
+Consider a **linear transformation** of a **r.v.** 𝑿,  𝒀= 𝑎+ 𝑏𝑿. Expected value and variance of 𝒀 are related to expected value and variance of 𝑿 (μ and σ(2) ):
 
-## **Hands-on exercises: the normal distribution** 
+𝐸 𝒀= 𝐸 𝑎+ 𝑏𝑿= 𝑎+ 𝑏𝐸 𝑿= 𝑎+ 𝑏μ
 
-# **What is the interval including the 90% of the most common incomes?** 
+𝑉𝑎𝑟 𝒀= 𝑉𝑎𝑟 𝑎+ 𝑏𝑿= 𝑏(2) 𝑉𝑎𝑟 𝑿= 𝑏(2) σ(2) →𝑆𝑑 ∙ σ 𝒀= |𝑏| ∙𝑆𝑑 𝑿= |𝑏|
 
-**> c(qnorm(0.05,mean=71,sd=18), qnorm(0.95,mean=71,sd=18)) [1] 41.39263 100.6074** 
+In fact, referring for the sake of simplicity to a discrete r.v. (“proof” required), it is: = 𝐸 (𝑎+ 𝑏𝑥)𝑃𝑿 𝑃𝑿 𝑥𝑃𝑿 𝑥= 𝑎+ 𝑏𝐸 𝑿 𝑎+ 𝑏μ 𝒀= ෍ (𝑥) = 𝑎෍ 𝑥+ 𝑏෍ 𝑥 𝑥 𝑥 2 𝑉𝑎𝑟 𝑎+ 𝑏𝑥− 𝑎+ 𝑏μ 𝑃𝑿 𝑏𝑥−𝑏μ(2) 𝑃𝑿(𝑥) 𝒀= ෍ (𝑥) = ෍ 𝑥 𝑥 = 𝑏(2)(2) 𝑃 𝑏(2) 𝑉𝑎𝑟 𝑿 = 𝑏(2) σ(2) 𝑥−μ 𝑿(𝑥) = ෍ 𝑥 (same reasoning for a continuous r.v.)
 
-**Declaring an income exceeded only by the 10% of the population qualifies for a certain type of tax relief. What is the minimum income threshold for such relief?** 
+## Expected value and variance of linear transformations of a r.v.
 
-**> qnorm(0.9,mean=71,sd=18)** 
+A company is considering whether to launch a new product with a unit selling price of $25. After considering several scenarios, the company expects to sell 300K units of the product, with an expected deviation of 90K units. The variable product cost per unit is assumed to be $15, while the fixed costs are expected to be $900K.
 
-**[1] 94.06793** 
+**What is the expected profit? What deviation do you expect from the expected profit?**
 
-**The revenue office decides to systematically assess professionals who declared an income below the lowest 5% of income values. What income threshold triggers the tax assessment?** 
+𝑿 **=** _**units sold**_
 
-**> qnorm(0.05,mean=71,sd=18) [1] 41.39263** 
+𝐸 𝑿= 300𝐾 𝑆𝑑 𝑿= 90𝐾
 
-**There is a** _**risk**_ **of having a tax assessment if declaring an income below the threshold exceeded by the 70% of the population. What income threshold puts a professional at risk?** 
+𝒀 **=** _**Profit**_ **=** 𝑿∙ 𝟐𝟓−𝟏𝟓−𝟗𝟎𝟎𝑲= 𝟏𝟎𝑿−𝟗𝟎𝟎 𝐸 𝒀= 𝐸 𝟏𝟎𝑿−𝟗𝟎𝟎= 𝟏𝟎𝐸 𝑿−900 = 3000 −900 = 2100𝐾 𝑆𝑑 𝒀= 𝑆𝑑 𝟏𝟎𝑿−𝟗𝟎𝟎= 𝟏𝟎𝑆𝑑 𝑿= 900𝐾
 
-**> qnorm(0.3,mean=71,sd=18)** 
+## Normal r.v.: linear transformation
 
-**[1] 61.56079** 
+For a given r.v. 𝑿 with expected value and variance equal to μ and σ(2) , we saw that the linear transformation 𝒀= 𝑎+ 𝑏𝑿 has expected value and variance:
 
-**23** 
+𝐸 𝒀= 𝐸 𝑎+ 𝑏𝑿= 𝑎+ 𝑏𝐸 𝑿= 𝑎+ 𝑏μ 𝑉𝑎𝑟 𝒀= 𝑉𝑎𝑟 𝑎+ 𝑏𝑿= 𝑏(2) 𝑉𝑎𝑟 𝑿= 𝑏(2) σ(2) →𝑆𝑑 𝒀= |𝑏| ∙𝑆𝑑 𝑿= |𝑏| ∙σ
 
-**==> picture [42 x 165] intentionally omitted <==**
+Nonetheless, it is not always possible to easily determine the probability or density distribution of 𝒀 based on the distribution of 𝑿. Even so, in the **particular case** of a **normally** distributed r.v. 𝑿 , with expected value μ and variance σ(2 ) , any linear transformation of 𝑿 has a **normal distribution:**
 
-**==> picture [29 x 100] intentionally omitted <==**
+𝑿~𝓝(μ, σ(2) ) → 𝒀= 𝑎+ 𝑏𝑿~𝓝 𝑎+ 𝑏μ, 𝑏(2) σ(2)
 
-# **Random variables Linear transformation and standardization** 
+## Standardization of a r.v.
 
-## 
+We consider a particular linear transformation of an r.v., called **standardization** . Given **any random variable** 𝑿, the **standardized variable** is:
 
-## 
+𝑿−μ 𝒁= σ
 
-## 
+The r.v. 𝒁 is defined based on the expected value and variance of 𝑿 (indicated by μ and σ(2 ) ), and its expected value and variance are the following:
 
-**Expected value and variance of linear transformations of a r.v.** 
+𝑿 𝐸 𝑿 μ ( ) μ − 𝐸 𝒁= 𝐸 σ(−) σ(=) σ σ(= 𝟎) 𝑿 1 μ 𝑉𝑎𝑟 𝒁= 𝑉𝑎𝑟(𝑉𝑎𝑟(𝑿))(= 𝟏) σ(−) σ(=) σ(2)
 
-Consider a **linear transformation** of a **r.v.** 𝑿,  𝒀= 𝑎+ 𝑏𝑿. Expected value and variance of 𝒀 are related to expected value and variance of 𝑿 (μ and σ[2] ): 
+## Normal r.v.: standardization
 
-𝐸 𝒀= 𝐸 𝑎+ 𝑏𝑿= 𝑎+ 𝑏𝐸 𝑿= 𝑎+ 𝑏μ 
+We saw that for a  normally distributed r.v. 𝑿 , with expected value μ and variance σ(2 ) **:** 𝑿~𝓝(μ, σ(2) ) → 𝒀= 𝑎+ 𝑏𝑿~𝓝 𝑎+ 𝑏μ, 𝑏(2) σ(2)
 
-𝑉𝑎𝑟 𝒀= 𝑉𝑎𝑟 𝑎+ 𝑏𝑿= 𝑏[2] 𝑉𝑎𝑟 𝑿= 𝑏[2] σ[2] →𝑆𝑑 ∙ σ 𝒀= |𝑏| ∙𝑆𝑑 𝑿= |𝑏| 
+Therefore, the **standardized normal r.v.** has a normal distribution, with an expected value of 0 and a variance of 1, which is called the **standard normal** distribution.
 
-In fact, referring for the sake of simplicity to a discrete r.v. (“proof” required), it is: = 𝐸 (𝑎+ 𝑏𝑥)𝑃𝑿 𝑃𝑿 𝑥𝑃𝑿 𝑥= 𝑎+ 𝑏𝐸 𝑿 𝑎+ 𝑏μ 𝒀= ෍ (𝑥) = 𝑎෍ 𝑥+ 𝑏෍ 𝑥 𝑥 𝑥 2 𝑉𝑎𝑟 𝑎+ 𝑏𝑥− 𝑎+ 𝑏μ 𝑃𝑿 𝑏𝑥−𝑏μ[2] 𝑃𝑿(𝑥) 𝒀= ෍ (𝑥) = ෍ 𝑥 𝑥 = 𝑏[2][2] 𝑃 𝑏[2] 𝑉𝑎𝑟 𝑿 = 𝑏[2] σ[2] 𝑥−μ 𝑿(𝑥) = ෍ 𝑥 (same reasoning for a continuous r.v.) 
+𝑿−μ 𝑿~𝓝(μ, σ(2) ) → 𝒁= σ(~𝓝) 0,1
 
-**25** 
+**Note that for a standardized normal distribution:** Prob 𝒁≤𝟎= **0.5** = Prob **=** 𝒁≥𝟎 **Prob 𝒁≤𝟎= ??0.5 Prob 𝒁≥𝟎** If **If** Prob **Prob** 𝒁≤ **𝒁≤** 𝒛 **𝒛** = **= p** →Prob **→Prob** 𝒁≤−𝒛= **𝒁≤−𝒛= 1   ???1 –– p p p** →Prob 𝒁≥−𝒛= **???** →Prob 𝒁≥−𝒛= **p**
 
-## **Expected value and variance of linear transformations of a r.v.** 
+**-** 𝒛 **0** 𝒛
 
-A company is considering whether to launch a new product with a unit selling price of $25. After considering several scenarios, the company expects to sell 300K units of the product, with an expected deviation of 90K units. The variable product cost per unit is assumed to be $15, while the fixed costs are expected to be $900K. 
+## Normal r.v.: standardization
 
-**What is the expected profit? What deviation do you expect from the expected profit?** 
+Although normal distribution probabilities and percentiles can be easily computed with R, it is important to note that
 
-𝑿 **=** _**units sold**_ 
+𝑿−μ 𝑥−μ 𝑥−μ 𝑿~𝓝(μ, σ(2) ) → Prob 𝑿< 𝑥= Prob < = Prob 𝒁< σ σ σ 𝒙 **`1−`** −μ **`p`** → Prob 𝑿< 𝒙 = → Prob 𝒁< = Prob 𝒁< 𝒛 = **`p p 1−p 1−p`** σ
 
-𝐸 𝑿= 300𝐾 𝑆𝑑 𝑿= 90𝐾 
+𝒙 **`1−`** −μ **`p`** → = 𝒛 → 𝒙 = μ + 𝒛 σ **`1−p 1−p 1−p`** σ → 𝒙 = μ − 𝒛 σ **`1−p p`**
 
-𝒀 **=** _**Profit**_ **=** 𝑿∙ 𝟐𝟓−𝟏𝟓−𝟗𝟎𝟎𝑲= 𝟏𝟎𝑿−𝟗𝟎𝟎 𝐸 𝒀= 𝐸 𝟏𝟎𝑿−𝟗𝟎𝟎= 𝟏𝟎𝐸 𝑿−900 = 3000 −900 = 2100𝐾 𝑆𝑑 𝒀= 𝑆𝑑 𝟏𝟎𝑿−𝟗𝟎𝟎= 𝟏𝟎𝑆𝑑 𝑿= 900𝐾 
+## Hands on: the standard normal distribution
 
-**26** 
+Consider again the income of freelancers working in a particular industry and region over the past year, normally distributed with a mean of 71K and a variance of 324K(2)
 
-## **Normal r.v.: linear transformation** 
+## Probabily of income lower than 20K calculated using the original and the standard normal
 
-For a given r.v. 𝑿 with expected value and variance equal to μ and σ[2] , we saw that the linear transformation 𝒀= 𝑎+ 𝑏𝑿 has expected value and variance: 
+**> pnorm(20,mean=71,sd=18)**
 
-𝐸 𝒀= 𝐸 𝑎+ 𝑏𝑿= 𝑎+ 𝑏𝐸 𝑿= 𝑎+ 𝑏μ 𝑉𝑎𝑟 𝒀= 𝑉𝑎𝑟 𝑎+ 𝑏𝑿= 𝑏[2] 𝑉𝑎𝑟 𝑿= 𝑏[2] σ[2] →𝑆𝑑 𝒀= |𝑏| ∙𝑆𝑑 𝑿= |𝑏| ∙σ 
+- **(1) 0.002303266**
 
-Nonetheless, it is not always possible to easily determine the probability or density distribution of 𝒀 based on the distribution of 𝑿. Even so, in the **particular case** of a **normally** distributed r.v. 𝑿 , with expected value μ and variance σ[2 ] , any linear transformation of 𝑿 has a **normal distribution:** 
+- **pnorm((20-71)/18,mean=0,sd=1) # standardisation**
 
-𝑿~𝓝(μ, σ[2] ) → 𝒀= 𝑎+ 𝑏𝑿~𝓝 𝑎+ 𝑏μ, 𝑏[2] σ[2] 
+- **(1) 0.002303266**
 
-**27** 
+## 90-th percentile calculated using the original and the standard normal
 
-## **Standardization of a r.v.** 
+**> qnorm(0.9,mean=71,sd=18)**
 
-We consider a particular linear transformation of an r.v., called **standardization** . Given **any random variable** 𝑿, the **standardized variable** is: 
+- **(1) 94.06793**
 
-𝑿−μ 𝒁= σ 
+- **71 + qnorm(0.9,mean=0,sd=1)*18**
 
-The r.v. 𝒁 is defined based on the expected value and variance of 𝑿 (indicated by μ and σ[2 ] ), and its expected value and variance are the following: 
+- **(1) 94.06793**
 
-𝑿 𝐸 𝑿 μ ( ) μ − 𝐸 𝒁= 𝐸 σ[−] σ[=] σ σ[= 𝟎] 𝑿 1 μ 𝑉𝑎𝑟 𝒁= 𝑉𝑎𝑟[𝑉𝑎𝑟(𝑿)][= 𝟏] σ[−] σ[=] σ[2] 
+## 10-th percentile calculated using the original and the standard normal
 
-**29** 
+**> qnorm(0.1,mean=71,sd=18)**
 
-## **Normal r.v.: standardization** 
+- **(1) 47.93207**
 
-We saw that for a  normally distributed r.v. 𝑿 , with expected value μ and variance σ[2 ] **:** 𝑿~𝓝(μ, σ[2] ) → 𝒀= 𝑎+ 𝑏𝑿~𝓝 𝑎+ 𝑏μ, 𝑏[2] σ[2] 
+- **71 + qnorm(0.1,mean=0,sd=1)*18**
 
-Therefore, the **standardized normal r.v.** has a normal distribution, with an expected value of 0 and a variance of 1, which is called the **standard normal** distribution. 
+- **(1) 47.93207**
 
-𝑿−μ 𝑿~𝓝(μ, σ[2] ) → 𝒁= σ[~𝓝] 0,1 
+- **71 - qnorm(0.9,mean=0,sd=1)*18**
 
-**Note that for a standardized normal distribution :** Prob 𝒁≤𝟎= **0.5** = Prob **=** 𝒁≥𝟎 **Prob 𝒁≤𝟎= ??0.5 Prob 𝒁≥𝟎** If **If** Prob **Prob** 𝒁≤ **𝒁≤** 𝒛 **𝒛** = **= p** →Prob **→Prob** 𝒁≤−𝒛= **𝒁≤−𝒛= 1   ???1 –– p p p** →Prob 𝒁≥−𝒛= **???** →Prob 𝒁≥−𝒛= **p** 
+**(1) 47.93207**
 
-**-** 𝒛 **0** 𝒛 
+**Random variables Linear combinations of random variables**
 
-**30** 
+## **Joint distribution of** _**two**_ **r.v.
 
-## **Normal r.v.: standardization** 
+**(READING)**
 
-Although normal distribution probabilities and percentiles can be easily computed with R, it is important to note that 
+To study **linear combinations** of two **r.v.** we must briefly introduce the concept of **joint distribution.**
 
-𝑿−μ 𝑥−μ 𝑥−μ 𝑿~𝓝(μ, σ[2] ) → Prob 𝑿< 𝑥= Prob < = Prob 𝒁< σ σ σ 𝒙 **`1−`** −μ **`p`** → Prob 𝑿< 𝒙 = → Prob 𝒁< = Prob 𝒁< 𝒛 = **`p p 1−p 1−p`** σ 
+The **joint probability (or density) function** of **two r.v.** 𝑿 and 𝒀 assigns a probability to each pair of values (or each pair of intervals in the continuous case): 𝑃 𝑿𝒀 𝑥, 𝑦= Prob(𝑿= 𝑥, 𝒀= 𝑦) 𝑏 𝑑 Prob 𝑎≤𝑿≤𝑏, 𝑐≤𝒀≤𝑑 = ׬ ׬ 𝑓𝑿𝒀 𝑥𝑦𝑑𝑥𝑑𝑦 𝑎 𝑐 From these functions, the covariance between the two r.v., 𝐶𝑜𝑣 𝑿, 𝒀 , and their correlation, 𝐶𝑜𝑟𝑟 𝑿, 𝒀 , can be determined.
 
-𝒙 **`1−`** −μ **`p`** → = 𝒛 → 𝒙 = μ + 𝒛 σ **`1−p 1−p 1−p`** σ → 𝒙 = μ − 𝒛 σ **`1−p p`** 
+2 2 Specifically, given the expected values and variances of 𝑿(μ𝑋 and σ𝑋) and 𝒀 (μ𝑌 and σ𝑌): 𝐶𝑜𝑣 𝑿, 𝒀= σ𝑋𝑌 = 𝐸 𝑿−μ𝑋 (𝒀−μ𝑌)
 
-**31** 
+σ 𝑋𝑌
 
-## **Hands on: the standard normal distribution** 
+= 𝐶𝑜𝑟𝑟 𝑿, 𝒀= ρ𝑋𝑌 σ σ 𝑋 𝑌
 
-Consider again the income of freelancers working in a particular industry and region over the past year, normally distributed with a mean of 71K and a variance of 324K[2] 
+## Bivariate normal distribution
 
-## **Probabily of income lower than 20K calculated using the original and the standard normal** 
+**(READING)**
 
-**> pnorm(20,mean=71,sd=18)** 
+A particularly important joint density distribution is the **bivariate normal** distribution:
 
-- **[1] 0.002303266** 
+where 𝑧 σ and 𝑧 σ 𝑋 = (𝑥− μ𝑋)/ 𝑋 𝑌 = (𝑦− μ𝑌)/ 𝑌
 
-- **pnorm((20-71)/18,mean=0,sd=1) # standardisation** 
+**We will never go into the technical details of this**
 
-- **[1] 0.002303266** 
+**distribution** ; for our purposes, it is only important to note that if 𝑿 and 𝒀 have a joint normal distribution, then we also have that:
 
-## **90-th percentile calculated using the original and the standard normal** 
+## Independent r.v.
 
-**> qnorm(0.9,mean=71,sd=18)** 
+A fundamental concept  for the analysis of linear combinations of two r.v. is **independence**
 
-- **[1] 94.06793** 
+Two r.v. 𝑿 and 𝒀 are said to be independent if the **probability of observing certain values for one r.v. does not depend in any way on the values taken by the other r.v.** , so that: 𝑃 𝑿= 𝑥Prob 𝑥𝑃 𝑿𝒀 𝑥, 𝑦= Prob 𝑿= 𝑥, 𝒀= 𝑦= Prob 𝒀= 𝑦= 𝑃𝑿 𝒀 𝑦
 
-- **71 + qnorm(0.9,mean=0,sd=1)*18** 
+𝑓𝑿𝒀 𝑥, 𝑦= 𝑓𝑿 𝑥𝑓𝒀 𝑦
 
-- **[1] 94.06793** 
+This means that the probability of jointly observing values of 𝑿 and 𝒀 can be determined from the (marginal) distributions of the two r.v.
 
-## **10-th percentile calculated using the original and the standard normal** 
+For our purposes, this result is relevant because when two r.v. are **independent** they are also **linearly independent** , that is:
 
-**> qnorm(0.1,mean=71,sd=18)** 
+𝐶𝑜𝑣 𝑿, 𝒀= 𝐶𝑜𝑟𝑟 𝑿, 𝒀= 𝟎
 
-- **[1] 47.93207** 
+##
 
-- **71 + qnorm(0.1,mean=0,sd=1)*18** 
+##
 
-- **[1] 47.93207** 
+## Linear combinations of r.v.
 
-- **71 - qnorm(0.9,mean=0,sd=1)*18** 
+Consider a **linear combination** of two r.v. 𝑿 and 𝒀 _**:**_
 
-**[1] 47.93207** 
+𝑎𝑿+ 𝑏𝒀 2 2 with 𝐸 𝑿= μ𝑋, 𝑉𝑎𝑟 𝑿= σ𝑋, 𝐸 𝒀= μ𝑌, 𝑉𝑎𝑟 𝒀= σ𝑌 and 𝐶𝑜𝑣(𝑿, 𝒀)= σ𝑋𝑌. The **expected value** and the **variance** of the linear combination are: 𝐸 𝑎𝑿+ 𝑏𝒀= 𝑎μ𝑋 + 𝑏μ𝑌 2 2 2 𝑉𝑎𝑟 𝑎𝑿+ 𝑏𝒀= 𝑎(2) σ + 𝑏 σ + 2𝑎𝑏σ 𝑋 𝑌 𝑋𝑌 _**IfIf**_ 𝑿 𝑿 and and 𝒀𝒀 _**are independentare independent,?**_ 𝛔𝑿𝒀 = 𝟎 _**and**_ 𝑽𝒂𝒓 𝒂𝑿+ 𝒃𝒀= 𝒂(𝟐) 𝛔𝟐𝑿 + 𝒃𝟐𝛔𝟐𝒀
 
-**32** 
+The **distribution of** (𝑎𝑿+ 𝑏𝒀) depends on the joint distribution of the two r.v. In the **special case** where 𝑿 and 𝒀 have a **joint normal** distribution it is: 2 2 2 (𝑎𝑿+ 𝑏𝒀) ~𝓝(𝑎μ𝑋 + 𝑏μ𝑌, 𝑎(2) σ𝑋 + 𝑏 σ𝑌 + 2𝑎𝑏σ𝑋𝑌) And therefore, in the case of **independence:** 2 2 2 (𝑎𝑿+ 𝑏𝒀) ~𝓝(𝑎μ𝑋 + 𝑏μ𝑌, 𝑎(2) σ𝑋 + 𝑏 σ𝑌)
 
-**==> picture [42 x 165] intentionally omitted <==**
+## Linear combinations of r.v.
 
-**==> picture [29 x 100] intentionally omitted <==**
+**(OPTIONAL)**
 
-**Random variables Linear combinations of random variables** 
+A production process consists of 3 phases, A, B and C. The durations (in minutes) of phases A 2 and B are two r.v., 𝑻𝐴 (μ𝐴=10 and σ𝐴=1) and 𝑻𝐵 (μ𝐵=16 and σ𝐵 =2), which are correlated, with ρ𝐴𝐵=0.2. The duration of phase C is fixed and it’s 4 minutes. **Expected value and standard deviation of the overall duration of the production process?** The overall duration is 𝑻= 𝑻𝐴 + 𝑻𝐵 + 4 (the last phase has a fixed duration, not random) **Expected value:** 𝐸 𝑻𝐴 + 𝑻𝐵 + 4 = μ𝐴 + μ𝐵 + 4 = 10 + 16 + 4 = 𝟑𝟎 **Variance:** 𝑉𝑎𝑟 𝑻 + 𝑻 + 4 = 𝑉𝑎𝑟 𝑻 + 𝑻 = σ2 + σ2 + 2σ 𝐴 𝐵 𝐴 𝐵 𝐴 𝐵 𝐴𝐵 𝐶𝑜𝑣 𝑻𝐴, 𝑻𝐵 = σ𝐴𝐵 = ρ𝐴𝐵σ𝐴σ𝐵 = 0.2 ∙1 ∙2 = 0.4 →𝑉𝑎𝑟 𝑻 + 𝑻 + 4 = 1 + 4 + 2 ∙0.4 = 𝟓. 𝟖 𝐴 𝐵
 
-## **Joint distribution of** _**two**_ **r.v. [READING]** 
+**If** 𝑻𝐴 **and** 𝑻𝐵 **are assumed to be jointly normally distributed, what is the probability that the total duration of the process is between 25 and 35 minutes?**
 
-To study **linear combinations** of two **r.v.** we must briefly introduce the concept of **joint distribution.** 
+**> pnorm(35,mean=30,sd=sqrt(5.8))- pnorm(25,mean=30,sd=sqrt(5.8)) (1) 0.9621187**
 
-The **joint probability (or density) function** of **two r.v.** 𝑿 and 𝒀 assigns a probability to each pair of values (or each pair of intervals in the continuous case): 𝑃 𝑿𝒀 𝑥, 𝑦= Prob(𝑿= 𝑥, 𝒀= 𝑦) 𝑏 𝑑 Prob 𝑎≤𝑿≤𝑏, 𝑐≤𝒀≤𝑑 = ׬ ׬ 𝑓𝑿𝒀 𝑥𝑦𝑑𝑥𝑑𝑦 𝑎 𝑐 From these functions, the covariance between the two r.v., 𝐶𝑜𝑣 𝑿, 𝒀 , and their correlation, 𝐶𝑜𝑟𝑟 𝑿, 𝒀 , can be determined. 
+# Random variables Sum and mean of i.i.d. random variables Central Limit Theorem
 
-2 2 Specifically, given the expected values and variances of 𝑿(μ𝑋 and σ𝑋) and 𝒀 (μ𝑌 and σ𝑌): 𝐶𝑜𝑣 𝑿, 𝒀= σ𝑋𝑌 = 𝐸 𝑿−μ𝑋 (𝒀−μ𝑌) 
+## Sum and mean of i.i.d. r.v.
 
-σ 𝑋𝑌 
+An important case is when, given a r.v. 𝑿 with expected value 𝛍 and variance 𝛔(2) , we consider 𝒏 r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛 with the following properties:
 
-= 𝐶𝑜𝑟𝑟 𝑿, 𝒀= ρ𝑋𝑌 σ σ 𝑋 𝑌 
+- They are **independent** (and consequently all the pairs 𝑿𝑖 **,** 𝑿𝑘 have **covariance** equal to 0)
 
-**34** 
+- Thay all have the **same distribution as** 𝑿 That is, 𝑿𝟏, 𝑿2, … , 𝑿𝑛 are **independent** and **identically distributed** ( **i.i.d.** ) as 𝑿.
 
-## **Bivariate normal distribution [READING]** 
+𝒏 units from the **same** This is the case, for example, when we consider **randomly selected population** (with replacement, i.e. assuming to repeatedly draw from the entire population) and each of them describes the ( **random** ) result of the selection.
 
-A particularly important joint density distribution is the **bivariate normal** distribution: 
+Consider two particular **linear combinations** of the 𝒏 r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛, their **sum** and their **mean:**
 
-**==> picture [812 x 93] intentionally omitted <==**
+**Sum:** 𝑺= 𝑿 +𝑿 1 2 + ⋯+ 𝑿𝑛
 
-where 𝑧 σ and 𝑧 σ 𝑋 = (𝑥− μ𝑋)/ 𝑋 𝑌 = (𝑦− μ𝑌)/ 𝑌 
+**Mean:**(ഥ) 𝑿= ( 𝑿1 + 𝑿2 + ⋯+ 𝑿𝑛)/𝒏= 𝑺/𝒏
 
-**==> picture [250 x 196] intentionally omitted <==**
+## Sum and mean of i.i.d. r.v.: expected value and variance
 
-**We will never go into the technical details of this** 
+If the r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛 are 𝒏 **r.v. i.i.d.** as a r.v. 𝑿, with expected value 𝛍 and variance 𝛔(2) (for 𝑿 **sum** and their **mean** are example, the outcomes of independent observations on ), their . r.v. whose expected values and variances can be determined from 𝛍𝑎𝑛𝑑𝛔(2 )
 
-**distribution** ; for our purposes, it is only important to note that if 𝑿 and 𝒀 have a joint normal distribution, then we also have that: 
+**Sum:** 𝑺= 𝑿1 + ⋯+ 𝑿𝑛 _**All the**_ 𝑿𝑖 _**have the same expected value**_ 𝛍 _**and the same variance**_ 𝛔(2) _**;**_ **→ 𝐸 𝑺=** ?𝐸 𝑿1 + ⋯+ 𝐸 𝑿𝑛 = 𝒏𝛍 _**the covariances are zeros as they are independent.**_
 
-**==> picture [411 x 55] intentionally omitted <==**
+- **→ 𝑉𝑎𝑟 𝑺=** ?𝑉𝑎𝑟 𝑿 + ⋯+ 𝑉𝑎𝑟 𝑿 = 𝒏𝛔(2) 1 𝑛
 
-**35** 
+**Mean:**(ഥ) 𝑿= ( 𝑿1 + ⋯+ 𝑿𝑛)/𝒏= 𝑺/𝒏
 
-## **Independent r.v.** 
+**ഥ → 𝐸 𝑿=** ?𝐸 𝑿1/𝑛+ ⋯+ 𝐸 𝑿𝑛/𝑛= 𝒏∙𝛍/ 𝒏= 𝛍
 
-A fundamental concept  for the analysis of linear combinations of two r.v. is **independence** 
+**→ 𝑉𝑎𝑟 ഥ𝑿=** ?𝑉𝑎𝑟 𝑿1/𝑛+ ⋯+ 𝑉𝑎𝑟 𝑿𝑛/𝑛= 𝒏∙𝛔(2) / 𝒏(2) = 𝛔(2) / 𝒏
 
-Two r.v. 𝑿 and 𝒀 are said to be independent if the **probability of observing certain values for one r.v. does not depend in any way on the values taken by the other r.v.** , so that: 𝑃 𝑿= 𝑥Prob 𝑥𝑃 𝑿𝒀 𝑥, 𝑦= Prob 𝑿= 𝑥, 𝒀= 𝑦= Prob 𝒀= 𝑦= 𝑃𝑿 𝒀 𝑦 
+## Sum and mean of i.i.d. r.v.: distribution
 
-𝑓𝑿𝒀 𝑥, 𝑦= 𝑓𝑿 𝑥𝑓𝒀 𝑦 
+Even if it is possible to determine the **expected value** and **variance of the sum and of the mean of** 𝒏 **i.i.d. r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 **, it is not always possible to determine their probability (or density) functions. However:**
 
-This means that the probability of jointly observing values of 𝑿 and 𝒀 can be determined from the (marginal) distributions of the two r.v. 
+- **The sum and mean of** 𝒏 **normally distributed i.i.d. r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛, have **normal distribution** , with mean and variance obtained as described above:
 
-For our purposes, this result is relevant because when two r.v. are **independent** they are also **linearly independent** , that is: 
+𝑿1, 𝑿2, … , 𝑿𝑛 **i.i.d.** 𝑿 ~𝓝(μ, σ(𝟐) )
 
-𝐶𝑜𝑣 𝑿, 𝒀= 𝐶𝑜𝑟𝑟 𝑿, 𝒀= 𝟎 
+- 𝑺= (𝑿1 +𝑿2 + ⋯+ 𝑿𝑛)~𝓝(𝒏μ, 𝒏σ(𝟐) ) 𝑿= (𝑿(ഥ) 1 +𝑿2 + ⋯+ 𝑿𝑛)/𝒏 ~𝓝(μ, σ(𝟐) /𝒏)
 
-**36** 
+- **Central Limit Theorem:** For **sufficiently** large 𝒏, the distributions of the **sum** and of the **mean** of 𝒏 **r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 **i.i.d.** as a r.v. 𝑿  can be _**approximated**_ by the **normal distribution** (with expected value and variance as above), **whatever the distribution of** 𝑿 **.**
 
-## 
+## Sum and mean of i.i.d. r.v.
 
-## 
+A company assumes that the amount spent on its products by a customer in a generic shop where a promotion is running has an average of 22€ and a standard deviation of 9 € . Assume that exactly 80 customers take advantage of the promotion. **Obtain the probability that the average amount spent by the 80 clients is higher than 25** € **, specifying whether and what assumptions are needed to obtain it.**
 
-## **Linear combinations of r.v.** 
+It is possible to determine the required probability without specific assumptions, because the hypothesized number of clients is high enough to apply the central limit theorem and **=** approximate the distribution of the mean as follows, 𝑿~𝓝(μ, σ(ഥ)(𝟐) /𝟖𝟎) 𝓝(22, 9(𝟐) /𝟖𝟎). **> 1-pnorm(25,mean=22,sd=9/sqrt(80)) (1) 0.0014**
 
-Consider a **linear combination** of two r.v. 𝑿 and 𝒀 _**:**_ 
+**What is the total amount spent by the 80 clients that the company can expect to be exceeded with probability 0.9?**
 
-𝑎𝑿+ 𝑏𝒀 2 2 with 𝐸 𝑿= μ𝑋, 𝑉𝑎𝑟 𝑿= σ𝑋, 𝐸 𝒀= μ𝑌, 𝑉𝑎𝑟 𝒀= σ𝑌 and 𝐶𝑜𝑣(𝑿, 𝒀)= σ𝑋𝑌. The **expected value** and the **variance** of the linear combination are: 𝐸 𝑎𝑿+ 𝑏𝒀= 𝑎μ𝑋 + 𝑏μ𝑌 2 2 2 𝑉𝑎𝑟 𝑎𝑿+ 𝑏𝒀= 𝑎[2] σ + 𝑏 σ + 2𝑎𝑏σ 𝑋 𝑌 𝑋𝑌 _**IfIf**_ 𝑿 𝑿 and and 𝒀𝒀 _**are independentare independent,?**_ 𝛔𝑿𝒀 = 𝟎 _**and**_ 𝑽𝒂𝒓 𝒂𝑿+ 𝒃𝒀= 𝒂[𝟐] 𝛔𝟐𝑿 + 𝒃𝟐𝛔𝟐𝒀 
+**> qnorm(0.1,mean=22*80,sd=9*sqrt(80))**
 
-The **distribution of** (𝑎𝑿+ 𝑏𝒀) depends on the joint distribution of the two r.v. In the **special case** where 𝑿 and 𝒀 have a **joint normal** distribution it is: 2 2 2 (𝑎𝑿+ 𝑏𝒀) ~𝓝(𝑎μ𝑋 + 𝑏μ𝑌, 𝑎[2] σ𝑋 + 𝑏 σ𝑌 + 2𝑎𝑏σ𝑋𝑌) And therefore, in the case of **independence:** 2 2 2 (𝑎𝑿+ 𝑏𝒀) ~𝓝(𝑎μ𝑋 + 𝑏μ𝑌, 𝑎[2] σ𝑋 + 𝑏 σ𝑌) 
+**(1) 1656.837**
 
-**37** 
+## Sum and mean of i.i.d. r.v.
 
-## **Linear combinations of r.v. [OPTIONAL]** 
+The daily electricity consumption of a generic household at a given time of year is assumed . to be normally distributed with a mean of 48 Kwh and a variance of 16Kwh(2) **What is the probability that the average daily consumption of 5 households is greater than 50Kwh?** ഥ **=** ~~𝑿~𝓝(μ, σ~~(𝟐) ~~/𝒏)~~ 𝓝(48,16/5) ^y2zdkv
 
-A production process consists of 3 phases, A, B and C. The durations (in minutes) of phases A 2 and B are two r.v., 𝑻𝐴 (μ𝐴=10 and σ𝐴=1) and 𝑻𝐵 (μ𝐵=16 and σ𝐵 =2), which are correlated, with ρ𝐴𝐵=0.2. The duration of phase C is fixed and it’s 4 minutes. **Expected value and standard deviation of the overall duration of the production process?** The overall duration is 𝑻= 𝑻𝐴 + 𝑻𝐵 + 4 (the last phase has a fixed duration, not random) **Expected value:** 𝐸 𝑻𝐴 + 𝑻𝐵 + 4 = μ𝐴 + μ𝐵 + 4 = 10 + 16 + 4 = 𝟑𝟎 **Variance:** 𝑉𝑎𝑟 𝑻 + 𝑻 + 4 = 𝑉𝑎𝑟 𝑻 + 𝑻 = σ2 + σ2 + 2σ 𝐴 𝐵 𝐴 𝐵 𝐴 𝐵 𝐴𝐵 𝐶𝑜𝑣 𝑻𝐴, 𝑻𝐵 = σ𝐴𝐵 = ρ𝐴𝐵σ𝐴σ𝐵 = 0.2 ∙1 ∙2 = 0.4 →𝑉𝑎𝑟 𝑻 + 𝑻 + 4 = 1 + 4 + 2 ∙0.4 = 𝟓. 𝟖 𝐴 𝐵 
+**> 1-pnorm(50,mean=48,sd=sqrt(16/5)) (1) 0.1317762**
 
-**If** 𝑻𝐴 **and** 𝑻𝐵 **are assumed to be jointly normally distributed, what is the probability that the total duration of the process is between 25 and 35 minutes?** 
+**How much electricity is needed to meet the daily electricity demand of 10 households with a probability of at least 0.95? =** We are looking for the 95-th percentile of 𝑺~𝓝(𝒏μ, 𝒏σ(𝟐) ) 𝓝(480,160). **> qnorm(0.95,mean=480,sd=sqrt(160)) (1) 500.8059**
 
-**> pnorm(35,mean=30,sd=sqrt(5.8))- pnorm(25,mean=30,sd=sqrt(5.8)) [1] 0.9621187** 
+**Is it possible to determine the required quantities if normality is not assumed?**
 
-**39** 
+No: the number of cases is too small to apply the Central Limit Theorem
 
-**==> picture [42 x 165] intentionally omitted <==**
+## Sum and mean of i.i.d. r.v.: Bernoulli distribution
 
-**==> picture [29 x 100] intentionally omitted <==**
+Consider 𝒏 **r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 that are **i.i.d.** as 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢 𝒑 whose parameter is the _**success**_ 𝐸: probability of observing a in a population, with 𝑿= 𝑝, 𝑉𝑎𝑟 𝑿= 𝑝 1 −𝑝 𝑺= 𝑿 **= number of successes** 1 + 𝑿2 + ⋯+ 𝑿𝑛 ෡ 𝑷= (𝑿1 + 𝑿2 + ⋯+ 𝑿𝑛)/𝒏= **proportion of successes**
 
-# **Random variables Sum and mean of i.i.d. random variables Central Limit Theorem** 
+For sufficiently large 𝑛 (typically higher than 30*) the distribution of 𝑺 and 𝑷(෡) can be approximated by a normal distribution, that is
 
-## **Sum and mean of i.i.d. r.v.** 
+and(෡) 𝑺≈𝓝(𝒏𝒑, 𝒏𝒑 𝟏−𝒑) 𝑷≈𝓝(𝒑, 𝒑 𝟏−𝒑/𝒏)
 
-An important case is when, given a r.v. 𝑿 with expected value 𝛍 and variance 𝛔[2] , we consider 𝒏 r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛 with the following properties: 
+n=5mean=0.125 n=10mean=0.125 n=30mean=0.125 n=100mean=0.125 Distribution of 𝑷(෡) for var=0.021875 var=0.0109375 var=0.0036458 var=0.0010938 increasing values of 𝒏, given 𝑝=0.125
 
- They are **independent** (and consequently all the pairs 𝑿𝑖 **,** 𝑿𝑘 have **covariance** equal to 0) 
+* When 𝒑 is very small or very high, some authors suggest to verify whether 𝒏𝒑 𝟏−𝒑> 𝟓
 
- Thay all have the **same distribution as** 𝑿 That is, 𝑿𝟏, 𝑿2, … , 𝑿𝑛 are **independent** and **identically distributed** ( **i.i.d.** ) as 𝑿. 
+## Sum and mean of i.i.d. r.v.: Bernoulli distribution
 
-𝒏 units from the **same** This is the case, for example, when we consider **randomly selected population** (with replacement, i.e. assuming to repeatedly draw from the entire population) and each of them describes the ( **random** ) result of the selection. 
+A company installs surveillance cameras and estimates that the 15% of the installed cameras require post-installation work for changes. **Based on the orders received, 50 cameras will be installed next month. What is the probability that the percentage of cameras requiring postinstallation work will be higher than 25%?** The r.v. describing whether a random camera will require a second intervention is: 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢(𝑝= 0.15); 𝐸 𝑿= 𝟎. 𝟏𝟓; 𝑽𝒂𝒓 𝑿= 𝟎. 𝟏𝟓∙𝟎. 𝟖𝟓= 𝟎. 𝟏𝟐𝟕𝟓 The r.v.’s describing whether each of the 50 installed cameras will require a second intervention, 𝑿1, 𝑿2, … , 𝑿50, are **iid as** 𝑿 The % of cameras (out of the 50 installed) that require further intervention is: ෡𝑷=(𝑿1 + 𝑿2 + … +𝑿50)/50
 
-Consider two particular **linear combinations** of the 𝒏 r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛, their **sum** and their **mean:** 
+Since the sample size is sufficiently large, the distribution of 𝑷(෡) (which is the sample mean of a sample from a Bernoulli population) can be approximated by a normal distribution.
 
-**Sum:** 𝑺= 𝑿 +𝑿 1 2 + ⋯+ 𝑿𝑛 
+**> 1-pnorm(0.25,mean=0.15,sd=sqrt(0.15*(1-0.15)/50)) (1) 0.02383519**
 
-**Mean:**[ഥ] 𝑿= ( 𝑿1 + 𝑿2 + ⋯+ 𝑿𝑛)/𝒏= 𝑺/𝒏 
-
-**42** 
-
-## **Sum and mean of i.i.d. r.v.: expected value and variance** 
-
-If the r.v. 𝑿𝟏, 𝑿2, … , 𝑿𝑛 are 𝒏 **r.v. i.i.d.** as a r.v. 𝑿, with expected value 𝛍 and variance 𝛔[2] (for 𝑿 **sum** and their **mean** are example, the outcomes of independent observations on ), their . r.v. whose expected values and variances can be determined from 𝛍𝑎𝑛𝑑𝛔[2 ] 
-
-**Sum:** 𝑺= 𝑿1 + ⋯+ 𝑿𝑛 _**All the**_ 𝑿𝑖 _**have the same expected value**_ 𝛍 _**and the same variance**_ 𝛔[2] _**;**_ **→ 𝐸 𝑺=** ?𝐸 𝑿1 + ⋯+ 𝐸 𝑿𝑛 = 𝒏𝛍 _**the covariances are zeros as they are independent.**_ 
-
-- **→ 𝑉𝑎𝑟 𝑺=** ?𝑉𝑎𝑟 𝑿 + ⋯+ 𝑉𝑎𝑟 𝑿 = 𝒏𝛔[2] 1 𝑛 
-
-**Mean:**[ഥ] 𝑿= ( 𝑿1 + ⋯+ 𝑿𝑛)/𝒏= 𝑺/𝒏 
-
-**ഥ → 𝐸 𝑿=** ?𝐸 𝑿1/𝑛+ ⋯+ 𝐸 𝑿𝑛/𝑛= 𝒏∙𝛍/ 𝒏= 𝛍 
-
-**→ 𝑉𝑎𝑟 ഥ𝑿=** ?𝑉𝑎𝑟 𝑿1/𝑛+ ⋯+ 𝑉𝑎𝑟 𝑿𝑛/𝑛= 𝒏∙𝛔[2] / 𝒏[2] = 𝛔[2] / 𝒏 
-
-**43** 
-
-## **Sum and mean of i.i.d. r.v.: distribution** 
-
-Even if it is possible to determine the **expected value** and **variance of the sum and of the mean of** 𝒏 **i.i.d. r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 **, it is not always possible to determine their probability (or density) functions. However:** 
-
-- **The sum and mean of** 𝒏 **normally distributed i.i.d. r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛, have **normal distribution** , with mean and variance obtained as described above: 
-
-𝑿1, 𝑿2, … , 𝑿𝑛 **i.i.d.** 𝑿 ~𝓝(μ, σ[𝟐] ) 
-
-   - 𝑺= (𝑿1 +𝑿2 + ⋯+ 𝑿𝑛)~𝓝(𝒏μ, 𝒏σ[𝟐] ) 𝑿= (𝑿[ഥ] 1 +𝑿2 + ⋯+ 𝑿𝑛)/𝒏 ~𝓝(μ, σ[𝟐] /𝒏) 
-
-- **Central Limit Theorem:** For **sufficiently** large 𝒏, the distributions of the **sum** and of the **mean** of 𝒏 **r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 **i.i.d.** as a r.v. 𝑿  can be _**approximated**_ by the **normal distribution** (with expected value and variance as above), **whatever the distribution of** 𝑿 **.** 
-
-**44** 
-
-## **Sum and mean of i.i.d. r.v.** 
-
-A company assumes that the amount spent on its products by a customer in a generic shop where a promotion is running has an average of 22€ and a standard deviation of 9 € . Assume that exactly 80 customers take advantage of the promotion. **Obtain the probability that the average amount spent by the 80 clients is higher than 25** € **, specifying whether and what assumptions are needed to obtain it.** 
-
-It is possible to determine the required probability without specific assumptions, because the hypothesized number of clients is high enough to apply the central limit theorem and **=** approximate the distribution of the mean as follows, 𝑿~𝓝(μ, σ[ഥ][𝟐] /𝟖𝟎) 𝓝(22, 9[𝟐] /𝟖𝟎). **> 1-pnorm(25,mean=22,sd=9/sqrt(80)) [1] 0.0014** 
-
-**What is the total amount spent by the 80 clients that the company can expect to be exceeded with probability 0.9?** 
-
-**> qnorm(0.1,mean=22*80,sd=9*sqrt(80))** 
-
-**[1] 1656.837** 
-
-**45** 
-
-## **Sum and mean of i.i.d. r.v.** 
-
-The daily electricity consumption of a generic household at a given time of year is assumed . to be normally distributed with a mean of 48 Kwh and a variance of 16Kwh[2] **What is the probability that the average daily consumption of 5 households is greater than 50Kwh?** ഥ **=** ~~𝑿~𝓝(μ, σ~~[𝟐] ~~/𝒏)~~ 𝓝(48,16/5) 
-
-**> 1-pnorm(50,mean=48,sd=sqrt(16/5)) [1] 0.1317762** 
-
-**How much electricity is needed to meet the daily electricity demand of 10 households with a probability of at least 0.95? =** We are looking for the 95-th percentile of 𝑺~𝓝(𝒏μ, 𝒏σ[𝟐] ) 𝓝(480,160). **> qnorm(0.95,mean=480,sd=sqrt(160)) [1] 500.8059** 
-
-**Is it possible to determine the required quantities if normality is not assumed?** 
-
-No: the number of cases is too small to apply the Central Limit Theorem 
-
-**46** 
-
-## **Sum and mean of i.i.d. r.v.: Bernoulli distribution** 
-
-Consider 𝒏 **r.v.** 𝑿𝟏, 𝑿2, … , 𝑿𝑛 that are **i.i.d.** as 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢 𝒑 whose parameter is the _**success**_ 𝐸 : probability of observing a in a population, with 𝑿= 𝑝, 𝑉𝑎𝑟 𝑿= 𝑝 1 −𝑝 𝑺= 𝑿 **= number of successes** 1 + 𝑿2 + ⋯+ 𝑿𝑛 ෡ 𝑷= (𝑿1 + 𝑿2 + ⋯+ 𝑿𝑛)/𝒏= **proportion of successes** 
-
-For sufficiently large 𝑛 (typically higher than 30*) the distribution of 𝑺 and 𝑷[෡] can be approximated by a normal distribution, that is 
-
-and[෡] 𝑺≈𝓝(𝒏𝒑, 𝒏𝒑 𝟏−𝒑) 𝑷≈𝓝(𝒑, 𝒑 𝟏−𝒑/𝒏) 
-
-n=5mean=0.125 n=10mean=0.125 n=30mean=0.125 n=100mean=0.125 Distribution of 𝑷[෡] for var=0.021875 var=0.0109375 var=0.0036458 var=0.0010938 increasing values of 𝒏, given 𝑝=0.125 
-
-* When 𝒑 is very small or very high, some authors suggest to verify whether 𝒏𝒑 𝟏−𝒑> 𝟓 
-
-**52** 
-
-## **Sum and mean of i.i.d. r.v.: Bernoulli distribution** 
-
-A company installs surveillance cameras and estimates that the 15% of the installed cameras require post-installation work for changes. **Based on the orders received, 50 cameras will be installed next month. What is the probability that the percentage of cameras requiring postinstallation work will be higher than 25%?** The r.v. describing whether a random camera will require a second intervention is: 𝑿~𝐁𝐞𝐫𝐧𝐨𝐮𝐥𝐥𝐢(𝑝= 0.15); 𝐸 𝑿= 𝟎. 𝟏𝟓; 𝑽𝒂𝒓 𝑿= 𝟎. 𝟏𝟓∙𝟎. 𝟖𝟓= 𝟎. 𝟏𝟐𝟕𝟓 The r.v.’s describing whether each of the 50 installed cameras will require a second intervention, 𝑿1, 𝑿2, … , 𝑿50, are **iid as** 𝑿 The % of cameras (out of the 50 installed) that require further intervention is: ෡𝑷=(𝑿1 + 𝑿2 + … +𝑿50)/50 
-
-Since the sample size is sufficiently large, the distribution of 𝑷[෡] (which is the sample mean of a sample from a Bernoulli population) can be approximated by a normal distribution. 
-
-**> 1-pnorm(0.25,mean=0.15,sd=sqrt(0.15*(1-0.15)/50)) [1] 0.02383519** 
-
-**53** 
-
+## Related Notes
+- [[Statistics_Formula_Sheet_Bocconi]]
+- [[Lesson 7 Slides with NOTES]]
+- [[Lecture 13-14 Slides Point estimation with FULL NOTES]]

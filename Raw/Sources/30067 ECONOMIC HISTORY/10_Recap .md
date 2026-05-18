@@ -1,562 +1,470 @@
-## RECAP 1 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "From the Agrarian Revolution to the First Globalization"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# From the Agrarian Revolution to the First Globalization 
+## RECAP 1
 
-Sonia Schifano 
+# From the Agrarian Revolution to the First Globalization
 
-30067 A.Y. 2025/2026 
+Sonia Schifano
 
-## THE AGRARIAN REVOLUTION (10.000 BCE) 
+30067 A.Y. 2025/2026
 
-**==> picture [624 x 343] intentionally omitted <==**
+## THE AGRARIAN REVOLUTION (10.000 BCE)
 
-2025/2026 
+2025/2026
 
-30067 
+THE URBAN REVOLUTION (3.000 BCE)
 
-2 
+2025/2026
 
-THE URBAN REVOLUTION (3.000 BCE) 
+## THE PROTO DIVERGENCE
 
-**==> picture [828 x 324] intentionally omitted <==**
+Process by which **Europe and Asia** started to grow more than the rest of the world
 
-2025/2026 
+3000 BCE with the Urban revolution
 
-30067 
+Jack GOODY
 
-3 
+Institutional conditions
 
-## THE PROTO DIVERGENCE 
+Jared DIAMOND Environmental conditions
 
-Process by which **Europe and Asia** started to grow more than the rest of the world 
+1. Population density 2. Agricultural productivity
 
-3000 BCE with the Urban revolution 
+2025/2026
 
-Jack GOODY 
+## Theories and authors:
 
-Institutional conditions 
+## THE GREAT DIVERGENCE
 
-**==> picture [555 x 346] intentionally omitted <==**
+Process by which **Europe** started to grow more than Asia
 
-Jared DIAMOND Environmental conditions 
+1. Demographic explanations
 
-1. Population density 2. Agricultural productivity 
+2. Impact of Black Death (Clark)
 
-2025/2026 
+3. Institutional conditions (Needham+Landes, North and Thomas)
 
-30067 
+4. Environmental conditions (Diamond)
 
-4 
+5. Exploitation of America but real effect on divergence seen only starting from the end of XIX century (Pomeranz) 6. Colonization (Wallerstein)
 
-## Theories and authors: 
+Starting points:
 
-## THE GREAT DIVERGENCE 
+1. Black Death of 1347
 
-Process by which **Europe** started to grow more than Asia 
+2. Opening of closed worlds (1434)
 
-1. Demographic explanations 
+3. Industrial revolution
 
-2. Impact of Black Death (Clark) 
+4. End of XIX century (according to Pomeranz)
 
-3. Institutional conditions (Needham+Landes, North and Thomas) 
+Higher in Europe:
 
-4. Environmental conditions (Diamond) 
+1. Population density
 
-5. Exploitation of America but real effect on divergence seen only starting from the end of XIX century (Pomeranz) 6. Colonization (Wallerstein) 
+2. Urbanization rate
 
-Starting points: 
+3. Urban wages
 
-1. Black Death of 1347 
+4. Income per capita
 
-2. Opening of closed worlds (1434) 
+2025/2026
 
-3. Industrial revolution 
+## THE LITTLE DIVERGENCE
 
-4. End of XIX century (according to Pomeranz) 
+1. Demography (Hajnal, Clark, Alfani)
 
-Higher in Europe: 
+2. Mix of demography and institutions (labour market) (De Moor, Van Zanden, De Vries)
 
-1. Population density 
+3. Putting-out-system
 
-2. Urbanization rate 
+Process by which the **North of Europe** started to grow more than the South of Europe
 
-3. Urban wages 
+4. Institutions more open to the needs of the new rising mercantile class (North, Acemoglu, Weingast)
 
-4. Income per capita 
+Starting from the 16th century
 
-2025/2026 
+5. Political institutions (process of parliamentarization) (North+Weingast+Acemoglu et al.)
 
-30067 
+6. Citizenship rights (Prak, Van Zanden)
 
-5 
+7. Religion that legitimizes success and wealth (Weber)
 
-## THE LITTLE DIVERGENCE 
+## In the North of Europe:
 
-1. Demography (Hajnal, Clark, Alfani) 
+1. More social mobility and higher per capita income (De Moor+Van Zanden)
 
-2. Mix of demography and institutions (labour market) (De Moor, Van Zanden, De Vries) 
+2. Lower birth rate if compared to the South of Europe (Hajnal)
 
-3. Putting-out-system 
+3. More private consumption (De Moor, Van Zanden, De Vries) 4. More productivity in manufacturing thanks to putting-outsystem
 
-Process by which the **North of Europe** started to grow more than the South of Europe 
+2025/2026
 
-4. Institutions more open to the needs of the new rising mercantile class (North, Acemoglu, Weingast) 
+## First IR
 
-Starting from the 16th century 
+## Textile + mining and processing of ferrous metals!!!
 
-5. Political institutions (process of parliamentarization) (North+Weingast+Acemoglu et al.) 
+Agricoltural revolution: enclosures (privatization of land) and technical innovation
 
-**==> picture [376 x 290] intentionally omitted <==**
+Consumer revolution
 
-6. Citizenship rights (Prak, Van Zanden) 
+- Increase in productivity:
 
-7. Religion that legitimizes success and wealth (Weber) 
+- People moving from agricoltural sector towards manufacturing - Higher urbanization rate - Population growth (Demographic transition which means escape from Malthusian trap) ^0zwhxu
 
-## **In the North of Europe:** 
+1. Price of factors of production (Allen analysis on real wages:
 
-1. More social mobility and higher per capita income (De Moor+Van Zanden) 
+2. Price of energy: charcoal becoming very expensive and this led to more and more innovation for coal extraction
 
-2. Lower birth rate if compared to the South of Europe (Hajnal) 
+Enlightment - Mokyr Parliament regulates economic life on macro and micro level:
 
-3. More private consumption (De Moor, Van Zanden, De Vries) 4. More productivity in manufacturing thanks to putting-outsystem 
+Institutional factors - Commercial policy (Navigation acts+Calico Acts) - Enclosures
 
-2025/2026 
+- Parliament is in charge of - Fiscal policy
 
-30067 
+economic policy choices - Monetary policy
 
-6 
+- More inclusive political institutions - National market
 
-## First IR 
+Transports: turnpike roads and internal - Reduction in time and cost of transport canals - More market opportunities for entrepreneurs
 
-## _Textile + mining and processing of ferrous metals!!!_ 
+2025/2026
 
-Agricoltural revolution: enclosures (privatization of land) and technical innovation 
+## FIRST IR: EFFECTS
 
-Consumer revolution 
+- A new economic structure: manufacturing is contributing more to GDP than agriculture
 
-- Increase in productivity: 
+- Escape from Malthusian trap (population growth and also income per capita growth)
 
-   - People moving from agricoltural sector towards manufacturing - Higher urbanization rate - Population growth (Demographic transition which means escape from Malthusian trap) 
+- Imitation by other nations to get industrialized and more competition in the world economic arena
 
-1. Price of factors of production (Allen analysis on real wages: 
+- Intensification of trade among nations
 
-2. Price of energy: charcoal becoming very expensive and this led to more and more innovation for coal extraction 
+- Rise in economic inequality among nations
 
-Enlightment - Mokyr Parliament regulates economic life on macro and micro level: 
+- New relationship between man and work
 
-Institutional factors - Commercial policy (Navigation acts+Calico Acts) - Enclosures 
+- Starting point of modern economic growth (Kuznets)
 
-- Parliament is in charge of - Fiscal policy 
+- Irreversible transformation: not only economic transformation but also big social and cultural change
 
-economic policy choices - Monetary policy 
+2025/2026
 
-- More inclusive political institutions - National market 
+## SECOND IR
 
-Transports: turnpike roads and internal - Reduction in time and cost of transport canals - More market opportunities for entrepreneurs 
+- Different industrial sectors
 
-2025/2026 
+- Chemical
 
-30067 
+- Electrical
 
-7 
+- Energetical
 
-## FIRST IR: EFFECTS 
+- Scientific Process and Technological Process
 
-- A new economic structure: manufacturing is contributing more to GDP than agriculture 
+- Scientific Process and Production Process
 
-   - Escape from Malthusian trap (population growth and also income per capita growth) 
+- R&D
 
-      - Imitation by other nations to get industrialized and more competition in the world economic arena 
+- Reduction in Trasport Costs
 
-         - Intensification of trade among nations 
+- Increase in information
 
-            - Rise in economic inequality among nations 
+- Great Capital intensive technologies
 
-               - New relationship between man and work 
+- Market Integration
 
-                  - Starting point of modern economic growth (Kuznets) 
+- Creation of Big Businesses
 
-                     - Irreversible transformation: not only economic transformation but also big social and cultural change 
+## Key role of scientific knowledge!!!
 
-2025/2026 
+- Economies of Scale
 
-30067 
+- Vertical Integration
 
-8 
+- Industrial Concentration
 
-## SECOND IR 
+- → Competition
 
-      - Different industrial sectors 
+- Management becomes a science
 
-         - Chemical 
+- (Taylorism)
 
-         - Electrical 
+- New production approach (Fordism)
 
-         - Energetical 
+- Assembly Line
 
-- Scientific Process and Technological Process 
+- - Standardisation
 
-- Scientific Process and Production Process 
+2025/2026
 
-   - R&D 
+## IR AND LIVING STANDARDS
 
-   - Reduction in Trasport Costs 
+Simon Kuznets: Inequality and industrialisation
 
-   - Increase in information 
+Mokyr: Living standars
 
-- Great Capital intensive technologies 
+Knowledge and Education
 
-- Market Integration 
+Shift from the Old Regime
 
-- Creation of Big Businesses 
+2025/2026
 
-## _Key role of scientific knowledge!!!_ 
+## UNSTOPPABLE PROCESS
 
-      - Economies of Scale 
+## The State
 
-      - Vertical Integration 
+Sidney Pollard → **regional developments**
 
-      - Industrial Concentration 
+Alexander Gerschenkron → the **advantages of backwardness**
 
-         - → Competition 
+France vs Germany vs Belgium
 
-- Management becomes a science 
+USA vs Japan vs China
 
-   - (Taylorism) 
+The Bank System
 
-- New production approach (Fordism) 
+Raw Materials
 
-   - Assembly Line 
+Competencies
 
-   - • Standardisation 
+2025/2026
 
-2025/2026 
+## THE FIRST GLOBALIZATION
 
-30067 
+2025/2026
 
-9 
+## Programme overview
 
-## IR AND LIVING STANDARDS 
-
-Simon Kuznets: Inequality and industrialisation 
-
-**==> picture [334 x 217] intentionally omitted <==**
-
-Mokyr: Living standars 
-
-Knowledge and Education 
-
-Shift from the Old Regime 
-
-2025/2026 
-
-30067 
-
-10 
-
-## UNSTOPPABLE PROCESS 
-
-## The State 
-
-Sidney Pollard → **regional developments** 
-
-**==> picture [422 x 293] intentionally omitted <==**
-
-Alexander Gerschenkron → the **advantages of backwardness** 
-
-France vs Germany vs Belgium 
-
-USA vs Japan vs China 
-
-The Bank System 
-
-Raw Materials 
-
-Competencies 
-
-2025/2026 
-
-30067 
-
-11 
-
-## THE FIRST GLOBALIZATION 
-
-**==> picture [758 x 329] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Imperialism Migration<br>Transport and<br>communicatio<br>n<br>Economic Trade<br>integration policies<br>Gold  Inequality<br>Great Deflation<br>standard<br>**----- End of picture text -----**<br>
-
-
-2025/2026 
-
-30067 
-
-12 
-
-## Programme overview 
-
-|**Part I**|**Rise of the West**|**1.**<br>**Origins of economic development**<br>**2.**<br>**Pre-industrial economies**<br>**3.**<br>**The Industrial Revolution**<br>**4.**<br>**Industrial economies**<br>**5.**<br>**The first age of globalisation**|
+|**Part I**|**Rise of the West**|**1.The first age of globalisation**|
 |---|---|---|
-||||
-|Part II|The modern world|6. WWI and Economic development after World War I<br>7.<br>Depression and deglobalization<br>8.<br>Economic development after World War II<br>9.<br>The new age ofglobalisation|
+|
+|Part II|The modern world|6. WWI and Economic development after World War I 7. Depression and deglobalization 8. Economic development after World War II 9. The new age ofglobalisation|
 
+2025/2026
 
+## 1. OUTLINE
 
-2025/2026 
+- Learning material
 
-30067 
+- Course content
 
-13 
+- Course readings
 
-## 1. OUTLINE 
+- Exam regulations
 
-- Learning material 
+- Midterm Exam
 
-   - Course content 
+- Type of questions → Guide to open questions
 
-   - Course readings 
+- Interactive mock exam → 10 closed questions
 
-- Exam regulations 
+2025/2026
 
-   - Midterm Exam 
+## 2. AIMS OF THE COURSE
 
-   - Type of questions → Guide to open questions 
+- Introduce the study of economic history
 
-- Interactive mock exam → 10 closed questions 
+- Western economic development from early modern times
 
-2025/2026 
+- The history of economic growth
 
-30067 
+- Course content
 
-14 
+- Part I: The rise of the West and the Industrial Revolution
 
-## 2. AIMS OF THE COURSE 
+- Part II: Modern economies and macroeconomic policy
 
-- Introduce the study of economic history 
+- Learning outcomes
 
-   - Western economic development from early modern times 
+- Understand simple tools of economic measurement
 
-   - The history of economic growth 
+- Demonstrate how economic theory can explain development
 
-## • Course content 
+2025/2026
 
-   - Part I: The rise of the West and the Industrial Revolution 
+## 3. COURSE CONTENT
 
-   - Part II: Modern economies and macroeconomic policy 
+## 1. The  origins of economic development
 
-- Learning outcomes 
+## 2. Preindustrial economies
 
-   - Understand simple tools of economic measurement 
+- The high-wage economy of north-western Europe
 
-   - Demonstrate how economic theory can explain development 
+- The agricultural revolution in England
 
-2025/2026 
+- The energy revolution in England
 
-30067 
+## 3. The Industrial Revolution
 
-15 
+- The British Industrial Revolution
 
-## 3. COURSE CONTENT 
+- The origins of modern economic growth
 
-## _1. The  origins of economic development_ 
+## 4. Industrial economies
 
-## _2. Preindustrial economies_ 
+- The demographic transition
 
-- The high-wage economy of north-western Europe 
+- Living standards and inequality
 
-- The agricultural revolution in England 
+_5. The first age of globalisation_
 
-- The energy revolution in England 
+2025/2026
 
-## _3. The Industrial Revolution_ 
+## 4. SO, WHAT TO STUDY
 
-- The British Industrial Revolution 
+- It depends
 
-- The origins of modern economic growth 
+- If you want _cum laude_ , then ‘everything’
 
-## _4. Industrial economies_ 
+- Otherwise, you can focus
 
-   - The demographic transition 
+- ➢ Most test questions covered lectures’ note and slides
 
-   - Living standards and inequality 
+- ➢ A few can only be answered based on lectures
 
-_5. The first age of globalisation_ 
+- ➢ Open questions can be answered based on slides and notes
 
-2025/2026 
+- Illustrations: main message, not the details
 
-30067 
+2025/2026
 
-16 
+## 5. HOW MUCH THEORY?
 
-## 4. SO, WHAT TO STUDY 
+- You do NOT need to
 
-## • It depends 
+- remember exact years
 
-- If you want _cum laude_ , then ‘everything’ 
+- replicate graphs
 
-- Otherwise, you can focus 
+- memorize definitions
 
-   - ➢ Most test questions covered lectures’ note and slides 
+- BUT questions may test
 
-   - ➢ A few can only be answered based on lectures 
+- whether you understand the theory
 
-   - ➢ Open questions can be answered based on slides and notes 
+- whether you know in what context they have been applied
 
-## • Illustrations: main message, not the details 
+2025/2026
 
-2025/2026 
+## 6. MIDTERM EXAM
 
-30067 
+- 2 chronological order questions
 
-17 
+- 8 closed questions
 
-## 5. HOW MUCH THEORY? 
+- Multiple choice with 5 possible answers: 1 of 3 alternative answers, all of them, or none of them
 
-- You do NOT need to 
+- **Only one correct answer!**
 
-   - remember exact years 
+- **Don’t guess; think!**
 
-   - replicate graphs 
+- Open questions
 
-   - memorize definitions 
+- Answer 1 of 2 questions: two questions on two different topics
 
-## • BUT questions may test 
+- **Answer in approximately 250 words!**
 
-- whether you understand the theory 
+2025/2026
 
-- whether you know in what context they have been applied 
+## 7. PART 1: CLOSED QUESTIONS
 
-2025/2026 
+- Mark for this section: 9 best answers + 3 points ➢ Points for each question: correct (3), no answer (1), wrong (0)
 
-30067 
+- What does this mean?
 
-18 
+- 10 correct answers: 31
 
-## 6. MIDTERM EXAM 
+- 9 correct answers: 30
 
-- 2 chronological order questions 
+- 8 correct answers + 1 blank: 28
 
-## • 8 closed questions 
+- 8 correct answers, the rest wrong: 27
 
-- Multiple choice with 5 possible answers: 1 of 3 alternative answers, all of them, or none of them 
+- 7 correct answers + 2 blank: 26
 
-- **Only one correct answer!** 
+- 7 correct answers + 1 blank: 25
 
-- **Don’t guess; think!** 
+- 7 correct answers, the rest wrong: 24
 
-## • Open questions 
+- …
 
-- Answer 1 of 2 questions: two questions on two different topics 
+- – 5 correct answers: 18
 
-- **Answer in approximately 250 words!** 
+2025/2026
 
-2025/2026 
+## 8. PART 2: OPEN QUESTIONS
 
-30067 
+- Answer only ONE of TWO questions
 
-19 
+- Think about your choice carefully
 
-## 7. PART 1: CLOSED QUESTIONS 
+- 2 out of 5 topics will come up
 
-- Mark for this section: 9 best answers + 3 points ➢ Points for each question: correct (3), no answer (1), wrong (0) 
+- Pick the questions you can answer best in limited time and space
 
-- What does this mean? 
+- Take a few minutes to construct your answer
 
-   - 10 correct answers: 31 
+- Look for keywords; make a few bullet-points (but do not use them in the final answer)
 
-   - 9 correct answers: 30 
+- Delete all notes at the end: we mark everything that you submit
 
-   - 8 correct answers + 1 blank: 28 
+- In the online exam, you cannot include model diagrams **, but you can refer to and/or explain relevant theory.**
 
-   - 8 correct answers, the rest wrong: 27 
+## ➢ **Make sure you saved your answer!**
 
-   - 7 correct answers + 2 blank: 26 
+2025/2026
 
-   - 7 correct answers + 1 blank: 25 
+## 9. OPEN QUESTIONS: GUIDELINES
 
-   - 7 correct answers, the rest wrong: 24 
+- Assessment criteria
 
-   - … 
+1. Did you demonstrate knowledge on the topic?
 
-   - – 5 correct answers: 18 
+2. Did you answer the question?
 
-2025/2026 
+3. Did you discuss the most relevant facts?
 
-30067 
+4. Was your answer precise and accurate?
 
-20 
+5. Was your argument well constructed?
 
-## 8. PART 2: OPEN QUESTIONS 
+6. Was your answer well written? → I do not consider typos
 
-- Answer only ONE of TWO questions 
+- How to get the best mark?
 
-- Think about your choice carefully 
+- **Be careful**: Make sure that you understand the question.
 
-   - 2 out of 5 topics will come up 
+- **Be concise**: Focus on facts that are strictly relevant to the question.
 
-   - Pick the questions you can answer best in limited time and space 
+- **Be coherent**: Do not just list facts; explain them clearly and logically
 
-- Take a few minutes to construct your answer 
+2025/2026
 
-   - Look for keywords; make a few bullet-points (but do not use them in the final answer) 
+## 10. OPEN QUESTIONS: GRADING
 
-   - Delete all notes at the end: we mark everything that you submit 
-
-   - In the online exam, you cannot include model diagrams **, but you can refer to and/or explain relevant theory.** 
-
-## ➢ **Make sure you saved your answer!** 
-
-2025/2026 
-
-30067 
-
-21 
-
-## 9. OPEN QUESTIONS: GUIDELINES 
-
-## • Assessment criteria 
-
-   1. Did you demonstrate knowledge on the topic? 
-
-   2. Did you answer the question? 
-
-   3. Did you discuss the most relevant facts? 
-
-   4. Was your answer precise and accurate? 
-
-   5. Was your argument well constructed? 
-
-   6. Was your answer well written? → I do not consider typos 
-
-- How to get the best mark? 
-
-   - **Be careful** : Make sure that you understand the question. 
-
-   - **Be concise** : Focus on facts that are strictly relevant to the question. 
-
-   - **Be coherent** : Do not just list facts; explain them clearly and logically 
-
-2025/2026 
-
-30067 
-
-22 
-
-## 10. OPEN QUESTIONS: GRADING 
-
-|29-31||Strong answers<br>; very good command of relevant facts and/or<br>arguments, and evidence of ability to organise them with clarity,<br>insight and efficiency.|
+|29-31|Strong answers ; very good command of relevant facts and/or arguments, and evidence of ability to organise them with clarity, insight and efficiency.|
 |---|---|---|
-|26-28||Good answers<br>; clear analysis and argumentation, but not<br>comprehensive command of evidence; or work showing<br>thoroughness but less clarity in organisation and analysis.|
-|22-25||Decent answers<br>; no major defects, but incomplete account of<br>the question, or flawed with inaccuracies; or lack of analysis<br>and argumentation.|
-|18-21||Weak answers<br>; with confusing argumentation, but some<br>evidence of knowledge; or competent work that does not<br>address the question.|
-|Fail||Very poor quality<br>; little (if any) evidence of study|
+|26-28|Good answers ; clear analysis and argumentation, but not comprehensive command of evidence; or work showing thoroughness but less clarity in organisation and analysis.|
+|22-25|Decent answers ; no major defects, but incomplete account of the question, or flawed with inaccuracies; or lack of analysis and argumentation.|
+|18-21|Weak answers ; with confusing argumentation, but some evidence of knowledge; or competent work that does not address the question.|
+|Fail|Very poor quality ; little (if any) evidence of study|
+*(See also: [[6_The industrialisation process_2#^bb3lc2]])*
 
+2025/2026
 
-
-2025/2026 
-
-30067 
-
-23 
-
+## Related Notes
+- [[6_The industrialisation process_2]]
+- [[1_The pre-industrial economy_30067]]
+- [[4_5_The industrialisation process_1]]

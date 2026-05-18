@@ -1,758 +1,376 @@
-Cash 
+---
+course: "Financial Accounting 1"
+course_code: "30692"
+tags:
+  - "source"
+  - course_30692
+Title: "Full-material presentation Chapter 6"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Chapter 6: Reporting and 
+Cash
 
-Interpreting Sales Revenue, Receivables, and Cash **Financial Accounting** 12e 
+Chapter 6: Reporting and
 
-Libby • Libby • Hodge 
+Interpreting Sales Revenue, Receivables, and Cash **Financial Accounting** 12e
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Libby - Libby - Hodge
 
-## Learning Objectives 
+## Learning Objectives
 
-After studying this chapter, you should be able to: 
+After studying this chapter, you should be able to:
 
-**6-1** Analyze the impact of credit (and debit) card sales, sales discounts, sales returns, and sales of bundled items on the amounts reported as net sales revenue and selling, general, and administrative expense. 
+**6-1** Analyze the impact of credit (and debit) card sales, sales discounts, sales returns, and sales of bundled items on the amounts reported as net sales revenue and selling, general, and administrative expense.
 
-**6-2** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements. 
+**6-2** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements.
 
-**6-3** Analyze and interpret the receivables turnover ratio and the effects of accounts receivable on cash flows. 
+**6-3** Analyze and interpret the receivables turnover ratio and the effects of accounts receivable on cash flows.
 
-**6-4** Report, control, and safeguard cash. 
+**6-4** Report, control, and safeguard cash.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Learning Objective 6-1
 
-**6-2** 
+**6-1** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements.
 
-## Learning Objective 6-1 
+## Accounting for Net Sales Revenue (1 of 3)
 
-**6-1** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements. 
+The revenue recognition principle requires that revenues be recorded:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+1. when the company transfers goods and services to customers.
 
-**6-3** 
+2. in the amount the company expects to be entitled to receive.
 
-## Accounting for Net Sales Revenue (1 of 3) 
+## Accounting for Net Sales Revenue (2 of 3)
 
-The revenue recognition principle requires that revenues be recorded: 
+**For sellers of goods** , sales revenue is recorded when title and risks of . ownership transfer to the buyer
 
-1. when the company transfers goods and services to customers. 
+The point at which title (ownership) changes hands is determined by these shipping terms: **FOB destination** and **FOB shipping point** .
 
-2. in the amount the company expects to be entitled to receive. 
+- FOB destination – title changes hands on delivery and the seller normally pays for shipping. - Revenue recognized at delivery.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- FOB shipping point –title changes hands at shipment and the buyer normally pays for shipping.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Revenue recognized at shipment.
 
-**6-4** 
+- Direct-to-consumer revenues are recognized at the point of sale at the company’s retail stores and upon shipment for sales through their websites.
 
-## Accounting for Net Sales Revenue (2 of 3) 
+**Service companies** most often record sales revenue when they have provided services to the buyer.
 
-**For sellers of goods** , sales revenue is recorded when title and risks of . ownership transfer to the buyer 
+## Accounting for Net Sales Revenue (2 of 3)
 
-The point at which title (ownership) changes hands is determined by these shipping terms: **FOB destination** and **FOB shipping point** . 
+**For sellers of goods** , sales revenue is recorded when title and risks of . ownership transfer to the buyer
 
-- FOB destination – title changes hands on delivery and the seller normally pays for shipping. • Revenue recognized at delivery. 
+The point at which title (ownership) changes hands is determined by these shipping terms: **FOB destination** and **FOB shipping point** .
 
-- FOB shipping point –title changes hands at shipment and the buyer normally pays for shipping. 
+**Service companies** most often record sales revenue when they have provided services to the buyer.
 
-   - Revenue recognized at shipment. 
+## Summary of Significant Accounting Policies
 
-- Direct-to-consumer revenues are recognized at the point of sale at the company’s retail stores and upon shipment for sales through their websites. 
+Here is an example of a financial statement footnote that discloses the revenue recognition rule:
 
-**Service companies** most often record sales revenue when they have provided services to the buyer. 
+## Source: Skechers U.S.A., Quarterly Report
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Motivating Sales and Collections
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Companies use a variety of methods to motivate businesses and consumers to buy their products and make payments for their purchases, including: 1) Allowing consumers to use credit cards to pay for purchases. 2) Providing business customers direct credit and discounts for early payment.
 
-**6-5** 
+- 3) Allowing returns from all customers under certain circumstances.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Credit Card Sales to Consumers
 
-## Accounting for Net Sales Revenue (2 of 3) 
+Companies accept cash or credit (and debit) card payments (mainly Visa, Mastercard, and American Express) for retail store and online sales for a variety of reasons including:
 
-**For sellers of goods** , sales revenue is recorded when title and risks of . ownership transfer to the buyer 
+1. Increasing customer traffic.
 
-The point at which title (ownership) changes hands is determined by these shipping terms: **FOB destination** and **FOB shipping point** . 
+2. Avoiding the costs of providing credit directly to consumers, including recordkeeping and bad debts (discussed later).
 
-**==> picture [698 x 134] intentionally omitted <==**
+3. Lowering losses due to bad checks.
 
-**Service companies** most often record sales revenue when they have provided services to the buyer. 
+4. Avoiding losses from fraudulent credit card sales. _(As long as the retailer follows the credit card company’s verification procedure, the credit card company (e.g., Visa) absorbs any losses.)_
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+5. Receiving money faster. _(Credit card receipts can be deposited directly in the company’s bank account)_
 
-**6-6** 
+The card company charges a fee for the service it provides. These card fees (the **credit card discount** ) are most often included in selling, general, and administrative expenses.
 
-## Summary of Significant Accounting Policies 
+The accounting is the same when customers use a contactless mobile payment app such as Google Pay or Apple Pay.
 
-Here is an example of a financial statement footnote that discloses the revenue recognition rule: 
+## Sales Discounts to Businesses (1 of 2)
 
-**==> picture [716 x 270] intentionally omitted <==**
+Companies often sell to other businesses on open account without a formal written promissory note or credit card.
 
-## _Source: Skechers U.S.A., Quarterly Report_ 
+Companies may offer a **sales discount** as an early payment incentive. Often credit terms are abbreviated on the sales invoice as follows:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Early Payment Incentive
 
-**6-7** 
+Number of days Net (total sales In discount period less returns) Maximum Discount credit period percentage 2/10, n/30 **Read as: “Two ten, net thirty”**
 
-## Motivating Sales and Collections 
+- Sales discounts (often called a cash discount) encourage early payment from customers, reducing the need for the company to borrow money to meet operating needs.
 
-- Companies use a variety of methods to motivate businesses and consumers to buy their products and make payments for their purchases, including: 1) Allowing consumers to use credit cards to pay for purchases. 2) Providing business customers direct credit and discounts for early payment. 
+- Customers tend to pay bills providing discounts first.
 
-- 3) Allowing returns from all customers under certain circumstances. 
+## Sales Discounts to Businesses (2 of 2)
 
-**==> picture [65 x 560] intentionally omitted <==**
+Companies commonly record sales discounts taken by subtracting the discount from sales if payment is made **within** the discount period.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 and payment of $980 ($1,000 × 0.98 = $980) is made within the discount period, net sales of the following amount would be reported:
 
-**6-8** 
+If payment is made after the discount period, the full $1,000 would be reported as net sales.
 
-## Credit Card Sales to Consumers 
+## To Take or Not to Take the Discount, That Is the Question
 
-Companies accept cash or credit (and debit) card payments (mainly Visa, Mastercard, and American Express) for retail store and online sales for a variety of reasons including: 
+Purchasers often pay within the discount period because the savings are substantial!  With discount terms of 2/10, n/30, a customer saves 2% paying 20 days early (on the 10(th) day instead of the 30(th) . This translates into a 37 percent annual interest rate. The customer will save by taking the cash discount as long as they can borrow from the bank at a rate of interest that is less than the calculated annual interest rate above.
 
-1. Increasing customer traffic. 
+## Sales Returns and Allowances
 
-2. Avoiding the costs of providing credit directly to consumers, including recordkeeping and bad debts (discussed later). 
+Customers have a right to return unsatisfactory or damaged merchandise and receive a refund or an adjustment to their bill. Returns are accumulated in a separate account called **Sales Returns and Allowances** which is **deducted from gross sales revenue** to determine **net sales** . Sales revenue $2,000 Less: Sales returns and allowances 500 Net sales (reported on the income statement) $1,500 Cost of goods sold related to the returned items would also be reduced.
 
-3. Lowering losses due to bad checks. 
+## Reporting Net Sales
 
-4. Avoiding losses from fraudulent credit card sales. _(As long as the retailer follows the credit card company’s verification procedure, the credit card company [e.g., Visa] absorbs any losses.)_ 
+Companies record credit card discounts, sales discounts, and sales returns and allowances separately to allow management to monitor the magnitude of these transactions.
 
-5. Receiving money faster. _(Credit card receipts can be deposited directly in the company’s bank account)_ 
+**Net Sales** (also called Net sales revenue, Net revenues, or Sales) to all customers is the top line reported on  the income statement.
 
-The card company charges a fee for the service it provides. These card fees (the **credit card discount** ) are most often included in selling, general, and administrative expenses. 
+## Exhibit 6.1
 
-The accounting is the same when customers use a contactless mobile payment app such as Google Pay or Apple Pay. 
+## Net Sales on the Income Statement
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Volume Discounts/Rebates and Earnings Misstatements
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+In 2016, the SEC found that Sales revenue should be recorded Monsanto had **materially** “ **in the amount the company misstated** company revenue and **expects to be entitled to receive** ”. earnings by improperly accounting This rule requires Monsanto to for volume discounts and rebates **reduce the amount of reported net** offered to retailers and distributers **sales by the expected rebates** in the . of its product, **Roundup** period of the sale. Monsanto delayed recording Monsanto improperly accounted for rebates until the following rebates ($56 million) as expense year, overstating net sales instead of a reduction in net sales. and earnings before taxes by This practice overstated gross profit, a $44.5 million and $48 million, measure used by analysts, but did not respectively, over two years affect income before tax. Monsanto paid an $80 million penalty, and three Monsanto managers paid penalties between $30,000 and $55,000. The CEO and CFO returned bonuses of $3,165,852 and $728,843.
+*(See also: [[Accounting 1 Blab Handout 2024-2025 A.Y.#^8yg0fn]])*
 
-**6-9** 
+## Revenue Recognition for Bundled Goods and Services: A Five Step Process (1 of 3)
 
-## Sales Discounts to Businesses (1 of 2) 
+Bundling of goods and services within one sales contract is common in a variety of industries.
 
-Companies often sell to other businesses on open account without a formal written promissory note or credit card. 
+When a seller promises to provide more than one good or service in a single sales contract, FASB standards specify a **five-stop process** to determine the amount to be recognized as revenue.
 
-Companies may offer a **sales discount** as an early payment incentive. Often credit terms are abbreviated on the sales invoice as follows: 
+## Revenue Recognition for Bundled Goods and Services: A Five Step Process (2 of 3)
 
-## **Early Payment Incentive** 
+Assume Apple sells an iPad for $500, (1) $450 of which relates to the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years.**
 
-Number of days Net (total sales In discount period less returns) Maximum Discount credit period percentage 2/10, n/30 **Read as: “Two ten, net thirty”** 
-
-- Sales discounts (often called a cash discount) encourage early payment from customers, reducing the need for the company to borrow money to meet operating needs. 
-
-- Customers tend to pay bills providing discounts first. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-10** 
-
-## Sales Discounts to Businesses (2 of 2) 
-
-Companies commonly record sales discounts taken by subtracting the discount from sales if payment is made **within** the discount period. 
-
-For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 and payment of $980 ($1,000 × 0.98 = $980) is made within the discount period, net sales of the following amount would be reported: 
-
-**==> picture [563 x 139] intentionally omitted <==**
-
-If payment is made after the discount period, the full $1,000 would be reported as net sales. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-11** 
-
-## To Take or Not to Take the Discount, That Is the Question 
-
-Purchasers often pay within the discount period because the savings are substantial!  With discount terms of 2/10, n/30, a customer saves 2% paying 20 days early (on the 10[th] day instead of the 30[th] . This translates into a 37 percent annual interest rate. The customer will save by taking the cash discount as long as they can borrow from the bank at a rate of interest that is less than the calculated annual interest rate above. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-12** 
-
-## Sales Returns and Allowances 
-
-Customers have a right to return unsatisfactory or damaged merchandise and receive a refund or an adjustment to their bill. Returns are accumulated in a separate account called **Sales Returns and Allowances** which is **deducted from gross sales revenue** to determine **net sales** . Sales revenue $2,000 Less: Sales returns and allowances 500 Net sales (reported on the income statement) $1,500 Cost of goods sold related to the returned items would also be reduced. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-13** 
-
-## Reporting Net Sales 
-
-Companies record credit card discounts, sales discounts, and sales returns and allowances separately to allow management to monitor the magnitude of these transactions. 
-
-**Net Sales** (also called Net sales revenue, Net revenues, or Sales) to all customers is the top line reported on  the income statement. 
-
-**==> picture [254 x 217] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-14** 
-
-## Exhibit 6.1 
-
-## Net Sales on the Income Statement 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-15** 
-
-## Volume Discounts/Rebates and Earnings Misstatements 
-
-**==> picture [429 x 49] intentionally omitted <==**
-
-In 2016, the SEC found that Sales revenue should be recorded Monsanto had **materially** “ **in the amount the company misstated** company revenue and **expects to be entitled to receive** ”. earnings by improperly accounting This rule requires Monsanto to for volume discounts and rebates **reduce the amount of reported net** offered to retailers and distributers **sales by the expected rebates** in the . of its product, **Roundup** period of the sale. Monsanto delayed recording Monsanto improperly accounted for rebates until the following rebates ($56 million) as expense year, overstating net sales instead of a reduction in net sales. and earnings before taxes by This practice overstated gross profit, a $44.5 million and $48 million, measure used by analysts, but did not respectively, over two years affect income before tax. Monsanto paid an $80 million penalty, and three Monsanto managers paid penalties between $30,000 and $55,000. The CEO and CFO returned bonuses of $3,165,852 and $728,843. 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-16** 
-
-## Revenue Recognition for Bundled Goods and Services: A Five Step Process (1 of 3) 
-
-Bundling of goods and services within one sales contract is common in a variety of industries. 
-
-When a seller promises to provide more than one good or service in a single sales contract, FASB standards specify a **five-stop process** to determine the amount to be recognized as revenue. 
-
-**==> picture [620 x 256] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-17** 
-
-## Revenue Recognition for Bundled Goods and Services: A Five Step Process (2 of 3) 
-
-Assume Apple sells an iPad for $500, (1) $450 of which relates to the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years.** 
-
-|would be provided over**five years.**||
+|would be provided over**five years.**|
 |---|---|
-|**Step 1:**Identify the contract<br>between the company and the<br>customer.|Bundled: iPad with essential software<br>and related future upgrade services|
-|**Step 2:**Identify the performance<br>obligations (promised goods and<br>services).|#1 Hardware with essential software<br>#2 Future software upgrades|
-|**Step 3:**Determine the transaction<br>price.|$500 total|
-|**Step 4:**Allocate the transaction<br>price to the performance<br>obligations.|#1 Hardware with software$450<br>#2 Future software upgrades$50|
-|**Step 5:**Recognize revenue when<br>each performance obligation is<br>satisfied (or over time if a service is<br>provided over time).|#1 Hardware with software$450in<br>year 1<br>#2 Future software upgrades         $50/5<br>=$10 each yearfor 5 years|
+|**Step 1:**Identify the contract between the company and the customer.|Bundled: iPad with essential software and related future upgrade services|
+|**Step 2:**Identify the performance obligations (promised goods and services).|#1 Hardware with essential software #2 Future software upgrades|
+|**Step 3:**Determine the transaction price.|$500 total|
+|**Step 4:**Allocate the transaction price to the performance obligations.|#1 Hardware with software$450 #2 Future software upgrades$50|
+|**Step 5:**Recognize revenue when each performance obligation is satisfied (or over time if a service is provided over time).|#1 Hardware with software$450in year 1 #2 Future software upgrades         $50/5 =$10 each yearfor 5 years|
 
+## Revenue Recognition for Bundled Goods and Services: A Five Step Process (3 of 3)
 
+Assume Apple sells an iPad for $500, (1) $450 of which relates to the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years.**
 
-**==> picture [65 x 560] intentionally omitted <==**
+After applying the five-step process, revenue from the contract would be recognized as follows:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Measuring and Reporting Receivables Classifying Receivables
 
-**6-18** 
+Receivables may be classified in three common ways:
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Accounts receivable Notes receivable** (created by a credit sale on an _or_ (a written promise to pay open account) principal and interest at one or more future dates)
 
-## Revenue Recognition for Bundled Goods and Services: A Five Step Process (3 of 3) 
+**Trade receivable Nontrade receivables** (created in the normal course of _or_ (arise from transactions business when a credit sale of other than the normal merchandise or services occurs) course of business. _Such as an employee loan_ .)
 
-Assume Apple sells an iPad for $500, (1) $450 of which relates to the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years.** 
+**Current Noncurrent** _or_ (short-term) (long-term)
 
-After applying the five-step process, revenue from the contract would be recognized as follows: 
+## Foreign Currency Receivables
 
-**==> picture [652 x 75] intentionally omitted <==**
+Export (international) sales are a growing part of the U.S. economy. Most export sales to businesses are on credit. **When a buyer agrees to pay in its** local currency, **the resulting accounts receivable is denominated in a foreign** . This amount cannot be **currency** added to other U.S. dollar accounts receivable. **Companies must convert the amount to U.S. dollars** using the end-of-period exchange rate between the two currencies.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Learning Objective 6-2
 
-**6-19** 
+**6-2** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements.
 
-## Measuring and Reporting Receivables Classifying Receivables 
+## Accounting for Bad Debts
 
-Receivables may be classified in three common ways: 
+Companies keep a separate accounts receivable account for each customer (called a **subsidiary account** ). The amount on the balance sheet represents the total of these individual customer accounts.
 
-**Accounts receivable Notes receivable** (created by a credit sale on an _or_ (a written promise to pay open account) principal and interest at one or more future dates) 
+**Bad debts** result from credit customers who will not pay the amount they owe, regardless of collection efforts.
 
-**Trade receivable Nontrade receivables** (created in the normal course of _or_ (arise from transactions business when a credit sale of other than the normal merchandise or services occurs) course of business. _Such as an employee loan_ .) 
+- The **Expense Recognition Principle** requires recording of bad debt expense in the **same** accounting period in which the related sales are made.
 
-**Current Noncurrent** _or_ (short-term) (long-term) 
+**Problem –** Company may not learn which particular customers will not pay until the **next** accounting period. At the end of the period the company does not know which customers’ accounts are bad debts!
 
-**==> picture [65 x 560] intentionally omitted <==**
+Therefore, companies use the **allowance method to measure bad debt** . The allowance method is **based on estimates expense** of the expected amount of bad debts with two steps: 1) Make end-of-period adjusting entry to record bad debt expense. 2) Write off specific accounts determined to be uncollectible during the period.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Recording Bad Debt Expense Estimates
 
-**6-20** 
+**Bad debt expense (doubtful accounts expense, uncollectible accounts expense, provision for uncollectible accounts)** is the expense associated with estimated uncollectible accounts receivable. An **adjusting journal entry at the end of the accounting period** records the bad debt expense estimate.
 
-**==> picture [65 x 560] intentionally omitted <==**
+Example: Skechers estimated bad debt expense for 2023 to be $27,741 (in thousands) and made the following adjusting entry:
 
-## Foreign Currency Receivables 
+**The Allowance for doubtful accounts is a Contra-asset account** subtracted from the asset Accounts Receivable on the balance sheet.
 
-**==> picture [502 x 62] intentionally omitted <==**
+**Bad debt expense** is the expense associated with estimated uncollectible accounts receivable. It is included in the category “General and Administrative” expense on the income statement.
 
-Export (international) sales are a growing part of the U.S. economy. Most export sales to businesses are on credit. **When a buyer agrees to pay in its** local currency, **the resulting accounts receivable is denominated in a foreign** . This amount cannot be **currency** added to other U.S. dollar accounts receivable. **Companies must convert the amount to U.S. dollars** using the end-of-period exchange rate between the two currencies. 
+## Writing Off Specific Uncollectible Accounts
 
-**==> picture [236 x 282] intentionally omitted <==**
+**Throughout the year,** when it is determined that a customer will not pay its debts (e.g., due to bankruptcy), the write-off of that individual bad debt is recorded through a journal entry.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Assume Skechers’ total write-offs for 2023 totaled $29,346.
 
-**6-21** 
 
-## Learning Objective 6-2 
 
-**6-2** Estimate, report, and evaluate the effects of uncollectible accounts receivable (bad debts) on financial statements. 
+- Notice that this journal entry **did not affect any income statement accounts**
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- **It did not record a bad debt expense** because the estimated expense was recording with an adjusting entry.
 
-**6-22** 
+- ALSO, this entry did **not change the net book value of accounts receivable** because the decrease in the asset account (Accounts Receivable) was offset by the decrease in the contra-asset account (Allowance for Doubtful Accounts). Therefore, the entry **did not affect total assets.**
 
-## Accounting for Bad Debts 
+## Bad Debt Recoveries
 
-Companies keep a separate accounts receivable account for each customer (called a **subsidiary account** ). The amount on the balance sheet represents the total of these individual customer accounts. 
+When a company receives a payment on an account that has already been written off, the journal entry to write off the account is reversed to put the receivable back on the books and then the collection of cash is recorded.
 
-**Bad debts** result from credit customers who will not pay the amount they owe, regardless of collection efforts. 
+For example, if the previously written-off amount was $677, the following two entries are made:
 
-- The **Expense Recognition Principle** requires recording of bad debt expense in the **same** accounting period in which the related sales are made. 
+Note that **these entries** , like the original write-off, **do not affect total assets or net income** . Only the estimate of bad debts affects these amounts.
 
-**Problem –** Company may not learn which particular customers will not pay until the **next** accounting period. At the end of the period the company does not know which customers’ accounts are bad debts! 
+## Summary of the Accounting Process (1 of 2)
 
-Therefore, companies use the **allowance method to measure bad debt** . The allowance method is **based on estimates expense** of the expected amount of bad debts with two steps: 1) Make end-of-period adjusting entry to record bad debt expense. 2) Write off specific accounts determined to be uncollectible during the period. 
+## Accounting for bad debts is a two-step process.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Summary of the Accounting Process (2 of 2)
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Accounts Receivable (Gross)(A)
 
-**6-23** 
+Beginning balance                907,759 Collections on account         7,960,588 Sales on account               8,000,342 Write-offs                                     29,346 Ending balance                      918,167
 
-## Recording Bad Debt Expense Estimates 
+## Allowance for Doubtful Accounts (XA)
 
-**Bad debt expense (doubtful accounts expense, uncollectible accounts expense, provision for uncollectible accounts)** is the expense associated with estimated uncollectible accounts receivable. An **adjusting journal entry at the end of the accounting period** records the bad debt expense estimate. 
+Beginning balance                        59,472 Bad debt expense Write-offs                               29,346 adjustment                                   27,741 Ending balance                             57,867
 
-Example: Skechers estimated bad debt expense for 2023 to be $27,741 (in thousands) and made the following adjusting entry: 
+## Exhibit 6.2
 
-**==> picture [568 x 141] intentionally omitted <==**
+Reporting Accounts Receivable and Bad Debts
 
-**The Allowance for doubtful accounts is a Contra-asset account** subtracted from the asset Accounts Receivable on the balance sheet. 
+## Exhibit 6.3
 
-**Bad debt expense** is the expense associated with estimated uncollectible accounts receivable. It is included in the category “General and Administrative” expense on the income statement. 
+## Accounts Receivable Valuation Schedule (Form 10-K)
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Publicly traded companies report the amount of bad debt expense and accounts receivable written off for the period if the amounts are material.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Estimating Bad Debt Expense
 
-**6-24** 
+Companies estimate the amount of uncollectible accounts using the method that provides the **best estimate** given the company’s circumstances. This is often referred to as the Current Expected Credit Loss (CECL) model.
 
-## Writing Off Specific Uncollectible Accounts 
+The bad debt expense amount recorded in the end-of-period adjusting entry often is estimated based on either
 
-**Throughout the year,** when it is determined that a customer will not pay its debts (e.g., due to bankruptcy), the write-off of that individual bad debt is recorded through a journal entry. 
+a (1) **percentage of total credit sales** for the period or
 
-Assume Skechers’ total write-offs for 2023 totaled $29,346. 
+an . (2) **aging of accounts receivable**
 
-**==> picture [658 x 162] intentionally omitted <==**
+Both methods are acceptable under GAAP and are widely used.
 
-- . 
+The percentage of **credit sales method is simpler** to apply, but the **aging** . **method is generally more accurate**
 
-- Notice that this journal entry **did not affect any income statement accounts** 
+Many companies use the simpler method on a weekly or monthly basis and use the more accurate method on a monthly or quarterly basis to check the accuracy of the earlier estimates.
 
-- **It did not record a bad debt expense** because the estimated expense was recording with an adjusting entry. 
+## Estimating Bad Debts—Percentage of Credit Sales Method
 
-- ALSO, this entry did **not change the net book value of accounts receivable** because the decrease in the asset account (Accounts Receivable) was offset by the decrease in the contra-asset account (Allowance for Doubtful Accounts). Therefore, the entry **did not affect total assets.** 
+The percentage of credit sales method bases bad debt expense on the historical percentage of credit sales that result in bad debts. Assume, expected bad debt losses of 1.0 percent of credit sales and credit sales were $1,970,000 in 2024.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- This amount would be directly recorded as Bad Debt Expense (and an increase in Allowance for Doubtful Accounts) in the current year.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- The beginning balance in the Allowance for Doubtful Accounts for 2024 would be the ending balance for 2023.
 
-**6-25** 
+- Assuming write-offs during 2024 of $14,106, the ending balance is computed as follows:
 
-**==> picture [65 x 560] intentionally omitted <==**
+## Estimating Bad Debts—Aging of Accounts Receivable
 
-## Bad Debt Recoveries 
+The Aging method assumes that as accounts receivable becomes older and more overdue, it is less likely to be collected.
 
-**==> picture [513 x 58] intentionally omitted <==**
+The method estimates uncollectible accounts based on the age of each receivable.  Here is an example of an aging schedule of Accounts Receivable:
 
-When a company receives a payment on an account that has already been written off, the journal entry to write off the account is reversed to put the receivable back on the books and then the collection of cash is recorded. 
+## Estimating Bad Debts—Comparison of the Two Methods
 
-For example, if the previously written-off amount was $677, the following two entries are made: 
+**It is important to recognize that the approach to recording bad debt expense using the percentage of credit sales method is different from that for the aging method.**
 
-**==> picture [625 x 138] intentionally omitted <==**
+- **Percentage of credit sales.** Directly compute the amount to be recorded as **Bad Debt Expense** on the **income statement** for the period in the adjusting journal entry.
 
-Note that **these entries** , like the original write-off, **do not affect total assets or net income** . Only the estimate of bad debts affects these amounts. 
+- **Aging of Accounts Receivable.** Compute the **estimated ending balance** we would like to have in the **Allowance for Doubtful Accounts** on the **balance sheet** after we make the necessary adjusting entry. The **difference** between the current balance in the account and the estimated balance is recorded as the adjusting entry for Bad Debt Expense for the period.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Actual Write-offs Compared with Estimates
 
-**6-26** 
+If uncollectible accounts actually written off differ from the estimated amount previously recorded, **a higher or lower amount of bad debt expense is recorded in the next period** to make up for the previous period’s error in estimate. **When estimates are found to be incorrect, financial statement values for prior annual accounting periods are not corrected.**
 
-## Summary of the Accounting Process (1 of 2) 
+## Control over Accounts Receivable
 
-## **Accounting for bad debts is a two-step process.** 
+Practices That Can Help Minimize Bad Debts
 
-**==> picture [679 x 238] intentionally omitted <==**
+Require approval of customers’ credit history by a person independent of the sales and collections functions. Reward both sales and collections personnel for speedy collections so they work as a team.
 
-**==> picture [456 x 209] intentionally omitted <==**
+Age accounts receivable periodically and contact customers with overdue payments.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+**6-3** Analyze and interpret the receivables turnover ratio and the effects of accounts receivable on cash flows.
 
-**6-27** 
+## Accounts Receivable (1 of 2)
 
-## Summary of the Accounting Process (2 of 2) 
+When there is a net **decrease in accounts receivable** for the period, cash collected from customers is more than revenue; thus, the decrease must be **added** in computing cash flows from operations. When a net **increase in accounts receivable** occurs, cash collected from customers is less than revenue; thus, the increase must be **subtracted** in computing cash flows from operations
 
-## **Accounts Receivable (Gross)(A)** 
+## Accounts Receivable (2 of 2)
 
-Beginning balance                907,759 Collections on account         7,960,588 Sales on account               8,000,342 Write-offs                                     29,346 Ending balance                      918,167 
+## Learning Objective 6-4
 
-## **Allowance for Doubtful Accounts (XA)** 
+## Cash and Cash Equivalents
 
-Beginning balance                        59,472 Bad debt expense Write-offs                               29,346 adjustment                                   27,741 Ending balance                             57,867 
+**Cash** is defined as money or any instrument that banks will accept for deposit and immediate credit to a company’s account
 
-**==> picture [397 x 104] intentionally omitted <==**
+**Cash Bank Drafts Money Orders Checks Certificates of Deposit issued by banks Treasury Bills issued by the U.S. government**
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Cash equivalents** are investments with original maturities of three months or less that are readily convertible to cash and whose value is unlikely to change _(i.e., they are not sensitive to interest rate changes)._
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+**Most companies combine their bank accounts and cash equivalents into one amount, Cash and Cash Equivalents, on the balance sheet.**
 
-**6-28** 
+## Cash Management
 
-## Exhibit 6.2 
+Effective cash management involves more than protecting cash from theft, fraud, or loss through carelessness.
 
-Reporting Accounts Receivable and Bad Debts 
+Accurate accounting so that reports of cash flows and balances may be prepared.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Controls to ensure that enough cash is available to meet current operating needs, maturing liabilities, and unexpected emergencies.
 
-**6-29** 
+Prevention of the accumulation of excess amounts of idle cash that does not earn revenue.
 
-## Exhibit 6.3 
+## Effective Internal Control of Cash
 
-## Accounts Receivable Valuation Schedule (Form 10-K) 
+Separate jobs of receiving cash and disbursing cash. Separation Separate procedures of accounting for cash receipts of Duties and cash disbursements. Separate the physical handling of cash and all phases of the accounting function. Require that all cash receipts be deposited in a bank daily. Keep cash on hand under strict control. Require separate approval of the purchases and the actual cash payments. Prescribed Policies and Procedures Assign responsibilities for payment approval and check-signing or electronic transfers to different individuals. Require monthly reconciliation of bank accounts with the cash accounts on the company’s books.
 
-## Publicly traded companies report the amount of bad debt expense and accounts receivable written off for the period if the amounts are material. 
+## Ethics and the Need for Internal Control
 
-**==> picture [698 x 231] intentionally omitted <==**
+## Need for Reconciliation
 
-**==> picture [144 x 57] intentionally omitted <==**
+A **bank reconciliation** is the process of comparing (reconciling) the ending cash balance in the company’s records (the books) and the ending cash balance reported by the bank on the monthly bank statement (or on the online banking site). A bank reconciliation should be completed at the **end of each month** . Usually, the ending cash balance on the bank statement does not agree with the ending cash balance in the Cash ledger account on the books of the company. This is because some transactions affecting cash were recorded in the books but were not shown on the bank statement **or** some transactions were shown on the bank statement but had not been recorded in the books.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+The most common causes of differences include:
 
-**6-30** 
+Bank Service Errors by the Outstanding Bank or the Charges Checks Company NSF Checks Deposits in Transit Interest Earned
 
-## Estimating Bad Debt Expense 
+## Bank Reconciliation Illustrated (1 of 3)
 
-Companies estimate the amount of uncollectible accounts using the method that provides the **best estimate** given the company’s circumstances. This is often referred to as the Current Expected Credit Loss (CECL) model. 
+Exhibit 6.5 Bank Reconciliation Illustrated (2 of 3)
 
-The bad debt expense amount recorded in the end-of-period adjusting entry often is estimated based on either 
+## Bank Reconciliation Illustrated (3 of 3)
 
-a (1) **percentage of total credit sales** for the period or 
+**Any transactions or changes on the company’s books side of the bank reconciliation need journal entries.** Here are the journal entries necessary for Row.com:
 
-an . (2) **aging of accounts receivable** 
+## Chapter Supplement: Recording Discounts and Returns (1 of 2)
 
-Both methods are acceptable under GAAP and are widely used. 
+## **Cash discounts** must be recorded as contra-revenues that reduce reported net sales.
 
-The percentage of **credit sales method is simpler** to apply, but the **aging** . **method is generally more accurate** 
+For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 ($1,000 × 0.98 = $980) and payment is made within the discount period, record the following:
 
-Many companies use the simpler method on a weekly or monthly basis and use the more accurate method on a monthly or quarterly basis to check the accuracy of the earlier estimates. 
+## Chapter Supplement: Recording Discounts and Returns (2 of 2)
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Sales returns and allowances** should always be treated as a **contra-revenue** that reduces net sales.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Assume that Dick’s Sporting Goods buys 40 pairs of shoes from Skechers for $2,000 on account. On the date of sale, Skechers makes the following journal entry:
 
-**6-31** 
+Before paying for the shoes, however, Dick's Sporting Goods discovers that 10 pairs of shoes are not the color ordered and returns them to Skechers. On that date Skechers records:
 
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Estimating Bad Debts—Percentage of Credit Sales Method 
-
-The percentage of credit sales method bases bad debt expense on the historical percentage of credit sales that result in bad debts. Assume, expected bad debt losses of 1.0 percent of credit sales and credit sales were $1,970,000 in 2024. 
-
-**==> picture [349 x 76] intentionally omitted <==**
-
-- This amount would be directly recorded as Bad Debt Expense (and an increase in Allowance for Doubtful Accounts) in the current year. 
-
-- The beginning balance in the Allowance for Doubtful Accounts for 2024 would be the ending balance for 2023. 
-
-- Assuming write-offs during 2024 of $14,106, the ending balance is computed as follows: 
-
-**==> picture [593 x 119] intentionally omitted <==**
-
-**==> picture [229 x 97] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-32** 
-
-## Estimating Bad Debts—Aging of Accounts Receivable 
-
-The Aging method assumes that as accounts receivable becomes older and more overdue, it is less likely to be collected. 
-
-The method estimates uncollectible accounts based on the age of each receivable.  Here is an example of an aging schedule of Accounts Receivable: 
-
-**==> picture [666 x 398] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-33** 
-
-## Estimating Bad Debts—Comparison of the Two Methods 
-
-**It is important to recognize that the approach to recording bad debt expense using the percentage of credit sales method is different from that for the aging method.** 
-
-• **Percentage of credit sales.** Directly compute the amount to be recorded as **Bad Debt Expense** on the **income statement** for the period in the adjusting journal entry. 
-
-• **Aging of Accounts Receivable.** Compute the **estimated ending balance** we would like to have in the **Allowance for Doubtful Accounts** on the **balance sheet** after we make the necessary adjusting entry. The **difference** between the current balance in the account and the estimated balance is recorded as the adjusting entry for Bad Debt Expense for the period. 
-
-**==> picture [195 x 173] intentionally omitted <==**
-
-**==> picture [235 x 145] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-34** 
-
-## Actual Write-offs Compared with Estimates 
-
-If uncollectible accounts actually written off differ from the estimated amount previously recorded, **a higher or lower amount of bad debt expense is recorded in the next period** to make up for the previous period’s error in estimate. **When estimates are found to be incorrect, financial statement values for prior annual accounting periods are not corrected.** 
-
-**==> picture [621 x 292] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-35** 
-
-## Control over Accounts Receivable 
-
-Practices That Can Help Minimize Bad Debts 
-
-Require approval of customers’ credit history by a person independent of the sales and collections functions. Reward both sales and collections personnel for speedy collections so they work as a team. 
-
-**==> picture [151 x 145] intentionally omitted <==**
-
-Age accounts receivable periodically and contact customers with overdue payments. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-36** 
-
-**==> picture [444 x 43] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Learning Objective 6-3<br>**----- End of picture text -----**<br>
-
-
-**6-3** Analyze and interpret the receivables turnover ratio and the effects of accounts receivable on cash flows. 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-37** 
-
-**==> picture [726 x 567] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Receivables Turnover Ratio<br>The receivables turnover ratio measures the effectiveness of the company’s credit-<br>granting and collection activities.<br>The ratio calculates how many times average trade receivables are recorded and<br>collected for the year.<br>**----- End of picture text -----**<br>
-
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-38** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Accounts Receivable (1 of 2) 
-
-**==> picture [448 x 57] intentionally omitted <==**
-
-When there is a net **decrease in accounts receivable** for the period, cash collected from customers is more than revenue; thus, the decrease must be **added** in computing cash flows from operations. When a net **increase in accounts receivable** occurs, cash collected from customers is less than revenue; thus, the increase must be **subtracted** in computing cash flows from operations 
-
-**==> picture [617 x 206] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-39** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Accounts Receivable (2 of 2) 
-
-**==> picture [448 x 58] intentionally omitted <==**
-
-**==> picture [593 x 344] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-40** 
-
-## Learning Objective 6-4 
-
-**==> picture [336 x 19] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-6-4  Report, control, and safeguard cash.<br>**----- End of picture text -----**<br>
-
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-41** 
-
-## Cash and Cash Equivalents 
-
-**Cash** is defined as money or any instrument that banks will accept for deposit and immediate credit to a company’s account 
-
-**Cash Bank Drafts Money Orders Checks Certificates of Deposit issued by banks Treasury Bills issued by the U.S. government** 
-
-**Cash equivalents** are investments with original maturities of three months or less that are readily convertible to cash and whose value is unlikely to change _(i.e., they are not sensitive to interest rate changes)._ 
-
-**Most companies combine their bank accounts and cash equivalents into one amount, Cash and Cash Equivalents, on the balance sheet.** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-42** 
-
-## Cash Management 
-
-Effective cash management involves more than protecting cash from theft, fraud, or loss through carelessness. 
-
-Accurate accounting so that reports of cash flows and balances may be prepared. 
-
-Controls to ensure that enough cash is available to meet current operating needs, maturing liabilities, and unexpected emergencies. 
-
-Prevention of the accumulation of excess amounts of idle cash that does not earn revenue. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-43** 
-
-## Effective Internal Control of Cash 
-
-Separate jobs of receiving cash and disbursing cash. Separation Separate procedures of accounting for cash receipts of Duties and cash disbursements. Separate the physical handling of cash and all phases of the accounting function. Require that all cash receipts be deposited in a bank daily. Keep cash on hand under strict control. Require separate approval of the purchases and the actual cash payments. Prescribed Policies and Procedures Assign responsibilities for payment approval and check-signing or electronic transfers to different individuals. Require monthly reconciliation of bank accounts with the cash accounts on the company’s books. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-44** 
-
-## Ethics and the Need for Internal Control 
-
-**==> picture [489 x 58] intentionally omitted <==**
-
-**==> picture [625 x 412] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-All well-run<br>companies should<br>Convicted felons say<br>have strong internal<br>they stole from<br>control procedures<br>their employers<br>because it was easy,<br>and no one cared.<br>Although the vast<br>majority of employees<br>Many companies<br>are trustworthy,<br>have a formal<br>employee theft costs<br>code of ethics<br>businesses billions of<br>requiring high<br>dollars each year.<br>standards of<br>behavior.<br>**----- End of picture text -----**<br>
-
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-45** 
-
-**==> picture [753 x 568] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Exhibit 6.4<br>Example of a Bank Statement<br>Electronic<br>Funds Transfer<br>(EFT)<br>Interest<br>Earned (INT)<br>Not Sufficient<br>Funds (NSF)<br>Service<br>Charge (SC)<br>**----- End of picture text -----**<br>
-
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-46** 
-
-## Need for Reconciliation 
-
-A **bank reconciliation** is the process of comparing (reconciling) the ending cash balance in the company’s records (the books) and the ending cash balance reported by the bank on the monthly bank statement (or on the online banking site). A bank reconciliation should be completed at the **end of each month** . Usually, the ending cash balance on the bank statement does not agree with the ending cash balance in the Cash ledger account on the books of the company. This is because some transactions affecting cash were recorded in the books but were not shown on the bank statement **or** some transactions were shown on the bank statement but had not been recorded in the books. 
-
-The most common causes of differences include: 
-
-Bank Service Errors by the Outstanding Bank or the Charges Checks Company NSF Checks Deposits in Transit Interest Earned 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-47** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bank Reconciliation Illustrated (1 of 3) 
-
-**==> picture [625 x 33] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-General Format of a Bank Reconciliation<br>**----- End of picture text -----**<br>
-
-
-**==> picture [665 x 119] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-48** 
-
-Exhibit 6.5 Bank Reconciliation Illustrated (2 of 3) 
-
-**==> picture [731 x 330] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-49** 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-## Bank Reconciliation Illustrated (3 of 3) 
-
-**Any transactions or changes on the company’s books side of the bank reconciliation need journal entries.** Here are the journal entries necessary for Row.com: 
-
-**==> picture [605 x 334] intentionally omitted <==**
-
-**==> picture [669 x 73] intentionally omitted <==**
-
-- _© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-50** 
-
-## Chapter Supplement: Recording Discounts and Returns (1 of 2) 
-
-## **Cash discounts** must be recorded as contra-revenues that reduce reported net sales. 
-
-For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 ($1,000 × 0.98 = $980) and payment is made within the discount period, record the following: 
-
-**==> picture [596 x 85] intentionally omitted <==**
-
-**==> picture [627 x 59] intentionally omitted <==**
-
-**==> picture [597 x 110] intentionally omitted <==**
-
-**==> picture [631 x 72] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-51** 
-
-## Chapter Supplement: Recording Discounts and Returns (2 of 2) 
-
-**Sales returns and allowances** should always be treated as a **contra-revenue** that reduces net sales. 
-
-Assume that Dick’s Sporting Goods buys 40 pairs of shoes from Skechers for $2,000 on account. On the date of sale, Skechers makes the following journal entry: 
-
-**==> picture [597 x 87] intentionally omitted <==**
-
-**==> picture [630 x 65] intentionally omitted <==**
-
-Before paying for the shoes, however, Dick's Sporting Goods discovers that 10 pairs of shoes are not the color ordered and returns them to Skechers. On that date Skechers records: 
-
-**==> picture [599 x 86] intentionally omitted <==**
-
-**==> picture [643 x 64] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-**6-52** 
-
+## Related Notes
+- [[Accounting 1 Blab Handout 2024-2025 A.Y.]]
+- [[BLAB ACC SHEET CHAPTER 4]]
+- [[Full-material presentation Chapter 4]]

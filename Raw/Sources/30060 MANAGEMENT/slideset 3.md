@@ -1,546 +1,296 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "SHAREHOLDER OBJECTIVES AND RIGHTS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**SHAREHOLDER RIGHTS AND CORPORATE GOVERNANCE 30060 - MANAGEMENT** 
+**SHAREHOLDER RIGHTS AND CORPORATE GOVERNANCE 30060 - MANAGEMENT**
 
-Management Book - Chapter 3 
+Management Book - Chapter 3
 
-Department of Management & Technology 
+Department of Management & Technology
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-SHAREHOLDER RIGHTS AND CORPORATE GOVERNANCE 
+1. SHAREHOLDERS OBJECTIVES AND RIGHTS
 
-2 
+2. CORPORATE GOVERNANCE AND BOARD OF DIRECTORS
 
-## AGENDA 
+3. THE AGENCY PROBLEM
 
-1. SHAREHOLDERS OBJECTIVES AND RIGHTS 
+4. PROTECTION OF SHAREHOLDER INTERESTS
 
-2. CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+5. SUMMARY OF MAIN POINTS
 
-3. THE AGENCY PROBLEM 
+1.0
 
-4. PROTECTION OF SHAREHOLDER INTERESTS 
+# SHAREHOLDER OBJECTIVES AND RIGHTS
 
-5. SUMMARY OF MAIN POINTS 
+## We define **SHAREHOLDERS** as
 
-**==> picture [105 x 53] intentionally omitted <==**
+Investors or stockholders who own a corporation through purchase of company stock. They are a company’s most important market stakeholders
 
-1.0 
+## Poll time!
 
-# **SHAREHOLDER OBJECTIVES AND RIGHTS** 
+To what extent should shareholders have a say in company activities?
 
-**==> picture [105 x 53] intentionally omitted <==**
+A) Fully involved B) Say only on major decisions C) No interference
 
-4 
+## Types of shareholders
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+Individual
 
-## We define **SHAREHOLDERS** as 
+Institutional
 
-Investors or stockholders who own a corporation through purchase of company stock. They are a company’s most important market stakeholders 
+— People who directly own stock shares issued by companies
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Also known as “Main Street” investors
 
-5 
+— Pensions, mutual funds, insurance companies and university endowments who own stock
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- Also known as “Wall Street” investors
 
-## Poll time! 
+Ownership trends
 
-**==> picture [460 x 307] intentionally omitted <==**
+Institutional ownership on the rise Institutions account for 60% of all stocks/equities owned in the US
 
-To what extent should shareholders have a say in company activities? 
+## Types of ownership
 
-A) Fully involved B) Say only on major decisions C) No interference 
+- Offers shares to the general public
 
-**==> picture [134 x 134] intentionally omitted <==**
+- Limited liability
 
-**==> picture [104 x 53] intentionally omitted <==**
+- All listed companies are public
 
-6 
+- Demanding document filing requirements
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- Does not offer shares to the general public
 
-## Types of shareholders 
+- The number of members is often limited
 
-Individual 
+- Document filing requirements are not as demanding
 
-Institutional 
+Would you be interested in owning Apple’s shares? Why?
 
-— People who directly own stock shares issued by companies 
+Do you know the number of outstanding shares that Apple has?
 
-- Also known as “Main Street” investors 
+Apple’s stock price
 
-— Pensions, mutual funds, insurance companies and university endowments who own stock 
+## Objectives of stock ownership
 
-- Also known as “Wall Street” investors 
+Making money through rise and fall of stock
 
-**==> picture [119 x 61] intentionally omitted <==**
+prices
 
-7 
+When stock prices rise (called capital appreciation) stockholders receive share of company’s earnings (called dividends)
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+Stock prices are affected by both the company performance and overall movement of the stock market
 
-Ownership trends 
+Varied shareholder interests – some seek long-term appreciation while others seek short-term returns
 
-Institutional ownership on the rise Institutions account for 60% of all stocks/equities owned in the US 
+## Shareholders' legal rights
 
-**==> picture [104 x 53] intentionally omitted <==**
+- To receive dividends, if declared
 
-**==> picture [460 x 296] intentionally omitted <==**
+- To vote on:
 
-8 
+Members of board of directors Major mergers and acquisitions Charter and bylaw changes Proposals by stockholders
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- To receive annual reports on the company's financial condition
 
-## Types of ownership 
+— To bring shareholder suits against the company and officers
 
-PUBLIC LIMITED COMPANY 
+- To sell their own shares of stock to others
 
-- Offers shares to the general public 
+2.0
 
-- Limited liability 
+**CORPORATE GOVERNANCE AND BOARD OF DIRECTORS**
 
-- All listed companies are public 
+Who protects shareholder rights?
 
-- Demanding document filing requirements 
+## We define **CORPORATE GOVERNANCE** as
 
-**==> picture [83 x 83] intentionally omitted <==**
+Process by which a company is controlled or governed through systems of internal governance that determine overall strategic direction and balance sometimes divergent interests
 
-**==> picture [124 x 75] intentionally omitted <==**
+Shareholders
 
-**==> picture [77 x 70] intentionally omitted <==**
+Decide about the constitution or termination of the firm, approval or rejection of financial statements, removal and compensation of board of directors, mergers, acquisition, ..
 
-PRIVATE LIMITED COMPANY 
+elect
 
-- Does not offer shares to the general public 
+Board of Representative of shareholders Directors The board of directors control managers
 
-- The number of members is often limited 
+choos e Manage every day activities and Top operations Management
 
-- Document filing requirements are not as demanding 
+President and chairman of the Board
 
-**==> picture [115 x 58] intentionally omitted <==**
+## Role of board of directors
 
-**==> picture [98 x 33] intentionally omitted <==**
+- Board of directors (BoD) is central to governance
 
-**==> picture [105 x 53] intentionally omitted <==**
+- BoD comprises of elected group of individuals with following duties:
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- Establish corporate objectives
 
-9 
+- Develop strategy and broad policies
 
-Would you be interested in owning Apple’s shares? Why? 
+- Select top-level personnel to carry out these objectives
 
-Do you know the number of outstanding shares that Apple has? 
+- Review management’s performance
 
-**==> picture [65 x 69] intentionally omitted <==**
+- Protect stakeholder interests
 
-**==> picture [104 x 53] intentionally omitted <==**
+- Investor relations, etc.
 
-10 
+## Guidelines: board composition and structure
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- Corporate boards vary in size, composition and structure
 
-Apple’s stock price 
+- Typically between 9 and 11 members
 
-**==> picture [649 x 273] intentionally omitted <==**
+- Majority outside (not company managers) directors
 
-11 
+- May include CEOs of other companies, major shareholders, bankers, former government officials, academics, etc.
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+- Average tenure is 8-10 years
 
-## Objectives of stock ownership 
+- Share of outside directors or female representation on boards mandated by varied quotas and regulations
 
-Making money through rise and fall of stock 
+## One-tier and two-tier system
 
-prices 
+One-tier system
 
-When stock prices rise (called capital appreciation) stockholders receive share of company’s earnings (called dividends) 
+Two-tier system
 
-Stock prices are affected by both the company performance and overall movement of the stock market 
+- Common in the US
 
-Varied shareholder interests – some seek long-term appreciation while others seek short-term returns 
+- Common in many EU countries
 
-**==> picture [105 x 53] intentionally omitted <==**
+- One board only: executive board
 
-12 
+- The executive directors and the supervisors (or the non-executive directors) are combined in one management body
 
-SHAREHOLDERS OBJECTIVES AND RIGHTS 
+— Example:
 
-## Shareholders' legal rights 
+- Two boards: executive board(made up of CEO and other insiders) and supervisory board (made up of outsiders + independent chairperson, often of labor representatives)
 
-- To receive dividends, if declared 
+- The directors and the supervisory board are two separate bodies
 
-- To vote on: 
+- Example:
 
-Members of board of directors Major mergers and acquisitions Charter and bylaw changes Proposals by stockholders 
+https://www.volkswagenag.com/en/group/executivebodies.html
 
-**==> picture [161 x 161] intentionally omitted <==**
+## Board functions
 
-- To receive annual reports on the company's financial condition 
+- Through board committees and general sessions
 
-— To bring shareholder suits against the company and officers 
+- Important committees include:
 
-- To sell their own shares of stock to others 
+Compensation comm. – approves salaries and other benefits of top managers
 
-**==> picture [105 x 53] intentionally omitted <==**
+Nominating comm. – recommends candidates for officers and directors
 
-2.0 
+Audit comm. – reviews financial reports, appoints auditors Specialized comm. (i.e. for CSR also founds in some boards)
 
-**CORPORATE GOVERNANCE AND BOARD OF DIRECTORS** 
+Effective boards are central to well-functioning companies
 
-**==> picture [105 x 53] intentionally omitted <==**
+http://news.bbc.co.uk/2/hi/business/1973489.stm
 
-14 
+## Key features of effective boards
 
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+- Select outside directors to fill most positions
 
-**==> picture [228 x 237] intentionally omitted <==**
+- Hold open elections for members of the board
 
-Who protects shareholder rights? 
+- Hold elections for all directors annually
 
-**==> picture [65 x 69] intentionally omitted <==**
+- Appoint an independent lead director (i.e. splitting roles between
 
-**==> picture [104 x 53] intentionally omitted <==**
+- CEO and board chairperson)
 
-15 
+- Diversify board membership (i.e. skills, gender, experience, age, ..)
 
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+How would you judge the Board of Directors of Facebook? Any suggestions on how to improve it, if necessary? - - https://investor.fb.com/leadership and governance/default.aspx
 
-## We define **CORPORATE GOVERNANCE** as 
+SUPER VOTING CHAIR CEO CONTROL New nominated Director Consolidated control after exit of 10-1 unequal Class B share comes from Mark Zuckerberg’s Chief Product Officer WhatsApp & voting rights give Zuckerberg Chan Zuckerberg Initiative Instagram founders & executives 57.7% of votes
+*(See also: [[Libby_12e_Chap011_PPT w-corrige print#^tv6a9r]])*
 
-Process by which a company is controlled or governed through systems of internal governance that determine overall strategic direction and balance sometimes divergent interests 
+3.0
 
-**==> picture [105 x 53] intentionally omitted <==**
+**THE AGENCY PROBLEM**
 
-16 
+## Agency problem
 
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+- Modern corporations have separated ownership and control
 
-Shareholders 
+- Owners/shareholders do not manage day-to-day company operations which is left to managers/hired professionals
 
-Decide about the constitution or termination of the firm, approval or rejection of financial statements, removal and compensation of board of directors, mergers, acquisition, .. 
+Will managers (agents) act in the interests of shareholders (owner principals) instead of their own?
 
-**==> picture [72 x 48] intentionally omitted <==**
+## Agency relationship
 
-**==> picture [99 x 42] intentionally omitted <==**
+- An agency relationship is a contract according to which the principal delegates an agent to fulfil a task which implies a power, for the agent itself, to take decisions in name of the principal
 
-**==> picture [65 x 65] intentionally omitted <==**
+- Primary function of boards is to keep a watch on managers
 
-**==> picture [110 x 58] intentionally omitted <==**
+CONFLICT OF INTERESTS If both principal and agent are utility maximizers, the agent will probably act in his/her interest rather than in the interest of the principal
 
-elect 
+The principal will be compelled to arrange safeguard mechanisms (contracts, controls, incentives, guarantees,…) which are often extremely costly
 
-Board of Representative of shareholders Directors The board of directors control managers 
+Aligning ownermanager incentives through  executive compensation
 
-choos e Manage every day activities and Top operations Management 
+- Pay-for-performance through granting of stock options
 
-**==> picture [77 x 78] intentionally omitted <==**
+- A possible danger is that executives’ fixation to performance pay may involve unethical practices
 
-President and chairman of the Board 
+## CEO compensation design
 
-**==> picture [141 x 72] intentionally omitted <==**
+## How to incentivize directors? The Facebook way
 
-**==> picture [25 x 10] intentionally omitted <==**
+4.0
 
-**----- Start of picture text -----**<br>
-CEO<br>**----- End of picture text -----**<br>
+# PROTECTION OF SHAREHOLDER INTERESTS
 
+## Protection of shareholder interests
 
-18 
+- Financial disclosure and insider trading regulated by government agencies such as Securities and Exchange Commission (SEC) in the US
 
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+- Financial disclosure in company annual reports is mandatory
 
-## Role of board of directors 
+- Insider trading occurring when access to confidential company information is used to buy/sell stock is illegal
 
-- Board of directors (BoD) is central to governance 
+- Shareholder activism (i.e. aggressive voting and campaigning; owning and selling stock in companies with better environmental, social and governance records)
 
-- BoD comprises of elected group of individuals with following duties: 
+An example of investor pressure
 
-   - Establish corporate objectives 
+5.0
 
-   - Develop strategy and broad policies 
+**SUMMARY OF MAIN POINTS**
 
-   - Select top-level personnel to carry out these objectives 
+## In summary
 
-   - Review management’s performance 
+- Individuals and institutions own company shares to make money and further their social objectives
 
-   - Protect stakeholder interests 
+- Board of directors are primarily responsible for managing the company
 
-   - Investor relations, etc. 
+- Executive compensation serves as a necessary incentive for top executives to manage the corporation
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Shareholders can influence corporate actions in several ways when the feel that their interests/objectives are sidelined
 
-19 
+- Several governmental mechanisms exist that protect shareholder interests
 
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
+## THANKS.
 
-## Guidelines: board composition and structure 
+**Universit→ Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1
 
-- Corporate boards vary in size, composition and structure 
-
-- Typically between 9 and 11 members 
-
-- Majority outside (not company managers) directors 
-
-- May include CEOs of other companies, major shareholders, bankers, former government officials, academics, etc. 
-
-- Average tenure is 8-10 years 
-
-- Share of outside directors or female representation on boards mandated by varied quotas and regulations 
-
-20 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-## One-tier and two-tier system 
-
-One-tier system 
-
-Two-tier system 
-
-- Common in the US 
-
-   - Common in many EU countries 
-
-- One board only: executive board 
-
-- The executive directors and the supervisors (or the non-executive directors) are combined in one management body 
-
-**==> picture [49 x 37] intentionally omitted <==**
-
-— Example: 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-- Two boards: executive board(made up of CEO and other insiders) and supervisory board (made up of outsiders + independent chairperson, often of labor representatives) 
-
-- The directors and the supervisory board are two separate bodies 
-
-**==> picture [45 x 45] intentionally omitted <==**
-
-- Example: 
-
-https://www.volkswagenag.com/en/group/executivebodies.html 
-
-21 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-## Board functions 
-
-- Through board committees and general sessions 
-
-- Important committees include: 
-
-Compensation comm. – approves salaries and other benefits of top managers 
-
-Nominating comm. – recommends candidates for officers and directors 
-
-Audit comm. – reviews financial reports, appoints auditors Specialized comm. (i.e. for CSR also founds in some boards) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-22 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-Effective boards are central to well-functioning companies 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [323 x 338] intentionally omitted <==**
-
-http://news.bbc.co.uk/2/hi/business/1973489.stm 
-
-23 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-## Key features of effective boards 
-
-- Select outside directors to fill most positions 
-
-- Hold open elections for members of the board 
-
-- Hold elections for all directors annually 
-
-- Appoint an independent lead director (i.e. splitting roles between 
-
-   - CEO and board chairperson) 
-
-- Diversify board membership (i.e. skills, gender, experience, age, ..) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-24 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-How would you judge the Board of Directors of Facebook? Any suggestions on how to improve it, if necessary? - - https://investor.fb.com/leadership and governance/default.aspx 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [209 x 209] intentionally omitted <==**
-
-25 
-
-CORPORATE GOVERNANCE AND BOARD OF DIRECTORS 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-SUPER VOTING CHAIR CEO CONTROL New nominated Director Consolidated control after exit of 10-1 unequal Class B share comes from Mark Zuckerberg’s Chief Product Officer WhatsApp & voting rights give Zuckerberg Chan Zuckerberg Initiative Instagram founders & executives 57.7% of votes 
-
-3.0 
-
-**THE AGENCY PROBLEM** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-28 
-
-THE AGENCY PROBLEM 
-
-## Agency problem 
-
-- Modern corporations have separated ownership and control 
-
-- Owners/shareholders do not manage day-to-day company operations which is left to managers/hired professionals 
-
-**==> picture [166 x 116] intentionally omitted <==**
-
-**==> picture [197 x 110] intentionally omitted <==**
-
-**==> picture [119 x 61] intentionally omitted <==**
-
-THE AGENCY PROBLEM 
-
-29 
-
-Will managers (agents) act in the interests of shareholders (owner principals) instead of their own? 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [65 x 69] intentionally omitted <==**
-
-30 
-
-THE AGENCY PROBLEM 
-
-## Agency relationship 
-
-- An agency relationship is a contract according to which the principal delegates an agent to fulfil a task which implies a power, for the agent itself, to take decisions in name of the principal 
-
-- Primary function of boards is to keep a watch on managers 
-
-CONFLICT OF INTERESTS If both principal and agent are utility maximizers, the agent will probably act in his/her interest rather than in the interest of the principal 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-SAFEGUARD MECHANISMS 
-
-The principal will be compelled to arrange safeguard mechanisms (contracts, controls, incentives, guarantees,…) which are often extremely costly 
-
-31 
-
-THE AGENCY PROBLEM 
-
-Aligning ownermanager incentives through  executive compensation 
-
-- Pay-for-performance through granting of stock options 
-
-- A possible danger is that executives’ fixation to performance pay may involve unethical practices 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [431 x 287] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Executives<br>are<br>compensated<br>Stock price  Executives<br>increases  work hard<br>Company’s<br>results<br>improve<br>**----- End of picture text -----**<br>
-
-
-32 
-
-THE AGENCY PROBLEM 
-
-## CEO compensation design 
-
-**==> picture [198 x 283] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [277 x 283] intentionally omitted <==**
-
-33 
-
-THE AGENCY PROBLEM 
-
-## How to incentivize directors? The Facebook way 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [401 x 247] intentionally omitted <==**
-
-4.0 
-
-# **PROTECTION OF SHAREHOLDER INTERESTS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-35 
-
-PROTECTION OF SHAREHOLDER INTERESTS 
-
-## Protection of shareholder interests 
-
-- Financial disclosure and insider trading regulated by government agencies such as Securities and Exchange Commission (SEC) in the US 
-
-   - Financial disclosure in company annual reports is mandatory 
-
-   - Insider trading occurring when access to confidential company information is used to buy/sell stock is illegal 
-
-- Shareholder activism (i.e. aggressive voting and campaigning; owning and selling stock in companies with better environmental, social and governance records) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-36 
-
-PROTECTION OF SHAREHOLDER INTERESTS 
-
-An example of investor pressure 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [305 x 326] intentionally omitted <==**
-
-5.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-38 
-
-SUMMARY OF MAIN POINTS 
-
-## In summary 
-
-- Individuals and institutions own company shares to make money and further their social objectives 
-
-- Board of directors are primarily responsible for managing the company 
-
-- Executive compensation serves as a necessary incentive for top executives to manage the corporation 
-
-- Shareholders can influence corporate actions in several ways when the feel that their interests/objectives are sidelined 
-
-- Several governmental mechanisms exist that protect shareholder interests 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-## **THANKS.** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**Università Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1 
-
+## Related Notes
+- [[Libby_12e_Chap011_PPT w-corrige print]]
+- [[Full-material presentation Chapter 1]]
+- [[BLAB ACC SHEET CHAPTER 1]]

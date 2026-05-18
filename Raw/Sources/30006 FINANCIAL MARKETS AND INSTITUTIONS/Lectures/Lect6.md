@@ -1,482 +1,414 @@
-# Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Bond Market (Chapter 12)** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Bond Market (Chapter 12)**"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [348 x 195] intentionally omitted <==**
+# Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Bond Market (Chapter 12)**
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Chapter Preview
 
+# ✓ Last time we studied Money markets
 
-**==> picture [348 x 195] intentionally omitted <==**
+# ✓ We now focus on long-term bonds with >1Y maturity
 
-**----- Start of picture text -----**<br>
-2-1<br>**----- End of picture text -----**<br>
+- ✓ **Capital market** = Bond market + Stock market
 
+# ✓ Firms raise **capital** directly in these markets for _long-term_ financing and capital projects ( _investment_ )
 
-## **Chapter Preview** 
+## Capital Market Participants
 
-# ✓ Last time we studied Money markets 
+- ✓ Primary **issuers** of securities in capital markets
 
-# ✓ We now focus on long-term bonds with >1Y maturity 
+- _governments_ (Treasury, Agencies, Municipalities): debt only
 
-- ✓ **Capital market** = Bond market + Stock market 
+- `o` _corporations_: equity and debt
 
-# ✓ Firms raise **capital** directly in these markets for _long-term_ financing and capital projects ( _investment_ ) 
+- ✓ Largest **buyers** of securities
 
-## **Capital Market Participants** 
+`o` _households_ often through financial intermediaries (banks, mutual funds, pension funds, etc …)
 
-- ✓ Primary **issuers** of securities in capital markets 
+- ✓ The choice between debt and equity in corporations is called capital structure
 
-   - _governments_ (Treasury, Agencies, Municipalities): debt only 
+`o` many strategic reasons other than raising capital to get listed on stock market
 
-   - `o` _corporations_ : equity and debt 
+- but issuing bonds certainly to satisfy financing needs
 
-- ✓ Largest **buyers** of securities 
+## Bond market
 
-`o` _households_ often through financial intermediaries (banks, mutual funds, pension funds, etc …) 
+In comparison with **Money Market:**
 
-- ✓ The choice between debt and equity in corporations is called capital structure 
+- ✓ bond market instruments _maturity_:
 
-`o` many strategic reasons other than raising capital to get listed on stock market 
+- ≥ 1 year from original issue date
 
-- but issuing bonds certainly to satisfy financing needs 
+- medium-term ( ≥ 1 year and <10 years) - long-term ( ≥ 10 years) debt instruments `o` bond market is then a capital market
 
-## **Bond market** 
+✓ but trade of longer term debt instruments …
 
-In comparison with **Money Market:** 
+- … implies higher default risk (and interest rate risk)
 
-- ✓ bond market instruments _maturity_ : 
+✓ bonds play a more prominent role in investment decisions `o` OE’s trade mainly in (Organized Exchanges) `o` differently money mkts instruments mainly traded in OTCs
 
-   - ≥ 1 year from original issue date 
+## Bonds
 
-▪ medium-term ( ≥ 1 year and <10 years) ▪ long-term ( ≥ 10 years) debt instruments `o` bond market is then a capital market 
+## Today we will be looking at:
 
-✓ but trade of longer term debt instruments … 
+# 1. **Government bonds** , especially US Treasuries
 
-- … implies higher default risk (and interest rate risk) 
+2. **Municipal bonds** , issued by US states/cities 3. **Agency bonds** , issued by quasi-public entities
 
-✓ bonds play a more prominent role in investment decisions `o` OE’s trade mainly in (Organized Exchanges) `o` differently money mkts instruments mainly traded in OTCs 
+4. **Corporate bonds** , issued by corporates 5. **Bond Pricing**: semi-annual Coupon
 
-## **Bonds** 
+## Government debt (as % of GDP): in the world (but no Russia, nor China)
 
-## Today we will be looking at: 
+Source: IMF, Global Debt database
 
-# 1. **Government bonds** , especially US Treasuries 
+Government bonds are important but their **risk** and **price** may change across countries
 
-2. **Municipal bonds** , issued by US states/cities 3. **Agency bonds** , issued by quasi-public entities 
+## Government debt (as % of GDP): main economies
 
-4. **Corporate bonds** , issued by corporates 5. **Bond Pricing** : semi-annual Coupon 
+Source: IMF, Global Debt database
 
-## **Government debt (as % of GDP): in the world (but no Russia, nor China)** 
+Government bonds matter because _all governments need external financing_ !
 
-**==> picture [720 x 358] intentionally omitted <==**
+## US Federal Debt
 
-Source: IMF, Global Debt database 
+Growth of US pulic debt, both in value and as a % of GDP
 
-Government bonds are important but their **risk** and **price** may change across countries 
+## Treasury Bills, Notes and Bonds: maturity
 
-## **Government debt (as % of GDP): main economies** 
+## US Treasury debt
 
-**==> picture [720 x 348] intentionally omitted <==**
+## **Money** market **Bonds** market
 
-Source: IMF, Global Debt database 
+Treasury bill ( ≤ 1 year)
 
-Government bonds matter because _all governments need external financing_ ! 
+Treasury note (1 to 10 years) Treasury bonds (>10 years)
 
-## **US Federal Debt** 
+✓ Typical maturities: `o` Treasury notes: 2, 3, 5, 7, 10 years `o` Treasury bonds: 20, 30 years Copyright ©2015 Pearson Edu ~~cation, Ltd. A~~ ll rights reserved.
 
-**==> picture [720 x 371] intentionally omitted <==**
+## Treasury Bond Market by Type of Bonds
 
-Growth of US pulic debt, both in value and as a % of GDP 
+**TIPS& T-bills Other (15%) (8%) T-bonds (11%)**
 
-## **Treasury Bills, Notes and Bonds: maturity** 
+**T-notes (66%)**
 
-## US Treasury debt 
+Source: SIFMA (Securities Industry and Financial Markets Association)
 
-**==> picture [164 x 56] intentionally omitted <==**
+TIPS ( _**T** reasury_ _**I** nflation_ _**P** rotected_ _**S** ecurities_ ) `o` type of Treasury bond where principal and 2-10 interest are indexed to inflationary measure
 
-**==> picture [163 x 51] intentionally omitted <==**
+## Government debt, bond risk and interest rates
 
-## **Money** market **Bonds** market 
+✓ Risk on gov bonds is assessed by credit-rating agencies (CRAs). Largest are _Moody’s, S&P, Fitch, DBRS_
 
-Treasury bill ( ≤ 1 year) 
+`o` _risk-free_ asset ⟹ no US government bonds are considered a practically default risk
 
-Treasury note (1 to 10 years) Treasury bonds (>10 years) 
+- but recently downgraded
 
-**==> picture [713 x 151] intentionally omitted <==**
+- the T-bills are even “more _”_ risk-free (wrt and T-notes and T-bonds) because of shorter maturity
 
-✓ Typical maturities: `o` Treasury notes: 2, 3, 5, 7, 10 years `o` Treasury bonds: 20, 30 years Copyright ©2015 Pearson Edu ~~cation, Ltd. A~~ ll rights reserved. 
+✓ Interest rate correlated with rating `o` interest rates on T-notes and T-bonds are generally low `o` but for some countries yield may be high (Italy and Greece!)
 
-## **Treasury Bond Market by Type of Bonds** 
+- ✓ Not only default risk… of course there is still inflation risk (and do not forget IRR!)
 
-**TIPS& T-bills Other (15%) (8%) T-bonds (11%)** 
+- ✓ Optional: who owns US public debt?
 
-**T-notes (66%)** 
+## US Municipal Bonds
 
-Source: SIFMA (Securities Industry and Financial Markets Association) 
+- ✓ **Municipal bonds** `o` issued by local authority: county or state governments
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## ✓ Two types:
 
-TIPS ( _**T** reasury_ _**I** nflation_ _**P** rotected_ _**S** ecurities_ ) `o` type of Treasury bond where principal and 2-10 interest are indexed to inflationary measure 
+## 1. Revenue Bonds
 
-## **Government debt, bond risk and interest rates** 
+- backed by the cash flow of a particular project (bridge, toll road)
 
-✓ Risk on gov bonds is assessed by credit-rating agencies (CRAs). Largest are _Moody’s, S&P, Fitch, DBRS_ 
+**2. General Obligation Bonds** - do not have a specific project
 
-`o` _risk-free_ asset ⟹ no US government bonds are considered a practically default risk 
+- backed by “full faith and credit” of the local government
 
-- but recently downgraded 
+## ✓ **Muni bonds are** _**NOT** default free_
 
-- the T-bills are even “more _”_ risk-free (wrt and T-notes and T-bonds) because of shorter maturity 
+- some examples: - Orange County, Cal: 1994 losses $1.4bn
 
-**==> picture [50 x 33] intentionally omitted <==**
+- - WHOOPS, DC: 1983, $2.25bn
 
-✓ Interest rate correlated with rating `o` interest rates on T-notes and T-bonds are generally low `o` but for some countries yield may be high (Italy and Greece!) 
+- Jefferson Cnty, AL: 2011 sewer revenue bonds 3.7bn
 
-**==> picture [48 x 32] intentionally omitted <==**
+- - Detroit, MI: 2013 $18.5bn, biggest ever
 
-**==> picture [50 x 32] intentionally omitted <==**
+## Municipal vs Treasury comparison, 1955-2008
 
-- ✓ Not only default risk… of course there is still inflation risk (and do not forget IRR!) 
+**If** _**not**_ **default-free, why muni below US government bonds?** Treasury Municipal
 
-- ✓ Optional: who owns US public debt? 
+## Municipal Bonds: Tax exemption
 
-**==> picture [50 x 33] intentionally omitted <==**
+Because they are **tax-free** !
 
-## **US Municipal Bonds** 
+**Q**: Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose?
 
-- ✓ **Municipal bonds** `o` issued by local authority: county or state governments 
+## Municipal Bonds: Tax exemption
 
-## ✓ Two types: 
+Because they are **tax-free** !
 
-## **1. Revenue Bonds** 
+**Q**: Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose? **A**: It depends on the Marginal Tax Rate (MTR)!
 
-   - backed by the cash flow of a particular project (bridge, toll road) 
+## Municipal Bonds: Tax exemption
 
-**2. General Obligation Bonds** ▪ do not have a specific project 
+Because they are **tax-free** !
 
-▪ backed by “full faith and credit” of the local government 
+**Q**: Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose? **A**: It depends on the Marginal Tax Rate (MTR)!
 
-## ✓ **Muni bonds are** _**NOT** default free_ 
+To correctly compare another bond with a muni bond interest rate, must find the Marginal Tax Rate that makes you indifferent between the two:
 
-- some examples: ▪ Orange County, Cal: 1994 losses $1.4bn 
+− - _Muni rate = Other_bond rate (1 Marginal Tax Rate)_
 
-- ▪ WHOOPS, DC: 1983, $2.25bn 
+𝑖 = 𝑖 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ
 
-   - Jefferson Cnty, AL: 2011 sewer revenue bonds 3.7bn 
+## Municipal Bonds: Tax exemption
 
-   - ▪ Detroit, MI: 2013 $18.5bn, biggest ever 
+Plug in data from previous example to find the MTR: 𝑖 = 𝑖 1 −𝑀𝑇𝑅 ⇒0.0675 = 0.09 ∙ 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ
 
-## **Municipal vs Treasury comparison, 1955-2008** 
+Solution: **MTR* = 25%**
 
-**If** _**not**_ **default-free, why muni below US government bonds?** Treasury Municipal 
+`o` If Marginal Tax Rate above/below 25%, the municipal bond offers a higher/lower after-tax cash flow …
 
-## **Municipal Bonds: Tax exemption** 
+✓ Case 1. Tax rate at **20%** 𝑀𝑇𝑅< 𝑀𝑇𝑅(∗): = = `o` 𝑖 1 − 0.2 × 0.09 0.0720 Corporate bond: 𝐶𝐵 (7.2%) = `o` 𝑖 1 −0.0 Municipal bond: 𝑀𝑢𝑛 × 0.0675 = 0.0675 (6.75%)
 
-Because they are **tax-free** ! 
+✓ Case 2. Tax rate at **30%** 𝑀𝑇𝑅> 𝑀𝑇𝑅(∗): = `o` 𝑖 1 − 0.3 × 0.09 = 0.0630 Corporate bond: 𝐶𝐵 (6.3%) = `o` 𝑖 1 −0.0 × 0.0675 = Municipal bond: 𝑀𝑢𝑛 0.0675 (6.75%)
 
-**Q** : Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose? 
+# Not so much anymore after 2008: 2008-2016 … why?
 
-## **Municipal Bonds: Tax exemption** 
+## Agency Debt
 
-Because they are **tax-free** ! 
+## Agency bonds
 
-**Q** : Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose? **A** : It depends on the Marginal Tax Rate (MTR)! 
+- ✓ they are issued by US Government-Sponsored Enterprises (GSE)
 
-## **Municipal Bonds: Tax exemption** 
+- ✓ GSEs are private companies (listed on NYSE) that can issue “ _government securities_ ” – _agency bonds_
 
-Because they are **tax-free** ! 
+- ✓ with the proceeds of bonds, GSEs
 
-**Q** : Suppose the rate on a _corporate_ bond is 9% and that on _municipal_ bond is 6.75%. Which one should you choose? **A** : It depends on the Marginal Tax Rate (MTR)! 
+`o` buy _mortgages_ from banks and sell them as mortgage-backed securities `o` extend specific loans (e.g.: _student_ loans)
 
-To correctly compare another bond with a muni bond interest rate, must find the Marginal Tax Rate that makes you indifferent between the two: 
+`o` sell _insurance_
 
-−  _Muni rate = Other_bond rate (1 Marginal Tax Rate)_ 
+- ✓ The GSE acted with an **implicit guarantee** that the U.S. government would not let them default …
 
-𝑖 = 𝑖 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ 
+- …. but also increase _**moral hazard**_ !
 
-𝑖 𝒊 𝑀𝑢𝑛 𝑴𝒖𝒏 = 1 −𝑀𝑇𝑅⇒𝑴𝑻𝑹= 𝟏− 𝑖 𝒊 𝑂𝑡ℎ 𝑶𝒕𝒉 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Corporate Bonds
 
-## **Municipal Bonds: Tax exemption** 
+- ✓ Bonds issued by (largest) corporations
 
-Plug in data from previous example to find the MTR: 𝑖 = 𝑖 1 −𝑀𝑇𝑅 ⇒0.0675 = 0.09 ∙ 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ 
+`o` remember: only a handful (about 1,000) of companies have access to bond market in the US!
 
-Solution: **MTR* = 25%** 
+`o` Mini some countries adopt easier access criteria for SME’s (optional: bonds in Italy, but also Japan, etc….)
 
-`o` If Marginal Tax Rate above/below 25%, the municipal bond offers a higher/lower after-tax cash flow … 
+- ✓ _Default risk_ is significantly higher than for Treasury bonds, but a lot of heterogeneity between firms
 
-✓ Case 1. Tax rate at **20%** 𝑀𝑇𝑅< 𝑀𝑇𝑅[∗] : = = `o` 𝑖 1 − 0.2 × 0.09 0.0720 Corporate bond: 𝐶𝐵 (7.2%) = `o` 𝑖 1 −0.0 Municipal bond: 𝑀𝑢𝑛 × 0.0675 = 0.0675 (6.75%) 
+- ✓ Risk is assessed by credit-rating agencies (CRAs) `o` the three largest are: _Moody’s, S&P, Fitch_
 
-✓ Case 2. Tax rate at **30%** 𝑀𝑇𝑅> 𝑀𝑇𝑅[∗] : = `o` 𝑖 1 − 0.3 × 0.09 = 0.0630 Corporate bond: 𝐶𝐵 (6.3%) = `o` 𝑖 1 −0.0 × 0.0675 = Municipal bond: 𝑀𝑢𝑛 0.0675 (6.75%) 
+- `o` adopt somewhat different scales, but in general: - from AAA (low risk) to BBB (high risk): “ _investment grade_ ” ”
 
-# **Not so much anymore after 2008: 2008-2016 … why?** 
+- - from BB to C,D: “ _speculative/junk/high yield_
 
-**==> picture [720 x 396] intentionally omitted <==**
+## Characteristics of Corporate Bonds
 
-**----- Start of picture text -----**<br>
-Municipal<br>Treasury<br>**----- End of picture text -----**<br>
+✓ Bonds have a **bond indenture**: `o` a contract stating lender’s rights and borrower’s obligations For example:
 
+## 1. Restrictive covenants
 
-## **Agency Debt** 
+## 2. Call provisions
 
-## **Agency bonds** 
+**3. Conversion option**
 
-- ✓ they are issued by US Government-Sponsored Enterprises (GSE) 
+**4. Seniority** and **Collateral** (if any) Not all corporate bonds have these  characteristics. May be none, may be all.
 
-- ✓ GSEs are private companies (listed on NYSE) that can issue “ _government securities_ ” – _agency bonds_ 
+## Characteristics of Corporate Bonds
 
-- ✓ with the proceeds of bonds, GSEs 
+**1. Restrictive Covenants**
 
-`o` buy _mortgages_ from banks and sell them as mortgage-backed securities `o` extend specific loans (e.g.: _student_ loans) 
+✓ The bondholders place **some limits** (covenants) on what the company can do (bondholders sort of acting like shareholders)
 
-`o` sell _insurance_ 
+✓ dividends new debt May limit , , mergers, etc.
 
-- ✓ The GSE acted with an **implicit guarantee** that the U.S. government would not let them default … 
+**Q:** if covenants are more restrictive, does 𝑖 - or - ?
 
-   - …. but also increase _**moral hazard**_ ! 
+## Characteristics of Corporate Bonds
 
-`o` see the case of Freddy Mac and Fannie Mae in 2008, world’s biggest financial bail-out! Since 2008 under government conservatorship Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` optional: read here … it dates back to 2005! 
+**1. Restrictive Covenants**
 
-## **Corporate Bonds** 
+✓ The bondholders place **some limits** (covenants) on what the company can do (bondholders sort of acting like shareholders)
 
-- ✓ Bonds issued by (largest) corporations 
+✓ dividends new debt May limit , , mergers, etc.
 
-`o` remember: only a handful (about 1,000) of companies have access to bond market in the US! 
+**Q:** if covenants are more restrictive, does 𝑖 - or - ?
 
-`o` Mini some countries adopt easier access criteria for SME’s (optional: bonds in Italy, but also Japan, etc….) 
+**A:** 𝑖  Firm already accepting lots of conditions from bondholders so can lower 𝑖 𝑜𝑟𝑖𝑟𝑒𝑠𝑡𝑟 < 𝑖𝑜𝑡ℎ . Also safer for bond holders, as actions against their interests is reduced (lower risk!)
 
-- ✓ _Default risk_ is significantly higher than for Treasury bonds, but a lot of heterogeneity between firms 
+## Characteristics of Corporate Bonds
 
-- ✓ Risk is assessed by credit-rating agencies (CRAs) `o` the three largest are: _Moody’s, S&P, Fitch_ 
+## 2. Call Provisions
 
-- `o` adopt somewhat different scales, but in general: ▪ from AAA (low risk) to BBB (high risk): “ _investment grade_ ” ” 
+✓ A bond may be **callable**
 
-- ▪ from BB to C,D: “ _speculative/junk/high yield_ 
+- issuer can force bondholder to sell back bonds … - typically, at par or slightly higher
 
-**==> picture [122 x 44] intentionally omitted <==**
+- - after a “waiting period”
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. WSJ, Aug 9 2017 
+- ✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖: 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ
 
-## **Characteristics of Corporate Bonds** 
+`o` because the holder is less able to choose what to do with bond
 
-✓ Bonds have a **bond indenture** : `o` a contract stating lender’s rights and borrower’s obligations For example: 
+**Q**: if 𝑖 - is the firm more or less likely to buy back? **A**:
 
-## **1. Restrictive covenants** 
+**Q**: Why? **A**:
 
-## **2. Call provisions** 
+## Characteristics of Corporate Bonds
 
-**3. Conversion option** 
+## 2. Call Provisions
 
-**4. Seniority** and **Collateral** (if any) Not all corporate bonds have these  characteristics. May be none, may be all. 
+✓ A bond may be **callable**
 
-## **Characteristics of Corporate Bonds** 
+`o` issuer can force bondholder to sell back bonds … - typically, at par or slightly higher - after a “waiting period”
 
-**1. Restrictive Covenants** 
+✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖: 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ
 
-✓ The bondholders place **some limits** (covenants) on what the company can do (bondholders sort of acting like shareholders) 
+`o` because the holder is less able to choose what to do with bond
 
-✓ dividends new debt May limit , , mergers, etc. 
+**Q**: if 𝑖 - is the firm more or less likely to buy back? **A**: **more** likely to buy back
 
-**Q:** if covenants are more restrictive, does 𝑖  or ? 
+**Q**: Why? **A**: Because low _i_:
 
-## **Characteristics of Corporate Bonds** 
+- allows the firm to re-borrow at a more beneficial rate (lower _i_ ) - if _i_ low enough, $$$P(market)$$$> $$$P(callable)$$$, firm can earn difference
 
-**1. Restrictive Covenants** 
+## Characteristics of Corporate Bonds
 
-✓ The bondholders place **some limits** (covenants) on what the company can do (bondholders sort of acting like shareholders) 
+## 3. Conversion option
 
-✓ dividends new debt May limit , , mergers, etc. 
+✓ Debt that _**may**_ be converted to **equity** by holder
 
-**Q:** if covenants are more restrictive, does 𝑖  or ? 
+- ✓ Similar to buying a bond with a _stock option …_ `o` opt to convert to equity (see later lecture)
 
-**A:** 𝑖  . Firm already accepting lots of conditions from bondholders so can lower 𝑖 𝑜𝑟𝑖𝑟𝑒𝑠𝑡𝑟 < 𝑖𝑜𝑡ℎ . Also safer for bond holders, as actions against their interests is reduced (lower risk!) 
+- `o` … but usually more limited
 
-## **Characteristics of Corporate Bonds** 
+- ✓ 𝑖 will be _**lower**_ for a convertible bond than for a nonconvertible bond 𝑖 < 𝑖: 𝑐𝑜𝑛𝑣 𝑜𝑡ℎ
 
-## **2. Call Provisions** 
+`o` because the holder is more able to choose what to do with bond (can choose to convert to stock)
 
-✓ A bond may be **callable** 
+- ✓ Firms use it
 
-   - issuer can force bondholder to sell back bonds … ▪ typically, at par or slightly higher 
+- to issue stock, without sending a bad signal to market (of _overvaluation_ )
 
-   - ▪ after a “waiting period” 
+## Characteristics of Corporate Bonds
 
-- ✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖 : 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ 
+**4. Seniority**
 
-`o` because the holder is less able to choose what to do with bond 
+✓ It matters if a company defaults … as firm assets become less valuable
 
-**Q** : if 𝑖  is the firm more or less likely to buy back? **A** : 
+✓ _Bond_ holders are **senior** to ( _i.e._ get paid before) _stock_ holders ( _i.e._ get paid after)
 
-**Q** : Why? **A** : 
+✓ Among bondholders, there is seniority too:
 
-## **Characteristics of Corporate Bonds** 
+`o` _**senior**_ bondholders get paid before _**junior**_ **(** _subordinated_ ) bondholders (who are in turn senior to stockholders)
 
-## **2. Call Provisions** 
+Seniority scheme:
 
-✓ A bond may be **callable** 
+- 1(st) senior bondholders
 
-`o` issuer can force bondholder to sell back bonds … ▪ typically, at par or slightly higher ▪ after a “waiting period” 
+- 2(nd) junior bondholders
 
-✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖 : 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ 
+## Characteristics of Corporate Bonds
 
-`o` because the holder is less able to choose what to do with bond 
+**4bis. Collateral**
 
-**Q** : if 𝑖  is the firm more or less likely to buy back? **A** : **more** likely to buy back 
+✓ also matters if a company defaults
 
-**Q** : Why? **A** : Because low _i_ : 
+- ✓ **Secured** bonds: bond with specific asset pledged as collateral
 
-▪ allows the firm to re-borrow at a more beneficial rate (lower _i_ ) ▪ if _i_ low enough, P(market)> P(callable), firm can earn difference 
+`o` these get paid for sure (senior to all) `o` ex.: mortgage bonds
 
-## **Characteristics of Corporate Bonds** 
+- ✓ **Unsecured** bonds: w/o collateral
 
-## **3. Conversion option** 
+- _Debentures_: long-term unsecured bonds
 
-✓ Debt that _**may**_ be converted to **equity** by holder 
+- `o` _Subordinated debentures_: debentures with a lower priority claim
 
-- ✓ Similar to buying a bond with a _stock option …_ `o` opt to convert to equity (see later lecture) 
+- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal?
 
-- `o` … but usually more limited 
+## Characteristics of Corporate Bonds
 
-- ✓ 𝑖 will be _**lower**_ for a convertible bond than for a nonconvertible bond 𝑖 < 𝑖 : 𝑐𝑜𝑛𝑣 𝑜𝑡ℎ 
+**4bis. Collateral**
 
-`o` because the holder is more able to choose what to do with bond (can choose to convert to stock) 
+- ✓ also matters if a company defaults
 
-- ✓ Firms use it 
+- ✓ **Secured** bonds: bond with specific asset pledged as collateral
 
-   - to issue stock, without sending a bad signal to market (of _overvaluation_ ) 
+- these get paid for sure (senior to all)
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` they are a cheaper way to raise money 
+- `o` ex.: mortgage bonds
 
-## **Characteristics of Corporate Bonds** 
+- ✓ **Unsecured** bonds: w/o collateral
 
-**4. Seniority** 
+- _Debentures_: long-term unsecured bonds
 
-✓ It matters if a company defaults … as firm assets become less valuable 
+- _Subordinated debentures_: debentures with a lower priority claim
 
-✓ _Bond_ holders are **senior** to ( _i.e._ get paid before) _stock_ holders ( _i.e._ get paid after) 
+- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal?
 
-✓ Among bondholders, there is seniority too: 
+- **A** riskier 𝑖: clearly , so higher, because it lacks guarantee
 
-`o` _**senior**_ bondholders get paid before _**junior**_ **(** _subordinated_ ) bondholders (who are in turn senior to stockholders) 
+## Bond Pricing: Semi-annual Coupon
 
-Seniority scheme: 
+So far, we have always assumed annual coupon payments. But actually, most bonds pay coupons semi-annually, so
 
-- 1[st] senior bondholders 
+`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter
 
-- 2[nd] junior bondholders 
+**Q**: Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price?
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.3[rd] stockholders 
+## Bond Pricing: Semi-annual Coupon
 
-## **Characteristics of Corporate Bonds** 
+`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter
 
-**4bis. Collateral** 
+**Q**: Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price?
 
-✓ also matters if a company defaults 
+## Bond Pricing: Semi-annual Coupon
 
-- ✓ **Secured** bonds: bond with specific asset pledged as collateral 
+✓ Why does semi-annual payments make a difference?
 
-`o` these get paid for sure (senior to all) `o` ex.: mortgage bonds 
+✓ Because of **compounding**:
 
-- ✓ **Unsecured** bonds: w/o collateral 
+`o` if you re-invest at shorter intervals, make more money: earn interest on interest already earned (at middle year!) _Example_: $1,000 with annual interest of 10% become: $1,000 × 1.1= **$1,100** With semi-annual payment (5%) $1,000 × 1.05 × 1.05= **$1,102.5**
+*(See also: [[Full-material presentation Chapter 10#^dw1iio]])*
 
-   - _Debentures_ : long-term unsecured bonds 
+## Government bonds rating (2017)
 
-   - `o` _Subordinated debentures_ : debentures with a lower priority claim 
+## US public debt downgraded (optional)
 
-- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal? 
+✓ US Treasuries are still the safest haven? `o` 2 years ago a first downgrading of US Federal Gov Debt by Fitch!
 
-## **Characteristics of Corporate Bonds** 
+`o` more recently also other credit rating agencies … - ex.: Moodys
 
-**4bis. Collateral** 
+`o` Interesting reading on VOX
 
-- ✓ also matters if a company defaults 
+# Government bonds interest rates: USA
 
-- ✓ **Secured** bonds: bond with specific asset pledged as collateral 
+# Government bonds interest rates: USA, ITA, GRC
 
-   - these get paid for sure (senior to all) 
+## Foreign holders of US public debt
 
-   - `o` ex.: mortgage bonds 
+## ✓ Optional: who owns US public debt?
 
-- ✓ **Unsecured** bonds: w/o collateral 
-
-   - _Debentures_ : long-term unsecured bonds 
-
-   - _Subordinated debentures_ : debentures with a lower priority claim 
-
-- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal? 
-
-- **A** riskier 𝑖 : clearly , so higher, because it lacks guarantee 
-
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Bond Pricing: Semi-annual Coupon** 
-
-So far, we have always assumed annual coupon payments. But actually, most bonds pay coupons semi-annually, so 
-
-**==> picture [278 x 66] intentionally omitted <==**
-
-`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter 
-
-**Q** : Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price? 
-
-## **Bond Pricing: Semi-annual Coupon** 
-
-**==> picture [640 x 121] intentionally omitted <==**
-
-`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter 
-
-**Q** : Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price? 
-
-𝐶 𝑖 **A** : 2[= $50;] 2[= 6%; 𝑛= 2; 𝐹𝑉= $1,000] 𝐶 1 𝐶[=] 2[= $, 1000 ∙10% ∙] 2 _[because recall the coupon rate is: ]_[𝑖][𝑐.𝑟.] 𝐹𝑉[, so ][𝐶= 𝑖][𝑐] ~~[.]~~[𝑟] ~~[.]~~[ ∙𝐹𝑉] $50 $50 $50 $50 $1,000 𝑃=[+][+][+][= $965.35] Copyright ©2015 Pearson Education, Ltd. All rights reserved. 1 + 0.06[+] 1 + 0.06[2] 1 + 0.06[3] 1 + 0.06[4] 1 + 0.06[4] 
-
-## **Bond Pricing: Semi-annual Coupon** 
-
-✓ Why does semi-annual payments make a difference? 
-
-✓ Because of **compounding** : 
-
-`o` if you re-invest at shorter intervals, make more money: earn interest on interest already earned (at middle year!) _Example_ : $1,000 with annual interest of 10% become: $1,000 × 1.1= **$1,100** With semi-annual payment (5%) $1,000 × 1.05 × 1.05= **$1,102.5** 
-
-## **Government bonds rating (2017)** 
-
-**==> picture [337 x 395] intentionally omitted <==**
-
-**==> picture [106 x 351] intentionally omitted <==**
-
-**==> picture [62 x 38] intentionally omitted <==**
-
-For a more recent list, see: https://tradingeconomics.com/country-list/rating Copyright ©2015 Pearson Education, Ltd. All rights reserved. or https://www.worldgovernmentbonds.com/world-credit-ratings 
-
-## **US public debt downgraded (optional)** 
-
-✓ US Treasuries are still the safest haven? `o` 2 years ago a first downgrading of US Federal Gov Debt by Fitch! 
-
-**==> picture [436 x 142] intentionally omitted <==**
-
-`o` more recently also other credit rating agencies … ▪ ex.: Moodys 
-
-**==> picture [450 x 135] intentionally omitted <==**
-
-**==> picture [62 x 38] intentionally omitted <==**
-
-`o` Interesting reading on VOX 
-
-# **Government bonds interest rates: USA** 
-
-**==> picture [720 x 290] intentionally omitted <==**
-
-**==> picture [62 x 38] intentionally omitted <==**
-
-# **Government bonds interest rates: USA, ITA, GRC** 
-
-**==> picture [720 x 353] intentionally omitted <==**
-
-**==> picture [62 x 38] intentionally omitted <==**
-
-## **Foreign holders of US public debt** 
-
-## ✓ Optional: who owns US public debt? 
-
-## Table. **Share of US public debt held by foreign residents** 
+## Table. **Share of US public debt held by foreign residents**
 
 |country|2025-06|2025-03|2024-12|2024-09|2024-06|
 |---|---|---|---|---|---|
@@ -492,11 +424,11 @@ For a more recent list, see: https://tradingeconomics.com/country-list/rating Co
 |Switzerland|3.3%|3.4%|3.5%|3.5%|3.5%|
 |**Taiwan**|**3.3%**|**3.3%**|**3.3%**|**3.3%**|**3.2%**|
 
+Source: US Treasury
 
+## ✓and … only about 30% of US public debt is held by foreign residents (Congress data)
 
-Source: US Treasury 
-
-## ✓and … only about 30% of US public debt is held by foreign residents (Congress data) 
-
-**==> picture [62 x 38] intentionally omitted <==**
-
+## Related Notes
+- [[Full-material presentation Chapter 10]]
+- [[Lect6_exercises]]
+- [[Lect3_exercises]]

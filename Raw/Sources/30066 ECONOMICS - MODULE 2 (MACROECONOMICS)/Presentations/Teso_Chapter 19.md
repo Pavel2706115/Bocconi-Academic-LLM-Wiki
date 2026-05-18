@@ -1,348 +1,296 @@
-## **Università Bocconi** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 19: The Goods Market in an Open Economy"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Macroeconomics (Economics – Module 2 -30066)** 
+## Universit→ Bocconi
 
-## **Prof. Edoardo Teso** 
+**Macroeconomics (Economics – Module 2 -30066)**
 
-# **Chapter 19: The Goods Market in an Open Economy** 
+## Prof. Edoardo Teso
 
-## **The IS Curve in an Open Economy** 
+# Chapter 19: The Goods Market in an Open Economy
 
-In an open economy: domestic demand for goods ≠ demand for domestic goods 
+## The IS Curve in an Open Economy
 
-Value of demand by citizens of a country (some of this demand falls on foreign goods) 
+In an open economy: domestic demand for goods ≠ demand for domestic goods
 
-Value of demand for goods produced in the country (some of this demand comes from foreigners) 
+Value of demand by citizens of a country (some of this demand falls on foreign goods)
 
-In a _closed_ economy, the 2 are equal: 
+Value of demand for goods produced in the country (some of this demand comes from foreigners)
 
-Z=C+I+G 
+In a _closed_ economy, the 2 are equal:
 
-In an open economy, not equal anymore! 
+In an open economy, not equal anymore!
 
-**As policymakers of a country, which one do we care about most?** 
+**As policymakers of a country, which one do we care about most?**
 
-## **The Demand for Domestic Goods** 
+## The Demand for Domestic Goods
 
-**==> picture [341 x 125] intentionally omitted <==**
+**NX=Net exports**
 
-**----- Start of picture text -----**<br>
-Z = C + I + G – IM/ε + X<br>Domestic demand<br>for goods<br>**----- End of picture text -----**<br>
+- Z = Demand for domestic goods
 
+- X = Exports (foreign demand for domestic goods)
 
-**NX=Net exports** 
+- IM = Imports (Domestic demand for foreign goods, in terms of foreign goods)
 
-▪ Z = Demand for domestic goods 
+- - ε = Real exchange rate (price of domestic goods in terms of foreign goods)
 
-- X = Exports (foreign demand for domestic goods) 
+- - IM/ ε = Imports (in terms of domestic goods)
 
-- IM = Imports (Domestic demand for foreign goods, in terms of foreign goods) 
+- Assume that C depends on (Y-T) and I depends on Y and r (for now, forget about x and about expectations, for simplicity)
 
-- ▪ ε = Real exchange rate (price of domestic goods in terms of foreign goods) 
+## Two new terms: X and IM
 
-- ▪ IM/ ε = Imports (in terms of domestic goods) 
+## What does IM depend on?
 
-- Assume that C depends on (Y-T) and I depends on Y and r (for now, forget about x and about expectations, for simplicity) 
+- An increase in domestic income will increase imports (high Y, higher demand for domestic AND foreign goods).
 
-## **Two new terms: X and IM** 
+- An appreciation of the real exchange rate will increase imports (foreign goods are less expensive, since less domestic currency needed to buy foreign currency). ^kjb2tr
 
-## **What does IM depend on?** 
+IM = IM( Y , ε ) ( +   + )
 
-- An increase in domestic income will increase imports (high Y, higher demand for domestic AND foreign goods). 
+- Note: an increase in ε increases IM, but 1 / ε goes down: - Demand for IM goes up
 
-- An appreciation of the real exchange rate will increase imports (foreign goods are less expensive, since less domestic currency needed to buy foreign currency). 
+- Value of imports up or down? Ambiguous
 
-IM = IM( Y , ε ) ( +   + ) 
+## Two new terms: X and IM
 
-- Note: an increase in ε increases IM, but 1 / ε goes down: ▪ Demand for IM goes up 
+## What does X depend on?
 
-   - Value of imports up or down? Ambiguous 
+- An increase in foreign income will increase exports (high Y*, higher demand for my goods from the foreign country).
 
-## **Two new terms: X and IM** 
+- A depreciation of the real exchange rate will increase exports (domestic goods are less expensive, since less foreign currency needed to buy domestic currency).
 
-## **What does X depend on?** 
+X = X( Y* , ε ) ( +   - )
 
-- An increase in foreign income will increase exports (high Y*, higher demand for my goods from the foreign country). 
+## Towards the new Z Curve – step 1
 
-▪ A depreciation of the real exchange rate will increase exports (domestic goods are less expensive, since less foreign currency needed to buy domestic currency). 
+## 1. from old Z we subtract IM(Y, ε)/ε, which depends on Y (the larger Y, the larger IM)
 
-X = X( Y* , ε ) ( +   - ) 
+## Observations:
 
-## **Towards the new Z Curve – step 1** 
+- As for DD, AA slopes up, and slope of AA<1: Y ↑, demand ↑ by less than 1
 
-## **1. from old Z we subtract IM(Y, ε)/ε, which depends on Y (the larger Y, the larger IM)** 
+- AA flatter than DD: as Y ↑ , part of higher demand goes to imports
 
-**==> picture [10 x 12] intentionally omitted <==**
+(but still sloping up, as long as some of the higher demand goes to domestic goods)
 
-**----- Start of picture text -----**<br>
-Z<br>**----- End of picture text -----**<br>
+## Towards the new Z Curve – step 2
 
+## 2. To this new curve we add X, which does not depend on Y
 
-**==> picture [443 x 262] intentionally omitted <==**
+**ZZ gives the Demand for Domestic Goods as a function of Y**
 
-**----- Start of picture text -----**<br>
-DD: C+I+G<br>AA: C+I+G-IM/ε<br>Y<br>**----- End of picture text -----**<br>
+## Net Exports Graphically
 
+## If output is Y1, then what are values of exports and imports?
 
-## Observations: 
+Exports are the distance AC Imports are the distance AB Net exports are the distance BC (in this case, positive as X>IM/ε)
 
-- As for DD, AA slopes up, and slope of AA<1: Y ↑, demand ↑ by less than 1 
+## Net Exports Graphically
 
-- AA flatter than DD: as Y ↑ , part of higher demand goes to imports 
+## Trade balance, trade deficit or trade surplus
 
-(but still sloping up, as long as some of the higher demand goes to domestic goods) 
+- Net exports decreasing with income - If domestic income is equal to YTB then the trade balance is 0 - But nothing guarantees that Y = YTB
 
-## **Towards the new Z Curve – step 2** 
+## EQUILIBRIUM:   Y  =  Z
 
-## **2. To this new curve we add X, which does not depend on Y** 
+𝒀= 𝑪 𝒀−𝑻+ 𝑰 𝒀, 𝒓+ 𝑮−𝑰𝑴 𝒀, 𝛜 Τ𝛜+ 𝑿 𝒀(∗) , 𝛜
 
-**==> picture [473 x 258] intentionally omitted <==**
+## Increase in domestic demand in an open economy
 
-**----- Start of picture text -----**<br>
-DD: C+I+G<br>Z<br>ZZ: C+I+G-IM/ε+X<br>AA: C+I+G-IM/ε<br>**----- End of picture text -----**<br>
+## (for instance, increase in G)
 
+- Assume economy in a recession, so government decides to increase G
 
-**ZZ gives the Demand for Domestic Goods as a function of Y** 
+- Assume that initially Y = YTB
 
-Y 
+- Start from the goods market equilibrium:
 
-## **Net Exports Graphically** 
+- Increase in G moves ZZ up (by ΔG)
 
-## **If output is Y1, then what are values of exports and imports?** 
+- Y goes up, but less than in a closed economy, since part of higher domestic demand goes to imports! - **Multiplier is smaller in an open economy**
 
-**==> picture [473 x 285] intentionally omitted <==**
+- What about TB? - The increase in IM (for fixed X) leads to a **trade deficit**
 
-**----- Start of picture text -----**<br>
-DD: C+I+G<br>Z<br>ZZ: C+I+G-IM/ε+X<br>AA: C+I+G-IM/ε<br>C<br>B<br>A<br>Y<br>1 Y<br>**----- End of picture text -----**<br>
+## Graphical effects of an increase in G
 
+**In a closed economy, Y would have increased more!**
 
-**==> picture [9 x 12] intentionally omitted <==**
+## Increase in foreign demand in an open economy
 
-**----- Start of picture text -----**<br>
-Y<br>**----- End of picture text -----**<br>
+## (increase in Y*)
 
+- The increase in Y* could for instance come from an increase in G* of an important commercial partner
 
-Exports are the distance AC Imports are the distance AB Net exports are the distance BC (in this case, positive as X>IM/ε) 
+- Assume again that initially Y = YTB
 
-## **Net Exports Graphically** 
+- Start from the goods market equilibrium: - Increase in Y* moves ZZ up (by ΔX) - Y goes up
 
-**==> picture [649 x 459] intentionally omitted <==**
+- What about TB? - The increase in X shifts the NX curve up (by ΔX). Intuition: if X goes up, TB is obtained for a higher value of IM - What happens to the TB in the new equilibrium? - Maybe increase in IM (because Y is higher) is larger than increase in X, so that there is a trade deficit - We know this is not the case! There must be a trade surplus now. Why?
+*(See also: [[L24 Open Economy Dictionary#^r7fzfz]])*
 
-**----- Start of picture text -----**<br>
-DD: C+I+G<br>Z ZZ: C+I+G-IM/ε+X<br>AA: C+I+G-IM/ε<br>C<br>B<br>A<br>Y Y<br>1 TB Y<br>NX<br>Trade surplus Trade deficit<br>BC YTB<br>Y<br>NX<br>**----- End of picture text -----**<br>
+- Because DD does not move!
 
+## Graphical effects of an increase in Y*
 
-## **Trade balance, trade deficit or trade surplus** 
+## Increases in Demand − Domestic or Foreign
 
-▪ Net exports decreasing with income ▪ If domestic income is equal to YTB then the trade balance is 0 ▪ But nothing guarantees that Y = YTB 
+So far, we saw that:
 
-**==> picture [302 x 428] intentionally omitted <==**
+1. An increase in G leads to a higher Y, and a deterioration of the trade balance. Bad, as the country accumulates debts wrt the world. This may imply high interest rates….
 
-## **EQUILIBRIUM:   Y  =  Z** 
+2. An increase in G* (and Y*), leads to a higher Y and the trade balance .
 
-𝒀= 𝑪 𝒀−𝑻+ 𝑰 𝒀, 𝒓+ 𝑮−𝑰𝑴 𝒀, 𝛜 Τ𝛜+ 𝑿 𝒀[∗] , 𝛜 
+improves
 
-## **Increase in domestic demand in an open economy** 
+Implications:
 
-## **(for instance, increase in G)** 
+- Shocks to demand in one country affect all other countries (think about the 2008 recession).
 
-▪ Assume economy in a recession, so government decides to increase G 
+- These economic interactions complicate the task of policy makers. **Policy coordination** is not so easy to achieve.
 
-▪ Assume that initially Y = YTB 
+- Suppose that two countries are in a recession.
 
-- Start from the goods market equilibrium: 
+- Each country has an incentive to wait for the other country to increase G! This improves output and generates a trade surplus!
 
-   - Increase in G moves ZZ up (by ΔG) 
+## The effects of a nominal depreciation
 
-▪ Y goes up, but less than in a closed economy, since part of higher domestic demand goes to imports! ▪ **Multiplier is smaller in an open economy** 
+Since in the short-run prices are constant, a nominal depreciation leads to a real depreciation
 
-▪ What about TB? ▪ The increase in IM (for fixed X) leads to a **trade deficit** 
+ε A depreciation (decrease in ) leads to:
 
-## **Graphical effects of an increase in G** 
+- A higher X (domestic goods are cheaper), higher NX
 
-**==> picture [378 x 396] intentionally omitted <==**
+- A lower IM (foreign goods are more expensive), higher NX
 
-**In a closed economy, Y would have increased more!** 
+- An increase in 1/ ε (imported goods cost more), lower NX
 
-## **Increase in foreign demand in an open economy** 
+- The first two effects lead to a higher NX
 
-## **(increase in Y*)** 
+- - However, the third effect leads to a lower NX
 
-▪ The increase in Y* could for instance come from an increase in G* of an important commercial partner 
+- Which one prevails? Data say that usually the first two effects are stronger, so:
 
-▪ Assume again that initially Y = YTB 
+- **A depreciation leads to an increase in NX (Marshall-Lerner condition)**
 
-▪ Start from the goods market equilibrium: ▪ Increase in Y* moves ZZ up (by ΔX) ▪ Y goes up 
+## Graphical effects of a nominal depreciation
 
-▪ What about TB? ▪ The increase in X shifts the NX curve up (by ΔX). Intuition: if X goes up, TB is obtained for a higher value of IM ▪ What happens to the TB in the new equilibrium? ▪ Maybe increase in IM (because Y is higher) is larger than increase in X, so that there is a trade deficit ▪ We know this is not the case! There must be a trade surplus now. Why? 
+A lower ε has the same effect as a Y* higher (so we use the figure we used before)
 
-▪ Because DD does not move! 
+- Depreciation makes domestic goods cheaper for foreigners: increases X.
 
-## **Graphical effects of an increase in Y*** 
+- makes more
 
-**==> picture [321 x 458] intentionally omitted <==**
+- Depreciation foreign goods expensive for domestic consumers
 
-## **Increases in Demand − Domestic or Foreign** 
+- Given their incomes, domestic consumers are that take time «poorer» given wages
 
-So far, we saw that: 
+- to adjust (they pay more the same amount of foreign goods).
 
-1. An increase in G leads to a higher Y, and a deterioration of the trade balance. Bad, as the country accumulates debts wrt the world. This may imply high interest rates…. 
+- This creates Citizens are worse problems.
 
-2. An increase in G* (and Y*), leads to a higher Y and the trade balance . 
+- off.
 
-improves 
+## Combining exchange rate and fiscal policy: policy mix
 
-Implications: 
+Consider the case of the following country: - Y = Yn (natural level) - but with a big trade deficit (NX << 0)
 
-- Shocks to demand in one country affect all other countries (think about the 2008 recession). 
+What can the government do to increase NX, without changing Y?
 
-- These economic interactions complicate the task of policy makers. **Policy coordination** is not so easy to achieve. 
+- Decrease ε (depreciation)? NX improves, but Y increases
 
-   - Suppose that two countries are in a recession. 
+- Decrease G ? NX improves, but Y decreases
 
-   - Each country has an incentive to wait for the other country to increase G! This improves output and generates a trade surplus! 
+## Combining exchange rate and fiscal policy: policy mix
 
-## **The effects of a nominal depreciation** 
+The government can do both things at the same time:
 
-Since in the short-run prices are constant, a nominal depreciation leads to a real depreciation 
+1. Depreciation (shifts the curve NX)
 
-ε A depreciation (decrease in ) leads to: 
+Economy goes from A to A’
 
-- A higher X (domestic goods are cheaper), higher NX 
+(higher NX, but Y > Yn)
 
-- A lower IM (foreign goods are more expensive), higher NX 
+2. Lower G (does not change the curve NX)
 
-- An increase in 1/ ε (imported goods cost more), lower NX 
+Economy goes back to A
 
-- The first two effects lead to a higher NX 
+(NX=0  and  Y = Yn)
 
-- ▪ However, the third effect leads to a lower NX 
+## 2 targets** → **2 instruments
 
-- Which one prevails? Data say that usually the first two effects are stronger, so: 
+## Exchange Rate and Fiscal Policy Combinations
 
-   - **A depreciation leads to an increase in NX (Marshall-Lerner condition)** 
+## . **Focus on low output + trade surplus**
 
-## **Graphical effects of a nominal depreciation** 
+Two targets: we want to increase Y and decrease trade surplus .
 
-**==> picture [319 x 458] intentionally omitted <==**
+## G ↑ obtains both targets.
 
-A lower ε has the same effect as a Y* higher (so we use the figure we used before) 
+Variations in ε depend on the details of the economy: a depreciation or an appreciation (or no change) could be needed, since nothing ensures that Yn=YTB
 
-▪ Depreciation makes domestic goods cheaper for foreigners: increases X. 
+## FOCUS: The Disappearance of Current Account Deficits in Greece: Good News or Bad News?
 
-- makes more 
+## Reduction in current account deficits. Why?
 
-- Depreciation foreign goods expensive for domestic consumers 
+1. country more competitive. ε decreases. Exports increase and imports decrease.
 
-- Given their incomes, domestic consumers are that take time «poorer» given wages 
+2. output decrease for a recession. Imports decrease. CA improves.
 
-- to adjust (they pay more the same amount of foreign goods). 
+CA deficits! KA surplus.
 
-- This creates Citizens are worse problems. 
+Euro Periphery Current Accounts since 2000
 
-- off. 
+## FOCUS: The Disappearance of Current Account Deficits in Greece: Good News or Bad News?
 
-## **Combining exchange rate and fiscal policy: policy mix** 
+- You may want to adjust the nominal exchange rate to vary the real exchange rate. Euro. Impossible to change E. How to reduce ε? By changing P: very hard… more on this later… this happened at a cost of reducing wages.
 
-Consider the case of the following country: ▪ Y = Yn (natural level) ▪ but with a big trade deficit (NX << 0) 
+- Greece’s real GDP and imports declined after 2008. **Import compression**: A decrease in imports (improved current account balance)  triggered by a decrease in output.
 
-What can the government do to increase NX, without changing Y? 
+**Imports, Exports and GDP in Greece since 2000**
 
-▪ Decrease ε (depreciation)? NX improves, but Y increases 
+## Saving/Investment and the trade balance
 
-▪ Decrease G ? NX improves, but Y decreases 
+## in open economy
 
-## **Combining exchange rate and fiscal policy: policy mix** 
+In a closed economy, we know that S = I
 
-The government can do both things at the same time: 
+In an open economy, things change a bit:
 
-1. Depreciation (shifts the curve NX) 
+Subtracting T from both sides
 
-Economy goes from A to A’ 
+## Saving/Investment and the trade balance
 
-(higher NX, but Y > Yn) 
+## in open economy
 
-2. Lower G (does not change the curve NX) 
+**CA = S + (T – G) – I**
 
-Economy goes back to A 
+- ❑ In open economy, it is no longer true that _total saving = investment_
 
-(NX=0  and  Y = Yn) 
+- ❑ An excess of savings (S+(T-G) > I) corresponds to a trade balance surplus: the country lends to the rest of the world (our intuition from before!).
 
-**==> picture [299 x 464] intentionally omitted <==**
+- ❑ An excess of investment (S +(T-G) < I) corresponds to a trade balance deficit: the country borrows from the rest of the world (our intuition from before!).
 
-## **2 targets** → **2 instruments** 
+- ❑ If a country increases I, either it saves more or its CA deteriorates
 
-## **Exchange Rate and Fiscal Policy Combinations** 
+- ❑If government budget deteriorates, either S increases, or I decreases, or the CA deteriorates
 
-**==> picture [500 x 126] intentionally omitted <==**
+- ❑ A country that saves a lot must either invest a lot or have a large CA surplus
 
-## . **Focus on low output + trade surplus** 
+Example: In China:  I<S, and so CA>0→ China «imports» assets (KA<0).
 
-Two targets: we want to increase Y and decrease trade surplus . 
-
-## G ↑ obtains both targets. 
-
-Variations in ε depend on the details of the economy: a depreciation or an appreciation (or no change) could be needed, since nothing ensures that Yn=YTB 
-
-## **FOCUS: The Disappearance of Current Account Deficits in Greece: Good News or Bad News?** 
-
-## **Reduction in current account deficits. Why?** 
-
-1. country more competitive. ε decreases. Exports increase and imports decrease. 
-
-2. output decrease for a recession. Imports decrease. CA improves. 
-
-CA deficits! KA surplus. 
-
-Euro Periphery Current Accounts since 2000 
-
-**==> picture [463 x 280] intentionally omitted <==**
-
-## **FOCUS: The Disappearance of Current Account Deficits in Greece: Good News or Bad News?** 
-
-▪ You may want to adjust the nominal exchange rate to vary the real exchange rate. Euro. Impossible to change E. How to reduce ε? By changing P: very hard… more on this later… this happened at a cost of reducing wages. 
-
-▪ Greece’s real GDP and imports declined after 2008. **Import compression** : A decrease in imports (improved current account balance)  triggered by a decrease in output. 
-
-**Imports, Exports and GDP in Greece since 2000** 
-
-**==> picture [480 x 251] intentionally omitted <==**
-
-## **Saving/Investment and the trade balance** 
-
-## **in open economy** 
-
-In a closed economy, we know that S = I 
-
-In an open economy, things change a bit: 
-
-**==> picture [138 x 14] intentionally omitted <==**
-
-Subtracting T from both sides 
-
-**==> picture [195 x 14] intentionally omitted <==**
-
-**==> picture [529 x 87] intentionally omitted <==**
-
-**==> picture [150 x 18] intentionally omitted <==**
-
-## **Saving/Investment and the trade balance** 
-
-## **in open economy** 
-
-**CA = S + (T – G) – I** 
-
-- ❑ In open economy, it is no longer true that _total saving = investment_ 
-
-- ❑ An excess of savings (S+(T-G) > I) corresponds to a trade balance surplus: the country lends to the rest of the world (our intuition from before!). 
-
-- ❑ An excess of investment (S +(T-G) < I) corresponds to a trade balance deficit: the country borrows from the rest of the world (our intuition from before!). 
-
-- ❑ If a country increases I, either it saves more or its CA deteriorates 
-
-- ❑If government budget deteriorates, either S increases, or I decreases, or the CA deteriorates 
-
-- ❑ A country that saves a lot must either invest a lot or have a large CA surplus 
-
-Example: In China:  I<S, and so CA>0→ China «imports» assets (KA<0). 
-
+## Related Notes
+- [[L24 Open Economy Dictionary]]
+- [[Teso_Chapter 20]]
+- [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]

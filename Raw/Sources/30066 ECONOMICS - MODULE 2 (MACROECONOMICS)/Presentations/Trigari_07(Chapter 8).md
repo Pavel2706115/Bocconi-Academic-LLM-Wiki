@@ -1,456 +1,364 @@
-# **Chapter 8 The Phillips curve** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "Chapter 8 The Phillips curve"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **The Phillips curve** 
+# Chapter 8 The Phillips curve
 
-- In 1958, Phillips drew a diagram plotting the **rate of inflation** against the **rate of unemployment** in the UK for each year from 1861 to 1957 
+## The Phillips curve
 
-- He found clear evidence of a **negative relation** between **inflation** and **unemployment** 
+- In 1958, Phillips drew a diagram plotting the **rate of inflation** against the **rate of unemployment** in the UK for each year from 1861 to 1957
 
-- In 1960, Samuelson and Solow replicated the exercise of the US from 1900 to 1960 
+- He found clear evidence of a **negative relation** between **inflation** and **unemployment**
 
-- They also found evidence of a negative relation and labelled it the **Phillips curve** 
+- In 1960, Samuelson and Solow replicated the exercise of the US from 1900 to 1960
 
-- In the 1970s the relation broke down but a **new negative relation** between the **change in inflation** and **unemployment** emerged 
+- They also found evidence of a negative relation and labelled it the **Phillips curve**
 
-## **The US data** _**before**_ **1970** 
+- In the 1970s the relation broke down but a **new negative relation** between the **change in inflation** and **unemployment** emerged
 
-## **Inflation versus unemployment in the US, 1900–1960** 
+## The US data** _**before**_ **1970
 
-**==> picture [456 x 287] intentionally omitted <==**
+## Inflation versus unemployment in the US, 1900–1960
 
-During the period 1900-1960 in the US, a low unemployment rate was typically associated with a high inflation rate, and a high unemployment rate was typically associated with a low or negative inflation rate 
+During the period 1900-1960 in the US, a low unemployment rate was typically associated with a high inflation rate, and a high unemployment rate was typically associated with a low or negative inflation rate
 
-## **The US data** _**after**_ **1970** 
+## The US data** _**after**_ **1970
 
-## **Inflation versus unemployment in the US since 1970** 
+## Inflation versus unemployment in the US since 1970
 
-**==> picture [488 x 307] intentionally omitted <==**
+Beginning in 1970 in the United States, the relation between the unemployment rate and the inflation rate disappeared
 
-Beginning in 1970 in the United States, the relation between the unemployment rate and the inflation rate disappeared 
+## After 1970, the relationship vanishes… why?
 
-## After 1970, the relationship vanishes… why? 
+Because of a **change in the way wage-setters form expectations** due to a change in the behavior of inflation
 
-Because of a **change in the way wage-setters form expectations** due to a change in the behavior of inflation 
+## US inflation from 1900 to 2005
 
-## **US inflation from 1900 to 2005** 
+Before 1970 **inflation** is at times positive and at times negative, **not very persistent**
 
-**==> picture [380 x 252] intentionally omitted <==**
+After 1970 **inflation** is always positive and **persistent**
 
-Before 1970 **inflation** is at times positive and at times negative, **not very persistent** 
+- Why is this important? Because workers need to predict prices when they bargain for the wage
 
-After 1970 **inflation** is always positive and **persistent** 
+- If inflation is always positive and persistent, then workers will expect prices to rise in the future… (more on this later)
 
-- Why is this important? Because workers need to predict prices when they bargain for the wage 
+## The US data** _**after**_ **1970
 
-- If inflation is always positive and persistent, then workers will expect prices to rise in the future… (more on this later) 
+## _**Change**_ **in inflation versus unemployment in the US since 1970**
 
-## **The US data** _**after**_ **1970** 
+While the relation between inflation and unemployment broke down in the 1970s, a new relation between changes in inflation and unemployment reappeared
 
-## _**Change**_ **in inflation versus unemployment in the US since 1970** 
+## Plan
 
-**==> picture [469 x 295] intentionally omitted <==**
+- Derive the relation between inflation and unemployment: the Phillips curve
 
-**----- Start of picture text -----**<br>
-Change in<br>**----- End of picture text -----**<br>
+- Explain the mutations of the Phillips curve over time
 
+- Show the relation btw the Phillips curve and the natural unemployment rate
 
-While the relation between inflation and unemployment broke down in the 1970s, a new relation between changes in inflation and unemployment reappeared 
+- More generally, explain the relation between inflation and unemployment
 
-## **Plan** 
+## The Phillips curve equation: derivation
 
-- Derive the relation between inflation and unemployment: the Phillips curve 
+_e_ **PS** _P_ = 1 + _m W W_ = _P F_ ( _u_ , _z_ ) **WS** ( )
 
-- Explain the mutations of the Phillips curve over time 
+## _e_ = _P_ ( 1 + _m_ ) _P F_ ( _u_ , _z_ )
 
-- Show the relation btw the Phillips curve and the natural unemployment rate 
+The **price,** _**P**_ **, depends on** the **expected price,** _**$$$P(e)$$$**_ **,** and the **unemployment rate,** _**u**_ (and also on _m_ and _z_ )
 
-- More generally, explain the relation between inflation and unemployment 
+Implicit assumption: _**prices**_ set by firms are _**flexible**_ ; _**wages**_ set by workers and firms are _**sticky**_
 
-## **The Phillips curve equation: derivation** 
+- We have
 
-_e_ **PS** _P_ = 1 + _m W W_ = _P F_ ( _u_ , _z_ ) **WS** ( ) 
+## e_ = _P P (_ 1 + _m)$F(u,z)$
 
-## _e_ = _P_ ( 1 + _m_ ) _P F_ ( _u_ , _z_ ) 
+- Now assume that (recall macroeconomists like linear relations!)
 
-The **price,** _**P**_ **, depends on** the **expected price,** _**P[e]**_ **,** and the **unemployment rate,** _**u**_ (and also on _m_ and _z_ ) 
+## = − _F_ ( _u_ , _z_ ) 1 - _u_ + _z_
 
-Implicit assumption: _**prices**_ set by firms are _**flexible**_ ; _**wages**_ set by workers and firms are _**sticky**_ 
+- Combine
 
-- We have 
+## Aggregate supply relation from price and wage setting
 
-## _e_ = _P P (_ 1 + _m)F(u,z)_ 
+- Add time indexes
 
-- Now assume that (recall macroeconomists like linear relations!) 
+- Divide  both sides by the price level at t-1
 
-## = − _F_ ( _u_ , _z_ ) 1  _u_ + _z_ 
+- Rewrite using the definition of inflation
 
-- Combine 
+- We have obtained
 
-**==> picture [342 x 113] intentionally omitted <==**
+_e_ = − ( 1 + - _t_ ) ( 1 + - _t_ ) 1( + _m_ ) ( 1 - _ut_ + _z_ )
 
-**----- Start of picture text -----**<br>
-e<br>= −<br>P P 1( + m ) ( 1  u + z )<br>**----- End of picture text -----**<br>
+- This is approximately equal to
 
+## Phillips curve
 
-## **Aggregate supply relation from price and wage setting** 
+## Price and wage setting: economic intuition
 
-## • Add time indexes 
+_e_ = − _Pt Pt_ 1( + _m_ ) ( 1 - _ut_ + _z_ )
 
-**==> picture [208 x 26] intentionally omitted <==**
+- A _**$$$P(e)$$$**_ causes a _**P**_ **higher expected price** _**t**_ **higher price** _**t**_
 
-## • Divide  both sides by the price level at t-1 
+Higher expected price leads to higher wage (workers care about real wages) Higher wage leads to higher price (markup over marginal cost)
 
-**==> picture [244 x 53] intentionally omitted <==**
+- A **lower unemployment rate** _**ut**_ causes a **higher price** _**Pt**_
 
-## • Rewrite using the definition of inflation 
+Lower unemployment leads to higher wage (bargaining)
 
-**==> picture [304 x 34] intentionally omitted <==**
+Higher wage leads to higher price (markup over marginal cost)
 
-## • We have obtained 
+## _e_ = − _Pt Pt_ 1( + _m_ ) ( 1 - _ut_ + _z_ )
 
-_e_ = − ( 1 +  _t_ ) ( 1 +  _t_ ) 1( + _m_ ) ( 1  _ut_ + _z_ ) 
+- A _**z**_ causes a _**P**_ **higher higher price** _**t**_
 
-## • This is approximately equal to 
+_z_ A higher raises wages (bargaining)
 
-## **Phillips curve** 
+Higher wages lead to higher prices (markup over marginal costs)
 
-**==> picture [357 x 99] intentionally omitted <==**
+- A _**m**_ causes a _**P**_ **higher markup higher price** _**t**_
 
-**----- Start of picture text -----**<br>
-e<br>= −<br>  + m + z  u<br>t t ( ) t<br>**----- End of picture text -----**<br>
+Firms charge higher prices for given wages
 
+## The Phillips curve equation: economic intuition
 
-## **Price and wage setting: economic intuition** 
+- When workers expect higher inflation _π(e) t_ , then inflation _πt_ is higher. Why?
 
-_e_ = − _Pt Pt_ 1( + _m_ ) ( 1  _ut_ + _z_ ) 
+Workers bargain higher nominal wages ➔ firms set higher prices ➔ inflation this period is higher _for given price last period_
 
-- A _**P[e]**_ causes a _**P**_ **higher expected price** _**t**_ **higher price** _**t**_ 
+- _m π_
 
-Higher expected price leads to higher wage (workers care about real wages) Higher wage leads to higher price (markup over marginal cost) 
+- When the markup is higher, then inflation _t_ is higher. Why?
 
-• A **lower unemployment rate** _**ut**_ causes a **higher price** _**Pt**_ 
+Higher markup ➔ firms charge higher prices for given wages ➔ inflation this period is higher _for given price last period_
 
-Lower unemployment leads to higher wage (bargaining) 
+## e_ = − - _t_ - _t_ + ( _m_ + _z_ ) - _ut
 
-Higher wage leads to higher price (markup over marginal cost) 
+- When _z_ is higher then inflation _πt_ is higher. Why?
 
-## _e_ = − _Pt Pt_ 1( + _m_ ) ( 1  _ut_ + _z_ ) 
+Workers bargain higher wages ➔ firms set higher prices ➔ inflation this period is higher _for given price last period_
 
-- A _**z**_ causes a _**P**_ **higher higher price** _**t**_ 
+- _u π_
 
-_z_ A higher raises wages (bargaining) 
+- When the unemployment rate _t_ is higher, then inflation _t_ is lower. Why?
 
-Higher wages lead to higher prices (markup over marginal costs) 
+Workers bargain lower wages ➔ firms set lower price ➔ inflation this period is higher _for given price last period_
 
-- A _**m**_ causes a _**P**_ **higher markup higher price** _**t**_ 
+Note that the **parameter α** captures the strength of the effect of unemployment on bargained wages
 
-Firms charge higher prices for given wages 
+## The Phillips curve and its mutations The early incarnation
 
-## **The Phillips curve equation: economic intuition** 
+- We saw that before 1970 Inflation was sometimes positive, sometimes negative, and **not very persistent**
 
-**==> picture [227 x 25] intentionally omitted <==**
+- If inflation is not very persistent, then inflation last year is not a good predictor of inflation this year
 
-- When workers expect higher inflation _π[e] t_ , then inflation _πt_ is higher. Why? 
+- Assume inflation varies from year to year **around some average value** - and is not very persistent
 
-Workers bargain higher nominal wages ➔ firms set higher prices ➔ inflation this period is higher _for given price last period_ 
+- Then, it makes sense for wage setters to assume that, **whatever inflation was last year** , **inflation this year will simply be equal to its average value**:
 
-- _m π_ 
+- The Phillips curve before the 1970s can then be written as
 
-- When the markup is higher, then inflation _t_ is higher. Why? 
+- This is precisely the negative relation between unemployment and inflation holding until the 1970s
 
-Higher markup ➔ firms charge higher prices for given wages ➔ inflation this period is higher _for given price last period_ 
+## The Phillips curve and its mutations The apparent trade-off btw inflation and unemployment
 
-## _e_ = −  _t_  _t_ + ( _m_ + _z_ )  _ut_ 
+= − - _t_ - + ( _m_ + _z_ ) - _ut_
 
-- When _z_ is higher then inflation _πt_ is higher. Why? 
+This relation has a striking implication:
 
-Workers bargain higher wages ➔ firms set higher prices ➔ inflation this period is higher _for given price last period_ 
+A country can sustain a low unemployment rate if it is willing to tolerate a high inflation rate; vice versa, a country can achieve a low inflation rate as long as it is willing to tolerate a high unemployment rate; it just needs to choose a point on the Phillips curve
+*(See also: [[L12 Phillips Curve#^65bj5y]])*
 
-- _u π_ 
+## Inflation
 
-- When the unemployment rate _t_ is higher, then inflation _t_ is lower. Why? 
+**High inflation, low unemployment**
 
-Workers bargain lower wages ➔ firms set lower price ➔ inflation this period is higher _for given price last period_ 
+**Low inflation, high unemployment**
 
-Note that the **parameter α** captures the strength of the effect of unemployment on bargained wages 
+Unemployment
 
-## **The Phillips curve and its mutations The early incarnation** 
+## Inflation versus unemployment in the US from 1948 to 1969
 
-- We saw that before 1970 Inflation was sometimes positive, sometimes negative, and **not very persistent** 
+The steady decline in the U.S. unemployment rate throughout the 1960s was associated with a steady increase in the inflation rate
 
-- If inflation is not very persistent, then inflation last year is not a good predictor of inflation this year 
+## The Phillips curve and its mutations The disappearance of the trade-off
 
-- Assume inflation varies from year to year **around some average value**  and is not very persistent 
+What changed after 1970? A **change** in the **way wage setters formed inflation expectations**
 
-- Then, it makes sense for wage setters to assume that, **whatever inflation was last year** , **inflation this year will simply be equal to its average value** : 
+After 1970 **inflation** is always positive and **more persistent**
 
-**==> picture [71 x 34] intentionally omitted <==**
+- Workers need to predict prices when they bargain for the wage
 
-# • The Phillips curve before the 1970s can then be written as 
+- If inflation is always positive and persistent, then workers will expect prices to rise in the future and bargain for higher wages
 
-**==> picture [217 x 36] intentionally omitted <==**
+## Suppose workers look at the past year when forming expectations:
 
-• This is precisely the negative relation between unemployment and inflation holding until the 1970s 
+- Expected inflation this year depends partly on a constant average value, with weight (1-θ), and partly on inflation last year, with weight θ
 
-## **The Phillips curve and its mutations The apparent trade-off btw inflation and unemployment** 
+- The higher is θ the more inflation last year leads workers to revise their expectations of what inflation will be this year
 
-= −  _t_  + ( _m_ + _z_ )  _ut_ 
+- We can think of what happened in the 1970s as **an increase in the value of θ over time**
 
-This relation has a striking implication: 
+- **Before the 1970s**: 𝛉= 𝟎 , workers expected inflation to be constant, whatever last year inflation
 
-A country can sustain a low unemployment rate if it is willing to tolerate a high inflation rate; vice versa, a country can achieve a low inflation rate as long as it is willing to tolerate a high unemployment rate; it just needs to choose a point on the Phillips curve 
+- **After the 1970s**: 𝛉= 𝟏 , workers started to expect inflation to be the same as last year
 
-## Inflation 
+## The Phillips curve then becomes
 
-**High inflation, low unemployment** 
+To distinguish it from the Phillips curve without expectations, this is often called the **expectations-augmented Phillips curve**
 
-**Low inflation, high unemployment** 
+- When - **=1** , the relation becomes
 
-**==> picture [58 x 35] intentionally omitted <==**
+- Moving last year inflation rate to the left side of the equation, we get
 
-Unemployment 
+- Then, when - **=1** , the unemployment rate affects **not** the **inflation rate** , **but** the **change in the inflation rate**
 
-## **Inflation versus unemployment in the US from 1948 to 1969** 
+- This is the negative relation emerging between the **unemployment rate** and the **change in inflation** since the 1970s
 
-**==> picture [384 x 290] intentionally omitted <==**
+The line that best fits the scatter of points for the period 1970–2014 is:
 
-The steady decline in the U.S. unemployment rate throughout the 1960s was associated with a steady increase in the inflation rate 
+## The Phillips curve and the natural rate of unemployment
 
-## **The Phillips curve and its mutations The disappearance of the trade-off** 
+- The history of the Phillips curve is closely related to the concept of the **natural unemployment rate**
 
-What changed after 1970? A **change** in the **way wage setters formed inflation expectations** 
+- The **original Phillips curve** implied that there is **no natural unemployment rate**: if policymakers were willing to tolerate a higher inflation rate, they could maintain a lower unemployment rate forever
 
-**==> picture [392 x 259] intentionally omitted <==**
+- In the 1960s two economists, Friedman and Phelps, predicted that **the trade-off between inflation and unemployment would disappear** and unemployment could not be sustained below a certain level, which they called the natural unemployment rate. **They were right!**
 
-After 1970 **inflation** is always positive and **more persistent** 
+- Let’s now make explicit the relation between the Phillips curve and the natural unemployment rate
 
-- Workers need to predict prices when they bargain for the wage 
+- Remember: the natural unemployment rate is the level at which **expectations** are **correct** (workers get the inflation right)
 
-- If inflation is always positive and persistent, then workers will expect prices to rise in the future and bargain for higher wages 
+- So, the **natural unemployment rate** emerges when 𝝅𝒕 = 𝝅𝒕(𝒆)
 
-## Suppose workers look at the past year when forming expectations: 
+- Thus, the Phillips curve
 
-**==> picture [206 x 38] intentionally omitted <==**
+becomes
 
-- Expected inflation this year depends partly on a constant average value, with weight (1-θ), and partly on inflation last year, with weight θ 
+which implies
 
-- The higher is θ the more inflation last year leads workers to revise their expectations of what inflation will be this year 
+_m_ + _z u_ = _n_ - ## _m_ + _z u_ = _n_ - ## We can put this back into the Phillips curve to get
 
-**==> picture [205 x 39] intentionally omitted <==**
+**The Phillips curve in terms of the natural rate of unemployment**
 
-- We can think of what happened in the 1970s as **an increase in the value of θ over time** 
+## If - **=1** and expected inflation equals last year inflation we have
 
-   - **Before the 1970s** : 𝛉= 𝟎 , workers expected inflation to be constant, whatever last year inflation 
+- when u is lower than un, the inflation rate increases
 
-   - **After the 1970s** : 𝛉= 𝟏 , workers started to expect inflation to be the same as last year 
+- when u is higher than un, the inflation rate decreases
 
-## The Phillips curve then becomes 
+- when **u equals un** the **inflation** rate is **constant** (this is why the natural rate of unemployment is also called the non-accelerating inflation rate of unemployment - **NAIRU** ) ^hwmjod
 
-**==> picture [391 x 75] intentionally omitted <==**
+## Back to the natural rate of unemployment:
 
-To distinguish it from the Phillips curve without expectations, this is often called the **expectations-augmented Phillips curve** 
+## Factors raising un
 
-## • When  **=1** , the relation becomes 
+- _**z**_
 
-**==> picture [252 x 58] intentionally omitted <==**
+- **Labor market rigidities (high ):**
 
-- Moving last year inflation rate to the left side of the equation, we get 
+- high minimum wages
 
-**==> picture [210 x 59] intentionally omitted <==**
+- high unemployment benefits
 
-- Then, when  **=1** , the unemployment rate affects **not** the **inflation rate** , **but** the **change in the inflation rate** 
+- strict employment protection legislation (high layoffs costs)
 
-- This is the negative relation emerging between the **unemployment rate** and the **change in inflation** since the 1970s 
+- _**m**_
 
-**==> picture [469 x 294] intentionally omitted <==**
+- **Low degree of product market competition (high )**
 
-**----- Start of picture text -----**<br>
-Changes in<br>**----- End of picture text -----**<br>
+- The factors that affect the natural rate of unemployment, _m_ and _z_ , **differ across countries** and **over time**
 
+- There is no reason to expect all countries to have the same natural rate of unemployment
 
-The line that best fits the scatter of points for the period 1970–2014 is: 
+- The natural rate of unemployment of one country may also vary over time as _m_ and _z_ may vary, though slowly
 
-**==> picture [194 x 21] intentionally omitted <==**
+- The natural rate of unemployment is higher in Europe than in the US
 
-## **The Phillips curve and the natural rate of unemployment** 
+- In Europe the natural rate of unemployment has greatly increased since the 1960s
 
-- The history of the Phillips curve is closely related to the concept of the **natural unemployment rate** 
+- In the US the natural rate of unemployment increased from the 1960s to the 1980s and appears to have decreased since then
 
-- The **original Phillips curve** implied that there is **no natural unemployment rate** : if policymakers were willing to tolerate a higher inflation rate, they could maintain a lower unemployment rate forever 
+# The natural rate of unemployment in some European countries
 
-- In the 1960s two economists, Friedman and Phelps, predicted that **the trade-off between inflation and unemployment would disappear** and unemployment could not be sustained below a certain level, which they called the natural unemployment rate. **They were right!** 
+## High inflation, wage indexation and the Phillips curve
 
-- Let’s now make explicit the relation between the Phillips curve and the natural unemployment rate 
+- So far, workers form expectations about inflation and then wait for their next chance to renegotiate their contracts
 
-- Remember: the natural unemployment rate is the level at which **expectations** are **correct** (workers get the inflation right) 
+- When inflation is higher than expected, wages are too low and they ask for more
 
-- So, the **natural unemployment rate** emerges when 𝝅𝒕 = 𝝅𝒕[𝒆] 
+- When inflation is lower than expected, wages are too high and employers renegotiate a lower wage
 
-- Thus, the Phillips curve 
+- But what if inflation is **high and volatile** ?
 
-**==> picture [227 x 25] intentionally omitted <==**
+- Then workers and firms become reluctant to enter into labor contracts that set nominal wages for long time, as workers (firms) may experience large losses if inflation turns out to be much higher (lower) than expected
 
-becomes 
+- **Wage indexation** becomes prevalent
 
-**==> picture [169 x 24] intentionally omitted <==**
+## Wage indexation
 
-which implies 
+- Wage indexation allows wages to adjust to inflation automatically (no need to bargain)
 
-_m_ + _z u_ = _n_  
+- Let’s fit this into the Phillips curve:
 
-## _m_ + _z u_ = _n_  
+- Assume that a **fraction** 𝛌 of contracts is **automatically renegotiated**
 
-## We can put this back into the Phillips curve to get 
+- So every year a fraction 𝜆 of wages **moves together with inflation**
 
-**==> picture [290 x 244] intentionally omitted <==**
+## The Phillips curve with wage indexation
 
-**----- Start of picture text -----**<br>
-e<br>= −<br> t  t + ( m + z )  ut<br>e<br>= −<br>  +  u  u<br>t t n t<br>e<br> −  = − u − u<br>t t ( t n )<br>**----- End of picture text -----**<br>
+- The Phillips curve with indexation becomes:
 
+- Assume
 
-**The Phillips curve in terms of the natural rate of unemployment** 
+- Then obtain
 
-## If  **=1** and expected inflation equals last year inflation we have 
+- We have
 
-**==> picture [246 x 68] intentionally omitted <==**
+- This can be rearranged as
 
-- when u is lower than un, the inflation rate increases 
+- And finally as
 
-- when u is higher than un, the inflation rate decreases 
+## Phillips curve with indexed wages
 
-- when **u equals un** the **inflation** rate is **constant** (this is why the natural rate of unemployment is also called the non-accelerating inflation rate of unemployment - **NAIRU** ) 
+- When a high fraction of wages is indexed ( 𝜆 is high)…
 
-## Back to the natural rate of unemployment: 
+- … a change in unemployment has a **bigger effect on inflation**
 
-**==> picture [112 x 49] intentionally omitted <==**
+- Why?
 
-**----- Start of picture text -----**<br>
-m + z<br>u =<br>n<br><br>**----- End of picture text -----**<br>
+- Without wage indexation, when unemployment decreases, wages raise and prices as well; but then, because wages do not respond to prices right away (need to revise expectations and renegotiate), there is no further increase in prices within the year
 
+- With wage indexation, an increase in prices leads to a further increase in wages (some workers get a raise automatically, with no bargaining), which in turn leads to a further increases in wages and so on…
 
-## : Factors raising un 
+## Deflation and the Phillips curve
 
-- _**z**_ 
+- When low inflation or deflation occurs, the Phillips curve breaks down
 
-- **Labor market rigidities (high ):** 
+- One possible reason is the reluctance of workers to accept cuts in nominal wages: **downward nominal wage rigidity**
 
-   - high minimum wages 
+- This has happened in the US during the Great Depression and, to a lesser extent, during the Great Recession in a number of countries:
 
-   - high unemployment benefits 
+- Given the high unemployment rate, the inflation rate was surprisingly high
 
-   - strict employment protection legislation (high layoffs costs) 
+- Put it differently, given the high unemployment rate, we would have expected a large deflation rate, while deflation was limited
 
-- _**m**_ 
+## Distribution of real wage changes in Portugal, in times of high and low inflation
 
-- **Low degree of product market competition (high )** 
+- In 1984, inflation was 27%, and the distribution of real wage changes was roughly symmetric
 
-- The factors that affect the natural rate of unemployment, _m_ and _z_ , **differ across countries** and **over time** 
+- In 2012, the inflation rate was just 2.1%, and the distribution of real wage changes was bunched at zero, with nearly no negative real wage changes
 
-- There is no reason to expect all countries to have the same natural rate of unemployment 
-
-- The natural rate of unemployment of one country may also vary over time as _m_ and _z_ may vary, though slowly 
-
-- The natural rate of unemployment is higher in Europe than in the US 
-
-- In Europe the natural rate of unemployment has greatly increased since the 1960s 
-
-- In the US the natural rate of unemployment increased from the 1960s to the 1980s and appears to have decreased since then 
-
-# **The natural rate of unemployment in some European countries** 
-
-**==> picture [647 x 224] intentionally omitted <==**
-
-## **High inflation, wage indexation and the Phillips curve** 
-
-- So far, workers form expectations about inflation and then wait for their next chance to renegotiate their contracts 
-
-   - When inflation is higher than expected, wages are too low and they ask for more 
-
-   - When inflation is lower than expected, wages are too high and employers renegotiate a lower wage 
-
-- But what if inflation is **high and volatile** ? 
-
-   - Then workers and firms become reluctant to enter into labor contracts that set nominal wages for long time, as workers (firms) may experience large losses if inflation turns out to be much higher (lower) than expected 
-
-   - **Wage indexation** becomes prevalent 
-
-## **Wage indexation** 
-
-- Wage indexation allows wages to adjust to inflation automatically (no need to bargain) 
-
-- Let’s fit this into the Phillips curve: 
-
-   - Assume that a **fraction** 𝛌 of contracts is **automatically renegotiated** 
-
-   - So every year a fraction 𝜆 of wages **moves together with inflation** 
-
-## **The Phillips curve with wage indexation** 
-
-- The Phillips curve with indexation becomes: 
-
-**==> picture [317 x 94] intentionally omitted <==**
-
-- Assume 
-
-**==> picture [76 x 21] intentionally omitted <==**
-
-- Then obtain 
-
-**==> picture [277 x 25] intentionally omitted <==**
-
-## • We have 
-
-**==> picture [276 x 26] intentionally omitted <==**
-
-## • This can be rearranged as 
-
-**==> picture [276 x 26] intentionally omitted <==**
-
-## • And finally as 
-
-**==> picture [342 x 83] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-<br> t =  t − 1 − ( ut − un )<br>−<br>1 <br>**----- End of picture text -----**<br>
-
-
-## **Phillips curve with indexed wages** 
-
-**==> picture [264 x 51] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-<br> =  − − u − u<br>t t 1 ( t n )<br>−<br>1 <br>**----- End of picture text -----**<br>
-
-
-## • When a high fraction of wages is indexed ( 𝜆 is high)… 
-
-- … a change in unemployment has a **bigger effect on inflation** 
-
-- Why? 
-
-   - Without wage indexation, when unemployment decreases, wages raise and prices as well; but then, because wages do not respond to prices right away (need to revise expectations and renegotiate), there is no further increase in prices within the year 
-
-   - With wage indexation, an increase in prices leads to a further increase in wages (some workers get a raise automatically, with no bargaining), which in turn leads to a further increases in wages and so on… 
-
-## **Deflation and the Phillips curve** 
-
-- When low inflation or deflation occurs, the Phillips curve breaks down 
-
-- One possible reason is the reluctance of workers to accept cuts in nominal wages: **downward nominal wage rigidity** 
-
-- This has happened in the US during the Great Depression and, to a lesser extent, during the Great Recession in a number of countries: 
-
-   - Given the high unemployment rate, the inflation rate was surprisingly high 
-
-   - Put it differently, given the high unemployment rate, we would have expected a large deflation rate, while deflation was limited 
-
-## **Distribution of real wage changes in Portugal, in times of high and low inflation** 
-
-**==> picture [336 x 189] intentionally omitted <==**
-
-**==> picture [327 x 189] intentionally omitted <==**
-
-- In 1984, inflation was 27%, and the distribution of real wage changes was roughly symmetric 
-
-- In 2012, the inflation rate was just 2.1%, and the distribution of real wage changes was bunched at zero, with nearly no negative real wage changes 
-
+## Related Notes
+- [[L12 Phillips Curve]]
+- [[Trigari_06(Chapter 7)]]
+- [[L12 Labor Market]]

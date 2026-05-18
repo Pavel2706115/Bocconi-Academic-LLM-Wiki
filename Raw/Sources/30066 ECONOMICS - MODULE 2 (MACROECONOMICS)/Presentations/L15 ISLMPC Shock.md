@@ -1,642 +1,520 @@
-## **30066 – MACROECONOMICS** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "MONETARY POLICY AND NEUTRALITY OF MONEY"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**(8 CFU) CLASS : BIEM 14 & 19 2024 – 25** 
+## 30066 – MACROECONOMICS
 
-**Lecture 15 (Ch. 9 )** The _IS-LM-PC_ model: demand and supply shocks 
+**(8 CFU) CLASS: BIEM 14 & 19 2024 – 25**
 
-M I C H E L A B R A G A 
+**Lecture 15 (Ch. 9 )** The _IS-LM-PC_ model: demand and supply shocks
 
-## WHERE WE ARE 
+## WHERE WE ARE
 
-## **Fundamentals** 
+## Fundamentals
 
-## **Extensions** 
+## Extensions
 
-1. Macroeconomic variables 
+1. Macroeconomic variables
 
-   - Elements of national accounting 
+- Elements of national accounting
 
-## 2. The short run 
+## 2. The short run
 
-1. Goods markets 
+1. Goods markets
 
-2. Financial markets 
+2. Financial markets
 
-         4. Expectations, financial markets, and economic policies 
+4. Expectations, financial markets, and economic policies
 
-            1. Financial markets and expectations 
+1. Financial markets and expectations
 
-            2. Consumption, investment, and expectations 
+2. Consumption, investment, and expectations
 
-            3. Output, economic policies, and expectations 
+3. Output, economic policies, and expectations
 
-      1. Without commercial banks 
+1. Without commercial banks
 
-      2. With commercial banks 
+2. With commercial banks
 
-   3. IS-LM model 
+3. IS-LM model
 
-3. The medium run 
+3. The medium run
 
-   1. Labor market 
+1. Labor market
 
-   2. Phillips curve 
+2. Phillips curve
 
-   3. IS-LM-PC model 
+3. IS-LM-PC model
 
-      1. Medium and short run equilibrium 2. Demand and supply shock 
+1. Medium and short run equilibrium 2. Demand and supply shock
 
-5. Open economy 
+5. Open economy
 
-   1. Exchange rates, trade, and international returns 
+1. Exchange rates, trade, and international returns
 
-   2. Goods markets in an open economy 
+2. Goods markets in an open economy
 
-   3. Financial markets and economic policies in an open economy 
+3. Financial markets and economic policies in an open economy
 
-6. Public debt and fiscal policy 
+6. Public debt and fiscal policy
 
-7. From the Great Recession to Quantitative Tightening 
+7. From the Great Recession to Quantitative Tightening
 
-   - From a housing crisis to a financial crisis 
+- From a housing crisis to a financial crisis
 
-   - Unconventional monetary policies 
+- Unconventional monetary policies
 
-2 
+## = Expectations are well anchored to the CB target 𝜋𝜋(𝑒𝑒) �𝜋𝜋
 
-## = Expectations are well anchored to the CB target 𝜋𝜋[𝑒𝑒] �𝜋𝜋 
+𝐼: 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑥𝑥+ 𝐺𝐺
 
-𝐼 : 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑥𝑥+ 𝐺𝐺 
+## MEDIUM RUN EQUILIBRIUM
 
-**==> picture [594 x 385] intentionally omitted <==**
+All markets (goods, financial, labor) are in equilibrium and expectations are correct => the economy is at its  potential with no output gap
 
-**----- Start of picture text -----**<br>
-𝐿 :<br>𝑟𝑟= ̅𝑟𝑟<br>𝑟𝑟 𝛼𝛼<br>𝑃𝑃𝐶𝐶: Δ�𝜋𝜋= 𝑌𝑌−𝑌𝑌𝑛𝑛<br>𝐿𝐿<br>N<br>𝐿<br>�𝑟𝑟𝑛𝑛<br>The economy is in a medium-run<br>equilibrium: point N<br>𝐼 𝐼 ∩𝐿 at  𝑌𝑌𝑛𝑛<br>𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛<br>𝑌𝑌𝑛𝑛 𝑌𝑌<br>Δ𝜋𝜋= 𝜋𝜋−�𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>Inflation is at the target<br>N Δ�𝜋𝜋= 0 ↔𝜋𝜋= �𝜋𝜋<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛, Δ𝜋𝜋(𝑒𝑒) = 0 = Expectations are well anchored to the CB target 𝜋𝜋(𝑒𝑒) �𝜋𝜋 Shocks can hit the economy
 
+## SHORT RUN SHOCKS
 
-## **MEDIUM RUN EQUILIBRIUM** 
+Demand shocks: no effect on 𝑌𝑌𝑛𝑛 and real effects are only temporary Supply shocks: effect on 𝑌𝑌𝑛𝑛 and produce permanent effects also in the medium run
 
-All markets (goods, financial, labor) are in equilibrium and expectations are correct => the economy is at its  potential with no output gap 
+## FISCAL POLICY
 
-𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛, Δ𝜋𝜋[𝑒𝑒] = 0 = Expectations are well anchored to the CB target 𝜋𝜋[𝑒𝑒] �𝜋𝜋 Shocks can hit the economy 
+The Government implements an expansionary fiscal policy investing in public schools The CB keeps the interest rate constant
 
-## **SHORT RUN SHOCKS** 
+- What is the impact of such an intervention in the short run and in the medium run?
 
-Demand shocks: no effect on 𝑌𝑌𝑛𝑛 and real effects are only temporary Supply shocks: effect on 𝑌𝑌𝑛𝑛 and produce permanent effects also in the medium run 
+- What about the level and the composition of demand?
 
-## **FISCAL POLICY** 
+## Initial medium-run equilibrium: point N
 
-The Government implements an expansionary fiscal policy investing in public schools The CB keeps the interest rate constant 
+Government invests in public schools Fiscal expansion: 𝐺𝐺↑
 
-- What is the impact of such an intervention in the short run and in the medium run? 
+- 𝐺𝐺↑⇒𝑍𝑍↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑: 𝐼 right - LM does not change
 
-- What about the level and the composition of demand? 
+Short-run equilibrium: 1 The economy goes above its potential 𝑌𝑌↑, 𝑖𝑖=, ̅𝑟𝑟=
 
-## Initial medium-run equilibrium: point N 
+## What happens to the inflation rate?
 
-Government invests in public schools Fiscal expansion: 𝐺𝐺↑ 
+## In the short run the economy moves from N → 1 (short run equilibrium)
 
-**==> picture [257 x 362] intentionally omitted <==**
+Government invests in public schools Fiscal expansion: 𝐺𝐺↑
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>1<br>𝑁𝑁 𝐿<br>�𝑟𝑟𝑛𝑛<br>𝐼<br>1<br>𝐼<br>𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌<br>Δ𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+## What happens to the inflation rate?
 
+Since 𝑢𝑢↓ , W growth ↑⇒Δ𝜋𝜋> 0 Current inflation is higher than expected
 
-- 𝐺𝐺↑⇒𝑍𝑍↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑: 𝐼 right - LM does not change 
+Inflation is above the CB target but constant: 𝜋𝜋> �𝜋𝜋
 
-Short-run equilibrium: 1 The economy goes above its potential 𝑌𝑌↑, 𝑖𝑖=, ̅𝑟𝑟= 
+## How can the CB bring inflation back to the target?
 
-## _What happens to the inflation rate?_ 
+To control inflation, the CB must increase nominal interest rate so that also the real one increases
 
-## In the short run the economy moves from N → 1 (short run equilibrium) 
+𝐿 up
 
-Government invests in public schools Fiscal expansion: 𝐺𝐺↑ 
+i ↑ and 𝑟𝑟↑⇒𝐼𝐼↓⇒𝑍𝑍↓𝑌𝑌↓∶ along the 𝐼
 
-**==> picture [273 x 362] intentionally omitted <==**
+Medium-run equilibrium: N’ 𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑟𝑟= �𝑟𝑟𝑛𝑛′, Δ𝜋𝜋= 0
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>1<br>N 𝐿<br>�𝑟𝑟𝑛𝑛<br>𝐼<br>1<br>𝐼<br>𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌<br>Δ𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>Δ𝜋𝜋> 0<br>1<br>N<br>0<br>𝑌𝑌<br>𝑌𝑌1<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+Inflation at the CB target: 𝜋𝜋= �𝜋𝜋
 
+## EFFECTS
 
-## _What happens to the inflation rate?_ 
+## SHORT RUN
 
-Since 𝑢𝑢↓ , W growth ↑⇒Δ𝜋𝜋> 0 Current inflation is higher than expected 
+## MEDIUM RUN
 
-Inflation is above the CB target but constant: 𝜋𝜋> �𝜋𝜋 
+– 𝑌𝑌↑, ̅𝚤𝚤=, ̅𝑟𝑟=, 𝑢𝑢↓ – 𝛥𝛥𝜋𝜋> 0, 𝜋𝜋> �𝜋𝜋
 
-## _How can the CB bring inflation back to the target?_ 
+– 𝜋𝜋 constant above the CB target
 
-**==> picture [273 x 362] intentionally omitted <==**
+– 𝑌𝑌= 𝑌𝑌𝑛𝑛 , 𝑢𝑢= 𝑢𝑢𝑛𝑛 , �𝒓𝒓𝐧𝐧(′) – Δ𝜋𝜋= 0 , 𝜋𝜋= �𝜋𝜋 – 𝜋𝜋 constant at the CB target
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>N’<br>𝐿<br>2<br>�𝒓𝒓𝒏𝒏 [′]<br>1<br>N 𝐿<br>�𝑟𝑟𝑛𝑛<br>𝐼<br>1<br>𝐼<br>𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌<br>Δ𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>Δ𝜋𝜋> 0<br>1<br>N’<br>N<br>0<br>𝑌𝑌<br>𝑌𝑌1<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+_Is fiscal policy neutral in the medium run? Do components of aggregate demand change?_
 
+## ECONOMIC INTUITION
 
-To control inflation, the CB must increase nominal interest rate so that also the real one increases 
+## SHORT RUN
 
-𝐿 up 
+- In the short run, on the goods market, the increase in public expenditure increases demand and, through the multiplier, income.
 
-i ↑ and 𝑟𝑟↑⇒𝐼𝐼↓⇒𝑍𝑍↓𝑌𝑌↓∶ along the 𝐼 
+- The higher income in the financial markets increases money demand given the higher level of real transactions for goods an services. To keep the interest constant the CB increases the money supply.
 
-Medium-run equilibrium: N’ 𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑟𝑟= �𝑟𝑟𝑛𝑛′, Δ𝜋𝜋= 0 
+- The nominal interest rate dos not change and, given expected inflation, also the real one stays constant.
 
-Inflation at the CB target : 𝜋𝜋= �𝜋𝜋 
+- The increase in output, increases employment and reduces unemployment.
 
-## EFFECTS 
+- Workers have more bargaining power and nominal wages grow as well as firms production costs.
 
-## **SHORT RUN** 
+- To maximize their profits firms charge higher prices and inflation raises above the CB target.
 
-## **MEDIUM RUN** 
+## MEDIUM RUN
 
-– 𝑌𝑌↑, ̅𝚤𝚤=, ̅𝑟𝑟=, 𝑢𝑢↓ – 𝛥𝛥𝜋𝜋> 0, 𝜋𝜋> �𝜋𝜋 
+- To keep inflation at the target level over the medium run the CB has to intervene and, in order to close the positive output gap, a contractionary monetary policy has to be implemented
+*(See also: [[L13 & L14 ISLMPC#^th3mwv]])*
 
-– 𝜋𝜋 constant above the CB target 
+- The CB sells bonds, on the bonds market the price of bond decreases and, given their face value, their nominal return increases.
 
-– 𝑌𝑌= 𝑌𝑌𝑛𝑛 , 𝑢𝑢= 𝑢𝑢𝑛𝑛 , �𝒓𝒓𝐧𝐧[′] – Δ𝜋𝜋= 0 , 𝜋𝜋= �𝜋𝜋 – 𝜋𝜋 constant at the CB target 
+- The higher policy rate, given expectations, increases the real interest rate
 
-_Is fiscal policy neutral in the medium run? Do components of aggregate demand change?_ 
+- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income
 
-## ECONOMIC INTUITION 
+- The decrease in GDP has an effect on the labor market where  workers bargaining power with respect to firms decreases, since employment decreases and unemployment increases ^f7uroz
 
-## **SHORT RUN** 
+- Bargained nominal wages decrease thus reducing firms production costs.
 
-- In the short run, on the goods market, the increase in public expenditure increases demand and, through the multiplier, income. 
+- Firms can maximize their profits by charging lower prices
 
-- The higher income in the financial markets increases money demand given the higher level of real transactions for goods an services. To keep the interest constant the CB increases the money supply. 
+- The inflation rate decreases up to the CB target
 
-   - The nominal interest rate dos not change and, given expected inflation, also the real one stays constant. 
+- The economy is back at its potential with no output gap
 
-- The increase in output, increases employment and reduces unemployment. 
+## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN
 
-   - Workers have more bargaining power and nominal wages grow as well as firms production costs. 
+## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN
 
-   - To maximize their profits firms charge higher prices and inflation raises above the CB target. 
+In the new medium-run equilibrium:
 
-## **MEDIUM RUN** 
+𝑌𝑌= 𝑌𝑌𝑛𝑛 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑
 
-- To keep inflation at the target level over the medium run the CB has to intervene and, in order to close the positive output gap, a contractionary monetary policy has to be implemented 
+𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺
 
-   - The CB sells bonds, on the bonds market the price of bond decreases and, given their face value, their nominal return increases. 
+𝑍𝑍𝑛𝑛 = aggregate demand
 
-   - The higher policy rate, given expectations, increases the real interest rate 
+Since 𝑌𝑌 constant ⇒ constant level of aggregate 𝑛𝑛 demand
 
-- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income 
+## BUT
 
-- The decrease in GDP has an effect on the labor market where  workers bargaining power with respect to firms decreases, since employment decreases and unemployment increases 
+The **composition** of demand is **different** since: _Fiscal policy is_ _**not neutral** in_ 𝐶𝐶= _the medium run:_ 𝐼𝐼↓ _it has real effects even in the_ 𝐺𝐺↑ _medium run_
 
-   - Bargained nominal wages decrease thus reducing firms production costs. 
+## SUMMARY
 
-   - Firms can maximize their profits by charging lower prices 
+Impact of an expansionary fiscal policy
 
-   - The inflation rate decreases up to the CB target 
+- Only temporary effect on income
 
-- The economy is back at its potential with no output gap 
+- But permanent effect on the composition of demand (non neutrality in the medium run)
 
-## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN 
+## SUPPLY SHOCKS
 
-**==> picture [560 x 393] intentionally omitted <==**
+Structural shocks that change permanently the potential output
 
-**----- Start of picture text -----**<br>
-𝐺𝐺↑ : increase in demand of goods and<br>services<br>GOODS MARKET<br>𝑍𝑍 moves to the right<br>𝑟𝑟<br>𝒓𝒓𝒏𝒏 [′] N’ 𝑌𝑌= 𝑌𝑌𝑛𝑛 𝐵 𝑇𝑇𝑟𝑟𝑛𝑛 ↑<br>𝒓𝒓𝒏𝒏 N<br>𝑍𝑍1<br>𝑍𝑍<br>𝒀𝒀𝒏𝒏 𝑌𝑌<br>**----- End of picture text -----**<br>
+- => Structural reforms of the economy that change
 
+- Competition
 
-## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN 
+- Labor market institutions
 
-In the new medium-run equilibrium: 
+- Productivity
 
-𝑌𝑌= 𝑌𝑌𝑛𝑛 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑ 
+- Costs of production
 
-𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺 
+…
 
-𝑍𝑍𝑛𝑛 = aggregate demand 
+Affect the PC
 
-Since 𝑌𝑌 constant ⇒ constant level of aggregate 𝑛𝑛 demand 
+## OIL SHOCK
 
-## **BUT** 
+Sudden surge in oil prices
 
-The **composition** of demand is **different** since: _Fiscal policy is_ _**not neutral** in_ 𝐶𝐶= _the medium run:_ 𝐼𝐼↓ _it has real effects even in the_ 𝐺𝐺↑ _medium run_ 
+Assumption: no direct impact on demand for goods and services The CB keeps the interest rate constant
 
-## SUMMARY 
+- What is the impact of such an intervention in the short run and in the medium run?
 
-Impact of an expansionary fiscal policy 
+- What about the level and the composition of demand?
 
-- Only temporary effect on income 
+## THE OIL SHOCK
 
-- But permanent effect on the composition of demand (non neutrality in the medium run) 
+- Oil is a raw material for all the firms
 
-## _**SUPPLY SHOCKS**_ 
+- In our model we do not consider the cost of raw materials
 
-Structural shocks that change permanently the potential output 
+- How can we represent this shock in our model?
 
-- => Structural reforms of the economy that change 
+- If the price of raw materials increases:
 
-   - Competition 
+- The marginal production cost increases, given wages
 
-   - Labor market institutions 
+- Firms increase prices
 
-   - Productivity 
+- We can say that the parameter 𝒎𝒎 **increases**
 
-   - Costs of production 
+The equilibrium of the labor market changes: 𝑢𝑢𝑛𝑛 and 𝑌𝑌𝑛𝑛 change
 
-… 
+**Structural change**
 
-Affect the PC 
+## IMPACT ON THE LABOR MARKET
 
-## **OIL SHOCK** 
+## NEW POTENTIAL LEVELS
 
-Sudden surge in oil prices 
+- The natural rate of unemployment rises: 𝑢𝑢𝑛𝑛 ↑
 
-Assumption: no direct impact on demand for goods and services The CB keeps the interest rate constant 
+- Potential GDP declines: 𝑌𝑌𝑛𝑛 ↓
 
-- What is the impact of such an intervention in the short run and in the medium run? 
+𝑢𝑢𝑛𝑛(′) > 𝑢𝑢𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛(′) < 𝑌𝑌𝑛𝑛
 
-- What about the level and the composition of demand? 
+- No effect on actual output
 
-## THE OIL SHOCK 
+**…BUT…** a positive output gap arises: the economy goes above the new potential
 
-- Oil is a raw material for all the firms 
+## Which curve is affected in the IS-LM – PC graph?
 
-- In our model we do not consider the cost of raw materials 
+Initial medium-run equilibrium: point 0
 
-- How can we represent this shock in our model? 
+## NEGATIVE SUPPLY SHOCK: short run
 
-- If the price of raw materials increases: 
+_What happens to the short run equilibrium?_
 
-   - The marginal production cost increases, given wages 
+𝐼 and 𝐿 don’t move: 𝑝 𝑖𝑖𝑎𝑎𝑝𝑝1 ≡𝑝 𝑖𝑖𝑎𝑎𝑝𝑝𝑁𝑁 Y does not change **BUT** 𝑌𝑌1 > 𝑌𝑌𝑛𝑛(′) ⇒Δ𝜋𝜋> 0 Inflation increases and goes above the CB target: 𝜋𝜋> �𝜋𝜋 1 = short run equilibrium
 
-   - Firms increase prices 
+## Adjustment to the MR
 
-   - We can say that the parameter 𝒎𝒎 **increases** 
+_How does the economy adjust to the_ _**medium run** ?_
 
-The equilibrium of the labor market changes: 𝑢𝑢𝑛𝑛 and 𝑌𝑌𝑛𝑛 change 
+The CB must increase _i_ to increase 𝑟𝑟 in order to reduce 𝑌𝑌 up to 𝑌𝑌𝑛𝑛(′)
 
-**Structural change** 
+Medium-run equilibrium:N’ ↓𝑌𝑌= 𝑌𝑌𝑛𝑛′ ↑𝑟𝑟= �𝑟𝑟𝑛𝑛′ Δ𝜋𝜋= 0 Inflation at the CB target: 𝜋𝜋= �𝜋𝜋
 
-## IMPACT ON THE LABOR MARKET 
+What happens to rn? We need to study the Zn Yn graph
 
-**==> picture [638 x 432] intentionally omitted <==**
+The structural shock decreases 𝑌𝑌𝑛𝑛
 
-**----- Start of picture text -----**<br>
-𝑊𝑊<br>𝑊𝑊𝐼𝐼:<br>− [, 𝑧𝑧]<br>+ [)]<br>𝑃𝑃 [= 𝐹𝐹(𝑢𝑢]<br>𝑊𝑊 𝐴𝐴<br>𝑃𝑃𝐼𝐼:<br>𝑊𝑊 𝑃𝑃 [=] 1 + 𝑚𝑚<br>𝑚𝑚↑<br>𝑃𝑃<br>Which curve is affected?<br>PS  down<br>N 𝑃𝑃𝐼𝐼<br>𝐴𝐴<br>m ↑⇒ given W,  MC ↑ (1 + 𝑚𝑚)<br>N’<br>W<br>⇒P ↑⇒↓ 𝑃𝑃𝐼𝐼1<br>P [paid firms to ]<br>max profits<br>𝑊𝑊𝐼𝐼<br>More frictions in the labor<br>market and to induce workers to<br>accept a lower real wage  𝒖𝒖𝒏𝒏 ↑ 𝑢𝑢𝑛𝑛 𝑢𝑢′𝑛𝑛 𝑢𝑢<br>and  𝒀𝒀𝒏𝒏 ↓<br>**----- End of picture text -----**<br>
+As a result 𝑟𝑟𝑛𝑛 ↑ since on the goods market there is an excess demand and to clear the market is necessary to reduce demand in the medium run
 
+## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN
 
-## NEW POTENTIAL LEVELS 
+In the new medium-run equilibrium:
 
-- The natural rate of unemployment rises: 𝑢𝑢𝑛𝑛 ↑ 
+𝑌𝑌𝑛𝑛 ↓ 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺
 
-- Potential GDP declines: 𝑌𝑌𝑛𝑛 ↓ 
+𝑍𝑍𝑛𝑛 = aggregate demand
 
-𝑢𝑢𝑛𝑛[′] > 𝑢𝑢𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛[′] < 𝑌𝑌𝑛𝑛 
+Since 𝑌𝑌 decrease ⇒ also the level of aggregate 𝑛𝑛 demand decreases
 
-- No effect on actual output 
+## AND
 
-**…BUT…** a positive output gap arises: the economy goes above the new potential 
+The **composition** of demand is **different** since: 𝐶𝐶↓ 𝐼𝐼↓ 𝐺𝐺=
 
-## Which curve is affected in the IS-LM – PC graph? 
+_Supply shock is_ _**not neutral** in the medium run: it has real permanent effects on level and composition_
 
-**==> picture [318 x 420] intentionally omitted <==**
+## NEGATIVE SUPPLY SHOCK: adjustment to the MR
 
-**----- Start of picture text -----**<br>
-𝑚𝑚↑ P ↑(π ↑)𝑌𝑌𝑛𝑛 ↓<br>𝑟𝑟<br>𝐿<br>N<br>̅𝑟𝑟𝑛𝑛<br>𝑌𝑌𝑛𝑛<br>𝐼<br>𝑌𝑌<br>𝑃𝑃𝐶𝐶′<br>Δ𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>N<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′] 𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+In the reality the adjustment is gradual
 
+_What happens during the adjustment process?_ 𝑌𝑌↓ & Δ𝜋𝜋> 0
 
-Initial medium-run equilibrium: point 0 
+**STAGFLATION!!!**
 
-**==> picture [282 x 187] intentionally omitted <==**
+## ECONOMIC INTUITION
 
-**----- Start of picture text -----**<br>
-𝐼 :<br>𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑥𝑥+ 𝐺𝐺<br>𝐿 :<br>𝑟𝑟= ̅𝑟𝑟<br>𝛼𝛼<br>−<br>𝑃𝑃𝐶𝐶: Δ𝜋𝜋= 𝑌𝑌 𝒀𝒀′𝒏𝒏<br>𝐿𝐿<br>the PC shifts left/up<br>**----- End of picture text -----**<br>
+## SHORT RUN
 
+- In the short run, on the products market, firms charge higher prices. This reduces the real wage that maximizes their profits.
 
-## NEGATIVE SUPPLY SHOCK: short run 
+- There is a positive gap between the real wage asked by workers and the one firms are willing to pay and this increases frictions in the labor market.
 
-**==> picture [304 x 381] intentionally omitted <==**
+- Unemployed workers look for a job less intensively
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>𝐿<br>N = 1<br>̅𝑟𝑟𝑛𝑛<br>𝑌𝑌𝑛𝑛<br>𝐼<br>𝑌𝑌<br>𝑃𝑃𝐶𝐶′<br>Δ𝜋𝜋<br>1<br>Δ𝜋𝜋> 0<br>𝑃𝑃𝐶𝐶<br>N<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′] 𝑌𝑌𝑛𝑛<br>Positive O.G.<br>**----- End of picture text -----**<br>
+- The unemployment rate in the medium run increases while potential output decreases
 
+- Current output does not change, but the economy is above the new potential.
 
-_What happens to the short run equilibrium?_ 
+- The price level is higher in the short run as well as the inflation rate that goes above the CB target.
 
-𝐼 and 𝐿 don’t move: 𝑝 𝑖𝑖𝑎𝑎𝑝𝑝1 ≡𝑝 𝑖𝑖𝑎𝑎𝑝𝑝𝑁𝑁 Y does not change **BUT** 𝑌𝑌1 > 𝑌𝑌𝑛𝑛[′] ⇒Δ𝜋𝜋> 0 Inflation increases and goes above the CB target: 𝜋𝜋> �𝜋𝜋 1 = short run equilibrium 
+## MEDIUM RUN
 
-## Adjustment to the MR 
+- To keep inflation at the target level over the medium run the CB has to intervene and, in order to close the positive output gap, a contractionary monetary policy has to be implemented
 
-**==> picture [304 x 362] intentionally omitted <==**
+- The CB sells bonds, on the bonds market the price of bond decreases and, given their face value, their nominal return increases.
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>N’<br>̅𝑟𝑟𝑛𝑛 ’ 𝐿 2<br>N = 1<br>̅𝑟𝑟𝑛𝑛 𝐿<br>𝑌𝑌𝑛𝑛<br>𝐼<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′]<br>𝑃𝑃𝐶𝐶′<br>Δ𝜋𝜋<br>1<br>Δ𝜋𝜋> 0<br>𝑃𝑃𝐶𝐶<br>N<br>N’<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′] 𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+- The higher policy rate, given expectations, increases the real interest rate
 
+- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income
 
-_How does the economy adjust to the_ _**medium run** ?_ 
+- The decrease in GDP has an effect on the labor market where  workers bargaining power with respect to firms decreases, since employment decreases and unemployment increases
 
-The CB must increase _i_ to increase 𝑟𝑟 in order to reduce 𝑌𝑌 up to 𝑌𝑌𝑛𝑛[′] 
+- Bargained nominal wages decrease thus reducing firms production costs.
 
-Medium-run equilibrium:N’ ↓𝑌𝑌= 𝑌𝑌𝑛𝑛′ ↑𝑟𝑟= �𝑟𝑟𝑛𝑛′ Δ𝜋𝜋= 0 Inflation at the CB target : 𝜋𝜋= �𝜋𝜋 
+- Firms can maximize their profits by charging lower prices
 
-What happens to rn? We need to study the Zn Yn graph 
+- The inflation rate decreases up to the CB target
 
-**==> picture [317 x 353] intentionally omitted <==**
+- The economy is back at its new lower potential with no output gap
 
-**----- Start of picture text -----**<br>
-GOODS MARKET<br>𝑟𝑟<br>N’<br>𝒓𝒓𝒏𝒏 [′]<br>𝒓𝒓𝒏𝒏 N<br>𝑍𝑍<br>𝒀𝒀𝒏𝒏′ 𝒀𝒀𝒏𝒏 𝑌𝑌<br>**----- End of picture text -----**<br>
+## SUMMARY
 
+Impact of a negative supply shock
 
-The structural shock decreases 𝑌𝑌𝑛𝑛 
+- Actual income does not change but current inflation changes
 
-As a result 𝑟𝑟𝑛𝑛 ↑ since on the goods market there is an excess demand and to clear the market is necessary to reduce demand in the medium run 
+- Structural changes in the labor market that are permanent
 
-## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN 
+- Potential income changes but in the medium rum inflation is bring back to the target and expectation are correct
 
-In the new medium-run equilibrium: 
+- Permanent effect on the composition of demand (non neutrality in the medium run)
 
-𝑌𝑌𝑛𝑛 ↓ 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺 
+## DEMAND VS. SUPPLY SHOCKS
 
-𝑍𝑍𝑛𝑛 = aggregate demand 
+- Demand shocks: only temporary effects in the short run since in the medium run income does not change
 
-Since 𝑌𝑌 decrease ⇒ also the level of aggregate 𝑛𝑛 demand decreases 
+- Positive demand shock in SR , in MR
 
-## **AND** 
+- Negative demand shock in SR , in MR
 
-The **composition** of demand is **different** since: 𝐶𝐶↓ 𝐼𝐼↓ 𝐺𝐺= 
+- Supply shocks: also permanent effects since income changes in the medium run
 
-_Supply shock is_ _**not neutral** in the medium run: it has real permanent effects on level and composition_ 
+– Negative supply shock in SR , in MR
 
-## NEGATIVE SUPPLY SHOCK: adjustment to the MR 
+- Positive supply shock in SR 𝑌𝑌= , in MR
 
-**==> picture [304 x 362] intentionally omitted <==**
+## **IS-LM-PC:** _**ZLB AND DEFLATION SPIRAL**_
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>N’<br>̅𝑟𝑟𝑛𝑛 ’ 𝐿 2<br>𝐿<br>N = 1<br>̅𝑟𝑟𝑛𝑛<br>𝑌𝑌𝑛𝑛<br>𝐼<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′]<br>𝑃𝑃𝐶𝐶′<br>Δ𝜋𝜋<br>1<br>Δ𝜋𝜋> 0<br>𝑃𝑃𝐶𝐶<br>N’ N<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 [′] 𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+Why do Central Banks target a positive inflation rate?
 
+1. _zero_ Constraints on monetary policy when the economy is at the _lower bound_
 
-In the reality the adjustment is gradual 
+2. To avoid deflation spiral or deflation trap
 
-_What happens during the adjustment process?_ 𝑌𝑌↓ & Δ𝜋𝜋> 0 
+- Imagine a very extreme situation
 
-**STAGFLATION!!!** 
+- The economy is in a medium-run equilibrium at the _zero-lower bound_ with no inflation
 
-## ECONOMIC INTUITION 
+## Expactations are fully adaptive
 
-## **SHORT RUN** 
+𝑖𝑖= 0 𝜋𝜋= 0 𝜋𝜋(𝑒𝑒) = 𝜋𝜋 𝑡𝑡−1
 
-- In the short run, on the products market, firms charge higher prices. This reduces the real wage that maximizes their profits. 
+- What happens if a negative demand shock hits the economy?
 
-- There is a positive gap between the real wage asked by workers and the one firms are willing to pay and this increases frictions in the labor market. 
+Below the potential 𝜋𝜋 ↓ over time
 
-   - Unemployed workers look for a job less intensively 
+## Initial medium-run equilibrium: point 0
 
-   - The unemployment rate in the medium run increases while potential output decreases 
+_What can the CB do to fight against the recession? Can the CB restore the medium run equilibrium?_
 
-- Current output does not change, but the economy is above the new potential. 
+In principle, the CB should move the 𝐿 down to intersect the IS where 𝑌𝑌= 𝑌𝑌𝑛𝑛
 
-- The price level is higher in the short run as well as the inflation rate that goes above the CB target. 
+Reduce 𝑖𝑖 to reduce 𝑟𝑟
 
-## **MEDIUM RUN** 
+**BUT the CB can’t:** 𝑖𝑖= 0
 
-- To keep inflation at the target level over the medium run the CB has to intervene and, in order to close the positive output gap, a contractionary monetary policy has to be implemented 
+_Conventional MP cannot generate an increase in GDP towards_ 𝑌𝑌𝑛𝑛
 
-   - The CB sells bonds, on the bonds market the price of bond decreases and, given their face value, their nominal return increases. 
+_Role of expectations:_ 𝑟𝑟↓ _if agents expected inflation_
 
-   - The higher policy rate, given expectations, increases the real interest rate 
+Conventional MP fails to move the economy to 𝑌𝑌𝑛𝑛
 
-- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income 
+_If the CB cannot intervene, what happens with adaptive expectations and_ 𝜋𝜋0 = 0?
 
-- The decrease in GDP has an effect on the labor market where  workers bargaining power with respect to firms decreases, since employment decreases and unemployment increases 
+Since 𝜋𝜋< 0: 𝜋𝜋(𝑒𝑒) ↓⇒𝜋𝜋(𝑒𝑒) < 0 𝑟𝑟= 𝑖𝑖−𝜋𝜋(𝑒𝑒) = 0 −𝜋𝜋(𝑒𝑒) > 0
 
-   - Bargained nominal wages decrease thus reducing firms production costs. 
+The LM shifts **upward** also in the CB does not do anything
 
-   - Firms can maximize their profits by charging lower prices 
+_**DEFLATION SPIRAL or TRAP**_
 
-   - The inflation rate decreases up to the CB target 
+## ZLB: Summary
 
-- The economy is back at its new lower potential with no output gap 
+- If the economy is at the _zero lower bound,_ conventional MP cannot have expansionary impact
 
-## SUMMARY 
+- In case of **deflation** , the economy may enter a **deflation spiral or trap**
 
-Impact of a negative supply shock 
+- The recession becomes more severe!!!
 
-- Actual income does not change but current inflation changes 
+- What can we do?
 
-- Structural changes in the labor market that are permanent 
+- Fiscal policy (but this has constraints too… )
 
-- Potential income changes but in the medium rum inflation is bring back to the target and expectation are correct 
+- Unconventional monetary policies
 
-- Permanent effect on the composition of demand (non neutrality in the medium run) 
+- Well anchored expectations
 
-## DEMAND VS. SUPPLY SHOCKS 
+# MONETARY POLICY AND NEUTRALITY OF MONEY
 
-- Demand shocks: only temporary effects in the short run since in the medium run income does not change 
+The CB cannot push the economy above/below the potential forever
 
-   - Positive demand shock in SR , in MR 
+Assume
 
-   - Negative demand shock in SR , in MR 
+- An economy at the medium run equilibrium
 
-- Supply shocks: also permanent effects since income changes in the medium run 
+- The Central Bank implements an expansionary monetary policy
 
-– Negative supply shock in SR , in MR 
+- Anchored expectations
 
-- Positive supply shock in SR 𝑌𝑌= , in MR 
+- (not relevant for main results)
 
-## **IS-LM-PC:** _**ZLB AND DEFLATION SPIRAL**_ 
+What is the impact in the short run? And in the medium run?
 
-Why do Central Banks target a positive inflation rate? 
+## IS-LM-PC: STARTING EQUILIBRIUM
 
-1. _zero_ Constraints on monetary policy when the economy is at the _lower bound_ 
+## IS-LM-PC: SHORT RUN
 
-2. To avoid deflation spiral or deflation trap 
+𝑟𝑟 0 𝐿 ̅𝑟𝑟 �𝑟𝑟1 1 𝐿 1 𝐼 𝜋𝜋−�𝜋𝜋 𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌 𝑃𝑃𝐶𝐶 0 0 𝑌𝑌 𝑌𝑌𝑛𝑛
 
-- Imagine a very extreme situation 
+Expansionary monetary policy:
 
-   - The economy is in a medium-run equilibrium at the _zero-lower bound_ with no inflation 
+CB buys bonds: 𝐿𝐿↑⇒̅𝚤𝚤↓ and ̅𝑟𝑟↓ 𝑳 ↓ ̅𝑟𝑟↓⇒𝐼𝐼↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑ Along the IS Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓ _What happens to the inflation rate?_
 
-   - 
+## IS-LM-PC: SHORT RUN
 
-## **Expactations are fully adaptive** 
+Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓: 𝑌𝑌> 𝑌𝑌 ⇒𝑢𝑢< 𝑢𝑢 𝑛𝑛 𝑛𝑛 𝑊𝑊 growth ↑⇒𝜋𝜋> �𝜋𝜋 Inflation goes above the CB target
 
-𝑖𝑖= 0 𝜋𝜋= 0 𝜋𝜋[𝑒𝑒] = 𝜋𝜋 𝑡𝑡−1 
+_How can the economy restore a medium run equilibrium?_
 
-- What happens if a negative demand shock hits the economy? 
+## IS-LM-PC: MEDIUM RUN
 
-**==> picture [524 x 232] intentionally omitted <==**
+Adjustment to the medium run?
 
-**----- Start of picture text -----**<br>
-∆𝜋𝜋 [𝑒𝑒] = 𝜋𝜋𝑡𝑡 −𝜋𝜋𝑡𝑡−1 𝑃𝑃𝐶𝐶<br>𝜋𝜋𝑡𝑡 > 𝜋𝜋𝑡𝑡−1<br>0 0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>𝜋𝜋𝑡𝑡 < 𝜋𝜋𝑡𝑡−1<br>Above the potential  𝜋𝜋 ↑ over time<br>**----- End of picture text -----**<br>
+## IS-LM-PC: EXPANSIONARY MP
 
+- **Short run**
 
-Below the potential 𝜋𝜋 ↓ over time 
+𝑌𝑌↑ ̅𝑟𝑟↓𝜋𝜋> �𝜋𝜋
 
-**==> picture [689 x 519] intentionally omitted <==**
+- **Medium run**
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>0 𝐿<br>̅𝑟𝑟𝑛𝑛 𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>𝐼<br>Δ𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+Note: if expectations were **adaptive inflation will be** constant, but at a higher value !!!
 
+– Between 0 and 2, no change in AD components
 
-## Initial medium-run equilibrium: point 0 
+_No impact of monetary policy on_ _**real** variables in the medium run_
 
-**==> picture [650 x 394] intentionally omitted <==**
+**Neutrality of money**
 
-**----- Start of picture text -----**<br>
-Banking system crisis:  𝑥𝑥↑<br>IS to LEFT:  recession<br>𝑌𝑌↓<br>𝑟𝑟<br>0 𝐿 𝑌𝑌1 < 𝑌𝑌𝑛𝑛 ⇒𝑢𝑢1 > 𝑢𝑢𝑛𝑛<br>̅𝑟𝑟𝑛𝑛 𝑌𝑌 ⇒𝑊𝑊 growth  ↓⇒Δ𝜋𝜋< 0<br>𝑌𝑌1 𝑌𝑌𝑛𝑛<br>𝐼<br>Given   𝜋𝜋0 = 0, 𝜋𝜋< 0<br>𝐼<br>1<br>DEFLATION!!!<br>𝜋𝜋𝑡𝑡 −𝜋𝜋𝑡𝑡−1 𝑃𝑃𝐶𝐶<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌1<br>𝑌𝑌𝑛𝑛<br>𝜋𝜋𝑡𝑡 < 𝜋𝜋𝑡𝑡−1<br>1 What can the CB do to fight against the<br>recession?<br>**----- End of picture text -----**<br>
+## Medium-run equilibrium: 𝒀𝒀𝒏𝒏 = 𝐶𝐶 𝒀𝒀𝒏𝒏 −𝑇𝑇+ 𝐼𝐼 𝒀𝒀𝒏𝒏, 𝒓𝒓𝒏𝒏 + 𝑥𝑥+ 𝐺𝐺
 
+## GOODS MARKET
 
-_What can the CB do to fight against the recession? Can the CB restore the medium run equilibrium?_ 
+𝑟𝑟
 
-**==> picture [300 x 362] intentionally omitted <==**
+No shifts in demand and supply Nor 𝑌𝑌𝑛𝑛 and ̅𝑟𝑟𝑛𝑛 change in the MR MONEY is NEUTRAL
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>0 𝐿<br>̅𝑟𝑟𝑛𝑛 𝑌𝑌<br>𝑌𝑌1 𝑌𝑌𝑛𝑛<br>𝐿<br>𝑛𝑛<br>𝐼<br>𝐼<br>1<br>𝜋𝜋𝑡𝑡 −𝜋𝜋𝑡𝑡−1 𝑃𝑃𝐶𝐶<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌1<br>𝑌𝑌𝑛𝑛<br>𝜋𝜋𝑡𝑡 < 𝜋𝜋𝑡𝑡−1<br>1<br>**----- End of picture text -----**<br>
+## Monetary policy: **NO real effects in the MR**
 
+- Only one variable affected: price level
 
-In principle, the CB should move the 𝐿 down to intersect the IS where 𝑌𝑌= 𝑌𝑌𝑛𝑛 
+- 𝜋𝜋 has grown during the SR
 
-Reduce 𝑖𝑖 to reduce 𝑟𝑟 
+- Over the medium run:
 
-**BUT the CB can’t:** 𝑖𝑖= 0 
+- If anchored expectations: 𝜋𝜋 goes back to initial value
 
-_Conventional MP cannot generate an increase in GDP towards_ 𝑌𝑌𝑛𝑛 
+𝒀𝒀𝒏𝒏
 
-_Role of expectations:_ 𝑟𝑟↓ _if agents expected inflation_ 
+𝑌𝑌
 
-**==> picture [301 x 364] intentionally omitted <==**
+- If adaptive expectations: 𝜋𝜋 constant at a higher value
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>2 𝐿<br>2<br>0<br>𝐿<br>̅𝑟𝑟𝑛𝑛 𝑌𝑌<br>𝑌𝑌2 𝑌𝑌1 𝑌𝑌𝑛𝑛<br>𝐼<br>𝐼<br>1<br>𝜋𝜋𝑡𝑡 −𝜋𝜋𝑡𝑡−1 𝑃𝑃𝐶𝐶<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌1<br>𝑌𝑌𝑛𝑛<br>𝜋𝜋𝑡𝑡 < 𝜋𝜋𝑡𝑡−1<br>1<br>2<br>**----- End of picture text -----**<br>
+**The monetary policy has real effects in the short run only**
 
-
-Conventional MP fails to move the economy to 𝑌𝑌𝑛𝑛 
-
-_If the CB cannot intervene, what happens with adaptive expectations and_ 𝜋𝜋0 = 0? 
-
-Since 𝜋𝜋< 0: 𝜋𝜋[𝑒𝑒] ↓⇒𝜋𝜋[𝑒𝑒] < 0 𝑟𝑟= 𝑖𝑖−𝜋𝜋[𝑒𝑒] = 0 −𝜋𝜋[𝑒𝑒] > 0 
-
-The LM shifts **upward** also in the CB does not do anything 
-
-_**DEFLATION SPIRAL or TRAP**_ 
-
-## ZLB: Summary 
-
-- If the economy is at the _zero lower bound,_ conventional MP cannot have expansionary impact 
-
-- In case of **deflation** , the economy may enter a **deflation spiral or trap** 
-
-   - The recession becomes more severe!!! 
-
-- What can we do? 
-
-   - Fiscal policy (but this has constraints too… ) 
-
-   - Unconventional monetary policies 
-
-   - Well anchored expectations 
-
-# **MONETARY POLICY AND NEUTRALITY OF MONEY** 
-
-The CB cannot push the economy above/below the potential forever 
-
-Assume 
-
-- An economy at the medium run equilibrium 
-
-- The Central Bank implements an expansionary monetary policy 
-
-- Anchored expectations 
-
-   - (not relevant for main results) 
-
-What is the impact in the short run? And in the medium run? 
-
-## IS-LM-PC: STARTING EQUILIBRIUM 
-
-**==> picture [582 x 367] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝐼 :<br>𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑥𝑥+ 𝐺𝐺<br>𝑟𝑟<br>𝐿 :<br>𝑟𝑟= ̅𝑟𝑟<br>0 𝐿 𝛼𝛼<br>̅𝑟𝑟𝑛𝑛 𝑃𝑃𝐶𝐶: 𝜋𝜋−�𝜋𝜋= 𝑌𝑌−𝑌𝑌𝑛𝑛<br>𝐿𝐿<br>𝐼<br>The economy is in a medium<br>𝑌𝑌𝑛𝑛 𝑌𝑌 run equilibrium:<br>𝜋𝜋−�𝜋𝜋<br>𝑃𝑃𝐶𝐶 𝑌𝑌= 𝑌𝑌𝑛𝑛; 𝜋𝜋= �𝜋𝜋<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
-
-
-## IS-LM-PC: SHORT RUN 
-
-𝑟𝑟 0 𝐿 ̅𝑟𝑟 �𝑟𝑟1 1 𝐿 1 𝐼 𝜋𝜋−�𝜋𝜋 𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌 𝑃𝑃𝐶𝐶 0 0 𝑌𝑌 𝑌𝑌𝑛𝑛 
-
-Expansionary monetary policy: 
-
-CB buys bonds: 𝐿𝐿↑⇒̅𝚤𝚤↓ and ̅𝑟𝑟↓ 𝑳 ↓ ̅𝑟𝑟↓⇒𝐼𝐼↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑ Along the IS Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓ _What happens to the inflation rate?_ 
-
-## IS-LM-PC: SHORT RUN 
-
-**==> picture [279 x 362] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>0 𝐿<br>̅𝑟𝑟<br>�𝑟𝑟1 1 𝐿 1<br>𝐼<br>𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌<br>𝜋𝜋−�𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>1<br>𝜋𝜋> �𝜋𝜋<br>0<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 𝑌𝑌1<br>**----- End of picture text -----**<br>
-
-
-Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓ : 𝑌𝑌> 𝑌𝑌 ⇒𝑢𝑢< 𝑢𝑢 𝑛𝑛 𝑛𝑛 𝑊𝑊 growth ↑⇒𝜋𝜋> �𝜋𝜋 Inflation goes above the CB target 
-
-_How can the economy restore a medium run equilibrium?_ 
-
-## IS-LM-PC: MEDIUM RUN 
-
-Adjustment to the medium run? 
-
-**==> picture [637 x 362] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑟𝑟 Adjustment to the medium run?<br>0 = 2 𝐿 = 𝐿 2 To close the output gap and bring<br>̅𝑟𝑟<br>inflation back to the target the CB<br>1 𝐿 1<br>�𝑟𝑟1 must increase  𝑟𝑟 through  𝑖𝑖<br>𝐼<br>𝑖𝑖↑𝑟𝑟↑⇒𝐼𝐼↓⇒𝑌𝑌↓<br>𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌<br>𝜋𝜋−�𝜋𝜋<br>𝑃𝑃𝐶𝐶 LM goes back to the original<br>1 position<br>𝜋𝜋> �𝜋𝜋<br>0 = 2<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 𝑌𝑌1<br>Medium-run equilibrium:<br>𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑟𝑟= 𝑟𝑟𝑛𝑛, 𝜋𝜋= �𝜋𝜋<br>**----- End of picture text -----**<br>
-
-
-## IS-LM-PC: EXPANSIONARY MP 
-
-• **Short run** 
-
-𝑌𝑌↑ ̅𝑟𝑟↓𝜋𝜋> �𝜋𝜋 
-
-• **Medium run** 
-
-**==> picture [280 x 22] intentionally omitted <==**
-
-Note: if expectations were **adaptive inflation will be** constant, but at a higher value !!! 
-
-– Between 0 and 2, no change in AD components 
-
-_No impact of monetary policy on_ _**real** variables in the medium run_ 
-
-**Neutrality of money** 
-
-## Medium-run equilibrium: 𝒀𝒀𝒏𝒏 = 𝐶𝐶 𝒀𝒀𝒏𝒏 −𝑇𝑇+ 𝐼𝐼 𝒀𝒀𝒏𝒏, 𝒓𝒓𝒏𝒏 + 𝑥𝑥+ 𝐺𝐺 
-
-## GOODS MARKET 
-
-𝑟𝑟 
-
-No shifts in demand and supply Nor 𝑌𝑌𝑛𝑛 and ̅𝑟𝑟𝑛𝑛 change in the MR MONEY is NEUTRAL 
-
-**==> picture [19 x 22] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝒓𝒓𝒏𝒏<br>**----- End of picture text -----**<br>
-
-
-## Monetary policy: **NO real effects in the MR** 
-
-- Only one variable affected: price level 
-
-- 𝜋𝜋 has grown during the SR 
-
-**==> picture [11 x 19] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑍𝑍<br>**----- End of picture text -----**<br>
-
-
-- Over the medium run: 
-
-   - If anchored expectations: 𝜋𝜋 goes back to initial value 
-
-𝒀𝒀𝒏𝒏 
-
-𝑌𝑌 
-
-- If adaptive expectations: 𝜋𝜋 constant at a higher value 
-
-**The monetary policy has real effects in the short run only** 
-
+## Related Notes
+- [[L13 & L14 ISLMPC]]
+- [[Trigari_08_New(Chapter 9)]]
+- [[L10 ISLM model]]

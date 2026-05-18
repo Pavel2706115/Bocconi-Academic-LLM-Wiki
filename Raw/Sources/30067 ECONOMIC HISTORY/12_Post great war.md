@@ -1,378 +1,230 @@
-THE CONSEQUENCES OF THE WAR 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "12_Post great war"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-Economic history a.y. 2025/2026 Sonia Schifano 
+Economic history a.y. 2025/2026 Sonia Schifano
 
-## IN THIS EPISODE 
+## IN THIS EPISODE
 
-- The consequences of peace 
+- The consequences of peace
 
-- The end of monetary stability 
+- The end of monetary stability
 
-- The Reconstruction of the Payment System and the Roaring Twenties 
+- The Reconstruction of the Payment System and the Roaring Twenties
 
-A.Y. 2025/2026 
+## THE CONSEQUENCES OF PEACE
 
-30067 
+- The American intervention changed the fate of the war: in November 1918 Austria-Hungary and Germany signed the armistice.
 
-2 
+- The Treaty of Versailles in 1919 officially ended the conflict after a laborious peace process. A number of punitive impositions and debts were imposed on Germany.
 
-## THE CONSEQUENCES OF PEACE 
+- Two major problems emerged from the peace treaty:
 
-- The American intervention changed the fate of the war: in November 1918 Austria-Hungary and Germany signed the armistice. 
+- growth of economic nationalism
 
-- The Treaty of Versailles in 1919 officially ended the conflict after a laborious peace process. A number of punitive impositions and debts were imposed on Germany. 
+- monetary and financial instability
 
-- Two major problems emerged from the peace treaty: 
+## THE CONSEQUENCES OF THE WAR
 
-   - growth of economic nationalism 
+- Governments across Europe and the U.S. faced immense, overlapping crises as they transitioned from total war
 
-   - monetary and financial instability 
+- to peacetime.
 
-**==> picture [235 x 182] intentionally omitted <==**
+- The switch from producing military supplies (munitions, uniforms) back to civilian goods.
 
-A.Y. 2025/2026 
+- Mass layoffs and closures in war industries led to severe short-term unemployment.
 
-30067 
+- Millions of returning soldiers needed immediate jobs, housing, and medical support.
 
-3 
+- The sudden influx of veterans overwhelmed the job market, driving up unemployment rates and lowering wages for all workers.
 
-**==> picture [480 x 481] intentionally omitted <==**
+- Widespread poverty and disillusionment fueled the rise of radical political movements (socialists, communists, fascists) demanding system change.
 
-**----- Start of picture text -----**<br>
-BEFORE<br>**----- End of picture text -----**<br>
+## THE AGE OF UNEMPLOYMENT
 
+- “The economic of the interwar in all countries was outstanding problem period undoubtedly
 
-**==> picture [480 x 481] intentionally omitted <==**
+- unemployment. Next to war, unemployment has been the (…) most corroding malady of our generation; it is the specific disease of western countries in our time”.
 
-**----- Start of picture text -----**<br>
-AFTER<br>**----- End of picture text -----**<br>
+(Arndt 1944)
 
+- Mass unemployment largely unknown before 1914
 
-A.Y. 2025/2026 
+- Quantitative evidence
 
-30067 
+- Before WWI unemployment was of shorter duration, only cyclical
 
-4 
+- Sustained high levels in 1920s, exceptionally high in 1930s
 
-## THE CONSEQUENCES OF THE WAR 
+## Average unemployment rates in Europe (%)
 
-- Governments across Europe and the U.S. faced immense, overlapping crises as they transitioned from total war 
+Source: Feinstein et al (2008), The World Economy between the World Wars, p. 14
 
-   - to peacetime. 
+## WHY WAS UNEMPLOYMENT SO HIGH?
 
-   - The switch from producing military supplies (munitions, uniforms) back to civilian goods. 
+1. The 'classical economics’ view
 
-   - Mass layoffs and closures in war industries led to severe short-term unemployment. 
+- Labour markets are flexible
 
-   - Millions of returning soldiers needed immediate jobs, housing, and medical support. 
+- Unemployment is mostly voluntary
 
-   - The sudden influx of veterans overwhelmed the job market, driving up unemployment rates and lowering wages for all workers. 
+- Fiscal policy is not needed to create employment
 
-   - Widespread poverty and disillusionment fueled the rise of radical political movements (socialists, communists, fascists) demanding system change. 
+2. The Keynesian view
 
-A.Y. 2025/2026 
+- ‘Sticky wages’: downward wage adjustment is difficult
 
-30067 
+- Unemployment is involuntary
 
-5 
+- Government needs to boost aggregate demand
 
-**==> picture [470 x 344] intentionally omitted <==**
+‘Due to ‘sticky wages’, the overvalued exchange rate and negative demand shocks after 1929 were the fundamental causes of mass unemployment.’
 
-**==> picture [227 x 339] intentionally omitted <==**
+Keynes (1931), ‘The Economic Consequences of Mr Churchill’
 
-A.Y. 2025/2026 
+**Quantity of labour**
 
-30067 
+## **WE**: equilibrium wage ; **LE**: quantity of labour supplied
 
-6 
+## THE CLASSICAL MODEL
 
-## THE AGE OF UNEMPLOYMENT 
+- Wages and prices are flexible
 
-- “The economic of the interwar in all countries was outstanding problem period undoubtedly 
+- The supply and demand of labour determine
 
-- unemployment. Next to war, unemployment has been the […] most corroding malady of our generation; it is the specific disease of western countries in our time”. 
+- the equilibrium price of labour
 
-(Arndt 1944) 
+- the quantity of labour supplied at the equilibrium wage
 
-- Mass unemployment largely unknown before 1914 
+- There is no involuntary unemployment:
 
-- Quantitative evidence 
+- everyone looking for a job paid at the equilibrium wage gets one
 
-   - Before WWI unemployment was of shorter duration, only cyclical 
+- Unemployment is voluntary
 
-   - Sustained high levels in 1920s, exceptionally high in 1930s 
+- Unemployed are workers who find the equilibrium wage is too low
 
-## **Average unemployment rates in Europe (%)** 
+- Given the equilibrium wage, they prefer not to work
 
-**==> picture [608 x 74] intentionally omitted <==**
+## PRODUCTIVITY IMPROVEMENTS
 
-Source: Feinstein et al (2008), The World Economy between the World Wars, p. 14 
+- While unemployment rose, the productivity of those who kept their jobs continued to increase.
 
-A.Y. 2025/2026 
+## Average annual growth rate of value-added per worker (%)
 
-30067 
+Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 15
 
-7 
+- Plausible explanations
 
-**==> picture [334 x 449] intentionally omitted <==**
+- Continuing technological progress (electrification & motorization)
 
-**==> picture [262 x 224] intentionally omitted <==**
+- Improved human capital (expansion of public education)
 
-**==> picture [263 x 216] intentionally omitted <==**
+## WHAT ABOUT GROWTH?
 
-A.Y. 2025/2026 
+## THE END OF MONETARY STABILITY
 
-30067 
+- The result was **hyperinflation** , as Germany continued issuing money to pay its **debts** and to try to manage the **economic turmoil** still present in its territory.
 
-8 
+- German mark collapsed to 0.02% of its pre-war value
 
-## WHY WAS UNEMPLOYMENT SO HIGH? 
+- Wholesale prices rising at the astronomical rate of 335 percent per month h from August 1922 to November 1923
 
-1. The 'classical economics’ view 
+## THE END OF MONETARY STABILITY
 
-   - Labour markets are flexible 
+- In 1923 the exchange rate between the mark and the dollar had reached unimaginable levels: 4,200,000,000,000 marks for one dollar.
 
-   - Unemployment is mostly voluntary 
+- The monetary authorities withdrew the mark from circulation and replaced it with the Rentenmark.
 
-   - Fiscal policy is not needed to create employment 
+## THE AGE OF INSECURITY
 
-2. The Keynesian view 
+- The United States rose to the rank of a new world power:
 
-   - ‘Sticky wages’: downward wage adjustment is difficult 
+- they did not want to fully assume the international responsibilities of their economic supremacy
 
-   - Unemployment is involuntary 
+- they did not join the **League of Nations**
 
-   - Government needs to boost aggregate demand 
+- The heaviest conditions were imposed on Germany:
 
-‘Due to ‘sticky wages’, the overvalued exchange rate and negative demand shocks after 1929 were the fundamental causes of mass unemployment.’ 
+- it was deprived of part of its national and colonial territory
 
-Keynes (1931), ‘The Economic Consequences of Mr Churchill’ 
+- it had to surrender its navy, arms and munitions, locomotives, etc.
 
-A.Y. 2025/2026 
+- The most ‘humiliating’ aspect was Article 231 by which Germany was made responsible for the war and had to pay reparations.
 
-30067 
+## WWI: THE AGE OF INSECURITY
 
-9 
+- Profound marks on the economies of many countries.
 
-**==> picture [516 x 347] intentionally omitted <==**
+- The states that emerged from the dismemberment of the Habsburg Empire
 
-**----- Start of picture text -----**<br>
-Real wage<br>Labour supply<br>W<br>E<br>Labour demand<br>**----- End of picture text -----**<br>
+- national character - economic self-sufficiency.
 
+- Economic nationalism - Russia and other western countries, including England:
 
-**Quantity of labour** 
+- **tariffs** introduced during the war were not removed
 
-## **WE** : equilibrium wage ; **LE** : quantity of labour supplied 
+- several **bilateral treaties** were signed abandoning the principle of the MFN clause
 
-A.Y. 2025/2026 
+- Many governments decided to adopt **austerity policies**
 
-30067 
+- restore balance and contain inflation.
 
-10 
+- This made reconstruction even more difficult, and many became convinced that a return to the gold standard would be sufficient to resolve this unstable situation.
 
-## THE CLASSICAL MODEL 
+## WWI: THE END OF MONETARY STABILITY
 
-- Wages and prices are flexible 
+- The restoration of the Gold Standard was, however, hampered by some serious elements of international imbalance.
 
-- The supply and demand of labour determine 
+- American gold reserves had quadrupled as a consequence of (a) the supply of goods and services to its allies and (b) US investments in Europe.
 
-   - the equilibrium price of labour 
+- Inter-allied loans had to be paid off:
 
-   - the quantity of labour supplied at the equilibrium wage 
+- US creditors – GB, FRA, ITA and Belgium debtors
 
-- There is no involuntary unemployment: 
+- The loans between the European allies were only nominal. The European states had convinced themselves that this would also be the case for loans from the US. But the US demanded full repayment of the capital!
+*(See also: [[Trigari_06(Chapter 7)#^atu360]])*
 
-   - everyone looking for a job paid at the equilibrium wage gets one 
+## WWI: THE END OF MONETARY STABILITY
 
-- Unemployment is voluntary 
+The issue of German reparations remained open, which amounted to
 
-   - Unemployed are workers who find the equilibrium wage is too low 
+- 33 billion dollars (more than twice the German GDP)
 
-   - Given the equilibrium wage, they prefer not to work 
+- with prohibitive annual instalments.
 
-A.Y. 2025/2026 
+Despite the German difficulty in coping with payments:
 
-30067 
+1. France and England insisted on indemnity payments as well
 
-11 
+2. In 1922, Germany suspended payments
 
-## PRODUCTIVITY IMPROVEMENTS 
+3. In 1923 French and Belgian troops occupied the Ruhr taking control of the mines and railways
 
-- While unemployment rose, the productivity of those who kept their jobs continued to increase. 
+## The reconstruction of the payment system
 
-## **Average annual growth rate of value-added per worker (%)** 
+Solution - return to the gold standard?
 
-**==> picture [538 x 144] intentionally omitted <==**
+Global monetary and financial imbalances on both sides of the Atlantic to solve
 
-Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 15 
+It was essential for the US to grant credit to stabilise both its own and many other national currencies.
 
-## • Plausible explanations 
+## The US was convinced to help Europe because:
 
-- Continuing technological progress (electrification & motorization) 
+- they feared total economic and monetary collapse
 
-- Improved human capital (expansion of public education) 
+- they feared possible Soviet-style revolutions
 
-A.Y. 2025/2026 
-
-30067 
-
-14 
-
-## WHAT ABOUT GROWTH? 
-
-**==> picture [636 x 320] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30067 
-
-15 
-
-## THE END OF MONETARY STABILITY 
-
-- The result was **hyperinflation** , as Germany continued issuing money to pay its **debts** and to try to manage the **economic turmoil** still present in its territory. 
-
-- German mark collapsed to 0.02% of its pre-war value 
-
-- Wholesale prices rising at the astronomical rate of 335 percent per month h from August 1922 to November 1923 
-
-**==> picture [322 x 238] intentionally omitted <==**
-
-**==> picture [180 x 273] intentionally omitted <==**
-
-**==> picture [323 x 263] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30067 
-
-16 
-
-## THE END OF MONETARY STABILITY 
-
- In 1923 the exchange rate between the mark and the dollar had reached unimaginable levels: 4,200,000,000,000 marks for one dollar. 
-
- The monetary authorities withdrew the mark from circulation and replaced it with the Rentenmark. 
-
-**==> picture [257 x 257] intentionally omitted <==**
-
-**==> picture [323 x 146] intentionally omitted <==**
-
-**==> picture [323 x 162] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30067 
-
-17 
-
-## THE AGE OF INSECURITY 
-
-- The United States rose to the rank of a new world power: 
-
-   - they did not want to fully assume the international responsibilities of their economic supremacy 
-
-   - they did not join the **League of Nations** 
-
-## • The heaviest conditions were imposed on Germany: 
-
-**==> picture [57 x 62] intentionally omitted <==**
-
-   - it was deprived of part of its national and colonial territory 
-
-   - it had to surrender its navy, arms and munitions, locomotives, etc. 
-
-- The most ‘humiliating’ aspect was Article 231 by which Germany was made responsible for the war and had to pay reparations. 
-
-A.Y. 2025/2026 
-
-30067 
-
-19 
-
-## WWI: THE AGE OF INSECURITY 
-
-- Profound marks on the economies of many countries. 
-
-- The states that emerged from the dismemberment of the Habsburg Empire 
-
-   - national character  economic self-sufficiency. 
-
-- Economic nationalism  Russia and other western countries, including England: 
-
-      - **tariffs** introduced during the war were not removed 
-
-      - several **bilateral treaties** were signed abandoning the principle of the MFN clause 
-
-- Many governments decided to adopt **austerity policies** 
-
-   - restore balance and contain inflation. 
-
-- This made reconstruction even more difficult, and many became convinced that a return to the gold standard would be sufficient to resolve this unstable situation. 
-
-A.Y. 2025/2026 
-
-30067 
-
-20 
-
-## WWI: THE END OF MONETARY STABILITY 
-
-- The restoration of the Gold Standard was, however, hampered by some serious elements of international imbalance. 
-
-- American gold reserves had quadrupled as a consequence of (a) the supply of goods and services to its allies and (b) US investments in Europe. 
-
-- Inter-allied loans had to be paid off: 
-
-   - US creditors – GB, FRA, ITA and Belgium debtors 
-
-   - The loans between the European allies were only nominal. The European states had convinced themselves that this would also be the case for loans from the US. But the US demanded full repayment of the capital! 
-
-A.Y. 2025/2026 
-
-30067 
-
-21 
-
-## WWI: THE END OF MONETARY STABILITY 
-
-The issue of German reparations remained open, which amounted to 
-
-- 33 billion dollars (more than twice the German GDP) 
-
-- with prohibitive annual instalments. 
-
-Despite the German difficulty in coping with payments: 
-
-1. France and England insisted on indemnity payments as well 
-
-2. In 1922, Germany suspended payments 
-
-3. In 1923 French and Belgian troops occupied the Ruhr taking control of the mines and railways 
-
-A.Y. 2025/2026 
-
-30067 
-
-22 
-
-## The reconstruction of the payment system 
-
-Solution  return to the gold standard? 
-
-Global monetary and financial imbalances on both sides of the Atlantic to solve 
-
-It was essential for the US to grant credit to stabilise both its own and many other national currencies. 
-
-## The US was convinced to help Europe because: 
-
-- they feared total economic and monetary collapse 
-
-- they feared possible Soviet-style revolutions 
-
-A.Y. 2025/2026 
-
-30067 
-
-23 
-
+## Related Notes
+- [[Trigari_06(Chapter 7)]]
+- [[13_Economic Instability]]
+- [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]

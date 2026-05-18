@@ -1,106 +1,69 @@
-**==> picture [7 x 9] intentionally omitted <==**
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "4_5_The industrialisation process_1"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-THE INDUSTRIAL REVOLUTION PRE-CONDITIONS ALFANI COLLI, CH. 5 Economic history A.y. 2025/2026 Sonia Schifano 
+THE INDUSTRIAL REVOLUTION PRE-CONDITIONS ALFANI COLLI, CH. 5 Economic history A.y. 2025/2026 Sonia Schifano
 
-## IN THIS CLASS 
+## BREAKING POINT WRT PAST
 
-- Preconditions 
+- In the attempt to increase productivity, what changed from the past is the shift
 
-- Factors of the IR 
+## TECHNICAL
 
-   - Market oriented economy 
+- from specialisation and trade
 
-   - The role of the State 
+- TO
 
-   - Resources 
+- investment and technological progress
 
-- Technology 
+- The opening up of the Atlantic trade routes allowed the increase of the share of non-agro population
 
-- Sectors 
+- As population grows
 
-   - Textile 
+- People need to consume food to survive.
 
-   - Energy 
+- People can only start producing nonagricultural goods, if farmers produce a surplus that can be traded for these goods.
 
-- Why Britain? 
+30067 - Economic History
 
-- Obstacles: advantage or disadvantage? 
+2025-2026
 
-30067 - Economic History 
+## THE AGRICULTURAL REVOLUTION 14001700
 
-2025-2026 
+- Manufactured goods → market incentive
 
-2 
+- Better food → dairy and meat → shifted grain production to animal grazing and livestock
 
-## BREAKING POINT WRT PAST 
+More draft animals ➔ more draft power and more manure ➔ ➔ higher labour productivity and yields even higher wages
 
-- In the attempt to increase productivity, what changed from the past is the shift 
+## RESULT: INCREASE IN OUTPUT PER WORKER
 
-## TECHNICAL 
+## Agricultural labour productivity
 
-- from specialisation and trade 
+30067 - Economic History
 
-   - TO 
+2025-2026
 
-POLITICAL 
+## INCREASE IN OUTPUT PER WORKER
 
-   - investment and technological progress 
+## 1. How did farmers increase productivity?
 
-- The opening up of the Atlantic trade routes allowed the increase of the share of non-agro population 
+- By increasing capital intensity (draft animals)
 
-INSTITUTIONAL TECHNOLOGICAL 
+- By increasing land area per farm worker
 
-- As population grows 
+- By improving techniques and soil quality
 
-   - People need to consume food to survive. 
-
-   - People can only start producing nonagricultural goods, if farmers produce a surplus that can be traded for these goods. 
-
-**==> picture [363 x 44] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-GEOGRAPHICAL<br>**----- End of picture text -----**<br>
-
-
-30067 - Economic History 
-
-2025-2026 
-
-3 
-
-## THE AGRICULTURAL REVOLUTION 14001700 
-
-THE HIGH WAGES ECONOMY ALLOWED TO SUSTAIN THE DEMAND OF GOODS 
-
-- Manufactured goods → market incentive 
-
-- Better food → dairy and meat → shifted grain production to animal grazing and livestock 
-
-More draft animals ➔ more draft power and more manure ➔ ➔ higher labour productivity and yields even higher wages 
-
-## RESULT: INCREASE IN OUTPUT PER WORKER 
-
-**==> picture [366 x 275] intentionally omitted <==**
-
-## **Agricultural labour productivity** 
-
-30067 - Economic History 
-
-2025-2026 
-
-4 
-
-## INCREASE IN OUTPUT PER WORKER 
-
-## 1. How did farmers increase productivity? 
-
-- By increasing capital intensity (draft animals) 
-
-- By increasing land area per farm worker 
-
-- By improving techniques and soil quality 
-
-||**1600**|**1700**|**1750**|**1800**|
+|**1600**|**1700**|**1750**|**1800**|
 |---|---|---|---|---|
 |England|53,1|80,4|107,7|100,0|
 |Belgium|88,1|83,9|85,3|77,6|
@@ -112,1140 +75,911 @@ More draft animals ➔ more draft power and more manure ➔ ➔ higher labour pr
 |Austria|39,9|51,7|69,9|51,5|
 |Poland|54,5|65,7|65,0|74,8|
 
+Allen (2000) Agricultural labour productivity in Europe (England 1800 = 100).
 
+30067 - Economic History
 
-Allen (2000) Agricultural labour productivity in Europe (England 1800 = 100). 
+2025-2026
 
-30067 - Economic History 
+## MARKET ORIENTED ECONOMY!
 
-2025-2026 
+30067 - Economic History
 
-5 
+2025-2026
 
-## MARKET ORIENTED ECONOMY! 
+## FROM OPEN FIELDS TO ENCLOSURES
 
-30067 - Economic History 
+- Before the Black Death, the dominant form of land tenure in Europe was the open-field system:
 
-2025-2026 
+- Fields divided up between villagers into narrow strips
 
-6 
+- As demand for grain fell and demand for English wool in Flanders increased, English lords enclosed open fields.
 
-## FROM OPEN FIELDS TO ENCLOSURES 
+- **1500:** 45% of land enclosed
 
-- Before the Black Death, the dominant form of land tenure in Europe was the open-field system: 
+- **1750:** nearly two-thirds of land enclosed
 
-   - Fields divided up between villagers into narrow strips 
+- **1760-1830**: Parliamentary enclosures
 
-- As demand for grain fell and demand for English wool in Flanders increased, English lords enclosed open fields. 
+- In 18(th) century, English agriculture dominated by consolidated landholdings rented to capitalist farmers.
 
-   - **1500:** 45% of land enclosed 
+30067 - Economic History
 
-   - **1750:** nearly two-thirds of land enclosed 
+2025-2026
 
-   - **1760-1830** : Parliamentary enclosures 
+## FROM OPEN FIELDS TO ENCLOSURES
 
-- In 18[th] century, English agriculture dominated by consolidated landholdings rented to capitalist farmers. 
+- English historians have explained the rise of English agriculture with the enclosure of open fields.
 
-30067 - Economic History 
+- Inefficient open fields
 
-2025-2026 
+- Villagers forced to cooperate ➔ hard to innovate
 
-7 
+- Peasants had separate and often far away holdings
 
-## FROM OPEN FIELDS TO ENCLOSURES 
+- Lands rotated among villagers ➔ no incentive to invest
 
-- English historians have explained the rise of English agriculture with the enclosure of open fields. 
+- Efficient enclosed fields
 
-**==> picture [156 x 230] intentionally omitted <==**
+- Large consolidated holdings ➔ economies of scale
 
-- Inefficient open fields 
+- Tenant farmers invest in capital to economise on labour
 
-   - Villagers forced to cooperate ➔ hard to innovate 
+- Long lease ➔ tenants interested in improving or maintaining yields
 
-   - Peasants had separate and often far away holdings 
+(What about inequality?)
 
-   - Lands rotated among villagers ➔ no incentive to invest 
+30067 - Economic History
 
-**==> picture [232 x 216] intentionally omitted <==**
+2025-2026
 
-- Efficient enclosed fields 
+## FROM OPEN FIELDS TO ENCLOSURES
 
-   - Large consolidated holdings ➔ economies of scale 
+- Technology
 
-   - Tenant farmers invest in capital to economise on labour 
+– Adoption of new crops and rotations
 
-   - Long lease ➔ tenants interested in improving or maintaining yields 
+- Land use
 
-(What about inequality?) 
+- Shift from arable to grassland
 
-30067 - Economic History 
+- Crop yields
 
-2025-2026 
+– Geographical differences
 
-8 
+- Type of crops
 
-## FROM OPEN FIELDS TO ENCLOSURES 
+- Labour productivity
 
-- Technology 
+30067 - Economic History
 
-– Adoption of new crops and rotations 
+2025-2026
 
-- Land use 
+## THE PROCESS 1.0
 
-   - Shift from arable to grassland 
+- Traditional view
 
-- Crop yields 
+- Enclosures reduced the demand for farm labour and increased the food surplus, which fuelled urban growth.
 
-– Geographical differences 
+## – Larger urban population ➔ greater specialisation & trade
 
-   - Type of crops 
+30067 - Economic History
 
-- Labour productivity 
+2025-2026
 
-**==> picture [384 x 398] intentionally omitted <==**
+## THE PROCESS 2.0
 
-30067 - Economic History 
+**Allen** offers an alternative explanation to the traditional view. Innovation in English agriculture was the consequence, not the cause, of urban growth.
 
-2025-2026 
+- The impact of city growth
 
-9 
+- Agricultural wages fell behind urban wages
 
-## THE PROCESS 1.0 
+- Fast urban growth increased the relative price of food
 
-## • Traditional view 
+- Consequences for farmers
 
-- Enclosures reduced the demand for farm labour and increased the food surplus, which fuelled urban growth. 
+- High urban wages pulled farmers into the city
 
-## – Larger urban population ➔ greater specialisation & trade 
+- High food prices lured capital into agriculture
 
-**==> picture [605 x 80] intentionally omitted <==**
+- Enclosures: consolidated land holdings close to cities
 
-30067 - Economic History 
+- Impact on productivity
 
-2025-2026 
+- Increased land-labour ratio
 
-10 
+- Induced innovation: farmers had to innovate to keep up with rising urban wages
 
-## THE PROCESS 2.0 
+30067 - Economic History
 
-**Allen** offers an alternative explanation to the traditional view. Innovation in English agriculture was the consequence, not the cause, of urban growth. 
+2025-2026
 
-- The impact of city growth 
+## PRODUCTIVITY GROWTH
 
-   - Agricultural wages fell behind urban wages 
+30067 - Economic History
 
-   - Fast urban growth increased the relative price of food 
+2025-2026
 
-- Consequences for farmers 
+## CAN WE ESTABLISH A CAUSAL RELATIONSHIP?
 
-   - High urban wages pulled farmers into the city 
+Beware that the interpretation of the role of agriculture in the economic development process is not unanimous…
 
-   - High food prices lured capital into agriculture 
+30067 - Economic History
 
-   - Enclosures: consolidated land holdings close to cities 
+2025-2026
 
-- Impact on productivity 
+## THE ROLE OF THE STATE
 
-   - Increased land-labour ratio 
+30067 - Economic History
 
-   - Induced innovation: farmers had to innovate to keep up with rising urban wages 
+2025-2026
 
-30067 - Economic History 
+30067 - Economic History
 
-2025-2026 
+2025-2026
 
-11 
+## MERCANTILISM & EMPIRE
 
-## PRODUCTIVITY GROWTH 
+With **mercantilism, or economic nationalism** , the aim of the state is (like the good merchant) to earn as much as possible by exporting as much, but importing as little as possible
 
-**==> picture [618 x 362] intentionally omitted <==**
+## → **WEALTH ACCUMULATION**
 
-30067 - Economic History 
+- Mercantilist policies base on:
 
-2025-2026 
+- **strengthening trade with the colonies** → increasing access to resources and the British market
 
-12 
+- **dominance over the seas** to ensure high levels of exports
 
-## CAN WE ESTABLISH A CAUSAL RELATIONSHIP? 
 
-Beware that the interpretation of the role of agriculture in the economic development process is not unanimous… 
 
-**==> picture [801 x 252] intentionally omitted <==**
+- they were also intended to strengthen **domestic production**
 
-**----- Start of picture text -----**<br>
-Urban and<br>Higher<br>proto- Economic<br>Enclosures agricultural<br>industrial  growth<br>productivity<br>development<br>Which one is correct? The old one (↑) or the more recent one (↓)?<br>Higher  Urban and<br>Economic  Foreign<br>agricultural  proto-industrial<br>commerce<br>growth<br>productivity development<br>**----- End of picture text -----**<br>
+- Mercantilist policies were implemented to **strengthen the state and to “commercially” fight the Dutch**
 
+- both financially and institutionally
 
-30067 - Economic History 
+30067 - Economic History
 
-2025-2026 
+2025-2026
 
-13 
+## MERCANTILISM & EMPIRE
 
-## THE ROLE OF THE STATE 
+Among the most significant mercantilist policies are the **Navigation Acts** , a symbol of the Old Colonial System. There are three: **1651, 1660, 1663** .
 
-30067 - Economic History 
+- **Goals:** Strengthen English shipping, secure control of colonial trade, and weaken rivals (Dutch & French).
 
-2025-2026 
+- **Main rules:**
 
-14 
+- Only **British ships** could transport goods to and from England and its colonies.
 
-**==> picture [428 x 228] intentionally omitted <==**
+- Salted fish had to travel **exclusively on British vessels** .
 
-**==> picture [442 x 228] intentionally omitted <==**
+- Restriction on certain colonial exports, ensuring they were primarily sold to **Britain.**
 
-**==> picture [477 x 252] intentionally omitted <==**
+- Crews and shipowners had to be English (or colonial subjects).
 
-**==> picture [467 x 241] intentionally omitted <==**
+- **Economic effects:**
 
-30067 - Economic History 
+- Created a **protected English shipping industry** .
 
-2025-2026 
+- Raised customs duties, even for trade between colonies.
 
-15 
+- **:**
 
-## MERCANTILISM & EMPIRE 
+- **Political & military impact**
 
-With **mercantilism, or economic nationalism** , the aim of the state is (like the good merchant) to earn as much as possible by exporting as much, but importing as little as possible 
+- Triggered a century of conflict with the Dutch and French.
 
-## → **WEALTH ACCUMULATION** 
+- First **Anglo-Dutch War broke out in 1652** .
 
-- Mercantilist policies base on: 
+30067 - Economic History
 
-   - **strengthening trade with the colonies** → increasing access to resources and the British market 
+2025-2026
 
-   - **dominance over the seas** to ensure high levels of exports 
+## MERCANTILISM & EMPIRE
 
-   - . 
+- The third navigation act, the **Staple Act of 1663** , required instead that the English colonies had to obtain their supplies only from Great Britain and that certain goods (sugar, tobacco, cotton, etc.) had first to be brought to the mother country and then, eventually, re-exported.
+*(See also: [[6_The industrialisation process_2#^zug3yg]])*
 
-   - they were also intended to strengthen **domestic production** 
+- These measures led to furious clashes with the Dutch and French that lasted for at least a century (approximately from 1652 to 1763).
 
-- Mercantilist policies were implemented to **strengthen the state and to “commercially” fight the Dutch** 
+- The **costs of the wars were very high** and to avoid raising the tax burden too much in Britain, parliament tried to raise taxes in the colonies.
 
-   - both financially and institutionally 
+- Hardest hit were the inhabitants of the 13 American colonies, who proclaimed their independence with .
 
-30067 - Economic History 
+- the cry of _“no taxation without representation”_
 
-2025-2026 
+30067 - Economic History
 
-16 
+2025-2026
 
-## MERCANTILISM & EMPIRE 
+## The empire at its peak (1921)
 
-Among the most significant mercantilist policies are the **Navigation Acts** , a symbol of the Old Colonial System. There are three: **1651, 1660, 1663** . 
+30067 - Economic History
 
-- **Goals:** Strengthen English shipping, secure control of colonial trade, and weaken rivals (Dutch & French). 
+2025-2026
 
-- **Main rules:** 
+## INSTITUTIONS
 
-   - Only **British ships** could transport goods to and from England and its colonies. 
+- The Civil War (1642-1649) broke out after several decades of political tension between the Crown and the Parliament. It ended with the death sentence of Charles I (1649).
 
-   - Salted fish had to travel **exclusively on British vessels** . 
+- Main source of tension: the king’s right to impose taxes on his subjects without parliamentary approval.
 
-   - Restriction on certain colonial exports, ensuring they were primarily sold to **Britain.** 
+- Republican experience → Commonwealth (1649-1660)
 
-   - Crews and shipowners had to be English (or colonial subjects). 
+- The ‘Glorious Revolution’ (1688-89) made the English political system more ‘inclusive’, i.e., more open to the needs of the business community by strengthening property rights, perfecting financial systems, and removing barriers to the expansion of industry and trade.
 
-## • **Economic effects:** 
+30067 - Economic History
 
-   - Created a **protected English shipping industry** . 
+2025-2026
 
-   - Raised customs duties, even for trade between colonies. 
+## THE CAUSES OF THE BRITISH IR: INSTITUTIONS
 
-- **:** 
+The British Parliament began to regulate, on a macro-economic level:
 
-- **Political & military impact** 
+- trade policy → e.g Navigation Acts
 
-   - Triggered a century of conflict with the Dutch and French. 
+- fiscal policy
 
-   - First **Anglo-Dutch War broke out in 1652** . 
+- monetary policy
 
-30067 - Economic History 
+- labour market → abolition of Guilds
 
-2025-2026 
+30067 - Economic History
 
-17 
+2025-2026
 
-## MERCANTILISM & EMPIRE 
+## RESOURCES
 
-- The third navigation act, the **Staple Act of 1663** , required instead that the English colonies had to obtain their supplies only from Great Britain and that certain goods (sugar, tobacco, cotton, etc.) had first to be brought to the mother country and then, eventually, re-exported. 
+30067 - Economic History
 
-- These measures led to furious clashes with the Dutch and French that lasted for at least a century (approximately from 1652 to 1763). 
+2025-2026
 
-- The **costs of the wars were very high** and to avoid raising the tax burden too much in Britain, parliament tried to raise taxes in the colonies. 
+## COAL
 
-- Hardest hit were the inhabitants of the 13 American colonies, who proclaimed their independence with . 
+- Historians for long attributed the British industrial revolution to the early development of coal mining in England.
 
-- the cry of _“no taxation without representation”_ 
+- ‘Britain was first because Britain had coal’
 
-30067 - Economic History 
+- By 18(th) century, Britain produced most of the world’s coal
 
-2025-2026 
+- Southeast Belgium the only other region of significant production
 
-18 
+- Rest of the world continued to use traditional energy sources
 
-## **The empire at its peak (1921)** 
+- The ‘timber crisis’ theory (Nef 1932)
 
-**==> picture [873 x 383] intentionally omitted <==**
+- By 17(th) century, England had cut down its forests for heating fuel and material for shipbuilding.
 
-30067 - Economic History 
+- Timber shortage ➔ wood and charcoal had to be replaced by coal
 
-2025-2026 
+- Coal mining increased 66-fold between 1560 and 1800
 
-19 
+30067 - Economic History
 
-## INSTITUTIONS 
+2025-2026
 
-- The Civil War (1642-1649) broke out after several decades of political tension between the Crown and the Parliament. It ended with the death sentence of Charles I (1649). 
+## IMPORTANCE OF COAL
 
-- Main source of tension: the king’s right to impose taxes on his subjects without parliamentary approval. 
+- Shift from ‘organic’ to ‘mineral-fuel’ economy
 
-- Republican experience → Commonwealth (1649-1660) 
+- First modern industry
 
-- The ‘Glorious Revolution’ (1688-89) made the English political system more ‘inclusive’, i.e., more open to the needs of the business community by strengthening property rights, perfecting financial systems, and removing barriers to the expansion of industry and trade. 
+- Geographic concentration (northeast)
 
-**==> picture [127 x 76] intentionally omitted <==**
+- Large scale production
 
-**==> picture [211 x 348] intentionally omitted <==**
+- High investment (capital) requirements
 
-30067 - Economic History 
+- Strong industry linkages (finance, insurance, shipping)
 
-2025-2026 
+- Technological spinoffs
 
-20 
+- Steam engine
 
-## THE CAUSES OF THE BRITISH IR: INSTITUTIONS 
+- Mass production of iron and steel
 
-The British Parliament began to regulate, on a macro-economic level: 
+- Railways
 
-- trade policy → e.g Navigation Acts 
+30067 - Economic History
 
-- fiscal policy 
+2025-2026
 
-- monetary policy 
+## THE CHEAP ENERGY ECONOMY
 
-- labour market → abolition of Guilds 
+- Early development of coal made Britain the world’s cheap energy economy, which empowered the industrial revolution.
 
-**==> picture [640 x 215] intentionally omitted <==**
+- Demand mattered, not supply
 
-**----- Start of picture text -----**<br>
-1689<br>Charles II<br>1688, William  Confirmation<br>(1660-1685)<br>III of Orange,  of<br>and James II<br>‘call’ by the  parliamentary<br>(1685-1688),<br>Parliament prerogatives<br>(Bill of Rights)<br>Stuart Restoration Glorious Revolution<br>**----- End of picture text -----**<br>
+- Several nations possessed large reserves of coal, but only Britain developed a large coal industry before 1800.
 
+- Growth of coal industry driven by growth of London
 
-30067 - Economic History 
+1. Booming demand for cheap heating fuel
 
-2025-2026 
+2. Innovation in heating technology driven by housing boom
 
-21 
+- Spillover effects:
 
-## RESOURCES 
+- Once coal-burning house was invented, it spread to smaller towns, giving rise to coal industry in western Britain and Scotland.
 
-30067 - Economic History 
+- Urban growth in the periphery created further demand for fuel and thus spurred the meteoric rise of coal mining.
 
-2025-2026 
+30067 - Economic History
 
-22 
+2025-2026
 
-## COAL 
+## THE CHEAP ENERGY ECONOMY
 
-- Historians for long attributed the British industrial revolution to the early development of coal mining in England. 
+Source: Allen (2009), ‘Cheap energy economy’
 
-- ‘Britain was first because Britain had coal’ 
+30067 - Economic History
 
-   - By 18[th] century, Britain produced most of the world’s coal 
+2025-2026
 
-   - Southeast Belgium the only other region of significant production 
+## TRANSPORTS
 
-   - Rest of the world continued to use traditional energy sources 
+In the process of economic growth, the **transportation revolution** was a fundamental step.
 
-- The ‘timber crisis’ theory (Nef 1932) 
+Transport innovations was important because:
 
-   - By 17[th] century, England had cut down its forests for heating fuel and material for shipbuilding. 
+- they created a more **connected internal market**
 
-   - Timber shortage ➔ wood and charcoal had to be replaced by coal 
+- connecting production and consumption centres
 
-   - Coal mining increased 66-fold between 1560 and 1800 
+- they lowered **transaction costs** (-40%)
 
-30067 - Economic History 
+- they lowered **travel times** (-60%)
 
-2025-2026 
+- they brought a progressive **convergence of prices**
 
-23 
+- they favoured a more efficient regional allocation of factors ( **specialisation** )
 
-## IMPORTANCE OF COAL 
+30067 - Economic History
 
-- Shift from ‘organic’ to ‘mineral-fuel’ economy 
+2025-2026
 
-- First modern industry 
+## TRANSPORTS
 
-   - Geographic concentration (northeast) 
+Toll roads ( _turnpike roads_ ) are built according to a new model:
 
-   - Large scale production 
+- construction by turnpike trusts authorised by parliament
 
-   - High investment (capital) requirements 
+- financing through debt
 
-   - Strong industry linkages (finance, insurance, shipping) 
+- debt repayment through tolls
 
-- Technological spinoffs 
+This model was one the most evident results of the _Bubble Act_ of 1720, which prohibited the incorporation of joint stock companies without parliamentary approval (too many speculative bubbles in years had ended up upsetting policy makers…).
 
-   - Steam engine 
+Moreover, we do not have to forget the fundamental role played by internal canals.
 
-   - Mass production of iron and steel 
+30067 - Economic History
 
-   - Railways 
+2025-2026
 
-**==> picture [339 x 486] intentionally omitted <==**
+## TRANSPORTS
 
-30067 - Economic History 
+## Internal canals
 
-2025-2026 
+## Turnpike _roads_
 
-24 
+30067 - Economic History
 
-## THE CHEAP ENERGY ECONOMY 
+2025-2026
 
-- Early development of coal made Britain the world’s cheap energy economy, which empowered the industrial revolution. 
+## WHAT WAS A CLEAR RUPTURE WRT THE PAST?
 
-- Demand mattered, not supply 
+30067 - Economic History
 
-   - Several nations possessed large reserves of coal, but only Britain developed a large coal industry before 1800. 
+2025-2026
 
-   - Growth of coal industry driven by growth of London 
+## THE BREAKING POINT
 
-      1. Booming demand for cheap heating fuel 
+The industrially more developed country presents to the less
 
-      2. Innovation in heating technology driven by housing boom 
+developed country a picture of the latter’s future.
 
-- Spillover effects: 
+Karl Marx, _Capital_ , vol. I, preface
 
-   - Once coal-burning house was invented, it spread to smaller towns, giving rise to coal industry in western Britain and Scotland. 
+The term revolution indicates the **radical nature** of economic and social change rather than the speed of change.
 
-   - Urban growth in the periphery created further demand for fuel and thus spurred the meteoric rise of coal mining. 
+- What has changed compared to the past?
 
-30067 - Economic History 
+- Continuous population growth
 
-2025-2026 
+- GDP and GDP per capita growth
 
-25 
+- Increase in productivity
 
-## THE CHEAP ENERGY ECONOMY 
+- Increase in TFP (total factor productivity)
 
-**==> picture [277 x 260] intentionally omitted <==**
+- **Structural change** in the economy: decline of the agricultural sector
 
-**==> picture [332 x 263] intentionally omitted <==**
+- Social and cultural change (commoditization of land, capital, labour)
 
-Source: Allen (2009), ‘Cheap energy economy’ 
+- Radical change of the mindset
 
-30067 - Economic History 
+- Formation of an increasingly global market
 
-2025-2026 
+- According to Simon Kuznets (1966) this brought Europe towards “modern economic growth”.
 
-26 
+30067 - Economic History
 
-## TRANSPORTS 
+2025-2026
 
-In the process of economic growth, the **transportation revolution** was a fundamental step. 
+## EXAMPLE IN NUMBER: GDP PER CAPITA
 
-Transport innovations was important because: 
+## Comparing GDP p/c growth
 
-- they created a more **connected internal market** 
+**How was all this possible!?**
 
-   - connecting production and consumption centres 
+30067 - Economic History
 
-- they lowered **transaction costs** (-40%) 
+2025-2026
 
-- they lowered **travel times** (-60%) 
+## TECHNOLOGY
 
-- they brought a progressive **convergence of prices** 
+- New technologies:
 
-- they favoured a more efficient regional allocation of factors ( **specialisation** ) 
+1. allow to produce at lower costs than in the past
 
-30067 - Economic History 
+2. allow to achieve productivity growth in the long run
 
-2025-2026 
+3. generate savings in the use of resources
 
-27 
+4. progressively improve the quality of the goods
 
-## TRANSPORTS 
+30067 - Economic History
 
-Toll roads ( _turnpike roads_ ) are built according to a new model: 
+2025-2026
 
-- construction by turnpike trusts authorised by parliament 
+## TECHNOLOGY THAT MATTERS
 
-- financing through debt 
+30067 - Economic History
 
-- debt repayment through tolls 
+2025-2026
 
-This model was one the most evident results of the _Bubble Act_ of 1720, which prohibited the incorporation of joint stock companies without parliamentary approval (too many speculative bubbles in years had ended up upsetting policy makers…). 
+## WHAT KIND OF TECHNOLOGICAL INNOVATION
 
-Moreover, we do not have to forget the fundamental role played by internal canals. 
+## _“About 1760 a wave of gadgets swept through England”_ (Ashton, 1955)
 
-30067 - Economic History 
+- Process of innovation
 
-2025-2026 
+**1. Macro inventions**: entire new technologies that set in motion new technical advances and generate leaps in productivity
 
-28 
+**2. Micro inventions**: incremental improvements on existing technologies that enhance their application and increase their efficiency
 
-## TRANSPORTS 
+## Nature of innovation
 
-## Internal canals 
+- _**Inspiration**_: scientific discovery and new knowledge may be culturally determined or matter or ‘luck’.
 
-**==> picture [289 x 356] intentionally omitted <==**
+- _**Perspiration**_: innovation requires research and development that is costly and thus depends on economic incentives.
 
-## Turnpike _roads_ 
+30067 - Economic History
 
-**==> picture [288 x 356] intentionally omitted <==**
+2025-2026
 
-30067 - Economic History 
+## MICRO-INVENTIONS
 
-2025-2026 
+- Neutral (not biased) technical change
 
-29 
+- **Micro inventions** are typically **factor neutral**: increase the productivity of all factors proportionately
 
-## WHAT WAS A CLEAR RUPTURE WRT THE PAST? 
+- **Reverse factor bias**: when improvements save on the input that the macro invention used most intensively (e.g. coal in steam engines)
 
-30067 - Economic History 
+- Local learning
 
-2025-2026 
+- Innovation takes place in the context of one industry, where inventors are already users of the technology they aim at perfecting.
 
-30 
+- Any reduction in cost improves profitability ➔ no factor bias
 
-## THE BREAKING POINT 
+- Collective invention
 
-The industrially more developed country presents to the less 
+- Information sharing makes micro-inventions cheap, reducing the need for financing and patents.
 
-developed country a picture of the latter’s future. 
+30067 - Economic History
 
-Karl Marx, _Capital_ , vol. I, preface 
+2025-2026
 
-The term revolution indicates the **radical nature** of economic and social change rather than the speed of change. 
+## THE SLOW GROWTH PARADOX
 
-##  What has changed compared to the past? 
+- Real GDP growth <2% until mid-19th century
 
-   - Continuous population growth 
+- Population growth ~1.4% per year
 
-   - GDP and GDP per capita growth 
+- - TFP growth ~0.7% (not spectacular)
 
-   - Increase in productivity 
+- - By 1851: more in services than in industry
 
-   - Increase in TFP (total factor productivity) 
+- Britain’s global industrial share rose dramatically
 
-   - **Structural change** in the economy: decline of the agricultural sector 
+30067 - Economic History
 
-   - Social and cultural change (commoditization of land, capital, labour) 
+2025-2026
 
-   - Radical change of the mindset 
+## THE SLOW GROWTH PARADOX
 
-   - Formation of an increasingly global market 
+30067 - Economic History
 
-- According to Simon Kuznets (1966) this brought Europe towards “modern economic growth”. 
+2025-2026
 
-30067 - Economic History 
+## THE SLOW GROWTH PARADOX
 
-2025-2026 
+1. Rapid **demographic expansion**
 
-31 
+2. Technological innovation initially affected only a **limited** range of **sectors** .
 
-## EXAMPLE IN NUMBER: GDP PER CAPITA 
+3. The sectors impacted at the outset were relatively
 
-## Comparing GDP p/c growth 
+**small in scale** .
 
-**==> picture [564 x 246] intentionally omitted <==**
+5. The transition from invention to innovative products and processes does not occur overnight.
 
-**How was all this possible!?** 
+- The relationship between science and technology is weak:
 
-30067 - Economic History 
+- ⟶ new technologies are imperfect
 
-2025-2026 
+4. New technologies were highly **specific in scope**:
 
-32 
+- ⟶ they applied to only one stage of the production
 
-## TECHNOLOGY 
+- The supply of adequate skills in the labor market is initially limited.
 
-##  New technologies: 
+process
 
-1. allow to produce at lower costs than in the past 
+- ⟶ the steam engine represented the sole ‘general purpose’ technology (GPT)
 
-2. allow to achieve productivity growth in the long run 
+6. The efficiency of the factory system follows learning curves.
 
-3. generate savings in the use of resources 
+- Entrepreneurs ⟶ must learn how to manage the workforce
 
-4. progressively improve the quality of the goods 
+THE PROCESS IS GRADUAL IN SECOTORS, INNOVATION, ADAPTATION, PROGRESS!
 
-**==> picture [274 x 278] intentionally omitted <==**
+- Workers ⟶ must adapt to factory discipline.
 
-30067 - Economic History 
+30067 - Economic History
 
-2025-2026 
+2025-2026
 
-33 
+## HOW CAN THIS BE OVERCOME?
 
-## TECHNOLOGY THAT MATTERS 
+30067 - Economic History
 
-**==> picture [852 x 390] intentionally omitted <==**
+2025-2026
 
-**----- Start of picture text -----**<br>
--  1760-1820: macro-innovations<br>-  1820-1850s: micro-innovations<br>-  1860s-: second industrial<br>revolution<br>**----- End of picture text -----**<br>
+## INVENTION
 
+New idea, new scientific development, new product, new process
 
-30067 - Economic History 
+Expands the existing stock of technological knowledge
 
-2025-2026 
+Can occur anywhere; random
 
-34 
+Often the result of individual action – does not necessarily imply innovation
 
-## WHAT KIND OF TECHNOLOGICAL INNOVATION 
+## INNOVATION
 
-## _“About 1760 a wave of gadgets swept through England”_ (Ashton, 1955) 
+Introduction into the use and commercial exploitation of the invention
 
-- Process of innovation 
+Requires articulated knowledge: markets, production, resources, technology Requires interaction with other individuals
 
-   **1. Macro inventions** : entire new technologies that set in motion new technical advances and generate leaps in productivity 
+Conditioned by markets and institutions
 
-   **2. Micro inventions** : incremental improvements on existing technologies that enhance their application and increase their efficiency 
+Has an economic and social character
 
-- 
+30067 - Economic History
 
-## Nature of innovation 
+2025-2026
 
-##  _**Inspiration**_ : scientific discovery and new knowledge may be culturally determined or matter or ‘luck’. 
+## DOES IT MEAN MICRO I. HAVE BEEN USELESS?
 
-- _**Perspiration**_ : innovation requires research and development that is costly and thus depends on economic incentives. 
+30067 - Economic History
 
-30067 - Economic History 
+2025-2026
 
-2025-2026 
+## DOES CULTURE MATTER? THE EUROPEAN ENLIGHTENMENT
 
-35 
+- Scientific Revolution: the origins
 
-## MICRO-INVENTIONS 
+- _Francis Bacon_: understanding the world through scientific inquiry
 
-- Neutral (not biased) technical change 
+- _Isaac Newton_: science can establish the laws of nature
 
-   - **Micro inventions** are typically **factor neutral** : increase the productivity of all factors proportionately 
+- The Enlightenment
 
-   - **Reverse factor bias** : when improvements save on the input that the macro invention used most intensively (e.g. coal in steam engines) 
+- By 18(th) century, scientific approach accepted in western Europe
 
-- Local learning 
+- Enlightened governments established institutions to promote science (academies, societies, patent system)
 
-   - Innovation takes place in the context of one industry, where inventors are already users of the technology they aim at perfecting. 
+- **Mokyr**: Enlightenment caused industrialisation
 
-   - Any reduction in cost improves profitability ➔ no factor bias 
+1. New scientific culture increased the rate of innovation
 
-- Collective invention 
+2. Institutions + high literacy ➔ lower cost of access to knowledge
 
-   - Information sharing makes micro-inventions cheap, reducing the need for financing and patents. 
+3. Intellectual property rights guaranteed by patents
 
-30067 - Economic History 
+30067 - Economic History
 
-2025-2026 
+2025-2026
 
-36 
+## THE EUROPEAN ENLIGHTENMENT
 
-## THE SLOW GROWTH PARADOX 
+- The Industrial Revolution
 
-**==> picture [613 x 329] intentionally omitted <==**
+- Flow of new inventions mobilized new investment
 
-• Real GDP growth <2% until mid-19th century 
+- ➔ higher labour productivity ➔ higher wages ➔ labour-saving innovation
 
-- Population growth ~1.4% per year 
+- Disagreement with Allen
 
-- • TFP growth ~0.7% (not spectacular) 
+- Macro inventions: did not bring much benefit in 18(th) century
 
-- • By 1851: more in services than in industry 
+- Micro inventions: improved science in the 19(th) century made industrial technology more efficient
 
-- Britain’s global industrial share rose dramatically 
+- ➢ Productivity growth mostly came from micro inventions after 1820.
 
-30067 - Economic History 
+- **Mokyr**: enlightened culture and institutions created an environment supportive of micro inventions
 
-2025-2026 
+30067 - Economic History
 
-37 
+2025-2026
 
-## THE SLOW GROWTH PARADOX 
+## THE EUROPEAN ENLIGHTENMENT
 
-**==> picture [451 x 273] intentionally omitted <==**
+- Origins of modern economic growth
 
-30067 - Economic History 
+- The Industrial Revolution was not the first major cluster of inventions, but the first that turned into continuous technological progress.
 
-2025-2026 
+- Epistemic base
 
-38 
+- Pre-industrial technology lacked epistemic base; trial and error
 
-## THE SLOW GROWTH PARADOX 
+- Micro-inventions improve on existing technologies → inventors need to understand why and how these technologies work
 
-1. Rapid **demographic expansion** 
+- Useful knowledge
 
-2. Technological innovation initially affected only a **limited** range of **sectors** . 
+- Scientific inquiry is useful if it has practical value and solves problems.
 
-3. The sectors impacted at the outset were relatively 
+- Growth of useful knowledge must be a collective enterprise as its gains are
 
-**small in scale** . 
+- broadly shared.
 
-      5. The transition from invention to innovative products and processes does not occur overnight. 
+30067 - Economic History
 
-         - The relationship between science and technology is weak: 
+2025-2026
 
-            - ⟶ new technologies are imperfect 
+## THE EUROPEAN ENLIGHTENMENT: TWO SIDES OF THE SAME MEDAL
 
-4. New technologies were highly **specific in scope** : 
+**1. Agenda** – focus on practical, useful
 
-   - ⟶ they applied to only one stage of the production 
+problems.
 
-- The supply of adequate skills in the labor market is initially limited. 
+- Inventing is a risky business
 
-process 
+- Opportunity cost: time investment
 
-- ⟶ the steam engine represented the sole ‘general purpose’ technology (GPT) 
+- Unpredictable returns: investment risk
 
-6. The efficiency of the factory system follows learning curves. 
+**2. Capabilities** – better instruments, math,
 
-   - Entrepreneurs ⟶ must learn how to manage the workforce 
+- Knowledge is non-excludable
 
-THE PROCESS IS GRADUAL IN SECOTORS, INNOVATION, ADAPTATION, PROGRESS! 
+research methods.
 
-- Workers ⟶ must adapt to factory discipline. 
+**3. Selection** – tolerance & persuasion in
 
-30067 - Economic History 
+- Once diffused, anyone can have it for free
 
-2025-2026 
+the “market for ideas.”
 
-39 
+- Solution: intellectual property rights
 
-## HOW CAN THIS BE OVERCOME? 
+**4. Diffusion** – open science,
 
-30067 - Economic History 
+- Patents
 
-2025-2026 
+encyclopedias, public lectures
 
-40 
+- Copyright
 
-## **INVENTION** 
+30067 - Economic History
 
-**==> picture [397 x 41] intentionally omitted <==**
+2025-2026
 
-New idea, new scientific development, new product, new process 
+## COMPLEMENTARITY OF MICRO AND MACRO INVENTION
 
-**==> picture [28 x 28] intentionally omitted <==**
+## Industrial Revolution: 1st stage
 
-Expands the existing stock of technological knowledge 
+**(1760s-1820s)**
 
-**==> picture [28 x 28] intentionally omitted <==**
+**Industrial Revolution: 2nd stage (1830s-1870s)**
 
-**==> picture [28 x 28] intentionally omitted <==**
+- Technological progress limited to few industries; the epistemic base was insufficient for their broader application.
 
-Can occur anywhere; random 
+- Full mechanisation of textile spinning and weaving; improvement in iron.and steel furnaces; precision engineering; gas lighting
 
-Often the result of individual action – does not necessarily imply innovation 
+- High-pressure steam engines revolutionised transportation; telegraph and industrial printing did the same in communication.
 
-**==> picture [28 x 28] intentionally omitted <==**
+- Micro-inventions were slow and often unsuccessful, leading to **modest productivity growth** in Britain before 1820.
 
-## **INNOVATION** 
+- Scientific breakthroughs enabled the harnessing of electricity and industrial chemistry (fertilisers, chemical dye-stuffs, etc.)
 
-**==> picture [397 x 41] intentionally omitted <==**
+- **Fast and sustained productivity growth.**
 
-**==> picture [27 x 27] intentionally omitted <==**
+30067 - Economic History
 
-Introduction into the use and commercial exploitation of the invention 
+2025-2026
 
-**==> picture [27 x 27] intentionally omitted <==**
+## TECHNOLOGY IN THE TEXTILE
 
-Requires articulated knowledge: markets, production, resources, technology Requires interaction with other individuals 
+These new innovations were fundamental for the development of the textile industry:
 
-**==> picture [27 x 28] intentionally omitted <==**
+- wool
 
-**==> picture [27 x 27] intentionally omitted <==**
+- silk
 
-Conditioned by markets and institutions 
+- cotton
 
-**==> picture [27 x 28] intentionally omitted <==**
+However, the factory system was not yet achieved. It was only with the introduction of Arkwright's hydraulic spinning machine (1769), which was much heavier and more expensive than the previous spinning machines, that we have the development of the factory system.
 
-Has an economic and social character 
+As large quantities of water were needed, the first factories were built in the countryside and in small towns.
 
-30067 - Economic History 
+30067 - Economic History
 
-2025-2026 
+2025-2026
 
-41 
+## The medieval spinning wheel
 
-## DOES IT MEAN MICRO I. HAVE BEEN USELESS? 
+1774-1779 - Mule
 
-30067 - Economic History 
+## 1764 - Spinning Jenny
 
-2025-2026 
+**THE NAISSANCE OF THE FACTORY: A REVOLUTION WITHIN THE REVOLUTION!!!!!**
 
-42 
+## 1769 - Water frame
 
-## DOES CULTURE MATTER? THE EUROPEAN ENLIGHTENMENT 
+30067 - Economic History
 
-- Scientific Revolution: the origins 
+2025-2026
 
-   - _Francis Bacon_ : understanding the world through scientific inquiry 
+## THE COTTON INDUSTRY
 
-   - _Isaac Newton_ : science can establish the laws of nature 
+- Before 1780, Britain was a minor producer of cotton cloth. By 1830, cotton textiles were the largest British industry:
 
-- The Enlightenment 
+- 8% of Gross Domestic Product
 
-   - By 18[th] century, scientific approach accepted in western Europe 
+- 16% of manufacturing jobs
 
-   - Enlightened governments established institutions to promote science (academies, societies, patent system) 
+- Britain’s early technological lead secured a competitive advantage throughout the 19(th) century.
 
-**==> picture [216 x 309] intentionally omitted <==**
+## Tons of raw cotton processed in cotton spinning by the industrial powers per year
 
-- **Mokyr** : Enlightenment caused industrialisation 
-
-   1. New scientific culture increased the rate of innovation 
-
-   2. Institutions + high literacy ➔ lower cost of access to knowledge 
-
-   3. Intellectual property rights guaranteed by patents 
-
-30067 - Economic History 
-
-2025-2026 
-
-43 
-
-## THE EUROPEAN ENLIGHTENMENT 
-
-- The Industrial Revolution 
-
-   - Flow of new inventions mobilized new investment 
-
-   - ➔ higher labour productivity ➔ higher wages ➔ labour-saving innovation 
-
-- Disagreement with Allen 
-
-   - Macro inventions: did not bring much benefit in 18[th] century 
-
-   - Micro inventions: improved science in the 19[th] century made industrial technology more efficient 
-
-   - ➢ Productivity growth mostly came from micro inventions after 1820. 
-
-- **Mokyr** : enlightened culture and institutions created an environment supportive of micro inventions 
-
-30067 - Economic History 
-
-2025-2026 
-
-44 
-
-## THE EUROPEAN ENLIGHTENMENT 
-
-- Origins of modern economic growth 
-
-   - The Industrial Revolution was not the first major cluster of inventions, but the first that turned into continuous technological progress. 
-
-- Epistemic base 
-
-   - Pre-industrial technology lacked epistemic base; trial and error 
-
-   - Micro-inventions improve on existing technologies → inventors need to understand why and how these technologies work 
-
-- Useful knowledge 
-
-   - Scientific inquiry is useful if it has practical value and solves problems. 
-
-   - Growth of useful knowledge must be a collective enterprise as its gains are 
-
-      - broadly shared. 
-
-**==> picture [197 x 484] intentionally omitted <==**
-
-30067 - Economic History 
-
-2025-2026 
-
-45 
-
-## THE EUROPEAN ENLIGHTENMENT: TWO SIDES OF THE SAME MEDAL 
-
-**1. Agenda** – focus on practical, useful 
-
-problems. 
-
-   - Inventing is a risky business 
-
-      - Opportunity cost: time investment 
-
-      - Unpredictable returns: investment risk 
-
-**2. Capabilities** – better instruments, math, 
-
-- Knowledge is non-excludable 
-
-research methods. 
-
-**3. Selection** – tolerance & persuasion in 
-
-- Once diffused, anyone can have it for free 
-
-the “market for ideas.” 
-
-   - Solution: intellectual property rights 
-
-**4. Diffusion** – open science, 
-
-- Patents 
-
-encyclopedias, public lectures 
-
-- Copyright 
-
-30067 - Economic History 
-
-2025-2026 
-
-46 
-
-## COMPLEMENTARITY OF MICRO AND MACRO INVENTION 
-
-## **Industrial Revolution: 1st stage** 
-
-**(1760s-1820s)** 
-
-**Industrial Revolution: 2nd stage (1830s-1870s)** 
-
-- Technological progress limited to few industries; the epistemic base was insufficient for their broader application. 
-
-   - Full mechanisation of textile spinning and weaving; improvement in iron.and steel furnaces; precision engineering; gas lighting 
-
-   - High-pressure steam engines revolutionised transportation; telegraph and industrial printing did the same in communication. 
-
-- Micro-inventions were slow and often unsuccessful, leading to **modest productivity growth** in Britain before 1820. 
-
-- Scientific breakthroughs enabled the harnessing of electricity and industrial chemistry (fertilisers, chemical dye-stuffs, etc.) 
-
-- **Fast and sustained productivity growth.** 
-
-30067 - Economic History 
-
-2025-2026 
-
-47 
-
-## TECHNOLOGY IN THE TEXTILE 
-
-**==> picture [420 x 331] intentionally omitted <==**
-
-These new innovations were fundamental for the development of the textile industry: 
-
-- wool 
-
-- silk 
-
-- cotton 
-
-However, the factory system was not yet achieved. It was only with the introduction of Arkwright's hydraulic spinning machine (1769), which was much heavier and more expensive than the previous spinning machines, that we have the development of the factory system. 
-
-As large quantities of water were needed, the first factories were built in the countryside and in small towns. 
-
-30067 - Economic History 
-
-2025-2026 
-
-48 
-
-**==> picture [182 x 187] intentionally omitted <==**
-
-## The medieval spinning wheel 
-
-**==> picture [196 x 127] intentionally omitted <==**
-
-1774-1779 - Mule 
-
-## 1764 - Spinning Jenny 
-
-**THE NAISSANCE OF THE FACTORY: A REVOLUTION WITHIN THE REVOLUTION!!!!!** 
-
-**==> picture [208 x 206] intentionally omitted <==**
-
-## 1769 - Water frame 
-
-**==> picture [363 x 232] intentionally omitted <==**
-
-30067 - Economic History 
-
-2025-2026 
-
-49 
-
-## THE COTTON INDUSTRY 
-
-- Before 1780, Britain was a minor producer of cotton cloth. By 1830, cotton textiles were the largest British industry: 
-
-   - 8% of Gross Domestic Product 
-
-   - 16% of manufacturing jobs 
-
-- Britain’s early technological lead secured a competitive advantage throughout the 19[th] century. 
-
-## **Tons of raw cotton processed in cotton spinning by the industrial powers per year** 
-
-||**UK**|France|**Germany**|**USA**|
+|**UK**|France|**Germany**|**USA**|
 |---|---|---|---|---|
 |1840s|192,000|54,000|11,000|47,000|
 |1900s|869,000|231,000|435,000|1,110,000|
 
+30067 - Economic History
 
+2025-2026
 
-30067 - Economic History 
+## THE COTTON DISTRICT: LANCASHIRE
 
-2025-2026 
+- Lancashire became a dominant hub for the cotton industry during the Industrial Revolution due to a combination of favorable geography, economic conditions, and acquired advantages that created a powerful industrial agglomeration.
 
-50 
+- Lancashire had "first nature geography" that provided crucial resources.
 
-## THE COTTON DISTRICT: LANCASHIRE 
+**Water and power**: the region's fast-flowing streams and rivers supplied the necessary water power for early mills, a vital resource before the widespread adoption of steam power.
 
-- Lancashire became a dominant hub for the cotton industry during the Industrial Revolution due to a combination of favorable geography, economic conditions, and acquired advantages that created a powerful industrial agglomeration. 
+**Coal**: the availability of cheap local coal was a key advantage, especially as steam power replaced water power. This allowed the industry to continue its growth and move away from being solely dependent on rivers.
 
-- Lancashire had "first nature geography" that provided crucial resources. 
+**Access to the sea**: Lancashire had excellent access to the sea, particularly through the port of Liverpool, which was essential for importing raw cotton and exporting finished goods.
 
-**==> picture [46 x 46] intentionally omitted <==**
+30067 - Economic History
 
-**Water and power** : the region's fast-flowing streams and rivers supplied the necessary water power for early mills, a vital resource before the widespread adoption of steam power. 
+2025-2026
 
-**==> picture [43 x 44] intentionally omitted <==**
+2025-2026 30067 - Economic History
 
-**Coal** : the availability of cheap local coal was a key advantage, especially as steam power replaced water power. This allowed the industry to continue its growth and move away from being solely dependent on rivers. 
+## THE COTTON DISTRICT: LANCASHIRE
 
-**==> picture [39 x 38] intentionally omitted <==**
+- Lancashire became an extremely successful industrial agglomeration.
 
-**Access to the sea** : Lancashire had excellent access to the sea, particularly through the port of Liverpool, which was essential for importing raw cotton and exporting finished goods. 
+- This concentration of related businesses led to significant productivity benefits.
 
-30067 - Economic History 
+- The dense network of suppliers, technological spillovers, and a large pool of labour with specialized skills made the area highly productive.
 
-2025-2026 
+- This high productivity allowed companies to pay higher wages while remaining competitive in international markets.
 
-51 
+By 1851, the Lancashire industry accounted for 66% of UK spindles and about **46% of the world's** . **spindles**
 
-**==> picture [594 x 414] intentionally omitted <==**
+30067 - Economic History
 
-2025-2026 30067 - Economic History 
+2025-2026
 
-52 
+## THE MINING INDUSTRY
 
-## THE COTTON DISTRICT: LANCASHIRE 
+- The innovations that contributed most to English industrial success are:
 
-- Lancashire became an extremely successful industrial agglomeration. 
+- the process of smelting ferrous metal using coke
 
-- This concentration of related businesses led to significant productivity benefits. 
+- the invention of the steam engine
 
-   - The dense network of suppliers, technological spillovers, and a large pool of labour with specialized skills made the area highly productive. 
+- **Coke** is obtained by bringing the coal at very high temperatures to remove impurities in the form of gas.
 
-**==> picture [483 x 168] intentionally omitted <==**
+- It is a fuel with a high calorific value that made it easier to process iron and pig iron.
 
-- This high productivity allowed companies to pay higher wages while remaining competitive in international markets. 
+30067 - Economic History
 
-By 1851, the Lancashire industry accounted for 66% of UK spindles and about **46% of the world's** . **spindles** 
+2025-2026
 
-30067 - Economic History 
+## FIND THE DIFFERENCES
 
-2025-2026 
+30067 - Economic History
 
-53 
+2025-2026
 
-## THE MINING INDUSTRY 
+## THE STEAM POWER
 
-- The innovations that contributed most to English industrial success are: 
+- The higher demand for iron and pig iron (crude iron) led to the expansion of the mining industry and the search for better techniques to extract these minerals.
 
-   - the process of smelting ferrous metal using coke 
+- The mines became deeper and deeper and this forced technicians and engineers to find a solution to free the galleries from water: → hydraulic pumps driven by steam engines were introduced.
 
-   - the invention of the steam engine 
+- Key innovations of this period include James Watt's invention of a more energy-efficient steam engine, and one capable of transforming piston motion into rotary motion.
 
-- **Coke** is obtained by bringing the coal at very high temperatures to remove impurities in the form of gas. 
+_1698 Thomas Savery_
 
-- It is a fuel with a high calorific value that made it easier to process iron and pig iron. 
+_1712 Thomas Newcomer_
 
-**==> picture [241 x 151] intentionally omitted <==**
+_1771 James Watt_
 
-**==> picture [241 x 155] intentionally omitted <==**
+30067 - Economic History
 
-30067 - Economic History 
+2025-2026
 
-2025-2026 
+## WHY BRITAIN?
 
-54 
+- Market economy with property rights & rule of law + Strong but limited state, sound taxation
 
-## FIND THE DIFFERENCES 
+- → HIGHLY OPEN LIBERAL ECONOMY, FREE TRADE BIAS
 
-**==> picture [583 x 394] intentionally omitted <==**
+- Favourable geography: coal, water, sea access
 
-30067 - Economic History 
+- Skills in textiles, mining, iron,
 
-2025-2026 
+- → COMPLEMENTARITY AMONG SECTORS
 
-55 
+- Agriculture reorganized on capitalist lines
 
-## THE STEAM POWER 
+30067 - Economic History
 
-- The higher demand for iron and pig iron (crude iron) led to the expansion of the mining industry and the search for better techniques to extract these minerals. 
+2025-2026
 
-- The mines became deeper and deeper and this forced technicians and engineers to find a solution to free the galleries from water: → hydraulic pumps driven by steam engines were introduced. 
+## CONSOLIDATING THE LEAD: THE‘WORKSHOP OF THE WORLD’
 
-- Key innovations of this period include James Watt's invention of a more energy-efficient steam engine, and one capable of transforming piston motion into rotary motion. 
+- Cotton textiles as iconic sector
 
-**==> picture [107 x 144] intentionally omitted <==**
+→ KNOWLEDGE
 
-_1698 Thomas Savery_ 
+- Lancashire as industrial hub (agglomeration effects)
 
-_1712 Thomas Newcomer_ 
+- → SPECIALIZATION
 
-**==> picture [250 x 145] intentionally omitted <==**
+- Agglomerations → productivity, hard to replicate
 
-**==> picture [114 x 131] intentionally omitted <==**
+- → ECONOMIES OF SCALE
 
-_1771 James Watt_ 
+- Exports: ~25% of industrial output by 1851
 
-30067 - Economic History 
+- → EXPORT ORIENTED
 
-2025-2026 
+30067 - Economic History
 
-56 
+2025-2026
 
-## WHY BRITAIN? 
-
-- Market economy with property rights & rule of law + Strong but limited state, sound taxation 
-
-   - → HIGHLY OPEN LIBERAL ECONOMY, FREE TRADE BIAS 
-
-- Favourable geography: coal, water, sea access 
-
-- Skills in textiles, mining, iron, 
-
-   - → COMPLEMENTARITY AMONG SECTORS 
-
-- Agriculture reorganized on capitalist lines 
-
-**==> picture [343 x 344] intentionally omitted <==**
-
-30067 - Economic History 
-
-2025-2026 
-
-57 
-
-## CONSOLIDATING THE LEAD: THE‘WORKSHOP OF THE WORLD’ 
-
-- Cotton textiles as iconic sector 
-
-→ KNOWLEDGE 
-
-- Lancashire as industrial hub (agglomeration effects) 
-
-   - → SPECIALIZATION 
-
-- Agglomerations → productivity, hard to replicate 
-
-   - → ECONOMIES OF SCALE 
-
-- Exports: ~25% of industrial output by 1851 
-
-   - → EXPORT ORIENTED 
-
-30067 - Economic History 
-
-2025-2026 
-
-58 
-
+## Related Notes
+- [[Reading on Constitutional Justice My Copy]]
+- [[6_The industrialisation process_2]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]

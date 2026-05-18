@@ -1,590 +1,466 @@
-30066 - MACROECONOMICS (8 CFU) 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "L1 Intro"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-CLASS : BIEM 14 – 2024 25 
+30066 - MACROECONOMICS (8 CFU)
 
-Schedule Tuesday 16.30 – 18.00      (N02) Wednesday 16.30 – 18.00      (N02) Thursday      12.00 – 13.30      (N12) **Lecture 1 (Ch. 1) Introduction** 
+CLASS: BIEM 14 – 2024 25
 
-M I C H E L A  B R A G A 
+Schedule Tuesday 16.30 – 18.00      (N02) Wednesday 16.30 – 18.00      (N02) Thursday      12.00 – 13.30      (N12) **Lecture 1 (Ch. 1) Introduction**
 
-30066 - MACROECONOMICS (8 CFU) 
+30066 - MACROECONOMICS (8 CFU)
 
-CLASS : BIEM 19 – 2024 25 
+CLASS: BIEM 19 – 2024 25
 
-Schedule Tuesday 14.45 – 16.15      (N03) Wednesday 14.45 – 16.15      (N03) Thursday      10.15 – 11.45      (N03) **Lecture 1 (Ch. 1) Introduction** 
+Schedule Tuesday 14.45 – 16.15      (N03) Wednesday 14.45 – 16.15      (N03) Thursday      10.15 – 11.45      (N03) **Lecture 1 (Ch. 1) Introduction**
 
-M I C H E L A  B R A G A 
+## TODAY AGENDA
 
-## TODAY AGENDA 
+– _The course roadmap:_
 
-– _The course roadmap:_ 
+§ The macro issues
 
-§ The macro issues 
+§ The method
 
-§ The method 
+§ The time horizons
 
-§ The time horizons 
+– _Useful info_
 
-– _Useful info_ 
+§ Team
 
-§ Team 
+§ Material
 
-§ Material 
+§ Assessment
 
-§ Assessment 
+§ Rules of the game
 
-§ Rules of the game 
+Our work as economists ….
 
-3 
+## GUESS THE COUNTRY
 
-**==> picture [580 x 321] intentionally omitted <==**
+**This country had inflation above 100% in 2023. Which one is it?**
 
-Our work as economists …. 
+(A) Venezuela
 
-4 
+(B) Argentina
 
-## **GUESS THE COUNTRY** 
+(C) Turkey (D) Brazil
 
-**This country had inflation above 100% in 2023. Which one is it?** 
+## GUESS THE COUNTRY
 
-(A) Venezuela 
+**This country has the highest debt-to-GDP ratio among advanced economies. Which one is it?**
 
-(B) Argentina 
+- (A) Italy
 
-(C) Turkey (D) Brazil 
+- (B) United States
 
-## **GUESS THE COUNTRY** 
+- (C) Japan
 
-**This country has the highest debt-to-GDP ratio among advanced economies. Which one is it?** 
+(D) France
 
-- (A) Italy 
+## TRUE OR FALSE?
 
-- (B) United States 
+**A recession occurs when a country’s GDP declines for three consecutive quarters.**
 
-- (C) Japan 
+## TRUE OR FALSE?
 
-(D) France 
+**Public debt is always bad for an economy.**
 
-## **TRUE OR FALSE?** 
+## IN A POLICY MAKER SHOES
 
-**A recession occurs when a country’s GDP declines for three consecutive quarters.** 
+**Imagine you are the President of the European Central Bank (ECB). Inflation in the Eurozone is at 8%, well above the 2% target. What would you do?**
 
-## **TRUE OR FALSE?** 
+(A) Increase interest rates to reduce demand and lower inflation. (B) Print more money to help people buy more goods. (C) Cut taxes to boost consumption and economic growth. (D) Do nothing, because the market will adjust on its own.
+*(See also: [[2025 - 30692 - Course presentation v2025.09.03 print#^cvkpjv]])*
 
-**Public debt is always bad for an economy.** 
+## What is macroeconomics about?
 
-## **IN A POLICY MAKER SHOES** 
+The best way to answer is not to give you a formal definition, but rather to simply have a look at the world around us
 
-**Imagine you are the President of the European Central Bank (ECB). Inflation in the Eurozone is at 8%, well above the 2% target. What would you do?** 
+## MACRO FROM TWO PERSPECTIVES
 
-(A) Increase interest rates to reduce demand and lower inflation. (B) Print more money to help people buy more goods. (C) Cut taxes to boost consumption and economic growth. (D) Do nothing, because the market will adjust on its own. 
+**REAL MACRO** Good market (production, income, unemployment, consumption, investment)
 
-## What is macroeconomics about? 
+**FINANCIAL/MONETARY MACRO** Money market, bonds and stocks, interest rates
 
-**==> picture [446 x 275] intentionally omitted <==**
+https://www.imf.org/en/Publications/WEO/ Issues/2025/01/17/world-economic-outlookupdate-january-2025
 
-The best way to answer is not to give you a formal definition, but rather to simply have a look at the world around us 
+https://www.ecb.europa.eu/stats/ policy_and_exchange_rates/ key_ecb_interest_rates/html/index.en.html
 
-## MACRO FROM TWO PERSPECTIVES 
+## WHY IS MACRO IMPORTANT FOR EVERYONE?
 
-**REAL MACRO** Good market (production, income, unemployment, consumption, investment) 
+https://ec.europa.eu/eurostat/statistics-explained/index.php? title=File:Euro_area_annual_inflation_and_its_main_components,_January_2015__January_2025_(estimated).png
 
-**FINANCIAL/MONETARY MACRO** Money market, bonds and stocks, interest rates 
+## WHY IS MACRO IMPORTANT FOR EVERYONE?
 
-**==> picture [295 x 167] intentionally omitted <==**
+https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2021&locations=XC-US&start=1970
 
-**==> picture [295 x 185] intentionally omitted <==**
+We face recessions, booms …but also crisis What are their effects? What can policymakers do about them?
 
-https://www.imf.org/en/Publications/WEO/ Issues/2025/01/17/world-economic-outlookupdate-january-2025 
+## FISCAL POLICIES
 
-https://www.ecb.europa.eu/stats/ policy_and_exchange_rates/ key_ecb_interest_rates/html/index.en.html 
+- What is the fiscal policy?
 
-## WHY IS MACRO IMPORTANT FOR EVERYONE? 
+- How does it affect an economy?
 
-**==> picture [585 x 335] intentionally omitted <==**
+## MONETARY POLICY
 
-https://ec.europa.eu/eurostat/statistics-explained/index.php? title=File:Euro_area_annual_inflation_and_its_main_components,_January_2015__January_2025_(estimated).png 
+- What is the monetary policy?
 
-## WHY IS MACRO IMPORTANT FOR EVERYONE? 
+- How does it affect an economy?
 
-**==> picture [468 x 287] intentionally omitted <==**
+## UNEMPLOYMENT
 
-https://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?end=2021&locations=XC-US&start=1970 
+Institutions matter and make the difference!!!!
 
-**==> picture [218 x 86] intentionally omitted <==**
+## THE ROLE OF EXPECTATIONS
 
-We face recessions, booms …but also crisis What are their effects? What can policymakers do about them? 
+https://tradingeconomics.com/euro-area/stock-market
 
-## FISCAL POLICIES 
+Economic policies impact directly the economy, but also expectations matter
 
-**==> picture [239 x 189] intentionally omitted <==**
+## THE INTERNATIONAL CONTEXT
 
-**==> picture [306 x 110] intentionally omitted <==**
+Openness stimulates growth and trade but can increase inequality, job displacement and vulnerability to economic contagion
 
-- What is the fiscal policy? 
+## GOVERNMENT DEBT
 
-- How does it affect an economy? 
+https://tradingeconomics.com/italy/government-debt-to-gdp
 
-## MONETARY POLICY 
+https://tradingeconomics.com/germany/government-debt-togdp
 
-**==> picture [233 x 183] intentionally omitted <==**
+Debt can be useful to fund essential services, but if excessive without growth ↑ interest rates, ↓ investment , and ↑ risk of fiscal crises
 
-**==> picture [299 x 230] intentionally omitted <==**
+https://tradingeconomics.com/japan/government-debt-to-gdp
 
-- What is the monetary policy? 
+## THE MACRO CO - MOVEMENTS
 
-- How does it affect an economy? 
+When GDP ê …
 
-## UNEMPLOYMENT 
+….inflation ê
 
-**==> picture [459 x 297] intentionally omitted <==**
+….unemployment é
 
-Institutions matter and make the difference!!!! 
+…and… .
 
-## THE ROLE OF EXPECTATIONS 
+…other aggregates change…
 
-**==> picture [453 x 314] intentionally omitted <==**
+## Case Study: THE COVID SHOCK
 
-https://tradingeconomics.com/euro-area/stock-market 
+- The lockdown to create social distance….
 
-Economic policies impact directly the economy, but also expectations matter 
+## Case Study: THE COVID SHOCK
 
-## THE INTERNATIONAL CONTEXT 
+- … … the response of the labour market
 
-**==> picture [343 x 189] intentionally omitted <==**
+## Case Study: THE COVID SHOCK
 
-**==> picture [384 x 200] intentionally omitted <==**
+- … …. the income effect on consumption
 
-Openness stimulates growth and trade but can increase inequality, job displacement and vulnerability to economic contagion 
+## Case Study: THE COVID SHOCK
 
-## GOVERNMENT DEBT 
+- … the effect on the real economy: contagion!
 
-**==> picture [345 x 176] intentionally omitted <==**
+## Case Study: THE COVID SHOCK
 
-https://tradingeconomics.com/italy/government-debt-to-gdp 
+… government and central banks interventions
 
-**==> picture [337 x 202] intentionally omitted <==**
+## Some «real» outlines of our course
 
-**==> picture [322 x 193] intentionally omitted <==**
+1. IMF World Economic Outlook https://www.imf.org/en/publications/weo
 
-https://tradingeconomics.com/germany/government-debt-togdp 
+2. ECB Economic Bulletin
 
-Debt can be useful to fund essential services, but if excessive without growth ↑ interest rates, ↓ investment , and ↑ risk of fiscal crises 
+- https://www.ecb.europa.eu/press/economic bulletin/html/index.en.html
 
-https://tradingeconomics.com/japan/government-debt-to-gdp 
+3. Bank of Italy Economic Bulletin -
 
-## THE MACRO CO - MOVEMENTS 
+https://www.bancaditalia.it/pubblicazioni/bollettino economico/index.html? com.dotmarketing.htmlpage.language=1
 
-**==> picture [412 x 163] intentionally omitted <==**
+4. Find something similar for your home country
 
-When GDP ê … 
+- …
 
-**==> picture [382 x 147] intentionally omitted <==**
+Have a look to your country report!
 
-….inflation ê 
+## MICRO VS. MACRO
 
-**==> picture [382 x 152] intentionally omitted <==**
+§ Economics =  theory of choices  under scarcity
 
-….unemployment é 
+§ Two perspectives: micro vs macro
 
-…and… . 
+¨ Macroeconomics How the aggregate system behaves (aggregate consumption, unemployment, GDP, inflation…)
 
-…other aggregates change… 
+- Microeconomics
 
-## Case Study: THE COVID SHOCK 
+How single individuals (consumers, firms, institutions) _take_ decisions/ make choices about consumption, working, production, pricing, …
 
-- The lockdown to create social distance…. 
+## – THE MICRO MACRO INTERDEPENDENCE
 
-**==> picture [438 x 301] intentionally omitted <==**
+Modern macro is micro founded
 
-21 
+## THE METHODS
 
-## Case Study: THE COVID SHOCK 
+- Macro dynamics complex and intricate: necessary to simplify
 
-• … … the response of the labour market 
+- Theoretical analytical framework  based  on _models_ to
 
-**==> picture [421 x 285] intentionally omitted <==**
+- Analyze
 
-22 
+- Identify cause – effect nexus
 
-## Case Study: THE COVID SHOCK 
+- Predict future dynamics
 
-## • … …. the income effect on consumption 
+- Empirical tests through econometric techniques
 
-**==> picture [433 x 305] intentionally omitted <==**
+- …we leave this to the econometrics course!!!
 
-23 
+## TIME HORIZONS
 
-## Case Study: THE COVID SHOCK 
-
-## • … the effect on the real economy: contagion! 
-
-**==> picture [427 x 342] intentionally omitted <==**
-
-24 
-
-## Case Study: THE COVID SHOCK 
-
-… government and central banks interventions 
-
-**==> picture [306 x 284] intentionally omitted <==**
-
-**==> picture [327 x 234] intentionally omitted <==**
-
-## **Some «real» outlines of our course** 
-
-**==> picture [135 x 174] intentionally omitted <==**
-
-1. IMF World Economic Outlook https://www.imf.org/en/publications/weo 
-
-2. ECB Economic Bulletin 
-
-- https://www.ecb.europa.eu/press/economic bulletin/html/index.en.html 
-
-3. Bank of Italy Economic Bulletin - 
-
-https://www.bancaditalia.it/pubblicazioni/bollettino economico/index.html? com.dotmarketing.htmlpage.language=1 
-
-4. Find something similar for your home country 
-
-**==> picture [221 x 69] intentionally omitted <==**
-
-**==> picture [250 x 79] intentionally omitted <==**
-
-- … 
-
-Have a look to your country report! 
-
-**==> picture [276 x 184] intentionally omitted <==**
-
-## MICRO VS. MACRO 
-
-§ Economics =  theory of choices  under scarcity 
-
-§ Two perspectives: micro vs macro 
-
-¨ Macroeconomics How the aggregate system behaves (aggregate consumption, unemployment, GDP, inflation…) 
-
-## • Microeconomics 
-
-How single individuals (consumers, firms, institutions) _take_ decisions/ make choices about consumption, working, production, pricing, … 
-
-**==> picture [381 x 192] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Macro Micro<br>**----- End of picture text -----**<br>
-
-
-## – THE MICRO MACRO INTERDEPENDENCE 
-
-**==> picture [221 x 71] intentionally omitted <==**
-
-MICRO CHOICES 
-
-MACRO DYNAMICS 
-
-**==> picture [216 x 75] intentionally omitted <==**
-
-Modern macro is micro founded 
-
-29 
-
-## THE METHODS 
-
-- Macro dynamics complex and intricate: necessary to simplify 
-
-- Theoretical analytical framework  based  on _models_ to 
-
-      - Analyze 
-
-      - Identify cause – effect nexus 
-
-      - Predict future dynamics 
-
-- Empirical tests through econometric techniques 
-
-   - …we leave this to the econometrics course!!! 
-
-## TIME HORIZONS 
-
-||**Short Run**<br>**(0-2 years)**|**Medium Run**<br>**(2-5 years)**|**Long Run**<br>**(5+ years)**|
+|**Short Run(5+ years)**|
 |---|---|---|---|
 |**Prices & Wages**|Sticky|Adjusting|Flexible|
-|**Key Drivers**|Aggregate<br>demand<br>(shocks,<br>monetary policy)|Demand & supply<br>(labor market,<br>inflation)|Economic growth<br>(productivity,<br>technology)|
-|**Economic Policy**|Strong impact of<br>fiscal & monetary<br>policy|Only structural<br>changes matter|Only productivity<br>drives long-term<br>growth|
+|**Key Drivers**|Aggregate demand (shocks, monetary policy)|Demand & supply (labor market, inflation)|Economic growth (productivity, technology)|
+|**Economic Policy**|Strong impact of fiscal & monetary policy|Only structural changes matter|Only productivity drives long-term growth|
 
+## WILL MACRO BE USEFUL FOR ME?
 
+## Of course!!!
 
-## WILL MACRO BE USEFUL FOR ME? 
+It answer concrete questions that _managers_ , _consultants, investors, citizens, politicians_ have every day!
 
-**==> picture [504 x 278] intentionally omitted <==**
+## THE TAKEAWAY OF THE MACRO COURSE
 
-## **Of course!!!** 
+- Economic concepts, theories, graphs, equations, economic intuition
 
-It answer concrete questions that _managers_ , _consultants, investors, citizens, politicians_ have every day! 
+- A new perspective about the world around you
 
-32 
+- A rigorous way of thinking that will help you throughout your career (and life!)
 
-## THE TAKEAWAY OF THE MACRO COURSE 
+- A set of values and skills
 
-- Economic concepts, theories, graphs, equations, economic intuition 
+- Hard-working attitude
 
-- A new perspective about the world around you 
+- Intellectual curiosity
 
-- A rigorous way of thinking that will help you throughout your career (and life!) 
+- Respect for other people and rules
 
-- A set of values and skills 
+## THE MACRO BIEM 14 TEAM
 
-   - Hard-working attitude 
+- Lectures:
 
-   - Intellectual curiosity 
+- Michela Braga (michela.braga@unibocconi.it)
 
-   - Respect for other people and rules 
+- Office hour: Thursday 14.00 – 16.00 or upon e mail request, room 5 – c1 – 12
 
-33 
+- Also on line and in group
 
-**==> picture [207 x 138] intentionally omitted <==**
+- I reply from Monday to Friday, if I do not respond within 24h, please forward your previous e-mail (…I’m old!!!!)
 
-**==> picture [169 x 170] intentionally omitted <==**
+- TA sessions
 
-## THE MACRO BIEM 14 TEAM 
+- Sladana Krgovic (sladana.krgovic@unibocconi.it)
 
-## • Lectures: 
+- Office hour:   Mondays 14:30- 15:30, room 5 – d2 – 03. Send an e mail to book a preferred slot
 
-   - Michela Braga (michela.braga@unibocconi.it) 
+## THE COURSE STRUCTURE
 
-      - Office hour: Thursday 14.00 – 16.00 or upon e mail request, room 5 – c1 – 12 
+PART 1: The fundamentals
 
-      - Also on line and in group 
+– 18 sessions – Michela Braga
 
-      - I reply from Monday to Friday, if I do not respond within 24h, please forward your previous e-mail (…I’m old!!!!) 
+- 3 TA sessions – Sladana Krgovic  20/02, 27/03 6/03
 
-- TA sessions 
+– Midterm
 
-   - Sladana Krgovic (sladana.krgovic@unibocconi.it) 
+PART 2: extentions
 
-      - Office hour:   Mondays 14:30- 15:30, room 5 – d2 – 03. Send an e mail to book a preferred slot 
+– 18 sessions – Michela Braga
 
-35 
+– 2 TA sessions – Sladana Krgovic  09/04, 13/05
 
-## THE COURSE STRUCTURE 
+– Final exam (second partial or general)
 
-PART 1: The fundamentals 
+During lectures we will solve additional “exam style” problems!!
 
-– 18 sessions – Michela Braga 
+## THE MACRO BIEM 19 TEAM
 
-- 3 TA sessions – Sladana Krgovic  20/02, 27/03 6/03 
+- Lectures:
 
-– Midterm 
+- Michela Braga (michela.braga@unibocconi.it)
 
-PART 2: extentions 
+- Office hour: Thursday 14.00 – 16.00 or upon e mail request, room 5 – c1 – 12
 
-– 18 sessions – Michela Braga 
+- Also on line and in group
 
-– 2 TA sessions – Sladana Krgovic  09/04, 13/05 
+- I reply from Monday to Friday, if I do not respond within 24h, please forward your previous e-mail (…I’m old!!!!)
 
-– Final exam (second partial or general) 
+- TA sessions
 
-During lectures we will solve additional “exam style” problems!! 
+- Caio De Almeida Castro (caio.dealmeida@unibocconi.it)
 
-36 
+- Office hour:   Mondays, from 13:00 to 14:30. Possible to send an e mail to book a preferred slot
 
-## THE MACRO BIEM 19 TEAM 
+## THE COURSE STRUCTURE
 
-## • Lectures: 
+PART 1: The fundamentals
 
-   - Michela Braga (michela.braga@unibocconi.it) 
+- 18 sessions – Michela Braga
 
-      - Office hour: Thursday 14.00 – 16.00 or upon e mail request, room 5 – c1 – 12 
+- 3 TA sessions – Caio De Almeida 20/02, 27/03 6/03
 
-      - Also on line and in group 
+- Midterm
 
-      - I reply from Monday to Friday, if I do not respond within 24h, please forward your previous e-mail (…I’m old!!!!) 
+PART 2: extensions
 
-- TA sessions 
+– 18 sessions – Michela Braga
 
-   - Caio De Almeida Castro (caio.dealmeida@unibocconi.it) 
+- 2 TA sessions – Caio De Almeida 09/04, 13/05
 
-      - Office hour:   Mondays, from 13:00 to 14:30. Possible to send an e mail to book a preferred slot 
+- Final exam (second partial or general)
 
-37 
+During lectures we will solve additional “exam style” problems!!
 
-## THE COURSE STRUCTURE 
+## EVALUATED SKILLS
 
-PART 1: The fundamentals 
+_**Comprehensive assessment to evaluate different skills (hard and soft)…at the exam your reasoning matters more that numbers!!!**_
 
-- 18 sessions – Michela Braga 
+At the exam you could be asked to
 
-- 3 TA sessions – Caio De Almeida 20/02, 27/03 6/03 
+1. Solve numerical exercise
 
-- Midterm 
+2. Make comparative statics analysis
 
-PART 2: extensions 
+3. Analyze changes or variations within the studied models
 
-– 18 sessions – Michela Braga 
+4. Discuss statements to determine if they are true or false
 
-- 2 TA sessions – Caio De Almeida 09/04, 13/05 
+5. Make or analyze graphs that represent the studied model
 
-- Final exam (second partial or general) 
+….but do not panic: **we’ll learn together** !
 
-During lectures we will solve additional “exam style” problems!! 
+… if you are impatient, on Bboard you can find the midterm mock text and the solution outline!
 
-38 
+## WRITTEN EXAM
 
-## EVALUATED SKILLS 
+## Partial
 
-_**Comprehensive assessment to evaluate different skills (hard and soft)…at the exam your reasoning matters more that numbers!!!**_ 
+## General
 
-At the exam you could be asked to 
+- Two partial examinations (50% each)
 
-1. Solve numerical exercise 
+- March 10 (Topics 1-3 in the syllabus)
 
-2. Make comparative statics analysis 
+- May  23 **or** June 13 (Topics 4-7 in the syllabus)
 
-3. Analyze changes or variations within the studied models 
+- If you did not sit for or pass the exam, you **CANNOT** register for second date in January
 
-4. Discuss statements to determine if they are true or false 
+- One single exam covering all Topics
 
-5. Make or analyze graphs that represent the studied model 
+- May 23, June 13, September 2
 
-….but do not panic: **we’ll learn together** ! 
+- 6 questions in 1h
 
-… if you are impatient, on Bboard you can find the midterm mock text and the solution outline! 
+- To pass you must get at least **18/30 in each** examination
 
-39 
+- 4 questions in 40’
 
-## WRITTEN EXAM 
+_Laude_ is awarded based on the answer quality, completeness, clarity, formal rigor
 
-## **Partial** 
+## MATERIAL
 
-## **General** 
+To study:
 
-- Two partial examinations (50% each) 
+- Your class notes
 
-   - March 10 (Topics 1-3 in the syllabus) 
+- O. BLANCHARD, A. AMIGHINI, F. GIAVAZZI, Macroeconomics - A European Perspective, Pearson Education Limited, 2021, Fourth Edition, ISBN 9781292360898   ( _**the required edition is the one without MyEconLab access**_ )
 
-   - May  23 **or** June 13 (Topics 4-7 in the syllabus) 
+To practice:
 
-      - If you did not sit for or pass the exam, you **CANNOT** register for second date in January 
+- TA material
 
-   - One single exam covering all Topics 
+- G. FERRAGUTO, Macroeconomics - Problems and Questions, Egea 2021, 7th edition
 
-      - May 23, June 13, September 2 
+(additional questions with solution available at http:// mybook.egeaonline.it – access with code provided in the book)
 
-   - 6 questions in 1h 
+## KEEP IN TOUCH
 
-- To pass you must get at least **18/30 in each** examination 
+- To be updated check regularly Bboard
 
-- 4 questions in 40’ 
+- What is there on Bboard?
 
-_Laude_ is awarded based on the answer quality, completeness, clarity, formal rigor 
+- Syllabus
 
-## MATERIAL 
+- Day by day timetable
 
-To study: 
+- Class material lectures and slides
 
-• Your class notes 
+- Text and solutions of the TA sessions
 
-• O. BLANCHARD, A. AMIGHINI, F. GIAVAZZI, Macroeconomics - A European Perspective, Pearson Education Limited, 2021, Fourth Edition, ISBN 9781292360898   ( _**the required edition is the one without MyEconLab access**_ ) 
+- Optional readings
 
-To practice: 
+- Self-evaluation tests
 
-- TA material 
+- Mock exam
 
-- G. FERRAGUTO, Macroeconomics - Problems and Questions, Egea 2021, 7th edition 
+## MY TIPS
 
-[additional questions with solution available at http:// mybook.egeaonline.it – access with code provided in the book] 
+- Go step by step
 
-**==> picture [163 x 214] intentionally omitted <==**
+- _Before classes_: flip through the textbook
 
-**==> picture [137 x 195] intentionally omitted <==**
+- _After classes_: complement notes with the textbook, study and practice
 
-## KEEP IN TOUCH 
+- Study with your class mates
 
-- To be updated check regularly Bboard 
+- Try to answer questions at home like at the
 
-- What is there on Bboard? 
+- exam
 
-**==> picture [270 x 188] intentionally omitted <==**
+- Come to my office: I’m always available
 
-- Syllabus 
+- Be curious
 
-- Day by day timetable 
+- Podcast
 
-- Class material lectures and slides 
+- https://ourworldindata.org/
 
-- Text and solutions of the TA sessions 
+- https://cepr.org/voxeu
 
-- Optional readings 
+If you encounter difficulties, ask me for help! _Always remember: asking for help shows you are clever, not weak_
 
-- Self-evaluation tests 
+## RULES OF THE GAME
 
-- Mock exam 
+- Be an actor in class
 
-42 
+- If you  have a question, raise your hand and ask: there are no stupid questions, there are just questions!!!
 
-## MY TIPS 
+- Arrive on time
 
-**==> picture [206 x 185] intentionally omitted <==**
+- Mute your phone/notifications
 
-**==> picture [225 x 150] intentionally omitted <==**
+- Respect your (do not disturb) peers but have fun
 
-- Go step by step 
+- …please, be patient with me: I’ll do all my best for you, but I’m far from perfect!!!
 
-   - _Before classes_ : flip through the textbook 
+## ENJOY THE TRIP INTO MACROECONOMICS….
 
-   - _After classes_ : complement notes with the textbook, study and practice 
+_"The difficulty lies not so much in developing new ideas as in escaping from old ones.“_
 
-   - Study with your class mates 
+_"Ideas shape the course of history.“_
 
-   - Try to answer questions at home like at the 
+J.M. Keynes 46
 
-      - exam 
-
-- Come to my office: I’m always available 
-
-- Be curious 
-
-   - Podcast 
-
-   - https://ourworldindata.org/ 
-
-   - https://cepr.org/voxeu 
-
-**==> picture [568 x 319] intentionally omitted <==**
-
-If you encounter difficulties, ask me for help! _Always remember: asking for help shows you are clever, not weak_ 
-
-**==> picture [147 x 83] intentionally omitted <==**
-
-## RULES OF THE GAME 
-
-**==> picture [247 x 131] intentionally omitted <==**
-
-- Be an actor in class 
-
-- If you  have a question, raise your hand and ask: there are no stupid questions, there are just questions!!! 
-
-**==> picture [279 x 131] intentionally omitted <==**
-
-- Arrive on time 
-
-- Mute your phone/notifications 
-
-- Respect your (do not disturb) peers but have fun 
-
-   - …please, be patient with me: I’ll do all my best for you, but I’m far from perfect!!! 
-
-**==> picture [151 x 145] intentionally omitted <==**
-
-45 
-
-**==> picture [570 x 291] intentionally omitted <==**
-
-## ENJOY THE TRIP INTO MACROECONOMICS…. 
-
-_"The difficulty lies not so much in developing new ideas as in escaping from old ones.“_ 
-
-_"Ideas shape the course of history.“_ 
-
-J.M. Keynes 46 
-
+## Related Notes
+- [[2025 - 30692 - Course presentation v2025.09.03 print]]
+- [[Macroeconomics Exercise Book-1-227]]
+- [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]

@@ -1,58 +1,76 @@
-## **Extra exercises of Lecture 7** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect7_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 7
 
-In centralized exchanges like the NYSE, the primary function of specialists is: 
+## EX 1
 
-- a) to act as investment advisors for retail investors, not for institutional investors b) to act as brokers and execute buy and sell orders on behalf of their customers 
+In centralized exchanges like the NYSE, the primary function of specialists is:
 
-- c) to interrupt trading activity if large value fluctuations take place 
+- a) to act as investment advisors for retail investors, not for institutional investors b) to act as brokers and execute buy and sell orders on behalf of their customers
 
-- d) to act as market makers who set prices and balance demand and supply 
+- c) to interrupt trading activity if large value fluctuations take place
 
-## **EX 2** 
+- d) to act as market makers who set prices and balance demand and supply
 
-## Which of the following is true about stocks and bonds? 
+## EX 2
 
-- I. dividends in preferred stocks are fixed, while they are discretionary in common stocks II. both types of stocks have voting rights 
+## Which of the following is true about stocks and bonds?
 
-- III. both types of stocks have lower seniority to bonds 
+- I. dividends in preferred stocks are fixed, while they are discretionary in common stocks II. both types of stocks have voting rights
 
-- IV. only preferred stocks have higher seniority than subordinated bond holders 
+- III. both types of stocks have lower seniority to bonds
 
-- a) I and III 
+- IV. only preferred stocks have higher seniority than subordinated bond holders
 
-- b) II and III 
+- a) I and III
 
-- c) I, and IV 
+- b) II and III
 
-- d) only IV 
+- c) I, and IV
 
-## **EX 3** 
+- d) only IV
 
-Company East Inc. has a gross income of $200 M and company West Inc. of $210 M. Company East funded itself through debt, paying interest of $40 M, while company West got funding from preferred stocks, paying dividends of $40 M. If the tax rate is 25%, which company achieved the highest income net of taxes and dividends? 
+## EX 3
 
-- a) Company West 
+Company East Inc. has a gross income of $200 M and company West Inc. of $210 M. Company East funded itself through debt, paying interest of $40 M, while company West got funding from preferred stocks, paying dividends of $40 M. If the tax rate is 25%, which company achieved the highest income net of taxes and dividends? ^sd1gzg
+*(See also: [[Lect7#^oex3kc]])*
 
-- b) Company East 
+- a) Company West
 
-- c) They achieved the same income net of taxes and dividends 
+- b) Company East
 
-- d) More information is needed to answer the question 
+- c) They achieved the same income net of taxes and dividends
 
-## **EX 4** 
+- d) More information is needed to answer the question
 
-## Which of the following are true about stock markets? 
+## EX 4
 
-- I. in seasoned offering a company already has stocks trading in secondary market and may issue new stock for trade 
+## Which of the following are true about stock markets?
 
-- II. IPOs refer to new issues of stocks, regardless of whether the company is already listed with floating stocks in that market 
+- I. in seasoned offering a company already has stocks trading in secondary market and may issue new stock for trade
 
-- III. the investment bank acting as an underwriter at best effort commits to buy full issue, but does not guarantee the price 
+- II. IPOs refer to new issues of stocks, regardless of whether the company is already listed with floating stocks in that market
 
-- IV. in commitment underwriting the price is guaranteed and full issue of corporate issuer is sold a) II and III b) I and III 
+- III. the investment bank acting as an underwriter at best effort commits to buy full issue, but does not guarantee the price
 
-- c) I and IV 
+- IV. in commitment underwriting the price is guaranteed and full issue of corporate issuer is sold a) II and III b) I and III
 
-- d) none of the others above 
+- c) I and IV
 
+- d) none of the others above
+
+## Related Notes
+- [[Lect7]]
+- [[Lect18]]
+- [[L18 Expectations Financial Markets Stocks]]

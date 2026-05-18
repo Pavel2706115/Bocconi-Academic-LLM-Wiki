@@ -1,3632 +1,3028 @@
-**A.Y. 2024/2025** 
+---
+course: "Financial Accounting 1"
+course_code: "30692"
+tags:
+  - "source"
+  - course_30692
+Title: "**UR PARTNER** ~~**S**~~"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## A B **. HANDOUTS** 
+**A.Y. 2024/2025**
 
-**ACCOUNTING MODULE 1** 
+## A B **. HANDOUTS**
 
-**WRITTEN BY MARIA VITTORIA CESAREO** 
+**ACCOUNTING MODULE 1**
 
-**EDITED BY ANDREA PAONE** 
+**WRITTEN BY MARIA VITTORIA CESAREO**
 
-TEACHING DIVISION 
+**EDITED BY ANDREA PAONE**
 
-**==> picture [436 x 201] intentionally omitted <==**
+Accounting 1
 
-Accounting 1 
+## ACCOUNTING 1
 
-**==> picture [39 x 39] intentionally omitted <==**
+## CHAPTER 1: FINANCIAL STATEMENTS AND BUSINESS DECISIONS
 
-## ACCOUNTING 1 
+Sources of Financial Resources:
 
-## **CHAPTER 1: FINANCIAL STATEMENTS AND BUSINESS DECISIONS** 
+- **Stockholders** =>Potential Return:
 
-Sources of Financial Resources: 
+- Dividends
 
-- **Stockholders** =>Potential Return: 
+- Higher future stock prices
 
-   - Dividends 
+- **Creditors** => Potential return:
 
-   - Higher future stock prices 
+- Interest
 
-- **Creditors** => Potential return: 
+Both groups estimate future performance, in part, based on information in the company’s financial statements.
 
-   - Interest 
+Accounting system:
 
-Both groups estimate future performance, in part, based on information in the company’s financial statements. 
+**Financial Accounting Reports:** Periodic financial statements and related disclosures=> provided to external decision makers (to evaluate the company)
 
-Accounting system: 
+**Managerial Accounting Reports:** Detailed plans and continuous performance reports => provided to internal decision makers (to run the company)
 
-**Financial Accounting Reports:** Periodic financial statements and related disclosures=> provided to external decision makers (to evaluate the company) 
+Business activities include:
 
-**Managerial Accounting Reports:** Detailed plans and continuous performance reports => provided to internal decision makers (to run the company) 
+- **Financing Activities**: borrowing or paying back money to lenders and receiving additional funds from stockholders or paying them dividends.
 
-Business activities include: 
+- **Investing Activities:** buying or selling items such as plant and equipment.
 
-- **Financing Activities** : borrowing or paying back money to lenders and receiving additional funds from stockholders or paying them dividends. 
+- **Operating Activities:** the day-to-day operations of the business, such as purchasing materials from suppliers, delivering products and services to customers, collecting cash from customers, and paying suppliers.
 
-- **Investing Activities:** buying or selling items such as plant and equipment. 
+We will focus much of our discussion on the perspectives of investors, creditors, and preparers of financial statements. However, you might not be aware that , managers within the firm also make direct use of financial statements. For example, marketing managers and credit managers use customers’ financial statements to decide whether to extend credit to their customers. Supply chain managers analyze suppliers’ financial statements to see whether the suppliers have the resources to meet demand and invest in future development. Both the employees’ unions and company human resource managers use financial statements as a basis for contract negotiations over pay rates. Financial statement figures even serve as a basis for calculating
 
-- **Operating Activities:** the day-to-day operations of the business, such as purchasing materials from suppliers, delivering products and services to customers, collecting cash from customers, and paying suppliers. 
+Maria Vittoria Cesareo
 
-We will focus much of our discussion on the perspectives of investors, creditors, and preparers of financial statements. However, you might not be aware that , managers within the firm also make direct use of financial statements. For example, marketing managers and credit managers use customers’ financial statements to decide whether to extend credit to their customers. Supply chain managers analyze suppliers’ financial statements to see whether the suppliers have the resources to meet demand and invest in future development. Both the employees’ unions and company human resource managers use financial statements as a basis for contract negotiations over pay rates. Financial statement figures even serve as a basis for calculating 
+## Accounting 1
 
-Maria Vittoria Cesareo 
+employee bonuses. Regardless of the functional area of management in which you are employed, you will use financial statement data.
 
-1 
+Companies usually publish four basic financial statements. Another way to describe the statement’s purposes is as follows:
 
-## Accounting 1 
+- 1. BALANCE SHEET – reports the financial position (amount of assets, liabilities, and stockholders’ equity) of an accounting entity at a point in time => reports the economic resources owned and the sources of financing for those resources
 
-**==> picture [39 x 39] intentionally omitted <==**
+- 2. INCOME STATEMENT – reports the revenues less the expenses during
 
-employee bonuses. Regardless of the functional area of management in which you are employed, you will use financial statement data. 
+the accounting period => ability to sell goods for more than the cost to produce and sell
 
-Companies usually publish four basic financial statements. Another way to describe the statement’s purposes is as follows: 
+- 3. STATEMENT OF STOCKHOLDERS’ EQUITY – reports the changes in each of the company’s stockholders’ equity accounts, including the change in the retained earnings balance caused by net income and dividends, during the reporting period=> additional contributions from or payments to investors and the amount of income the company reinvested for future growth
 
-- 1. BALANCE SHEET – reports the financial position (amount of assets, liabilities, and stockholders’ equity) of an accounting entity at a point in time => reports the economic resources owned and the sources of financing for those resources 
+- 4. STATEMENT OF CASH FLOWS – reports inflows and outflows of cash during the accounting period in the categories of operating, investing, and financingthe ability to generate cash and how it was used
 
-- 2. INCOME STATEMENT – reports the revenues less the expenses during 
+The **notes** are an integral part of these financial statements.
 
-the accounting period => ability to sell goods for more than the cost to produce and sell 
+PLEASE KEEP IN MIND THAT THE FUNDAMENTAL FINANCIAL STATEMENTS ARE (I) BALANCE SHEET AND (II) INCOME STATEMENT.
 
-- 3. STATEMENT OF STOCKHOLDERS’ EQUITY – reports the changes in each of the company’s stockholders’ equity accounts, including the change in the retained earnings balance caused by net income and dividends, during the reporting period=> additional contributions from or payments to investors and the amount of income the company reinvested for future growth 
+The preparation of statement of stockholders’equity and statement of cash flows is subsequent to the abovementioned statements.
 
-- 4. STATEMENT OF CASH FLOWS – reports inflows and outflows of cash during the accounting period in the categories of operating, investing, and financingthe ability to generate cash and how it was used 
+The four basic statements can be prepared at **any point in time** (such as the end of the year, quarter, or month) and can apply to **any time span** (such as one year, one quarter, or one month).
 
-The **notes** are an integral part of these financial statements. 
+Most companies prepare financial statements for external users (investors and creditors) at the end of each quarter (known as quarterly reports) and at the end of the year (known as annual reports).
 
-PLEASE KEEP IN MIND THAT THE FUNDAMENTAL FINANCIAL STATEMENTS ARE (I) BALANCE SHEET AND (II) INCOME STATEMENT. 
+The financial statement heading includes:
 
-The preparation of statement of stockholders’equity and statement of cash flows is subsequent to the abovementioned statements. 
+- **Name of the entity** (Company name)
 
-The four basic statements can be prepared at **any point in time** (such as the end of the year, quarter, or month) and can apply to **any time span** (such as one year, one quarter, or one month). 
+- **Title of the statement** (e.g., Balance Sheet)
 
-Most companies prepare financial statements for external users (investors and creditors) at the end of each quarter (known as quarterly reports) and at the end of the year (known as annual reports). 
+- **Specific date of the statement** (e.g., At December 31, 2020)
 
-The financial statement heading includes: 
+- **Unit of measure** (in millions of dollars)
 
-- **Name of the entity** (Company name) 
+Maria Vittoria Cesareo
 
-- **Title of the statement** (e.g., Balance Sheet) 
+Accounting 1
 
-- **Specific date of the statement** (e.g., At December 31, 2020) 
+## BALANCE SHEET
 
-- **Unit of measure** (in millions of dollars) 
+The purpose of the balance sheet is to report the financial position (assets, liabilities and stockholders’ equity) of an entity at a particular point in time. Here is a sample list of balance sheet accounts grouped into categories.
 
-Maria Vittoria Cesareo 
+- **Assets** are economic resources owned by the company. The exact list of assets depends on the individual company, but this is a representative list. All assets are expected to provide future benefits to the company.
 
-2 
+Assets: Cash, Short-Term Investments, Accounts Receivable, Notes Receivable, Inventories, Supplies, Prepaid Expenses, Long-Term Investments, Equipment, Buildings, Land, Intangibles
 
-Accounting 1 
+- **Liabilities** are the company’s debts or obligations.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Liabilities: Accounts Payable, Accrued Expenses, Notes Payable, Taxes Payable, Unearned Revenue, Bonds Payable
 
-## BALANCE SHEET 
+- **Stockholders’ equity** generally consists of two parts. First, common stock indicates the amount of financing provided by owners of the business. Next, retained earnings is the amount of earnings that have been reinvested in the business rather than being distributed as dividends to shareholders.
 
-The purpose of the balance sheet is to report the financial position (assets, liabilities and stockholders’ equity) of an entity at a particular point in time. Here is a sample list of balance sheet accounts grouped into categories. 
+Stockholders’ equity: Common Stock + Retained Earnings
 
-- **Assets** are economic resources owned by the company. The exact list of assets depends on the individual company, but this is a representative list. All assets are expected to provide future benefits to the company. 
+Accounting equation:
 
-Assets: Cash, Short-Term Investments, Accounts Receivable, Notes Receivable, Inventories, Supplies, Prepaid Expenses, Long-Term Investments, Equipment, Buildings, Land, Intangibles 
+## ASSETS= LIABILITIES + STOCKHOLDERS’ EQUITY
 
-- **Liabilities** are the company’s debts or obligations. 
+(what the company owns = what the company owes to creditors + owners)
 
-Liabilities: Accounts Payable, Accrued Expenses, Notes Payable, Taxes Payable, Unearned Revenue, Bonds Payable 
+The basic accounting equation shows what we mean when we refer to a company’s financial position: the economic resources that the company owns and the sources of financing for those resources.
 
-- **Stockholders’ equity** generally consists of two parts. First, common stock indicates the amount of financing provided by owners of the business. Next, retained earnings is the amount of earnings that have been reinvested in the business rather than being distributed as dividends to shareholders. 
+Assets are economic resources owned by the company that have some future economic benefit. Liabilities are the amount of financing provided by the creditors (debts, obligations). Stockholders’ equity indicates the amount of financing provided by owners of the business and reinvested earnings of the company since inception that were not distributed as dividends to the shareholders.
 
-Stockholders’ equity: Common Stock + Retained Earnings 
+A **corporation** is a business that is incorporated under the laws of a particular state. The owners are called stockholders or shareholders.
 
-Accounting equation: 
+Maria Vittoria Cesareo
 
-## **ASSETS= LIABILITIES + STOCKHOLDERS’ EQUITY** 
+## Accounting 1
 
-(what the company owns = what the company owes to creditors + owners) 
+IN OTHER WORDS, AT ANY POINT IN TIME, FOR ANY COMPANY WORLDWIDE, THE FOLLOWING RELATION MUST BE ALWAYS TRUE: THE AMOUNT OF ASSETS MUST BE ALWAYS EQUAL TO THE AMOUNT OF (LIABILITIES + STOCKHOLDERS’EQUITY), BECAUSE:
 
-The basic accounting equation shows what we mean when we refer to a company’s financial position: the economic resources that the company owns and the sources of financing for those resources. 
+- “ASSETS” ARE THE ANSWER TO THE QUESTION: “WHICH RESOURCES OWNS THE COMPANY?”
 
-Assets are economic resources owned by the company that have some future economic benefit. Liabilities are the amount of financing provided by the creditors (debts, obligations). Stockholders’ equity indicates the amount of financing provided by owners of the business and reinvested earnings of the company since inception that were not distributed as dividends to the shareholders. 
+- “LIABILITIES & ST. EQUITY” ARE THE ANSWER TO THE QUESTION: “HOW DID THE COMPANY FINANCE THE ACQUISITION OF THE ASSETS?”
 
-A **corporation** is a business that is incorporated under the laws of a particular state. The owners are called stockholders or shareholders. 
+## Interpretation:
 
-Maria Vittoria Cesareo 
+Assessment of assets is important to its creditors and its stockholders because assets provide a basis for judging whether the company has sufficient resources available to operate. Assets are also important because they could be sold for cash in the event that the company goes out of business.
 
-3 
+Debts are important because creditors and stockholders are concerned about whether the company has sufficient sources of cash to pay its debts. Debts are also relevant to creditors’ decision to lend money to the company because existing creditors share its claim against assets. If a business does not pay its creditors, the creditors may force the sale of assets sufficient to meet their claims.
 
-## Accounting 1 
+Stockholders’ equity is important because creditors’ claims legally come before those of owners. If the company goes out of business and its assets are sold, the proceeds of that sale must be used to pay back creditors before the stockholders receive any money. Thus, creditors consider stockholders’ equity a protective “cushion.”
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Format:
 
-IN OTHER WORDS, AT ANY POINT IN TIME, FOR ANY COMPANY WORLDWIDE, THE FOLLOWING RELATION MUST BE ALWAYS TRUE: THE AMOUNT OF ASSETS MUST BE ALWAYS EQUAL TO THE AMOUNT OF (LIABILITIES + STOCKHOLDERS’EQUITY), BECAUSE: 
+- Include the **monetary unit sign** ($) beside the first dollar amount in a group of items and by group total
 
-- “ASSETS” ARE THE ANSWER TO THE QUESTION: “WHICH RESOURCES OWNS THE COMPANY?” 
+- Assets are listed on the balance sheet by **ease of conversion to cash** .
 
-- “LIABILITIES & ST. EQUITY” ARE THE ANSWER TO THE QUESTION: “HOW DID THE COMPANY FINANCE THE ACQUISITION OF THE ASSETS?” 
+- Liabilities are listed by the **maturity** (due date).
 
-## Interpretation: 
+- Place a **single underline** below the last item in a group before a total or subtotal, and a **double underline** below the group totals.
 
-Assessment of assets is important to its creditors and its stockholders because assets provide a basis for judging whether the company has sufficient resources available to operate. Assets are also important because they could be sold for cash in the event that the company goes out of business. 
+## INCOME STATEMENT
 
-Debts are important because creditors and stockholders are concerned about whether the company has sufficient sources of cash to pay its debts. Debts are also relevant to creditors’ decision to lend money to the company because existing creditors share its claim against assets. If a business does not pay its creditors, the creditors may force the sale of assets sufficient to meet their claims. 
+The income statement (statement of income, statement of earnings, statement of operations, statement of comprehensive income) reports the accountant’s primary measure of performance of a business, revenues less expenses during the accounting period. While the term “profit” is
 
-Stockholders’ equity is important because creditors’ claims legally come before those of owners. If the company goes out of business and its assets are sold, the proceeds of that sale must be used to pay back creditors before the stockholders receive any money. Thus, creditors consider stockholders’ equity a protective “cushion.” 
+Maria Vittoria Cesareo
 
-## Format: 
+## Accounting 1
 
-- Include the **monetary unit sign** ($) beside the first dollar amount in a group of items and by group total 
+used widely for this measure of performance, accountants prefer to use the technical terms net income or net earnings.
 
-- Assets are listed on the balance sheet by **ease of conversion to cash** . 
+Companies earn revenues from the sale of goods or services to customers. Revenues normally are amounts expected to be received for goods or services that have been delivered to a customer, whether or not the customer has paid for the goods or services.
 
-- Liabilities are listed by the **maturity** (due date). 
+When revenues exceed expenses for the period, the company has generated **net income** . If expenses are greater than revenues in the period, the company has incurred a **net loss** .
 
-- Place a **single underline** below the last item in a group before a total or subtotal, and a **double underline** below the group totals. 
+**Revenues:** Cash and promises received from delivery of goods and services. (Sales, service, rental, interest revenues)
 
-## INCOME STATEMENT 
+**Expenses:** resources used to earn period’s revenues (Cost of Goods Sold, Wages, Rent, Depreciation, Insurance, Repair, Income Tax Expense)
 
-The income statement (statement of income, statement of earnings, statement of operations, statement of comprehensive income) reports the accountant’s primary measure of performance of a business, revenues less expenses during the accounting period. While the term “profit” is 
+## Interpretation:
 
-Maria Vittoria Cesareo 
+Investors and creditors closely monitor a firm’s net income because it indicates the firm’s ability to sell goods and services for more than they cost to produce and deliver. Investors buy stock when they believe that future earnings will improve and lead to dividends and the ability to sell their stock for more than they paid. Lenders also rely on future earnings to provide the resources to repay loans. The details of the statement also are important. These factors and others help investors and creditors estimate the company’s future earnings.
 
-4 
+## STATEMENT OF STOCKHOLDERS’ EQUITY
 
-## Accounting 1 
+The statement reports the changes in each of the company’s stockholders’ equity accounts during that period.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Issuing common stock increases common stock during the year.
 
-used widely for this measure of performance, accountants prefer to use the technical terms net income or net earnings. 
+The retained earnings column reports the way that net income and the distribution of dividends affected the company’s financial position during the accounting period. Net income earned during the year increases the balance of retained earnings, showing the relationship of the income statement to the balance sheet. Declaring dividends to the stockholders decreases retained earnings.
 
-Companies earn revenues from the sale of goods or services to customers. Revenues normally are amounts expected to be received for goods or services that have been delivered to a customer, whether or not the customer has paid for the goods or services. 
+**Common stock:** beginning common stock + stock issuance = ending common stock
 
-When revenues exceed expenses for the period, the company has generated **net income** . If expenses are greater than revenues in the period, the company has incurred a **net loss** . 
+**Retained earnings:** beginning retained earnings + net income – dividends = ending retained earnings
 
-**Revenues:** Cash and promises received from delivery of goods and services. (Sales, service, rental, interest revenues) 
+Interpretation:
 
-**Expenses:** resources used to earn period’s revenues (Cost of Goods Sold, Wages, Rent, Depreciation, Insurance, Repair, Income Tax Expense) 
+Maria Vittoria Cesareo
 
-REVENUES- EXPENSES= NET INCOME 
+## Accounting 1
 
-## Interpretation: 
+Reinvestment of earnings, or retained earnings, is an important source of financing for companies. Creditors closely monitor a firm’s statement of stockholders’ equity because the firm’s policy on dividend payments to the stockholders affects its ability to repay its debts. Every dollar the company pays to stockholders as a dividend is not available for use in paying back its debt. Investors examine retained earnings to determine whether the company is reinvesting a sufficient portion of earnings to support future growth.
 
-Investors and creditors closely monitor a firm’s net income because it indicates the firm’s ability to sell goods and services for more than they cost to produce and deliver. Investors buy stock when they believe that future earnings will improve and lead to dividends and the ability to sell their stock for more than they paid. Lenders also rely on future earnings to provide the resources to repay loans. The details of the statement also are important. These factors and others help investors and creditors estimate the company’s future earnings. 
+## Relationship between statements:
 
-## STATEMENT OF STOCKHOLDERS’ EQUITY 
+- 1. Net income from the income statement results in an increase in ending retained earnings on the statement of stockholders’ equity.
 
-The statement reports the changes in each of the company’s stockholders’ equity accounts during that period. 
+- 2. Ending retained earnings from the statement of stockholders’ equity is one of the two components of stockholders’ equity on the balance sheet.
 
-Issuing common stock increases common stock during the year. 
+Thus, we can think of the income statement as explaining, through the statement of stockholders’ equity, how the operations of the company improved or harmed the financial position of the company during the year.
 
-The retained earnings column reports the way that net income and the distribution of dividends affected the company’s financial position during the accounting period. Net income earned during the year increases the balance of retained earnings, showing the relationship of the income statement to the balance sheet. Declaring dividends to the stockholders decreases retained earnings. 
+## STATEMENT OF CASH FLOWS
 
-**Common stock:** beginning common stock + stock issuance = ending common stock 
+The cash flow statement equation describes the causes of the change in cash reported on the balance sheet from the end of the last period to the end of the current period:.
 
-**Retained earnings:** beginning retained earnings + net income – dividends = ending retained earnings 
+Reported revenues do not always equal cash collected from customers because some sales may be on credit. Also, expenses reported on the income statement may not be equal to the cash paid out during the period because expenses may be incurred in one period and paid for in another. Because the income statement does not provide information concerning cash flows, accountants prepare the statement of cash flows to report inflows and outflows of cash.
 
-Interpretation: 
+Like the income statement, the cash flow statement covers a specified period of time (the accounting period). Note that each of the three cash flow sources can be positive or negative.
 
-Maria Vittoria Cesareo 
+- **Cash flows from operating activities** are cash flows that are directly related to earning income, such as cash collected from customers less cash paid for operating expenses, such as cash paid to suppliers and employees.
 
-5 
+- **Cash flows from investing activities** include cash flows related to the acquisition or sale of the company’s plant and equipment and investments.
 
-## Accounting 1 
+- **Cash flows from financing activities** are cash flows directly related to the financing of the enterprise itself. They involve the receipt or payment of money to investors and creditors (except for suppliers).
 
-**==> picture [39 x 39] intentionally omitted <==**
+Intepretation:
 
-Reinvestment of earnings, or retained earnings, is an important source of financing for companies. Creditors closely monitor a firm’s statement of stockholders’ equity because the firm’s policy on dividend payments to the stockholders affects its ability to repay its debts. Every dollar the company pays to stockholders as a dividend is not available for use in paying back its debt. Investors examine retained earnings to determine whether the company is reinvesting a sufficient portion of earnings to support future growth. 
+Maria Vittoria Cesareo
 
-## Relationship between statements: 
+## Accounting 1
 
-- 1. Net income from the income statement results in an increase in ending retained earnings on the statement of stockholders’ equity. 
+Bankers often consider the Operating Activities section to be most important because it indicates the company's ability to generate cash from sales to meet its current cash needs. Any amount left over can be used to pay back the bank debt or expand the company. Stockholders will invest in a company only if they believe that it will eventually generate more cash from operations than it uses so that cash will become available to pay dividends and expand.
 
-- 2. Ending retained earnings from the statement of stockholders’ equity is one of the two components of stockholders’ equity on the balance sheet. 
+## NOTES
 
-Thus, we can think of the income statement as explaining, through the statement of stockholders’ equity, how the operations of the company improved or harmed the financial position of the company during the year. 
+“The notes are an integral part of these financial statements.”
 
-## STATEMENT OF CASH FLOWS 
+This statement warns users that failure to read the notes (or footnotes) to the financial statements will result in an incomplete picture of the company’s financial health.
 
-The cash flow statement equation describes the causes of the change in cash reported on the balance sheet from the end of the last period to the end of the current period:. 
+Understanding the note content is critical to understanding the company.
 
-Reported revenues do not always equal cash collected from customers because some sales may be on credit. Also, expenses reported on the income statement may not be equal to the cash paid out during the period because expenses may be incurred in one period and paid for in another. Because the income statement does not provide information concerning cash flows, accountants prepare the statement of cash flows to report inflows and outflows of cash. 
+All financial statements should be accompanied by notes, also called footnotes, that provide the reader with supplemental information about the financial condition and results of operations of the company, without which the financial statements cannot be fully understood.
 
-Like the income statement, the cash flow statement covers a specified period of time (the accounting period). Note that each of the three cash flow sources can be positive or negative. 
+Summary of the Four Basic Financial Statements
 
-- **Cash flows from operating activities** are cash flows that are directly related to earning income, such as cash collected from customers less cash paid for operating expenses, such as cash paid to suppliers and employees. 
+Maria Vittoria Cesareo
 
-- **Cash flows from investing activities** include cash flows related to the acquisition or sale of the company’s plant and equipment and investments. 
+## Accounting 1
 
-- **Cash flows from financing activities** are cash flows directly related to the financing of the enterprise itself. They involve the receipt or payment of money to investors and creditors (except for suppliers). 
+## GENERALLY ACCEPTED ACCOUNTING PRINCIPLE
 
-Intepretation: 
+Decision makers need to understand the measurement rules applied in computing the numbers on the financial statements. These rules are called generally accepted accounting principles, or GAAP.
 
-Maria Vittoria Cesareo 
+- In the US, Congress created the **Securities and Exchange Commission (SEC)** and gave it broad powers to determine the measurement rules for financial statements that companies issuing stock to the public (publicly traded companies) must provide to stockholders.
 
-6 
+Maria Vittoria Cesareo
 
-## Accounting 1 
+## Accounting 1
 
-**==> picture [39 x 39] intentionally omitted <==**
+- The Securities and Exchange Commission has worked with organizations of professional accountants to establish groups that are given the primary responsibility to work out the detailed rules that become **generally accepted accounting principles (GAAP).** Currently, the **Financial Accounting Standards Board (FASB) has** the responsibility to formulate generally accepted accounting principles. The official pronouncements of the FASB are called the **FASB Accounting Standards Codification.**
 
-Bankers often consider the Operating Activities section to be most important because it indicates the company's ability to generate cash from sales to meet its current cash needs. Any amount left over can be used to pay back the bank debt or expand the company. Stockholders will invest in a company only if they believe that it will eventually generate more cash from operations than it uses so that cash will become available to pay dividends and expand. 
+- The FASB relies on a conceptual framework to provide a structure for developing specific accounting standards. It states that the primary objective of financial reporting to external users is to provide financial information about the reporting entity that is **useful** to existing and potential investors, lenders, and other creditors in making decisions about providing resources to the company. Most users are interested in information to help them assess the amounts, timing, and uncertainty of a business’s future cash inflows and outflows. To be useful, the information must be **relevant** to the decisions of these external users and be a **faithful** representation of the economic substance of the company’s activities. Information is relevant if it helps evaluate the company’s past behavior and predict its future activities. Faithful representation requires that the information be complete and free from bias and other forms of error.
 
-## NOTES 
+- **Comparability, verifiability, timeliness, and understandability** are qualitative characteristics that enhance the usefulness of information that is relevant and faithfully represented. For example, our discussions of financial analysis will emphasize the importance of comparing information for the same company over time, as well as against those of competitors. Such comparisons are valid only if the information is prepared on a consistent and comparable basis. These characteristics of useful information guide the FASB in deciding what financial information should be reported.
 
-“The notes are an integral part of these financial statements.” 
+- Generally accepted accounting principles (GAAP) are of great interest to the companies that must prepare financial statements, their auditors, and the readers of the statements. Companies and their managers and owners are most directly affected by the information presented in financial statements. Companies incur the cost of preparing the statements and bear the major economic consequences of their publication, which include, among others:
 
-This statement warns users that failure to read the notes (or footnotes) to the financial statements will result in an incomplete picture of the company’s financial health. 
+1. Effects on the selling price of a company’s stock
 
-Understanding the note content is critical to understanding the company. 
+2. Effects on the amount of bonuses received by management and employees
 
-All financial statements should be accompanied by notes, also called footnotes, that provide the reader with supplemental information about the financial condition and results of operations of the company, without which the financial statements cannot be fully understood. 
+3. Loss of competitive information to other companies
 
-Summary of the Four Basic Financial Statements 
+As a consequence of these and other concerns, changes in GAAP are actively debated, political lobbying often takes place, and final rules are a compromise among the wishes of interested parties. Most managers do not need to learn all the details included in these standards. Our approach is to focus on those details that have the greatest impact on the numbers presented in financial statements and are appropriate for an introductory course.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-7 
+Accounting 1
 
-## Accounting 1 
+## International Perspective
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Since 2002, there has been substantial movement toward the adoption of **International Financial Reporting Standards (IFRS)** issued by the **International Accounting Standards Board (IASB).** The use of IFRS is increasing, with many countries or jurisdictions either currently requiring IFRS or committed to requiring IFRS.
 
-**==> picture [436 x 430] intentionally omitted <==**
+In the United States, the Securities and Exchange Commission now allows foreign companies whose stock is traded in the U.S. to use IFRS.
 
-## GENERALLY ACCEPTED ACCOUNTING PRINCIPLE 
+## ETHICAL CONDUCT
 
-Decision makers need to understand the measurement rules applied in computing the numbers on the financial statements. These rules are called generally accepted accounting principles, or GAAP. 
+- Ethics are standards of conduct for judging right from wrong, honest from dishonest, and fair from unfair. Many situations are not clear-cut and require that individuals weigh one moral principle (e.g., honesty) against another (e.g., loyalty to a friend).
 
-- In the US, Congress created the **Securities and Exchange Commission (SEC)** and gave it broad powers to determine the measurement rules for financial statements that companies issuing stock to the public (publicly traded companies) must provide to stockholders. 
+- When money is involved, people can easily fool themselves into believing that bad acts are justified. To avoid falling prey to this tendency, when faced with an ethical dilemma, it is often recommended that you follow a three-step process:
 
-Maria Vittoria Cesareo 
+1. Identify the benefits of a decision (often to the manager or employee involved) and who will be harmed (other employees, owners, creditors, the environment).
 
-8 
+2. Identify alternative courses of action.
 
-## Accounting 1 
+3. Choose the one you would like your family and friends to see reported on your local news. That is usually the ethical choice.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Primary responsibility for the information in the financial statements lies with management, represented by the highest officer of the company and the highest financial officer. Companies take three important steps to assure investors that the company’s records are accurate:
 
-- The Securities and Exchange Commission has worked with organizations of professional accountants to establish groups that are given the primary responsibility to work out the detailed rules that become **generally accepted accounting principles (GAAP).** Currently, the **Financial Accounting Standards Board (FASB) has** the responsibility to formulate generally accepted accounting principles. The official pronouncements of the FASB are called the **FASB Accounting Standards Codification.** 
+- (1) they maintain a **system of controls** over both the records and the assets of the company,
 
-- The FASB relies on a conceptual framework to provide a structure for developing specific accounting standards. It states that the primary objective of financial reporting to external users is to provide financial information about the reporting entity that is **useful** to existing and potential investors, lenders, and other creditors in making decisions about providing resources to the company. Most users are interested in information to help them assess the amounts, timing, and uncertainty of a business’s future cash inflows and outflows. To be useful, the information must be **relevant** to the decisions of these external users and be a **faithful** representation of the economic substance of the company’s activities. Information is relevant if it helps evaluate the company’s past behavior and predict its future activities. Faithful representation requires that the information be complete and free from bias and other forms of error. 
+- (2) they hire **external independent auditors** to audit the fairness of the financial statements,
 
-- **Comparability, verifiability, timeliness, and understandability** are qualitative characteristics that enhance the usefulness of information that is relevant and faithfully represented. For example, our discussions of financial analysis will emphasize the importance of comparing information for the same company over time, as well as against those of competitors. Such comparisons are valid only if the information is prepared on a consistent and comparable basis. These characteristics of useful information guide the FASB in deciding what financial information should be reported. 
+- (3) they form a **committee of the board of directors** to oversee the integrity of these other two safeguards.
 
-- Generally accepted accounting principles (GAAP) are of great interest to the companies that must prepare financial statements, their auditors, and the readers of the statements. Companies and their managers and owners are most directly affected by the information presented in financial statements. Companies incur the cost of preparing the statements and bear the major economic consequences of their publication, which include, among others: 
+The term **internal controls** refers to the process by which a company safeguards its assets and provides reasonable assurance regarding the reliability of the company’s financial reporting, the effectiveness and efficiency of its operations, and its compliance with applicable laws and regulations. Internal control procedures should extend to all assets: cash, receivables, investments, plant and equipment, and so on. Controls that ensure the accuracy of the financial records are designed to **prevent inadvertent errors** and outright fraud. External independent
 
-   1. Effects on the selling price of a company’s stock 
+Maria Vittoria Cesareo
 
-   2. Effects on the amount of bonuses received by management and employees 
+## Accounting 1
 
-   3. Loss of competitive information to other companies 
+auditors audit the financial reports to ensure that they represent what they claim and conform with generally accepted accounting principles. Because strong internal controls increase the reliability of the financial statements, internal control procedures are also reviewed by the outside independent auditor.
 
-As a consequence of these and other concerns, changes in GAAP are actively debated, political lobbying often takes place, and final rules are a compromise among the wishes of interested parties. Most managers do not need to learn all the details included in these standards. Our approach is to focus on those details that have the greatest impact on the numbers presented in financial statements and are appropriate for an introductory course. 
+## SUPPLEMENT A: TYPES OF BUSINESS ENTITIES
 
-Maria Vittoria Cesareo 
+The three main types of business entities are sole proprietorship, partnership, and corporation.
 
-9 
+- A **sole proprietorship** is an unincorporated business owned by one person; it usually is small in size and is common in the service, retailing, and farming industries. Often the owner is the manager. Legally, the business and the owner are not separate entities. Accounting views the business as a separate entity, however, that must be accounted for separately from its owner.
 
-Accounting 1 
+- A **partnership** is an unincorporated business owned by two or more persons known as partners. The agreements between the owners are specified in a partnership contract. This contract deals with matters such as division of income each reporting period and distribution of resources of the business on termination of its operations. A partnership is not legally separate from its owners. Legally, each partner in a general partnership is responsible for the debts of the business (each general partner has unlimited liability). The partnership, however, is a separate business entity to be accounted for separately from its several owners.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- A **corporation** is a business incorporated under the laws of a particular state. The owners are called stockholders or shareholders. Ownership is represented by shares of capital stock that usually can be bought and sold freely. When the organizers file an approved application for incorporation, the state issues a charter. This charter gives the corporation the right to operate as a separate legal entity, separate and apart from its owners. The stockholders enjoy limited liability. Stockholders are liable for the corporation’s debts only to the extent of their investments. The corporate charter specifies the types and amounts of stock that can be issued. Most states require a minimum of two or three stockholders and a minimum amount of resources to be contributed at the time of organization. The stockholders elect a governing board of directors, which in turn employs managers and exercises general supervision of the corporation. Accounting also views the corporation as a separate business entity that must be accounted for separately from its owners. Limited liability companies (LLCs) and limited liability partnerships (LLPs) have many characteristics similar to corporations.
 
-## International Perspective 
+In terms of economic importance, the corporation is the dominant form of business organization in the United States. This dominance is caused by the many **advantages of the corporate form**: (1) limited liability for the stockholders, (2) continuity of life, (3) ease in transferring ownership (stock), and (4) opportunities to raise large amounts of money by selling shares to a large number
 
-- Since 2002, there has been substantial movement toward the adoption of **International Financial Reporting Standards (IFRS)** issued by the **International Accounting Standards Board (IASB).** The use of IFRS is increasing, with many countries or jurisdictions either currently requiring IFRS or committed to requiring IFRS. 
+Maria Vittoria Cesareo
 
-In the United States, the Securities and Exchange Commission now allows foreign companies whose stock is traded in the U.S. to use IFRS. 
+## Accounting 1
 
-## ETHICAL CONDUCT 
+of people. The primary disadvantage of a corporation is that its income may be subject to double taxation (income is taxed when it is earned and again when it is distributed to stockholders as dividends).
 
-- Ethics are standards of conduct for judging right from wrong, honest from dishonest, and fair from unfair. Many situations are not clear-cut and require that individuals weigh one moral principle (e.g., honesty) against another (e.g., loyalty to a friend). 
+## SUPPLEMENT B: EMPLOYMENT IN THE ACCOUNTING PROFESSION TODAY
 
-- When money is involved, people can easily fool themselves into believing that bad acts are justified. To avoid falling prey to this tendency, when faced with an ethical dilemma, it is often recommended that you follow a three-step process: 
+An accountant may be licensed as a certified public accountant, or **CPA.** This designation is granted only on completion of requirements specified by the state that issues the license. Although CPA requirements vary among states, they include a college degree with a specified number of accounting courses and a total of 150 credit hours, good character, professional experience, and successful completion of a professional examination. The CPA examination is prepared by the American Institute of Certified Public Accountants.
 
-1. Identify the benefits of a decision (often to the manager or employee involved) and who will be harmed (other employees, owners, creditors, the environment). 
+Accountants (including CPAs) commonly are engaged in professional practice or are employed by businesses, government entities, nonprofit organizations, and so on. Accountants employed in these activities may take and pass a professional examination to become a certified management accountant, or **CMA** (the CMA examination is administered by the Institute of Management Accountants), or a certified internal auditor, or **CIA** (the CIA examination is administered by the Institute of Internal Auditors). Specialists in areas such as fraud examination may also apply for certification in those specialty areas (e.g., **CFE** ).
 
-2. Identify alternative courses of action. 
+## CHAPTER 2: INVESTING AND FINANCING DECISIONS AND THE ACCOUNTING SYSTEM
 
-3. Choose the one you would like your family and friends to see reported on your local news. That is usually the ethical choice. 
+**Franchising** is common in chain restaurants. Franchising involves selling the right to use or sell a product or service to another. This is an easy way for someone to start his or her own business because the franchisor often provides site location, design, marketing, and management training support in exchange for initial franchise fees and ongoing royalty fees usually based on weekly sales. Unlike most restaurant chains, however, Chipotle does not franchise the business. All restaurants are company-owned.
 
-RESPONSIBILITY AND THE NEED FOR CONTROLS 
+What Information is Included in the Balance Sheet?
 
-- Primary responsibility for the information in the financial statements lies with management, represented by the highest officer of the company and the highest financial officer. Companies take three important steps to assure investors that the company’s records are accurate: 
+- **Separate entity assumption**: states that each business’s activities must be accounted for separately from the personal activities of its owners, all other persons, and other entities.
 
-   - (1) they maintain a **system of controls** over both the records and the assets of the company, 
+Maria Vittoria Cesareo
 
-   - (2) they hire **external independent auditors** to audit the fairness of the financial statements, 
+## Accounting 1
 
-   - (3) they form a **committee of the board of directors** to oversee the integrity of these other two safeguards. 
+This means, for example, that, when an owner purchases property for personal use, the property is not an asset of the business.
 
-The term **internal controls** refers to the process by which a company safeguards its assets and provides reasonable assurance regarding the reliability of the company’s financial reporting, the effectiveness and efficiency of its operations, and its compliance with applicable laws and regulations. Internal control procedures should extend to all assets: cash, receivables, investments, plant and equipment, and so on. Controls that ensure the accuracy of the financial records are designed to **prevent inadvertent errors** and outright fraud. External independent 
+- **Going concern assumption:** (also called the continuity assumption), unless there is evidence to the contrary, we assume that the business will continue operating into the foreseeable future, long enough to meet its contractual commitments and plans. This means, for example, that if there was a high likelihood of bankruptcy, then its assets should be valued and reported on the balance sheet as if the company were to be liquidated (that is, discontinued, with all of its assets sold and all debts paid).
 
-Maria Vittoria Cesareo 
+- **Monetary unit assumption**: each business entity accounts for and reports its financial results primarily in terms of the national monetary unit (e.g., dollars in the United States, yen in Japan, and euros in Germany), without any adjustment for changes in purchasing power (e.g., inflation).
 
-10 
+- **Historical cost:** accountants measure the elements of the balance sheet initially at their cost, which is the cash-equivalent value on the date of the transaction. For example, assets are initially recorded on the exchange date at the cash paid plus the dollar value of all noncash considerations, such as the trade-in value of a used asset.
 
-## Accounting 1 
+## ELEMENTS
 
-**==> picture [39 x 39] intentionally omitted <==**
+ASSETS are economic resources owned or controlled by a company; they have measurable value and are expected to benefit the company by producing cash inflows or reducing cash outflows in the future.
 
-auditors audit the financial reports to ensure that they represent what they claim and conform with generally accepted accounting principles. Because strong internal controls increase the reliability of the financial statements, internal control procedures are also reviewed by the outside independent auditor. 
+List assets **in order of liquidity** , or how soon an asset is expected by management to be turned into cash or used.
 
-## SUPPLEMENT A: TYPES OF BUSINESS ENTITIES 
+- **Current assets** are those resources that the company will use or turn into cash within one year (the next 12 months). Current assets include Cash, Short-Term Investments (in the stocks and bonds of other companies), Accounts Receivable (due from customers and others), Supplies (to make and serve the food), and Prepaid Expenses (for rent, insurance, and advertising paid in advance of use). For manufacturers that produce and sell goods and merchandisers who sell already-completed goods, Inventory (for goods to be sold) also would be listed after Accounts Receivable. Inventory is always considered a current asset, regardless of how long it takes to produce and sell the inventory. Another common account title is Other Current Assets, which is a summary of several smaller accounts. ^f1zsez
 
-The three main types of business entities are sole proprietorship, partnership, and corporation. 
+- All other assets are considered **long term (or noncurrent).** That is, they are to be used or turned into cash after the coming year. That includes property and equipment (Land, Buildings, and Equipment), Operating lease right-of-use assets (rented assets), and
 
-- A **sole proprietorship** is an unincorporated business owned by one person; it usually is small in size and is common in the service, retailing, and farming industries. Often the owner is the manager. Legally, the business and the owner are not separate entities. Accounting views the business as a separate entity, however, that must be accounted for separately from its owner. 
+Maria Vittoria Cesareo
 
-- A **partnership** is an unincorporated business owned by two or more persons known as partners. The agreements between the owners are specified in a partnership contract. This contract deals with matters such as division of income each reporting period and distribution of resources of the business on termination of its operations. A partnership is not legally separate from its owners. Legally, each partner in a general partnership is responsible for the debts of the business (each general partner has unlimited liability). The partnership, however, is a separate business entity to be accounted for separately from its several owners. 
+## Accounting 1
 
-- A **corporation** is a business incorporated under the laws of a particular state. The owners are called stockholders or shareholders. Ownership is represented by shares of capital stock that usually can be bought and sold freely. When the organizers file an approved application for incorporation, the state issues a charter. This charter gives the corporation the right to operate as a separate legal entity, separate and apart from its owners. The stockholders enjoy limited liability. Stockholders are liable for the corporation’s debts only to the extent of their investments. The corporate charter specifies the types and amounts of stock that can be issued. Most states require a minimum of two or three stockholders and a minimum amount of resources to be contributed at the time of organization. The stockholders elect a governing board of directors, which in turn employs managers and exercises general supervision of the corporation. Accounting also views the corporation as a separate business entity that must be accounted for separately from its owners. Limited liability companies (LLCs) and limited liability partnerships (LLPs) have many characteristics similar to corporations. 
+Intangibles (nonphysical assets such as trademarks and patents) used over several years. Long term assets also includes the stocks and bonds of other companies.
 
-In terms of economic importance, the corporation is the dominant form of business organization in the United States. This dominance is caused by the many **advantages of the corporate form** : (1) limited liability for the stockholders, (2) continuity of life, (3) ease in transferring ownership (stock), and (4) opportunities to raise large amounts of money by selling shares to a large number 
+LIABILITIES are defined as measurable obligations resulting from a past transaction; they are expected to be settled in the future by transferring assets or providing services.
 
-Maria Vittoria Cesareo 
+Entities that a company owes money to are called **creditors** .
 
-11 
+Liabilities are usually listed on the balance sheet **in order of maturity** (how soon an obligation is to be paid).
 
-## Accounting 1 
+- Liabilities that will need to be paid or settled within the coming year (with cash, goods, other current assets, or services) are classified as **current liabilities** .
 
-**==> picture [39 x 39] intentionally omitted <==**
+Current liabilities include Accounts Payable (to suppliers), Unearned Revenue (for unredeemed gift cards that have been purchased by customers), Accrued Expenses Payable (more specifically, Wages Payable and Utilities Payable, although additional accrued liabilities may include Interest Payable, among others) and Current Lease Liabilities representing the current amount owed on leases from renting facilities, for example, in shopping centers. Companies may also include Income Taxes Payable (due to federal, state, and local governments) and Other Current Liabilities (a summary of several smaller accounts).
 
-of people. The primary disadvantage of a corporation is that its income may be subject to double taxation (income is taxed when it is earned and again when it is distributed to stockholders as dividends). 
+Distinguishing current assets and current liabilities assists external users of the financial statements in assessing the amounts and the timing of future cash flows.
 
-## SUPPLEMENT B: EMPLOYMENT IN THE ACCOUNTING PROFESSION TODAY 
+- **Noncurrent liabilities** include Notes Payable (written promises to pay the amount borrowed and interest as specified in the signed agreement) and Long-term Lease Liabilities (the amount owed beyond the next 12 months for rent of buildings).
 
-An accountant may be licensed as a certified public accountant, or **CPA.** This designation is granted only on completion of requirements specified by the state that issues the license. Although CPA requirements vary among states, they include a college degree with a specified number of accounting courses and a total of 150 credit hours, good character, professional experience, and successful completion of a professional examination. The CPA examination is prepared by the American Institute of Certified Public Accountants. 
+STOCKHOLDERS’ EQUITY (also called shareholders’ equity or owners’ equity) is the residual interest in the assets of the entity after subtracting liabilities. It is a combination of the financing provided by the owners and by business operations.
 
-Accountants (including CPAs) commonly are engaged in professional practice or are employed by businesses, government entities, nonprofit organizations, and so on. Accountants employed in these activities may take and pass a professional examination to become a certified management accountant, or **CMA** (the CMA examination is administered by the Institute of Management Accountants), or a certified internal auditor, or **CIA** (the CIA examination is administered by the Institute of Internal Auditors). Specialists in areas such as fraud examination may also apply for certification in those specialty areas (e.g., **CFE** ). 
+- **Financing Provided by Owners** is referred to as **contributed capital** . Owners invest in the business by providing cash and sometimes other assets, receiving in exchange shares of stock as evidence of ownership. Common Stock and Additional Paid-in Capital are the accounts used to represent the amount investors paid when they purchased the stock from the company. Note, however, that the Treasury Stock account reduces stockholders’ equity. **Treasury Stock** represents the amount the company paid to its investors when the company repurchased from investors a portion of previously issued common stock.
 
-## **CHAPTER 2: INVESTING AND FINANCING DECISIONS AND THE ACCOUNTING SYSTEM** 
+- **Financing Provided by Operations** is referred to as earned capital or **retained earnings** When companies earn profits, they can be distributed to owners as dividends or
 
-**Franchising** is common in chain restaurants. Franchising involves selling the right to use or sell a product or service to another. This is an easy way for someone to start his or her own business because the franchisor often provides site location, design, marketing, and management training support in exchange for initial franchise fees and ongoing royalty fees usually based on weekly sales. Unlike most restaurant chains, however, Chipotle does not franchise the business. All restaurants are company-owned. 
+Maria Vittoria Cesareo
 
-What Information is Included in the Balance Sheet? 
+## Accounting 1
 
-ASSUMPTIONS 
+reinvested in the business. The portion of profits reinvested in the business is called Retained Earnings. Companies with a growth strategy often pay little or no dividends to retain funds for expansion. Note: Retained earnings decreases when a firm has a loss or pays dividends
 
-- **Separate entity assumption** : states that each business’s activities must be accounted for separately from the personal activities of its owners, all other persons, and other entities. 
+- Many very valuable **intangible assets** , such as trademarks, patents, and copyrights that are developed inside a company (not purchased), are not reported on the balance sheet.
 
-Maria Vittoria Cesareo 
+- Many large companies have some form of off-balance-sheet financing—obligations not reported as liabilities on the balance sheet.
 
-12 
+For example, Chipotle’s recent 10-K states that “leases with an initial term of 12 months or less . . . are not recorded on the consolidated balance sheets.” The notes to the financial statements indicated that the company incurred about $3 million in short- term lease cost out of about $345 million. This illustrates the importance of reading the notes, not just the financial statements, when analyzing a company’s financial information and predicting future cash flows.
 
-## Accounting 1 
+WHAT BUSINESS ACTIVITIES CAUSE CHANGES IN THE FINANCIAL STATEMENTS?
 
-**==> picture [39 x 39] intentionally omitted <==**
+Accounting focuses on certain events that have an economic impact on the entity. Those events that are recorded as part of the accounting process are called transactions.
 
-This means, for example, that, when an owner purchases property for personal use, the property is not an asset of the business. 
+The first step in translating the results of business events to financial statement numbers is determining which events to include. As the definitions of assets and liabilities indicate, only economic resources and obligations resulting from past transactions are recorded on the balance sheet. Transactions include two types of events:
 
-- **Going concern assumption:** (also called the continuity assumption), unless there is evidence to the contrary, we assume that the business will continue operating into the foreseeable future, long enough to meet its contractual commitments and plans. This means, for example, that if there was a high likelihood of bankruptcy, then its assets should be valued and reported on the balance sheet as if the company were to be liquidated (that is, discontinued, with all of its assets sold and all debts paid). 
+- 1. **External events:** These are exchanges of assets, goods, or services by one party for assets, services, or promises to pay (liabilities) from one or more other parties. Examples include the purchase of a machine from a supplier for cash, sale of merchandise to customers on account (store credit), borrowing of cash from a bank and signing a promissory note for repayment, and investment of cash in the business by the owners in exchange for ownership shares.
 
-- **Monetary unit assumption** : each business entity accounts for and reports its financial results primarily in terms of the national monetary unit (e.g., dollars in the United States, yen in Japan, and euros in Germany), without any adjustment for changes in purchasing power (e.g., inflation). 
+2. **Internal events:** These include certain events that are not exchanges between the business and other parties but nevertheless have a direct and measurable effect on the entity. Examples include using up insurance paid in advance and using buildings and equipment over several years.
 
-MEASUREMENT CONCEPT 
+Some important events that have a future economic impact on a company, however, are not reflected in the financial statements. In most cases, signing a contract is not considered to be an
 
-- **Historical cost:** accountants measure the elements of the balance sheet initially at their cost, which is the cash-equivalent value on the date of the transaction. For example, assets are initially recorded on the exchange date at the cash paid plus the dollar value of all noncash considerations, such as the trade-in value of a used asset. 
+Maria Vittoria Cesareo
 
-## ELEMENTS 
+## Accounting 1
 
-ASSETS are economic resources owned or controlled by a company; they have measurable value and are expected to benefit the company by producing cash inflows or reducing cash outflows in the future. 
+accounting transaction because it involves only the exchange of promises, not of assets such as cash, goods, services, or property.
 
-List assets **in order of liquidity** , or how soon an asset is expected by management to be turned into cash or used. 
+## ACCOUNTS
 
-- **Current assets** are those resources that the company will use or turn into cash within one year (the next 12 months). Current assets include Cash, Short-Term Investments (in the stocks and bonds of other companies), Accounts Receivable (due from customers and others), Supplies (to make and serve the food), and Prepaid Expenses (for rent, insurance, and advertising paid in advance of use). For manufacturers that produce and sell goods and merchandisers who sell already-completed goods, Inventory (for goods to be sold) also would be listed after Accounts Receivable. Inventory is always considered a current asset, regardless of how long it takes to produce and sell the inventory. Another common account title is Other Current Assets, which is a summary of several smaller accounts. 
+To accumulate the dollar effect of transactions on each financial statement item, organizations use a standardized format called an account. The resulting balances are kept separate for financial statement purposes. To facilitate the recording of transactions, each company establishes a **chart of accounts** , a list of all account titles and their unique numbers. The accounts are usually organized by financial statement element, with asset accounts listed first, followed by liability, stockholders’ equity, revenue, and expense accounts in that order.
 
-- All other assets are considered **long term (or noncurrent).** That is, they are to be used or turned into cash after the coming year. That includes property and equipment (Land, Buildings, and Equipment), Operating lease right-of-use assets (rented assets), and 
+- Every company creates its own chart of accounts to fit the nature of its business activities. Once you select a name for an account, you must use that exact name in all transactions affecting that account.
 
-Maria Vittoria Cesareo 
+The accounts you see in the financial statements of most large corporations are actually summations (or aggregations) of a number of specific accounts in their recordkeeping system.
 
-13 
+## PRINCIPLES OF TRANSACTION ANALYSIS
 
-## Accounting 1 
+Because business decisions often involve an element of risk, managers should understand exactly how transactions impact the financial statements. The process for determining the effects of transactions is called transaction analysis.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-Intangibles (nonphysical assets such as trademarks and patents) used over several years. Long term assets also includes the stocks and bonds of other companies. 
+## Accounting 1
 
-LIABILITIES are defined as measurable obligations resulting from a past transaction; they are expected to be settled in the future by transferring assets or providing services. 
+The two principles underlying the transaction analysis process follow:
 
-Entities that a company owes money to are called **creditors** . 
+- **Every transaction affects at least two accounts** ; correctly identifying those accounts and the direction of the effects (whether an increase or a decrease) is critical.
 
-Liabilities are usually listed on the balance sheet **in order of maturity** (how soon an obligation is to be paid). 
+- **The accounting equation must remain in balance after each transaction.**
 
-- Liabilities that will need to be paid or settled within the coming year (with cash, goods, other current assets, or services) are classified as **current liabilities** . 
+The idea that every transaction has at least two effects on the basic accounting equation is known as the **dual effects concept** . (From this concept, accountants have developed what is known as the double-entry system of recordkeeping.) Most transactions with external parties involve an exchange by which the business entity both receives something and gives up something in return.
 
-Current liabilities include Accounts Payable (to suppliers), Unearned Revenue (for unredeemed gift cards that have been purchased by customers), Accrued Expenses Payable (more specifically, Wages Payable and Utilities Payable, although additional accrued liabilities may include Interest Payable, among others) and Current Lease Liabilities representing the current amount owed on leases from renting facilities, for example, in shopping centers. Companies may also include Income Taxes Payable (due to federal, state, and local governments) and Other Current Liabilities (a summary of several smaller accounts). 
+The accounting equation must remain in balance after each transaction. That is, total assets (resources) must equal total liabilities and stockholders’ equity (claims to resources). If all correct accounts have been identified and the appropriate direction of the effect on each account has been determined, the equation should remain in balance.
 
-Distinguishing current assets and current liabilities assists external users of the financial statements in assessing the amounts and the timing of future cash flows. 
+## THE ACCOUNTING CYCLE
 
-- **Noncurrent liabilities** include Notes Payable (written promises to pay the amount borrowed and interest as specified in the signed agreement) and Long-term Lease Liabilities (the amount owed beyond the next 12 months for rent of buildings). 
+For most organizations, recording transaction effects and keeping track of account balances in the manner just presented is impractical. To handle the multitude of daily transactions that a business generates, companies establish accounting systems, usually computerized, that follow a cycle.
 
-STOCKHOLDERS’ EQUITY (also called shareholders’ equity or owners’ equity) is the residual interest in the assets of the entity after subtracting liabilities. It is a combination of the financing provided by the owners and by business operations. 
+To handle the multitude of daily transactions that a business generates, companies establish accounting systems, usually computerized, that follow a cycle.
 
-- **Financing Provided by Owners** is referred to as **contributed capital** . Owners invest in the business by providing cash and sometimes other assets, receiving in exchange shares of stock as evidence of ownership. Common Stock and Additional Paid-in Capital are the accounts used to represent the amount investors paid when they purchased the stock from the company. Note, however, that the Treasury Stock account reduces stockholders’ equity. **Treasury Stock** represents the amount the company paid to its investors when the company repurchased from investors a portion of previously issued common stock. 
+Maria Vittoria Cesareo
 
-- **Financing Provided by Operations** is referred to as earned capital or **retained earnings** When companies earn profits, they can be distributed to owners as dividends or 
+## Accounting 1
 
-Maria Vittoria Cesareo 
+## HOW DO COMPANIES KEEP TRACK OF ACCOUNT BALANCES?
 
-14 
+During the accounting period, transactions that result in exchanges between the company and External parties are first analyzed to determine the accounts and effects. The effects are then Recorded in the **general journal** , a listing in chronological order of each transaction’s effects. To Determine account balances, the accounts are updated by posting the effects listed in the general Journal to the respective accounts in the **general ledger** , a record of effects to and balances of each Account.
 
-## Accounting 1 
+These formal records are based on two very important tools used by accountants: **journal entries and T-accounts** . From the standpoint of accounting systems design, these analytical tools are a more Efficient way to reflect the effects of transactions, determine account balances, and prepare financial Statements.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## BASIC TRANSACTION ANALYSIS MODEL
 
-reinvested in the business. The portion of profits reinvested in the business is called Retained Earnings. Companies with a growth strategy often pay little or no dividends to retain funds for expansion. Note: Retained earnings decreases when a firm has a loss or pays dividends 
+## The T-account has a left side, called the debit side, and a right side, called the credit side.
 
-UNRECORDED BUT VALUABLE ASSETS AND LIABILITIES 
+Transactions increase and decrease assets, liabilities, and stockholders’ equity. The model reflects the direction of these effects. It is critical to note that the increase symbol (+) is located on the left side of the T for accounts on the left side of the accounting equation (assets) and on the right side of the T for accounts on the right side of the equation (liabilities and stockholders’ equity).
 
-- Many very valuable **intangible assets** , such as trademarks, patents, and copyrights that are developed inside a company (not purchased), are not reported on the balance sheet. 
+From this transaction analysis model, we can observe the following:
 
-- Many large companies have some form of off-balance-sheet financing—obligations not reported as liabilities on the balance sheet. 
+- Increases in asset accounts are on the left because assets are on the left side of the accounting equation (a = l + se).
 
-For example, Chipotle’s recent 10-K states that “leases with an initial term of 12 months or less . . . are not recorded on the consolidated balance sheets.” The notes to the financial statements indicated that the company incurred about $3 million in short- term lease cost out of about $345 million. This illustrates the importance of reading the notes, not just the financial statements, when analyzing a company’s financial information and predicting future cash flows. 
+- Increases in liability and stockholders’ equity accounts are on the right because they are on the right side of the accounting equation (a = l + se).
 
-WHAT BUSINESS ACTIVITIES CAUSE CHANGES IN THE FINANCIAL STATEMENTS? 
+- The words "debit" and "credit" have no specific meaning other than that they represent the left and right sides of the ledger account.
 
-Accounting focuses on certain events that have an economic impact on the entity. Those events that are recorded as part of the accounting process are called transactions. 
+- the term **debit** (dr for short) always refers to the left side of the t.
 
-The first step in translating the results of business events to financial statement numbers is determining which events to include. As the definitions of assets and liabilities indicate, only economic resources and obligations resulting from past transactions are recorded on the balance sheet. Transactions include two types of events: 
+Maria Vittoria Cesareo
 
-- 1. **External events:** These are exchanges of assets, goods, or services by one party for assets, services, or promises to pay (liabilities) from one or more other parties. Examples include the purchase of a machine from a supplier for cash, sale of merchandise to customers on account (store credit), borrowing of cash from a bank and signing a promissory note for repayment, and investment of cash in the business by the owners in exchange for ownership shares. 
+## Accounting 1
 
-   2. **Internal events:** These include certain events that are not exchanges between the business and other parties but nevertheless have a direct and measurable effect on the entity. Examples include using up insurance paid in advance and using buildings and equipment over several years. 
+- the term **credit** (cr for short) always refers to the right side of the t.
 
-Some important events that have a future economic impact on a company, however, are not reflected in the financial statements. In most cases, signing a contract is not considered to be an 
+As a consequence:
 
-Maria Vittoria Cesareo 
+- Asset accounts **increase on the left (debit) side** and normally have **debit balances.** It would be highly unusual for an asset account, such as inventory, to have a negative (credit) balance
 
-15 
+- Liability and stockholders’ equity accounts **increase on the right (credit) side** and normally have **credit balances** .
 
-## Accounting 1 
+If you have identified the correct accounts and effects through transaction analysis, the accounting equation will remain in balance.
 
-**==> picture [39 x 39] intentionally omitted <==**
+The total dollar value of all debits will equal the total dollar value of all credits in a transaction. For an extra measure of assurance, add this equality check (Debits = Credits) to the transaction analysis process.
 
-accounting transaction because it involves only the exchange of promises, not of assets such as cash, goods, services, or property. 
+## THE JOURNAL ENTRY
 
-## ACCOUNTS 
+In an accounting system, transactions are recorded in **chronological order** in a **general journal** (or, simply, journal).
 
-To accumulate the dollar effect of transactions on each financial statement item, organizations use a standardized format called an account. The resulting balances are kept separate for financial statement purposes. To facilitate the recording of transactions, each company establishes a **chart of accounts** , a list of all account titles and their unique numbers. The accounts are usually organized by financial statement element, with asset accounts listed first, followed by liability, stockholders’ equity, revenue, and expense accounts in that order. 
+After analyzing the business documents (such as purchase invoices, receipts, and cash register tapes) that describe a transaction, the effects on the accounts are recorded in the journal using debits and credits
 
-- Every company creates its own chart of accounts to fit the nature of its business activities. Once you select a name for an account, you must use that exact name in all transactions affecting that account. 
+The journal entry represents an accounting method for expressing the effects of a transaction. It is written in a debits-equal-credits format.
 
-The accounts you see in the financial statements of most large corporations are actually summations (or aggregations) of a number of specific accounts in their recordkeeping system. 
+Maria Vittoria Cesareo
 
-**==> picture [468 x 259] intentionally omitted <==**
+Accounting 1
 
-## PRINCIPLES OF TRANSACTION ANALYSIS 
+While learning, it is better to use the symbols A, L and SE next to each account title in the journal entries. For example, if cash is to be increased, we can write “Cash (+A)”. In addition, dollar signs are not needed.
 
-Because business decisions often involve an element of risk, managers should understand exactly how transactions impact the financial statements. The process for determining the effects of transactions is called transaction analysis. 
+In many cases, we will use **T-accounts** to determine what transactions a company engaged in during a period.
 
-Maria Vittoria Cesareo 
+If we know the beginning and ending balances of Accounts Payable and the amount of purchases on account (for credit) during a period, we can determine the amount of cash paid.
 
-16 
+To find the account balances, we can express the T-accounts as equations as illustrated above.
 
-## Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-The two principles underlying the transaction analysis process follow: 
+Data Analytics (also called Business Intelligence and Big Data) has exploded in the past several years, but what is it? SAS (a world leader in business analytics software and services) describes it as follows:
 
-• **Every transaction affects at least two accounts** ; correctly identifying those accounts and the direction of the effects (whether an increase or a decrease) is critical. 
+Big data analytics examines large amounts of data to uncover hidden patterns, correlations and other insights. With today’s technology, it’s possible to analyze your data and get answers from it almost immediately. . . .
 
-- **The accounting equation must remain in balance after each transaction.** 
+By collecting structured data from various sources inside the business (from accounting, human resources, supply chain, and sales) and unstructured data from outside the business (from social media, customers, and weather and traffic patterns), companies worldwide are now making more **data-driven business decisions** . These decisions can be aimed at decreasing costs, identifying new innovative opportunities, launching new products and services, and transforming the business for the future.
 
-The idea that every transaction has at least two effects on the basic accounting equation is known as the **dual effects concept** . (From this concept, accountants have developed what is known as the double-entry system of recordkeeping.) Most transactions with external parties involve an exchange by which the business entity both receives something and gives up something in return. 
+Beginning in 2017, Chipotle increased its investment in technological innovations, such as digital/ mobile ordering, which provides more information about its customers. Chipotle also uses data analytics for new restaurant site selection. The company gathers demographic and business information about each area, as well as information on competitors and other restaurants, and uses a predictive model to project sales and return on investment for each potential restaurant site. Chipotle, like most companies, understands the importance of creating a data-driven culture to change the way it thinks.
 
-The accounting equation must remain in balance after each transaction. That is, total assets (resources) must equal total liabilities and stockholders’ equity (claims to resources). If all correct accounts have been identified and the appropriate direction of the effect on each account has been determined, the equation should remain in balance. 
+## TRIAL BALANCE
 
-**==> picture [468 x 177] intentionally omitted <==**
+Although no operating activities occurred yet it is possible to create a balance sheet based solely on the investing and financing activities recorded previously. Usually, businesses first will create a **trial balance spreadsheet for internal purposes** before preparing statements for external users.
 
-## THE ACCOUNTING CYCLE 
+A **trial balance** lists the **names of the T-accounts** in one column, usually in financial statement order (assets, liabilities, stockholders’ equity, revenues, and expenses), with their **ending debit or credit balances** in the next two columns. Debit balances are indicated in the left column and credit balances are indicated in the right column. Then the two columns are totaled to provide a check on the equality of the debits and credits. Errors in a computer-generated trial balance may exist if wrong accounts and/or amounts are used in the journal entries.
 
-For most organizations, recording transaction effects and keeping track of account balances in the manner just presented is impractical. To handle the multitude of daily transactions that a business generates, companies establish accounting systems, usually computerized, that follow a cycle. 
+## CLASSIFIED BALANCE SHEET
 
-To handle the multitude of daily transactions that a business generates, companies establish accounting systems, usually computerized, that follow a cycle. 
+The balance sheet is prepared from the trial balance. As a formal statement for external users, it needs a good **heading** (name of the company, title of the statement, date, and if the dollars are in thousands or millions). Also:
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-17 
+## Accounting 1
 
-## Accounting 1 
+- The assets and liabilities are classified into two categories: **current and noncurrent** . Current assets are those to be used or turned into cash within the upcoming year, whereas noncurrent assets are those that will last longer than one year. Current liabilities are those obligations to be paid or settled within the next 12 months with current assets.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- **Dollar signs** are indicated at the top and bottom of the asset section and top and bottom of
 
-**==> picture [462 x 128] intentionally omitted <==**
+- the liabilities and shareholders’ equity section.
 
-## HOW DO COMPANIES KEEP TRACK OF ACCOUNT BALANCES? 
+- The statement includes **comparative data.** That is, it compares the actual but simplified account balances at December 31, 2019, with those at March 31, 2020, based on assumed quarterly transactions. When multiple periods are presented, the most recent balance sheet amounts are usually listed on the left, but not always (look carefully).
 
-During the accounting period, transactions that result in exchanges between the company and External parties are first analyzed to determine the accounts and effects. The effects are then Recorded in the **general journal** , a listing in chronological order of each transaction’s effects. To Determine account balances, the accounts are updated by posting the effects listed in the general Journal to the respective accounts in the **general ledger** , a record of effects to and balances of each Account. 
+- Most companies do not provide a **total liabilities line** on the balance sheet. To determine total liabilities on those statements, add total current liabilities and each of the noncurrent liabilities.
 
-These formal records are based on two very important tools used by accountants: **journal entries and T-accounts** . From the standpoint of accounting systems design, these analytical tools are a more Efficient way to reflect the effects of transactions, determine account balances, and prepare financial Statements. 
+## INTERNATIONAL PERSPECTIVE
 
-## BASIC TRANSACTION ANALYSIS MODEL 
+Although IFRS (International Financial Reporting Standards) differ from U. S. GAAP (Generally Accepted Accounting Principles), it uses the same system of analyzing, recording, and summarizing the results of business activities that you have learned in this chapter.
 
-## **The T-account has a left side, called the debit side, and a right side, called the credit side.** 
+One place where IFRS differs from GAAP is in the **formatting** of financial statements.
 
-Transactions increase and decrease assets, liabilities, and stockholders’ equity. The model reflects the direction of these effects. It is critical to note that the increase symbol (+) is located on the left side of the T for accounts on the left side of the accounting equation (assets) and on the right side of the T for accounts on the right side of the equation (liabilities and stockholders’ equity). 
+Financial statements prepared using GAAP and IFRS include the same elements (assets, liabilities, revenues, expenses, etc.). However, a single, consistent format has not been mandated.
 
-From this transaction analysis model, we can observe the following: 
+On the balance sheet, GAAP begins with current items, whereas IFRS begins with noncurrent items. Consistent with this, assets are listed in decreasing order of liquidity under GAAP, but, internationally, assets are usually listed in increasing order of liquidity. IFRS similarly emphasizes longer-term financing sources by listing equity before liabilities and, within liabilities, by listing noncurrent liabilities before current liabilities (decreasing time to maturity). The key to avoiding confusion is to be sure to pay attention to the subheadings in the statement. Any account under the heading “liabilities” must be a liability.
 
-   - Increases in asset accounts are on the left because assets are on the left side of the accounting equation (a = l + se). 
+## CHAPTER 3: OPERATING DECISIONS AND THE ACCOUNTING SYSTEM
 
-   - Increases in liability and stockholders’ equity accounts are on the right because they are on the right side of the accounting equation (a = l + se). 
+## THE OPERATING CYCLE
 
-   - The words "debit" and "credit" have no specific meaning other than that they represent the left and right sides of the ledger account. 
+The operating cycle begins with the **purchase or manufacture of a product for sale** . When products are purchased from suppliers, those **suppliers must be paid** . After a sale has been made, the company must **deliver the product or service** to the customer. Many business sales
 
-- the term **debit** (dr for short) always refers to the left side of the t. 
+Maria Vittoria Cesareo
 
-Maria Vittoria Cesareo 
+## Accounting 1
 
-18 
+are made on credit. If credit is extended, **payment must be received from customers** . Once the cash has been collected from customers, the business cycle begins all over again.
 
-## Accounting 1 
+We never want to confuse the business operating cycle with the accounting cycle.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Companies (1) acquire inventory and the services of employees and (2) sell inventory or services to customers. The operating (or cash-to-cash) cycle begins when a company receives goods to sell (or, in the case of a service company, has employees work to provide services to customers) and ends when customers pay cash to the company. The length of time for completion of the operating cycle depends on the nature of the business.
 
-- the term **credit** (cr for short) always refers to the right side of the t. 
+We know that most successful companies operate for a very long period of time, and managers and investors need financial information on a timely basis. For accountants to provide this information, we have to divide the life of the business into relatively short, arbitrary time periods.
 
-As a consequence: 
+We usually divide the life of a business into months, quarters, and annual time periods. When we establish these relatively short time periods, we create many measurement issues—for example, problems of revenue and expense recognition.
 
-- Asset accounts **increase on the left (debit) side** and normally have **debit balances.** It would be highly unusual for an asset account, such as inventory, to have a negative (credit) balance 
+Two issues arise when reporting periodic income:
 
-- Liability and stockholders’ equity accounts **increase on the right (credit) side** and normally have **credit balances** . 
+- 1) **Recognition issues:** When should the effects of operating activities be recognized?
 
-If you have identified the correct accounts and effects through transaction analysis, the accounting equation will remain in balance. 
+- 2) **Measurement issues**: What amounts should be recognized?"
 
-The total dollar value of all debits will equal the total dollar value of all credits in a transaction. For an extra measure of assurance, add this equality check (Debits = Credits) to the transaction analysis process. 
+A=L+ SE (CAP+RE) + NET INCOME (REV-EXP)
 
-**==> picture [428 x 163] intentionally omitted <==**
+A + EXP= L +. SE + REV
 
-## THE JOURNAL ENTRY 
+## ELEMENTS OF THE INCOME STATEMENT
 
-In an accounting system, transactions are recorded in **chronological order** in a **general journal** (or, simply, journal). 
+The income statement contains revenues, expenses, gains, and losses.
 
-After analyzing the business documents (such as purchase invoices, receipts, and cash register tapes) that describe a transaction, the effects on the accounts are recorded in the journal using debits and credits 
+- **Operating revenues** result from the sale of goods or services. When revenue is earned, assets, usually Cash or Accounts Receivables, often increase. Sometimes if a customer
 
-The journal entry represents an accounting method for expressing the effects of a transaction. It is written in a debits-equal-credits format. 
+Maria Vittoria Cesareo
 
-Maria Vittoria Cesareo 
+## Accounting 1
 
-19 
+pays for goods or services in advance, a liability account, usually Unearned (or Deferred) Revenue, is created.
 
-Accounting 1 
+- **Expenses** are decreases in assets or increases in liabilities from ongoing operations incurred to generate revenues during the period.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- **Gains** (with an account called Gain on Sale of Assets) result in an increase in assets or decrease in liabilities from a peripheral transaction.
 
-**==> picture [503 x 122] intentionally omitted <==**
+- **Losses** are decreases in assets or increases in liabilities from peripheral transactions.
 
-While learning, it is better to use the symbols A, L and SE next to each account title in the journal entries. For example, if cash is to be increased, we can write “Cash (+A)”. In addition, dollar signs are not needed. 
+## OPERATING REVENUES
 
-INFERRING BUSINESS ACTIVITIES FROM T-ACCOUNTS 
+Revenues are defined as increases in assets or settlements of liabilities from the major or central ongoing operations of the business. For example, when Chipotle sells burritos, it has earned revenue, and assets, usually Cash or Accounts Receivables, often increase.
 
-In many cases, we will use **T-accounts** to determine what transactions a company engaged in during a period. 
+Sometimes, a customer can pay for goods or services in advance. This results in a cash transaction but no services being rendered or goods being sold. We would define this transaction as unearned revenue, which is a liability account, because the cash was received, but we have not earned the revenue yet by performing the service or selling the goods.
 
-If we know the beginning and ending balances of Accounts Payable and the amount of purchases on account (for credit) during a period, we can determine the amount of cash paid. 
+## OPERATING EXPENSES
 
-**==> picture [484 x 133] intentionally omitted <==**
+Expenses are the costs of operating the business that are incurred to generate revenues during the period. Usually, many expenses are incurred (that is, the resources or services of others that are used) in making a sale or providing a service. When employees prepare and serve food to customers, a restaurant incurs an expense for using employee labor to generate revenue. The company uses electric service to operate equipment and light its facilities, and it uses food and paper supplies. Without incurring these expenses, a restaurant could not generate revenues.
 
-**==> picture [312 x 113] intentionally omitted <==**
+Expenses may be incurred before, after, or at the same time as they are paid in cash.
 
-To find the account balances, we can express the T-accounts as equations as illustrated above. 
+- Don’t confuse expenditures and expenses! An expenditure is an outflow of cash for any purpose, whether to buy equipment, pay off a bank loan, or pay employees their wages.
 
-USING BIG DATA FOR BUSINESS EXPANSION 
+Maria Vittoria Cesareo
 
-Maria Vittoria Cesareo 
+## Accounting 1
 
-20 
+- Therefore, not all cash expenditures are expenses!
 
-## Accounting 1 
+## **Cash expenditures**:
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Debt payments
 
-Data Analytics (also called Business Intelligence and Big Data) has exploded in the past several years, but what is it? SAS (a world leader in business analytics software and services) describes it as follows: 
+- Asset purchases
 
-Big data analytics examines large amounts of data to uncover hidden patterns, correlations and other insights. With today’s technology, it’s possible to analyze your data and get answers from it almost immediately. . . . 
+- Expenses
 
-By collecting structured data from various sources inside the business (from accounting, human resources, supply chain, and sales) and unstructured data from outside the business (from social media, customers, and weather and traffic patterns), companies worldwide are now making more **data-driven business decisions** . These decisions can be aimed at decreasing costs, identifying new innovative opportunities, launching new products and services, and transforming the business for the future. 
+Payment of dividends is not an expense (expenses make shareholders sad, dividends don’t J)
 
-Beginning in 2017, Chipotle increased its investment in technological innovations, such as digital/ mobile ordering, which provides more information about its customers. Chipotle also uses data analytics for new restaurant site selection. The company gathers demographic and business information about each area, as well as information on competitors and other restaurants, and uses a predictive model to project sales and return on investment for each potential restaurant site. Chipotle, like most companies, understands the importance of creating a data-driven culture to change the way it thinks. 
+Not all activities affecting the income statement are “central to ongoing operations”.
 
-## TRIAL BALANCE 
+Revenues, expenses, gains, or losses that result from other activities that are NOT central to ongoing operations are categorized as Other Items.
 
-Although no operating activities occurred yet it is possible to create a balance sheet based solely on the investing and financing activities recorded previously. Usually, businesses first will create a **trial balance spreadsheet for internal purposes** before preparing statements for external users. 
+These items are not included in the subtotal “Income from Operations”.
 
-A **trial balance** lists the **names of the T-accounts** in one column, usually in financial statement order (assets, liabilities, stockholders’ equity, revenues, and expenses), with their **ending debit or credit balances** in the next two columns. Debit balances are indicated in the left column and credit balances are indicated in the right column. Then the two columns are totaled to provide a check on the equality of the debits and credits. Errors in a computer-generated trial balance may exist if wrong accounts and/or amounts are used in the journal entries. 
+Other items typically include:
 
-## CLASSIFIED BALANCE SHEET 
+- Interest Revenue (also Investment Revenue, Investment Income, or Dividend Revenue)
 
-The balance sheet is prepared from the trial balance. As a formal statement for external users, it needs a good **heading** (name of the company, title of the statement, date, and if the dollars are in thousands or millions). Also: 
+- Interest Expense
 
-Maria Vittoria Cesareo 
+- Losses (Gains) on Sale of Investments
 
-21 
+Typical Income Statement Format
 
-## Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-• The assets and liabilities are classified into two categories: **current and noncurrent** . Current assets are those to be used or turned into cash within the upcoming year, whereas noncurrent assets are those that will last longer than one year. Current liabilities are those obligations to be paid or settled within the next 12 months with current assets. 
+Corporations are required to disclose earning per share (EPS) on the income statement or in the notes to the financial statements.
 
-- **Dollar signs** are indicated at the top and bottom of the asset section and top and bottom of 
+Operating expenses are subtracted from operating revenues to determine **Income before Income Taxes** (also called Pretax Income). From this subtotal, Income Tax Expense (also called Provision for Income Taxes) is calculated by applying the tax rates of the federal, state, local, and foreign taxing authorities.
 
-- the liabilities and shareholders’ equity section. 
+Corporations are required to disclose **earnings per share** (EPS). This is typically presented at the bottom of the income statement.
 
-• The statement includes **comparative data.** That is, it compares the actual but simplified account balances at December 31, 2019, with those at March 31, 2020, based on assumed quarterly transactions. When multiple periods are presented, the most recent balance sheet amounts are usually listed on the left, but not always (look carefully). 
+Restaurants use a variety of technologies (kiosks, apps, tableside tablets) to mine data to analyze purchasing profiles. Data analytics is also used to monitor employee performance, improve scheduling, boost customer loyalty, and maximize marketing efficiency.
 
-• Most companies do not provide a **total liabilities line** on the balance sheet. To determine total liabilities on those statements, add total current liabilities and each of the noncurrent liabilities. 
+Here are examples of how data analytics is used to optimize performance, make better and faster decisions, reduce costs, and improve customer experience:
 
-## INTERNATIONAL PERSPECTIVE 
+- Panera Bread installed ordering kiosks to: (1) encourage menu browsing, (2) capture customer preferences, (3) fine-tune the menu based on preferences, (4) produce shorter lines for a better customer experience, (5) ensure better order accuracy to improve operational efficiency and reduce waste, and (5) save and/or redeploy labor costs.
 
-Although IFRS (International Financial Reporting Standards) differ from U. S. GAAP (Generally Accepted Accounting Principles), it uses the same system of analyzing, recording, and summarizing the results of business activities that you have learned in this chapter. 
+Maria Vittoria Cesareo
 
-One place where IFRS differs from GAAP is in the **formatting** of financial statements. 
+## Accounting 1
 
-Financial statements prepared using GAAP and IFRS include the same elements (assets, liabilities, revenues, expenses, etc.). However, a single, consistent format has not been mandated. 
+- McDonald’s uses data to predict customer demand in drive-thru sales. By ensuring adequate staffing and alerting staff to the spike in demand, the efficiency of operations is improved along with enhancing the customer experience.
 
-On the balance sheet, GAAP begins with current items, whereas IFRS begins with noncurrent items. Consistent with this, assets are listed in decreasing order of liquidity under GAAP, but, internationally, assets are usually listed in increasing order of liquidity. IFRS similarly emphasizes longer-term financing sources by listing equity before liabilities and, within liabilities, by listing noncurrent liabilities before current liabilities (decreasing time to maturity). The key to avoiding confusion is to be sure to pay attention to the subheadings in the statement. Any account under the heading “liabilities” must be a liability. 
+- Wendy’s analyzes big data to identify the most profitable new restaurant locations.
 
-## **CHAPTER 3: OPERATING DECISIONS AND THE ACCOUNTING SYSTEM** 
+- Pizza Hut uses software to track customer eye movements on digital, interactive menus to discover what customers subconsciously want.
 
-## THE OPERATING CYCLE 
+- Dunkin’ mines data from its loyalty program to send customers targeted offers at specific times.
 
-The operating cycle begins with the **purchase or manufacture of a product for sale** . When products are purchased from suppliers, those **suppliers must be paid** . After a sale has been made, the company must **deliver the product or service** to the customer. Many business sales 
+HOW ARE OPERATING ACTIVITIES RECOGNIZED AND MEASURED?
 
-Maria Vittoria Cesareo 
+## Cash Basis Accounting
 
-22 
+Cash basis accounting is used by many sole proprietors and small partnerships to determine performance.
 
-## Accounting 1 
+- It is simple and permitted for tax purposes
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Cash basis accounting recognize revenue at the time cash is received and recognize expenses at the time cash is paid (records each cash payment as a cash outflow and each cash receipt as a cash inflow)
 
-are made on credit. If credit is extended, **payment must be received from customers** . Once the cash has been collected from customers, the business cycle begins all over again. 
+- This produces net cash flow information that is often quite adequate for organizations that do not need to report to external users.
 
-We never want to confuse the business operating cycle with the accounting cycle. 
+CAUTION: Cash basis accounting may lead to an incorrect interpretation of future company performance. GAAP does not allow the cash basis of accounting.
 
-Companies (1) acquire inventory and the services of employees and (2) sell inventory or services to customers. The operating (or cash-to-cash) cycle begins when a company receives goods to sell (or, in the case of a service company, has employees work to provide services to customers) and ends when customers pay cash to the company. The length of time for completion of the operating cycle depends on the nature of the business. 
+GENERALLY ACCEPTED ACCOUNTING PRINCIPLES REQUIRE ACCRUAL BASIS ACCOUNTING FOR FINANCIAL REPORTING.
 
-We know that most successful companies operate for a very long period of time, and managers and investors need financial information on a timely basis. For accountants to provide this information, we have to divide the life of the business into relatively short, arbitrary time periods. 
+**Accrual basis accounting** is required by GAAP and used to report to external decision makers.
 
-We usually divide the life of a business into months, quarters, and annual time periods. When we establish these relatively short time periods, we create many measurement issues—for example, problems of revenue and expense recognition. 
+- The accounting principles that determine when revenues and expenses are recorded are the revenue recognition principle and the expense recognition principle (also called the matching principle).
 
-Two issues arise when reporting periodic income: 
+- Revenues are recognized when goods and services are provided to customers (they are earned)
 
-- 1) **Recognition issues:** When should the effects of operating activities be recognized? 
+- Expenses are recognized in the same period as the revenues to which they relate (resources are used or debts are incurred to generate revenues), regardless of when cash is received or paid.
 
-- 2) **Measurement issues** : What amounts should be recognized?" 
+## REVENUE RECOGNITION PRINCIPLE
 
-A=L+ SE (CAP+RE) + NET INCOME (REV-EXP) 
+Maria Vittoria Cesareo
 
-A + EXP= L +. SE + REV 
+## Accounting 1
 
-**==> picture [468 x 104] intentionally omitted <==**
+The **revenue recognition principle** specifies the timing and amount of revenue to be recognized during an accounting period.
 
-## ELEMENTS OF THE INCOME STATEMENT 
+Revenue is recognized:
 
-The income statement contains revenues, expenses, gains, and losses. 
+## (1) **when the company transfers promised goods or services to customers**
 
-- **Operating revenues** result from the sale of goods or services. When revenue is earned, assets, usually Cash or Accounts Receivables, often increase. Sometimes if a customer 
+## (2) **in the amount it expects to be entitled to receive** .
 
-Maria Vittoria Cesareo 
+Steps to recognize revenues:
 
-23 
+Step 1. Identify the contract (written, verbal, or implied agreement) between the company and customer.
 
-## Accounting 1 
+Step 2. Identify the seller’s performance obligations (promised goods and services).
 
-**==> picture [39 x 39] intentionally omitted <==**
+Step 3. Determine the transaction price (the amount the seller expects to be entitled to receive from the customer).
 
-pays for goods or services in advance, a liability account, usually Unearned (or Deferred) Revenue, is created. 
+Step 4. Allocate the transaction price to the performance obligations.
 
-- **Expenses** are decreases in assets or increases in liabilities from ongoing operations incurred to generate revenues during the period. 
+Step 5. Recognize revenue when each performance obligation is satisfied (or over time if a service is provided over time).
 
-- **Gains** (with an account called Gain on Sale of Assets) result in an increase in assets or decrease in liabilities from a peripheral transaction. 
+The critical point for revenue recognition under the five-step model is when goods or services are delivered, not when cash is received from customers.
 
-- **Losses** are decreases in assets or increases in liabilities from peripheral transactions. 
+Cash may be received at any of these times:
 
-**==> picture [242 x 129] intentionally omitted <==**
+1. **Before** the goods or services are delivered: Companies sells gift cards to customers for cash in exchange for the promise to provide future goods or services. Because the company has not delivered the goods or services at that point, it records no revenue. Instead, it creates a liability account, Unearned Revenue (also called Deferred Revenue), representing the amount owed to the customers. Later, when customers redeem their gift cards and the goods are deliver
 
-## OPERATING REVENUES 
+2. **In the same period** as the goods or services are delivered: Goods are delivered in exchange for cash, earning revenue in the process.
 
-Revenues are defined as increases in assets or settlements of liabilities from the major or central ongoing operations of the business. For example, when Chipotle sells burritos, it has earned revenue, and assets, usually Cash or Accounts Receivables, often increase. 
+3. **After** the goods or services are delivered: When a business sells goods or services on account (creating Accounts Receivable due from customers), the revenue is earned when the goods or services are delivered, not when cash is received at a later date. Assume goods are ordered by customers and the company bills them at the end of the month, rather than when they receive the goods. When delivered, the company records Sales Revenue and the asset Accounts Receivable, representing the customer’s promise to pay in the future. When the customer pays its monthly bill, the company will increase its Cash account and decrease the asset Accounts Receivable.
 
-Sometimes, a customer can pay for goods or services in advance. This results in a cash transaction but no services being rendered or goods being sold. We would define this transaction as unearned revenue, which is a liability account, because the cash was received, but we have not earned the revenue yet by performing the service or selling the goods. 
+Maria Vittoria Cesareo
 
-## OPERATING EXPENSES 
+Accounting 1
 
-Expenses are the costs of operating the business that are incurred to generate revenues during the period. Usually, many expenses are incurred (that is, the resources or services of others that are used) in making a sale or providing a service. When employees prepare and serve food to customers, a restaurant incurs an expense for using employee labor to generate revenue. The company uses electric service to operate equipment and light its facilities, and it uses food and paper supplies. Without incurring these expenses, a restaurant could not generate revenues. 
+Revenue is always recorded when the goods or services are delivered, not when the cash is received from customers.
 
-Expenses may be incurred before, after, or at the same time as they are paid in cash. 
+## EXPENSE RECOGNITION PRINCIPLE
 
-• Don’t confuse expenditures and expenses! An expenditure is an outflow of cash for any purpose, whether to buy equipment, pay off a bank loan, or pay employees their wages. 
+The **expense recognition principle** (also called the matching principle) requires that costs incurred to generate revenues be recognized in the same period—a matching of costs with benefits.
 
-Maria Vittoria Cesareo 
+The costs of generating revenue include expenses incurred such as:
 
-24 
+- Salaries and wages to employees who worked during the period.
 
-## Accounting 1 
+- Utilities for the electricity used during the period.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Supplies used during the period.
 
-- Therefore, not all cash expenditures are expenses! 
+- Facilities rented during the period.
 
-## **Cash expenditures** : 
+- Equipment used during the period.
 
-- Debt payments 
+Cash may be paid at any of these times:
 
-- Asset purchases 
+1. **Before** the expense is incurred to generate revenue.
 
-- Expenses 
+2. **In the same period** as the expense is incurred to generate revenue.
 
-**==> picture [172 x 143] intentionally omitted <==**
+3. **After** the cost is incurred to generate revenue
 
-Payment of dividends is not an expense (expenses make shareholders sad, dividends don’t J) 
+Expenses are recorded as **incurred** , regardless of when cash is paid.
 
-OTHER INCOME STATEMENT ITEMS 
+## A QUESTION OF ETHICS
 
-Not all activities affecting the income statement are “central to ongoing operations”. 
+Investors in the stock market base their decisions on their expectations of a company’s future earnings. When companies announce quarterly and annual earnings information, investors evaluate how well the companies have met expectations and adjust their investing decisions
 
-Revenues, expenses, gains, or losses that result from other activities that are NOT central to ongoing operations are categorized as Other Items. 
+Maria Vittoria Cesareo
 
-These items are not included in the subtotal “Income from Operations”. 
+## Accounting 1
 
-Other items typically include: 
+accordingly. Companies that fail to meet expectations often experience a decline in stock price. Thus, managers are motivated to produce earnings results that meet or exceed investors’ expectations to bolster stock prices. Greed may lead some managers to make unethical accounting and reporting decisions, often involving falsifying revenues and expenses. While this sometimes fools people for a short time, it rarely works in the long run and often leads to very bad consequences.
 
-- Interest Revenue (also Investment Revenue, Investment Income, or Dividend Revenue) 
+Fraud is a criminal offense for which managers may be sentenced to jail. A couple of historic fraud cases involving faulty revenue and expense accounting are discussed briefly below:
 
-- Interest Expense 
+- In 2002, Worldcom, the second largest long-distance telephone company in the United States at the time (now merged into Verizon), violated the expense recognition principle by recording $11 billion in expenses as assets, thus overstating assets and overstating net income. This act to inflate earnings was perpetrated to boost WorldCom’s sagging stock price. Bernie Ebbers, age 65 and former CEO of WorldCom, was convicted and found guilty in 2005 and subsequently sentenced to 25 years in prison. At the time, this was the largest accounting fraud in U.S. history. (Post-script: Ebbers was released from prison in December 2019 due to declining health and died in February 2020.)
 
-- Losses (Gains) on Sale of Investments 
+- ZZZZ Best was a carpet cleaning company started by teenager Barry Minkow who took the company public in 1986 when he was 20. However, the company was one of the largest accounting and investments frauds ever perpetrated by a single person. Among numerous criminal or questionable activities, Minkow violated the revenue recognition principle by creating fictitious sales to boost the company’s earnings and stock price and appear strong to attract large investment deals. But the company was a sham, one that its auditing firm failed to discover. At the age of 23, Minkow was convicted and sentenced to 25 years in prison and ordered to pay $26 million in restitution. The audit firm paid $35 million for failing to uncover the fraud. Investors and lenders reportedly lost $100 million. (Post-script: After early release in 1995, Minkow pursued numerous fraudulent activities and was sentenced to federal prison two additional times before being released in 2019 and ordered to pay over $580 million in restitution.) ^91xoyb
 
-Typical Income Statement Format 
+Many others are affected by accounting fraud. Shareholders lose stock value, employees may lose their jobs (and pension funds, as in the case of Enron), and customers and suppliers may become wary of dealing with a company operating under the cloud of fraud. As a manager, you may face an ethical dilemma in the workplace. The ethical decision to make is the one you will be proud of 20 years later.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-25 
+Accounting 1
 
-## Accounting 1 
+From our Statement of Retained Earnings, we know that **net income increases retained earnings** . Revenues increase net income, and expenses decrease net income. Revenues show increases and decreases on the same sides of the T-account as retained earnings. A credit to the revenue account increases revenue, a debit to the revenue account decreases revenue. Because expenses reduce revenues in the calculation of net income, increases and decreases in expense accounts are shown on the opposite sides when compared to revenue accounts. A debit to an expense account represents an increase in expenses, while a credit to an expense account represents a decrease in expenses.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Revenues increase net income, and expenses decrease net income.
 
-**==> picture [427 x 162] intentionally omitted <==**
+A credit to the revenue account increases revenue, a debit to the revenue account decreases revenue. A debit to the expense account increases expense; a credit to the expense account decreases expense.
 
-Corporations are required to disclose earning per share (EPS) on the income statement or in the notes to the financial statements. 
+Maria Vittoria Cesareo
 
-**==> picture [461 x 61] intentionally omitted <==**
+Accounting 1
 
-Operating expenses are subtracted from operating revenues to determine **Income before Income Taxes** (also called Pretax Income). From this subtotal, Income Tax Expense (also called Provision for Income Taxes) is calculated by applying the tax rates of the federal, state, local, and foreign taxing authorities. 
+Step 1: Ask → Was a revenue earned by delivering goods or services?
 
-Corporations are required to disclose **earnings per share** (EPS). This is typically presented at the bottom of the income statement. 
+- If so, debit the account for what was received (+A, -L) and credit the revenue account (+R, +SE)
 
-USING DATA ANALYTICS IN THE RESTAURANT INDUSTRY TO INCREASE REVENUES AND DECREASE COSTS 
+OR Was an expense incurred to generate a revenue in the current period?
 
-Restaurants use a variety of technologies (kiosks, apps, tableside tablets) to mine data to analyze purchasing profiles. Data analytics is also used to monitor employee performance, improve scheduling, boost customer loyalty, and maximize marketing efficiency. 
+- If so, debit the expense account (+E, -SE) and credit the account for what was given (-A, +L)
 
-Here are examples of how data analytics is used to optimize performance, make better and faster decisions, reduce costs, and improve customer experience: 
+OR If neither a revenue was earned or an expense was incurred, what was received and given?
 
-• Panera Bread installed ordering kiosks to: (1) encourage menu browsing, (2) capture customer preferences, (3) fine-tune the menu based on preferences, (4) produce shorter lines for a better customer experience, (5) ensure better order accuracy to improve operational efficiency and reduce waste, and (5) save and/or redeploy labor costs. 
+- debit the account for what was received (+A, -L)
 
-Maria Vittoria Cesareo 
+- credit the account for what was given (-A, +L)
 
-26 
+Step 2: Verify → Is the accounting equation in balance? (A = L + SE)
 
-## Accounting 1 
+- Do debits = credits?
 
-**==> picture [39 x 39] intentionally omitted <==**
+## CHAPTER 4 (ADJUSTMENTS, FINANCIAL STATEMENTS, AND THE CLOSING PROCESS)
 
-- McDonald’s uses data to predict customer demand in drive-thru sales. By ensuring adequate staffing and alerting staff to the spike in demand, the efficiency of operations is improved along with enhancing the customer experience. 
+Managers are responsible for preparing financial statements that will be useful to investors, creditors, and others. Financial information is most useful for analyzing the past and predicting the future when it is considered by users to be of high quality. High- quality information is information that is relevant (that is, material and able to influence users’ decisions) and a faithful representation of what is being reported (that is, complete, free from error, and unbiased in portraying economic reality).
 
-- Wendy’s analyzes big data to identify the most profitable new restaurant locations. 
+## THE ACCOUNTING CYCLE
 
-- Pizza Hut uses software to track customer eye movements on digital, interactive menus to discover what customers subconsciously want. 
+The accounting cycle is the process followed by entities to analyze and record transactions, adjust the records at the end of the period, prepare financial statements, and prepare the records for the next cycle.
 
-- Dunkin’ mines data from its loyalty program to send customers targeted offers at specific times. 
+During the accounting period, transactions that result in exchanges between the company and other external parties are analyzed and recorded in the general journal in chronological order (journal entries), and the related accounts are updated in the general ledger (T-accounts).
 
-HOW ARE OPERATING ACTIVITIES RECOGNIZED AND MEASURED? 
+The end-of-period steps focus primarily on adjustments to record revenues and expenses in the proper period and to update the balance sheet accounts for reporting purposes.
 
-## **Cash Basis Accounting** 
+Maria Vittoria Cesareo
 
-Cash basis accounting is used by many sole proprietors and small partnerships to determine performance. 
+## Accounting 1
 
-- It is simple and permitted for tax purposes 
+## THE PURPOSE OF ADJUSTMENTS
 
-- Cash basis accounting recognize revenue at the time cash is received and recognize expenses at the time cash is paid (records each cash payment as a cash outflow and each cash receipt as a cash inflow) 
+How does the accounting system record revenues and expenses when one transaction is needed to record a cash receipt or payment and another transaction is needed to record revenue when it is earned or an expense when it is incurred? The solution to the problem created by such differences in timing is to record adjusting entries at the end of every accounting period so that
 
-- This produces net cash flow information that is often quite adequate for organizations that do not need to report to external users. 
+- **Revenues** are recorded when earned (the revenue recognition principle).
 
-CAUTION: Cash basis accounting may lead to an incorrect interpretation of future company performance. GAAP does not allow the cash basis of accounting. 
+- **Expenses** are recorded when they are incurred to generate revenue (the expense recognition
 
-GENERALLY ACCEPTED ACCOUNTING PRINCIPLES REQUIRE ACCRUAL BASIS ACCOUNTING FOR FINANCIAL REPORTING. 
+- Principle).
 
-**Accrual basis accounting** is required by GAAP and used to report to external decision makers. 
+- **Assets** are reported at amounts that represent the probable future benefits remaining at the
 
-- The accounting principles that determine when revenues and expenses are recorded are the revenue recognition principle and the expense recognition principle (also called the matching principle). 
+- end of the period.
 
-- Revenues are recognized when goods and services are provided to customers (they are earned) 
+- **Liabilities** are reported at amounts that represent the probable future sacrifices of assets or
 
-- Expenses are recognized in the same period as the revenues to which they relate (resources are used or debts are incurred to generate revenues), regardless of when cash is received or paid. 
+- services owed at the end of the period.
 
-## REVENUE RECOGNITION PRINCIPLE 
+Companies wait until the end of the accounting period to adjust their accounts because doing so daily or weekly would be very costly and time-consuming. Adjusting entries are required every time a company prepares financial statements for external users.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-27 
+## Accounting 1
 
-## Accounting 1 
+- Cash was received or paid in the past (creating deferred revenue and expense accounts until they are earned or incurred over time)
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Cash will be received or paid in the next period for revenues and expenses that were earned or incurred in the current period but have not been recorded (creating accrued revenues until cash is received and accrued expenses until cash is paid)
 
-The **revenue recognition principle** specifies the timing and amount of revenue to be recognized during an accounting period. 
+Maria Vittoria Cesareo
 
-Revenue is recognized: 
+## Accounting 1
 
-## (1) **when the company transfers promised goods or services to customers** 
+## DEFERRED (UNEARNED) REVENUES
 
-## (2) **in the amount it expects to be entitled to receive** . 
+When a customer pays for goods or services before the company delivers them, the company records the amount of cash received in a **deferred (unearned) revenue** account.
 
-Steps to recognize revenues: 
+This unearned revenue is a liability representing the company’s promise to perform or deliver the goods or services in the future.
 
-Step 1. Identify the contract (written, verbal, or implied agreement) between the company and customer. 
+Recognition of (recording) the revenue is postponed (deferred) until the company meets its obligation.
 
-Step 2. Identify the seller’s performance obligations (promised goods and services). 
+## ACCRUED REVENUES
 
-Step 3. Determine the transaction price (the amount the seller expects to be entitled to receive from the customer). 
+Sometimes companies perform services or provide goods (i.e., earn revenue) before customers pay.
 
-Step 4. Allocate the transaction price to the performance obligations. 
+Because cash is owed, the revenue that was earned may not have been recorded.
 
-Step 5. Recognize revenue when each performance obligation is satisfied (or over time if a service is provided over time). 
+Revenues that have been earned but have not yet been recorded at the end of the accounting period are called **accrued revenues** .
 
-The critical point for revenue recognition under the five-step model is when goods or services are delivered, not when cash is received from customers. 
+## DEFERRED EXPENSES
 
-Cash may be received at any of these times: 
+Maria Vittoria Cesareo
 
-1. **Before** the goods or services are delivered: Companies sells gift cards to customers for cash in exchange for the promise to provide future goods or services. Because the company has not delivered the goods or services at that point, it records no revenue. Instead, it creates a liability account, Unearned Revenue (also called Deferred Revenue), representing the amount owed to the customers. Later, when customers redeem their gift cards and the goods are deliver 
+## Accounting 1
 
-2. **In the same period** as the goods or services are delivered: Goods are delivered in exchange for cash, earning revenue in the process. 
+Assets represent resources with probable future benefits to the company.
 
-3. **After** the goods or services are delivered: When a business sells goods or services on account (creating Accounts Receivable due from customers), the revenue is earned when the goods or services are delivered, not when cash is received at a later date. Assume goods are ordered by customers and the company bills them at the end of the month, rather than when they receive the goods. When delivered, the company records Sales Revenue and the asset Accounts Receivable, representing the customer’s promise to pay in the future. When the customer pays its monthly bill, the company will increase its Cash account and decrease the asset Accounts Receivable. 
+Many assets are used over time to generate revenues, including supplies, prepaid expenses for insurance, advertising, and rent, and buildings and equipment.
 
-Maria Vittoria Cesareo 
+These assets are **deferred expenses** (that is, recording the expenses for using these assets is deferred to the future).
 
-28 
+At the end of every period, an adjustment must be made to record the amount of the asset that was used during the period.
 
-Accounting 1 
+## DEPRECIATION
 
-**==> picture [39 x 39] intentionally omitted <==**
+**Buildings and Equipment** accounts are listed at cost. The accounts increase by the cost of the assets when they are acquired and decrease by the cost of the assets when they are sold or disposed of. However, these assets also are used over time to generate revenue. A part of their cost should be recorded as an expense in the same period (following the expense recognition principle). Accountants say that buildings and equipment, but not land, depreciate over time as they are used.
 
-**==> picture [472 x 240] intentionally omitted <==**
+In accounting, **depreciation** is an allocation of the cost of buildings and equipment over their estimated useful lives to the organization.
 
-Revenue is always recorded when the goods or services are delivered, not when the cash is received from customers. 
+To keep track of the asset’s historical cost, the amount that has been used is not subtracted directly from the asset account. Instead, it is accumulated in a new kind of account called a **contra-account** . Contra-accounts are accounts that are directly linked to another account or financial statement section, but with an opposite balance. For buildings and equipment, the contra-account for the total cost used to date is called **accumulated depreciation** . Accumulated depreciation increases with the amount of depreciation expense for the period and decreases when an asset is sold for the portion used in prior periods. We will designate contra-accounts with an x in front of the type of account to which it is related. For example, this contra- account will be shown as accumulated depreciation (xa).
 
-## EXPENSE RECOGNITION PRINCIPLE 
+Because assets have debit balances, **Accumulated Depreciation has a credit balance** . On the balance sheet, the amount that is reported for property and equipment is its **net book value** (also called the book value or carrying value), which equals the ending balance in the property and equipment accounts (total cost of property and equipment) minus the ending balance in the Accumulated Depreciation account (used cost of buildings and equipment).
 
-The **expense recognition principle** (also called the matching principle) requires that costs incurred to generate revenues be recognized in the same period—a matching of costs with benefits. 
+Maria Vittoria Cesareo
 
-The costs of generating revenue include expenses incurred such as: 
+## Accounting 1
 
-- Salaries and wages to employees who worked during the period. 
+Contra-accounts are accounts that are directly linked to another account or financial statement section, but with an opposite balance.
 
-- Utilities for the electricity used during the period. 
+Treasury Stock is also a contra-account and reduces stockholders’ equity.
 
-- Supplies used during the period. 
+We will designate contra-accounts with an X in front of the type of account to which it is related.
 
-- Facilities rented during the period. 
+- Accumulated Depreciation account will be shown as ( **XA** ).
 
-- Equipment used during the period. 
+- Treasury Stock account will be shown ( **XSE** ).
 
-Cash may be paid at any of these times: 
+## ACCRUED EXPENSES
 
-1. **Before** the expense is incurred to generate revenue. 
+Numerous expenses are incurred in the current period without being paid until the next period.
 
-2. **In the same period** as the expense is incurred to generate revenue. 
+Common examples include:
 
-3. **After** the cost is incurred to generate revenue 
+- Wages Expense for the wages owed to employees who worked during the period
 
-Expenses are recorded as **incurred** , regardless of when cash is paid. 
+- Interest Expense incurred on debt owed during the period
 
-## A QUESTION OF ETHICS 
+- Utilities Expense for the water, gas, and electricity used
 
-Investors in the stock market base their decisions on their expectations of a company’s future earnings. When companies announce quarterly and annual earnings information, investors evaluate how well the companies have met expectations and adjust their investing decisions 
+during the period
 
-Maria Vittoria Cesareo 
+These **accrued expenses** accumulate (accrue) over time but are not recognized as expenses until the end of the period in an adjusting entry.
 
-29 
+## SUMMARY
 
-## Accounting 1 
+You may have noticed that the **Cash account was never adjusted** . The cash has already been received or paid by the end of the period, or it will be received or paid in the next period.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Adjustments are required to record revenues and expenses in the proper period because the cash part of the transaction is at a different point in time.
 
-accordingly. Companies that fail to meet expectations often experience a decline in stock price. Thus, managers are motivated to produce earnings results that meet or exceed investors’ expectations to bolster stock prices. Greed may lead some managers to make unethical accounting and reporting decisions, often involving falsifying revenues and expenses. While this sometimes fools people for a short time, it rarely works in the long run and often leads to very bad consequences. 
+- In addition, each adjusting entry always included at least one income statement account and at least one balance sheet account.
 
-Fraud is a criminal offense for which managers may be sentenced to jail. A couple of historic fraud cases involving faulty revenue and expense accounting are discussed briefly below: 
+Adjustments are necessary at the end of the accounting cycle to record all revenues and expenses in the proper period and to reflect the proper valuation for assets and liabilities.
 
-- In 2002, Worldcom, the second largest long-distance telephone company in the United States at the time (now merged into Verizon), violated the expense recognition principle by recording $11 billion in expenses as assets, thus overstating assets and overstating net income. This act to inflate earnings was perpetrated to boost WorldCom’s sagging stock price. Bernie Ebbers, age 65 and former CEO of WorldCom, was convicted and found guilty in 2005 and subsequently sentenced to 25 years in prison. At the time, this was the largest accounting fraud in U.S. history. [Post-script: Ebbers was released from prison in December 2019 due to declining health and died in February 2020.] 
+- **Deferred revenues** (liabilities) have balances at the end of the period because cash was received before it was earned. If all or part of the liability has been satisfied by the end of the period, revenue needs to be recorded and the liability reduced.
 
-- ZZZZ Best was a carpet cleaning company started by teenager Barry Minkow who took the company public in 1986 when he was 20. However, the company was one of the largest accounting and investments frauds ever perpetrated by a single person. Among numerous criminal or questionable activities, Minkow violated the revenue recognition principle by creating fictitious sales to boost the company’s earnings and stock price and appear strong to attract large investment deals. But the company was a sham, one that its auditing firm failed to discover. At the age of 23, Minkow was convicted and sentenced to 25 years in prison and ordered to pay $26 million in restitution. The audit firm paid $35 million for failing to uncover the fraud. Investors and lenders reportedly lost $100 million. [Post-script: After early release in 1995, Minkow pursued numerous fraudulent activities and was sentenced to federal prison two additional times before being released in 2019 and ordered to pay over $580 million in restitution.] 
+Maria Vittoria Cesareo
 
-Many others are affected by accounting fraud. Shareholders lose stock value, employees may lose their jobs (and pension funds, as in the case of Enron), and customers and suppliers may become wary of dealing with a company operating under the cloud of fraud. As a manager, you may face an ethical dilemma in the workplace. The ethical decision to make is the one you will be proud of 20 years later. 
+## Accounting 1
 
-Maria Vittoria Cesareo 
+- **Accrued revenue** adjustments are necessary when the company has earned revenue but the cash will be received in the next period. Because nothing has been recorded yet, revenue needs to be recognized and an asset (a receivable) increased.
 
-30 
+- **Deferred expenses** (assets) have balances at the end of the period because cash was paid in the past by the company for the assets. If all or part of the asset has been used to generate revenues in the period, an expense needs to be recorded and the asset reduced.
 
-Accounting 1 
+- **Accrued expense** adjustments are necessary when the company has incurred an expense but the cash will be paid in the next period. Because nothing has been recorded yet, an expense needs to be recognized and a liability (a payable) increased.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## ADJUSTMENTS AND INCENTIVES
 
-**==> picture [464 x 221] intentionally omitted <==**
+If the financial performance and condition of the company appear strong, the company’s stock price rises.
 
-From our Statement of Retained Earnings, we know that **net income increases retained earnings** . Revenues increase net income, and expenses decrease net income. Revenues show increases and decreases on the same sides of the T-account as retained earnings. A credit to the revenue account increases revenue, a debit to the revenue account decreases revenue. Because expenses reduce revenues in the calculation of net income, increases and decreases in expense accounts are shown on the opposite sides when compared to revenue accounts. A debit to an expense account represents an increase in expenses, while a credit to an expense account represents a decrease in expenses. 
+- Shareholders often receive dividends and increase their investment value.
 
-**==> picture [171 x 213] intentionally omitted <==**
+- Managers may receive bonuses and options to buy their company’s stock at prices below market value.
 
-**==> picture [171 x 215] intentionally omitted <==**
+When actual performance lags behind expectations, managers and owners may manipulate accruals and deferrals to make up the difference. They might:
 
-Revenues increase net income, and expenses decrease net income. 
+- record cash received as revenue before it is earned or
 
-A credit to the revenue account increases revenue, a debit to the revenue account decreases revenue. A debit to the expense account increases expense; a credit to the expense account decreases expense. 
+- fail to accrue expenses at year-end.
 
-Maria Vittoria Cesareo 
+Evidence from studies of large samples of companies indicates that some managers do engage in such fraudulent behavior. This research is borne out by enforcement actions, against companies and sometimes against their auditors, by the U.S. Securities and Exchange Commission (SEC), the independent, federal agency responsible for overseeing the fair functioning of the securities markets and for protecting investors. From 2015 through 2020, the SEC brought an annual average of over 800 enforcement actions against corporations and executives for reasons including financial reporting and disclosure issues. In 2020 alone, the SEC obtained over $4.5 billion in monetary remedies for ill-gotten gains and penalties.*
 
-31 
+News of an SEC investigation into these allegations can negatively affect the company’s stock price.
 
-Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-Step 1: Ask → Was a revenue earned by delivering goods or services? 
+This is another way of presenting the relationships among the statements.
 
-- If so, debit the account for what was received (+A, -L) and credit the revenue account (+R, +SE) 
+Notice that:
 
-OR Was an expense incurred to generate a revenue in the current period? 
+(1) The first statement to prepare is the **Income Statement** which reports that revenues minus expenses yields net income.
 
-- If so, debit the expense account (+E, -SE) and credit the account for what was given (-A, +L) 
+(2) **Net income** is a component in determining total stockholders’ equity. Net income (or net loss) and **dividends** declared to stockholders affect Retained Earnings and any additional **issuances or repurchases of stock** during the period affect the balances in Common Stock and Additional Paid-in Capital, all of which appear on the Statement of Stockholders’ Equity.
 
-OR If neither a revenue was earned or an expense was incurred, what was received and given? 
+(3) **Stockholders’ Equity** is a component of the Balance Sheet.
 
-- debit the account for what was received (+A, -L) 
+Thus, if a number on the income statement changes or is in error, it will impact the other statements.
 
-- credit the account for what was given (-A, +L) 
+The income statement is prepared first because net income is a component of Retained Earnings.
 
-Step 2: Verify → Is the accounting equation in balance? (A = L + SE) 
+This is the income statement drawn from the adjusted trial balance. Refer back to the adjusted trial balance and trace the income statement numbers forward.
 
-- Do debits = credits? 
+Maria Vittoria Cesareo
 
-## **CHAPTER 4 (ADJUSTMENTS, FINANCIAL STATEMENTS, AND THE CLOSING PROCESS)** 
+## Accounting 1
 
-Managers are responsible for preparing financial statements that will be useful to investors, creditors, and others. Financial information is most useful for analyzing the past and predicting the future when it is considered by users to be of high quality. High- quality information is information that is relevant (that is, material and able to influence users’ decisions) and a faithful representation of what is being reported (that is, complete, free from error, and unbiased in portraying economic reality). 
+Earnings per Share
 
-## THE ACCOUNTING CYCLE 
+**EPS** is the only ratio required to be disclosed on the statement or in the notes to the statements.
 
-The accounting cycle is the process followed by entities to analyze and record transactions, adjust the records at the end of the period, prepare financial statements, and prepare the records for the next cycle. 
+It is widely used in evaluating the operating performance and profitability of a company. It is the only ratio required to be disclosed on the statement or in the notes to the statements.
 
-During the accounting period, transactions that result in exchanges between the company and other external parties are analyzed and recorded in the general journal in chronological order (journal entries), and the related accounts are updated in the general ledger (T-accounts). 
+Statement of Stockholders’ Equity
 
-The end-of-period steps focus primarily on adjustments to record revenues and expenses in the proper period and to update the balance sheet accounts for reporting purposes. 
+The final total from the income statement, net income, is carried forward to the Retained Earnings column of the **statement of stockholders’ equity** . To this, the additional elements of the statement are added. Dividends declared and an additional stock issuance are also included in the statement.
 
-Maria Vittoria Cesareo 
+Balance Sheet
 
-32 
+The ending balances for **Common Stock, Additional Paid-in Capital, Treasury Stock, and Retained Earnings** from the statement of stockholders’ equity are included on the balance sheet that follows. You will notice that the contra-asset account Accumulated Depreciation (used cost) has been subtracted from the total of the land, buildings, and equipment accounts (at cost) to reflect net book value (or carrying value) at period-end for balance sheet purposes. Also recall that assets are listed in order of liquidity and liabilities are listed in order of due dates. Current assets are those used or turned into cash within one year (as well as inventory). Current liabilities are obligations to be paid with current assets within one year. We present a comparative balance sheet that shows the amounts at two points in time: December 31, 2019 and March 31, 2020.
 
-## Accounting 1 
+The **U.S. Securities and Exchange Commission** formed the **Financial Reporting and Audit** (FRAud) Group under the **Division of Enforcement,** which concentrates on detecting fraud and prosecuting corporations and individuals for violations involving false or misleading financial statements and disclosures. The SEC uses data analytics to build a more proactive enforcement program. The FRAud Group relies on statistical modeling and other data tools, for example, to analyze narratives in financial statements submitted to the SEC by public corporations to identify subtle differences in the tone and language that provide quantifiable measures of risk (and potential fraud). Also, the **Division’s Earnings Per Share Initiative** uses risk-based data
 
-**==> picture [39 x 39] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-**==> picture [462 x 128] intentionally omitted <==**
+## Accounting 1
 
-## THE PURPOSE OF ADJUSTMENTS 
+analytics to uncover potential accounting and disclosure violations often caused by earnings management practices to hide weak performances that were not expected.
 
-How does the accounting system record revenues and expenses when one transaction is needed to record a cash receipt or payment and another transaction is needed to record revenue when it is earned or an expense when it is incurred? The solution to the problem created by such differences in timing is to record adjusting entries at the end of every accounting period so that 
+## CLOSING THE BOOKS
 
-- **Revenues** are recorded when earned (the revenue recognition principle). 
+All adjusting entries are recorded and posted to update the accounts and then the financial statements are prepared and disseminated to users. A closing process is needed as the last step in the accounting cycle to mark the end of the current period and the beginning of the next.
 
-- **Expenses** are recorded when they are incurred to generate revenue (the expense recognition 
+- **Balance sheet accounts** (assets, liabilities, and stockholders’ equity) are considered permanent accounts, indicating that they retain their balances from the end of one period to the beginning of the next.
 
-- Principle). 
+- **Income statement accounts** (revenues, expenses, gains, and losses accounts) are temporary accounts because their balances accumulate during a period to determine financial performance for the period. However, the accounts must start with a zero balance at the beginning of the next period to determine next period’s financial performance.
 
-- **Assets** are reported at amounts that represent the probable future benefits remaining at the 
+Another issue is that the Retained Earnings account balance is not correct until the closing process is complete. Retained Earnings increases with the period’s net income and decreases with dividends declared (and net losses) for the period. The Retained Earnings T-account does not yet include the effects of net income. The closing process is needed to move net income (a subtotal) to Retained Earnings.
 
-- end of the period. 
+The final step in the accounting cycle, closing the books, is done by recording a closing journal entry and posting the effects to the appropriate accounts. A closing entry has two purposes:
 
-- **Liabilities** are reported at amounts that represent the probable future sacrifices of assets or 
+1. To **transfer the balances in the temporary accounts** (income statement accounts) **to Retained Earnings** .
 
-- services owed at the end of the period. 
+2. To **establish a zero balance in each of the temporary accounts** to start the accumulation in the next accounting period.
 
-Companies wait until the end of the accounting period to adjust their accounts because doing so daily or weekly would be very costly and time-consuming. Adjusting entries are required every time a company prepares financial statements for external users. 
+The **closing entry** is dated the last day of the accounting period, entered in the usual debitsequal-credits format (in the journal), and immediately posted to the ledger (or T-accounts). The income statement (temporary) accounts with debit balances are credited and the income statement (temporary) accounts with credit balances are debited.
 
-Maria Vittoria Cesareo 
+The net amount, equal to net income, affects Retained Earnings.
 
-33 
+## POST-CLOSING TRIAL BALANCE
 
-## Accounting 1 
+As an additional step of the accounting information processing cycle, a **post-closing trial balance** should be prepared as a check that debits still equal credits and that all temporary
 
-**==> picture [39 x 39] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-**==> picture [459 x 260] intentionally omitted <==**
+Accounting 1
 
-- Cash was received or paid in the past (creating deferred revenue and expense accounts until they are earned or incurred over time) 
+accounts have been closed. The income statement accounts should be $0. The accounting cycle for the period is now complete.
 
-- Cash will be received or paid in the next period for revenues and expenses that were earned or incurred in the current period but have not been recorded (creating accrued revenues until cash is received and accrued expenses until cash is paid) 
+## CHAPTER 6 (REPORTING AND INTERPRETING SALES REVENUE, RECEIVABLES, AND CASH)
 
-Maria Vittoria Cesareo 
+## ACCOUNTING FOR NET SALES REVENUE
 
-34 
+The **revenue recognition principle** requires that revenues be recorded when the company transfers goods and services to customers, in the amount it expects to be entitled to receive.
 
-## Accounting 1 
+For sellers of goods, **sales revenue** is recorded when title and risks of ownership transfer to the buyer.
 
-**==> picture [39 x 39] intentionally omitted <==**
+The point at which title (ownership) changes hands is determined by the **shipping terms** in the sales contract:
 
-**==> picture [468 x 292] intentionally omitted <==**
+- **FOB** (free on board) **shipping point**: title changes hands at shipment and the buyer
 
-## DEFERRED (UNEARNED) REVENUES 
+- normally pays for shipping.
 
-When a customer pays for goods or services before the company delivers them, the company records the amount of cash received in a **deferred (unearned) revenue** account. 
+- **FOB destination**: title changes hands on delivery and the seller normally pays for
 
-This unearned revenue is a liability representing the company’s promise to perform or deliver the goods or services in the future. 
+- shipping.
 
-Recognition of (recording) the revenue is postponed (deferred) until the company meets its obligation. 
+Skechers ships its goods to retailers, such as Macy’s and Dick’s, FOB shipping point.
 
-## ACCRUED REVENUES 
+Revenues from goods shipped FOB shipping point are normally recognized at shipment. Revenues from goods shipped FOB destination are normally recognized at delivery. Service companies most often record sales revenue when they have provided services to the buyer.
 
-Sometimes companies perform services or provide goods (i.e., earn revenue) before customers pay. 
+Companies disclose the revenue recognition rule they follow in the footnote to the financial statements entitled Summary of Significant Accounting Policies.
 
-Because cash is owed, the revenue that was earned may not have been recorded. 
+## MOTIVATING SALES AND COLLECTIONS
 
-Revenues that have been earned but have not yet been recorded at the end of the accounting period are called **accrued revenues** . 
+Some sales practices differ depending on whether sales are made to businesses or consumers.
 
-## DEFERRED EXPENSES 
+Companies use a variety of methods to motivate both groups of customers to buy their products and make payment for their purchases.
 
-Maria Vittoria Cesareo 
+The principal methods include:
 
-35 
+(1) allowing consumers to use **credit cards** to pay for purchases,
 
-## Accounting 1 
+- (2) providing business customers **direct credit and discounts for early payment** , and
 
-**==> picture [39 x 39] intentionally omitted <==**
+- (3) allowing **returns** from all customers under certain circumstances.
 
-Assets represent resources with probable future benefits to the company. 
+These methods, in turn, affect the way we compute net sales revenue.
 
-Many assets are used over time to generate revenues, including supplies, prepaid expenses for insurance, advertising, and rent, and buildings and equipment. 
+Maria Vittoria Cesareo
 
-These assets are **deferred expenses** (that is, recording the expenses for using these assets is deferred to the future). 
+Accounting 1
 
-At the end of every period, an adjustment must be made to record the amount of the asset that was used during the period. 
+## CREDIT CARD SALES TO CONSUMERS
 
-## DEPRECIATION 
+Retailers accept credit cards (mainly Visa, Mastercard, and American Express) for a variety of reasons:
 
-**Buildings and Equipment** accounts are listed at cost. The accounts increase by the cost of the assets when they are acquired and decrease by the cost of the assets when they are sold or disposed of. However, these assets also are used over time to generate revenue. A part of their cost should be recorded as an expense in the same period (following the expense recognition principle). Accountants say that buildings and equipment, but not land, depreciate over time as they are used. 
+1. Increasing customer traffic.
 
-In accounting, **depreciation** is an allocation of the cost of buildings and equipment over their estimated useful lives to the organization. 
+2. Avoiding the costs of providing credit directly to consumers, including recordkeeping and bad debts (discussed later).
 
-To keep track of the asset’s historical cost, the amount that has been used is not subtracted directly from the asset account. Instead, it is accumulated in a new kind of account called a **contra-account** . Contra-accounts are accounts that are directly linked to another account or financial statement section, but with an opposite balance. For buildings and equipment, the contra-account for the total cost used to date is called **accumulated depreciation** . Accumulated depreciation increases with the amount of depreciation expense for the period and decreases when an asset is sold for the portion used in prior periods. We will designate contra-accounts with an x in front of the type of account to which it is related. For example, this contra- account will be shown as accumulated depreciation (xa). 
+3. Lowering losses due to bad checks.
 
-Because assets have debit balances, **Accumulated Depreciation has a credit balance** . On the balance sheet, the amount that is reported for property and equipment is its **net book value** (also called the book value or carrying value), which equals the ending balance in the property and equipment accounts (total cost of property and equipment) minus the ending balance in the Accumulated Depreciation account (used cost of buildings and equipment). 
+4. Avoiding losses from fraudulent credit card sales. (As long as the retailer follows the credit card company’s verification procedure, the credit card company (e.g., Visa) absorbs any losses.)
 
-**==> picture [468 x 98] intentionally omitted <==**
+5. Receiving money faster. (Because credit card receipts can be deposited directly in its bank account, Skechers receives its money faster than it would if it provided credit directly to consumers.)
 
-Maria Vittoria Cesareo 
+When credit card sales are made, the company must pay the credit card company a fee for the service it provides. This fee is called a Credit Card Discount.
 
-36 
+When Skechers deposits its credit card receipts in the bank, it might receive credit for only 97 percent of the sales price. The credit card company is charging a 3 percent fee for its services. If daily credit card sales were $3,000, Skechers would report the following:
 
-## Accounting 1 
+Sales Revenue $3,000 less Credit Card Discounts $90 (0.03 × 3,000) = Net Sales (reported on the income statement) $2,910
 
-**==> picture [39 x 39] intentionally omitted <==**
+## SALES DISCOUNTS TO BUSINESSES
 
-Contra-accounts are accounts that are directly linked to another account or financial statement section, but with an opposite balance. 
+Companies often sell to other businesses on **open account** without a formal written promissory note.
 
-Treasury Stock is also a contra-account and reduces stockholders’ equity. 
+Companies may offer a **sales discount** as an early payment incentive.
 
-We will designate contra-accounts with an X in front of the type of account to which it is related. 
+Maria Vittoria Cesareo
 
-- Accumulated Depreciation account will be shown as ( **XA** ). 
+## Accounting 1
 
-- Treasury Stock account will be shown ( **XSE** ). 
+In this case, if the customer pays within 10 days, then a 2 percent discount may be deducted from the invoice amount. If not, then the net amount is due within 30 days.
 
-## ACCRUED EXPENSES 
+In some cases, a sales discount (often called a cash discount) is granted to the purchaser to encourage early payment.
 
-Numerous expenses are incurred in the current period without being paid until the next period. 
+Companies offer this sales discount to encourage customers to pay more quickly. This provides two benefits:
 
-Common examples include: 
+1. Prompt receipt of cash from customers reduces the necessity to borrow money to meet operating needs.
 
-- Wages Expense for the wages owed to employees who worked during the period 
+2. Because customers tend to pay bills providing discounts first, a sales discount also decreases the chances that the customer will run out of funds before the company’s bill is paid.
 
-- Interest Expense incurred on debt owed during the period 
+Companies commonly record sales discounts taken by subtracting the discount from sales if payment is made within the discount period. For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 and payment of $980 ($1,000 × 0.98 = $980) is made within the discount period, net sales of the following amount would be reported.
 
-- Utilities Expense for the water, gas, and electricity used 
+If payment is made after the discount period, the full $1,000 would be reported as net sales. Accounting for sales discounts is discussed in more detail in the Supplement at the end of this chapter. Any quantity discounts or rebates provided to customers also must be subtracted in the computation of net sales.
 
-during the period 
+TO TAKE OR NOT TO TAKE THE DISCOUNT, THAT IS THE QUESTION
 
-These **accrued expenses** accumulate (accrue) over time but are not recognized as expenses until the end of the period in an adjusting entry. 
+Purchasers often pay within the discount period because the savings are substantial. With terms 2/10, n/30, customers save 2 percent by paying 20 days early (on the 10th day instead of the 30th). This translates into a 37 percent annual interest rate.
 
-## SUMMARY 
+To calculate the **annual interest rate** , first compute the interest rate for the discount period.
 
-You may have noticed that the **Cash account was never adjusted** . The cash has already been received or paid by the end of the period, or it will be received or paid in the next period. 
+Maria Vittoria Cesareo
 
-• Adjustments are required to record revenues and expenses in the proper period because the cash part of the transaction is at a different point in time. 
+Accounting 1
 
-• In addition, each adjusting entry always included at least one income statement account and at least one balance sheet account. 
+As long as the bank’s interest rate is less than the interest rate associated with failing to take cash discounts, the customer will save by taking the cash discount.
 
-Adjustments are necessary at the end of the accounting cycle to record all revenues and expenses in the proper period and to reflect the proper valuation for assets and liabilities. 
+## SALES RETURNS AND ALLOWANCES
 
-• **Deferred revenues** (liabilities) have balances at the end of the period because cash was received before it was earned. If all or part of the liability has been satisfied by the end of the period, revenue needs to be recorded and the liability reduced. 
+Customers have a right to **return unsatisfactory or damaged merchandise** and receive a refund or an adjustment to their bill.
 
-Maria Vittoria Cesareo 
+These returns are accumulated in a separate account called **Sales Returns and Allowances** and must be deducted from gross sales revenue in determining net sales.
 
-37 
+Cost of goods sold related to the returned items would also be reduced
 
-## Accounting 1 
+Please keep in mind the following:
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Every time there is a sales return, the goods previously sold are physically given back to the seller. Hence, every time goods are returned, you shall prepare two journal entries, the first to **decrease the account receivable** (credit) and **increase the sales returns** (contra-revenue, debit), the second to **decrease the cost of goods sold** (credit) and **increase the inventory** (debit), because the goods returned are “no more sold” but instead are again part of the inventory.
 
-• **Accrued revenue** adjustments are necessary when the company has earned revenue but the cash will be received in the next period. Because nothing has been recorded yet, revenue needs to be recognized and an asset (a receivable) increased. 
+You have a sales return when goods are not defective and just not compliant to the order.
 
-• **Deferred expenses** (assets) have balances at the end of the period because cash was paid in the past by the company for the assets. If all or part of the asset has been used to generate revenues in the period, an expense needs to be recorded and the asset reduced. 
+- Every time there is a sales allowance, the goods previously sold are NOT physically given back to the seller. This is why, every time goods are returned, you shall prepare only one journal entry, to **decrease the account receivable** (credit) and **increase the sales returns** (contrarevenue, debit), whilst inventory remains unchanged.
 
-• **Accrued expense** adjustments are necessary when the company has incurred an expense but the cash will be paid in the next period. Because nothing has been recorded yet, an expense needs to be recognized and a liability (a payable) increased. 
+Maria Vittoria Cesareo
 
-## ADJUSTMENTS AND INCENTIVES 
+## Accounting 1
 
-If the financial performance and condition of the company appear strong, the company’s stock price rises. 
+This is the case, for example, in the construction industry when 10,000 bricks are sold and 70 break during the transport. A return would be more costly for the seller rather than a simple allowance.
 
-- Shareholders often receive dividends and increase their investment value. 
+## REPORTING NET SALES
 
-- Managers may receive bonuses and options to buy their company’s stock at prices below market value. 
+Companies record credit card discounts, sales discounts, and sales returns and allowances separately to allow management to monitor the magnitude of these transactions.
 
-When actual performance lags behind expectations, managers and owners may manipulate accruals and deferrals to make up the difference. They might: 
+## VOLUME DISCOUNTS/REBATES AND EARNINGS MISSTATEMENTS AT MONSANTO
 
-- record cash received as revenue before it is earned or 
+In 2016, the SEC found that agribusiness company Monsanto had materially misstated company revenues and earnings by improperly accounting for volume discounts and rebates offered to retailers and distributors of its flagship product, Roundup. In an attempt to offset the effects of generic competition for Roundup, Monsanto instituted new discount and rebate programs. Net sales revenue should be recorded “in the amount the company expects to be entitled to receive.” This rule requires that Monsanto reduce the amount of reported net sales by the expected rebates in the period of sale. Instead, Monsanto delayed recording these reductions until the following year, overstating net sales and earnings before taxes by $44.5 million and $48 million, respectively, over two years. Monsanto also improperly accounted for additional rebates of more than $56 million as selling, general, and administrative expense instead of a reduction in net sales. This practice overstated gross profit, an important measure used by analysts to assess competitive pricing pressure, but did not affect income before taxes. Monsanto agreed to pay an $80 million penalty to settle these violations and three Monsanto managers paid penalties of between $30,000 and $55,000 for their involvement in the scheme. And Monsanto’s CEO and CFO returned bonuses of $3,165,852 and $728,843 they had received ^8yg0fn
+*(See also: [[BLAB ACC SHEET CHAPTER 4#^n2fcyx]])*
 
-- fail to accrue expenses at year-end. 
+Maria Vittoria Cesareo
 
-Evidence from studies of large samples of companies indicates that some managers do engage in such fraudulent behavior. This research is borne out by enforcement actions, against companies and sometimes against their auditors, by the U.S. Securities and Exchange Commission (SEC), the independent, federal agency responsible for overseeing the fair functioning of the securities markets and for protecting investors. From 2015 through 2020, the SEC brought an annual average of over 800 enforcement actions against corporations and executives for reasons including financial reporting and disclosure issues. In 2020 alone, the SEC obtained over $4.5 billion in monetary remedies for ill-gotten gains and penalties.* 
+## Accounting 1
 
-News of an SEC investigation into these allegations can negatively affect the company’s stock price. 
+as a result of the earnings overstatements, though they were not found to be involved in personal misconduct.
 
-Maria Vittoria Cesareo 
+## REVENUE RECOGNITION FOR BUNDLED GOODS AND SERVICES: A FIVE STEP PROCESS
 
-38 
+**Bundling of goods and services** within one sales contract is common in a variety of industries. For example, when Apple sells its iPad, the contract with its customer includes not only the iPad and software essential to the functioning of the product, but future upgrades relating to the essential software.
 
-## Accounting 1 
+When a seller promises to provide more than one good or service in a single sales contract, FASB standards specify a **five-step process** to determine the amount to be recognized as revenue.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Assume Apple sells and iPad for $500, (1) $450 of which relates the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years** .
 
-**==> picture [474 x 154] intentionally omitted <==**
+## MEASURING AND REPORTING RECEIVABLES
 
-**==> picture [468 x 138] intentionally omitted <==**
+Receivables may be classified in three ways.
 
-This is another way of presenting the relationships among the statements. 
+- **account receivable or a note receivable** .
 
-Notice that: 
+An accounts receivable is created by a credit sale on an open account. For example, an account receivable is created when Skechers sells shoes on open account to Dick’s. A notes receivable is a promise in writing (a formal document) to pay (1) a specified amount of money, called the **principal** , at a definite future date known as the maturity date and (2) a
 
-(1) The first statement to prepare is the **Income Statement** which reports that revenues minus expenses yields net income. 
+Maria Vittoria Cesareo
 
-(2) **Net income** is a component in determining total stockholders’ equity. Net income (or net loss) and **dividends** declared to stockholders affect Retained Earnings and any additional **issuances or repurchases of stock** during the period affect the balances in Common Stock and Additional Paid-in Capital, all of which appear on the Statement of Stockholders’ Equity. 
+## Accounting 1
 
-(3) **Stockholders’ Equity** is a component of the Balance Sheet. 
+specified amount of **interest** at one or more future dates. The interest is the amount charged for use of the principal.
 
-Thus, if a number on the income statement changes or is in error, it will impact the other statements. 
+- **trade or nontrade receivables** .
 
-The income statement is prepared first because net income is a component of Retained Earnings. 
+A trade receivable is created in the normal course of business when a sale of merchandise or services on credit occurs. A nontrade receivable arises from transactions other than the normal sale of merchandise or services. For example, if Skechers loaned money to a new vice president to help finance a home at the new job location, the loan would be classified as a nontrade receivable.
 
-This is the income statement drawn from the adjusted trial balance. Refer back to the adjusted trial balance and trace the income statement numbers forward. 
+- in a classified balance sheet, **current or noncurrent** (short term or long term),
 
-Maria Vittoria Cesareo 
+depending on when the cash is expected to be collected.
 
-39 
+Skechers reports Trade Accounts Receivable from customers and classifies the asset as a current asset because the accounts receivable are all due to be paid within one year. It also
 
-## Accounting 1 
+reports Other Receivables in a much smaller amount, and also classifies that asset as a current asset.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## FOREIGN CURRENCY RECEIVABLES
 
-Earnings per Share 
+**Export** (international) sales are a growing part of the U.S. economy. Most export sales to businesses are on credit.
 
-**EPS** is the only ratio required to be disclosed on the statement or in the notes to the statements. 
+When a buyer agrees to pay in its local currency, the resulting accounts receivable is denominated in a foreign currency. This amount cannot be added to other U.S. dollar accounts receivable. Companies must convert the amount to U.S. dollars using the end-of-period exchange rate between the two currencies.
 
-It is widely used in evaluating the operating performance and profitability of a company. It is the only ratio required to be disclosed on the statement or in the notes to the statements. 
+## ACCOUNTING FOR BAD DEBTS
 
-**==> picture [338 x 74] intentionally omitted <==**
+Companies keep a **separate accounts receivable** account for each business customer (called a subsidiary account). The amount on the balance sheet represents the total of these individual customer accounts.
 
-Statement of Stockholders’ Equity 
+**Bad debts** result from credit customers who will not pay the amount they owe, regardless of collection efforts.
 
-The final total from the income statement, net income, is carried forward to the Retained Earnings column of the **statement of stockholders’ equity** . To this, the additional elements of the statement are added. Dividends declared and an additional stock issuance are also included in the statement. 
+The expense principle requires recording of bad debt expense in the same accounting period in which the related sales are made.
 
-Balance Sheet 
+Maria Vittoria Cesareo
 
-The ending balances for **Common Stock, Additional Paid-in Capital, Treasury Stock, and Retained Earnings** from the statement of stockholders’ equity are included on the balance sheet that follows. You will notice that the contra-asset account Accumulated Depreciation (used cost) has been subtracted from the total of the land, buildings, and equipment accounts (at cost) to reflect net book value (or carrying value) at period-end for balance sheet purposes. Also recall that assets are listed in order of liquidity and liabilities are listed in order of due dates. Current assets are those used or turned into cash within one year (as well as inventory). Current liabilities are obligations to be paid with current assets within one year. We present a comparative balance sheet that shows the amounts at two points in time: December 31, 2019 and March 31, 2020. 
+## Accounting 1
 
-THE SEC USES BIG DATA 
+This presents an important accounting problem. A company may not learn which particular customers will not pay until the next accounting period. So, at the end of the period of sale, the company normally does not know which customers’ accounts receivable are bad debts. This problem is resolved by using the allowance method to measure bad debt expense. The allowance method is based on **estimates** of the expected amount of bad debts.
 
-The **U.S. Securities and Exchange Commission** formed the **Financial Reporting and Audit** (FRAud) Group under the **Division of Enforcement,** which concentrates on detecting fraud and prosecuting corporations and individuals for violations involving false or misleading financial statements and disclosures. The SEC uses data analytics to build a more proactive enforcement program. The FRAud Group relies on statistical modeling and other data tools, for example, to analyze narratives in financial statements submitted to the SEC by public corporations to identify subtle differences in the tone and language that provide quantifiable measures of risk (and potential fraud). Also, the **Division’s Earnings Per Share Initiative** uses risk-based data 
+Two primary steps in employing the allowance method are:
 
-Maria Vittoria Cesareo 
+1. Making the end-of-period adjusting entry to record estimated bad debt expense.
 
-40 
+2. Writing off specific accounts determined to be uncollectible during the period
 
-## Accounting 1 
+## RECORDING BAD DEBT EXPENSE ESTIMATES
 
-**==> picture [39 x 39] intentionally omitted <==**
+**Bad debt expense** (doubtful accounts expense, uncollectible accounts expense, provision for uncollectible accounts) is the expense associated with estimated uncollectible accounts receivable.
 
-analytics to uncover potential accounting and disclosure violations often caused by earnings management practices to hide weak performances that were not expected. 
+An **adjusting journal entry** at the end of the accounting period records the bad debt estimate.
 
-## CLOSING THE BOOKS 
+The Bad Debt Expense is included in the category **“General and Administrative” expenses** on the income statement. It decreases net income and stockholders’ equity.
 
-All adjusting entries are recorded and posted to update the accounts and then the financial statements are prepared and disseminated to users. A closing process is needed as the last step in the accounting cycle to mark the end of the current period and the beginning of the next. 
+Accounts Receivable could not be credited in the journal entry because there is no way to know which customers’ accounts receivable are involved. So the credit is made, instead, to a contraasset account called **Allowance for Doubtful Accounts** (Allowance for Bad Debts or Allowance for Uncollectible Accounts). As a contra-asset, the balance in Allowance for Doubtful Accounts is always subtracted from the balance of the asset Accounts Receivable. Thus, the entry decreases the net book value of Accounts Receivable and total assets.
 
-• **Balance sheet accounts** (assets, liabilities, and stockholders’ equity) are considered permanent accounts, indicating that they retain their balances from the end of one period to the beginning of the next. 
+## WRITING OFF SPECIFIC UNCOLLECTIBLE ACCOUNTS
 
-• **Income statement accounts** (revenues, expenses, gains, and losses accounts) are temporary accounts because their balances accumulate during a period to determine financial performance for the period. However, the accounts must start with a zero balance at the beginning of the next period to determine next period’s financial performance. 
+Throughout the year, when it is determined that a customer will not pay its debts (e.g., due to bankruptcy), the write-off of that individual bad debt is recorded through a journal entry. Now that the specific uncollectible customer account receivable has been identified, it can be removed with a credit. At the same time, we no longer need the related estimate in the contraasset Allowance for Doubtful Accounts, which is removed by a debit.
 
-Another issue is that the Retained Earnings account balance is not correct until the closing process is complete. Retained Earnings increases with the period’s net income and decreases with dividends declared (and net losses) for the period. The Retained Earnings T-account does not yet include the effects of net income. The closing process is needed to move net income (a subtotal) to Retained Earnings. 
+Maria Vittoria Cesareo
 
-The final step in the accounting cycle, closing the books, is done by recording a closing journal entry and posting the effects to the appropriate accounts. A closing entry has two purposes: 
+## Accounting 1
 
-1. To **transfer the balances in the temporary accounts** (income statement accounts) **to Retained Earnings** . 
+Notice that this journal entry did not affect any income statement accounts. It did not record a bad debt expense because the estimated expense was recorded with an adjusting entry in the period of sale. Also, the entry did not change the net book value of accounts receivable because the decrease in the asset account (Accounts Receivable) was offset by the decrease in the contra-asset account (Allowance for Doubtful Accounts). Thus, it also did not affect total assets ^v3c0mx
 
-2. To **establish a zero balance in each of the temporary accounts** to start the accumulation in the next accounting period. 
+## BAD DEBT RECOVERIES
 
-The **closing entry** is dated the last day of the accounting period, entered in the usual debitsequal-credits format (in the journal), and immediately posted to the ledger (or T-accounts). The income statement (temporary) accounts with debit balances are credited and the income statement (temporary) accounts with credit balances are debited. 
+When a company receives a payment on an account that has already been written off, the journal entry to write off the account is reversed to put the receivable back on the books and then the collection of cash is recorded.
 
-The net amount, equal to net income, affects Retained Earnings. 
+Note that these entries, like the original write-off, do not affect total assets or net income. Only the estimate of bad debts affects these amounts.
 
-## POST-CLOSING TRIAL BALANCE 
+It is important to remember that accounting for bad debts is a two-step process: Step 1 Record the **estimated bad debts adjustment.** Step 2 Identify and **write off actual bad debts** .
 
-As an additional step of the accounting information processing cycle, a **post-closing trial balance** should be prepared as a check that debits still equal credits and that all temporary 
+**Accounts Receivable (Gross)** includes the total accounts receivable, both collectible and uncollectible. The balance in the Allowance for Doubtful Accounts is the portion of the accounts
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-41 
+## Accounting 1
 
-Accounting 1 
+receivable balance the company estimates to be uncollectible. **Accounts Receivable (Net** ) reported on the balance sheet is the portion of the accounts the company expects to collect (or its estimated net realizable value).
 
-**==> picture [39 x 39] intentionally omitted <==**
+## ESTIMATING BAD DEBT EXPENSE
 
-accounts have been closed. The income statement accounts should be $0. The accounting cycle for the period is now complete. 
+The bad debt expense amount recorded in the end-of-period adjusting entry often is estimated based on either:
 
-## **CHAPTER 6 (REPORTING AND INTERPRETING SALES REVENUE, RECEIVABLES, AND CASH)** 
+## (1) a **percentage of total credit sales** for the period or
 
-## ACCOUNTING FOR NET SALES REVENUE 
+## (2) an **aging of accounts receivable** .
 
-The **revenue recognition principle** requires that revenues be recorded when the company transfers goods and services to customers, in the amount it expects to be entitled to receive. 
+Both methods are acceptable under GAAP and are widely used.
 
-For sellers of goods, **sales revenue** is recorded when title and risks of ownership transfer to the buyer. 
+The percentage of credit sales method is simpler to apply, but the aging method is generally more accurate. Many companies use the simpler method on a weekly or monthly basis and use the more accurate method on a monthly or quarterly basis to check the accuracy of the earlier estimates. In our example, both methods produce exactly the same estimate, which rarely occurs in practice.
 
-The point at which title (ownership) changes hands is determined by the **shipping terms** in the sales contract: 
+## ESTIMATING BAD DEBTS—PERCENTAGE OF CREDIT SALES METHOD
 
-- **FOB** (free on board) **shipping point** : title changes hands at shipment and the buyer 
+The **percentage of credit sales method** bases bad debt expense on the historical percentage of credit sales that result in bad debts.
 
-- normally pays for shipping. 
+The average percentage of credit sales that result in bad debts can be computed by **dividing total bad debt losses by total credit sales** .
 
-- **FOB destination** : title changes hands on delivery and the seller normally pays for 
+A company that has been operating for some years has sufficient experience to project probable future bad debt losses.
 
-- shipping. 
+For example, if we assume that, during the year 2020, Skechers expected bad debt losses of 1.0 percent of credit sales, and its credit sales were $1,970,000 (all numbers in thousands), it would estimate the current year’s bad debts as:
 
-Skechers ships its goods to retailers, such as Macy’s and Dick’s, FOB shipping point. 
+Credit sales $1,970,000
 
-Revenues from goods shipped FOB shipping point are normally recognized at shipment. Revenues from goods shipped FOB destination are normally recognized at delivery. Service companies most often record sales revenue when they have provided services to the buyer. 
+× Bad debt loss rate (1.0%) × 0.01
 
-Companies disclose the revenue recognition rule they follow in the footnote to the financial statements entitled Summary of Significant Accounting Policies. 
+Maria Vittoria Cesareo
 
-## MOTIVATING SALES AND COLLECTIONS 
+Accounting 1 Bad debt expense $ 19,700
 
-Some sales practices differ depending on whether sales are made to businesses or consumers. 
+This amount would be directly recorded as Bad Debt Expense (and an increase in Allowance for Doubtful Accounts) in the current year. Our beginning balance in the Allowance for Doubtful Accounts for 2020 would be the ending balance for 2019. Assuming write-offs during 2020 of $14,106, the ending balance is computed as $29,700.
 
-Companies use a variety of methods to motivate both groups of customers to buy their products and make payment for their purchases. 
+## ESTIMATING BAD DEBTS—AGING OF ACCOUNTS RECEIVABLE
 
-The principal methods include: 
+The **aging of accounts receivable method** relies on the fact that, as accounts receivable become older and more overdue, it is less likely that they will be collected. For example, a receivable that was due in 30 days but has not been paid after 120 days is less likely to be collected, on average, than a similar receivable that remains unpaid after 45 days.
 
-(1) allowing consumers to use **credit cards** to pay for purchases, 
+## ESTIMATING BAD DEBTS—COMPARISON OF THE TWO METHODS
 
-- (2) providing business customers **direct credit and discounts for early payment** , and 
+It is important to recognize that the approach to recording bad debt expense using the percentage of credit sales method is different from that for the aging method:
 
-- (3) allowing **returns** from all customers under certain circumstances. 
+- **Percentage of credit sales** . Directly compute the amount to be recorded as Bad Debt Expense on the income statement for the period in the adjusting journal entry.
 
-These methods, in turn, affect the way we compute net sales revenue. 
+- **Aging of Accounts Receivable** . Compute the estimated ending balance we would like to have in the Allowance for Doubtful Accounts on the balance sheet after we make the necessary adjusting entry. The difference between the current balance in the account and the estimated balance is recorded as the adjusting entry for Bad Debt Expense for the period.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-42 
+## Accounting 1
 
-Accounting 1 
+If uncollectible accounts actually written off differ from the estimated amount previously recorded, a higher or lower amount of bad debt expense is recorded in the next period to make up for the previous period’s error in estimate.
 
-**==> picture [39 x 39] intentionally omitted <==**
+When estimates are found to be incorrect, financial statement values for prior annual accounting periods are not corrected.
 
-## CREDIT CARD SALES TO CONSUMERS 
+## CONTROL OVER ACCOUNTS RECEIVABLE
 
-Retailers accept credit cards (mainly Visa, Mastercard, and American Express) for a variety of reasons: 
+Many managers forget that extending credit will increase sales volume, but unless the related receivables are collected, they do not add to the bottom line. Companies that emphasize sales without monitoring the collection of credit sales soon find much of their current assets tied up in accounts receivable.
 
-1. Increasing customer traffic. 
+The following practices can help minimize bad debts:
 
-2. Avoiding the costs of providing credit directly to consumers, including recordkeeping and bad debts (discussed later). 
+1. Require approval of customers’ credit history by a person independent of the sales and collections functions.
 
-3. Lowering losses due to bad checks. 
+2. Age accounts receivable periodically and contact customers with overdue payments.
 
-4. Avoiding losses from fraudulent credit card sales. (As long as the retailer follows the credit card company’s verification procedure, the credit card company [e.g., Visa] absorbs any losses.) 
+3. Reward both sales and collections personnel for speedy collections so that they work as a team.
 
-5. Receiving money faster. (Because credit card receipts can be deposited directly in its bank account, Skechers receives its money faster than it would if it provided credit directly to consumers.) 
+## CHAPTER 7: REPORTING AND INTERPRETING CGS AND INVENTORY
 
-When credit card sales are made, the company must pay the credit card company a fee for the service it provides. This fee is called a Credit Card Discount. 
+PRIMARY GOALS OF INVENTORY MANAGEMENT:
 
-When Skechers deposits its credit card receipts in the bank, it might receive credit for only 97 percent of the sales price. The credit card company is charging a 3 percent fee for its services. If daily credit card sales were $3,000, Skechers would report the following: 
+- To have **sufficient quantities of high- quality inventory** available to serve customers’ need
 
-Sales Revenue $3,000 less Credit Card Discounts $90 (0.03 × 3,000) = Net Sales (reported on the income statement) $2,910 
+- To **minimize the costs** of carrying inventory (production, storage, obsolescence, and financing)
 
-## SALES DISCOUNTS TO BUSINESSES 
+Low quality leads to customer dissatisfaction, returns, and a decline in future sales. Also, purchasing or producing too few units of a hot-selling item causes stock-outs, which mean lost sales revenue and decreases in customer satisfaction. Conversely, purchasing too many units of a slow-selling item increases storage costs as well as interest costs on short-term borrowings used to finance the purchases. It even may lead to losses if the merchandise cannot be sold at normal prices.
 
-Companies often sell to other businesses on **open account** without a formal written promissory note. 
+## Inventory is **tangible property** that is:
 
-Companies may offer a **sales discount** as an early payment incentive. 
+- (1) held for sale in the normal course of business or
 
-Maria Vittoria Cesareo 
+(2) used to produce goods or services for sale.
 
-43 
+Inventory is reported on the balance sheet as a **current asset** because it normally is used or converted into cash within one year or the next operating cycle.
 
-## Accounting 1 
+The types of inventory normally held depend on the characteristics of the business.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Two types of companies:
 
-**==> picture [374 x 139] intentionally omitted <==**
+- Merchandisers:
 
-In this case, if the customer pays within 10 days, then a 2 percent discount may be deducted from the invoice amount. If not, then the net amount is due within 30 days. 
+Maria Vittoria Cesareo
 
-In some cases, a sales discount (often called a cash discount) is granted to the purchaser to encourage early payment. 
+Accounting 1
 
-Companies offer this sales discount to encourage customers to pay more quickly. This provides two benefits: 
+==>Wholesalers
 
-1. Prompt receipt of cash from customers reduces the necessity to borrow money to meet operating needs. 
+==>Retailers
 
-2. Because customers tend to pay bills providing discounts first, a sales discount also decreases the chances that the customer will run out of funds before the company’s bill is paid. 
+- Manufacturers (production process):
 
-Companies commonly record sales discounts taken by subtracting the discount from sales if payment is made within the discount period. For example, if credit sales of $1,000 are recorded with terms 2/10, n/30 and payment of $980 ($1,000 × 0.98 = $980) is made within the discount period, net sales of the following amount would be reported. 
+- => raw materials => work In progress products=> finished good
 
-If payment is made after the discount period, the full $1,000 would be reported as net sales. Accounting for sales discounts is discussed in more detail in the Supplement at the end of this chapter. Any quantity discounts or rebates provided to customers also must be subtracted in the computation of net sales. 
+Items Included in Inventory:
 
-TO TAKE OR NOT TO TAKE THE DISCOUNT, THAT IS THE QUESTION 
+- 1) **Merchandisers** => Merchandise Inventory: goods (or merchandise) held for resale in the normal course of business.
 
-Purchasers often pay within the discount period because the savings are substantial. With terms 2/10, n/30, customers save 2 percent by paying 20 days early (on the 10th day instead of the 30th). This translates into a 37 percent annual interest rate. 
+- 2) **Manufacturers** => Raw materials inventory + Work In Progress inventory + Finished goods inventory
 
-To calculate the **annual interest rate** , first compute the interest rate for the discount period. 
+Inventory is initially recorded at cost. **Inventory cost** includes the costs to bring an article to usable or salable condition and location.
 
-Maria Vittoria Cesareo 
+- + Invoice price
 
-44 
+- + Freight-In (freight charges to deliver items to company warehouse)
 
-Accounting 1 
+- + Inspection costs
 
-**==> picture [39 x 39] intentionally omitted <==**
+- + Preparation costs
 
-**==> picture [314 x 112] intentionally omitted <==**
+- Purchase returns and allowances
 
-As long as the bank’s interest rate is less than the interest rate associated with failing to take cash discounts, the customer will save by taking the cash discount. 
+- Purchase discounts
 
-## SALES RETURNS AND ALLOWANCES 
+- = Total inventory cost
 
-Customers have a right to **return unsatisfactory or damaged merchandise** and receive a refund or an adjustment to their bill. 
+Company should cease accumulating purchase costs when the raw materials are ready for use or when the merchandise inventory is ready for shipment.
 
-These returns are accumulated in a separate account called **Sales Returns and Allowances** and must be deducted from gross sales revenue in determining net sales. 
+Costs related to selling the inventory should be included in **selling, general, and administrative expenses** .
 
-**==> picture [290 x 54] intentionally omitted <==**
+Any additional costs related to selling the inventory to the dealers, such as marketing department salaries and dealer training sessions, are incurred after the inventory is ready for use. So they should be included in selling, general, and administrative expenses in the period in which they are incurred
 
-Cost of goods sold related to the returned items would also be reduced 
+**APPLYING THE MATERIALITY CONSTRAINT IN PRACTICE.
 
-Please keep in mind the following: 
+**Incidental costs** such as inspection and preparation costs often are not material and do not have to be assigned to the inventory cost.
 
-• Every time there is a sales return, the goods previously sold are physically given back to the seller. Hence, every time goods are returned, you shall prepare two journal entries, the first to **decrease the account receivable** (credit) and **increase the sales returns** (contra-revenue, debit), the second to **decrease the cost of goods sold** (credit) and **increase the inventory** (debit), because the goods returned are “no more sold” but instead are again part of the inventory. 
+Many companies use the invoice price, less returns and discounts, to assign a unit cost to raw materials or merchandise and record other indirect expenditures as a separate cost that is reported as an expense.
 
-You have a sales return when goods are not defective and just not compliant to the order. 
+Maria Vittoria Cesareo
 
-• Every time there is a sales allowance, the goods previously sold are NOT physically given back to the seller. This is why, every time goods are returned, you shall prepare only one journal entry, to **decrease the account receivable** (credit) and **increase the sales returns** (contrarevenue, debit), whilst inventory remains unchanged. 
+## Accounting 1
 
-Maria Vittoria Cesareo 
+## COST OF GOODS SOLD EQUATION: BI + P − EI = CGS
 
-45 
+Beginning inventory
 
-## Accounting 1 
++ Purchases of merchandise during the year
 
-**==> picture [39 x 39] intentionally omitted <==**
+Goods available for sale
 
-This is the case, for example, in the construction industry when 10,000 bricks are sold and 70 break during the transport. A return would be more costly for the seller rather than a simple allowance. 
+− Ending inventory
 
-## REPORTING NET SALES 
+Cost of goods sold
 
-Companies record credit card discounts, sales discounts, and sales returns and allowances separately to allow management to monitor the magnitude of these transactions. 
+The amount of cost of goods sold and ending inventory can be determined by using one of two different inventory systems: perpetual or periodic.
 
-**==> picture [396 x 84] intentionally omitted <==**
+**Perpetual**: Purchase transactions are recorded directly in an inventory account. Sales require two entries to record: (1) the sale and (2) the cost of goods sold.
 
-## VOLUME DISCOUNTS/REBATES AND EARNINGS MISSTATEMENTS AT MONSANTO 
+In a perpetual inventory system, a detailed record is maintained for each type of merchandise stocked, showing:
 
-In 2016, the SEC found that agribusiness company Monsanto had materially misstated company revenues and earnings by improperly accounting for volume discounts and rebates offered to retailers and distributors of its flagship product, Roundup. In an attempt to offset the effects of generic competition for Roundup, Monsanto instituted new discount and rebate programs. Net sales revenue should be recorded “in the amount the company expects to be entitled to receive.” This rule requires that Monsanto reduce the amount of reported net sales by the expected rebates in the period of sale. Instead, Monsanto delayed recording these reductions until the following year, overstating net sales and earnings before taxes by $44.5 million and $48 million, respectively, over two years. Monsanto also improperly accounted for additional rebates of more than $56 million as selling, general, and administrative expense instead of a reduction in net sales. This practice overstated gross profit, an important measure used by analysts to assess competitive pricing pressure, but did not affect income before taxes. Monsanto agreed to pay an $80 million penalty to settle these violations and three Monsanto managers paid penalties of between $30,000 and $55,000 for their involvement in the scheme. And Monsanto’s CEO and CFO returned bonuses of $3,165,852 and $728,843 they had received 
+(1) units and cost of the beginning inventory,
 
-Maria Vittoria Cesareo 
+(2) units and cost of each purchase,
 
-46 
+(3) units and cost of the goods for each sale, and
 
-## Accounting 1 
+(4) units and cost of the goods on hand at any point in time. This up-to-date record is maintained on a transaction-by-transaction basis.
 
-**==> picture [39 x 39] intentionally omitted <==**
+**Periodic**:  No up-to-date record of inventory is maintained during the year.
 
-as a result of the earnings overstatements, though they were not found to be involved in personal misconduct. 
+Sales require one entry to record the sale. Cost of goods sold is calculated at the end of each period.
 
-## REVENUE RECOGNITION FOR BUNDLED GOODS AND SERVICES: A FIVE STEP PROCESS 
+Maria Vittoria Cesareo
 
-**Bundling of goods and services** within one sales contract is common in a variety of industries. For example, when Apple sells its iPad, the contract with its customer includes not only the iPad and software essential to the functioning of the product, but future upgrades relating to the essential software. 
+## Accounting 1
 
-When a seller promises to provide more than one good or service in a single sales contract, FASB standards specify a **five-step process** to determine the amount to be recognized as revenue. 
+Because the amount of inventory is not known until the end of the period when the inventory count is taken, the amount of cost of goods sold cannot be reliably determined until the inventory count is complete. The primary disadvantage of a periodic inventory system is the lack of inventory information.
 
-Assume Apple sells and iPad for $500, (1) $450 of which relates the **hardware with essential software** and (2) $50 of which relates to **future software upgrades** that would be provided over **five years** . 
+Total Dollar Amount of Goods Available for Sale=>Inventory Costing Method:
 
-**==> picture [468 x 108] intentionally omitted <==**
+- Ending Inventory
 
-## MEASURING AND REPORTING RECEIVABLES 
+- Cost of Goods Sold
 
-Receivables may be classified in three ways. 
+## INVENTORY COSTING METHODS
 
-## - **account receivable or a note receivable** . 
+1. Specific identification
 
-An accounts receivable is created by a credit sale on an open account. For example, an account receivable is created when Skechers sells shoes on open account to Dick’s. A notes receivable is a promise in writing (a formal document) to pay (1) a specified amount of money, called the **principal** , at a definite future date known as the maturity date and (2) a 
+2. First-in, first-out (FIFO)
 
-Maria Vittoria Cesareo 
+3. Last-in, first-out (LIFO)
 
-47 
+4. Average cost
 
-## Accounting 1 
+The four inventory costing methods are alternative ways to assign the total dollar amount of goods available for sale between ending inventory and cost of goods sold. The first method identifies individual items that remain in inventory or are sold. The remaining three methods assume that the inventory costs follow a certain flow.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## COST FLOW ASSUMPTIONS
 
-specified amount of **interest** at one or more future dates. The interest is the amount charged for use of the principal. 
+The choice of an inventory costing method is not based on the physical flow of goods on and off the shelves. That is why they are called **cost flow assumptions** .
 
-- **trade or nontrade receivables** . 
+Specific identification is impractical when large quantities of similar items are stocked. Therefore, most inventory items are accounted for using one of three cost flow assumptions:
 
-A trade receivable is created in the normal course of business when a sale of merchandise or services on credit occurs. A nontrade receivable arises from transactions other than the normal sale of merchandise or services. For example, if Skechers loaned money to a new vice president to help finance a home at the new job location, the loan would be classified as a nontrade receivable. 
+- FIFO
 
-- in a classified balance sheet, **current or noncurrent** (short term or long term), 
+- LIFO
 
-depending on when the cash is expected to be collected. 
+- AVERAGE COST
 
-Skechers reports Trade Accounts Receivable from customers and classifies the asset as a current asset because the accounts receivable are all due to be paid within one year. It also 
+## SPECIFIC IDENTIFICATION
 
-reports Other Receivables in a much smaller amount, and also classifies that asset as a current asset. 
+This method assigns a specific cost to each individual inventory item. It's commonly used for high-value or unique items, where each item has a distinct cost (e.g., vehicles, luxury goods, art).
 
-## FOREIGN CURRENCY RECEIVABLES 
+Maria Vittoria Cesareo
 
-**Export** (international) sales are a growing part of the U.S. economy. Most export sales to businesses are on credit. 
+Accounting 1
 
-When a buyer agrees to pay in its local currency, the resulting accounts receivable is denominated in a foreign currency. This amount cannot be added to other U.S. dollar accounts receivable. Companies must convert the amount to U.S. dollars using the end-of-period exchange rate between the two currencies. 
+## FIFO
 
-## ACCOUNTING FOR BAD DEBTS 
+FIFO assumes that the oldest inventory items (the "first in") are sold first, while newer items remain in stock. FIFO allocates the oldest unit costs to cost of goods sold and the newest unit costs to ending inventory.
 
-Companies keep a **separate accounts receivable** account for each business customer (called a subsidiary account). The amount on the balance sheet represents the total of these individual customer accounts. 
+## LIFO
 
-**Bad debts** result from credit customers who will not pay the amount they owe, regardless of collection efforts. 
+LIFO assumes that the newest inventory items (the "last in") are sold first, while older items stay in stock. LIFO allocates the newest unit costs to cost of goods sold and the oldest unit costs to ending inventory.
 
-The expense principle requires recording of bad debt expense in the same accounting period in which the related sales are made. 
+## AVERAGE COST METHOD
 
-Maria Vittoria Cesareo 
+The weighted average unit cost of the goods available for sale is computed as follows:
 
-48 
+## $$AC=cost$$ of goods available for sales/ number of goods available for sales
 
-## Accounting 1 
+Cost of goods sold and ending inventory are assigned the same weighted average cost per unit
 
-**==> picture [39 x 39] intentionally omitted <==**
+PERPETUAL INVENTORY SYSTEMS AND COST FLOW ASSUMPTIONS IN PRACTICE Most companies make numerous purchases and sales of the same inventory item throughout the accounting period.
 
-This presents an important accounting problem. A company may not learn which particular customers will not pay until the next accounting period. So, at the end of the period of sale, the company normally does not know which customers’ accounts receivable are bad debts. This problem is resolved by using the allowance method to measure bad debt expense. The allowance method is based on **estimates** of the expected amount of bad debts. 
+How do companies keep track of inventory costs?
 
-Two primary steps in employing the allowance method are: 
+1. Virtually all accounting systems that keep track of the costs of individual items do so on a FIFO or average cost basis, regardless of the cost flow assumption used for financial reporting.
 
-1. Making the end-of-period adjusting entry to record estimated bad debt expense. 
+- 2.Companies that wish to report under LIFO convert the outputs of their perpetual inventory system to LIFO with an adjusting entry at the end of each period. By waiting until the end of the period to calculate this LIFO adjustment, LIFO ending inventory and cost of goods sold are calculated as if all purchases during the period were recorded before cost of goods sold was calculated and recorded. ^qbzy2k
 
-2. Writing off specific accounts determined to be uncollectible during the period 
+Maria Vittoria Cesareo
 
-## RECORDING BAD DEBT EXPENSE ESTIMATES 
+Accounting 1
 
-**Bad debt expense** (doubtful accounts expense, uncollectible accounts expense, provision for uncollectible accounts) is the expense associated with estimated uncollectible accounts receivable. 
+## LIFO AND INTERNATIONAL COMPARISONS
 
-An **adjusting journal entry** at the end of the accounting period records the bad debt estimate. 
+While U.S. GAAP allows companies to choose among FIFO, LIFO, and average cost inventory
 
-**==> picture [302 x 160] intentionally omitted <==**
+methods, International Financial Reporting Standards (IFRS) currently prohibit the use of LIFO.
 
-The Bad Debt Expense is included in the category **“General and Administrative” expenses** on the income statement. It decreases net income and stockholders’ equity. 
+- GAAP also allows different inventory accounting methods to be used for different types of inventory items.
 
-Accounts Receivable could not be credited in the journal entry because there is no way to know which customers’ accounts receivable are involved. So the credit is made, instead, to a contraasset account called **Allowance for Doubtful Accounts** (Allowance for Bad Debts or Allowance for Uncollectible Accounts). As a contra-asset, the balance in Allowance for Doubtful Accounts is always subtracted from the balance of the asset Accounts Receivable. Thus, the entry decreases the net book value of Accounts Receivable and total assets. 
+- IFRS requires that the same method be used for all inventory items that have a similar nature and use.
 
-## WRITING OFF SPECIFIC UNCOLLECTIBLE ACCOUNTS 
+These differences can create comparability problems when one attempts to compare
 
-Throughout the year, when it is determined that a customer will not pay its debts (e.g., due to bankruptcy), the write-off of that individual bad debt is recorded through a journal entry. Now that the specific uncollectible customer account receivable has been identified, it can be removed with a credit. At the same time, we no longer need the related estimate in the contraasset Allowance for Doubtful Accounts, which is removed by a debit. 
+companies across international borders.
 
-Maria Vittoria Cesareo 
+Each individual country’s tax laws determine the acceptability of different inventory methods for tax purposes.
 
-49 
+When unit costs are rising, LIFO produces lower net income and a lower inventory valuation than FIFO. Even in inflationary times, some companies’ costs decline. When unit costs are declining, LIFO produces higher net income and higher inventory valuation than FIFO.
 
-## Accounting 1 
+## MANAGERS’ CHOICE OF INVENTORY METHODS
 
-**==> picture [39 x 39] intentionally omitted <==**
+Most managers choose accounting methods based on two factors:
 
-Notice that this journal entry did not affect any income statement accounts. It did not record a bad debt expense because the estimated expense was recorded with an adjusting entry in the period of sale. Also, the entry did not change the net book value of accounts receivable because the decrease in the asset account (Accounts Receivable) was offset by the decrease in the contra-asset account (Allowance for Doubtful Accounts). Thus, it also did not affect total assets 
+- **Net Income Effects**: Managers prefer to report higher earnings for their companies.
 
-## BAD DEBT RECOVERIES 
+- **Income Tax Effects:** Managers prefer to pay the least amount of taxes allowed by law as late as possible.
 
-When a company receives a payment on an account that has already been written off, the journal entry to write off the account is reversed to put the receivable back on the books and then the collection of cash is recorded. 
+Any conflict between the two motives is normally resolved by choosing one accounting method for external financial statements and a different method for preparing tax returns. HOWEVER: If last-in, first-out is used to compute taxable income, it must also be used to calculate inventory and cost of goods sold for financial statements. This is called the **LIFO Conformity Rule** .
 
-Note that these entries, like the original write-off, do not affect total assets or net income. Only the estimate of bad debts affects these amounts. 
+## INCREASING COST INVENTORIES:
 
-It is important to remember that accounting for bad debts is a two-step process: Step 1 Record the **estimated bad debts adjustment.** Step 2 Identify and **write off actual bad debts** . 
+LIFO is used on the tax return because it normally results in lower income taxes.
 
-**==> picture [414 x 329] intentionally omitted <==**
+For inventory located in countries that do not allow LIFO for tax purposes, or do not have a LIFO conformity rule, companies most often use FIFO or average cost to report higher income on the income statement.
 
-**Accounts Receivable (Gross)** includes the total accounts receivable, both collectible and uncollectible. The balance in the Allowance for Doubtful Accounts is the portion of the accounts 
+## DECREASING COST INVENTORIES:
 
-Maria Vittoria Cesareo 
+FIFO is most often used for both the tax return and financial statements. FIFO produces the lowest tax payments for companies with decreasing cost inventories.
 
-50 
+REMINDER: Regardless of the physical flow of goods, a company can use any of the inventory costing methods.
 
-## Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-receivable balance the company estimates to be uncollectible. **Accounts Receivable (Net** ) reported on the balance sheet is the portion of the accounts the company expects to collect (or its estimated net realizable value). 
+Accounting rules require companies to apply their accounting methods on a **consistent basis** over time. A company is not permitted to use LIFO one period, FIFO the next, and then go back to LIFO. A change in method is allowed only if the change will improve the measurement of financial results and financial position.
 
-**==> picture [330 x 130] intentionally omitted <==**
+## LIFO AND CONFLICTS BETWEEN MANAGERS’ AND OWNERS’ INTERESTS
 
-**==> picture [248 x 56] intentionally omitted <==**
+The selection of an inventory method can have significant effects on the financial statements.
 
-## ESTIMATING BAD DEBT EXPENSE 
+Company managers may have an incentive to select a method that is not consistent with the owners’ objectives. For example, during a period of rising prices, using LIFO may be in the best interest of the owners (reduce tax liability), however managers may prefer FIFO (typically higher profits) if their compensation is tied to profits.
 
-The bad debt expense amount recorded in the end-of-period adjusting entry often is estimated based on either: 
+A well-designed compensation plan should reward managers for acting in the best interest of the owners.
 
-## (1) a **percentage of total credit sales** for the period or 
+A manager who selects an accounting method that isnot optimal for the company solely to increase his or her compensation is engaging in questionable ethical behavior.
 
-## (2) an **aging of accounts receivable** . 
+VALUATION AT LOWER OF COST OR NET REALIZABLE VALUE Inventories should be measured initially at their purchase cost.
 
-Both methods are acceptable under GAAP and are widely used. 
+When the **net realizable value** (sales prices less costs to sell) of goods in ending inventory falls below cost, these goods must be assigned a unit cost equal to their net realizable value.
 
-The percentage of credit sales method is simpler to apply, but the aging method is generally more accurate. Many companies use the simpler method on a weekly or monthly basis and use the more accurate method on a monthly or quarterly basis to check the accuracy of the earlier estimates. In our example, both methods produce exactly the same estimate, which rarely occurs in practice. 
+This rule is known as **measuring inventories at the lower of cost** or net realizable value (lower of cost or market).
 
-## ESTIMATING BAD DEBTS—PERCENTAGE OF CREDIT SALES METHOD 
+Net realizable value (NRV) = sales price less costs to sell
 
-The **percentage of credit sales method** bases bad debt expense on the historical percentage of credit sales that result in bad debts. 
+**Lower of Cost or Net Realizable Value** is based on the **conservatism constraint** , which requires companies to avoid overstating assets and income.
 
-The average percentage of credit sales that result in bad debts can be computed by **dividing total bad debt losses by total credit sales** . 
+This is particularly important for two types of companies:
 
-A company that has been operating for some years has sufficient experience to project probable future bad debt losses. 
+1) High-technology companies
 
-For example, if we assume that, during the year 2020, Skechers expected bad debt losses of 1.0 percent of credit sales, and its credit sales were $1,970,000 (all numbers in thousands), it would estimate the current year’s bad debts as: 
+2) Companies that sell seasonal goods
 
-Credit sales $1,970,000 
+Maria Vittoria Cesareo
 
-× Bad debt loss rate (1.0%) × 0.01 
+Accounting 1
 
-Maria Vittoria Cesareo 
+## NET REALIZABLE VALUE
 
-51 
+- If the net realizable value of the inventory is lower than original cost, the company would make a **“write-down” entry** to reduce the inventory balance to net realizable value.
 
-Accounting 1 Bad debt expense $ 19,700 
+- Companies recognize a “ **holding” loss** in the period in which the net realizable value of an item drops below original cost.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- The write-down to lower of Cost or NRV decreases pretax income in the current period and increases pretax income in the period of sale by the same amount.
 
-This amount would be directly recorded as Bad Debt Expense (and an increase in Allowance for Doubtful Accounts) in the current year. Our beginning balance in the Allowance for Doubtful Accounts for 2020 would be the ending balance for 2019. Assuming write-offs during 2020 of $14,106, the ending balance is computed as $29,700. 
+- No write-down is necessary if the net realizable value is higher than the original cost. Recognition of holding gains on inventory is not permitted by GAAP.
 
-## ESTIMATING BAD DEBTS—AGING OF ACCOUNTS RECEIVABLE 
+## INTERNAL CONTROL OF INVENTORY
 
-The **aging of accounts receivable method** relies on the fact that, as accounts receivable become older and more overdue, it is less likely that they will be collected. For example, a receivable that was due in 30 days but has not been paid after 120 days is less likely to be collected, on average, than a similar receivable that remains unpaid after 45 days. 
+After cash, inventory is the asset second most vulnerable to theft. Many control features focus on safeguarding inventories and providing up-to-date information for management decisions.
 
-**==> picture [422 x 244] intentionally omitted <==**
+## Examples include:
 
-## ESTIMATING BAD DEBTS—COMPARISON OF THE TWO METHODS 
+=>Separation of responsibilities for inventory accounting and physical handling of inventory.
 
-It is important to recognize that the approach to recording bad debt expense using the percentage of credit sales method is different from that for the aging method: 
+=>Storage of inventory in a manner that protects it from theft and damage.
 
-- **Percentage of credit sales** . Directly compute the amount to be recorded as Bad Debt Expense on the income statement for the period in the adjusting journal entry. 
+=>Limiting access to inventory to authorized employees.
 
-- **Aging of Accounts Receivable** . Compute the estimated ending balance we would like to have in the Allowance for Doubtful Accounts on the balance sheet after we make the necessary adjusting entry. The difference between the current balance in the account and the estimated balance is recorded as the adjusting entry for Bad Debt Expense for the period. 
+=>Maintaining perpetual inventory records.
 
-ACTUAL WRITE-OFFS COMPARED WITH ESTIMATES 
+- =>Comparing perpetual inventory records to periodic physical counts of inventory.
 
-Maria Vittoria Cesareo 
+## ERRORS IN MEASURING ENDING INVENTORY
 
-52 
+As the cost of goods sold equation indicates, a direct relationship exists between ending inventory and cost of goods sold because items not in the ending inventory are assumed to have been sold.
 
-## Accounting 1 
+- The measurement of ending inventory quantities and costs affects both the balance sheet (assets) and the income statement (cost of goods sold, gross profit, and net income).
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Therefore, inventory errors affect both the current year and the next year’s income before
 
-If uncollectible accounts actually written off differ from the estimated amount previously recorded, a higher or lower amount of bad debt expense is recorded in the next period to make up for the previous period’s error in estimate. 
+taxes.
 
-When estimates are found to be incorrect, financial statement values for prior annual accounting periods are not corrected. 
+Assume that ending inventory was overstated by $10,000 due to a clerical error that was not discovered. This would affect the current year and next year’s cost of goods sold as follows:
 
-## CONTROL OVER ACCOUNTS RECEIVABLE 
+Maria Vittoria Cesareo
 
-Many managers forget that extending credit will increase sales volume, but unless the related receivables are collected, they do not add to the bottom line. Companies that emphasize sales without monitoring the collection of credit sales soon find much of their current assets tied up in accounts receivable. 
+## Accounting 1
 
-The following practices can help minimize bad debts: 
+Before meaningful comparisons could be made, one company’s statements would have to be converted to a comparable basis. Making such a conversion is eased by the requirement that U.S. public companies using LIFO also report beginning and ending inventory on a FIFO basis in the notes if the FIFO values are materially different. We can use this information along with the cost of goods sold equation to convert the balance sheet and income statement to the FIFO basis.
 
-1. Require approval of customers’ credit history by a person independent of the sales and collections functions. 
+The choice of a cost flow assumption affects how goods available for sale are allocated to ending inventory and cost of goods sold. It does not affect the recording of purchases. Ending inventory will be different under the alternative methods, and, because last year’s ending inventory is this year’s beginning inventory, beginning inventory also will be different:
 
-2. Age accounts receivable periodically and contact customers with overdue payments. 
+LIFO RESERVE OR “EXCESS OF FIFO OVER LIFO”
 
-3. Reward both sales and collections personnel for speedy collections so that they work as a team. 
+If we know the differences between a company’s inventory valued at LIFO and FIFO for both beginning and ending inventory, we can compute the difference in cost of goods sold. **LIFO reserve** (or “Excess of FIFO over LIFO) refers to the differences between LIFO and FIFO values for beginning and ending inventory.
 
-## **CHAPTER 7: REPORTING AND INTERPRETING CGS AND INVENTORY** 
+LIFO Reserve is a **contra-asset** for the excess of FIFO over LIFO Inventory.
 
-PRIMARY GOALS OF INVENTORY MANAGEMENT: 
+The LIFO Reserve is disclosed by LIFO users in their inventory footnotes.
 
-- To have **sufficient quantities of high- quality inventory** available to serve customers’ need 
+You can adjust the inventory amounts on the balance sheet to FIFO by substituting the FIFO values in the note for the LIFO values.
 
-- To **minimize the costs** of carrying inventory (production, storage, obsolescence, and financing) 
+Alternatively, you can add the LIFO reserve to the LIFO value on the balance sheet to arrive at the same numbers.
 
-Low quality leads to customer dissatisfaction, returns, and a decline in future sales. Also, purchasing or producing too few units of a hot-selling item causes stock-outs, which mean lost sales revenue and decreases in customer satisfaction. Conversely, purchasing too many units of a slow-selling item increases storage costs as well as interest costs on short-term borrowings used to finance the purchases. It even may lead to losses if the merchandise cannot be sold at normal prices. 
+Maria Vittoria Cesareo
 
-## Inventory is **tangible property** that is: 
+Accounting 1
 
-- (1) held for sale in the normal course of business or 
+**FIFO => Same COGS** under periodic or perpetual.
 
-(2) used to produce goods or services for sale. 
+**LIFO => Different COGS** under periodic or perpetual.
 
-Inventory is reported on the balance sheet as a **current asset** because it normally is used or converted into cash within one year or the next operating cycle. 
+In periods of rising prices, periodic LIFO has higher COGS and lower amount for income before taxes.
 
-The types of inventory normally held depend on the characteristics of the business. 
+Perpetual LIFO is complex and costly to maintain in practice.
 
-Two types of companies: 
+Companies keep perpetual inventory records on a FIFO basis and then make an end-of-period adjusting entry to convert inventory on the balance sheet and cost of goods sold on the income statement to a LIFO basis.
 
-- Merchandisers: 
+A purchase discount is a cash discount granted for prompt payment of an account. Inventory may be returned to the vendor if they are unsatisfactory goods. Purchase returns and allowances require a reduction in the cost of inventory purchases and a refund to the vendor.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-53 
+Accounting 1
 
-Accounting 1 
+## CHAPTER 8: REPORTING AND INTERPRETING PROPERTY, PLANT, AND EQUIPMENT;
 
-==>Wholesalers 
+- INTANGIBLES;
+- AND NATURAL RESOURCES**
 
-**==> picture [39 x 39] intentionally omitted <==**
+## CLASSIFYING LONG-LIVED ASSETS
 
-==>Retailers 
+The resources that determine a company’s productive capacity often are called long-lived assets.
 
-- Manufacturers (production process): 
+These assets, which are listed as noncurrent assets on the balance sheet, may be either tangible or intangible and have the following characteristics:
 
-   - => raw materials => work In progress products=> finished good 
+- 1.Tangible assets have physical substance; that is, they can be touched.
 
-Items Included in Inventory: 
+- The three kinds of long-lived tangible assets are:
 
-- 1) **Merchandisers** => Merchandise Inventory: goods (or merchandise) held for resale in the normal course of business. 
+a. **Land used in operations** . Land often is not shown as a separate item on the balance sheet.
 
-- 2) **Manufacturers** => Raw materials inventory + Work In Progress inventory + Finished goods inventory 
+b. **Buildings, fixtures, and equipment** used in operations. (Note: Land, buildings, fixtures, and equipment also are called property, plant, and equipment or fixed assets.)
 
-COSTS INCLUDED IN INVENTORY PURCHASES 
+- c. **Natural resources** used in operations such as timber tracts and silver mines.
 
-Inventory is initially recorded at cost. **Inventory cost** includes the costs to bring an article to usable or salable condition and location. 
+2. Intangible assets are long-lived assets without physical substance that confer specific rights on their owner.
 
-- + Invoice price 
+Intangible assets: patents, copyrights, franchises, licenses, trademarks, and goodwill + lease contract (right to use the asset)
 
-- + Freight-In (freight charges to deliver items to company warehouse) 
+## MEASURING AND RECORDING ACQUISITION COST
 
-- + Inspection costs 
+Under the cost principle, **all reasonable and necessary expenditures** made in acquiring and
 
-- + Preparation costs 
+preparing an asset for use (or sale, as in the case of inventory) should be recorded as the **cost of the asset** .
 
-- Purchase returns and allowances 
+These include any sales taxes, legal fees, transportation costs, and installation costs to acquire and prepare the asset for use. These **expenditures are capitalized** (recorded as part of the asset), not recorded as expenses in the current period. The same also counts for all the incidental costs related to the purchase of undeveloped land or also for the renovation and
 
-- Purchase discounts 
+Maria Vittoria Cesareo
 
-- = Total inventory cost 
+## Accounting 1
 
-Company should cease accumulating purchase costs when the raw materials are ready for use or when the merchandise inventory is ready for shipment. 
+repair costs for buildings/machinery. Also when purchasing land, buildings, and equipment as a group (basket purchase), the total cost is allocated to each asset in proportion to the asset’s market value relative to the total market value of the assets as a whole. However, any **interest** charges associated with the purchase are recorded as **expenses** as incurred.
 
-Costs related to selling the inventory should be included in **selling, general, and administrative expenses** . 
+The amount recorded for the purchase, called the acquisition cost, is the net cash amount paid for the asset or, when noncash assets are used as payment, the fair value of the asset given or asset received, whichever can be more clearly determined (called the cash equivalent price).
 
-Any additional costs related to selling the inventory to the dealers, such as marketing department salaries and dealer training sessions, are incurred after the inventory is ready for use. So they should be included in selling, general, and administrative expenses in the period in which they are incurred 
+Instead of signing a note payable, companies may choose to lease long term assets.
 
-**APPLYING THE MATERIALITY CONSTRAINT IN PRACTICE. 
+Companies are required to report most types of leases on the balance sheet as **Operating Lease Right-of-Use Assets** , with the related obligations reported as debt entitled Operating Lease Liabilities.
 
-**Incidental costs** such as inspection and preparation costs often are not material and do not have to be assigned to the inventory cost. 
+Because leases confer right-of-use to the company using the asset, these are considered intangible assets and are not included in property, plant, and equipment (fixed assets). The lessee (the one using the asset) will recognize:
 
-Many companies use the invoice price, less returns and discounts, to assign a unit cost to raw materials or merchandise and record other indirect expenditures as a separate cost that is reported as an expense. 
+(1) depreciation of the right-of-use assets and
 
-Maria Vittoria Cesareo 
+(2) interest on the lease liability.
 
-54 
+Noncash consideration, such as the company’s common stock or a right given by the company to the seller to purchase the company’s goods or services at a special price, also might be part of the transaction. When noncash consideration is included in the purchase of an asset, the cash-equivalent cost (fair value of the asset given or received) is determined.
 
-## Accounting 1 
+## MEASURING AND RECORDING ACQUISITION COST ACQUISITION BY CONSTRUCTION
 
-**==> picture [39 x 39] intentionally omitted <==**
+In some cases, a company may construct an asset for its own use instead of buying it from a manufacturer.
 
-**==> picture [287 x 205] intentionally omitted <==**
+When a company does so, the cost of the asset includes all the necessary costs associated with construction:
 
-## **COST OF GOODS SOLD EQUATION: BI + P − EI = CGS** 
+## 1.Labour and materials
 
-Beginning inventory 
+## 2.Reasonable overhead costs
 
-+ Purchases of merchandise during the year 
+## 3.Interest on debt incurred during the construction
 
------------------------------------------- 
+The amount of interest expense that is capitalized is recorded by debiting the asset and crediting cash when the interest is paid.
 
-Goods available for sale 
+=>Capitalizing labor, materials, and a portion of interest expense has the effect of increasing assets, decreasing expenses, and increasing net income in the current period.
 
-− Ending inventory 
+## REPAIRS, MAINTENANCE AND IMPROVEMENTS
 
-------------------------------------------- 
+Most assets require substantial expenditures during their lives to maintain or enhance their productive capacity. These expenditures include cash outlays for ordinary repairs and maintenance, major repairs, replacements, and additions.
 
-Cost of goods sold 
+Expenditures that are made after an asset has been acquired are classified as follows:
 
-------------------------------------------- 
+- **Ordinary repairs and maintenance**
 
-------------------------------------------- 
+1. Maintains the productive capacity of the asset during the current accounting period only
 
-PERPETUAL AND PERIODIC INVENTORY SYSTEMS 
+Maria Vittoria Cesareo
 
-The amount of cost of goods sold and ending inventory can be determined by using one of two different inventory systems: perpetual or periodic. 
+## Accounting 1
 
-**Perpetual** : Purchase transactions are recorded directly in an inventory account. Sales require two entries to record: (1) the sale and (2) the cost of goods sold. 
+2. Recurring in nature
 
-In a perpetual inventory system, a detailed record is maintained for each type of merchandise stocked, showing: 
+3. Involve small amounts
 
-(1) units and cost of the beginning inventory, 
+4. Do not increase the productive life, operating efficiency, or capacity of the asset Accounting treatment=> expense in the period incurred
 
-(2) units and cost of each purchase, 
+- **Improvements**
 
-(3) units and cost of the goods for each sale, and 
+1. Increase the productive life, operating efficiency, or capacity of the asset
 
-(4) units and cost of the goods on hand at any point in time. This up-to-date record is maintained on a transaction-by-transaction basis. 
+2. Occur infrequently
 
-**Periodic** :  No up-to-date record of inventory is maintained during the year. 
+3. Involve large amounts of money
 
-Sales require one entry to record the sale. Cost of goods sold is calculated at the end of each period. 
+Accounting treatment=> add to asset account (capitalize)
 
-Maria Vittoria Cesareo 
+In many cases, no clear line distinguishes improvements (assets) from ordinary repairs and maintenance (expenses). In these situations, managers must exercise professional judgment and make a subjective decision. Capitalizing expenses will increase assets and net income in the current year, lowering future years’ income by the amount of the annual depreciation. On the other hand, for tax purposes, expensing the amount in the current period will lower taxes immediately. Because the decision to capitalize or expense is subjective, auditors review the items reported as capital expenditures and ordinary repairs and maintenance closely.
 
-55 
+To avoid spending too much time classifying additions and improvements and repair expenses, some companies record all expenditures below a certain dollar amount as expenses. Such policies are acceptable because immaterial amounts will not affect users’ decisions when analyzing financial statements.
 
-## Accounting 1 
+WorldCom: Hiding Billions in Expenses through Capitalization
 
-**==> picture [39 x 39] intentionally omitted <==**
+When expenditures that should be recorded as current period expenses are improperly capitalized as part of the cost of the asset, the effects on the financial statements can be enormous.
 
-Because the amount of inventory is not known until the end of the period when the inventory count is taken, the amount of cost of goods sold cannot be reliably determined until the inventory count is complete. The primary disadvantage of a periodic inventory system is the lack of inventory information. 
+- In one of the largest accounting frauds in history, WorldCom (now part of Verizon) inflated its income and cash flows from operations by billions of dollars. This fraud turned WorldCom’s actual losses into large profits
 
-Total Dollar Amount of Goods Available for Sale=>Inventory Costing Method: 
+- Over five quarters in 2001 and 2002, the company initially announced that it had capitalized $3.8 billion that should have been recorded as operating expenses. By early 2004, auditors had discovered $11 billion in necessary restatements (reductions to previously reported pretax income) for 2000 and 2001.
 
-- Ending Inventory 
+Maria Vittoria Cesareo
 
-- Cost of Goods Sold 
+## Accounting 1
 
-## INVENTORY COSTING METHODS 
+- Accounting for expenses as capital expenditures increases current income because it spreads a single period’s operating expenses over many future periods as depreciation expense. It increases cash flows from operations by moving cash outflows from the operating section to the investing section of the cash flow statement.
 
-1. Specific identification 
+## SAFEGUARDING FIXED ASSETS
 
-2. First-in, first-out (FIFO) 
+It is management’s responsibility to establish internal controls to safeguard long-lived assets. Examples of these controls include:
 
-3. Last-in, first-out (LIFO) 
+- Creating a **registry** (a record) of each fixed asset with relevant information, such as the purchase date, serial number, acquisition date, and cost.
 
-4. Average cost 
+- **Physically “tag”** each asset with an identifying number.
 
-The four inventory costing methods are alternative ways to assign the total dollar amount of goods available for sale between ending inventory and cost of goods sold. The first method identifies individual items that remain in inventory or are sold. The remaining three methods assume that the inventory costs follow a certain flow. 
+- **Periodically compare** the registry of assets to their physical locations.
 
-## COST FLOW ASSUMPTIONS 
+- Establishing and following **policies on capitalization, depreciation, and approval procedures** for acquisition and disposal of assets.
 
-The choice of an inventory costing method is not based on the physical flow of goods on and off the shelves. That is why they are called **cost flow assumptions** . 
+=>The controls surrounding disposition of assets often are lacking.
 
-Specific identification is impractical when large quantities of similar items are stocked. Therefore, most inventory items are accounted for using one of three cost flow assumptions: 
+It is important that management established procedures to segregate duties (that is a different person at each point of the sale), such as: approving the sale, recording the sale in the accounting system, reconciling accounting records, and physically possessing the cash from the sale. Otherwise, there is a risk of loss to the company.
 
-- FIFO 
+## DEPRECIATION CONCEPTS
 
-- LIFO 
+Except for land, which is considered to have an unlimited life, a long-lived asset with a limited useful life represents the prepaid cost of a bundle of future services or benefits. The expense recognition (matching) principle requires that a portion of an asset’s cost be allocated as an expense in the same period that revenues are generated by its use.
 
-- AVERAGE COST 
+**Depreciation** is the process of allocating the cost of buildings and equipment over their productive lives using a systematic and rational method.
 
-## SPECIFIC IDENTIFICATION 
+We allocate a portion of the cost to expense on the income statement each accounting period. The unused portion of the asset’s cost appears on the balance sheet.
 
-This method assigns a specific cost to each individual inventory item. It's commonly used for high-value or unique items, where each item has a distinct cost (e.g., vehicles, luxury goods, art). 
+Depreciation **is not** a process of determining an asset’s current market value or worth. The remaining balance sheet amount probably does not represent the asset’s current market value.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-56 
+Accounting 1
 
-Accounting 1 
+The current year’s depreciation is an expense on the income statement. Accumulated depreciation represents the depreciation taken on the asset since its purchase and is deducted from the asset’s cost on the balance sheet =>Depreciation has nothing to do with an asset’s market value (as if you were going to sell it) because your intent is to use it.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## ADJUSTING FOR DEPRECIATION
 
-**==> picture [262 x 167] intentionally omitted <==**
+An **adjusting journal entry** is needed at the end of each period to reflect the use of buildings and equipment for the period. We debit Depreciation Expense and credit Accumulated Depreciation.
 
-## FIFO 
+The amount of depreciation recorded during each period is reported on the income statement as **Depreciation Expense** . The amount of depreciation expense accumulated since the acquisition date is reported on the balance sheet as a contra-account, **Accumulated Depreciation,** and deducted from the related asset’s cost. The net amount on the balance sheet is called **net book value** or carrying value. The net book value (or carrying value or book value) of a long-lived asset is its acquisition cost less the accumulated depreciation from the acquisition date to the balance sheet date.
 
-FIFO assumes that the oldest inventory items (the "first in") are sold first, while newer items remain in stock. FIFO allocates the oldest unit costs to cost of goods sold and the newest unit costs to ending inventory. 
+Maria Vittoria Cesareo
 
-## LIFO 
+## Accounting 1
 
-LIFO assumes that the newest inventory items (the "last in") are sold first, while older items stay in stock. LIFO allocates the newest unit costs to cost of goods sold and the oldest unit costs to ending inventory. 
+To calculate depreciation expense, three pieces of information are required for each asset:
 
-## AVERAGE COST METHOD 
+- **Estimated useful life** represents management’s estimate of the asset’s **useful economic life to the company** rather than its total economic life to all potential users.
 
-The weighted average unit cost of the goods available for sale is computed as follows: 
+- **==>** The asset’s expected physical life is often longer than the company intends to use the asset. Economic life may be expressed in terms of years or units of capacity, such as the number of hours a machine is expected to operate or the number of units it can produce.
 
-## **AC=cost of goods available for sales/ number of goods available for sales** 
+- **Estimated residual (or salvage) value** represents management’s estimate of the amount the company **expects to recover upon disposal of the asset at the end of its estimated useful life.** The residual value may be the estimated value of the asset as salvage or scrap or its expected value if sold to another user.
 
-Cost of goods sold and ending inventory are assigned the same weighted average cost per unit 
+- **Depreciation method:**
 
-PERPETUAL INVENTORY SYSTEMS AND COST FLOW ASSUMPTIONS IN PRACTICE Most companies make numerous purchases and sales of the same inventory item throughout the accounting period. 
+Because of significant differences among companies and the assets they own, accountants have not been able to agree on a single best method of depreciation. They also may choose different methods for specific assets or groups of assets. Once selected, the method should be applied consistently over time to enhance comparability of financial information.
 
-How do companies keep track of inventory costs? 
+We will discuss three depreciation methods:
 
-1. Virtually all accounting systems that keep track of the costs of individual items do so on a FIFO or average cost basis, regardless of the cost flow assumption used for financial reporting. 
+**1. Straight-line** —when an asset’s usage is the same each period.
 
-- 2.Companies that wish to report under LIFO convert the outputs of their perpetual inventory system to LIFO with an adjusting entry at the end of each period. By waiting until the end of the period to calculate this LIFO adjustment, LIFO ending inventory and cost of goods sold are calculated as if all purchases during the period were recorded before cost of goods sold was calculated and recorded. 
+**2. Units-of-production** —when an asset’s usage varies each period depending on activity or productivity during the period.
 
-Maria Vittoria Cesareo 
+**3. Declining-balance** —when an asset is more efficient in its early years of usage, producing more revenue, but is less efficient over time.
 
-57 
+## STRAIGHT-LINE METHOD
 
-Accounting 1 
+Notice that:
 
-**==> picture [39 x 39] intentionally omitted <==**
+- ❖ Depreciation expense is a constant amount each year.
 
-## LIFO AND INTERNATIONAL COMPARISONS 
+- ❖ Accumulated depreciation increases by an equal amount each year.
 
-While U.S. GAAP allows companies to choose among FIFO, LIFO, and average cost inventory 
+- ❖ Net book value decreases by the same amount each year until it equals the estimated residual value.
 
-methods, International Financial Reporting Standards (IFRS) currently prohibit the use of LIFO. 
+## UNITS-OF-PRODUCTION METHOD
 
-- GAAP also allows different inventory accounting methods to be used for different types of inventory items. 
+The units-of-production depreciation method relates depreciable cost to total estimated productive output or activity level. It can be used for depreciating equipment when production or activity levels vary over time, generating varying amounts of revenue—a good matching of expenses with revenues.
 
-- IFRS requires that the same method be used for all inventory items that have a similar nature and use. 
+Maria Vittoria Cesareo
 
-These differences can create comparability problems when one attempts to compare 
+Accounting 1
 
-companies across international borders. 
+Divide the depreciable cost (cost minus residual value) by the estimated total production or activity level to determine the depreciation unit rate as follows:
 
-Each individual country’s tax laws determine the acceptability of different inventory methods for tax purposes. 
+In the units-of-production method, depreciation expense is a variable expense because it varies directly with production or use.
 
-When unit costs are rising, LIFO produces lower net income and a lower inventory valuation than FIFO. Even in inflationary times, some companies’ costs decline. When unit costs are declining, LIFO produces higher net income and higher inventory valuation than FIFO. 
+DECLINING-BALANCE METHOD – AN ACCELERATED DEPRECIATION METHOD
 
-## MANAGERS’ CHOICE OF INVENTORY METHODS 
+If an asset is more efficient or productive when it is newer, managers might choose the declining-balance depreciation method to match a higher depreciation expense with higher revenues in the early years of an asset’s life and a lower depreciation expense with lower revenues in the later years.
 
-Most managers choose accounting methods based on two factors: 
+This is an accelerated depreciation method. Accelerated methods are seldom used for financial reporting purposes.
 
-- **Net Income Effects** : Managers prefer to report higher earnings for their companies. 
+Two important differences between this method and the other depreciation methods:
 
-- **Income Tax Effects:** Managers prefer to pay the least amount of taxes allowed by law as late as possible. 
+1. Accumulated depreciation, not residual value, is included in the formula.
 
-Any conflict between the two motives is normally resolved by choosing one accounting method for external financial statements and a different method for preparing tax returns. HOWEVER: If last-in, first-out is used to compute taxable income, it must also be used to calculate inventory and cost of goods sold for financial statements. This is called the **LIFO Conformity Rule** . 
+- Because accumulated depreciation increases each year, net book value (Cost minus Accumulated Depreciation) decreases.
 
-## INCREASING COST INVENTORIES: 
+- The double-declining rate is applied to a lower net book value each year, resulting in a decline in depreciation expense over time.
 
-LIFO is used on the tax return because it normally results in lower income taxes. 
+2. As with the other methods, the net book value should not be depreciated below the residual value.
 
-For inventory located in countries that do not allow LIFO for tax purposes, or do not have a LIFO conformity rule, companies most often use FIFO or average cost to report higher income on the income statement. 
+- If the computation reduces net book value below residual value, only the amount of depreciation expense needed to make net book value equal to residual value is recorded, and
 
-## DECREASING COST INVENTORIES: 
+Maria Vittoria Cesareo
 
-FIFO is most often used for both the tax return and financial statements. FIFO produces the lowest tax payments for companies with decreasing cost inventories. 
+## Accounting 1
 
-REMINDER: Regardless of the physical flow of goods, a company can use any of the inventory costing methods. 
+no additional depreciation expense is computed in subsequent years. (NBV CAN’T GO BELOW RESIDUAL VALUE)
 
-Maria Vittoria Cesareo 
+- In the last year of the asset’s estimated useful life, whatever amount is needed to bring net book value to residual value is recorded, regardless of the amount of the depreciation computation. ^1jftuo
 
-58 
+Depreciation expense is limited to the amount that reduces book value to the estimated residual value.
 
-## Accounting 1 
+## IMPACT OF ALTERNATIVE DEPRECIATION METHODS
 
-**==> picture [39 x 39] intentionally omitted <==**
+Accelerated depreciation methods report higher depreciation and, therefore, lower net income during the early years of an asset’s life. As the age of the asset increases, this effect reverses. The graph shown illustrates the relationship between the double- declining-balance method and the straight-line method of depreciation.
 
-Accounting rules require companies to apply their accounting methods on a **consistent basis** over time. A company is not permitted to use LIFO one period, FIFO the next, and then go back to LIFO. A change in method is allowed only if the change will improve the measurement of financial results and financial position. 
+Differences in depreciation methods rather than real economic differences can cause significant variation in reported net incomes.
 
-## LIFO AND CONFLICTS BETWEEN MANAGERS’ AND OWNERS’ INTERESTS 
+Maria Vittoria Cesareo
 
-The selection of an inventory method can have significant effects on the financial statements. 
+Accounting 1
 
-Company managers may have an incentive to select a method that is not consistent with the owners’ objectives. For example, during a period of rising prices, using LIFO may be in the best interest of the owners (reduce tax liability), however managers may prefer FIFO (typically higher profits) if their compensation is tied to profits. 
+Increased Profitability Due to an Accounting Adjustment? Reading the Notes
 
-A well-designed compensation plan should reward managers for acting in the best interest of the owners. 
+Financial analysts are particularly interested in changes in accounting estimates because they can have a large impact on a company’s before-tax operating income.
 
-A manager who selects an accounting method that isnot optimal for the company solely to increase his or her compensation is engaging in questionable ethical behavior. 
+- In 2017, United States Steel Corporation increased the estimated useful life of its machinery and equipment.
 
-**==> picture [376 x 136] intentionally omitted <==**
+- The change reduced depreciation expense for the year, and each year, by approximately $106 million.
 
-VALUATION AT LOWER OF COST OR NET REALIZABLE VALUE Inventories should be measured initially at their purchase cost. 
+## MEASURING ASSET IMPAIRMENT
 
-When the **net realizable value** (sales prices less costs to sell) of goods in ending inventory falls below cost, these goods must be assigned a unit cost equal to their net realizable value. 
+Assets are defined as economic resources owned or controlled by a company that have measurable value and are expected to provide benefits to the company by producing cash inflows or reducing cash outflows in the future. On the date of the exchange, an asset is measured at **historical cost** .
 
-This rule is known as **measuring inventories at the lower of cost** or net realizable value (lower of cost or market). 
+Subsequently, corporations must review **long-lived tangible and most intangible assets** for possible impairment when events or changed circumstances cause the estimated future cash flows of these assets to fall below their book value.
 
-Net realizable value (NRV) = sales price less costs to sell 
+There are three steps to test for impairment:
 
-**Lower of Cost or Net Realizable Value** is based on the **conservatism constraint** , which requires companies to avoid overstating assets and income. 
+Step 1: Consider whether **indicators of impairment** are present. Step 2: Test the **recoverability** of the long-lived assets.
 
-This is particularly important for two types of companies: 
+Step 3: **Measure the impairment** of the long-lived assets
 
-1) High-technology companies 
+## STEP 1: **Consider whether indicators of impairment are present** .
 
-2) Companies that sell seasonal goods 
+The following factors may indicate impairment of assets:
 
-Maria Vittoria Cesareo 
+- Significant pattern of decline of market price of the assets
 
-59 
+- Lower demand due to global economic conditions
 
-Accounting 1 
+- Change in economic or legal factors (e.g., regulatory or technology changes)
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Obsolescence or physical damage to the asset
 
-## NET REALIZABLE VALUE 
+- Asset is held for disposal or is part of a restructuring
 
-- If the net realizable value of the inventory is lower than original cost, the company would make a **“write-down” entry** to reduce the inventory balance to net realizable value. 
+## STEP 2: **Test the recoverability of the long-lived assets** .
 
-- Companies recognize a “ **holding” loss** in the period in which the net realizable value of an item drops below original cost. 
+When indicators of impairment exist, management assesses if the asset’s net book value is recoverable through estimated future cash flows.
 
-- The write-down to lower of Cost or NRV decreases pretax income in the current period and increases pretax income in the period of sale by the same amount. 
+The asset is impaired if not recoverable when: Net book value (NBV) > Estimated future cash flows (FCF)
 
-- No write-down is necessary if the net realizable value is higher than the original cost. Recognition of holding gains on inventory is not permitted by GAAP. 
+## STEP 3: **Measure the impairment of the long-lived assets.**
 
-## INTERNAL CONTROL OF INVENTORY 
+For any asset considered to be impaired, companies recognize a loss for the difference between the asset’s net book value and its fair value (a market concept).
 
-After cash, inventory is the asset second most vulnerable to theft. Many control features focus on safeguarding inventories and providing up-to-date information for management decisions. 
+The asset is written down to fair value.
 
-## Examples include: 
+Net book value (NBV) − Fair Value (FV) = Impairment loss
 
-=>Separation of responsibilities for inventory accounting and physical handling of inventory. 
+Maria Vittoria Cesareo
 
-=>Storage of inventory in a manner that protects it from theft and damage. 
+## Accounting 1
 
-=>Limiting access to inventory to authorized employees. 
+A journal entry is made to record the loss due to impairment and reduce the asset. The fair value becomes the new book value.
 
-=>Maintaining perpetual inventory records. 
+The asset is not written back up if conditions change in the future.
 
-- =>Comparing perpetual inventory records to periodic physical counts of inventory. 
+## DISPOSAL OF PROPERTY, PLANT, AND EQUIPMENT
 
-## ERRORS IN MEASURING ENDING INVENTORY 
+Businesses dispose of assets involuntarily (the result of a casualty such as a storm, fire, theft, or accident) or voluntarily (sales, trade-ins, and retirements).
 
-As the cost of goods sold equation indicates, a direct relationship exists between ending inventory and cost of goods sold because items not in the ending inventory are assumed to have been sold. 
+- 1.Update depreciation expense through the date of disposal
 
-- The measurement of ending inventory quantities and costs affects both the balance sheet (assets) and the income statement (cost of goods sold, gross profit, and net income). 
+2. - Recording cash received (debit) or paid (credit)
 
-- Therefore, inventory errors affect both the current year and the next year’s income before 
+- Writing off the asset cost (credit) and any accumulated
 
-taxes. 
+- depreciation (debit).
 
-Assume that ending inventory was overstated by $10,000 due to a clerical error that was not discovered. This would affect the current year and next year’s cost of goods sold as follows: 
+- Recording a gain (credit) or loss (debit)
 
-**==> picture [354 x 119] intentionally omitted <==**
+## NATURE OF INTANGIBLE ASSETS
 
-Maria Vittoria Cesareo 
+- ➢ Intangible assets are increasingly important resources for organizations.
 
-60 
+- ➢ An intangible asset has value because of certain rights and privileges often conferred by law on its owner.
 
-## Accounting 1 
+- ➢ An intangible asset has no material or physical substance. Instead, most intangible assets usually are evidenced by a legal document.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Most common types of intangible assets:
 
-**==> picture [468 x 79] intentionally omitted <==**
+- Goodwill (recognized in a business merger or acquisition)
 
-INVENTORY METHODS AND FINANCIAL STATEMENT ANALYSIS - CONVERTING THE INCOME STATEMENT TO FIFO 
+- Trademarks
 
-Before meaningful comparisons could be made, one company’s statements would have to be converted to a comparable basis. Making such a conversion is eased by the requirement that U.S. public companies using LIFO also report beginning and ending inventory on a FIFO basis in the notes if the FIFO values are materially different. We can use this information along with the cost of goods sold equation to convert the balance sheet and income statement to the FIFO basis. 
+- Copyrights
 
-The choice of a cost flow assumption affects how goods available for sale are allocated to ending inventory and cost of goods sold. It does not affect the recording of purchases. Ending inventory will be different under the alternative methods, and, because last year’s ending inventory is this year’s beginning inventory, beginning inventory also will be different: 
+- Technology (computer software and website)
 
-**==> picture [273 x 66] intentionally omitted <==**
+- Patents
 
-LIFO RESERVE OR “EXCESS OF FIFO OVER LIFO” 
+- Franchises
 
-If we know the differences between a company’s inventory valued at LIFO and FIFO for both beginning and ending inventory, we can compute the difference in cost of goods sold. **LIFO reserve** (or “Excess of FIFO over LIFO) refers to the differences between LIFO and FIFO values for beginning and ending inventory. 
+- Licenses and operating rights
 
-LIFO Reserve is a **contra-asset** for the excess of FIFO over LIFO Inventory. 
+- Other (customer lists/relationships, noncompete covenants, contracts and agreements)
 
-The LIFO Reserve is disclosed by LIFO users in their inventory footnotes. 
+Intangible assets are recorded at historical cost only if they have been purchased. If these assets are developed internally by the company, they are expensed when incurred.
 
-You can adjust the inventory amounts on the balance sheet to FIFO by substituting the FIFO values in the note for the LIFO values. 
+## AMORTIZATION OF INTANGIBLE ASSETS
 
-Alternatively, you can add the LIFO reserve to the LIFO value on the balance sheet to arrive at the same numbers. 
+Upon acquisition of intangible assets, managers determine whether they have definite or indefinite lives:
 
-Maria Vittoria Cesareo 
+## ð **Definite Life**:
 
-61 
+- Cost is allocated (amortized) over its useful life.
 
-Accounting 1 
+- Straight-line method used to calculate amortization expense (recorded on the income statement).
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Most companies do not estimate a residual value.
 
-**==> picture [302 x 279] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-FIFO AND LIFO COST OF GOODS SOLD UNDER PERIODIC VERSUS PERPETUAL INVENTORY SYSTEMS 
+## Accounting 1
 
-**FIFO => Same COGS** under periodic or perpetual. 
+## ð **Indefinite Life**
 
-**LIFO => Different COGS** under periodic or perpetual. 
+- Not amortized.
 
-In periods of rising prices, periodic LIFO has higher COGS and lower amount for income before taxes. 
+- Asset must be reviewed at least annually for possible impairment of value (first using qualitative factors).
 
-Perpetual LIFO is complex and costly to maintain in practice. 
+- If impaired, the carrying value is reduced to fair market value.
 
-Companies keep perpetual inventory records on a FIFO basis and then make an end-of-period adjusting entry to convert inventory on the balance sheet and cost of goods sold on the income statement to a LIFO basis. 
+Amortization is a cost allocation process similar to depreciation and depletion.
 
-A purchase discount is a cash discount granted for prompt payment of an account. Inventory may be returned to the vendor if they are unsatisfactory goods. Purchase returns and allowances require a reduction in the cost of inventory purchases and a refund to the vendor. 
+## ====> **Goodwill**:
 
-Maria Vittoria Cesareo 
+- Goodwill is only recorded as an asset when one company buys another business.
 
-62 
+- Internally developed goodwill (such as a favorable reputation) is not reported as an asset.
 
-Accounting 1 
+- The amount of goodwill equals the purchase price of the company less the fair market value of the net assets (assets minus liabilities).
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Goodwill is not amortized but is reviewed annually for impairment.
 
-**==> picture [396 x 196] intentionally omitted <==**
+## ===> **Trademarks**:
 
-## **CHAPTER 8: REPORTING AND INTERPRETING PROPERTY, PLANT, AND EQUIPMENT; INTANGIBLES; AND NATURAL RESOURCES** 
+- A special name, image or slogan identified with a product or company.
 
-## CLASSIFYING LONG-LIVED ASSETS 
+- Rarely seen on balance sheets because they are only recorded if purchased.
 
-The resources that determine a company’s productive capacity often are called long-lived assets. 
+## ===> **Copyrights**:
 
-These assets, which are listed as noncurrent assets on the balance sheet, may be either tangible or intangible and have the following characteristics: 
+- The exclusive right to publish, use, and sell a literary, musical, or artistic work.
 
-- 1.Tangible assets have physical substance; that is, they can be touched. 
+- Legal life is the life of the creator plus 70 years.
 
-- The three kinds of long-lived tangible assets are: 
+## ====> **Technology**:
 
-a. **Land used in operations** . Land often is not shown as a separate item on the balance sheet. 
+- Website development: Capitalize the costs of acquiring a domain name and developing graphics.
 
-b. **Buildings, fixtures, and equipment** used in operations. (Note: Land, buildings, fixtures, and equipment also are called property, plant, and equipment or fixed assets.) 
+- Software: Capitalize the direct costs of developing software (coding and testing) after the software is technologically feasible. Amortize any costs related to software that is to be sold or leased to customers (amortization expense is part of the cost of sales). Test the software annually for impairment. Costs incurred during the preliminary concept phase should be expensed.
 
-- c. **Natural resources** used in operations such as timber tracts and silver mines. 
+If the software is developed for internal use, the intangible asset is amortized usually over a short useful life with the amortization reported on the income statement as a general expense.
 
-   2. Intangible assets are long-lived assets without physical substance that confer specific rights on their owner. 
+## ====> **Research & Development Costs**:
 
-Intangible assets: patents, copyrights, franchises, licenses, trademarks, and goodwill + lease contract (right to use the asset) 
+- Research and development costs are not capitalized as an intangible asset due to uncertainty as to future benefits.
 
-## MEASURING AND RECORDING ACQUISITION COST 
+- These costs should be expensed and recorded on the income statement.
 
-Under the cost principle, **all reasonable and necessary expenditures** made in acquiring and 
+## ====> **Patents**:
 
-preparing an asset for use (or sale, as in the case of inventory) should be recorded as the **cost of the asset** . 
+- A patent is an exclusive right granted by the federal government for 20 years for inventions and new processes.
 
-These include any sales taxes, legal fees, transportation costs, and installation costs to acquire and prepare the asset for use. These **expenditures are capitalized** (recorded as part of the asset), not recorded as expenses in the current period. The same also counts for all the incidental costs related to the purchase of undeveloped land or also for the renovation and 
+- Owner can use, manufacture, and sell both the subject of the patent and the patent itself.
 
-Maria Vittoria Cesareo 
+Maria Vittoria Cesareo
 
-63 
+## Accounting 1
 
-## Accounting 1 
+- If internally developed, only the registration fees and legal costs are capitalized (recorded as an asset).
 
-**==> picture [39 x 39] intentionally omitted <==**
+## ====> **Franchises**:
 
-repair costs for buildings/machinery. Also when purchasing land, buildings, and equipment as a group (basket purchase), the total cost is allocated to each asset in proportion to the asset’s market value relative to the total market value of the assets as a whole. However, any **interest** charges associated with the purchase are recorded as **expenses** as incurred. 
+- Franchises may be granted by the government or a company for a specific period and
 
-The amount recorded for the purchase, called the acquisition cost, is the net cash amount paid for the asset or, when noncash assets are used as payment, the fair value of the asset given or asset received, whichever can be more clearly determined (called the cash equivalent price). 
+- purpose.
 
-Instead of signing a note payable, companies may choose to lease long term assets. 
+- Franchise agreements are contracts.
 
-Companies are required to report most types of leases on the balance sheet as **Operating Lease Right-of-Use Assets** , with the related obligations reported as debt entitled Operating Lease Liabilities. 
+- They usually require an investment by the franchisee; therefore, they should be accounted for as intangible assets.
 
-Because leases confer right-of-use to the company using the asset, these are considered intangible assets and are not included in property, plant, and equipment (fixed assets). The lessee (the one using the asset) will recognize: 
+- The life of the franchise agreement depends on the contract and can be for a single year or indefinite period.
 
-(1) depreciation of the right-of-use assets and 
+## ====> **Licenses and operating rights**:
 
-(2) interest on the lease liability. 
+- These intangible assets are the permissions to use a product or service according to specific terms and conditions.
 
-Noncash consideration, such as the company’s common stock or a right given by the company to the seller to purchase the company’s goods or services at a special price, also might be part of the transaction. When noncash consideration is included in the purchase of an asset, the cash-equivalent cost (fair value of the asset given or received) is determined. 
+## ACQUISITION AND DEPLETION OF NATURAL RESOURCES
 
-## MEASURING AND RECORDING ACQUISITION COST ACQUISITION BY CONSTRUCTION 
+## => **Natural Resources**
 
-In some cases, a company may construct an asset for its own use instead of buying it from a manufacturer. 
+- Companies develop raw material and products from natural resources, including mineral deposits such as gold or iron ore, oil wells, and timber tracts.
 
-When a company does so, the cost of the asset includes all the necessary costs associated with construction: 
+- These resources are called “wasting assets” because they are depleted (physically used up).
 
-## **1.Labour and materials** 
+- They are recorded at cost when acquired or developed, they are recorded using the cost principle. The cost is allocated when the resource is used up. This allocation is called depletion.
 
-## **2.Reasonable overhead costs** 
+## => **Depletion**
 
-## **3.Interest on debt incurred during the construction** 
+- Depletion is the process of allocating a natural resource’s cost over the period of its exploitation.
 
-The amount of interest expense that is capitalized is recorded by debiting the asset and crediting cash when the interest is paid. 
+- The units-of-production method is often used to compute depletion.
 
-=>Capitalizing labor, materials, and a portion of interest expense has the effect of increasing assets, decreasing expenses, and increasing net income in the current period. 
+- The amount of the natural resource depletion is capitalized (recorded as a part of the cost of inventory). The entry to record depletion is:
 
-## REPAIRS, MAINTENANCE AND IMPROVEMENTS 
+- Dr. Inventory (+A) x
 
-Most assets require substantial expenditures during their lives to maintain or enhance their productive capacity. These expenditures include cash outlays for ordinary repairs and maintenance, major repairs, replacements, and additions. 
+- Cr. Natural Resource (−A) x
 
-Expenditures that are made after an asset has been acquired are classified as follows: 
+- Later, an expense (Cost of Goods Sold) is recorded when the asset (Inventory) is sold.
 
-- **Ordinary repairs and maintenance** 
+## A MISINTERPRETATION
 
-1. Maintains the productive capacity of the asset during the current accounting period only 
+Some analysts misinterpret the meaning of a **noncash expense** , saying that “cash is provided by depreciation.”
 
-Maria Vittoria Cesareo 
+- Although depreciation is added in the operating section of the statement of cash flows, when using the indirect method, depreciation is not a source of cash.
 
-64 
+- Depreciation expense reduces the amount of reported net income for a company, but it does not reduce the amount of cash generated by the company because it is a noncash expense.
 
-## Accounting 1 
+- Cash from operations can only be provided by selling goods and services.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-2. Recurring in nature 
+## Accounting 1
 
-3. Involve small amounts 
+- Although depreciation is a noncash expense, the depreciation for tax purposes can affect a company’s cash flows. The higher the tax depreciation, the lower the taxable income and taxes the company must pay.
 
-4. Do not increase the productive life, operating efficiency, or capacity of the asset Accounting treatment=> expense in the period incurred 
+Depreciation is based on two estimates:
 
-   - **Improvements** 
+## 1. estimated useful life
 
-1. Increase the productive life, operating efficiency, or capacity of the asset 
+## 2. estimated residual value
 
-2. Occur infrequently 
+If the estimates change, then the undepreciated asset balance (less any residual value at the date of the change) should be depreciated over the remaining useful life.
 
-3. Involve large amounts of money 
+If improvements are made that extend the assets useful life, the depreciation must also be recalculated.
 
-Accounting treatment=> add to asset account (capitalize) 
+To compute the new depreciation expense due to a change in estimate, substitute:
 
-**==> picture [382 x 146] intentionally omitted <==**
+- the net book value for the original acquisition cost,
 
-In many cases, no clear line distinguishes improvements (assets) from ordinary repairs and maintenance (expenses). In these situations, managers must exercise professional judgment and make a subjective decision. Capitalizing expenses will increase assets and net income in the current year, lowering future years’ income by the amount of the annual depreciation. On the other hand, for tax purposes, expensing the amount in the current period will lower taxes immediately. Because the decision to capitalize or expense is subjective, auditors review the items reported as capital expenditures and ordinary repairs and maintenance closely. 
+- the new residual value for the original amount, and
 
-To avoid spending too much time classifying additions and improvements and repair expenses, some companies record all expenditures below a certain dollar amount as expenses. Such policies are acceptable because immaterial amounts will not affect users’ decisions when analyzing financial statements. 
+- the estimated remaining life in place of the original estimated life.
 
-WorldCom: Hiding Billions in Expenses through Capitalization 
+## CHAPTER 9: REPORTING AND INTERPRETING LIABILITIES
 
-When expenditures that should be recorded as current period expenses are improperly capitalized as part of the cost of the asset, the effects on the financial statements can be enormous. 
+The acquisition of assets is financed from two sources:
 
-- In one of the largest accounting frauds in history, WorldCom (now part of Verizon) inflated its income and cash flows from operations by billions of dollars. This fraud turned WorldCom’s actual losses into large profits 
+CAPITAL STRUCTURE: Debt: Funds from creditors Equity: Funds from owners
 
-- Over five quarters in 2001 and 2002, the company initially announced that it had capitalized $3.8 billion that should have been recorded as operating expenses. By early 2004, auditors had discovered $11 billion in necessary restatements (reductions to previously reported pretax income) for 2000 and 2001. 
+From the firm’s perspective, debt is considered riskier than equity. Debt payments are legal obligations.
 
-Maria Vittoria Cesareo 
+If a company cannot make the required debt payment, creditors can force bankruptcy and require the sale of assets.
 
-65 
+Defined as the probable future sacrifice of economic benefits that arise from past transactions. Maturity = 1 year or less èCurrent Liabilities (to be paid with current assets) Maturity > 1 year → Long-Term Liabilities
 
-## Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-- Accounting for expenses as capital expenditures increases current income because it spreads a single period’s operating expenses over many future periods as depreciation expense. It increases cash flows from operations by moving cash outflows from the operating section to the investing section of the cash flow statement. 
+Liabilities are recorded at their **current cash equivalent** , which is the cash amount a creditor would accept to settle the liability immediately.
 
-## SAFEGUARDING FIXED ASSETS 
+Interest that will be paid in the future is not included in the reported amount of the liability because it accrues and becomes a liability with the passage of time.
 
-It is management’s responsibility to establish internal controls to safeguard long-lived assets. Examples of these controls include: 
+Liabilities are probable future sacrifice of economic benefits that arise from past transactions. **Current liabilities** are short-term obligations that will be paid within the current operating cycle or within one year of the balance sheet date—whichever is longer. **Noncurrent liabilities** include all other liabilities.
 
-- Creating a **registry** (a record) of each fixed asset with relevant information, such as the purchase date, serial number, acquisition date, and cost. 
+## CURRENT LIABILITIES
 
-- **Physically “tag”** each asset with an identifying number. 
+Many current liabilities have a direct relationship to the operating activities of a business.
 
-- **Periodically compare** the registry of assets to their physical locations. 
+- **Accounts payable** , also known as trade accounts payable, are obligations to pay for goods and services used in the basic operating activities of the business. For many companies, buying on credit from suppliers is a relatively inexpensive way to finance the purchase of inventory because interest does not normally accrue on accounts payable. As an incentive to encourage more sales, some suppliers offer generous credit terms that may allow buyers to resell merchandise and collect cash before payment must be made to the supplier. Both managers and analysts use the accounts payable turnover ratio to evaluate how effectively a company is  managing its accounts payable.
 
-- Establishing and following **policies on capitalization, depreciation, and approval procedures** for acquisition and disposal of assets. 
+- **Accrued liabilities** , also known as accrued expenses, are obligations related to expenses that have been incurred but have not been paid at the end of the accounting period. These expenses include items such as rent, wages, and utilities. Accrued liabilities are recorded by recognizing an expense for the period and an associated liability.
 
-=>The controls surrounding disposition of assets often are lacking. 
+- **Deferred revenues** , also known as unearned revenues, are obligations arising when cash is received prior to the related revenue being earned. Under the revenue recognition principle, revenue cannot be recorded until it has been earned. Deferred revenues are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period. The obligation to provide a product or service in the future still exists. These obligations are classified as current or long term, depending on when a company expects to provide the product or service.
 
-It is important that management established procedures to segregate duties (that is a different person at each point of the sale), such as: approving the sale, recording the sale in the accounting system, reconciling accounting records, and physically possessing the cash from the sale. Otherwise, there is a risk of loss to the company. 
+- **Notes payable** are obligations supported by a formal written contract. The contract specifies the amount borrowed, the date by which it must be repaid, and the interest rate associated with the borrowing.
 
-## DEPRECIATION CONCEPTS 
+## ACCRUED LIABILITIES
 
-Except for land, which is considered to have an unlimited life, a long-lived asset with a limited useful life represents the prepaid cost of a bundle of future services or benefits. The expense recognition (matching) principle requires that a portion of an asset’s cost be allocated as an expense in the same period that revenues are generated by its use. 
+## ð Accrued Tax Payable
 
-**Depreciation** is the process of allocating the cost of buildings and equipment over their productive lives using a systematic and rational method. 
+Corporations must pay federal taxes on the income they earn. Corporations also may pay state and local income taxes and, in some cases, foreign income taxes.
 
-We allocate a portion of the cost to expense on the income statement each accounting period. The unused portion of the asset’s cost appears on the balance sheet. 
+- ð Accrued compensation and related costs
 
-Depreciation **is not** a process of determining an asset’s current market value or worth. The remaining balance sheet amount probably does not represent the asset’s current market value. 
+Maria Vittoria Cesareo
 
-Maria Vittoria Cesareo 
+## Accounting 1
 
-66 
+Unpaid salaries may be reported as part of a general accrued liability account on the balance sheet or as a separate item.
 
-Accounting 1 
+Benefits refer to items that employees have earned during the reporting period but have not taken or been paid, such as:
 
-**==> picture [39 x 39] intentionally omitted <==**
+- retirement programs
 
-**==> picture [312 x 175] intentionally omitted <==**
+- vacation time
 
-The current year’s depreciation is an expense on the income statement. Accumulated depreciation represents the depreciation taken on the asset since its purchase and is deducted from the asset’s cost on the balance sheet =>Depreciation has nothing to do with an asset’s market value (as if you were going to sell it) because your intent is to use it. 
+- health insurance
 
-## ADJUSTING FOR DEPRECIATION 
+---Payroll Taxes----
 
-**==> picture [332 x 187] intentionally omitted <==**
+All payrolls are subject to a variety of taxes, including federal, state, and local income taxes;
+- Social Security taxes; and federal and state unemployment taxes. Employees pay some of these taxes, and employers pay others.
 
-An **adjusting journal entry** is needed at the end of each period to reflect the use of buildings and equipment for the period. We debit Depreciation Expense and credit Accumulated Depreciation. 
+=>Employers are required to withhold **income taxes** for each employee. The amount of income tax withheld is recorded by the employer as a current liability and remains a liability until the amount is paid to the government (usually quarterly).
 
-The amount of depreciation recorded during each period is reported on the income statement as **Depreciation Expense** . The amount of depreciation expense accumulated since the acquisition date is reported on the balance sheet as a contra-account, **Accumulated Depreciation,** and deducted from the related asset’s cost. The net amount on the balance sheet is called **net book value** or carrying value. The net book value (or carrying value or book value) of a long-lived asset is its acquisition cost less the accumulated depreciation from the acquisition date to the balance sheet date. 
+=> **Social Security taxes** often are called FICA taxes because they are required by the Federal Insurance Contributions Act. These taxes are imposed in equal amounts on both employees and employers. Though employers only pay their portion of the taxes, they withhold the employees’ portion from their paychecks as part of an employee’s payroll deductions. The current Social Security tax rate is 6.2 percent for employees and 6.2 percent for employers, so 12.4 percent total. The Social Security tax is capped, meaning that the tax only applies to wages up to a certain amount.
 
-Maria Vittoria Cesareo 
+=> Employers also pay FICA taxes and are charged unemployment taxes through the Federal
 
-67 
+## **Unemployment Tax Act** (FUTA) **and State Unemployment Tax Acts** (SUTA).
 
-## Accounting 1 
+Companies generally record two journal entries to account for payroll taxes:
 
-**==> picture [39 x 39] intentionally omitted <==**
+- 1.Record the amount of cash paid to employees and the various deductions from employees’ paychecks
 
-To calculate depreciation expense, three pieces of information are required for each asset: 
+- 2.Record the taxes that employers must pay from their own funds, required by Federal and State law
 
-- **Estimated useful life** represents management’s estimate of the asset’s **useful economic life to the company** rather than its total economic life to all potential users. 
+Gross payroll
 
-   - **==>** The asset’s expected physical life is often longer than the company intends to use the asset. Economic life may be expressed in terms of years or units of capacity, such as the number of hours a machine is expected to operate or the number of units it can produce. 
+Less:
 
-- **Estimated residual (or salvage) value** represents management’s estimate of the amount the company **expects to recover upon disposal of the asset at the end of its estimated useful life.** The residual value may be the estimated value of the asset as salvage or scrap or its expected value if sold to another user. 
+Employee portion of FICA tax (Social Security & Medicare)
 
-## • **Depreciation method:** 
+Federal income tax withheld
 
-Because of significant differences among companies and the assets they own, accountants have not been able to agree on a single best method of depreciation. They also may choose different methods for specific assets or groups of assets. Once selected, the method should be applied consistently over time to enhance comparability of financial information. 
+State and local income taxes withheld
 
-We will discuss three depreciation methods: 
+= Net Payroll paid to employees
 
-**1. Straight-line** —when an asset’s usage is the same each period. 
+## DEFERRED REVENUES
 
-**2. Units-of-production** —when an asset’s usage varies each period depending on activity or productivity during the period. 
+Maria Vittoria Cesareo
 
-**3. Declining-balance** —when an asset is more efficient in its early years of usage, producing more revenue, but is less efficient over time. 
+## Accounting 1
 
-## STRAIGHT-LINE METHOD 
+- Are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period.
 
-**==> picture [330 x 81] intentionally omitted <==**
+- The obligation to provide a product or service in the future still exists.
 
-Notice that: 
+- Are classified as current or long term, depending on when a company expects to provide the product or service.
 
-- ❖ Depreciation expense is a constant amount each year. 
+## NOTES PAYABLE
 
-- ❖ Accumulated depreciation increases by an equal amount each year. 
+A note payable is a formal written contract that specifies:
 
-- ❖ Net book value decreases by the same amount each year until it equals the estimated residual value. 
+- The amount borrowed
 
-## UNITS-OF-PRODUCTION METHOD 
+- The repayment date
 
-The units-of-production depreciation method relates depreciable cost to total estimated productive output or activity level. It can be used for depreciating equipment when production or activity levels vary over time, generating varying amounts of revenue—a good matching of expenses with revenues. 
+- The annual interest rate associated with the borrowing
 
-Maria Vittoria Cesareo 
+- ➢To the lender, interest reflects the benefit of allowing someone else to use their money and therefore is a revenue.
 
-68 
+- ➢To the borrower, interest reflects the cost of using someone else’s money and is therefore an expense.
 
-Accounting 1 
+## Principal × Annual Interest Rate × Number of Months / 12 Months = Interest for the Period
 
-**==> picture [39 x 39] intentionally omitted <==**
+- ➢ Interest is an expense incurred when companies borrow money.
 
-**==> picture [328 x 64] intentionally omitted <==**
+- ➢ Companies record interest expense for a given accounting period, regardless of when they actually pay the bank cash for interest.
 
-Divide the depreciable cost (cost minus residual value) by the estimated total production or activity level to determine the depreciation unit rate as follows: 
+## CURRENT PORTION OF LONG-TERM DEBT
 
-**==> picture [282 x 26] intentionally omitted <==**
+To provide accurate information on how much of its long-term debt is due in the current year, a company must reclassify its long-term debt as a current liability within a year of its maturity date.
 
-In the units-of-production method, depreciation expense is a variable expense because it varies directly with production or use. 
+Refinancing Debt: Current or Long-Term Liability?
 
-DECLINING-BALANCE METHOD – AN ACCELERATED DEPRECIATION METHOD 
+- Instead of paying off a loan, a company may choose to refinance by renegotiating the loan or by taking out a new loan and using the proceeds to pay off the old loan.
 
-If an asset is more efficient or productive when it is newer, managers might choose the declining-balance depreciation method to match a higher depreciation expense with higher revenues in the early years of an asset’s life and a lower depreciation expense with lower revenues in the later years. 
+- If a company intends to refinance a currently maturing loan with a new long-term loan and has the ability to do so, the current loan should be classified as a long-term liability.
 
-This is an accelerated depreciation method. Accelerated methods are seldom used for financial reporting purposes. 
+- It is not a current liability because current liabilities are short- term obligations that are expected to be paid with current assets within the current operating cycle or one year, whichever is longer.
 
-**==> picture [242 x 48] intentionally omitted <==**
+## CONTINGENT LIABILITIES
 
-**==> picture [268 x 109] intentionally omitted <==**
+- Some recorded liabilities are based on estimates because the exact amount will not be known until a future date. Example: when a company offers a warranty on a product it sells
 
-Two important differences between this method and the other depreciation methods: 
+- Liabilities are reported on the balance sheet because they involve the probable future sacrifice of economic benefits.
 
-1. Accumulated depreciation, not residual value, is included in the formula. 
+Maria Vittoria Cesareo
 
-- Because accumulated depreciation increases each year, net book value (Cost minus Accumulated Depreciation) decreases. 
+## Accounting 1
 
-- The double-declining rate is applied to a lower net book value each year, resulting in a decline in depreciation expense over time. 
+- Some transactions only have a reasonably possible (but not probable) future sacrifice of economic benefits. These situations create contingent liabilities that are reported in the footnotes, but not on a company’s balance sheet.
 
-2. As with the other methods, the net book value should not be depreciated below the residual value. 
+The probabilities of occurrence are defined in the following manner:
 
-- If the computation reduces net book value below residual value, only the amount of depreciation expense needed to make net book value equal to residual value is recorded, and 
+- **Probable** —The future event or events are likely to occur.
 
-Maria Vittoria Cesareo 
+- **Reasonably possible** —The chance of the future event or events occurring is more than
 
-69 
+- remote but less than likely.
 
-## Accounting 1 
+- **Remote** —The chance of the future event or events occurring is slight.
 
-**==> picture [39 x 39] intentionally omitted <==**
+## INTERNATIONAL PERSPECTIVE: IT’S A MATTER OF DEGREE
 
-no additional depreciation expense is computed in subsequent years. (NBV CAN’T GO BELOW RESIDUAL VALUE) 
+The assessment of future probabilities is inherently subjective, but both U.S. GAAP and IFRS provide some guidance.
 
-• In the last year of the asset’s estimated useful life, whatever amount is needed to bring net book value to residual value is recorded, regardless of the amount of the depreciation computation. 
+Under U.S. GAAP, “probable” has been defined as likely to occur, which  is commonly interpreted to mean having a greater than 70 percent chance of occurring.
 
-Depreciation expense is limited to the amount that reduces book value to the estimated residual value. 
+Under IFRS, “probable” is defined as more likely than not to occur, which implies more than a 50 percent chance of occurring.
 
-**==> picture [390 x 207] intentionally omitted <==**
+This difference means that for some contingent liabilities, IFRS would require the reporting of a liability on the balance sheet whereas GAAP would simply require footnote disclosure.
 
-## IMPACT OF ALTERNATIVE DEPRECIATION METHODS 
+## WORKING CAPITAL MANAGEMENT
 
-Accelerated depreciation methods report higher depreciation and, therefore, lower net income during the early years of an asset’s life. As the age of the asset increases, this effect reverses. The graph shown illustrates the relationship between the double- declining-balance method and the straight-line method of depreciation. 
+A company has liquidity if it has the ability to pay current obligations.
 
-Differences in depreciation methods rather than real economic differences can cause significant variation in reported net incomes. 
+**Liquidity** is measured using the current ratio and the dollar amount of working capital. => **Working capital** is defined as the dollar difference between current assets and current liabilities. Working capital is important to both managers and financial analysts because it has a significant impact on the health and profitability of a company.
 
-**==> picture [156 x 174] intentionally omitted <==**
+=>The working capital accounts are actively managed to achieve a balance between a company’s short-term obligations and the resources to satisfy those obligations. If a business has too little working capital, it runs the risk of not being able to meet its obligations. On the other hand, too much working capital may tie up resources in unproductive assets. Excess inventory, for example, ties up dollars that could be invested more profitably elsewhere in the business and incurs additional costs associated with storage and deterioration.
 
-Maria Vittoria Cesareo 
+Changes in working capital accounts are important to managers and analysts because they have a direct impact on the cash flows from operating activities reported on the statement of cash flows.
 
-70 
+## LONG-TERM LIABILITIES
 
-Accounting 1 
+Long-term liabilities include all obligations not classified as current liabilities, such as long-term notes payable and bonds payable.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Most companies borrow money on a long-term basis in order to purchase assets, like property or equipment. In some cases, a company may pledge specific assets as security for repayment. If the company defaults on the loan, then the bank has the right to take ownership of the assets.
 
-Increased Profitability Due to an Accounting Adjustment? Reading the Notes 
+Maria Vittoria Cesareo
 
-Financial analysts are particularly interested in changes in accounting estimates because they can have a large impact on a company’s before-tax operating income. 
+## Accounting 1
 
-- In 2017, United States Steel Corporation increased the estimated useful life of its machinery and equipment. 
+A loan supported by this type of agreement is called **secured debt** .
 
-- The change reduced depreciation expense for the year, and each year, by approximately $106 million. 
+Agreements in which the bank relies primarily on the borrower’s integrity and general earning power to repay the loan are called **unsecured debt** .
 
-## MEASURING ASSET IMPAIRMENT 
+## LONG-TERM NOTES PAYABLE AND BONDS
 
-Assets are defined as economic resources owned or controlled by a company that have measurable value and are expected to provide benefits to the company by producing cash inflows or reducing cash outflows in the future. On the date of the exchange, an asset is measured at **historical cost** . 
+Companies can raise capital directly from a number of financial service organizations including banks, insurance companies, and pension plans. Raising capital from one of these organizations is known as a private placement. The resulting liability often is called a note payable, which is a written promise to pay a stated sum at one or more specified future dates called the maturity date(s).
 
-Subsequently, corporations must review **long-lived tangible and most intangible assets** for possible impairment when events or changed circumstances cause the estimated future cash flows of these assets to fall below their book value. 
+In many cases, a company’s need for capital exceeds the financial ability of any single bank or other creditor. In these situations, the company may issue publicly traded debt called bonds. The opportunity to sell a bond security in established markets provides bondholders with an important benefit. Without involving the company, bondholders can sell their bond securities to other investors prior to maturity if they have an immediate need for cash.
 
-There are three steps to test for impairment: 
+## INTERNATIONAL PERSPECTIVE: BORROWING IN FOREIGN CURRENCIES
 
-Step 1: Consider whether **indicators of impairment** are present. Step 2: Test the **recoverability** of the long-lived assets. 
+Corporations with foreign operations may elect to finance those operations with foreign debt to lessen exchange rate risk.
 
-Step 3: **Measure the impairment** of the long-lived assets 
+➢ **Exchange rate risk** exists because the relative value of each nation’s currency varies on a daily basis.
 
-## STEP 1: **Consider whether indicators of impairment are present** . 
+For reporting purposes, accountants must convert, or translate, foreign debt into U.S. dollars at the end of the accounting period in order to report the debt on a U.S. company’s balance sheet.
 
-The following factors may indicate impairment of assets: 
+## LEASE LIABILITIES
 
-- Significant pattern of decline of market price of the assets 
+Companies often lease assets rather than purchase them.
 
-- Lower demand due to global economic conditions 
+- When a company leases an asset, it enters into a contractual agreement with the owner of the asset.
 
-- Change in economic or legal factors (e.g., regulatory or technology changes) 
+- For accounting purposes, a lessee can lease an asset by signing either a **short-term lease** (12 months or less) or a **longer-term lease** .
 
-- Obsolescence or physical damage to the asset 
+➢ Longer-term leases are more common and are classified as either finance leases or operating leases depending on whether effective control of the leased asset remains with the lessor or is transferred to the lessee.
 
-- Asset is held for disposal or is part of a restructuring 
+## **Lessor**: Party that owns the asset
 
-## STEP 2: **Test the recoverability of the long-lived assets** . 
+**Lessee**: Party that pays for the right to use the asset
 
-When indicators of impairment exist, management assesses if the asset’s net book value is recoverable through estimated future cash flows. 
+We focus on accounting for leases from the lessee’s perspective.
 
-The asset is impaired if not recoverable when: Net book value (NBV) > Estimated future cash flows (FCF) 
+Classifying longer-term lease as finance lease or an operating lease:
 
-## STEP 3: **Measure the impairment of the long-lived assets.** 
+- Classify as **Finance Lease** if lease meets any of the finance lease criteria. Effective control has been transferred to the lessee.
 
-For any asset considered to be impaired, companies recognize a loss for the difference between the asset’s net book value and its fair value (a market concept). 
+Maria Vittoria Cesareo
 
-The asset is written down to fair value. 
+## Accounting 1
 
-Net book value (NBV) − Fair Value (FV) = Impairment loss 
+- Classify as **Operating Lease** if none of the Finance Lease Criteria are met. Lessor maintains effective control of the asset. (like a rent)
 
-Maria Vittoria Cesareo 
+## FINANCE LEASE CRITERIA
 
-71 
+a. The lease transfers ownership of the underlying asset to the lessee by the end of the lease term.
 
-## Accounting 1 
+b. The lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- c. The lease term is for the major part of the remaining economic life of the underlying
 
-A journal entry is made to record the loss due to impairment and reduce the asset. The fair value becomes the new book value. 
+asset. . . .
 
-The asset is not written back up if conditions change in the future. 
+d. The present value of the sum of the lease payments and any residual value guaranteed by the lessee . . . equals or exceeds substantially all of the fair value of the underlying asset.
 
-## DISPOSAL OF PROPERTY, PLANT, AND EQUIPMENT 
+e. The underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term.
 
-Businesses dispose of assets involuntarily (the result of a casualty such as a storm, fire, theft, or accident) or voluntarily (sales, trade-ins, and retirements). 
+The five criteria are aimed at establishing whether the lessor maintains effective control of the leased asset or whether effective control has been transferred to the lessee. If any of the five criteria are met, then effective control (i.e., substantially all of the risks and rewards of ownership) is transferred to the lessee and the lease is a finance lease. If none of the criteria are met, then effective control remains with the lessor and the lease is an operating lease.
 
-- 1.Update depreciation expense through the date of disposal 
+ACCOUNTING FOR LEASES DIFFERS DEPENDING ON WHETHER THE LEASE IS A SHORT-TERM OR LONG-TERM LEASE.
 
-2. - Recording cash received (debit) or paid (credit) 
+## ===> **Short term leases**:
 
-- Writing off the asset cost (credit) and any accumulated 
+- No lease asset or liability is recorded.
 
-- depreciation (debit). 
+- Lessee records lease expense over the life of the lease.
 
-- Recording a gain (credit) or loss (debit) 
+- ==> **Long term leases** (both Finance and Operating):
 
-## NATURE OF INTANGIBLE ASSETS 
+- Require recognition of a lease asset and lease liability.
 
-- ➢ Intangible assets are increasingly important resources for organizations. 
+- Amount recognized is the current cash equivalent of the required
 
-- ➢ An intangible asset has value because of certain rights and privileges often conferred by law on its owner. 
+future lease payments.
 
-- ➢ An intangible asset has no material or physical substance. Instead, most intangible assets usually are evidenced by a legal document. 
+- More details discussed in advanced accounting courses
 
-Most common types of intangible assets: 
+## PRESENT VALUE
 
-- Goodwill (recognized in a business merger or acquisition) 
+The concept of present value (PV) is based on the time value of money. Quite simply, money received today is worth more than money to be received one year from today (or at any other future date) because it can be used to earn interest. If you invest $1,000 today at 10%, you will have $1,100 in one year. In contrast, if you receive $1,000 one year from today, you will lose the opportunity to earn the $100 in interest revenue.  The difference between the $1,000 and the $1,100 is the interest that can be earned during the year, which reflects the time value of money.
 
-- Trademarks 
+## FUTURE VALUE OF A SINGLE AMOUNT
 
-- Copyrights 
+Maria Vittoria Cesareo
 
-- Technology (computer software and website) 
+## Accounting 1
 
-- Patents 
+You are asked to compute the dollar amount in the savings account after a certain number of years. This is an example of a future value (FV) problem: How much is a given dollar amount today worth in the future if it grows at a specified interest rate? For example, if you deposited $100 today in a savings account that earns 10% interest, how much would you have after one year?
 
-- Franchises 
+## PRESENT VALUE OF SINGLE AMOUNT
 
-- Licenses and operating rights 
+In present value problems, you are asked to compute the amount you would need to deposit today at a specified interest rate to have a given dollar amount in the future. For example, if you needed $110 in one year, how much would you need to deposit in a savings account today if the savings account earns 10% interest?
 
-- Other (customer lists/relationships, noncompete covenants, contracts and agreements) 
+=>There are two basic types of present value problems: those involving single amounts like the example above and those involving a stream of future amounts. Understanding and being able to compute both types is important when accounting for certain long- term liabilities.
 
-Intangible assets are recorded at historical cost only if they have been purchased. If these assets are developed internally by the company, they are expensed when incurred. 
+Assume you need to make a $1,000 cash payment in three years. At an interest rate of 10% per year, how much would you need to deposit today to have exactly $1,000 at the end of three years?
 
-## AMORTIZATION OF INTANGIBLE ASSETS 
+You could discount the amount year by year to figure out how much you would need to deposit today, but it is easier to use Table E.1, Appendix E, Present Value of $1.
 
-Upon acquisition of intangible assets, managers determine whether they have definite or indefinite lives: 
+For i = 10%, n = 3 periods, we find that the present value of $1 is 0.75131. The present value of the $1,000 to be paid at the end of three years can be computed as follows: $1,000 × 0.75131 = $751.31
 
-## ð **Definite Life** : 
+Once you have computed a present value amount, it is important that you understand what it means. The $751.31 is the amount you would have to deposit today in order to have exactly $1,000 three years from today, assuming an interest rate of 10%. Conceptually, you should be indifferent between paying $751.31 today and paying $1,000 in three years. If you had $751.31 today and did not want to worry about having to come up with $1,000 in three years, you could simply deposit the money in a savings account and at 10% interest it would grow to $1,000 in three years.
 
-- Cost is allocated (amortized) over its useful life. 
+## PRESENT VALUE OF AN ANNUITY
 
-- Straight-line method used to calculate amortization expense (recorded on the income statement). 
+Instead of a single amount, many business problems involve multiple cash payments over a
 
-- Most companies do not estimate a residual value. 
+number of periods. An annuity is **a series of consecutive payments** characterized by:
 
-Maria Vittoria Cesareo 
+1. An equal dollar amount each period.
 
-72 
+2. Interest periods of equal length (e.g., a year, half a year, quarterly, or monthly).
 
-## Accounting 1 
+3. The same interest rate each period.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Examples of annuities include monthly rent payments on an apartment or quarterly lease
 
-## ð **Indefinite Life** 
+payments on a car.
 
-- Not amortized. 
+We compute the present value of an annuity by discounting each of the equal periodic amounts back to today
 
-- Asset must be reviewed at least annually for possible impairment of value (first using qualitative factors). 
+## TRUTH IN ADVERTISING
 
-- If impaired, the carrying value is reduced to fair market value. 
+Maria Vittoria Cesareo
 
-Amortization is a cost allocation process similar to depreciation and depletion. 
+## Accounting 1
 
-## ====> **Goodwill** : 
+Online and television advertisements are easy to misinterpret if theconsumer does not understand the time value of money.
 
-- Goodwill is only recorded as an asset when one company buys another business. 
+- Advertisements often promise “No payments for one year!” But “no payments” does not mean “no interest.” In almost all cases, during the “no payments” year, interest is accruing (being added to the amount owed).
 
-- Internally developed goodwill (such as a favorable reputation) is not reported as an asset. 
+- Another misleading advertisement relates to lotteries, which often promise to make winners instant millionaires. If the winner is paid $1,000,000 over 40 years ($25,000 per year) the present value of this annuity at 8% is only $298,000.
 
-- The amount of goodwill equals the purchase price of the company less the fair market value of the net assets (assets minus liabilities). 
+Maria Vittoria Cesareo
 
-- Goodwill is not amortized but is reviewed annually for impairment. 
+Accounting 1
 
-## ===> **Trademarks** : 
+Maria Vittoria Cesareo
 
-- A special name, image or slogan identified with a product or company. 
+Accounting 1
 
-- Rarely seen on balance sheets because they are only recorded if purchased. 
+Maria Vittoria Cesareo
 
-## ===> **Copyrights** : 
+## Accounting 1
 
-- The exclusive right to publish, use, and sell a literary, musical, or artistic work. 
+## CHAPTER 10: REPORTING AND INTERPRETING BOND SECURITIES
 
-- Legal life is the life of the creator plus 70 years. 
+A company’s capital structure is the mixture of debt and equity it uses to finance its operations.
 
-## ====> **Technology** : 
+- Borrowing a large amount from an individual bank is often impractical, so companies and governments issue bond securities (bonds) to the investing public instead.
 
-- Website development: Capitalize the costs of acquiring a domain name and developing graphics. 
+- After bonds are issued they are traded on exchanges such as the New York Bond Exchange.
 
-• Software: Capitalize the direct costs of developing software (coding and testing) after the software is technologically feasible. Amortize any costs related to software that is to be sold or leased to customers (amortization expense is part of the cost of sales). Test the software annually for impairment. Costs incurred during the preliminary concept phase should be expensed. 
+- The ability to sell a bond is an advantage to investors because it provides them with liquidity (the ability to convert investments to cash).
 
-If the software is developed for internal use, the intangible asset is amortized usually over a short useful life with the amortization reported on the income statement as a general expense. 
+- By issuing more liquid debt that investors can easily buy and sell in the bond markets, companies are able to reduce the cost of long-term borrowing.
 
-## ====> **Research & Development Costs** : 
+CHARACTERISTICS OF BONDS PAYABLE REASONS WHY COMPANIES ISSUE BONDS Advantages of bonds
 
-- Research and development costs are not capitalized as an intangible asset due to uncertainty as to future benefits. 
+- **Stockholders maintain control** because bondholders do not vote or share in any dividend
 
-- These costs should be expensed and recorded on the income statement. 
+- payments.
 
-## ====> **Patents** : 
+- **A portion of interest expense is tax deductible** which reduces the net cost of borrowing.
 
-- A patent is an exclusive right granted by the federal government for 20 years for inventions and new processes. 
+- The **return to shareholders can be positive** if money is borrowed at a low interest rate and invested in projects that earn a higher rate.
 
-- Owner can use, manufacture, and sell both the subject of the patent and the patent itself. 
+- Disadvantages of bonds
 
-Maria Vittoria Cesareo 
+- **Risk of bankruptcy** exists because the bond interest payments must be paid each period
 
-73 
+- whether the corporation earns income or incurs a loss.
 
-## Accounting 1 
+- **Negative impact on cash flows** because bonds must be repaid at a specific time in the future.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Company must be able to repay the debt or refinance it.
 
-- If internally developed, only the registration fees and legal costs are capitalized (recorded as an asset). 
+Maria Vittoria Cesareo
 
-## ====> **Franchises** : 
+## Accounting 1
 
-- Franchises may be granted by the government or a company for a specific period and 
+## BOND TERMINOLOGY
 
-- purpose. 
+A bond usually requires the payment of interest over its life with repayment of principal on the maturity date.
 
-- Franchise agreements are contracts. 
+The bond **principa** l is:
 
-- They usually require an investment by the franchisee; therefore, they should be accounted for as intangible assets. 
+- (1) the amount a company must pay to bondholders at the maturity date
 
-- The life of the franchise agreement depends on the contract and can be for a single year or indefinite period. 
+- (2) the amount used to compute the bond’s periodic cash interest payments.
 
-## ====> **Licenses and operating rights** : 
+- Bond principal is also called face value, par value, or maturity value.
 
-- These intangible assets are the permissions to use a product or service according to specific terms and conditions. 
+- All bonds have a face value. The face value is usually $1,000, but it can be any amount
 
-## ACQUISITION AND DEPLETION OF NATURAL RESOURCES 
+The **coupon rate** is the interest rate specified on a bond, and the rate used to compute the bond’s periodic cash interest payment.
 
-## => **Natural Resources** 
+A bond always specifies the coupon rate and the frequency of periodic cash interest payments.
 
-- Companies develop raw material and products from natural resources, including mineral deposits such as gold or iron ore, oil wells, and timber tracts. 
+- The coupon rate is also called the stated rate, contract rate, or nominal rate.
 
-- These resources are called “wasting assets” because they are depleted (physically used up). 
+- The interest payments are sometimes called coupon payments.
 
-- They are recorded at cost when acquired or developed, they are recorded using the cost principle. The cost is allocated when the resource is used up. This allocation is called depletion. 
+- A bond’s coupon rate is always stated in annual terms.
 
-## => **Depletion** 
+- If interest is paid annually the cash interest payment is computed as the bond’s face value × the coupon rate.
 
-- Depletion is the process of allocating a natural resource’s cost over the period of its exploitation. 
+- If the interest payment is made more frequently, computing the cash interest payment
 
-- The units-of-production method is often used to compute depletion. 
+requires that the coupon rate be converted to a rate per interest period before it is multiplied by the bond’s face value.
 
-- The amount of the natural resource depletion is capitalized (recorded as a part of the cost of inventory). The entry to record depletion is: 
+## CHARACTERISTICS OF DIFFERENT TYPES OF BONDS
 
-- Dr. Inventory (+A) x 
+Different types of bonds have different characteristics because individual investors have different risk and return preferences.
 
-- Cr. Natural Resource (−A) x 
+**Secured bond:** pledges a specific asset as security in case the company cannot repay the bond. ( as opposed to unsecured bond)
 
-- Later, an expense (Cost of Goods Sold) is recorded when the asset (Inventory) is sold. 
+**Convertible bonds**: low interest rate and an unsecured status in return for the opportunity to
 
-## A MISINTERPRETATION 
+convert the bond into common stock at some point in the future.
 
-Some analysts misinterpret the meaning of a **noncash expense** , saying that “cash is provided by depreciation.” 
+**Callable bond:** feature that allows the bond issuer the option of retiring the bonds early BOND ISSUANCE PROCESS
 
-- Although depreciation is added in the operating section of the statement of cash flows, when using the indirect method, depreciation is not a source of cash. 
+When a company decides to issue bond securities, it prepares a **bond indenture** and a **bond**
 
-- Depreciation expense reduces the amount of reported net income for a company, but it does not reduce the amount of cash generated by the company because it is a noncash expense. 
+## prospectus.
 
-- Cash from operations can only be provided by selling goods and services. 
+The **indenture** is a legal document that specifies all the details of the bond offering.
 
-Maria Vittoria Cesareo 
+The **prospectus** is a regulatory document that is filed with the Securities and Exchange Commission.
 
-74 
+It specifies the details of the bond offering such as:
 
-## Accounting 1 
+- Maturity date
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Rate of interest to be paid
 
-• Although depreciation is a noncash expense, the depreciation for tax purposes can affect a company’s cash flows. The higher the tax depreciation, the lower the taxable income and taxes the company must pay. 
+- Date of each interest payment
 
-CHANGES IN DEPRECIATION ESTIMATES 
+- Other characteristics such as if the bond is callable or convertible
 
-Depreciation is based on two estimates: 
+- How the proceeds will be used by the company
 
-## **1. estimated useful life** 
+The prospectus also contains **covenants** designed to protect the bondholders such as:
 
-## **2. estimated residual value** 
+- limitations on new debt that the company might issue in the future
 
-If the estimates change, then the undepreciated asset balance (less any residual value at the date of the change) should be depreciated over the remaining useful life. 
+- limitations on the payment of dividends to shareholders
 
-If improvements are made that extend the assets useful life, the depreciation must also be recalculated. 
+Maria Vittoria Cesareo
 
-To compute the new depreciation expense due to a change in estimate, substitute: 
+## Accounting 1
 
-- the net book value for the original acquisition cost, 
+- requirements that the company maintain certain minimum accounting ratios, such as the current ratio or the debt-to-equity ratio.
 
-- the new residual value for the original amount, and 
+When a bond is issued to an investor, the investor receives a **bond certificate** .
 
-- the estimated remaining life in place of the original estimated life. 
+An independent party, called the **trustee** , is usually appointed to represent the bondholders.
 
-**==> picture [360 x 72] intentionally omitted <==**
+## BOND RATING AGENCIES AND THEIR ASSESSMENTS OF DEFAULT RISK
 
-## **CHAPTER 9: REPORTING AND INTERPRETING LIABILITIES** 
+Several agencies exist to evaluate the **bond’s default risk** (the risk the bond issuer will not be able to meet the requirements in the prospectus).
 
-The acquisition of assets is financed from two sources: 
+- ➢ Higher-quality bonds have a lower default risk.
 
-CAPITAL STRUCTURE: Debt: Funds from creditors Equity: Funds from owners 
+- ➢ Lower-quality bonds have a higher default risk.
 
-From the firm’s perspective, debt is considered riskier than equity. Debt payments are legal obligations. 
+## REPORTING BOND TRANSACTIONS: CASH PAYMENTS
 
-If a company cannot make the required debt payment, creditors can force bankruptcy and require the sale of assets. 
+There are two types of cash payments in the bond contract
 
-LIABILITIES DEFINED AND CLASSIFIED 
+1. **Principal**: a single payment made at the end of the bond’s life. It is also called the face value, par value, or maturity value.
 
-Defined as the probable future sacrifice of economic benefits that arise from past transactions. Maturity = 1 year or less èCurrent Liabilities (to be paid with current assets) Maturity > 1 year è Long-Term Liabilities 
+2. **Cash interest payments:** These payments, also called coupon payments, represent an annuity and are computed by multiplying the bond’s face value times the coupon rate. Interest payments are made quarterly, semiannually, or annually (be sure and use the interest rate per period in your calculations).
 
-Maria Vittoria Cesareo 
+For example, consider a bond with a face value of $1,000, term of 10 years, coupon rate of 6% (annual), with interest paid semi-annually (twice a year). Compute the cash interest payment for the bond: ^7d34wt
 
-75 
+## MARKET RATE OF INTEREST
 
-## Accounting 1 
+The bond market determines the price of the bonds by computing the present value of the bonds using the market rate of interest on the day the company issues the bonds. Compute the present value of the principal (a single payment) and the present value of the interest payments (an annuity) and add the two amounts together.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Investors demand a certain **rate of return** to compensate them for the risks related to the bond offering. The demanded rate of return is called the **market interest rate** (also known as the yield or effective interest rate).
 
-Liabilities are recorded at their **current cash equivalent** , which is the cash amount a creditor would accept to settle the liability immediately. 
+Because the market rate is the interest rate investors demand on the day a bond is issued, it is the rate that should be used in computing the present value of a bond. As the market interest rates rise the price of a bond falls and vice versa.
 
-Interest that will be paid in the future is not included in the reported amount of the liability because it accrues and becomes a liability with the passage of time. 
+Maria Vittoria Cesareo
 
-Liabilities are probable future sacrifice of economic benefits that arise from past transactions. **Current liabilities** are short-term obligations that will be paid within the current operating cycle or within one year of the balance sheet date—whichever is longer. **Noncurrent liabilities** include all other liabilities. 
+Accounting 1
 
-## CURRENT LIABILITIES 
+Important: Investors always will earn the market rate of return
 
-Many current liabilities have a direct relationship to the operating activities of a business. 
+## RELATIONSHIP BETWEEN COUPON RATE AND MARKET RATE
 
-- **Accounts payable** , also known as trade accounts payable, are obligations to pay for goods and services used in the basic operating activities of the business. For many companies, buying on credit from suppliers is a relatively inexpensive way to finance the purchase of inventory because interest does not normally accrue on accounts payable. As an incentive to encourage more sales, some suppliers offer generous credit terms that may allow buyers to resell merchandise and collect cash before payment must be made to the supplier. Both managers and analysts use the accounts payable turnover ratio to evaluate how effectively a company is  managing its accounts payable. 
+On the day a company issues a bond, the market interest rate will be either the same as the coupon rate, greater than the coupon rate, or less than the coupon rate.
 
-- **Accrued liabilities** , also known as accrued expenses, are obligations related to expenses that have been incurred but have not been paid at the end of the accounting period. These expenses include items such as rent, wages, and utilities. Accrued liabilities are recorded by recognizing an expense for the period and an associated liability. 
+The relationship between the market interest rate and the bond’s coupon rate determines whether the bond is issued at par, at a premium, or at a discount.
 
-- **Deferred revenues** , also known as unearned revenues, are obligations arising when cash is received prior to the related revenue being earned. Under the revenue recognition principle, revenue cannot be recorded until it has been earned. Deferred revenues are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period. The obligation to provide a product or service in the future still exists. These obligations are classified as current or long term, depending on when a company expects to provide the product or service. 
+➢ When a bond’s coupon rate is less than the rate investors demand, investors will not buy the bond unless its price is reduced (i.e., a discount must be provided).
 
-- **Notes payable** are obligations supported by a formal written contract. The contract specifies the amount borrowed, the date by which it must be repaid, and the interest rate associated with the borrowing. 
+➢ When a bond’s coupon rate is more than investors demand, investors will be willing to pay a premium to buy the bond.
 
-## ACCRUED LIABILITIES 
+## BONDS ISSUED AT PAR:
 
-## ð Accrued Tax Payable 
+The amount of money a company receives when it sells bonds is the present value of the future cash flows associated with the bonds.
 
-Corporations must pay federal taxes on the income they earn. Corporations also may pay state and local income taxes and, in some cases, foreign income taxes. 
+When the **market rate of interest equals the coupon rate** , the present value of the future cash flows associated with a bond always equals the bond’s face value amount.
 
-- ð Accrued compensation and related costs 
+- Remember a bond’s selling price is determined by the present value of its future cash flows, not the face value.
 
-Maria Vittoria Cesareo 
+Reporting Interest Expense
 
-76 
+- Interest expense is reported on the income statement. Because interest is related to financing activities rather than operating activities, it is normally not included in operating expenses on the income statement.
 
-## Accounting 1 
+- Interest expense is typically reported just below “ **income from operations** ” on the income statement.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Maria Vittoria Cesareo
 
-Unpaid salaries may be reported as part of a general accrued liability account on the balance sheet or as a separate item. 
+Accounting 1
 
-Benefits refer to items that employees have earned during the reporting period but have not taken or been paid, such as: 
+Bonds sell at a discount when the **market interest rate is greater than the coupon rate** .
 
-- retirement programs 
+There are two acceptable **methods for recording** a bond that is sold at a discount:
 
-- vacation time 
+- Explicitly keep track of the bond discount by incorporating it into the journal entries
 
-- health insurance 
+- Implicitly keep track of the bond discount but do not incorporate it into the journal entries. Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical.
 
----Payroll Taxes---- 
+Reporting Interest Expense on Bonds Issued at a Discount: **Using Effective-Interest Amortization** (with Discount Account)
 
-All payrolls are subject to a variety of taxes, including federal, state, and local income taxes; Social Security taxes; and federal and state unemployment taxes. Employees pay some of these taxes, and employers pay others. 
+Under the effective-interest amortization method, a company computes interest expense in a given period by multiplying the bonds payable book value times the market rate of interest on the date of issuance.
 
-=>Employers are required to withhold **income taxes** for each employee. The amount of income tax withheld is recorded by the employer as a current liability and remains a liability until the amount is paid to the government (usually quarterly). 
+When the **market interest rate is less than the bond’s coupon rate** , the bonds sell at a premium
 
-=> **Social Security taxes** often are called FICA taxes because they are required by the Federal Insurance Contributions Act. These taxes are imposed in equal amounts on both employees and employers. Though employers only pay their portion of the taxes, they withhold the employees’ portion from their paychecks as part of an employee’s payroll deductions. The current Social Security tax rate is 6.2 percent for employees and 6.2 percent for employers, so 12.4 percent total. The Social Security tax is capped, meaning that the tax only applies to wages up to a certain amount. 
+Accounting for bonds issued at a premium is similar to accounting for bonds issued at a discount.
 
-=> Employers also pay FICA taxes and are charged unemployment taxes through the Federal 
+Maria Vittoria Cesareo
 
-## **Unemployment Tax Act** (FUTA) **and State Unemployment Tax Acts** (SUTA). 
+## Accounting 1
 
-Companies generally record two journal entries to account for payroll taxes: 
+Companies can explicitly use a bond premium account in their journal entries or implicitly keep track of the premium amount
 
-- 1.Record the amount of cash paid to employees and the various deductions from employees’ paychecks 
+Reporting Interest Expense on Bonds Issued at a Premium: **Using Effective-Interest Amortization** (with Premium Account)
 
-- 2.Record the taxes that employers must pay from their own funds, required by Federal and State law 
+Under the effective-interest amortization method, a company compute interest expense in  a given period by multiplying the bonds payable book value times the market rate of interest on the date of issuance.
 
-Gross payroll 
+Regardless of whether a company issues bonds at par, at a discount, or at a premium, the company will enter the same journal entry when it retires the bonds at maturity.
 
-Less: 
+## ZERO COUPON BONDS
 
-Employee portion of FICA tax (Social Security & Medicare) 
+Zero coupon bonds do not pay periodic cash interest. Investors will price the bond so that they earn the market rate of interest.
 
-Federal income tax withheld 
+Because there is no periodic cash paid for interest:
 
-State and local income taxes withheld 
+PV of the Principal = Issue Price of the Bonds Because there is no periodic cash paid for interest: PV of the Principal = Issue Price of the Bonds
 
----------------------------------------------------------- 
+➢ A bond with a zero coupon interest rate is simply a deeply discounted bond that will sell for substantially less than the amount due at maturity (its face value). ^bnpxmd
 
-= Net Payroll paid to employees 
+Maria Vittoria Cesareo
 
-## DEFERRED REVENUES 
+## Accounting 1
 
-Maria Vittoria Cesareo 
+➢ Accounting for a zero coupon bond is no different than accounting for other bonds issued at a discount.
 
-77 
+However, the amount of the discount is much larger.
 
-## Accounting 1 
+➢ GAAP requires that companies use the **effective-interest method to** amortize bond discounts and bond premiums. GAAP permits companies to use **straight-line amortization** when results do not materially differ from results computed using the effective-interest method.
 
-**==> picture [39 x 39] intentionally omitted <==**
+➢ With straight-line amortization, a company takes the total amount of the discount or the premium at issuance, divides it by the number of periods in the bond’s life, and amortizes that amount each period.
 
-- Are reported as a liability because cash has been collected from customers, but the company has not delivered a product or service, and thus the related revenue has not been earned by the end of the accounting period. 
+## EARLY RETIREMENT OF BONDS
 
-- The obligation to provide a product or service in the future still exists. 
+Some bonds have a **call feature** that allows the issuing company to call (retire) the bonds early. A call feature most often requires the issuing company to pay investors an amount greater than the bond’s face value to retire the bonds before their maturity date. The amount often is stated as a percentage of the bond’s face value.
 
-- Are classified as current or long term, depending on when a company expects to provide the product or service. 
+Book Value > Cash Paid to Retire Bonds = GAIN
 
-## NOTES PAYABLE 
+Book Value < Cash Paid to Retire Bonds = LOSS
 
-A note payable is a formal written contract that specifies: 
+In some cases, a company may elect to retire bonds early by purchasing them on the open market, just as an investor would. This approach is necessary when the bonds do not have a call feature. Even when the bonds have a call feature, retiring them by purchasing them on the open market is attractive when the cost of doing so is less than the cost of paying the call premium.
 
-- The amount borrowed 
+## JOURNAL ENTRY TO RETIRE BONDS
 
-- The repayment date 
+Maria Vittoria Cesareo
 
-- The annual interest rate associated with the borrowing 
+PRICE OF BONDS VERSUS MARKET INTEREST RATES Bond prices move in the opposite direction of interest rates.
 
-- ➢To the lender, interest reflects the benefit of allowing someone else to use their money and therefore is a revenue. 
+## Accounting 1
 
-- ➢To the borrower, interest reflects the cost of using someone else’s money and is therefore an expense. 
+If interest rates go up, bond prices fall, and vice versa.
 
-## **Principal × Annual Interest Rate × Number of Months / 12 Months = Interest for the Period** 
+If interest rates go up enough, a company may decide that it makes good economic sense to retire its bonds early by purchasing them on the open market.
 
-- ➢ Interest is an expense incurred when companies borrow money. 
+## ACCOUNTING FOR BONDS WITHOUT A DISCOUNT ACCOUNT OR PREMIUM ACCOUNT
 
-- ➢ Companies record interest expense for a given accounting period, regardless of when they actually pay the bank cash for interest. 
+For financial reporting purposes, it is not necessary to use a discount (or premium) account when recording the sale of bonds.
 
-## CURRENT PORTION OF LONG-TERM DEBT 
+There are two acceptable methods for recording a bond that is sold at a discount; both result in the same dollar value being reported on a company’s balance sheet. The first method explicitly keeps track of the bond discount by incorporating it into the journal entries.
 
-To provide accurate information on how much of its long-term debt is due in the current year, a company must reclassify its long-term debt as a current liability within a year of its maturity date. 
+The second method implicitly keeps track of the bond discount but does not incorporate it into the journal entries. Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical.
 
-Refinancing Debt: Current or Long-Term Liability? 
+The entries above show the journal entries for a bond issued at a discount without using the discount account.
 
-- Instead of paying off a loan, a company may choose to refinance by renegotiating the loan or by taking out a new loan and using the proceeds to pay off the old loan. 
+## ADVANCED TOPICS
 
-- If a company intends to refinance a currently maturing loan with a new long-term loan and has the ability to do so, the current loan should be classified as a long-term liability. 
+## FOREIGN CURRENCY EXCHANGES
 
-• It is not a current liability because current liabilities are short- term obligations that are expected to be paid with current assets within the current operating cycle or one year, whichever is longer. 
+Many modern companies spread their activities outside the country of incorporation. Indeed, not all transactions occur among firms that use the same currency for reporting purposes.
 
-## CONTINGENT LIABILITIES 
+The “foreign currency” problem arises every time the value of the transaction is not expressed in the “functional currency”, that is, the currency of the place where the company is located, due to the Monetary Unit Assumption (each business entity accounts for and reports its financial results primarily in terms of the national monetary unit).
 
-- Some recorded liabilities are based on estimates because the exact amount will not be known until a future date. Example: when a company offers a warranty on a product it sells 
+Financial statements need to be presented using only one currency, so what to do with items expressed in foreign currency?
 
-- Liabilities are reported on the balance sheet because they involve the probable future sacrifice of economic benefits. 
+ALL ITEMS EXPRESSED IN A FOREIGN CURRENCY SHALL BE CONVERTED USING THE EXCHANGE RATE OF THE DAY ON WHICH THE TRANSACTION OCCURS.
 
-Maria Vittoria Cesareo 
+Example 1
 
-78 
+ABC purchases some equipment from TYU Ltd, an American company.
 
-## Accounting 1 
+The purchase price is 1.000 USD.
 
-**==> picture [39 x 39] intentionally omitted <==**
+→ Foreign currency issue After the transaction, ABC:
 
-• Some transactions only have a reasonably possible (but not probable) future sacrifice of economic benefits. These situations create contingent liabilities that are reported in the footnotes, but not on a company’s balance sheet. 
+- Owns equipment purchased in USD
 
-The probabilities of occurrence are defined in the following manner: 
+- Needs to pay TYU Ltd an amount expressed in USD
 
-- **Probable** —The future event or events are likely to occur. 
+ABC SHALL CONVERT THE USD AMOUNT INTO EURO.
 
-- **Reasonably possible** —The chance of the future event or events occurring is more than 
+Maria Vittoria Cesareo
 
-- remote but less than likely. 
+## Accounting 1
 
-- **Remote** —The chance of the future event or events occurring is slight. 
+Example 2
 
-## INTERNATIONAL PERSPECTIVE: IT’S A MATTER OF DEGREE 
+ABC sells its finished goods to GHJ Plc, a Japanese company.
 
-The assessment of future probabilities is inherently subjective, but both U.S. GAAP and IFRS provide some guidance. 
+The sale price agreed in the contract is 650 Euros.
 
-Under U.S. GAAP, “probable” has been defined as likely to occur, which  is commonly interpreted to mean having a greater than 70 percent chance of occurring. 
+èNo foreign currency issue
 
-Under IFRS, “probable” is defined as more likely than not to occur, which implies more than a 50 percent chance of occurring. 
+Although the client is a Japanese company, ABC is entitled to receive a consideration expressed in Euro, so the foreign currency conversion issue stays on the client.
 
-This difference means that for some contingent liabilities, IFRS would require the reporting of a liability on the balance sheet whereas GAAP would simply require footnote disclosure. 
+Broadly speaking, when a purchase / sale transaction occurs, two types of items change in a journal entry:
 
-## WORKING CAPITAL MANAGEMENT 
+- One MONETARY item (M)
 
-A company has liquidity if it has the ability to pay current obligations. 
+- One NON-MONETARY item (NM).
 
-**Liquidity** is measured using the current ratio and the dollar amount of working capital. => **Working capital** is defined as the dollar difference between current assets and current liabilities. Working capital is important to both managers and financial analysts because it has a significant impact on the health and profitability of a company. 
+The “ **MONETARY” item** is either (i) cash or (ii) a receivable or payable that will sooner or later be collected or paid (� it will turn into cash).
 
-=>The working capital accounts are actively managed to achieve a balance between a company’s short-term obligations and the resources to satisfy those obligations. If a business has too little working capital, it runs the risk of not being able to meet its obligations. On the other hand, too much working capital may tie up resources in unproductive assets. Excess inventory, for example, ties up dollars that could be invested more profitably elsewhere in the business and incurs additional costs associated with storage and deterioration. 
+The **“NON-MONETARY” item** is either (i) an asset, (ii) a revenue, or (iii) an expense. Examples.
 
-Changes in working capital accounts are important to managers and analysts because they have a direct impact on the cash flows from operating activities reported on the statement of cash flows. 
+1. ABC purchases for cash raw materials � “inventory” is NM, and “cash” is M
 
-## LONG-TERM LIABILITIES 
+2. ABC sells on credit finished goods � “accounts receivable” is M, and “sales revenues” is NM
 
-Long-term liabilities include all obligations not classified as current liabilities, such as long-term notes payable and bonds payable. 
+3. ABC receives an invoice from a foreign lawyer for a consultancy service “service expense” is NM, and “accounts payable” is M
 
-Most companies borrow money on a long-term basis in order to purchase assets, like property or equipment. In some cases, a company may pledge specific assets as security for repayment. If the company defaults on the loan, then the bank has the right to take ownership of the assets. 
+On the day of the transaction, both the M and the NM items shall be converted at the exchange rate of the day the transaction occurs.
 
-Maria Vittoria Cesareo 
+From that moment on:
 
-79 
+- The balance of the NM item remains the same for currency purposes;
 
-## Accounting 1 
+- The balance of the M item, if the consideration is not settled on the date of the transaction, requires further adjustments
 
-**==> picture [39 x 39] intentionally omitted <==**
+Example. On May 5, 2021, ABC purchases some equipment from TYU Ltd, an American
 
-A loan supported by this type of agreement is called **secured debt** . 
+company, paying cash. The purchase price is USD 1,000. The exchange rate is 1 USD = 0.9 Euro. How do we account for the transaction?
 
-Agreements in which the bank relies primarily on the borrower’s integrity and general earning power to repay the loan are called **unsecured debt** . 
+The value of the transaction, expressed in Euro at the date of purchase, is 900. ABC records the transaction as follows:
 
-## LONG-TERM NOTES PAYABLE AND BONDS 
+From this moment on, the “Equipment” account (NM item) doesn’t require any further adjustment for changes in the exchange rate. It will be depreciated, impaired, sold, etc., as if purchased in Euro.
 
-Companies can raise capital directly from a number of financial service organizations including banks, insurance companies, and pension plans. Raising capital from one of these organizations is known as a private placement. The resulting liability often is called a note payable, which is a written promise to pay a stated sum at one or more specified future dates called the maturity date(s). 
+Moreover, because the transaction is settled for cash at the date of purchase, there are no other effects on the F/S of the company.
 
-In many cases, a company’s need for capital exceeds the financial ability of any single bank or other creditor. In these situations, the company may issue publicly traded debt called bonds. The opportunity to sell a bond security in established markets provides bondholders with an important benefit. Without involving the company, bondholders can sell their bond securities to other investors prior to maturity if they have an immediate need for cash. 
+Maria Vittoria Cesareo
 
-## INTERNATIONAL PERSPECTIVE: BORROWING IN FOREIGN CURRENCIES 
+## Accounting 1
 
-Corporations with foreign operations may elect to finance those operations with foreign debt to lessen exchange rate risk. 
+What happens if the transaction is settled on a different date?
 
-➢ **Exchange rate risk** exists because the relative value of each nation’s currency varies on a daily basis. 
+If a transaction is not settled on the day in which it occurs, two are the possible cases: 1) **The transaction is settled during the same accounting period in which it occurs** . In these cases:
 
-For reporting purposes, accountants must convert, or translate, foreign debt into U.S. dollars at the end of the accounting period in order to report the debt on a U.S. company’s balance sheet. 
+- Initially, the company records the transaction using the spot exchange rate between the functional currency and the foreign currency at the date of the transaction;
 
-## LEASE LIABILITIES 
+- then, when the consideration is settled, the company accounts for it using the spot exchange rate at the settlement date. The difference which may arise is recorded as “realized foreign exchange gain” (or loss). These gains or losses are Income Statement items.
 
-Companies often lease assets rather than purchase them. 
+If a transaction is not settled on the day in which it occurs, two are the possible cases:
 
-- When a company leases an asset, it enters into a contractual agreement with the owner of the asset. 
+## 2 **) The transaction is NOT settled during the same accounting period in which it occurs but will be settled in the future** .
 
-- For accounting purposes, a lessee can lease an asset by signing either a **short-term lease** (12 months or less) or a **longer-term lease** . 
+In these cases:
 
-➢ Longer-term leases are more common and are classified as either finance leases or operating leases depending on whether effective control of the leased asset remains with the lessor or is transferred to the lessee. 
+- Initially, the company records the transaction using the spot exchange rate between the functional currency and the foreign currency at the date of the transaction;
 
-## **Lessor** : Party that owns the asset 
+- then, at the end of the accounting period, the balance of the monetary item shall be adjusted using the spot exchange rate at the closing date. The difference that may arise is recorded as “unrealized foreign exchange gain” (or loss). These gains or losses are Income Statement items.
 
-**Lessee** : Party that pays for the right to use the asset 
+- In the subsequent period, assuming the balance due is settled, any other difference is accounted for as “realized foreign exchange gain” (or loss).
 
-We focus on accounting for leases from the lessee’s perspective. 
+The distinction between “realized” and “unrealized” gains is crucial for tax and legal purposes. The consequences from a tax standpoint will be discussed in the second semester. From a legal standpoint, according to the legislation of several countries (like Italy),
 
-Classifying longer-term lease as finance lease or an operating lease: 
+- IF a company achieves a NET PROFIT at the end of the year, AND
 
-- Classify as **Finance Lease** if lease meets any of the finance lease criteria. Effective control has been transferred to the lessee. 
+- IF in the income statement UNREALIZED NET foreign exchange gains (= if unrealized gains
 
-Maria Vittoria Cesareo 
+are > unrealized losses) are accounted for,
 
-80 
+Then it is forbidden to pay dividends to shareholders for an amount corresponding to the unrealized net foreign exchange gains.
 
-## Accounting 1 
+## VALUE ADDED TAX (VAT)
 
-**==> picture [39 x 39] intentionally omitted <==**
+Taxes are a source of cash for the Governments to finance the expenses of their countries, like public health, education, sport, etc.
 
-- Classify as **Operating Lease** if none of the Finance Lease Criteria are met. Lessor maintains effective control of the asset. (like a rent) 
+Taxes may be divided into two broad categories: DIRECT taxes and INDIRECT taxes. DIRECT taxes apply on actual income/wealth.
 
-## FINANCE LEASE CRITERIA 
+INDIRECT taxes are applied every time a taxpayer shows “an ability to pay” which is not “directly” linked to incomes/wealth.
 
-a. The lease transfers ownership of the underlying asset to the lessee by the end of the lease term. 
+At a European level (1), the most important indirect tax is obviously VALUE ADDED TAX – VAT. The rules for the VAT application are set out by EU Directives and are consequently applied in (slightly) different ways in all EU Nations (2).
 
-b. The lease grants the lessee an option to purchase the underlying asset that the lessee is reasonably certain to exercise. 
+Maria Vittoria Cesareo
 
-- c. The lease term is for the major part of the remaining economic life of the underlying 
+## Accounting 1
 
-asset. . . . 
+1. VAT is applied every time goods are sold, or services are rendered.
 
-d. The present value of the sum of the lease payments and any residual value guaranteed by the lessee . . . equals or exceeds substantially all of the fair value of the underlying asset. 
+2. **VAT rates** are different not only across nations, but each country may apply different rates. In this set of slides, we will reference a 20% rate.
 
-e. The underlying asset is of such a specialized nature that it is expected to have no alternative use to the lessor at the end of the lease term. 
+3. Some business activities are **exempt from VAT** (example: a medical examination). Export of goods is out of scope for VAT purposes. So in these cases, VAT is 0%.
 
-The five criteria are aimed at establishing whether the lessor maintains effective control of the leased asset or whether effective control has been transferred to the lessee. If any of the five criteria are met, then effective control (i.e., substantially all of the risks and rewards of ownership) is transferred to the lessee and the lease is a finance lease. If none of the criteria are met, then effective control remains with the lessor and the lease is an operating lease. 
+4. The seller of goods / provider of service is required to collect the VAT amount from the client. The “official” document that is issued by the seller/provider, also for VAT purposes, is the **invoice** (tax receipt for B2C shops).
 
-ACCOUNTING FOR LEASES DIFFERS DEPENDING ON WHETHER THE LEASE IS A SHORT-TERM OR LONG-TERM LEASE. 
+Example. Francesco is a plumber. Francesco is called for an emergency on May 8. Francesco fixes the pipe and then issues an invoice: total Euro 100 plus 20 VAT and so for a total of 120, that the client pays to Francesco.
 
-## ===> **Short term leases** : 
+4. The seller / provider is required to **pay periodically** (either every month or every trimester) to the Governmental Agency the VAT collected from the clients.
 
-- No lease asset or liability is recorded. 
+Example Francesco shall transfer to the Italian State 20 Euro within June 16.
 
-- Lessee records lease expense over the life of the lease. 
+5.For the above reasons, usually in the balance sheet of a European company you may find **VAT payables;** these payables are owed in the short-term period to the Government agency of the state where the company operates, due to the business activity of the company (sale of products / services).
 
-- ==> **Long term leases** (both Finance and Operating): 
+According to the law, VAT payment shall rest on the final consumer: this is the transferee of goods / beneficiary of a service.
 
-- Require recognition of a lease asset and lease liability. 
+Example. Plumber Francesco’s client paid 20 euro as VAT tax.
 
-- Amount recognized is the current cash equivalent of the required 
+7. But what happens **if the transferee/beneficiary is NOT the final consumer** , but instead it is “in the middle” of the production process chain?
 
-future lease payments. 
+Example. A lumberjack cuts trees and sells trees to a paper factory for € 10. The paper factory produces notebooks. Bocconi students purchase notebooks for € 80.
 
-- More details discussed in advanced accounting courses 
+In this example we have (A) the lumberjack selling to the paper factory, and then (B) the paper factory selling to Bocconi students.
 
-## PRESENT VALUE 
+8. Every time the transferee/beneficiary is not the final consumer, the transferee/beneficiary is entitled to record a **VAT receivable** corresponding to the amount of VAT paid to the supplier. Then, the VAT receivable and VAT payable can be offset when the company makes the VAT liquidation. VAT liquidation is the procedure of netting the VAT receivable and the VAT payable before making any final payment.
 
-The concept of present value (PV) is based on the time value of money. Quite simply, money received today is worth more than money to be received one year from today (or at any other future date) because it can be used to earn interest. If you invest $1,000 today at 10%, you will have $1,100 in one year. In contrast, if you receive $1,000 one year from today, you will lose the opportunity to earn the $100 in interest revenue.  The difference between the $1,000 and the $1,100 is the interest that can be earned during the year, which reflects the time value of money. 
+Example: The lumberjack issues an invoice for total 12 (10 + 2 VAT). The paper factory pays 12 and records 10 as expense, 2 as VAT receivable.
 
-## FUTURE VALUE OF A SINGLE AMOUNT 
+Then the paper factory sells notebooks for 96 (DR cash 96, CR 80 sales revenues + CR 16 VAT payable). The “VALUE ADDED” by the paper factory is 70 (that is 80 – 10). So the total “TAX ON VALUE ADDED” shall be 14 (70 * 20%).
 
-Maria Vittoria Cesareo 
+Using the mechanism of “VAT receivable” and “VAT payable”, the paper factory is actually going to pay to the Governmental Agency € 14, given by 16 (VAT payable) – 2 (VAT receivable).
 
-81 
+9. In some cases, VAT laws don’t allow the recovery of the VAT paid, also if the company is not the final consumer. This is called non-deductible VAT and it is accounted as expense (unless it refers to a long-lived asset and so it may be capitalized as direct expense).
 
-## Accounting 1 
+Maria Vittoria Cesareo
 
-**==> picture [39 x 39] intentionally omitted <==**
+## Accounting 1
 
-You are asked to compute the dollar amount in the savings account after a certain number of years. This is an example of a future value (FV) problem: How much is a given dollar amount today worth in the future if it grows at a specified interest rate? For example, if you deposited $100 today in a savings account that earns 10% interest, how much would you have after one year? 
+## CRITICAL POINTS ABOUT VAT
 
-## PRESENT VALUE OF SINGLE AMOUNT 
+VAT may give rise to many important points, some of which as follows:
 
-In present value problems, you are asked to compute the amount you would need to deposit today at a specified interest rate to have a given dollar amount in the future. For example, if you needed $110 in one year, how much would you need to deposit in a savings account today if the savings account earns 10% interest? 
+1) VAT can be critical for **financial reasons** (1 of 2). The “VAT payable” is owed to the State when the invoice is issued, NOT when the seller/provider collects the amount from the beneficiary. This means that if you sell products, and your clients don’t pay, (i) you don’t owe any more goods to the client because you sold them, (ii) you don’t have cash for business activity and also (iii) you must pay to the State the 20% VAT that the client didn’t pay!
 
-=>There are two basic types of present value problems: those involving single amounts like the example above and those involving a stream of future amounts. Understanding and being able to compute both types is important when accounting for certain long- term liabilities. 
+2) VAT can be critical for **financial reasons** (2 of 2). VAT on export doesn’t apply (so if your client is abroad, you do not ask for the VAT payment). In some specific cases, VAT rates could be lower than usual. Consequently, there are many companies which are structurally in a VAT credit position. Nevertheless, collecting the VAT receivable from the Government is not so easy…VAT payable is always a short-term payable, but a VAT receivable might turn into a medium/long term receivable! This has consequences on the working capital management, and it is one of the most important challenges of CFOs.
 
-Assume you need to make a $1,000 cash payment in three years. At an interest rate of 10% per year, how much would you need to deposit today to have exactly $1,000 at the end of three years? 
+3) VAT is critical for **frauds** . Often frauds can occur in the field of VAT. A very powerful instrument to reduce VAT frauds is the electronic invoice. The rules for electronic invoicing are basically the following: the seller/provider shall send the e-invoice to the Governmental Department System which, like a “postman”, sends the e-invoice to the beneficiary. According to this procedure, the Tax Authority is aware in real time of both (i) the amount due as VAT payable by the seller and (ii) the VAT receivable accrued by the beneficiary. Timely controls are very helpful against VAT crimes. Italian tax law on electronic invoices is (unbelievably) quite innovative.
 
-You could discount the amount year by year to figure out how much you would need to deposit today, but it is easier to use Table E.1, Appendix E, Present Value of $1. 
+## CAROUSEL FRAUD
 
-For i = 10%, n = 3 periods, we find that the present value of $1 is 0.75131. The present value of the $1,000 to be paid at the end of three years can be computed as follows: $1,000 × 0.75131 = $751.31 
+- Carousel fraud is an **illegal scheme** tied to VAT evasion, exploiting the exemption rules for transactions between EU member states.
 
-Once you have computed a present value amount, it is important that you understand what it means. The $751.31 is the amount you would have to deposit today in order to have exactly $1,000 three years from today, assuming an interest rate of 10%. Conceptually, you should be indifferent between paying $751.31 today and paying $1,000 in three years. If you had $751.31 today and did not want to worry about having to come up with $1,000 in three years, you could simply deposit the money in a savings account and at 10% interest it would grow to $1,000 in three years. 
+- Financial Damage=> Billions lost annually due to unpaid VAT
 
-## PRESENT VALUE OF AN ANNUITY 
+- Economic Distortion => Undermines fair competition with artificially low prices
 
-Instead of a single amount, many business problems involve multiple cash payments over a 
+- It is based on the **Intra-Community VAT rules** , according to which transactions are VAT-free
 
-number of periods. An annuity is **a series of consecutive payments** characterized by: 
+on cross-border transactions, but must be paid when goods are sold locally
 
-1. An equal dollar amount each period. 
+- In a simplified version, the fraudulent scheme is as follows. The cornerstone of the carousel
 
-2. Interest periods of equal length (e.g., a year, half a year, quarterly, or monthly). 
+fraud is a company, usually nicknamed Missing Trader and located in a EU country, which:
 
-3. The same interest rate each period. 
+- First, buys goods VAT-free
 
-Examples of annuities include monthly rent payments on an apartment or quarterly lease 
+- Then, resells the same goods for a lower price, but with VAT
 
-payments on a car. 
+- The fraud is the following: VAT isn’t remitted to the Government, Missing Trader is wound up, the Directors and shareholders disappear with money; goods costing less then their actual value circulate on the market and create a distortion.
 
-We compute the present value of an annuity by discounting each of the equal periodic amounts back to today 
+- Example
 
-## TRUTH IN ADVERTISING 
+- Missing Trader (Italian) buys goods from Germany, € 120 (no VAT)
 
-Maria Vittoria Cesareo 
+- Missing Trader resells the same goods, € 110 + VAT € 24,2 = € 134,2
 
-82 
+- Missing Trader should pay € 24,2 to the Government but disappears stealing the money
 
-## Accounting 1 
+- Goods worth € 120 circulate at a price of € 110 creating a distortion
 
-**==> picture [39 x 39] intentionally omitted <==**
+Carousel Fraud: The only merry-go-round where the taxman doesn’t get a ticket!
 
-Online and television advertisements are easy to misinterpret if theconsumer does not understand the time value of money. 
+Maria Vittoria Cesareo
 
-• Advertisements often promise “No payments for one year!” But “no payments” does not mean “no interest.” In almost all cases, during the “no payments” year, interest is accruing (being added to the amount owed). 
+Accounting 1
 
-• Another misleading advertisement relates to lotteries, which often promise to make winners instant millionaires. If the winner is paid $1,000,000 over 40 years ($25,000 per year) the present value of this annuity at 8% is only $298,000. 
+## CRYPTOCURRENCIES, NFTS AND METAVERSE
 
-**==> picture [251 x 198] intentionally omitted <==**
+The world is changing. Quickly. Accounting is the system used to record transaction, events, and to measure the economic and financial performance of a company.
 
-**==> picture [276 x 215] intentionally omitted <==**
+Hence the financial statements of a company must reflect all the events that affect the company itself.
 
-Maria Vittoria Cesareo 
+Nowadays, Accounting (also) is facing the complexity of cryptoassets, among which there are NFTs and cryptocurrencies, and the challenge of Metaverse.
 
-83 
+How should a company account for cryptoassets in financial statements?
 
-Accounting 1 
+Italian **GAAP** do not provide any information about cryptocurrencies.
 
-**==> picture [39 x 39] intentionally omitted <==**
+Instead, **IFRIC** (one of the bodies competent for IFRS preparation and interpretation) released two papers in 2019 concerning the accounting policy for cryptocurrencies. According to the IFRIC:
 
-**==> picture [272 x 142] intentionally omitted <==**
+- A **cryptocurrency** is ‘a digital or virtual currency that uses cryptography for security. A cryptocurrency is difficult to counterfeit because of this security feature. Many
 
-**==> picture [294 x 219] intentionally omitted <==**
+cryptocurrencies are decentralized systems based on blockchain technology, a distributed
 
-Maria Vittoria Cesareo 
+ledger enforced by a disparate network of computers… (a cryptocurrency) is not issued by any central authority, rendering it theoretically immune to government interference or manipulation.
 
-84 
+- an entity does not account for holdings of cryptocurrencies as cash or another financial asset. This is because cryptocurrencies do not currently have the characteristics of cash, nor do they meet the definition of a financial asset.
 
-Accounting 1 
+- If an entity holds cryptocurrencies for sale in the ordinary course of business, those holdings of cryptocurrencies would meet the definition of inventories.
 
-**==> picture [39 x 39] intentionally omitted <==**
+- Otherwise, if a company is not a crypto-trader, cryptocurrencies meet the definition of an intangible asset. These assets are usually considered to have indefinite life (impairment test at least annually).
 
-**==> picture [273 x 190] intentionally omitted <==**
+In both cases, the book value of the cryptoasset at the closing date of the financial statements shall not be superior than their Net Realizable Value / Fair Value.
 
-**==> picture [288 x 212] intentionally omitted <==**
+## NFTS AND METAVERSE
 
-Maria Vittoria Cesareo 
+A **non-fungible token (NFT)** is a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify authenticity and ownership.
 
-85 
+Neither Italian GAAP, nor IAS/IFRS provide any guidance about accounting for NFTs.
 
-## Accounting 1 
+Nevertheless, analogically to the cryptocurrencies, it is believed that the best classification in the financial statements of a company for NFTs may be either
 
-**==> picture [39 x 39] intentionally omitted <==**
+- **Inventories** , if the company is a trader of NFTs
 
-**==> picture [328 x 265] intentionally omitted <==**
+- **Intangible asset** , if the NFT is purchased as investment, with indefinite life.
 
-## **CHAPTER 10: REPORTING AND INTERPRETING BOND SECURITIES** 
+Maria Vittoria Cesareo
 
-A company’s capital structure is the mixture of debt and equity it uses to finance its operations. 
+## Accounting 1
 
-- Borrowing a large amount from an individual bank is often impractical, so companies and governments issue bond securities (bonds) to the investing public instead. 
+Finally, in case of purchase of assets in the Metaverse (e.g. plots of land, buildings,…), these should be classified as intangible assets.
 
-- After bonds are issued they are traded on exchanges such as the New York Bond Exchange. 
+Any revenue or expense related to NFTs and Metaverse investments should be accounted on an accrual basis, same as the “real-life” investments (example: the rent of a building of the Metaverse that is given for rent to a third party).
 
-- The ability to sell a bond is an advantage to investors because it provides them with liquidity (the ability to convert investments to cash). 
+In case a NFT/Metaverse asset is considered as “intangible asset”, then any gain / loss on sale of investments in the virtual world of NFT and Metaverse should be accounted in the income statement, as real-life investment.
 
-- By issuing more liquid debt that investors can easily buy and sell in the bond markets, companies are able to reduce the cost of long-term borrowing. 
+All NFT-Metaverse investments shall be reviewed for impairment losses at least annually.
 
-CHARACTERISTICS OF BONDS PAYABLE REASONS WHY COMPANIES ISSUE BONDS Advantages of bonds 
+Maria Vittoria Cesareo
 
-- **Stockholders maintain control** because bondholders do not vote or share in any dividend 
+**FOR DOUBTS OR SUGGESTIONS ON THE HANDOUTS**
 
-- payments. 
+**FOR INFO ON THE TEACHING DIVISION**
 
-- **A portion of interest expense is tax deductible** which reduces the net cost of borrowing. 
+# **UR PARTNER** ~~**S**~~
 
-- The **return to shareholders can be positive** if money is borrowed at a low interest rate and invested in projects that earn a higher rate. 
-
-- Disadvantages of bonds 
-
-- **Risk of bankruptcy** exists because the bond interest payments must be paid each period 
-
-- whether the corporation earns income or incurs a loss. 
-
-- **Negative impact on cash flows** because bonds must be repaid at a specific time in the future. 
-
-- Company must be able to repay the debt or refinance it. 
-
-Maria Vittoria Cesareo 
-
-86 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-## BOND TERMINOLOGY 
-
-A bond usually requires the payment of interest over its life with repayment of principal on the maturity date. 
-
-The bond **principa** l is: 
-
-- (1) the amount a company must pay to bondholders at the maturity date 
-
-- (2) the amount used to compute the bond’s periodic cash interest payments. 
-
-- Bond principal is also called face value, par value, or maturity value. 
-
-- All bonds have a face value. The face value is usually $1,000, but it can be any amount 
-
-The **coupon rate** is the interest rate specified on a bond, and the rate used to compute the bond’s periodic cash interest payment. 
-
-A bond always specifies the coupon rate and the frequency of periodic cash interest payments. 
-
-- The coupon rate is also called the stated rate, contract rate, or nominal rate. 
-
-- The interest payments are sometimes called coupon payments. 
-
-- A bond’s coupon rate is always stated in annual terms. 
-
-- If interest is paid annually the cash interest payment is computed as the bond’s face value × the coupon rate. 
-
-- If the interest payment is made more frequently, computing the cash interest payment 
-
-requires that the coupon rate be converted to a rate per interest period before it is multiplied by the bond’s face value. 
-
-## CHARACTERISTICS OF DIFFERENT TYPES OF BONDS 
-
-Different types of bonds have different characteristics because individual investors have different risk and return preferences. 
-
-**Secured bond:** pledges a specific asset as security in case the company cannot repay the bond. ( as opposed to unsecured bond) 
-
-**Convertible bonds** : low interest rate and an unsecured status in return for the opportunity to 
-
-convert the bond into common stock at some point in the future. 
-
-**Callable bond:** feature that allows the bond issuer the option of retiring the bonds early BOND ISSUANCE PROCESS 
-
-When a company decides to issue bond securities, it prepares a **bond indenture** and a **bond** 
-
-## **prospectus.** 
-
-The **indenture** is a legal document that specifies all the details of the bond offering. 
-
-The **prospectus** is a regulatory document that is filed with the Securities and Exchange Commission. 
-
-It specifies the details of the bond offering such as: 
-
-- Maturity date 
-
-- Rate of interest to be paid 
-
-- Date of each interest payment 
-
-- Other characteristics such as if the bond is callable or convertible 
-
-- How the proceeds will be used by the company 
-
-The prospectus also contains **covenants** designed to protect the bondholders such as: 
-
-- limitations on new debt that the company might issue in the future 
-
-- limitations on the payment of dividends to shareholders 
-
-Maria Vittoria Cesareo 
-
-87 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-- requirements that the company maintain certain minimum accounting ratios, such as the current ratio or the debt-to-equity ratio. 
-
-When a bond is issued to an investor, the investor receives a **bond certificate** . 
-
-An independent party, called the **trustee** , is usually appointed to represent the bondholders. 
-
-## BOND RATING AGENCIES AND THEIR ASSESSMENTS OF DEFAULT RISK 
-
-Several agencies exist to evaluate the **bond’s default risk** (the risk the bond issuer will not be able to meet the requirements in the prospectus). 
-
-- ➢ Higher-quality bonds have a lower default risk. 
-
-- ➢ Lower-quality bonds have a higher default risk. 
-
-## REPORTING BOND TRANSACTIONS: CASH PAYMENTS 
-
-There are two types of cash payments in the bond contract 
-
-1. **Principal** : a single payment made at the end of the bond’s life. It is also called the face value, par value, or maturity value. 
-
-2. **Cash interest payments:** These payments, also called coupon payments, represent an annuity and are computed by multiplying the bond’s face value times the coupon rate. Interest payments are made quarterly, semiannually, or annually (be sure and use the interest rate per period in your calculations). 
-
-For example, consider a bond with a face value of $1,000, term of 10 years, coupon rate of 6% (annual), with interest paid semi-annually (twice a year). Compute the cash interest payment for the bond: 
-
-**==> picture [332 x 82] intentionally omitted <==**
-
-## MARKET RATE OF INTEREST 
-
-The bond market determines the price of the bonds by computing the present value of the bonds using the market rate of interest on the day the company issues the bonds. Compute the present value of the principal (a single payment) and the present value of the interest payments (an annuity) and add the two amounts together. 
-
-Investors demand a certain **rate of return** to compensate them for the risks related to the bond offering. The demanded rate of return is called the **market interest rate** (also known as the yield or effective interest rate). 
-
-Because the market rate is the interest rate investors demand on the day a bond is issued, it is the rate that should be used in computing the present value of a bond. As the market interest rates rise the price of a bond falls and vice versa. 
-
-Maria Vittoria Cesareo 
-
-88 
-
-Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-Important: Investors always will earn the market rate of return 
-
-## RELATIONSHIP BETWEEN COUPON RATE AND MARKET RATE 
-
-On the day a company issues a bond, the market interest rate will be either the same as the coupon rate, greater than the coupon rate, or less than the coupon rate. 
-
-The relationship between the market interest rate and the bond’s coupon rate determines whether the bond is issued at par, at a premium, or at a discount. 
-
-➢ When a bond’s coupon rate is less than the rate investors demand, investors will not buy the bond unless its price is reduced (i.e., a discount must be provided). 
-
-➢ When a bond’s coupon rate is more than investors demand, investors will be willing to pay a premium to buy the bond. 
-
-**==> picture [358 x 94] intentionally omitted <==**
-
-## BONDS ISSUED AT PAR: 
-
-The amount of money a company receives when it sells bonds is the present value of the future cash flows associated with the bonds. 
-
-When the **market rate of interest equals the coupon rate** , the present value of the future cash flows associated with a bond always equals the bond’s face value amount. 
-
-- Remember a bond’s selling price is determined by the present value of its future cash flows, not the face value. 
-
-**==> picture [258 x 122] intentionally omitted <==**
-
-Reporting Interest Expense 
-
-• Interest expense is reported on the income statement. Because interest is related to financing activities rather than operating activities, it is normally not included in operating expenses on the income statement. 
-
-- Interest expense is typically reported just below “ **income from operations** ” on the income statement. 
-
-Maria Vittoria Cesareo 
-
-89 
-
-Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-BONDS ISSUED AT A DISCOUNT 
-
-Bonds sell at a discount when the **market interest rate is greater than the coupon rate** . 
-
-There are two acceptable **methods for recording** a bond that is sold at a discount: 
-
-- Explicitly keep track of the bond discount by incorporating it into the journal entries 
-
-• Implicitly keep track of the bond discount but do not incorporate it into the journal entries. Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical. 
-
-**==> picture [366 x 112] intentionally omitted <==**
-
-Reporting Interest Expense on Bonds Issued at a Discount: **Using Effective-Interest Amortization** (with Discount Account) 
-
-Under the effective-interest amortization method, a company computes interest expense in a given period by multiplying the bonds payable book value times the market rate of interest on the date of issuance. 
-
-**==> picture [286 x 152] intentionally omitted <==**
-
-BONDS ISSUED AT A PREMIUM 
-
-When the **market interest rate is less than the bond’s coupon rate** , the bonds sell at a premium 
-
-Accounting for bonds issued at a premium is similar to accounting for bonds issued at a discount. 
-
-Maria Vittoria Cesareo 
-
-90 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-Companies can explicitly use a bond premium account in their journal entries or implicitly keep track of the premium amount 
-
-**==> picture [292 x 141] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-.<br>**----- End of picture text -----**<br>
-
-
-Reporting Interest Expense on Bonds Issued at a Premium: **Using Effective-Interest Amortization** (with Premium Account) 
-
-Under the effective-interest amortization method, a company compute interest expense in  a given period by multiplying the bonds payable book value times the market rate of interest on the date of issuance. 
-
-**==> picture [268 x 140] intentionally omitted <==**
-
-JOURNAL ENTRY TO RETIRE THE BONDS AT MATURITY 
-
-Regardless of whether a company issues bonds at par, at a discount, or at a premium, the company will enter the same journal entry when it retires the bonds at maturity. 
-
-## ZERO COUPON BONDS 
-
-Zero coupon bonds do not pay periodic cash interest. Investors will price the bond so that they earn the market rate of interest. 
-
-Because there is no periodic cash paid for interest: 
-
-PV of the Principal = Issue Price of the Bonds Because there is no periodic cash paid for interest: PV of the Principal = Issue Price of the Bonds 
-
-➢ A bond with a zero coupon interest rate is simply a deeply discounted bond that will sell for substantially less than the amount due at maturity (its face value). 
-
-Maria Vittoria Cesareo 
-
-91 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-➢ Accounting for a zero coupon bond is no different than accounting for other bonds issued at a discount. 
-
-However, the amount of the discount is much larger. 
-
-REPORTING INTEREST EXPENSE USING STRAIGHT-LINE AMORTIZATION 
-
-➢ GAAP requires that companies use the **effective-interest method to** amortize bond discounts and bond premiums. GAAP permits companies to use **straight-line amortization** when results do not materially differ from results computed using the effective-interest method. 
-
-➢ With straight-line amortization, a company takes the total amount of the discount or the premium at issuance, divides it by the number of periods in the bond’s life, and amortizes that amount each period. 
-
-## EARLY RETIREMENT OF BONDS 
-
-Some bonds have a **call feature** that allows the issuing company to call (retire) the bonds early. A call feature most often requires the issuing company to pay investors an amount greater than the bond’s face value to retire the bonds before their maturity date. The amount often is stated as a percentage of the bond’s face value. 
-
-Book Value > Cash Paid to Retire Bonds = GAIN 
-
-Book Value < Cash Paid to Retire Bonds = LOSS 
-
-In some cases, a company may elect to retire bonds early by purchasing them on the open market, just as an investor would. This approach is necessary when the bonds do not have a call feature. Even when the bonds have a call feature, retiring them by purchasing them on the open market is attractive when the cost of doing so is less than the cost of paying the call premium. 
-
-## JOURNAL ENTRY TO RETIRE BONDS 
-
-**==> picture [326 x 144] intentionally omitted <==**
-
-Maria Vittoria Cesareo 
-
-92 
-
-PRICE OF BONDS VERSUS MARKET INTEREST RATES Bond prices move in the opposite direction of interest rates. 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-If interest rates go up, bond prices fall, and vice versa. 
-
-If interest rates go up enough, a company may decide that it makes good economic sense to retire its bonds early by purchasing them on the open market. 
-
-## ACCOUNTING FOR BONDS WITHOUT A DISCOUNT ACCOUNT OR PREMIUM ACCOUNT 
-
-For financial reporting purposes, it is not necessary to use a discount (or premium) account when recording the sale of bonds. 
-
-There are two acceptable methods for recording a bond that is sold at a discount; both result in the same dollar value being reported on a company’s balance sheet. The first method explicitly keeps track of the bond discount by incorporating it into the journal entries. 
-
-The second method implicitly keeps track of the bond discount but does not incorporate it into the journal entries. Regardless of the method used, the dollar value reported on the balance sheet (the bond payable book value) is identical. 
-
-The entries above show the journal entries for a bond issued at a discount without using the discount account. 
-
-## **ADVANCED TOPICS** 
-
-## FOREIGN CURRENCY EXCHANGES 
-
-Many modern companies spread their activities outside the country of incorporation. Indeed, not all transactions occur among firms that use the same currency for reporting purposes. 
-
-The “foreign currency” problem arises every time the value of the transaction is not expressed in the “functional currency”, that is, the currency of the place where the company is located, due to the Monetary Unit Assumption (each business entity accounts for and reports its financial results primarily in terms of the national monetary unit). 
-
-Financial statements need to be presented using only one currency, so what to do with items expressed in foreign currency? 
-
-ALL ITEMS EXPRESSED IN A FOREIGN CURRENCY SHALL BE CONVERTED USING THE EXCHANGE RATE OF THE DAY ON WHICH THE TRANSACTION OCCURS. 
-
-Example 1 
-
-ABC purchases some equipment from TYU Ltd, an American company. 
-
-The purchase price is 1.000 USD. 
-
-è Foreign currency issue After the transaction, ABC: 
-
-- Owns equipment purchased in USD 
-
-- Needs to pay TYU Ltd an amount expressed in USD 
-
-ABC SHALL CONVERT THE USD AMOUNT INTO EURO. 
-
-Maria Vittoria Cesareo 
-
-93 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-Example 2 
-
-ABC sells its finished goods to GHJ Plc, a Japanese company. 
-
-The sale price agreed in the contract is 650 Euros. 
-
-èNo foreign currency issue 
-
-Although the client is a Japanese company, ABC is entitled to receive a consideration expressed in Euro, so the foreign currency conversion issue stays on the client. 
-
-Broadly speaking, when a purchase / sale transaction occurs, two types of items change in a journal entry: 
-
-- One MONETARY item (M) 
-
-- One NON-MONETARY item (NM). 
-
-The “ **MONETARY” item** is either (i) cash or (ii) a receivable or payable that will sooner or later be collected or paid (� it will turn into cash). 
-
-The **“NON-MONETARY” item** is either (i) an asset, (ii) a revenue, or (iii) an expense. Examples. 
-
-1. ABC purchases for cash raw materials � “inventory” is NM, and “cash” is M 
-
-2. ABC sells on credit finished goods � “accounts receivable” is M, and “sales revenues” is NM 
-
-3. ABC receives an invoice from a foreign lawyer for a consultancy service “service expense” is NM, and “accounts payable” is M 
-
-On the day of the transaction, both the M and the NM items shall be converted at the exchange rate of the day the transaction occurs. 
-
-From that moment on: 
-
-- The balance of the NM item remains the same for currency purposes; 
-
-- The balance of the M item, if the consideration is not settled on the date of the transaction, requires further adjustments 
-
-Example. On May 5, 2021, ABC purchases some equipment from TYU Ltd, an American 
-
-company, paying cash. The purchase price is USD 1,000. The exchange rate is 1 USD = 0.9 Euro. How do we account for the transaction? 
-
-The value of the transaction, expressed in Euro at the date of purchase, is 900. ABC records the transaction as follows: 
-
-**==> picture [410 x 50] intentionally omitted <==**
-
-From this moment on, the “Equipment” account (NM item) doesn’t require any further adjustment for changes in the exchange rate. It will be depreciated, impaired, sold, etc., as if purchased in Euro. 
-
-Moreover, because the transaction is settled for cash at the date of purchase, there are no other effects on the F/S of the company. 
-
-Maria Vittoria Cesareo 
-
-94 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-What happens if the transaction is settled on a different date? 
-
-If a transaction is not settled on the day in which it occurs, two are the possible cases: 1) **The transaction is settled during the same accounting period in which it occurs** . In these cases: 
-
-- Initially, the company records the transaction using the spot exchange rate between the functional currency and the foreign currency at the date of the transaction; 
-
-- then, when the consideration is settled, the company accounts for it using the spot exchange rate at the settlement date. The difference which may arise is recorded as “realized foreign exchange gain” (or loss). These gains or losses are Income Statement items. 
-
-If a transaction is not settled on the day in which it occurs, two are the possible cases: 
-
-## 2 **) The transaction is NOT settled during the same accounting period in which it occurs but will be settled in the future** . 
-
-In these cases: 
-
-- Initially, the company records the transaction using the spot exchange rate between the functional currency and the foreign currency at the date of the transaction; 
-
-- then, at the end of the accounting period, the balance of the monetary item shall be adjusted using the spot exchange rate at the closing date. The difference that may arise is recorded as “unrealized foreign exchange gain” (or loss). These gains or losses are Income Statement items. 
-
-- In the subsequent period, assuming the balance due is settled, any other difference is accounted for as “realized foreign exchange gain” (or loss). 
-
-The distinction between “realized” and “unrealized” gains is crucial for tax and legal purposes. The consequences from a tax standpoint will be discussed in the second semester. From a legal standpoint, according to the legislation of several countries (like Italy), 
-
-- IF a company achieves a NET PROFIT at the end of the year, AND 
-
-- IF in the income statement UNREALIZED NET foreign exchange gains (= if unrealized gains 
-
-are > unrealized losses) are accounted for, 
-
-Then it is forbidden to pay dividends to shareholders for an amount corresponding to the unrealized net foreign exchange gains. 
-
-## VALUE ADDED TAX (VAT) 
-
-Taxes are a source of cash for the Governments to finance the expenses of their countries, like public health, education, sport, etc. 
-
-Taxes may be divided into two broad categories: DIRECT taxes and INDIRECT taxes. DIRECT taxes apply on actual income/wealth. 
-
-INDIRECT taxes are applied every time a taxpayer shows “an ability to pay” which is not “directly” linked to incomes/wealth. 
-
-At a European level (1), the most important indirect tax is obviously VALUE ADDED TAX – VAT. The rules for the VAT application are set out by EU Directives and are consequently applied in (slightly) different ways in all EU Nations (2). 
-
-Maria Vittoria Cesareo 
-
-95 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-1. VAT is applied every time goods are sold, or services are rendered. 
-
-2. **VAT rates** are different not only across nations, but each country may apply different rates. In this set of slides, we will reference a 20% rate. 
-
-3. Some business activities are **exempt from VAT** (example: a medical examination). Export of goods is out of scope for VAT purposes. So in these cases, VAT is 0%. 
-
-4. The seller of goods / provider of service is required to collect the VAT amount from the client. The “official” document that is issued by the seller/provider, also for VAT purposes, is the **invoice** (tax receipt for B2C shops). 
-
-Example. Francesco is a plumber. Francesco is called for an emergency on May 8. Francesco fixes the pipe and then issues an invoice: total Euro 100 plus 20 VAT and so for a total of 120, that the client pays to Francesco. 
-
-4. The seller / provider is required to **pay periodically** (either every month or every trimester) to the Governmental Agency the VAT collected from the clients. 
-
-Example Francesco shall transfer to the Italian State 20 Euro within June 16. 
-
-5.For the above reasons, usually in the balance sheet of a European company you may find **VAT payables;** these payables are owed in the short-term period to the Government agency of the state where the company operates, due to the business activity of the company (sale of products / services). 
-
-According to the law, VAT payment shall rest on the final consumer: this is the transferee of goods / beneficiary of a service. 
-
-Example. Plumber Francesco’s client paid 20 euro as VAT tax. 
-
-7. But what happens **if the transferee/beneficiary is NOT the final consumer** , but instead it is “in the middle” of the production process chain? 
-
-Example. A lumberjack cuts trees and sells trees to a paper factory for € 10. The paper factory produces notebooks. Bocconi students purchase notebooks for € 80. 
-
-In this example we have (A) the lumberjack selling to the paper factory, and then (B) the paper factory selling to Bocconi students. 
-
-8. Every time the transferee/beneficiary is not the final consumer, the transferee/beneficiary is entitled to record a **VAT receivable** corresponding to the amount of VAT paid to the supplier. Then, the VAT receivable and VAT payable can be offset when the company makes the VAT liquidation. VAT liquidation is the procedure of netting the VAT receivable and the VAT payable before making any final payment. 
-
-Example: The lumberjack issues an invoice for total 12 (10 + 2 VAT). The paper factory pays 12 and records 10 as expense, 2 as VAT receivable. 
-
-Then the paper factory sells notebooks for 96 (DR cash 96, CR 80 sales revenues + CR 16 VAT payable). The “VALUE ADDED” by the paper factory is 70 (that is 80 – 10). So the total “TAX ON VALUE ADDED” shall be 14 (70 * 20%). 
-
-Using the mechanism of “VAT receivable” and “VAT payable”, the paper factory is actually going to pay to the Governmental Agency € 14, given by 16 (VAT payable) – 2 (VAT receivable). 
-
-9. In some cases, VAT laws don’t allow the recovery of the VAT paid, also if the company is not the final consumer. This is called non-deductible VAT and it is accounted as expense (unless it refers to a long-lived asset and so it may be capitalized as direct expense). 
-
-Maria Vittoria Cesareo 
-
-96 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-## CRITICAL POINTS ABOUT VAT 
-
-VAT may give rise to many important points, some of which as follows: 
-
-1) VAT can be critical for **financial reasons** (1 of 2). The “VAT payable” is owed to the State when the invoice is issued, NOT when the seller/provider collects the amount from the beneficiary. This means that if you sell products, and your clients don’t pay, (i) you don’t owe any more goods to the client because you sold them, (ii) you don’t have cash for business activity and also (iii) you must pay to the State the 20% VAT that the client didn’t pay! 
-
-2) VAT can be critical for **financial reasons** (2 of 2). VAT on export doesn’t apply (so if your client is abroad, you do not ask for the VAT payment). In some specific cases, VAT rates could be lower than usual. Consequently, there are many companies which are structurally in a VAT credit position. Nevertheless, collecting the VAT receivable from the Government is not so easy…VAT payable is always a short-term payable, but a VAT receivable might turn into a medium/long term receivable! This has consequences on the working capital management, and it is one of the most important challenges of CFOs. 
-
-3) VAT is critical for **frauds** . Often frauds can occur in the field of VAT. A very powerful instrument to reduce VAT frauds is the electronic invoice. The rules for electronic invoicing are basically the following: the seller/provider shall send the e-invoice to the Governmental Department System which, like a “postman”, sends the e-invoice to the beneficiary. According to this procedure, the Tax Authority is aware in real time of both (i) the amount due as VAT payable by the seller and (ii) the VAT receivable accrued by the beneficiary. Timely controls are very helpful against VAT crimes. Italian tax law on electronic invoices is (unbelievably) quite innovative. 
-
-## CAROUSEL FRAUD 
-
-- Carousel fraud is an **illegal scheme** tied to VAT evasion, exploiting the exemption rules for transactions between EU member states. 
-
-   - Financial Damage=> Billions lost annually due to unpaid VAT 
-
-   - Economic Distortion => Undermines fair competition with artificially low prices 
-
-- It is based on the **Intra-Community VAT rules** , according to which transactions are VAT-free 
-
-on cross-border transactions, but must be paid when goods are sold locally 
-
-- In a simplified version, the fraudulent scheme is as follows. The cornerstone of the carousel 
-
-fraud is a company, usually nicknamed Missing Trader and located in a EU country, which: 
-
-   - First, buys goods VAT-free 
-
-   - Then, resells the same goods for a lower price, but with VAT 
-
-   - The fraud is the following: VAT isn’t remitted to the Government, Missing Trader is wound up, the Directors and shareholders disappear with money; goods costing less then their actual value circulate on the market and create a distortion. 
-
-- Example 
-
-   - Missing Trader (Italian) buys goods from Germany, € 120 (no VAT) 
-
-   - Missing Trader resells the same goods, € 110 + VAT € 24,2 = € 134,2 
-
-   - Missing Trader should pay € 24,2 to the Government but disappears stealing the money 
-
-   - Goods worth € 120 circulate at a price of € 110 creating a distortion 
-
-Carousel Fraud: The only merry-go-round where the taxman doesn’t get a ticket! 
-
-Maria Vittoria Cesareo 
-
-97 
-
-Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-## CRYPTOCURRENCIES, NFTS AND METAVERSE 
-
-The world is changing. Quickly. Accounting is the system used to record transaction, events, and to measure the economic and financial performance of a company. 
-
-Hence the financial statements of a company must reflect all the events that affect the company itself. 
-
-Nowadays, Accounting (also) is facing the complexity of cryptoassets, among which there are NFTs and cryptocurrencies, and the challenge of Metaverse. 
-
-How should a company account for cryptoassets in financial statements? 
-
-Italian **GAAP** do not provide any information about cryptocurrencies. 
-
-Instead, **IFRIC** (one of the bodies competent for IFRS preparation and interpretation) released two papers in 2019 concerning the accounting policy for cryptocurrencies. According to the IFRIC: 
-
-• A **cryptocurrency** is ‘a digital or virtual currency that uses cryptography for security. A cryptocurrency is difficult to counterfeit because of this security feature. Many 
-
-cryptocurrencies are decentralized systems based on blockchain technology, a distributed 
-
-ledger enforced by a disparate network of computers… [a cryptocurrency] is not issued by any central authority, rendering it theoretically immune to government interference or manipulation. 
-
-• an entity does not account for holdings of cryptocurrencies as cash or another financial asset. This is because cryptocurrencies do not currently have the characteristics of cash, nor do they meet the definition of a financial asset. 
-
-• If an entity holds cryptocurrencies for sale in the ordinary course of business, those holdings of cryptocurrencies would meet the definition of inventories. 
-
-• Otherwise, if a company is not a crypto-trader, cryptocurrencies meet the definition of an intangible asset. These assets are usually considered to have indefinite life (impairment test at least annually). 
-
-In both cases, the book value of the cryptoasset at the closing date of the financial statements shall not be superior than their Net Realizable Value / Fair Value. 
-
-## NFTS AND METAVERSE 
-
-A **non-fungible token (NFT)** is a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify authenticity and ownership. 
-
-Neither Italian GAAP, nor IAS/IFRS provide any guidance about accounting for NFTs. 
-
-Nevertheless, analogically to the cryptocurrencies, it is believed that the best classification in the financial statements of a company for NFTs may be either 
-
-- **Inventories** , if the company is a trader of NFTs 
-
-- **Intangible asset** , if the NFT is purchased as investment, with indefinite life. 
-
-Maria Vittoria Cesareo 
-
-98 
-
-## Accounting 1 
-
-**==> picture [39 x 39] intentionally omitted <==**
-
-Finally, in case of purchase of assets in the Metaverse (e.g. plots of land, buildings,…), these should be classified as intangible assets. 
-
-Any revenue or expense related to NFTs and Metaverse investments should be accounted on an accrual basis, same as the “real-life” investments (example: the rent of a building of the Metaverse that is given for rent to a third party). 
-
-In case a NFT/Metaverse asset is considered as “intangible asset”, then any gain / loss on sale of investments in the virtual world of NFT and Metaverse should be accounted in the income statement, as real-life investment. 
-
-All NFT-Metaverse investments shall be reviewed for impairment losses at least annually. 
-
-Maria Vittoria Cesareo 
-
-99 
-
-**FOR DOUBTS OR SUGGESTIONS ON THE HANDOUTS** 
-
-**==> picture [596 x 172] intentionally omitted <==**
-
-**==> picture [260 x 25] intentionally omitted <==**
-
-**==> picture [228 x 67] intentionally omitted <==**
-
-**==> picture [163 x 25] intentionally omitted <==**
-
-**==> picture [226 x 67] intentionally omitted <==**
-
-**FOR INFO ON THE TEACHING DIVISION** 
-
-**==> picture [596 x 186] intentionally omitted <==**
-
-**==> picture [205 x 24] intentionally omitted <==**
-
-**==> picture [248 x 67] intentionally omitted <==**
-
-**==> picture [149 x 25] intentionally omitted <==**
-
-**==> picture [210 x 67] intentionally omitted <==**
-
-TEACHING DIVISION 
-
-**==> picture [383 x 330] intentionally omitted <==**
-
-# ~~**O**~~ **UR PARTNER** ~~**S**~~ 
-
-**==> picture [199 x 128] intentionally omitted <==**
-
-**==> picture [227 x 135] intentionally omitted <==**
-
-**==> picture [376 x 90] intentionally omitted <==**
-
-**==> picture [322 x 85] intentionally omitted <==**
-
+## Related Notes
+- [[BLAB ACC SHEET CHAPTER 4]]
+- [[BLAB ACC SHEET CHAPTER 2]]
+- [[BLAB ACC SHEET CHAPTER 3]]

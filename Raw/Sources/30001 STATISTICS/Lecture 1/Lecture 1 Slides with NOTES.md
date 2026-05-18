@@ -1,434 +1,345 @@
-**==> picture [42 x 165] intentionally omitted <==**
+---
+course: "Statistics"
+course_code: "30001"
+tags:
+  - "source"
+  - course_30001
+Title: "Statistics 30001 Instructor: Pieralberto Guarniero (Pier) Dept. Decision Sciences"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Statistics 30001 Instructor: Pieralberto Guarniero (Pier) Dept. Decision Sciences** 
+# Statistics 30001 Instructor: Pieralberto Guarniero (Pier) Dept. Decision Sciences
 
-**Material for students of course 30001 / Bocconi University. All Rights Reserved. Distribution - including via the web - without permission is prohibited.** 
+## Course Introduction: Objectives
 
-## **Course Introduction: Objectives** 
+The course introduces:
 
-The course introduces: 
+- Techniques to properly **describe** and **summarize** different types of data, and to study their **relationships**
 
- Techniques to properly **describe** and **summarize** different types of data, and to study their **relationships** 
+- **Sampling** and **statistical inference** , with a focus on the potential **risks** associated to inference. The course assumes that students have a basic understanding of **probability** theory and **random variables** , which are covered in the course Mathematics Module 2 (Applied) - code 30063.
 
- **Sampling** and **statistical inference** , with a focus on the potential **risks** associated to inference. The course assumes that students have a basic understanding of **probability** theory and **random variables** , which are covered in the course Mathematics Module 2 (Applied) - code 30063. 
+The use of these tools in practice is illustrated through applications based both on **aggregated data** and on **datasets** . In the latter case, we will use the R statistical software and in particular the integrated development environment **RStudio** . Besides some basic functions, we will use the package **UBStats** developed exclusively for the course. The course heavily relies on the software, that will be also used during the exam. It is therefore essential to have both R and RStudio installed on your laptops both to attend the lessons and to take the exam.
 
-The use of these tools in practice is illustrated through applications based both on **aggregated data** and on **datasets** . In the latter case, we will use the R statistical software and in particular the integrated development environment **RStudio** . Besides some basic functions, we will use the package **UBStats** developed exclusively for the course. The course heavily relies on the software, that will be also used during the exam. It is therefore essential to have both R and RStudio installed on your laptops both to attend the lessons and to take the exam. 
+## Course Introduction: Lectures
 
-**2** 
+## The course is structured as follows:
 
-## **Course Introduction: Lectures** 
+- 28 lectures: introduction of the fundamental concepts of statistical data analysis and presentation of the main functions available in RStudio.
 
-## **The course is structured as follows:** 
+- 10 practical sessions (scheduled once per week): application of the techniques taught in the lectures by presenting problems to be solved either manually and/or using R tool. - Online meetings supporting students’ self -study;
+- Q&A on exercises assigned on a weekly basis and on the application of the topics introduced during lectures and practical sessions. The schedule of the meetings will be posted on Bboard page common to all the classes **(30001 statistics - material exams)**
 
-- 28 lectures: introduction of the fundamental concepts of statistical data analysis and presentation of the main functions available in RStudio. 
+## Teaching materials
 
- 10 practical sessions (scheduled once per week): application of the techniques taught in the lectures by presenting problems to be solved either manually and/or using R tool.  Online meetings supporting students’ self -study; Q&A on exercises assigned on a weekly basis and on the application of the topics introduced during lectures and practical sessions. The schedule of the meetings will be posted on Bboard page common to all the classes **(30001 statistics - material exams)** 
+- Materials common to all the classes, reference slides, specific manual on the R software, summary exercises, mock exams, past exams, Q&A, available on the Bboard page common to all the classes ( **30001 statistics - material exams)**
 
-## **Teaching materials** 
+- WE HAVE A BOOK TAILORED TO THIS COURSE!
 
-- Materials common to all the classes, reference slides, specific manual on the R software, summary exercises, mock exams, past exams, Q&A, available on the Bboard page common to all the classes ( **30001 statistics - material exams)** 
+## Course Introduction: Exams
 
-- WE HAVE A BOOK TAILORED TO THIS COURSE! 
+**All the students can take the exam in two ways:**
 
-**3** 
+- 2 midterms (1 hour; graded with 31/30 points maximum). Each midterm is passed with  a grade of 15 or higher. If both midterms are passed, the final grade is the average of the two achieved grades. To pass the overall exam, the final grade must be at least 18.
 
-## **Course Introduction: Exams** 
+- 1 general exam (2 hours; graded with 31/30 points maximum). The exam is passed with a grade of 18 or higher
 
-**All the students can take the exam in two ways:** 
+**All exams are closed book (you can use the R manual only) and involve**
 
- 2 midterms (1 hour; graded with 31/30 points maximum). Each midterm is passed with  a grade of 15 or higher. If both midterms are passed, the final grade is the average of the two achieved grades. To pass the overall exam, the final grade must be at least 18. 
+- Questions on theoretical aspects (definitions, proofs, properties of statistical tools)
 
-- 1 general exam (2 hours; graded with 31/30 points maximum). The exam is passed with a grade of 18 or higher 
+- Traditional exercises based on summaries of data (to solve manually - calculator or R) - Questions related to the analysis of data to be answered using Rstudio, which should be installed **on your laptop** before the exam (Please be sure that the software is properly set up and functioning ahead of time)
 
-**All exams are closed book (you can use the R manual only) and involve** 
+Students attending at least the 75% of the lessons both in the first and in the second part of the course and who take the exam in **January or February** will get 1 point added to their final grade (Please note that such additional point does not contribute to the laude)
 
- Questions on theoretical aspects (definitions, proofs, properties of statistical tools) 
+## Workflow suggested by Pier
 
- Traditional exercises based on summaries of data (to solve manually - calculator or R)  Questions related to the analysis of data to be answered using Rstudio, which should be installed **on your laptop** before the exam (Please be sure that the software is properly set up and functioning ahead of time) 
+- Just **before class read the** (non annotated) **slides** to anticipate topics
 
-Students attending at least the 75% of the lessons both in the first and in the second part of the course and who take the exam in **January or February** will get 1 point added to their final grade (Please note that such additional point does not contribute to the laude) 
+- Attend class! And during class try and be focused, engage and ask questions, make the –
 
-**4** 
+- most of your time which is super precious!
 
-## **Workflow suggested by Pier** 
+- After class revise the annotated slides, write down doubts. Try and clarify them with your peers or ask me in the next lecture or via email.
 
-- Just **before class read the** (non annotated) **slides** to anticipate topics 
+- Try and replicate the examples, exercises and scripts.
 
-- Attend class! And during class try and be focused, engage and ask questions, make the – 
+- –
 
-- most of your time which is super precious! 
+- Attempt without looking at the solution first! the available exercises from our Bboard and from the common Bboard.
 
-- After class revise the annotated slides, write down doubts. Try and clarify them with your peers or ask me in the next lecture or via email. 
+## Main Resources for our specific adventure (Pier)
 
-- Try and replicate the examples, exercises and scripts. 
+- Annotated slides (posted after each class)
 
-- – 
+- Exercises sheets with solutions
 
-- Attempt without looking at the solution first! the available exercises from our Bboard and from the common Bboard. 
+- Scripts from class (posted after each class)
 
-**5** 
+- R Videos
 
-## **Main Resources for our specific adventure (Pier)** 
+- Past papers in the common BBoard
 
-- Annotated slides (posted after each class) 
+- Solved exercises in the common BBoard
 
-- Exercises sheets with solutions 
+## – Slides color coding specific to our class (Pier)
 
-- Scripts from class (posted after each class) 
+- **Blue slides** are fundamental concepts or information
 
-- R Videos 
+- **Red slides** are related to applications and R Studio
 
-- Past papers in the common BBoard 
+- **Green slides** are **not** optional, but imo it’s enough to read through them. They might help your intuition.
 
-- Solved exercises in the common BBoard 
+- are
 
-**6** 
+- **Gray slides optional.** They might be interesting in depth analysis, but you’ll survive without them.
 
-## **– Slides color coding specific to our class (Pier)** 
+# STATISTICS: BASIC CONCEPTS
 
-- **Blue slides** are fundamental concepts or information 
+## Decision making under uncertainty
 
-- **Red slides** are related to applications and R Studio 
+In many cases it is necessary to make decisions, evaluate scenarios, define business strategies or political actions under uncertainty.
 
-- **Green slides** are **not** optional, but imo it’s enough to read through them. They might help your intuition. 
+- '
 
-- are 
+- ~~Identify the buying habits of a company s customers~~
 
-- **Gray slides optional.** They might be interesting in depth analysis, but you’ll survive without them. 
+- Determine the most effective marketing strategy for a certain target audience
 
-**7** 
+- Identify the most profitable customers
 
-**==> picture [42 x 165] intentionally omitted <==**
+- Select the candidates to admit to a master's program
 
-# **STATISTICS: BASIC CONCEPTS** 
+- Forecast the amount of orders for the coming year
 
-**Material for students of course 30001 / Bocconi University. All Rights Reserved. Distribution - including via the web - without permission is prohibited.** 
+- Assessing the efficacy of a vaccine
 
-## **Decision making under uncertainty** 
+- Determine whether the average wages of men and women are different (gender pay gap)
 
-In many cases it is necessary to make decisions, evaluate scenarios, define business strategies or political actions under uncertainty. 
+- stimating the rate of tax evasion
 
-- ' 
+In all these cases, proper statistical analysis of the data can support decision making.
 
-- ~~Identify the buying habits of a company s customers~~ 
+## Decision making under uncertainty
 
-- Determine the most effective marketing strategy for a certain target audience 
+The statistical method encompasses all the necessary steps and procedures for processing and analyzing data to extract valuable and immediately applicable information, potentially aiding decision-making processes. - **Data collection and organization** - **Processing and analyzing data to describe and summarize their characteristics** - **Accurate and effective result description, communication and interpretation**
 
-- Identify the most profitable customers 
+- **Possible extrapolation from the obtained information, with a proper assessment of the associated risks**
 
-- Select the candidates to admit to a master's program 
+## Data collection and data preparation
 
-- Forecast the amount of orders for the coming year 
+A first, fundamental step is to define the required data concerning a specific problem, either by collecting new data or identifying existing information sources.
 
-- Assessing the efficacy of a vaccine 
+## Population and sample
 
-- Determine whether the average wages of men and women are different (gender pay gap) 
+or a Data may refer to a **population sample**
 
-- stimating the rate of tax evasion 
+- **Population** (universe): the complete set of **all** units ( _**N**_ ) of interest in a study (all EU countries, all the citizens in a country, all the customers of a company,…).
 
-In all these cases, proper statistical analysis of the data can support decision making. 
+- **Sample**: _**subset of**_ the **population** . In some cases, collecting data on the entire population may be prohibitively expensive (high cost) or difficult or even impossible. For example, when the population is very large (set of all companies operating in Europe) or not fully accessible (difficulty in identifying all individuals in the population, e.g., all customers who purchased products of a certain brand); gathering data on the entire population becomes unfeasible. In such cases, it becomes necessary or convenient to collect data only on a portion of the population, which is represented _**n**_ by a sample ( )
+*(See also: [[Lecture 5-6 Slides with NOTES#^8ppefs]])*
 
-**9** 
+## Random samples
 
-## **Decision making under uncertainty** 
+~~To ensure the representativeness of the samples, it is essential to draw them~~ **randomly.** This way, the samples accurately reflect all units in the population and avoid biases towards specific groups of subjects
 
-The statistical method encompasses all the necessary steps and procedures for processing and analyzing data to extract valuable and immediately applicable information, potentially aiding decision-making processes.  **Data collection and organization**  **Processing and analyzing data to describe and summarize their characteristics**  **Accurate and effective result description, communication and interpretation** 
+**Simple random sampling** . The sample is selected in such a way that
 
- **Possible extrapolation from the obtained information, with a proper assessment of the associated risks** 
+- Each unit is randomly and independently selected as a sample unit
 
-**10** 
+- Each unit of the population has an equal chance of
 
-## **Data collection and data preparation** 
+- being chosen
 
-A first, fundamental step is to define the required data concerning a specific problem, either by collecting new data or identifying existing information sources. 
+- All the possible samples of the same size _**n**_ have the same chance of being chosen
 
-**==> picture [856 x 274] intentionally omitted <==**
+_**N**_ = 42 _**n**_ = 5
 
-**----- Start of picture text -----**<br>
-Primary sources Secondary sources<br>Data collection Processing of primary sources<br>Observation Survey<br>Paper or electronic<br>format<br>Experiments<br>**----- End of picture text -----**<br>
+There are more sophisticated sampling schemes and methods, that are not covered in the course. The focus will be on understanding and using simple random samples.
 
+## Key definitions: observations, variables and data
 
-**11** 
+**Observation, case, or statistical unit:** entity (population unit) on which information is collected
 
-## **Population and sample** 
+**Variable:** a characteristic of interest related to the cases under study
 
-or a Data may refer to a **population sample** 
+**Data** observations made about the variable of interest measured on **(or measurements):** the cases under consideration
 
-- **Population** (universe): the complete set of **all** units ( _**N**_ ) of interest in a study (all EU countries, all the citizens in a country, all the customers of a company,…). 
+**Values (or levels):** distinct values taken by the variable
 
- **Sample** : _**subset of**_ the **population** . In some cases, collecting data on the entire population may be prohibitively expensive (high cost) or difficult or even impossible. For example, when the population is very large (set of all companies operating in Europe) or not fully accessible (difficulty in identifying all individuals in the population, e.g., all customers who purchased products of a certain brand); gathering data on the entire population becomes unfeasible. In such cases, it becomes necessary or convenient to collect data only on a portion of the population, which is represented _**n**_ by a sample ( ) 
+Data are commonly arranged in datasets, with **cases** listed in rows and **variables** represented in columns.
 
-**==> picture [180 x 135] intentionally omitted <==**
+## Datasets: examples
 
-**==> picture [114 x 137] intentionally omitted <==**
+Ease of doing business: survey of the ease of doing business in different countries worldwide
 
-**12** 
+Information on **all countries globally**
 
-## **Random samples** 
+- **Cases:** the countries - **Variables**: indicators related to the ease of doing business in each country:
 
-~~To ensure the representativeness of the samples, it is essential to draw them~~ **randomly.** This way, the samples accurately reflect all units in the population and avoid biases towards specific groups of subjects 
+- Starting or closing a business, paperwork requirements for building permits and property registration, labor regulation, access to credit, investor protection, taxation, trade, contract enforcement procedures...
 
-**Simple random sampling** . The sample is selected in such a way that 
+- **Data**: measurements on these indicators observed for each individual country
 
-- Each unit is randomly and independently selected as a sample unit 
+## Datasets: examples
 
-- Each unit of the population has an equal chance of 
+Collected data in the Ease of doing business survey (first 25 rows)
 
-   - being chosen 
+## Datasets: examples
 
-- All the possible samples of the same size _**n**_ have the same chance of being chosen 
+Loyalty cards and interviews
 
-**==> picture [160 x 183] intentionally omitted <==**
+Loyalty cards offer companies a wealth of information about customer characteristics and behaviors:
 
-_**N**_ = 42 _**n**_ = 5 
+- Upon subscription, data is collected, including gender, age, and area of residence. The loyalty card continues to provide valuable information, such as the number of visits, amount spent during a specific period, customer profitability (calculated based on spending, discounts, and marketing costs), and details of their most recent purchase.
 
-There are more sophisticated sampling schemes and methods, that are not covered in the course. The focus will be on understanding and using simple random samples. 
+- Additionally, a specific targeted analysis can be carried out on a **random sample of** customers to gather information about their satisfaction levels regarding store features, value for money, and their propensity to recommend the service.
 
-**13** 
+**Cases:** the selected clients (the sample available for the analysis) **Variables:** information gathered from the loyalty card records and from interviews to clients **Data:** actual values on the variables measured on clients within the selected sample
 
-## **Key definitions: observations, variables and data** 
+## Datasets: examples
 
-**Observation, case, or statistical unit:** entity (population unit) on which information is collected 
+Dataset (first 15 cases) created by merging information obtained directly from customers, data collected through loyalty card records, and data gathered through interviews conducted with a selected sample of customers
 
-**Variable:** a characteristic of interest related to the cases under study 
+The **values** of the surveyed variables have different **types** and characteristics!
 
-**Data** observations made about the variable of interest measured on **(or measurements):** the cases under consideration 
+## Classification of variables
 
-**Values (or levels):** distinct values taken by the variable 
+An initial classification of variables into **qualitative (categorical)** and **quantitative (numerical)** is based on the **type or nature** of the distinct values they take:
 
-Data are commonly arranged in datasets, with **cases** listed in rows and **variables** represented in columns. 
+- The values (or levels) of **qualitative** variables are **labels** indicating attributes, **group** membership, or identifying specific **categories** with distinct characteristics (gender, region of residence, level of satisfaction).
 
-**14** 
+- The values of **quantitative** variables are **numerical**
 
-## **Datasets: examples** 
+## Classification of variables
 
-Ease of doing business: survey of the ease of doing business in different countries worldwide 
+Qualitative and quantitative variables can be further classified into subcategories based on their characteristics:
 
-Information on **all countries globally** 
+## **Qualitative** variables:
 
- **Cases:** the countries  **Variables** : indicators related to the ease of doing business in each country: 
+- **Nominal** (gender, business name of firms, region of residence): the variable’s values **cannot be ordered** .
 
- Starting or closing a business, paperwork requirements for building permits and property registration, labor regulation, access to credit, investor protection, taxation, trade, contract enforcement procedures... 
+- **Ordinal** (satisfaction, level of education, positions in an organization chart, final ranking): ~~the variables~~ ’ ~~values can~~ ~~**be ordered** , but their differences cannot be quantified~~
 
- **Data** : measurements on these indicators observed for each individual country 
+- **Quantitative** variables:
 
-**15** 
+- **Discrete** data are generated by a **counting** process (number of children, number of visits to a store): the variable’s values are integers.
 
-## **Datasets: examples** 
+- **Continue** data are a **measurement** of an generated by process (amount spent, height
 
-Collected data in the Ease of doing business survey (first 25 rows) 
+- individual, income): the values can take any real numerical value
 
-**==> picture [762 x 387] intentionally omitted <==**
+Note: In some cases, numerical variables may be **collected in classes** . For example, when surveying respondents' personal income, it might be difficult for them to accurately state the precise amount, so the data might be collected in income intervals or ranges.
 
-**16** 
+## Data Types/Variables
 
-## **Datasets: examples** 
+## Variables
 
-Loyalty cards and interviews 
+**Qualitative Quantitative Nominal Ordinal Discrete Continue**
 
-Loyalty cards offer companies a wealth of information about customer characteristics and behaviors: 
+## Examples: Examples:
 
- Upon subscription, data is collected, including gender, age, and area of residence. The loyalty card continues to provide valuable information, such as the number of visits, amount spent during a specific period, customer profitability (calculated based on spending, discounts, and marketing costs), and details of their most recent purchase. 
+- **Gender** - **Satisfaction levels**
 
- Additionally, a specific targeted analysis can be carried out on a **random sample of** customers to gather information about their satisfaction levels regarding store features, value for money, and their propensity to recommend the service. 
+- - - **Payment methods Propensity to**
 
-**Cases:** the selected clients (the sample available for the analysis) **Variables:** information gathered from the loyalty card records and from interviews to clients **Data:** actual values on the variables measured on clients within the selected sample 
+- - **Region of residence recommend**
 
-**17** 
+- **Ranking Categories Categories Cannot be ordered Can be ordered**
 
-## **Datasets: examples** 
+## Examples:
 
-Dataset (first 15 cases) created by merging information obtained directly from customers, data collected through loyalty card records, and data gathered through interviews conducted with a selected sample of customers 
+**Examples: Examples:** - - **No. of purchased Amount spent products** - **Income** - **No. of children** - **Revenues Numbers Numbers Count Measurement**
 
-**==> picture [712 x 236] intentionally omitted <==**
+- **Amount spent**
 
-The **values** of the surveyed variables have different **types** and characteristics! 
+- - **Income**
 
-**18** 
+## Parameters and statistics
 
-## **Classification of variables** 
+In general, we are interested to measure specific **characteristics of a set of data** . It is important to distinguish between:
 
-An initial classification of variables into **qualitative (categorical)** and **quantitative (numerical)** is based on the **type or nature** of the distinct values they take: 
+- **Parameter**: a measure that describes (or summarizes) a characteristic of the entire **population** . For example, we may be interested in assessing the proportion of Italian women who exit the labour market after the birth of their first child, or the proportion of European companies that registered a patent, or the average turnover of Italian companies operating in a certain industry.
 
-- The values (or levels) of **qualitative** variables are **labels** indicating attributes, **group** membership, or identifying specific **categories** with distinct characteristics (gender, region of residence, level of satisfaction). 
+- **Statistic**: a measure that describes (or summarizes) a characteristic of a **sample** . For example, the proportion of respondents satisfied with a certain service, or the average number of purchase transactions within a specific period, or the average amount spent by the individuals in a sample. While our primary interest is the value of the **parameter for the entire population** , we must rely on the value calculated from the available sampled data.
 
-- The values of **quantitative** variables are **numerical** 
+##
 
-**19** 
+## Descriptive statistics and inferential statistics
 
-## **Classification of variables** 
+**Descriptive statistics** involves both graphical and numerical methods to summarize and or a . It analyze data. It can be applied to data from either the entire **population sample** includes a number of techniques for preparing, summarizing and effectively presenting data.
 
-Qualitative and quantitative variables can be further classified into subcategories based on their characteristics: 
+## Data presentation: Tables and graphs
 
-## **Qualitative** variables: 
+**Data analysis and synthesis: Summary measures, such as mean, variance, or correlation**
 
-- **Nominal** (gender, business name of firms, region of residence): the variable’s values **cannot be ordered** . 
+## Descriptive statistics and inferential statistics
 
-- **Ordinal** (satisfaction, level of education, positions in an organization chart, final ranking): ~~the variables~~ ’ ~~values can~~ ~~**be ordered** , but their differences cannot be quantified~~ 
+**Inferential statistics** involves methods used to make inferences and predictions about the population characteristics ( **parameters** ) based on information derived from sample data ( **statistics** ).
 
-- **Quantitative** variables: 
+A crucial issue of this process is to evaluate the **reliability** of such extension and the **risks** associated with using **sample** information to draw conclusions about the **entire** . **population**
 
-- **Discrete** data are generated by a **counting** process (number of children, number of visits to a store): the variable’s values are integers. 
+To accomplish this assessment, it is essential to take into account the **random mechanism** ( **probability** ) involved in the sample selection process, which leads to the inherent randomness in the fact that the available sample is just one of the many possible samples that could have been drawn from the population.
 
-- **Continue** data are a **measurement** of an generated by process (amount spent, height 
+# INTRODUCTION TO R & RSTUDIO (Handbook on the use of R)
 
-- individual, income): the values can take any real numerical value 
+## R tool: structure
 
-Note: In some cases, numerical variables may be **collected in classes** . For example, when surveying respondents' personal income, it might be difficult for them to accurately state the precise amount, so the data might be collected in income intervals or ranges. 
+**R** is a programming language designed specifically for data manipulation, statistical analysis and graphical representation.
 
-**20** 
+It comes with an extensive collection of _**packages**_ (sets of functions) that come preinstalled with the basic version of R or can be accessed after installation.
 
-## **Data Types/Variables** 
+Data can be created from scratch in R, as well as imported from various sources (from hard disk or the web).
 
-## **Variables** 
+The results of data processing (data, graphs, functions) can be printed, or saved as objects in R. These objects can then be further analyzed, manipulated, or saved on hard disks for future use.
 
-**Qualitative Quantitative Nominal Ordinal Discrete Continue** 
+**RStudio** is an _integrated_ development environment (IDE)  for R. RStudio significantly simplifies the way users can interact with R and enhances the overall R programming experience.
 
-## **Examples: Examples:** 
+## Installation
 
-- **Gender** • **Satisfaction levels** 
+## To install R on your laptop, follow these instructions:
 
-- • • **Payment methods Propensity to** 
+- Download from the R website (https://cran.r-project.org/) the executable file (.exe or .pkg) for the latest version of the R software for your operating system. For Windows, download from https://cran.r-project.org/bin/windows/base/ or for macOS download from https://cran.r-project.org/bin/macosx/base/) and run it.
 
-- • **Region of residence recommend** 
+- Follow the installation instructions, accepting all default options.
 
-• **Ranking Categories Categories Cannot be ordered Can be ordered** 
+**To install Rstudio, follow these instructions (also available on Bboard).**
 
-## **Examples:** 
+- Download from the RStudio website (https://rstudio.com/products/rstudio/download/) the executable file (.exe or .pkg) for the latest version of **Rstudio Desktop** and run it.
 
-**Examples: Examples:** • • **No. of purchased Amount spent products** • **Income** • **No. of children** • **Revenues Numbers Numbers Count Measurement** 
+- Follow the installation instructions, accepting all default options.
 
-- **Amount spent** 
+## Panes in RStudio
 
-- • **Income** 
+## When you start RStudio, three panes typically open:
 
-**21** 
+**Information about the R version being used Environment/History (this is the previous version) Console Files/Plots/Packages/ Help/Viewer**
 
-## **Parameters and statistics** 
+## Panes in RStudio
 
-In general, we are interested to measure specific **characteristics of a set of data** . It is important to distinguish between: 
+**Console**: execution pane. It is the interactive part of RStudio, where you can directly type and execute R commands. It allows you to interact with R in real-time and to see the results of your commands immediately. It reports submitted commands, provides information on the outcome of processing (reporting any errors), and, if required, displays the output. It is possible to work interactively and type commands directly into the console, but it is definitely better to collect them in a **script**
 
- **Parameter** : a measure that describes (or summarizes) a characteristic of the entire **population** . For example, we may be interested in assessing the proportion of Italian women who exit the labour market after the birth of their first child, or the proportion of European companies that registered a patent, or the average turnover of Italian companies operating in a certain industry. 
+## Panes in RStudio
 
- **Statistic** : a measure that describes (or summarizes) a characteristic of a **sample** . For example, the proportion of respondents satisfied with a certain service, or the average number of purchase transactions within a specific period, or the average amount spent by the individuals in a sample. While our primary interest is the value of the **parameter for the entire population** , we must rely on the value calculated from the available sampled data. 
+**Environment/History:** In _**Environment**_ information is displayed on the R objects, variables, and data currently loaded into the R workspace during a session.
 
-**22** 
+_**History**_ keeps track of all R commands you have executed in the Console during a session, making it easy to recall and reuse previous commands.
 
-## 
+## Panes in RStudio
 
-**==> picture [149 x 17] intentionally omitted <==**
+**Files/Plots/Packages/ Help/Viewer**: **multipurpose** pane showing the content of a directory on disk ( _**Files**_ ), any plots obtained during the session ( _**Plots**_ ), The loaded and available packages ( _**Packages**_ ; from this window it is also possible to install packages), and _**Help**_ pages regarding functions or packages (if required)
 
-**==> picture [953 x 433] intentionally omitted <==**
+## Panes in RStudio
 
-## **Descriptive statistics and inferential statistics** 
+## **from the** _**File**_ **Source** window. **Selecting NewFile|R Script menu opens the pane,** which can also be opened when opening ( **Open File** item on the _**File**_ menu) a previously saved R script
 
-**Descriptive statistics** involves both graphical and numerical methods to summarize and or a . It analyze data. It can be applied to data from either the entire **population sample** includes a number of techniques for preparing, summarizing and effectively presenting data. 
+In the **Source** pane you can write and edit R scripts. R scripts are a collection of commands written in the R programming language. To execute commands in the script, you must send them to the **Console** by selecting the portion of code to execute and pressing Enter or by clicking on the **Run** button or by placing the cursor at the end of a command and pressing Enter.
 
-## **Data presentation: Tables and graphs** 
+**Scripts can be saved using the Save or Save as options on the** _**File**_ **menu.**
 
-**==> picture [81 x 44] intentionally omitted <==**
-
-**==> picture [97 x 56] intentionally omitted <==**
-
-**==> picture [129 x 61] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-2 5 0<br>2 0 0<br>15 0<br>10 0<br>5 0<br>2 0 3 0 4 0 5 0 6 0 7 0<br>**----- End of picture text -----**<br>
-
-
-**Data analysis and synthesis: Summary measures, such as mean, variance, or correlation** 
-
-**23** 
-
-## **Descriptive statistics and inferential statistics** 
-
-**Inferential statistics** involves methods used to make inferences and predictions about the population characteristics ( **parameters** ) based on information derived from sample data ( **statistics** ). 
-
-A crucial issue of this process is to evaluate the **reliability** of such extension and the **risks** associated with using **sample** information to draw conclusions about the **entire** . **population** 
-
-To accomplish this assessment, it is essential to take into account the **random mechanism** ( **probability** ) involved in the sample selection process, which leads to the inherent randomness in the fact that the available sample is just one of the many possible samples that could have been drawn from the population. 
-
-**24** 
-
-**==> picture [42 x 165] intentionally omitted <==**
-
-# **INTRODUCTION TO R & RSTUDIO (Handbook on the use of R)** 
-
-**Material for students of course 30001 / Bocconi University. All Rights Reserved. Distribution - including via the web - without permission is prohibited.** 
-
-## **R tool: structure** 
-
-**R** is a programming language designed specifically for data manipulation, statistical analysis and graphical representation. 
-
-It comes with an extensive collection of _**packages**_ (sets of functions) that come preinstalled with the basic version of R or can be accessed after installation. 
-
-Data can be created from scratch in R, as well as imported from various sources (from hard disk or the web). 
-
-The results of data processing (data, graphs, functions) can be printed, or saved as objects in R. These objects can then be further analyzed, manipulated, or saved on hard disks for future use. 
-
-**RStudio** is an _integrated_ development environment (IDE)  for R. RStudio significantly simplifies the way users can interact with R and enhances the overall R programming experience. 
-
-**26** 
-
-## **Installation** 
-
-## **To install R on your laptop, follow these instructions:** 
-
-- Download from the R website (https://cran.r-project.org/) the executable file (.exe or .pkg) for the latest version of the R software for your operating system. For Windows, download from https://cran.r-project.org/bin/windows/base/ or for macOS download from https://cran.r-project.org/bin/macosx/base/) and run it. 
-
-- Follow the installation instructions, accepting all default options. 
-
-**To install Rstudio, follow these instructions (also available on Bboard).** 
-
-- Download from the RStudio website (https://rstudio.com/products/rstudio/download/) the executable file (.exe or .pkg) for the latest version of **Rstudio Desktop** and run it. 
-
-- Follow the installation instructions, accepting all default options. 
-
-**27** 
-
-## **Panes in RStudio** 
-
-## When you start RStudio, three panes typically open: 
-
-**Information about the R version being used Environment/History (this is the previous version) Console Files/Plots/Packages/ Help/Viewer** 
-
-**28** 
-
-## **Panes in RStudio** 
-
-**==> picture [611 x 330] intentionally omitted <==**
-
-**Console** : execution pane. It is the interactive part of RStudio, where you can directly type and execute R commands. It allows you to interact with R in real-time and to see the results of your commands immediately. It reports submitted commands, provides information on the outcome of processing (reporting any errors), and, if required, displays the output. It is possible to work interactively and type commands directly into the console, but it is definitely better to collect them in a **script** 
-
-**29** 
-
-## **Panes in RStudio** 
-
-**==> picture [610 x 330] intentionally omitted <==**
-
-**Environment/History:** In _**Environment**_ information is displayed on the R objects, variables, and data currently loaded into the R workspace during a session. 
-
-_**History**_ keeps track of all R commands you have executed in the Console during a session, making it easy to recall and reuse previous commands. 
-
-**30** 
-
-## **Panes in RStudio** 
-
-**==> picture [610 x 330] intentionally omitted <==**
-
-**Files/Plots/Packages/ Help/Viewer** : **multipurpose** pane showing the content of a directory on disk ( _**Files**_ ), any plots obtained during the session ( _**Plots**_ ), The loaded and available packages ( _**Packages**_ ; from this window it is also possible to install packages), and _**Help**_ pages regarding functions or packages (if required) 
-
-**31** 
-
-## **Panes in RStudio** 
-
-## **from the** _**File**_ **Source** window. **Selecting NewFile|R Script menu opens the pane,** which can also be opened when opening ( **Open File** item on the _**File**_ menu) a previously saved R script 
-
-**==> picture [612 x 329] intentionally omitted <==**
-
-In the **Source** pane you can write and edit R scripts. R scripts are a collection of commands written in the R programming language. To execute commands in the script, you must send them to the **Console** by selecting the portion of code to execute and pressing Enter or by clicking on the **Run** button or by placing the cursor at the end of a command and pressing Enter. 
-
-**Scripts can be saved using the Save or Save as options on the** _**File**_ **menu.** 
-
-**32** 
-
+## Related Notes
+- [[Lecture 5-6 Slides with NOTES]]
+- [[Lecture 13-14 Slides Point estimation]]
+- [[Lecture 13-14 Slides Point estimation with FULL NOTES]]

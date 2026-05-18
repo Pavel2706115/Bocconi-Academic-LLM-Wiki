@@ -1,988 +1,812 @@
-Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Interest Rates and Valuation (Chapter 3)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Interest Rates and Valuation (Chapter 3)** 
+# Interest Rates and Valuation (Chapter 3)
 
-**==> picture [360 x 192] intentionally omitted <==**
+# Interest rates variation over time
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Chapter Preview
 
+Interest rates are among the most closely watched variables in the economy.
 
-**==> picture [360 x 191] intentionally omitted <==**
+This lecture: Lots of definitions and (some) math.
 
-**----- Start of picture text -----**<br>
-2-1<br>**----- End of picture text -----**<br>
+**IMPORTANT: LEARN by UNDERSTANDING, DO NOT LEARN BY HEART!**
 
+## Topics
 
-# **Interest rates variation over time** 
+1. Present value
 
-**==> picture [719 x 360] intentionally omitted <==**
+2. Yield to maturity
 
-**==> picture [68 x 44] intentionally omitted <==**
+3. Zero coupon bonds
 
-## **Chapter Preview** 
+4. Coupon bonds
 
-Interest rates are among the most closely watched variables in the economy. 
+5. Perpetuity
 
-This lecture: Lots of definitions and (some) math. 
+6. Nominal Vs real interest rate
 
-**IMPORTANT: LEARN by UNDERSTANDING, DO NOT LEARN BY HEART!** 
+7. Rate of return and interest rate risk
 
-## **Topics** 
+8. Duration
 
-1. Present value 
+## Present Value: Introduction
 
-2. Yield to maturity 
+Suppose we have 100€ and 50$. What is our total wealth?
 
-3. Zero coupon bonds 
+100€ + 50$ = ??
 
-4. Coupon bonds 
+We need an exchange rate to express everything in a common unit (base currency)
 
-5. Perpetuity 
+× 100€ + 50$ (0.84 €/$)=142€ 100€×(1.19 $/€) + 50$=169$
 
-6. Nominal Vs real interest rate 
+Now consider 1$ today (t=0) and 1$ tomorrow (t=1): 1$0 + 1$1= **??** No change of currency, but change of **time** !
 
-7. Rate of return and interest rate risk 
+## Present Value: Introduction
 
-8. Duration 
+- Consider a 1$ today (t=0) and a 1$ tomorrow (t=1)
 
-## **Present Value: Introduction** 
+- 1$ today (time t=0: $0) is **NOT** equal to 1$ tomorrow (time t=1: $1).
 
-Suppose we have 100€ and 50$. What is our total wealth? 
+## Why?
 
-100€ + 50$ = ?? 
+- Presumably 1$ today is better than a 1$ tomorrow,  because: a. the future is uncertain b. people are impatient
 
-We need an exchange rate to express everything in a common unit (base currency) 
+- To find the value of $0 corresponding $1 we need a conversion rate
 
-× 100€ + 50$ (0.84 €/$)=142€ 100€×(1.19 $/€) + 50$=169$ 
+- (or a sort of “ _exchange_ rate”) between today and tomorrow ($0 /$1): **discount factor**
 
-Now consider 1$ today (t=0) and 1$ tomorrow (t=1): 1$0 + 1$1= **??** No change of currency, but change of **time** ! 
+## Present Value: Introduction
 
-## **Present Value: Introduction** 
+## Discount factor
 
-- Consider a 1$ today (t=0) and a 1$ tomorrow (t=1) 
+- Invest 1 today, get (1+ 𝑖 ), with 𝑖 >0 tomorrow. Hence:
 
-- 1$ today (time t=0: $0) is **NOT** equal to 1$ tomorrow (time t=1: $1). 
+- $1= (1+ 𝑖 )$0
 
-## Why? 
+- $2= (1+ 𝑖 )$1 = (1+ 𝑖 )(1+ 𝑖 )$0 = (1+ 𝑖 )(2) $0
 
-- Presumably 1$ today is better than a 1$ tomorrow,  because: a. the future is uncertain b. people are impatient 
+- $3= (1+ 𝑖 )$2 = (1+ 𝑖 )(1+ 𝑖 )(1+ 𝑖 )$0 =(1+ 𝑖 )(3) $0
 
-- To find the value of $0 corresponding $1 we need a conversion rate 
+_…_ $ _n_ = (1+ 𝑖 )$n-1 = … =(1+ 𝑖 ) _(n)_ $0
 
-- (or a sort of “ _exchange_ rate”) between today and tomorrow ($0 /$1): **discount factor** 
+At each period t have a cash flow ( 𝐶𝐹𝑡 = $𝑡) that is fully reinvested with interest earned in the previous period:
 
-## **Present Value: Introduction** 
+## Present Value: Introduction
 
-## **Discount factor** 
+## Discount factor
 
- Invest 1 today, get (1+ 𝑖 ), with 𝑖 >0 tomorrow. Hence: 
+- the _discount factor_ is a function of the **interest rate** ( 𝑖 ) between today and tomorrow
 
-$1= (1+ 𝑖 )$0 , with 𝑖 >0 
+- it’s called _discount_ because you are _discounting_ the future
 
-- $1= (1+ 𝑖 )$0 
+- can see the discount factor in this way: $1= (1+ 𝑖 )$0 , with 𝑖 >0
 
-- $2= (1+ 𝑖 )$1 = (1+ 𝑖 )(1+ 𝑖 )$0 = (1+ 𝑖 )[2] $0 
+## Present Value: Introduction
 
-- $3= (1+ 𝑖 )$2 = (1+ 𝑖 )(1+ 𝑖 )(1+ 𝑖 )$0 =(1+ 𝑖 )[3] $0 
+## PV useful to compare various financial instruments
 
-_…_ $ _n_ = (1+ 𝑖 )$n-1 = … =(1+ 𝑖 ) _[n]_ $0 
+- EX: consider 2 financial instruments (4 ex.: bonds, loans, etc…): A and B
 
-At each period t have a cash flow ( 𝐶𝐹𝑡 = $𝑡) that is fully reinvested with interest earned in the previous period: 
+200 200 200 200
 
-**==> picture [542 x 92] intentionally omitted <==**
+Asset A:
 
-**----- Start of picture text -----**<br>
-𝐶𝐹 𝐶𝐹 𝐶𝐹 𝐶𝐹 𝐶𝐹<br>1 2 3 𝑛−1 𝑛<br>$1 $2 $3 $n-1 $n<br>0 1 2 3 n-1 n t<br>**----- End of picture text -----**<br>
+Asset B:
 
+50 50 50 650 _0 1 2 3 4_
 
-**==> picture [659 x 22] intentionally omitted <==**
+## The interest rate is 𝑖= 0.1 = 10% . Then:
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-7<br>**----- End of picture text -----**<br>
+## Present Value: Introduction
 
+Debt instruments differ by:
 
-## **Present Value: Introduction** 
+- streams of cash payments ( **cash flows** )
 
-## **Discount factor** 
+… and …
 
-- the _discount factor_ is a function of the **interest rate** ( 𝑖 ) between today and tomorrow 
+- timing
 
-- it’s called _discount_ because you are _discounting_ the future 
+The **evaluation** of amounts at different points in time is called _**Present Value (PV)** analysis_
 
-- can see the discount factor in this way: $1= (1+ 𝑖 )$0 , with 𝑖 >0 
+All present value calculations are of this kind:
 
-$0 1 = (1 period) 1+𝑖[= 𝛿] $1 $0 = $0 ∙ $1 = 1 $1 = 1 1 1 (2 periods) 1+𝑖[∙] 1+𝑖[∙] 1+𝑖[=] 1+𝑖[𝟐][= 𝛿][𝟐] $2 $1 $2 $2 $0 = $0 ∙ $1 ∙ $2 = 1 $2 = 1 1 1[∙][∙] (3 periods) 1+𝑖[2] 1+𝑖[2] 1+𝑖[=] 1+𝑖[𝟑][= 𝛿][𝟑] $3 $1 $2 $3 $3 … … $0 = $0 ∙⋯∙ $n−1 = 1[∙] $n−1 = 1[∙] 1 1 1+𝑖[𝑛−1] 1+𝑖[𝑛−1] 1+𝑖[=] 1+𝑖[𝒏][= 𝛿][𝒏][(] _[n]_[ periods)] $ n $1 $n $n 
+PV computes the value at time 0 (=present) of future cash flows
 
-## **Present Value: Introduction** 
+## Present Value: Introduction
 
-## PV useful to compare various financial instruments 
+In previous formula we call 𝑖 the **yield-to-maturity (YTM)*** or simply **interest rate**
 
- EX: consider 2 financial instruments (4 ex.: bonds, loans, etc…): A and B 
+## IF
 
-200 200 200 200 
+the price of the security ( _P_ ) is equal to the Present Value ( _PV_ ) of its future cash flows
 
-Asset A: 
+if 𝑃= 𝑃𝑉→𝑖= 𝑌𝑇𝑀
 
-Asset B: 
+Definition: _YTM is the interest rate that equates the PV of the cash flows with the value (price) of the debt instrument today_
 
-**==> picture [10 x 26] intentionally omitted <==**
+_Note that:_ _**i**_ **≠ RATE OF RETURN** We will see examples where _**i**_ >0 but Return<0
 
-**==> picture [10 x 26] intentionally omitted <==**
+## Present Value: Introduction
 
-**==> picture [10 x 26] intentionally omitted <==**
+In most finance applications:
 
-**==> picture [10 x 26] intentionally omitted <==**
+_P=PV(cash flows)_
 
-**==> picture [9 x 27] intentionally omitted <==**
+where P is the Security’s Price P=PV is true under certain on investors’ assumption rationality and **efficiency** of financial markets
 
-**==> picture [190 x 15] intentionally omitted <==**
+We will see this later in the course …
 
-**==> picture [40 x 21] intentionally omitted <==**
+- … for now, just assume it: financial markets are efficient
 
-**==> picture [41 x 21] intentionally omitted <==**
+## Present Value: Applications
 
-**==> picture [40 x 21] intentionally omitted <==**
+- There are two basic types of debt instruments which incorporate present value concepts:
 
-**==> picture [40 x 20] intentionally omitted <==**
+- **LOANS** (for ex.: mortgages)
 
-50 50 50 650 _0 1 2 3 4_ 
+- **BONDS** (for ex.: Treasury or corporate bonds)
 
-**==> picture [40 x 21] intentionally omitted <==**
+- We’ll only look at bonds in this class (examples with loans in the book). In particular: **1. Zero Coupon Bond (or Discount Bond)** `o` No coupon
 
-**==> picture [41 x 21] intentionally omitted <==**
+- **2. Coupon Bond** `o` With coupon
 
-**==> picture [40 x 21] intentionally omitted <==**
+## Coupon and Zero-coupon bonds
 
-**==> picture [40 x 21] intentionally omitted <==**
+Zero Coupon bond from US Treasury
 
-**==> picture [6 x 13] intentionally omitted <==**
+## Coupon bond from US Treasury
 
-**==> picture [6 x 13] intentionally omitted <==**
+## Discount or Zero-Coupon Bond (ZCB)
 
-## The interest rate is 𝑖= 0.1 = 10% . Then: 
+A ZCB (or call ir **discount bond** ):
 
-200 200 200 200  𝑃𝑉𝐴,𝑇𝑂𝑇 =[+][+][= 634 ≠] 200 + 200 + 200 + 200 1.1[+] 1.1[2] 1.1[3] 1.1[4] 50 50 50 650  𝑃𝑉𝐵,𝑇𝑂𝑇 =[+][+][= 568.3 ≠] 50 + 50 + 50 + 650 1.1[+] 1.1[2] 1.1[3] 1.1[4]  So at _t=0_ , asset A is more valueable than asset B, even though sum of Copyright ©2015 Pearson Education, Ltd. All rights reserved.cash flows is the same (800 in both cases)! _Why?_ 
+- does _not_ give _any_ interest (coupon) payments before maturity =zero-
 
-## **Present Value: Introduction** 
+- ( coupon _) …_
 
-Debt instruments differ by: 
+- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity)
 
-- streams of cash payments ( **cash flows** ) 
+## Discount or Zero-Coupon Bond (ZCB)
 
-… and … 
+A ZCB (or call ir **discount bond** ):
 
-- timing 
+- does _not_ give _any_ interest (coupon) payments before maturity =zero-
 
-The **evaluation** of amounts at different points in time is called _**Present Value (PV)** analysis_ 
+- ( coupon _) …_
 
-All present value calculations are of this kind: 
+- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity)
 
-**==> picture [355 x 52] intentionally omitted <==**
+- It normally sells at a price _below_ the face value (at discount)
 
-PV computes the value at time 0 (=present) of future cash flows 
+- Ex: pay $0.95 today, get $1 at maturity. Earning=$0.05. YTM?
 
-## **Present Value: Introduction** 
+## Discount or Zero-Coupon Bond (ZCB)
 
-In previous formula we call 𝑖 the **yield-to-maturity (YTM)*** or simply **interest rate** 
+A ZCB (or call ir **discount bond** ):
 
-## _**IF**_ 
+- does _not_ give _any_ interest (coupon) payments before maturity
 
-the price of the security ( _P_ ) is equal to the Present Value ( _PV_ ) of its future cash flows 
+- =zero-
 
-if 𝑃= 𝑃𝑉→𝑖= 𝑌𝑇𝑀 
+- ( coupon _) …_
 
-Definition: _YTM is the interest rate that equates the PV of the cash flows with the value (price) of the debt instrument today_ 
+- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity)
 
-_Note that:_ _**i**_ **≠ RATE OF RETURN** We will see examples where _**i**_ >0 but Return<0 
+- It normally sells at a price _below_ the face value (at discount)
 
-*: think of YTM as the int. rate that allows to make PV of an asset until maturityCopyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- Ex: Calculate the **YTM** for a zero-coupon that pays $0.95 today, get $1 at maturity (assume 1 year maturity). Intuitively:
 
-## **Present Value: Introduction** 
+1−0.95 𝑖= 0.95(= 0.053)( (read: 5.3%))
 
-In most finance applications: 
+𝐹𝑉−𝑃 So, formula is: 𝑖= 𝑃
 
-_P=PV(cash flows)_ 
+- Government bills are typically ZCBs
 
-where P is the Security’s Price P=PV is true under certain on investors’ assumption rationality and **efficiency** of financial markets 
+## Discount or zero-coupon Bond
 
-We will see this later in the course … 
+- Price of a discount bond with **1** year maturity:
 
-- … for now, just assume it: financial markets are efficient 
+𝐹𝑉−𝑃 𝐹𝑉 𝐹𝑉 𝐹𝑉 𝑖= ⟹𝑖= 𝑃 𝑃(−1 ⟹1 + 𝑖=) 𝑃(⟹𝑃=) 1 + 𝑖
 
-## **Present Value: Applications** 
+## Discount or zero-coupon Bond
 
-- There are two basic types of debt instruments which incorporate present value concepts: 
+- Price of a discount bond with **1** year maturity:
 
-   - **LOANS** (for ex.: mortgages) 
+- Price of a discount bond with _**n**_ years maturity instead:
 
-   - **BONDS** (for ex.: Treasury or corporate bonds) 
+## Discount or zero-coupon Bond
 
-- We’ll only look at bonds in this class (examples with loans in the book). In particular: **1. Zero Coupon Bond (or Discount Bond)** `o` No coupon 
+- Price of a discount bond with **1** year maturity:
 
-- **2. Coupon Bond** `o` With coupon 
+- Price of a discount bond with _**n**_ years maturity instead:
 
-## **Coupon and Zero-coupon bonds** 
+`o` _Example_: what is the YTM for a discount bond with 5 years maturity with a face value of $1,000, selling at $750?
 
-**==> picture [264 x 358] intentionally omitted <==**
+## Coupon Bonds
 
-**==> picture [316 x 220] intentionally omitted <==**
+## A **coupon bond**
 
-Zero Coupon bond from US Treasury 
+- is a bond that makes a fixed payment at specific dates (coupons) plus a final amount (face value or par value) at maturity
 
-## Coupon bond from US Treasury 
+- The price today of a coupon bond is the PV of its future cash flows
 
-## **Discount or Zero-Coupon Bond (ZCB)** 
+- Consider _**2**_ periods:
 
-A ZCB (or call ir **discount bond** ): 
+𝐶 𝐶 𝑭𝑽 𝑃=(+) 1 + 𝑖(+) 1 + 𝑖(2) 𝟏+ 𝒊(𝟐)
 
-- does _not_ give _any_ interest (coupon) payments before maturity =zero- 
+`o` where 𝐶 is the coupon payment, 𝐹𝑉 is the face value, 𝑛 the years to maturity, _i_ is the **YTM** ( 𝐶 , 𝑖 fixed over time)
 
-- ( coupon _) …_ 
+## Coupon Bonds
 
-- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity) 
+- Consider **many** periods. For ex., a 10% coupon bond with a face value of $1,000 and 10 years to maturity will have a cash flow of $100 each year plus a payment of $1,000 at the end: ^bbgalg
 
-## **Discount or Zero-Coupon Bond (ZCB)** 
+𝐶 𝐶 𝐶 𝑪 𝑭𝑽 𝑃=(+)(+ ⋯+) 1 + 𝑖(+) 1 + 𝑖(2) 1 + 𝑖(3) 𝟏+ 𝒊(𝟏𝟎)(+) 𝟏+ 𝒊(𝟏𝟎) $100 $100 $100 $𝟏𝟎𝟎 $𝟏, 𝟎𝟎𝟎 𝑃=(+)(+ ⋯+) 1 + 𝑖(+) 1 + 𝑖(2) 1 + 𝑖(3) 𝟏+ 𝒊(𝟏𝟎)(+) 𝟏+ 𝒊(𝟏𝟎) Generic formula of price of CB’s: 𝐶 𝐹𝑉 𝑃= σ𝑛𝑡=𝟏 (1+𝑖)(𝑡)(+) (1+𝑖)(𝑛)
 
-A ZCB (or call ir **discount bond** ): 
+- Generic formula of price of CB’s:
 
-- does _not_ give _any_ interest (coupon) payments before maturity =zero- 
+`o` Note time convention: Σ starts at 𝑡= 𝟏 (assume buy coupon bond at 𝑡= 0 , but bond only starts paying the following year) and it ends at 𝑛 maturity
 
-- ( coupon _) …_ 
+## Coupon Bonds
 
-- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity) 
+## Useful terminology
 
-- It normally sells at a price _below_ the face value (at discount) 
+- _**Coupon rate**_: the amount it pays every year is expressed as a % of face value:
 
-- Ex: pay $0.95 today, get $1 at maturity. Earning=$0.05. YTM? 
+𝐶𝑜𝑢𝑝𝑜𝑛 𝐶 = 𝑖 𝑐𝑜𝑢𝑝𝑜𝑛𝑟𝑎𝑡𝑒 𝐹𝑎𝑐𝑒𝑉𝑎𝑙𝑢𝑒(=) 𝑭𝑽
 
-## **Discount or Zero-Coupon Bond (ZCB)** 
+- If 𝑃= 𝐹𝑉 we have a **par bond**
 
-A ZCB (or call ir **discount bond** ): 
+- If 𝑃< 𝐹𝑉 we have a bond **at discount**
 
-- does _not_ give _any_ interest (coupon) payments before maturity 
+- If 𝑃 > 𝐹𝑉 we have a bond **at premium**
 
-   - =zero- 
+## CBs Example: P, YTM and coupon rate
 
-   - ( coupon _) …_ 
+Recall the previous example: 𝐶 𝐶 𝐶 𝐹𝑉 𝑃=(+ ⋯+)(+) 1 + 𝑖(+) (1 + 𝑖)(2) (1 + 𝑖)(10) (1 + 𝑖)(10) **Q:** if the YTM=11.75%, what is the price today of a “10% coupon bond” with a face value of $1,000 and 10 years maturity?
 
-- … but it only pays the face value ( _FV_ ) to the holder of the bond at the end (=maturity) 
+## CBs Example: P, YTM and coupon rate
 
-- It normally sells at a price _below_ the face value (at discount) 
+## Recall the previous example:
 
-- Ex: Calculate the **YTM** for a zero-coupon that pays $0.95 today, get $1 at maturity (assume 1 year maturity). Intuitively: 
+**Q:** if the YTM=11.75%, what is the price today of a “10% coupon bond” with a face value of $1,000 and 10 years maturity?
 
-1−0.95 𝑖= 0.95[= 0.053][ (read: 5.3%)] 
+## **A:** First recover coupon value 𝐶:
 
-𝐹𝑉−𝑃 So, formula is: 𝑖= 𝑃 
+𝐶 𝑖 = 𝑐𝑜𝑢𝑝𝑜𝑛𝑟𝑎𝑡𝑒 𝐹𝑉(⟹𝐶= 𝑖)(𝑐𝑟)(× 𝐹𝑉⟹𝐶= 0.1 × $1,000 = $100)
 
-- Government bills are typically ZCBs 
+## Then, calculate price of CB using PV of cash flows:
 
-`o` Copyright ©2015 Pearson Education, Ltd. All rights reserved.The US T-bills are the most widely traded discount bonds 
+## CBs Example: P, YTM and coupon rate
 
-## **Discount or zero-coupon Bond** 
+A 3-year corporate bond has a face value of $1,000 and a 7% coupon rate; the current market interest rate is 6%. ( 𝑛= 3; 𝐹𝑉= $1,000; 𝑖𝑐𝑟 = 0.07; 𝑖= 0.06)
 
-##  Price of a discount bond with **1** year maturity: 
+**Q**: What should be the bond's price?
 
-𝐹𝑉−𝑃 𝐹𝑉 𝐹𝑉 𝐹𝑉 𝑖= ⟹𝑖= 𝑃 𝑃[−1 ⟹1 + 𝑖=] 𝑃[⟹𝑃=] 1 + 𝑖 
+## CBs Example: P, YTM and coupon rate
 
-## **Discount or zero-coupon Bond** 
+A 3-year corporate bond has a face value of $1,000 and a 7% coupon rate; the current market interest rate is 6%. ( 𝑛= 3; 𝐹𝑉= $1,000; 𝑖𝑐𝑟 = 0.07; 𝑖= 0.06)
 
-##  Price of a discount bond with **1** year maturity: 
+**Q**: What should be the bond's price?
 
-**==> picture [468 x 43] intentionally omitted <==**
+**R**: Recall:
 
-##  Price of a discount bond with _**n**_ years maturity instead: 
+𝐶 = `o` 𝑖 𝑐𝑟 𝐹𝑉(; 𝐶= 𝑖)(𝑐𝑟)(× 𝐹𝑉= 0.07 × $1,000;𝐶= $70)
 
-**==> picture [611 x 130] intentionally omitted <==**
+## Special case of CB: Perpetuity
 
-## **Discount or zero-coupon Bond** 
+## A special case of a coupon bond is a **perpetuity** (or **consol** )
 
-##  Price of a discount bond with **1** year maturity: 
+- It is a coupon bond providing a periodic coupon _**forever**_ (=with no maturity date)
 
-**==> picture [468 x 43] intentionally omitted <==**
+- It is convenient in finance because it is easy to calculate its price ( _i.e._ its present value)
 
-##  Price of a discount bond with _**n**_ years maturity instead: 
+- Why? If you like math here is why. It is a geometric series:
 
-**==> picture [250 x 68] intentionally omitted <==**
+## Do perpetuities exist?
 
-**==> picture [611 x 50] intentionally omitted <==**
+- UK government issued perpetual war bonds in WWIWWII:
 
-`o` _Example_ : what is the YTM for a discount bond with 5 years maturity with a face value of $1,000, selling at $750? 
+- “ _If you cannot fight, you can help your country by investing all you can in 5 per cent Exchequer Bonds ... Unlike the soldier, the investor runs no risk._ ”
 
-**==> picture [257 x 19] intentionally omitted <==**
+- These war bonds were redeemed by the UK government in October 2014
 
-**==> picture [659 x 50] intentionally omitted <==**
+- Other remaining consols dating even further back (1850s) were redeemed in July 2015
 
-## **Coupon Bonds** 
+- Nowadays perpetuities are issued by banks for regulatory purposes
 
-## A **coupon bond** 
+## Current yield
 
-- is a bond that makes a fixed payment at specific dates (coupons) plus a final amount (face value or par value) at maturity 
+- The perpetuity allows us to introduce the concept of **current**: **yield**
 
-- The price today of a coupon bond is the PV of its future cash flows 
+𝐶 = 𝑖 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑃
 
-- Consider _**2**_ periods: 
+- The current yield is a useful approximation to the YTM for long-term bonds, with price near par.
 
-𝐶 𝐶 𝑭𝑽 𝑃=[+] 1 + 𝑖[+] 1 + 𝑖[2] 𝟏+ 𝒊[𝟐] 
+- Why? Because CF very distant in time have a low PV, so a 30-year bond is pretty much like a perpetuity!
 
-`o` where 𝐶 is the coupon payment, 𝐹𝑉 is the face value, 𝑛 the years to maturity, _i_ is the **YTM** ( 𝐶 , 𝑖 fixed over time) 
+## Example
 
-## **Coupon Bonds** 
+- $100
 
- Consider **many** periods. For ex., a 10% coupon bond with a face value of $1,000 and 10 years to maturity will have a cash flow of $100 each year plus a payment of $1,000 at the end: 
+- i. 𝑖 = a perpetuity bond with P=$2,000 and C=$100 has 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 $2,000(= 0.05)
 
-𝐶 𝐶 𝐶 𝑪 𝑭𝑽 𝑃=[+][+ ⋯+] 1 + 𝑖[+] 1 + 𝑖[2] 1 + 𝑖[3] 𝟏+ 𝒊[𝟏𝟎][+] 𝟏+ 𝒊[𝟏𝟎] $100 $100 $100 $𝟏𝟎𝟎 $𝟏, 𝟎𝟎𝟎 𝑃=[+][+ ⋯+] 1 + 𝑖[+] 1 + 𝑖[2] 1 + 𝑖[3] 𝟏+ 𝒊[𝟏𝟎][+] 𝟏+ 𝒊[𝟏𝟎] Generic formula of price of CB’s: 𝐶 𝐹𝑉 𝑃= σ𝑛𝑡=𝟏 (1+𝑖)[𝑡][+] (1+𝑖)[𝑛] 
+- ii. a coupon bond with same price and coupon, with **30** years of maturity (and a FV=$2,500) has…………………………………………. _i_ = 5.354%
 
-##  Generic formula of price of CB’s: 
+- iii. a coupon bond similar to above with **50** years maturity: _i_ = 5.115%; iv. a coupon bond similar to above with **100** ys maturity: _i_ = 5.010% v. … and so on
 
-`o` Note time convention: Σ starts at 𝑡= 𝟏 (assume buy coupon bond at 𝑡= 0 , but bond only starts paying the following year) and it ends at 𝑛 maturity 
+## Current yield and Coupon Rate
 
-## **Coupon Bonds** 
+## Notice the distinction between
 
-## _**Useful terminology**_ 
+- The _**current yield**_ (Coupon divided by the Price):
 
-- _**Coupon rate**_ : the amount it pays every year is expressed as a % of face value: 
+𝐶 = 𝑖 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑷 - The _**coupon rate**_ (Coupon divided by the Face Value) 𝐶 = 𝑖 𝑐𝑜𝑢𝑝𝑜𝑛 𝑭𝑽
 
-𝐶𝑜𝑢𝑝𝑜𝑛 𝐶 = 𝑖 𝑐𝑜𝑢𝑝𝑜𝑛𝑟𝑎𝑡𝑒 𝐹𝑎𝑐𝑒𝑉𝑎𝑙𝑢𝑒[=] 𝑭𝑽 
+- of course for a _par-bond_ the two coincide (bcs 𝑃= 𝐹𝑉 ).
 
- If 𝑃= 𝐹𝑉 we have a **par bond** 
+## YTM and Price
 
-- If 𝑃< 𝐹𝑉 we have a bond **at discount** 
+## So what is more important, the YTM or the price?
 
- If 𝑃 > 𝐹𝑉 we have a bond **at premium** 
+- mathematically, it does not matter: given one, the other one is determined via the PV formula
 
-## **CBs Example: P, YTM and coupon rate** 
+- but economically we think of the YTM determining the price, not viceversa.
 
-Recall the previous example: 𝐶 𝐶 𝐶 𝐹𝑉 𝑃=[+ ⋯+][+] 1 + 𝑖[+] (1 + 𝑖)[2] (1 + 𝑖)[10] (1 + 𝑖)[10] **Q:** if the YTM=11.75%, what is the price today of a “10% coupon bond” with a face value of $1,000 and 10 years maturity? 
+- Why? Think about the YTM as the **“fair” return** an investor **requires** considering the risk
 
-## **CBs Example: P, YTM and coupon rate** 
+- Then the investors will price the bonds so that in equilibrium they get this fair return
 
-## Recall the previous example: 
+## Relationships between Price, YTM and Coupon rate
 
-**==> picture [372 x 43] intentionally omitted <==**
+**Table 3.1** Yields to Maturity on a 10% Coupon rate bond, maturing in 10 years (Face Value = $1,000)
 
-**Q:** if the YTM=11.75%, what is the price today of a “10% coupon bond” with a face value of $1,000 and 10 years maturity? 
+## Three interesting facts in Table 3.1:
 
-## **A:** First recover coupon value 𝐶 : 
+**1. When bond is at par** (P=FV) **, YTM equals coupon rate**
 
-𝐶 𝑖 = 𝑐𝑜𝑢𝑝𝑜𝑛𝑟𝑎𝑡𝑒 𝐹𝑉[⟹𝐶= 𝑖][𝑐𝑟][× 𝐹𝑉⟹𝐶= 0.1 × $1,000 = $100] 
+**2. Price and yield are negatively related (VERY IMPORTANT!)**
 
-## Then, calculate price of CB using PV of cash flows: 
+**3. Yield greater than coupon rate when bond price is below par value**
 
-**==> picture [659 x 160] intentionally omitted <==**
+## Relationships between Price, YTM and Coupon rate
 
-## **CBs Example: P, YTM and coupon rate** 
+. **1) When bond is at par, yield equals coupon rate** 𝐶 𝐶 = = `o` math: if 𝑃= 𝐹𝑉, then 𝑖𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑃(and)( 𝑖)(𝑐𝑜𝑢𝑝𝑜𝑛) 𝐹𝑉(coincide) `o` intuition: a _par bond_ is like a bank account, if you put down $1,000 ( _P_ ) today ( _t=0_ ) and you cash in the interest payment every year ( _C_ =$100), you are left with $1,000 (FV) at maturity (say _t=10_ ) … 𝐶 $100 `o` … similar to bond with 𝑖 = 10% and 10 coupon 𝐹𝑉(=) $1,000(= 0.1) years maturity ^0m0ker
+*(See also: Chapter 3#^vagpac)*
 
-A 3-year corporate bond has a face value of $1,000 and a 7% coupon rate; the current market interest rate is 6%. [ 𝑛= 3; 𝐹𝑉= $1,000; 𝑖𝑐𝑟 = 0.07; 𝑖= 0.06] 
+## 2) Price and yield are negatively related
 
-**Q** : What should be the bond's price? 
+`o` **If** _**i**_ **increases, the PV of any given cash flow is lower; hence, the price of the bond must be lower**
 
-## **CBs Example: P, YTM and coupon rate** 
+`o` a bit more obvious from perpetuity and zero-coupon bond formulas, but it emerges also from coupon bonds
 
-A 3-year corporate bond has a face value of $1,000 and a 7% coupon rate; the current market interest rate is 6%. [ 𝑛= 3; 𝐹𝑉= $1,000; 𝑖𝑐𝑟 = 0.07; 𝑖= 0.06] 
+## Relationships between Price, YTM and Coupon rate
 
-**Q** : What should be the bond's price? 
+## 3) The YTM is greater than the coupon rate when bond price is below par value
 
-**R** : Recall: 
+- 𝐶
 
-𝐶 = `o` 𝑖 𝑐𝑟 𝐹𝑉[; 𝐶= 𝑖][𝑐𝑟][× 𝐹𝑉= 0.07 × $1,000;𝐶= $70] 
+- `o` According to (1): 𝑖𝑓𝑃= 𝐹𝑉⇒𝑖= 𝐹𝑉
 
-$70 $70 $70 $1,000 𝑃=[+][+][= $1,026.73] 1.06[+] (1.06)[2] (1.06)[3] (1.06)[3] `o` So 𝑃= $1,026.73 
+- `o` According to (2): 𝑖𝑓𝑖↑𝑡ℎ𝑒𝑛𝑃↓
 
-## **Special case of CB: Perpetuity** 
+- `o` Putting (1) and (2) together, it must be that:
 
-## A special case of a coupon bond is a **perpetuity** (or **consol** ) 
+𝐶 𝑌𝑇𝑀> 𝑖 = ~~തതതത 𝑎𝑛𝑑𝑠𝑖𝑛𝑐𝑒𝑃↓⇒𝑃< 𝐹𝑉~~ 𝑖𝑓𝑖↑⇒ 𝑐𝑟 𝐹𝑉
 
-- It is a coupon bond providing a periodic coupon _**forever**_ (=with no maturity date) 
+## What does this mean?
 
-- It is convenient in finance because it is easy to calculate its price ( _i.e._ its present value) 
+- If the required yield on the bond is higher than what the bond actually pays (that is, the coupon rate), then it needs **to sell at discount to attract investors** (=price is too high, not attractive!)
 
-**==> picture [659 x 264] intentionally omitted <==**
+- In other words, because investors can make a larger return the financial market (=other securities), they need an extra incentive to
 
-**----- Start of picture text -----**<br>
-𝐶 1 𝐶 𝑪<br>𝑃𝑉= σ∞𝑡=1 ∞<br>1+𝑖 [𝑡] [= 𝐶σ][𝑡=1] 1+𝑖 [𝑡] [=] 𝑖 [⟹𝑷𝑽=] 𝒊<br>o can see  immediately inverse relation btw  𝑷 and  𝒊<br>Why? If you like math here is why. It is a geometric series:<br>1<br>∞ 𝑡 ∞ 𝑡<br>1 + 𝑥+ 𝑥 [2] + +𝑥 [3] … = σ𝑡=0 𝑥 = 1 + σ𝑡=1 𝑥 = for  |𝑥| < 1<br>1−𝑥<br>1<br>Set  𝑥=<br>1+𝑖 [, then:]<br>1 1 1 1+𝑖 1<br>σ∞𝑡=1 ∞ 1 −1 =<br>1+𝑖 [𝑡] [= σ][𝑡=][0] 1+𝑖 [𝑡] [−1][ =] 1− 𝑖 [−1 =] 𝑖<br>1+𝑖<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-28<br>**----- End of picture text -----**<br>
+## Real and Nominal Interest Rates
 
+- The **real interest rate** ( _ir_ ) is the nominal interest rate ( _i_ ) adjusted for **expected inflation** (expected changes in the price level).
 
-- Why? If you like math here is why. It is a geometric series: 
+- From the Fisher equation:
 
-## **Do perpetuities exist?** 
+- Technically, this definition of _ir_ is the _**ex-ante**_ **real rate of interest** because it is adjusted for the _**expected**_ level of inflation, p _(e)_
 
-#  UK government issued perpetual war bonds in WWIWWII: 
+- We can calculate the _**ex-post**_ real rate based on the p
 
-   - “ _If you cannot fight, you can help your country by investing all you can in 5 per cent Exchequer Bonds ... Unlike the soldier, the investor runs no risk._ ” 
+- observed level of inflation ( )
 
-- These war bonds were redeemed by the UK government in October 2014 
+## Real and Nominal Interest Rates
 
-- Other remaining consols dating even further back (1850s) were redeemed in July 2015 
+- When the real rate ( _ir_ ) is low:
 
-- Nowadays perpetuities are issued by banks for regulatory purposes 
+- there are **greater** incentives to **borrow** (money is less costly)
 
-## **Current yield** 
+`o` and **less** incentives to **lend** (money is not very profitable)
 
-##  The perpetuity allows us to introduce the concept of **current** : **yield** 
+- In response to the Financial Crisis (2008), Fed & ECB turned =
 
-𝐶 = 𝑖 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑃 
+- 𝑖 0 so 𝑖 < 0 was low but to stimulate , ~~𝑟~~ (inflation still positive)
 
-- The current yield is a useful approximation to the YTM for long-term bonds, with price near par. 
+- aggregate spending (consumption and investment)
 
-- Why? Because CF very distant in time have a low PV, so a 30-year bond is pretty much like a perpetuity! 
+- _Case of Deflation_ (p _(e) <0_ ):
 
-## : _Example_ 
+- 𝑖 𝑖= 0:
 
-- $100 
+- the real rate will always be positive: consider case of lowest - 𝑖 =-p _(e)_ >0 bcs p _(e)_ <0 𝑟
 
-- i. 𝑖 = a perpetuity bond with P=$2,000 and C=$100 has 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 $2,000[[= 0.05]][[ (][=5]][[=5]] 
+- Deflation can be a big problem:
 
-- ii. a coupon bond with same price and coupon, with **30** years of maturity (and a FV=$2,500) has…………………………………………. _i_ = 5.354% 
+- expectations of deflation lead to higher real rates and may cause deflationary _spirals_: The Economist, 07 Jan 2015
 
-- iii. a coupon bond similar to above with **50** years maturity: _i_ = 5.115%; iv. a coupon bond similar to above with **100** ys maturity: _i_ = 5.010% v. … and so on 
+- but some evidence says it is not so bad: CEPR, Jan 2022
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Do not hold bond until maturity
 
-$2,000[[= 0.05]][[ (][=5]][[=5]] %) 
+# Let ℎ= holding period and 𝑛= maturity
 
-## **Current yield and Coupon Rate** 
+- _So far mostly considered_ ℎ= 𝑛 _(hold bond until maturity)_
 
-## Notice the distinction between 
+- _Now consider 2 cases where_ holding period ≠ maturity
 
-- The _**current yield**_ (Coupon divided by the Price): 
+- Case **1**: you sell the bond at time 𝑡 **before** maturity ( 𝑛 ) `o` holding period shorter than maturity ( 𝒉< 𝒏 )
 
-𝐶 = 𝑖 𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑷  The _**coupon rate**_ (Coupon divided by the Face Value) 𝐶 = 𝑖 𝑐𝑜𝑢𝑝𝑜𝑛 𝑭𝑽 
+`o` need consider price of sale at time ℎ ( 𝑃ℎ may be different from 𝑃0 ), bcs do not get FV
 
-- of course for a _par-bond_ the two coincide (bcs 𝑃= 𝐹𝑉 ). 
+- Case **2**: you sell bond at time 𝑡 **after** maturity ( 𝑛 )
 
-   - Copyright ©2015 Pearson Education, Ltd. All rights reserved. **Learn these definitions well so avoid confusion later!** 
+- `o` holding period shorter than maturity ( 𝒉> 𝒏 )
 
-## **YTM and Price** 
+`o` 𝑛 𝑃 > 𝑜𝑟< 𝑃 ? need consider price of bond you buy at time ( 0 𝑛 )
 
-## So what is more important, the YTM or the price? 
+## Interest Rate ≠ Rate of Return
 
-- mathematically, it does not matter: given one, the other one is determined via the PV formula 
+## Rate of return
 
-- but economically we think of the YTM determining the price, not viceversa. 
+- we we one
 
-- Why? Think about the YTM as the **“fair” return** an investor **requires** considering the risk 
+- Suppose buy a coupon bond, hold it for only period and we don’t keep it up to maturity, but we **sell it before maturity (** 𝒉< 𝒏 **)**
 
-- Then the investors will price the bonds so that in equilibrium they get this fair return 
+`o` with sale _before_ maturity, price may change (we don’t wait to get FV) `o` so, we need to consider the **capital gain** (say: if cap. gain is negative, we may have a loss!)
 
-## **Relationships between Price, YTM and Coupon rate** 
+- The _rate of return_ on our investment is all the payments received during the holding period, divided by the initial price:
 
-**Table 3.1** Yields to Maturity on a 10% Coupon rate bond, maturing in 10 years (Face Value = $1,000) 
+## where:
 
-**==> picture [656 x 157] intentionally omitted <==**
+𝐶 = 𝑖 𝑐 𝑃 𝑡
 
-## Three interesting facts in Table 3.1: 
+𝐶+𝑃 −𝑃 𝐶 𝑃 −𝑃 𝑡+1 𝑡 𝑡+1 𝑡 = 𝑅𝑒𝑡𝑢𝑟𝑛= = 𝑖 𝑐 + 𝑔 𝑃 𝑃 𝑃 𝑡 𝑡(+) 𝑡 (current yield)
 
-**1. When bond is at par** (P=FV) **, YTM equals coupon rate** 
+and
 
-**2. Price and yield are negatively related (VERY IMPORTANT!)** 
+(capital gain)
 
-**3. Yield greater than coupon rate when bond price is below par value** 
+## Example: Interest Rate ≠ Rate of Return
 
-## **Relationships between Price, YTM and Coupon rate** 
+Assume you paid $1,000 for a 10-year coupon bond with a face value of $1,000, and a coupon rate of 10%. One year after the purchase, you sold the bond for: a. $1,200 b. $   800
 
-. **1) When bond is at par, yield equals coupon rate** 𝐶 𝐶 = = `o` math: if 𝑃= 𝐹𝑉, then 𝑖𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑃[and][ 𝑖][𝑐𝑜𝑢𝑝𝑜𝑛] 𝐹𝑉[coincide] `o` intuition: a _par bond_ is like a bank account, if you put down $1,000 ( _P_ ) today ( _t=0_ ) and you cash in the interest payment every year ( _C_ =$100), you are left with $1,000 (FV) at maturity (say _t=10_ ) … 𝐶 $100 `o` … similar to bond with 𝑖 = 10% and 10 coupon 𝐹𝑉[=] $1,000[= 0.1] years maturity 
+**Q**: What is your _rate of return_ ? What is the (initial) YTM?
 
-## **2) Price and yield are negatively related** 
+## Example: Interest Rate ≠ Rate of Return
 
-`o` **If** _**i**_ **increases, the PV of any given cash flow is lower; hence, the price of the bond must be lower** 
+Assume you paid $1,000 for a 10-year coupon bond with a face value of $1,000, and a coupon rate of 10%. One year after the purchase, you sold the bond for: a. $1,200
 
-`o` a bit more obvious from perpetuity and zero-coupon bond formulas, but it emerges also from coupon bonds 
+b. $   800
 
-## **Relationships between Price, YTM and Coupon rate** 
+**Q**: What is your _rate of return_ ? What is the (initial) YTM? **A:** 𝐶= 𝑖𝑐𝑟 × 𝐹𝑉= 0.1 × $1,000 = $100
 
-## **3) The YTM is greater than the coupon rate when bond price is below par value** 
+## Example: Interest Rate ≠ Rate of Return
 
-- 𝐶 
+What happened after one year?
 
-- `o` According to (1): 𝑖𝑓𝑃= 𝐹𝑉⇒𝑖= 𝐹𝑉 
+- by the time you wanted to sell the bond, its yield `o` went **down** (=price went up)       in case a `o` went **up** (=price went down)   in case b
 
-- `o` According to (2): 𝑖𝑓𝑖↑𝑡ℎ𝑒𝑛𝑃↓ 
+- Case a: new investors are willing to pay a higher price for a bond whose coupon rate (10%) is higher than current interest rates at prevailing market conditions `o` reverse in case b
 
-- `o` Putting (1) and (2) together, it must be that: 
+- Let’s see in the next table what happens to bonds’ returns if **the interest rate increases** on the bond , depending
 
-𝐶 𝑌𝑇𝑀> 𝑖 = ~~തതതത 𝑎𝑛𝑑𝑠𝑖𝑛𝑐𝑒𝑃↓⇒𝑃< 𝐹𝑉~~ 𝑖𝑓𝑖↑⇒ 𝑐𝑟 𝐹𝑉 
+- _different maturities_
 
-## What does this mean? 
+## Key Facts about the Relationship between Rates and Returns
 
-- If the required yield on the bond is higher than what the bond actually pays (that is, the coupon rate), then it needs **to sell at discount to attract investors** (=price is too high, not attractive!) 
+**Table 3.2 One-Year Returns** on 10% Coupon Par Bonds (FV=$1,000) **When interest rate rises from 10% to 20%**
 
-- In other words, because investors can make a larger return the financial market (=other securities), they need an extra incentive to 
+Recall the coupon bond formula and return formula: 𝑃= σ𝑛𝑡=1 𝐶 𝐹𝑉 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖𝑐 + 𝑔 1+𝑖(𝑡)(+) 1+𝑖(𝑛) 𝑃𝑡
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved.invest in the bond 2-35 
+## Key Facts about the Relationship between Rates and Returns
 
-## **Real and Nominal Interest Rates** 
+**Table 3.2 One-Year Returns** on 10% Coupon Par Bonds (FV=$1,000) **When interest rate rises from 10% to 20%**
 
-- The **real interest rate** ( _ir_ ) is the nominal interest rate ( _i_ ) adjusted for **expected inflation** (expected changes in the price level). 
+Recall the coupon bond formula and return formula: 𝑃= σ𝑛𝑡=1 𝐶 𝐹𝑉 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖𝑐 + 𝑔 1+𝑖(𝑡)(+) 1+𝑖(𝑛) 𝑃𝑡
 
-   - From the Fisher equation: 
+## Summary on relationship between rates and returns
 
-**==> picture [104 x 41] intentionally omitted <==**
+Key findings from Table 3.2
 
-- Technically, this definition of _ir_ is the _**ex-ante**_ **real rate of interest** because it is adjusted for the _**expected**_ level of inflation, p _[e]_ 
+1. For bonds with holding period < maturity ( ℎ< 𝑛 ), 𝑖↑⇒𝑃↓ implying capital loss
 
-- We can calculate the _**ex-post**_ real rate based on the p 
+- ∆𝑅 ) for any ∆𝑖
 
-- observed level of inflation ( ) 
+3. The only bond whose return = yield is the one with maturity = holding period (obvious: at maturity, no risk of capital gain/loss!)
 
-## **Real and Nominal Interest Rates** 
+4. Even if a bond has a high initial int. rate, the return can turn if _i_ - negative
 
-- When the real rate ( _ir_ ) is low: 
+## Interest Rate Risk
 
-   - there are **greater** incentives to **borrow** (money is less costly) 
+- For the same Δ _i_ - Δ _P ,_ is more negative for L-T bonds … so
 
-`o` and **less** incentives to **lend** (money is not very profitable) 
+- prices are **more “volatile” for long-term (L-T)** bonds `o` and thus, these bonds are riskier than short term bonds
 
-- In response to the Financial Crisis (2008), Fed & ECB turned = 
+- The risk of losing money ( Δ𝑃< 0 _)_ if interest rates change is called **Interest Rate Risk (IRR)**
 
-- 𝑖 0 so 𝑖 < 0 was low but to stimulate , ~~𝑟~~ (inflation still positive) 
+- IRR comes from the fact that the bonds may be **sold before maturity** ℎ< 𝑛
 
-- aggregate spending (consumption and investment) 
+`o` in this case you don’t know what the interest rate (and **hence the price** ) will be at the time you wan to sell it 𝑡= ℎ
 
-- _Case of Deflation_ (p _[e] <0_ ): 
+`o` it is very important for investors (and banks in particular) to manage IRR, not just from bonds, but also other securities
 
-   - 𝑖 𝑖= 0 : 
+## Interest Rate Risk
 
-   - the real rate will always be positive: consider case of lowest  𝑖 =-p _[e]_ >0 bcs p _[e]_ <0 𝑟 
+- So have IRR only for bonds whose holding period is shorter than maturity ℎ< 𝑛
 
-   - Deflation can be a big problem: 
+- No IRR for any bond whose maturity equals holding period ( _i_ =return): obvious! ℎ= 𝑛
 
-      - expectations of deflation lead to higher real rates and may cause deflationary _spirals_ : The Economist, 07 Jan 2015 
+- call this case as **hold-to-maturity (HTM)**
 
-      - but some evidence says it is not so bad: CEPR, Jan 2022 
+- Of course, we always have ALSO other risks: `o` _**default** risk_
 
-## **Do not hold bond until maturity** 
+- _**inflation** risk_ (that’s true of any investment in securities that pays a nominal return (some bonds are indexed with interest that adjusts with inflation rate))
 
-# Let ℎ= holding period and 𝑛= maturity 
+## Reinvestment Risk
 
- _So far mostly considered_ ℎ= 𝑛 _(hold bond until maturity)_ 
+- If ℎ> 𝑛 **holding period is longer than maturity** , you don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before! `o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** !
 
-- _Now consider 2 cases where_ holding period ≠ maturity 
+## Reinvestment Risk
 
-- Case **1** : you sell the bond at time 𝑡 **before** maturity ( 𝑛 ) `o` holding period shorter than maturity ( 𝒉< 𝒏 ) 
+- If ℎ> 𝑛 **holding period is longer than maturity** , you
 
-`o` need consider price of sale at time ℎ ( 𝑃ℎ may be different from 𝑃0 ), bcs do not get FV 
+- don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before!
 
-**==> picture [517 x 73] intentionally omitted <==**
+`o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** !
 
-**----- Start of picture text -----**<br>
-20 20 120<br>0 1 2 ℎ 𝑛 t<br>**----- End of picture text -----**<br>
+- **Q**: Is it better to invest at time _t_ in: a. a **2** -year coupon bond with 𝑖= 10% with ℎ= 𝑛 _or_
 
+- b. a **1** -year coupon bond with 𝑖= 10% , and re-invest the proceeds at 𝑡+ 1 in another 1-year coupon bond with 𝑖= 10% ? ( ℎ> 𝑛 )?
 
-- Case **2** : you sell bond at time 𝑡 **after** maturity ( 𝑛 ) 
+## Reinvestment Risk
 
-- `o` holding period shorter than maturity ( 𝒉> 𝒏 ) 
+- If ℎ> 𝑛 **holding period is longer than maturity** , you don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before!
 
-`o` 𝑛 𝑃 > 𝑜𝑟< 𝑃 ? need consider price of bond you buy at time ( 0 𝑛 ) 
+`o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** !
 
-**==> picture [659 x 89] intentionally omitted <==**
+- **Q**: Is it better to invest at time _t_ in: a. a **2** -year coupon bond with 𝑖= 10% with ℎ= 𝑛 _or_
 
-**----- Start of picture text -----**<br>
-20 20 120<br>0 1 2 𝑛 ℎ t<br>Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-38<br>**----- End of picture text -----**<br>
+- b. a **1** -year coupon bond with 𝑖= 10% , and re-invest the proceeds at 𝑡+ 1 in another 1-year coupon bond with 𝑖= 10% ? ( ℎ> 𝑛 )?
 
+## **A**: it depends …
 
-## **Interest Rate ≠ Rate of Return** 
+- in case a, ℎ= 2 years, while 𝑛= 1 is 1 year for each bond
 
-## **Rate of return** 
+- `o` in case b, if interest rate **falls** / **rise** in 𝑡+ 1 , you **lose** / **gain**: at the moment of reinvesting, you may fail to get the same interest rate as before!
 
-- we we one 
+## Duration
 
-- Suppose buy a coupon bond, hold it for only period and we don’t keep it up to maturity, but we **sell it before maturity (** 𝒉< 𝒏 **)** 
+## Can we **quantify** the **IRR** of a bond?
 
-`o` with sale _before_ maturity, price may change (we don’t wait to get FV) `o` so, we need to consider the **capital gain** (say: if cap. gain is negative, we may have a loss!) 
+- the further in the future the _payments_ of a bond lie, the more the bond is exposed IRR
 
-- The _rate of return_ on our investment is all the payments received during the holding period, divided by the initial price: 
+- idea: we could use a measure of time of each payment (c.d. “effective maturity”) of a bond to quantify IRR
 
-## where : 
+- in practice: to construct this measure of “effective maturity”, for each period:
 
-𝐶 = 𝑖 𝑐 𝑃 𝑡 
+- 1(st): calculate the % of the total PV of a bond is contributed by cash flows in each year payments are due (4 ex.: 1, 2, etc…)
 
-𝐶+𝑃 −𝑃 𝐶 𝑃 −𝑃 𝑡+1 𝑡 𝑡+1 𝑡 = 𝑅𝑒𝑡𝑢𝑟𝑛= = 𝑖 𝑐 + 𝑔 𝑃 𝑃 𝑃 𝑡 𝑡[+] 𝑡 (current yield) 
+- 2(nd): use these weights to calculate a “weighted” maturity
 
-and 
+- Duration is the **weighted average of the maturities of the cash payments**
 
-𝑃𝑡+1−𝑃𝑡 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 𝑔= 𝑃 𝑡 
-
-(capital gain) 
-
-## **Example: Interest Rate ≠ Rate of Return** 
-
-Assume you paid $1,000 for a 10-year coupon bond with a face value of $1,000, and a coupon rate of 10%. One year after the purchase, you sold the bond for: a. $1,200 b. $   800 
-
-**Q** : What is your _rate of return_ ? What is the (initial) YTM? 
-
-## **Example: Interest Rate ≠ Rate of Return** 
-
-Assume you paid $1,000 for a 10-year coupon bond with a face value of $1,000, and a coupon rate of 10%. One year after the purchase, you sold the bond for: a. $1,200 
-
-b. $   800 
-
-**Q** : What is your _rate of return_ ? What is the (initial) YTM? **A:** 𝐶= 𝑖𝑐𝑟 × 𝐹𝑉= 0.1 × $1,000 = $100 
-
-$100+ 1,200−$1,000 $300 = _(a):_ 𝑅𝑒𝑡𝑢𝑟𝑛= 0.3 read: 30% $1,000 $1,000[=] $100+ $800−$1,000 $100 _(b):_ 𝑅𝑒𝑡𝑢𝑟𝑛= = − read: −10% $1,000 $1,000[=][ −0.1] = 𝑌𝑇𝑀 𝑖 bcs bond is at 𝑐𝑟 par; YTM=10% So returns differ between (a) and (b), even though same 𝑌𝑇𝑀= 10% Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Example: Interest Rate ≠ Rate of Return** 
-
-What happened after one year? 
-
- by the time you wanted to sell the bond, its yield `o` went **down** (=price went up)       in case a `o` went **up** (=price went down)   in case b 
-
-- Case a: new investors are willing to pay a higher price for a bond whose coupon rate (10%) is higher than current interest rates at prevailing market conditions `o` reverse in case b 
-
-- Let’s see in the next table what happens to bonds’ returns if **the interest rate increases** on the bond , depending 
-
-- _different maturities_ 
-
-## **Key Facts about the Relationship between Rates and Returns** 
-
-**Table 3.2 One-Year Returns** on 10% Coupon Par Bonds (FV=$1,000) **When interest rate rises from 10% to 20%** 
-
-**==> picture [569 x 292] intentionally omitted <==**
-
-Recall the coupon bond formula and return formula: 𝑃= σ𝑛𝑡=1 𝐶 𝐹𝑉 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖𝑐 + 𝑔 1+𝑖[𝑡][+] 1+𝑖[𝑛] 𝑃𝑡 
-
-## **Key Facts about the Relationship between Rates and Returns** 
-
-**Table 3.2 One-Year Returns** on 10% Coupon Par Bonds (FV=$1,000) **When interest rate rises from 10% to 20%** 
-
-**==> picture [569 x 292] intentionally omitted <==**
-
-Recall the coupon bond formula and return formula: 𝑃= σ𝑛𝑡=1 𝐶 𝐹𝑉 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖𝑐 + 𝑔 1+𝑖[𝑡][+] 1+𝑖[𝑛] 𝑃𝑡 
-
-## **Summary on relationship between rates and returns** 
-
-Key findings from Table 3.2 
-
-1. For bonds with holding period < maturity ( ℎ< 𝑛 ), 𝑖↑⇒𝑃↓ implying capital loss 
-
-   - ∆𝑅 ) for any ∆𝑖 
-
-3. The only bond whose return = yield is the one with maturity = holding period (obvious: at maturity, no risk of capital gain/loss!) 
-
-4. Even if a bond has a high initial int. rate, the return can turn if _i_  
-
-negative 
-
-## **Interest Rate Risk** 
-
-- For the same Δ _i_  Δ _P ,_ is more negative for L-T bonds … so 
-
-- prices are **more “volatile” for long-term (L-T)** bonds `o` and thus, these bonds are riskier than short term bonds 
-
-- The risk of losing money ( Δ𝑃< 0 _)_ if interest rates change is called **Interest Rate Risk (IRR)** 
-
-- IRR comes from the fact that the bonds may be **sold before maturity** ℎ< 𝑛 
-
-`o` in this case you don’t know what the interest rate (and **hence the price** ) will be at the time you wan to sell it 𝑡= ℎ 
-
-`o` it is very important for investors (and banks in particular) to manage IRR, not just from bonds, but also other securities 
-
-## **Interest Rate Risk** 
-
-- So have IRR only for bonds whose holding period is shorter than maturity ℎ< 𝑛 
-
-- No IRR for any bond whose maturity equals holding period ( _i_ =return): obvious! ℎ= 𝑛 
-
-   - call this case as **hold-to-maturity (HTM)** 
-
-- Of course, we always have ALSO other risks: `o` _**default** risk_ 
-
-   - _**inflation** risk_ [that’s true of any investment in securities that pays a nominal return (some bonds are indexed with interest that adjusts with inflation rate)] 
-
-## **Reinvestment Risk** 
-
- If ℎ> 𝑛 **holding period is longer than maturity** , you don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before! `o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** ! 
-
-## **Reinvestment Risk** 
-
-- If ℎ> 𝑛 **holding period is longer than maturity** , you 
-
-- don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before! 
-
-`o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** ! 
-
-- **Q** : Is it better to invest at time _t_ in: a. a **2** -year coupon bond with 𝑖= 10% with ℎ= 𝑛 _or_ 
-
-- b. a **1** -year coupon bond with 𝑖= 10% , and re-invest the proceeds at 𝑡+ 1 in another 1-year coupon bond with 𝑖= 10% ? ( ℎ> 𝑛 )? 
-
-**==> picture [434 x 113] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑃 𝑃<br>1 2<br>0 𝑛= 1 ℎ= 2 t<br>**----- End of picture text -----**<br>
-
-
-Uncertainty about 𝑖1 at 𝑡= 0 determines Reinvestment risk Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
-
-## **Reinvestment Risk** 
-
- If ℎ> 𝑛 **holding period is longer than maturity** , you don’t have IRR, but you have **reinvestment risk** `o` at the moment of reinvesting, you may fail to get the same interest rate as before! 
-
-`o` coupon payments of a coupon bond are $’s that could/should be re-invested in other bonds. But the **future** _**i**_ **is uncertain** ! 
-
-- **Q** : Is it better to invest at time _t_ in: a. a **2** -year coupon bond with 𝑖= 10% with ℎ= 𝑛 _or_ 
-
-- b. a **1** -year coupon bond with 𝑖= 10% , and re-invest the proceeds at 𝑡+ 1 in another 1-year coupon bond with 𝑖= 10% ? ( ℎ> 𝑛 )? 
-
-## **A** : it depends … 
-
-   - in case a, ℎ= 2 years, while 𝑛= 1 is 1 year for each bond 
-
-   - `o` in case b, if interest rate **falls** / **rise** in 𝑡+ 1 , you **lose** / **gain** : at the moment of reinvesting, you may fail to get the same interest rate as before! 
-
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. Bottom line: even very short maturities have risks ... 
-
-## **Duration** 
-
-## Can we **quantify** the **IRR** of a bond? 
-
-   - the further in the future the _payments_ of a bond lie, the more the bond is exposed IRR 
-
-   - idea: we could use a measure of time of each payment (c.d. “effective maturity”) of a bond to quantify IRR 
-
-   - in practice: to construct this measure of “effective maturity”, for each period: 
-
-      - 1[st] : calculate the % of the total PV of a bond is contributed by cash flows in each year payments are due (4 ex.: 1, 2, etc…) 
-
-      - 2[nd] : use these weights to calculate a “weighted” maturity 
-
-- Duration is the **weighted average of the maturities of the cash payments** 
-
-`o` it’s like an effective maturity `o` useful because it allows to _quantify_ the IRR because … 
+`o` it’s like an effective maturity `o` useful because it allows to _quantify_ the IRR because …
 
 ```
 o
 ```
 
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+## Duration
 
-## **Duration** 
+## Before we get to the formula, let’s see the intuition
 
-## Before we get to the formula, let’s see the intuition 
+- We want a measure of IRR
 
-- We want a measure of IRR 
+- Use the idea that the longer the maturity the higher IRR
 
-- Use the idea that the longer the maturity the higher IRR 
+Two bonds with same original maturity do **not** same IRR necessarily have
 
-Two bonds with same original maturity do **not** same IRR necessarily have 
+1: a zero-coupon bond (ZCB) makes all payments at the end 2: a coupon bond (CB) spreads them out in each period
 
-1: a zero-coupon bond (ZCB) makes all payments at the end 2: a coupon bond (CB) spreads them out in each period 
+**Q**: is the IRR (measured by the _effective maturity_ ) higher or lower for a ZCB with the same maturity of the coupon bond?
 
-**Q** : is the IRR (measured by the _effective maturity_ ) higher or lower for a ZCB with the same maturity of the coupon bond? 
+## Duration
 
-## **Duration** 
+## Before we get to the formula, let’s see the intuition
 
-## Before we get to the formula, let’s see the intuition 
+- We want a measure of IRR
 
-- We want a measure of IRR 
+- Use the idea that the longer the maturity the higher IRR
 
-- Use the idea that the longer the maturity the higher IRR 
+Two bonds with same original maturity do **not** same IRR necessarily have
 
-Two bonds with same original maturity do **not** same IRR necessarily have 
+- 1: a zero-coupon bond (ZCB) makes all payments at the end 2: a coupon bond (CB) spreads them out in each period.
 
-- 1: a zero-coupon bond (ZCB) makes all payments at the end 2: a coupon bond (CB) spreads them out in each period. 
+**Q**: is the IRR (measured by the _effective maturity_ ) higher or lower for a ZCB with the same maturity of the coupon bond?
 
-**Q** : is the IRR (measured by the _effective maturity_ ) higher or lower for a ZCB with the same maturity of the coupon bond? 
+**A**: **higher** for ZCB, because ZCB makes all payments at the end, while CB makes payments earlier than ZCB
 
-**A** : **higher** for ZCB, because ZCB makes all payments at the end, while CB makes payments earlier than ZCB 
+## Formula for Duration
 
-## **Formula for Duration** 
+where: 𝐶𝑃𝑡 = 𝐶 for 𝑡< 𝑛 ; 𝐶𝑃𝑡 = 𝐶+ 𝐹𝑉 for 𝑡= 𝑛
 
-**==> picture [610 x 139] intentionally omitted <==**
+- Formula intuition: the _effective_ of bonds is a _maturity_ coupon
 
-**----- Start of picture text -----**<br>
-𝐶𝑃<br>𝑛 𝑛 𝑡 𝑛<br>𝑃𝑉𝑡 1 + 𝑖 [𝑡]<br>𝑡 𝑡∙ 𝑡∙𝛼<br>𝑡<br>𝐷𝑈𝑅= ෍ 𝑃𝑉𝑇𝑂𝑇 = ෍ 𝑛 𝐶𝑃𝑡 = ෍<br>𝑡=1 𝑡=1 σ𝑡=1 1 + 𝑖 [𝑡] 𝑡=1<br>t  = maturity of cash flow payment ( 𝐶𝑃𝑡) weight<br>**----- End of picture text -----**<br>
+- weighted average of effective maturities on discount bonds
 
+`o` each coupon payment is like a discount bond
 
-where: 𝐶𝑃𝑡 = 𝐶 for 𝑡< 𝑛 ; 𝐶𝑃𝑡 = 𝐶+ 𝐹𝑉 for 𝑡= 𝑛 
+`o` 𝛼 the weights ( 𝑡 ) are equal to the proportion of the total value (in terms 𝐶𝑃 𝑡 1+𝑖(𝑡) 𝛼 = of PV) represented by each discount bond: 𝑡 𝐶𝑃
 
-- Formula intuition: the _effective_ of bonds is a _maturity_ coupon 
+## Explaining formula for Duration
 
-- weighted average of effective maturities on discount bonds 
+𝐷𝑈𝑅 = 𝛼 … 𝐷𝑈𝑅 = 𝛼 1 1 × 1 4 4 × 4
 
-`o` each coupon payment is like a discount bond 
+𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝑡 1 + 𝐷𝑈𝑅2 + 𝐷𝑈𝑅3 + 𝐷𝑈𝑅4
 
-`o` 𝛼 the weights ( 𝑡 ) are equal to the proportion of the total value (in terms 𝐶𝑃 𝑡 1+𝑖[𝑡] 𝛼 = of PV) represented by each discount bond: 𝑡 𝐶𝑃 
+- if the weights are the proportion of the total value (in terms of PV) represented by each discount bond …
 
-**==> picture [70 x 59] intentionally omitted <==**
+- … why is the d **uration of a ZCB equal to its maturity** ?
 
-`o` 𝛼 = 1 Copyright ©2015 Pearson Education, Ltd. All rights reserved. **Duration of a ZCB equal to its maturity** (in fact: 𝑡 ) 
+## Calculating Duration -** _**i**_ **=12%, 5 Year, Coupon Bond
 
-## **Explaining formula for Duration** 
+## Decompose 𝑃𝑉𝑇𝑂𝑇:
 
-**==> picture [542 x 95] intentionally omitted <==**
+2-56
 
-**==> picture [349 x 23] intentionally omitted <==**
+## Calculating Duration -** _**i**_ **=10%, 10 Year, 10% Coupon Bond
 
-**==> picture [368 x 44] intentionally omitted <==**
+**Duration for a coupon bond always less than actual maturity (see next page)**
 
-𝐷𝑈𝑅 = 𝛼 … 𝐷𝑈𝑅 = 𝛼 1 1 × 1 4 4 × 4 
+2-57
 
-𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝑡 1 + 𝐷𝑈𝑅2 + 𝐷𝑈𝑅3 + 𝐷𝑈𝑅4 
+## Properties of Duration
 
-- if the weights are the proportion of the total value (in terms of PV) represented by each discount bond … 
+## Properties: DUR** - **if:
 
-- … why is the d **uration of a ZCB equal to its maturity** ? 
+- **1. Maturity** (obvious)
 
-`o` Because having only one time in which payment takes place (say 𝑡 ), then: 𝛼 = 1 𝑡 by definition Copyright ©2015 Pearson Education, Ltd. All rights reserved. 2-55 
+**2.** 𝒊 - 𝒄𝒓(= 𝑪/𝑭𝑽) (ZCBs have max duration=actual maturity because
 
-## **Calculating Duration -** _**i**_ **=12%, 5 Year, Coupon Bond** 
+they pay all at the end)
 
-**==> picture [671 x 141] intentionally omitted <==**
+**3.** 𝒊 - sensitivity to changes in rates increases as rates fall (because duration is a linear approximation: as int. falls, discount the future less, far distant weights from now are higher)
 
-**----- Start of picture text -----**<br>
-i    = 0.12<br>time 1 2 3 4 5<br>CF 100 200 0 450 1000<br>PVt 89.3 159.4 0.0 286.0 567.4 PVTOT= 1102.1<br>a t 8.1% 14.5% 0.0% 25.9% 51.5%<br>DURt 0.1 0.3 0.0 1.0 2.6 DUR= 3.98<br>**----- End of picture text -----**<br>
+Recall also:
 
+## Duration and Interest-Rate Risk
 
-## Decompose 𝑃𝑉𝑇𝑂𝑇: 
+- Recall that IRR is given by the price change of a coupon bond if _i_ changes
 
-**==> picture [474 x 82] intentionally omitted <==**
+- With the duration we can approximate (for **small changes** in interest rate) the % price change with:
 
-**==> picture [655 x 117] intentionally omitted <==**
+∆𝑖
 
- At home try to replicate it and then change values ( _i, CF’s, n_ ) … …    see what happens to DUR (properties: nextCopyright ©2015 Pearson Education, Ltd. All rights reserved. slide!) 
+%∆𝑃≈−𝐷𝑈𝑅×
 
-2-56 
+1 + 𝑖 0
 
-## **Calculating Duration -** _**i**_ **=10%, 10 Year, 10% Coupon Bond** 
+`o` note: ∆𝑖= 𝑖 1 −𝑖0
 
-**==> picture [534 x 358] intentionally omitted <==**
+- the formula comes from a 1(st) order Taylor approximation
 
-**Duration for a coupon bond always less than actual maturity (see next page)** 
+Ex: if 𝑖↑ from 10% to 11% for coupon bond with a duration of 6.76 years:
 
-2-57 
+Δi =0.11-0.1=0.01
 
-## **Properties of Duration** 
+0.01
 
-**==> picture [343 x 72] intentionally omitted <==**
+## Duration and
 
-## **Properties: DUR**  **if:** 
+## Interest-Rate Risk (cont.)
 
-- 
+- The **greater** the duration of a security, the **greater** the percentage change in the market value of the security ( Δ𝑃 ) for a given change in interest rates ( 𝛥𝑖 )
 
-- **1. Maturity** (obvious) 
+- Therefore, the greater the duration of a security, the greater its IRR
 
-**2.** 𝒊  𝒄𝒓(= 𝑪/𝑭𝑽) (ZCBs have max duration=actual maturity because 
+- The duration is not quite the same as the IRR, but it measures its **intensity** !
 
-they pay all at the end) 
+## Exercise: Duration
 
-**3.** 𝒊  sensitivity to changes in rates increases as rates fall (because duration is a linear approximation: as int. falls, discount the future less, far distant weights from now are higher) 
+A 5% coupon bond has a YTM of 6% and a price of $965 . The interest rate then falls to 5.5%. The duration is 4 years. **Q**: What is the new price?
 
-Recall also: 
+## Exercise: Duration
 
-a. for **ZCB: Duration=Maturity** b. for **CB: Duration<Maturity** Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+A 5% coupon bond has a YTM of 6% and a price of $965 . The interest rate then falls to 5.5%. The duration is 4 years. **Q**: What is the new price? **A**: 𝑃= $983.2 Indeed:
 
-## **Duration and Interest-Rate Risk** 
+- – Δi =0.055 0.06= 0.005
 
-- Recall that IRR is given by the price change of a coupon bond if _i_ changes 
+1+i = 1+ 0.06 = 1.06
 
-- With the duration we can approximate (for **small changes** in interest rate) the % price change with: 
+− Δ𝑖 0.005 %Δ𝑃≈−𝐷𝑈𝑅× 1 + 𝑖(= −4 ×) 1.06
 
-∆𝑖 
+= +0.019
 
-%∆𝑃≈−𝐷𝑈𝑅× 
+- 𝑃1 = 𝑃0 1 + 0.019 = $965 × 1.019 = $983.2
 
-1 + 𝑖 0 
+## Duration of a Portfolio
 
-`o` note: ∆𝑖= 𝑖 1 −𝑖0 
+Consider not a single security, but a portfolio of securities
 
-- the formula comes from a 1[st] order Taylor approximation 
+## Duration is additive (∑)
 
-Ex: if 𝑖↑ from 10% to 11% for coupon bond with a duration of 6.76 years: 
+- The duration of a _portfolio of securities_ is the **weighted-** of the durations of the individual securities …
 
-Δi =0.11-0.1=0.01 
+- **average**
 
-0.01 
+- … with the **weights** equaling the proportion of the portfolio value invested in each security
 
-**==> picture [659 x 37] intentionally omitted <==**
+- Ex: if have _n_ bonds in the portfolio:
 
-## **Duration and** 
+- _DURportfolio_ = _DUR1_ × _w1_ + _DUR2_ × _w_ 2 +...+ _DURn_ × _w_ 𝑛
 
-## **Interest-Rate Risk (cont.)** 
+- _where w k is the weight of bond k over total value of bonds in the_
 
-- The **greater** the duration of a security, the **greater** the percentage change in the market value of the security ( Δ𝑃 ) for a given change in interest rates ( 𝛥𝑖 ) 
+- _portfolio_
 
-- Therefore, the greater the duration of a security, the greater its IRR 
+## Exercise: Duration of a Portfolio
 
-- The duration is not quite the same as the IRR, but it measures its **intensity** ! 
+- Assume that you have a portfolio of 2 bonds `o` One has a duration of 3 years, and the other has a duration of 7 years `o` The market values of the bonds are $600 and $900, respectively `o` Both bonds have the face value of $1,000 **Q**: What is the **duration of your portfolio** ? ^qe7lwr
 
-## **Exercise: Duration** 
+## Exercise: Duration of a Portfolio
 
-A 5% coupon bond has a YTM of 6% and a price of $965 . The interest rate then falls to 5.5%. The duration is 4 years. **Q** : What is the new price? 
+- Assume that you have a portfolio of 2 bonds
 
-## **Exercise: Duration** 
+`o` One has a duration of 3 years, and the other has a duration of 7 years `o` The market values of the bonds are $600 and $900, respectively `o` Both bonds have the face value of $1,000
 
-A 5% coupon bond has a YTM of 6% and a price of $965 . The interest rate then falls to 5.5%. The duration is 4 years. **Q** : What is the new price? **A** : 𝑃= $983.2 Indeed: 
+## **Q**: What is the **duration of your portfolio** ?
 
-- – Δi =0.055 0.06= 0.005 
+𝐷𝑈𝑅𝑝𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜= 3 × 0.4 + 7 × 0.6 = 1.2 + 4.2 = 5.4 (years)
 
-1+i = 1+ 0.06 = 1.06 
+**N.B.1** The weights reflect the values (market prices) of the securities in the portfolio, not their face values
 
-− Δ𝑖 0.005 %Δ𝑃≈−𝐷𝑈𝑅× 1 + 𝑖[= −4 ×] 1.06 
+## Chapter 3 Summary (1/2)
 
-= +0.019 
+1. We examined how to price various debt instruments using the Present Value formula
 
-- 𝑃1 = 𝑃0 1 + 0.019 = $965 × 1.019 = $983.2 
+2. We defined the YTM as the interest rate that makes the price of debt (P) equal to its PV
 
-## **Duration of a Portfolio** 
+3. We defined the concept of the current yield = C/P
 
-Consider not a single security, but a portfolio of securities 
+4. We discussed the relation between YTM, P and C `o` Especially that YTM and P are negatively related!
 
-## **Duration is additive (∑)** 
+5. We distinguished between real and nominal interest rate
 
-- The duration of a _portfolio of securities_ is the **weighted-** of the durations of the individual securities … 
+## Chapter 3 Summary (2/2)
 
-- **average** 
+6. We distinguished between _i_ and rate of return and found out that only if we HTM the two coincide
 
-- … with the **weights** equaling the proportion of the portfolio value invested in each security 
+7. Hence, we defined IRR, which makes investment in L-T bonds risky
 
-- Ex: if have _n_ bonds in the portfolio: 
+8. And we’ve seen how to measure IRR using Duration
 
-   - _DURportfolio_ = _DUR1_ × _w1_ + _DUR2_ × _w_ 2 +...+ _DURn_ × _w_ 𝑛 
+Lots of definitions, but these are all **fundamental concepts** for the rest of the semester. Make sure you understand them!
 
-   - _where w k is the weight of bond k over total value of bonds in the_ 
-
-   - _portfolio_ 
-
-## **Exercise: Duration of a Portfolio** 
-
- Assume that you have a portfolio of 2 bonds `o` One has a duration of 3 years, and the other has a duration of 7 years `o` The market values of the bonds are $600 and $900, respectively `o` Both bonds have the face value of $1,000 **Q** : What is the **duration of your portfolio** ? 
-
-## **Exercise: Duration of a Portfolio** 
-
-- Assume that you have a portfolio of 2 bonds 
-
-`o` One has a duration of 3 years, and the other has a duration of 7 years `o` The market values of the bonds are $600 and $900, respectively `o` Both bonds have the face value of $1,000 
-
-## **Q** : What is the **duration of your portfolio** ? 
-
-**==> picture [418 x 38] intentionally omitted <==**
-
-**==> picture [296 x 38] intentionally omitted <==**
-
-𝐷𝑈𝑅𝑝𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜= 3 × 0.4 + 7 × 0.6 = 1.2 + 4.2 = 5.4 (years) 
-
-**N.B.1** The weights reflect the values (market prices) of the securities in the portfolio, not their face values 
-
-## **Chapter 3 Summary (1/2)** 
-
-1. We examined how to price various debt instruments using the Present Value formula 
-
-2. We defined the YTM as the interest rate that makes the price of debt (P) equal to its PV 
-
-3. We defined the concept of the current yield = C/P 
-
-4. We discussed the relation between YTM, P and C `o` Especially that YTM and P are negatively related! 
-
-5. We distinguished between real and nominal interest rate 
-
-## **Chapter 3 Summary (2/2)** 
-
-6. We distinguished between _i_ and rate of return and found out that only if we HTM the two coincide 
-
-7. Hence, we defined IRR, which makes investment in L-T bonds risky 
-
-8. And we’ve seen how to measure IRR using Duration 
-
-Lots of definitions, but these are all **fundamental concepts** for the rest of the semester. Make sure you understand them! 
-
+## Related Notes
+- Chapter 3
+- [[Lect3_exercises]]
+- [[Full-material presentation Chapter 10]]

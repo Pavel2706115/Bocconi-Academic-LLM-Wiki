@@ -1,506 +1,448 @@
-## **30066 – MACROECONOMICS** 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "FEATURES OF THE MEDIUM RUN EQUILIBRIUM"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**(8 CFU) CLASS : BIEM 14 & 19 2024 – 25** 
+## 30066 – MACROECONOMICS
 
-**Lecture 13 & Lecture 14 (Ch. 9 )** The _IS-LM-PC_ model 
+**(8 CFU) CLASS: BIEM 14 & 19 2024 – 25**
 
-M I C H E L A B R A G A 
+**Lecture 13 & Lecture 14 (Ch. 9 )** The _IS-LM-PC_ model
 
-## WHERE WE ARE 
+## WHERE WE ARE
 
-## **Fundamentals** 
+## Fundamentals
 
-## **Extensions** 
+## Extensions
 
-1. Macroeconomic variables 
+1. Macroeconomic variables
 
-   - Elements of national accounting 
+- Elements of national accounting
 
-## 2. The short run 
+## 2. The short run
 
-1. Goods markets 
+1. Goods markets
 
-2. Financial markets 
+2. Financial markets
 
-         4. Expectations, financial markets, and economic policies 
+4. Expectations, financial markets, and economic policies
 
-            1. Financial markets and expectations 
+1. Financial markets and expectations
 
-            2. Consumption, investment, and expectations 
+2. Consumption, investment, and expectations
 
-            3. Output, economic policies, and expectations 
+3. Output, economic policies, and expectations
 
-      1. Without commercial banks 
+1. Without commercial banks
 
-      2. With commercial banks 
+2. With commercial banks
 
-   3. IS-LM model 
+3. IS-LM model
 
-3. The medium run 
+3. The medium run
 
-   1. Labor market 
+1. Labor market
 
-   2. Phillips curve 
+2. Phillips curve
 
-   3. IS-LM-PC model 
+3. IS-LM-PC model
 
-      1. Medium and short run equilibrium 2. Demand and supply shock 
+1. Medium and short run equilibrium 2. Demand and supply shock
 
-5. Open economy 
+5. Open economy
 
-   1. Exchange rates, trade, and international returns 
+1. Exchange rates, trade, and international returns
 
-   2. Goods markets in an open economy 
+2. Goods markets in an open economy
 
-   3. Financial markets and economic policies in an open economy 
+3. Financial markets and economic policies in an open economy
 
-6. Public debt and fiscal policy 
+6. Public debt and fiscal policy
 
-7. From the Great Recession to Quantitative Tightening 
+7. From the Great Recession to Quantitative Tightening
 
-   - From a housing crisis to a financial crisis 
+- From a housing crisis to a financial crisis
 
-   - Unconventional monetary policies 
+- Unconventional monetary policies
 
-2 
+## INTRODUCTION
 
-## INTRODUCTION 
+- **Short Run**
 
-- **Short Run** 
+- Goods market and financial markets in equilibrium (IS-LM)
 
-   - Goods market and financial markets in equilibrium (IS-LM) 
+- Expectations are not correct
 
-   - Expectations are not correct 
+- There is a O.G.: actual output ≠ potential output
 
-   - There is a O.G.: actual output ≠ potential output 
+- **Medium Run**
 
-- **Medium Run** 
+- Labor market is in equilibrium (WS=PS)
 
-   - Labor market is in equilibrium (WS=PS) 
+- Expectations are correct
 
-   - Expectations are correct 
+- There is no O.G.: actual output = potential output
 
-   - There is no O.G.: actual output = potential output 
+- From short to medium run:
 
-- From short to medium run: 
+- Adjustment of expectations, prices and wages (PC)
 
-   - Adjustment of expectations, prices and wages (PC) 
+## IS-LM-PC MODEL
 
-## IS-LM-PC MODEL 
+- Simply put together our short run and medium run models
 
-- Simply put together our short run and medium run models 
+1. describe the transition from short to medium run
 
-   1. describe the transition from short to medium run 
+2. identify the level of three endogenous variables for the economy
 
-   2. identify the level of three endogenous variables for the economy 
+1. output (Y)
 
-      1. output (Y) 
+2. interest rate (i and r)
 
-      2. interest rate (i and r) 
+3. inflation ( 𝜋𝜋 )
 
-      3. inflation ( 𝜋𝜋 ) 
+3. understand if shocks produce temporary or permanent effects
 
-   3. understand if shocks produce temporary or permanent effects 
+the relevant interest rate for demand is the borrowing rate. r can be negative
 
-**==> picture [321 x 17] intentionally omitted <==**
+CB sets i and indirectly controls r, given expectations
 
-**==> picture [81 x 17] intentionally omitted <==**
+In the IS-LM model we explain Y => necessary to rewrite the PC in terms of production, 𝑌𝑌
 
-**==> picture [191 x 21] intentionally omitted <==**
+## PC IN TERMS OF OUTPUT GAP
 
-the relevant interest rate for demand is the borrowing rate. r can be negative 
+Recalling that
 
-CB sets i and indirectly controls r, given expectations 
+𝑌𝑌𝑛𝑛 𝑌𝑌𝑛𝑛 = 𝐿𝐿 1 −𝑢𝑢𝑛𝑛 ⇒𝑢𝑢𝑛𝑛 = 1 − 𝐿𝐿 𝑌𝑌𝑡𝑡 𝑌𝑌𝑛𝑛 1 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛 = 1 − 𝑌𝑌𝑡𝑡 −𝑌𝑌𝑛𝑛 𝐿𝐿(−1 +) 𝐿𝐿(= −) 𝐿𝐿
 
-In the IS-LM model we explain Y => necessary to rewrite the PC in terms of production, 𝑌𝑌 
+The general Phillips curve becomes:
 
-## PC IN TERMS OF OUTPUT GAP 
+𝜋𝜋−𝜋𝜋(𝑒𝑒) = −𝛼𝛼 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛 𝛼𝛼 = ∆𝜋𝜋(𝑒𝑒) = 𝜋𝜋−𝜋𝜋(𝑒𝑒) 𝑌𝑌𝑡𝑡 −𝑌𝑌𝑛𝑛 𝐿𝐿
 
-Recalling that 
+PC in terms of output gap Describes the dynamics of prices as production changes wrt the potential
 
-𝑌𝑌𝑛𝑛 𝑌𝑌𝑛𝑛 = 𝐿𝐿 1 −𝑢𝑢𝑛𝑛 ⇒𝑢𝑢𝑛𝑛 = 1 − 𝐿𝐿 𝑌𝑌𝑡𝑡 𝑌𝑌𝑛𝑛 1 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛 = 1 − 𝑌𝑌𝑡𝑡 −𝑌𝑌𝑛𝑛 𝐿𝐿[−1 +] 𝐿𝐿[= −] 𝐿𝐿 
+Agents can follow different rules to form expectations
 
-The general Phillips curve becomes: 
+## Novelty: plot the PC CURVE in the (Y, ∆𝜋𝜋(𝑒𝑒) ) plane
 
-𝜋𝜋−𝜋𝜋[𝑒𝑒] = −𝛼𝛼 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛 𝛼𝛼 = ∆𝜋𝜋[𝑒𝑒] = 𝜋𝜋−𝜋𝜋[𝑒𝑒] 𝑌𝑌𝑡𝑡 −𝑌𝑌𝑛𝑛 𝐿𝐿 
+𝛼𝛼 = ∆𝜋𝜋(𝑒𝑒) = 𝜋𝜋−𝜋𝜋(𝑒𝑒) 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿 +
 
-PC in terms of output gap Describes the dynamics of prices as production changes wrt the potential 
+## NOTE on EXPECTATIONS
 
-Agents can follow different rules to form expectations 
+- General case: expectations anchored to the CB inflation target =
 
-## Novelty: plot the PC CURVE in the (Y, ∆𝜋𝜋[𝑒𝑒] ) plane 
+- 𝜋𝜋(𝑒𝑒) �𝜋𝜋
 
-𝛼𝛼 = ∆𝜋𝜋[𝑒𝑒] = 𝜋𝜋−𝜋𝜋[𝑒𝑒] 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿 + 
+𝛼𝛼 ∆𝜋𝜋(𝑒𝑒) = 𝜋𝜋−�𝜋𝜋= 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿 With positive O.G. current inflation is above the CB target but it is constant With negative  O.G. current inflation is below the CB target but it is constant With no O.G. current inflation is at the CB target ^th3mwv
 
-**==> picture [460 x 394] intentionally omitted <==**
+- Alternative case: adaptive expectations
 
-**----- Start of picture text -----**<br>
-∆𝜋𝜋 [𝑒𝑒] = 𝜋𝜋−𝜋𝜋 [𝑒𝑒] 𝑃𝑃𝐶𝐶<br>∆𝜋𝜋> 0<br>1<br>𝑁𝑁<br>𝟎𝟎<br>𝑌𝑌0 𝑌𝑌1 𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>∆𝜋𝜋< 0<br>0<br>Positive output gap<br>Negative output gap<br>𝑌𝑌> 𝑌𝑌𝑛𝑛 and  𝑢𝑢< 𝑢𝑢𝑛𝑛<br>𝑌𝑌< 𝑌𝑌𝑛𝑛 and  𝑢𝑢> 𝑢𝑢𝑛𝑛 ⇒𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>⇒𝜋𝜋< 𝜋𝜋 [𝑒𝑒]<br>⇒ short run equilibrium<br>⇒ short run equilibrium<br>The economy at the medium run<br>equilibrium  𝑌𝑌= 𝑌𝑌𝑛𝑛 and  𝑢𝑢= 𝑢𝑢𝑛𝑛<br>⇒𝜋𝜋= 𝜋𝜋 [𝑒𝑒]<br>**----- End of picture text -----**<br>
+𝛼𝛼 = ∆𝜋𝜋(𝑒𝑒) = 𝜋𝜋−𝜋𝜋𝑡𝑡−1 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿
 
+With positive O.G. inflation increases over time With negative  O.G. inflation decreases over time With no O.G. inflation is constant over time
 
-## NOTE on EXPECTATIONS 
+Model endogenous variables: 𝑌𝑌 , 𝑖𝑖(and 𝑟𝑟 ) , 𝜋𝜋
 
-- General case: expectations anchored to the CB inflation target = 
+## MEDIUM RUN EQUILIBRIUM
 
-- 𝜋𝜋[𝑒𝑒] �𝜋𝜋 
+All markets (goods, financial, labor) are in equilibrium and expectations are correct => the economy is at its  potential with no output gap
 
-𝛼𝛼 ∆𝜋𝜋[𝑒𝑒] = 𝜋𝜋−�𝜋𝜋= 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿 With positive O.G. current inflation is above the CB target but it is constant With negative  O.G. current inflation is below the CB target but it is constant With no O.G. current inflation is at the CB target 
+𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛, Δ𝜋𝜋(𝑒𝑒) = 0
 
-- Alternative case: adaptive expectations 
+## = Expectations are well anchored to the CB target 𝜋𝜋(𝑒𝑒) �𝜋𝜋
 
-**==> picture [70 x 22] intentionally omitted <==**
+𝐼: 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑒𝑒+ 𝐺𝐺
 
-𝛼𝛼 = ∆𝜋𝜋[𝑒𝑒] = 𝜋𝜋−𝜋𝜋𝑡𝑡−1 𝑌𝑌−𝑌𝑌𝑛𝑛 𝐿𝐿 
+# FEATURES OF THE MEDIUM RUN EQUILIBRIUM
 
-With positive O.G. inflation increases over time With negative  O.G. inflation decreases over time With no O.G. inflation is constant over time 
+## 1. THE REAL INTEREST IS AT THE NATURAL LEVEL
 
-Model endogenous variables: 𝑌𝑌 , 𝑖𝑖(and 𝑟𝑟 ) , 𝜋𝜋 
+≡ 𝒓𝒓𝒏𝒏 **Natural rate of interest (neutral or Wicksellian interest rate)** _Interest rate associated with the medium run equilibrium,_ 𝑌𝑌𝑛𝑛 _(Goods mkt eq. at the MR)_ It is determined implicitly from the equilibrium in the goods market: 𝑟𝑟𝑛𝑛 𝑌𝑌𝑛𝑛 = 𝑍𝑍𝑛𝑛
 
-## **MEDIUM RUN EQUILIBRIUM** 
+## The goods market in in equilibrium in the medium run if
 
-All markets (goods, financial, labor) are in equilibrium and expectations are correct => the economy is at its  potential with no output gap 
+## Aggregate supply = Aggregate demand
 
-𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛, Δ𝜋𝜋[𝑒𝑒] = 0 
+_=_ 𝑌𝑌𝑛𝑛 𝑍𝑍𝑛𝑛
 
-## = Expectations are well anchored to the CB target 𝜋𝜋[𝑒𝑒] �𝜋𝜋 
+𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑒𝑒+ 𝐺𝐺 𝑍𝑍𝑛𝑛 = 𝑓𝑓(𝑟𝑟𝑛𝑛) 𝛼𝛼 -
 
-𝐼 : 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑒𝑒+ 𝐺𝐺 
+𝑚𝑚+ 𝑧𝑧 𝑌𝑌𝑛𝑛 = 𝐿𝐿 1 −𝑢𝑢𝑛𝑛 = 𝐿𝐿 1 −
 
-**==> picture [594 x 385] intentionally omitted <==**
+## Determined only by **structural factors**
 
-**----- Start of picture text -----**<br>
-𝐿 :<br>𝑟𝑟= ̅𝑟𝑟<br>𝑟𝑟 𝛼𝛼<br>𝑃𝑃𝐶𝐶: Δ�𝜋𝜋= 𝑌𝑌−𝑌𝑌𝑛𝑛<br>𝐿𝐿<br>N<br>𝐿<br>�𝑟𝑟𝑛𝑛<br>The economy is in a medium-run<br>equilibrium: point N<br>𝐼 𝐼 ∩𝐿 at  𝑌𝑌𝑛𝑛<br>𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛<br>𝑌𝑌𝑛𝑛 𝑌𝑌<br>Δ𝜋𝜋= 𝜋𝜋−�𝜋𝜋<br>𝑃𝑃𝐶𝐶<br>Inflation is at the target<br>N Δ�𝜋𝜋= 0 ↔𝜋𝜋= �𝜋𝜋<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>**----- End of picture text -----**<br>
+of the:
 
+**1. goods market** 𝑚𝑚
 
-# **FEATURES OF THE MEDIUM RUN EQUILIBRIUM** 
+**2. labor market** 𝑧𝑧, 𝛼𝛼
 
-## **1. THE REAL INTEREST IS AT THE NATURAL LEVEL** 
+**3. Labor force/population** L
 
-≡ 𝒓𝒓𝒏𝒏 **Natural rate of interest (neutral or Wicksellian interest rate)** _Interest rate associated with the medium run equilibrium,_ 𝑌𝑌𝑛𝑛 _(Goods mkt eq. at the MR)_ It is determined implicitly from the equilibrium in the goods market 
+Does not depend on r!!
 
-: 𝑟𝑟𝑛𝑛 𝑌𝑌𝑛𝑛 = 𝑍𝑍𝑛𝑛 
+## DETERMINANTS OF 𝑟𝑟 𝑛𝑛
 
-## The goods market in in equilibrium in the medium run if 
+- The natural rate of interest depends on:
 
-## Aggregate supply = Aggregate demand 
+– 𝑌𝑌𝑛𝑛
 
-_=_ 𝑌𝑌𝑛𝑛 𝑍𝑍𝑛𝑛 
+- 𝐺𝐺, 𝑇𝑇: fiscal policy
 
-𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑒𝑒+ 𝐺𝐺 𝑍𝑍𝑛𝑛 = 𝑓𝑓(𝑟𝑟𝑛𝑛) 𝛼𝛼 - 
+- Demand shocks: 𝑐𝑐0, 𝐼𝐼, 𝑒𝑒, …
 
-𝑚𝑚+ 𝑧𝑧 𝑌𝑌𝑛𝑛 = 𝐿𝐿 1 −𝑢𝑢𝑛𝑛 = 𝐿𝐿 1 − 
+- It changes only if the potential output changes and the demand changes permanently
 
-## Determined only by **structural factors** 
+- It does not depend on the monetary policy!!!
 
-of the: 
+## 2. NOMINAL INTEREST RATE
 
-**1. goods market** 𝑚𝑚 
+In the medium run 𝑟𝑟= 𝑟𝑟𝑛𝑛 and 𝜋𝜋= 𝜋𝜋(𝑒𝑒) => the nominal interest rate will be 𝑖𝑖= 𝑟𝑟𝑛𝑛 + 𝜋𝜋(𝑒𝑒) With anchored expectations 𝜋𝜋(𝑒𝑒) = �𝜋𝜋 => 𝑖𝑖= 𝑟𝑟𝑛𝑛 + �𝜋𝜋
 
-**2. labor market** 𝑧𝑧, 𝛼𝛼 
+The higher the inflation target, the higher the nominal interest rate will be
 
-**3. Labor force/population** L 
+# 3. INFLATION RATE IS EQUAL TO THE GROWTH RATE OF MONEY
 
-Does not depend on r!! 
+The money market is in equilibrium
 
-**==> picture [9 x 19] intentionally omitted <==**
+Given that L is constant also the real money supply will be constant
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>**----- End of picture text -----**<br>
+**4. SAVING AND INVESTMENT** In the MR all markets are in equilibrium and expectations are correct
 
+_=_ 𝑌𝑌𝑛𝑛 𝑍𝑍𝑛𝑛 and 𝐼𝐼= 𝐼𝐼𝑁 𝑡𝑡 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑒𝑒= 𝐼𝐼 𝑌𝑌−𝑇𝑇+ 𝑇𝑇−𝐺𝐺
 
-**==> picture [253 x 220] intentionally omitted <==**
+# 5. REAL VARIABLES IN THE MR DO NOT DEPEND ON MONETARY POLICY
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>𝒓𝒓𝒏𝒏<br>𝑍𝑍𝑛𝑛<br>𝑌𝑌𝑛𝑛 𝑌𝑌<br>**----- End of picture text -----**<br>
+The monetary policy in the medium rum determines only the nominal interest rate and inflation
 
+## SHORT RUN EQUILIBRIUM
 
-## DETERMINANTS OF 𝑟𝑟 𝑛𝑛 
+Goods and financial markets are in equilibrium but expectations are not correct => the economy is above/below the with an output gap 𝑌𝑌≠𝑌𝑌𝑛𝑛, 𝑢𝑢≠𝑢𝑢𝑛𝑛, Δ𝜋𝜋(𝑒𝑒) ≠0
 
-- The natural rate of interest depends on: 
+## 1) ECONOMY ABOVE THE POTENTIAL
 
-– 𝑌𝑌𝑛𝑛 
+𝐼 ∩𝐿 at the right of 𝑌𝑌𝑛𝑛 Short Run equilibrium: point 0 𝑌𝑌≠𝑌𝑌𝑛𝑛 ⇒Δ𝜋𝜋≠0
 
-   - 𝐺𝐺, 𝑇𝑇 : fiscal policy 
+Positive output gap: economy above the potential
 
-   - Demand shocks: 𝑐𝑐0, 𝐼𝐼, 𝑒𝑒, … 
+∶ 𝑌𝑌> 𝑌𝑌𝑛𝑛 ⇒𝑢𝑢< 𝑢𝑢𝑛𝑛 ⇒ ↑ workers  bargaining power ↓ firms  bargaining power ⇒↑ nominal W bargained ⇒↑ firms production costs that set higher prices to final consumers ⇒↑ current price level ⇒↑ inflation that will be higher than the CB target expected ⇒𝜋𝜋> 𝜋𝜋(𝑒𝑒)
+*(See also: [[L15 ISLMPC Shock#^f7uroz]])*
 
-- It changes only if the potential output changes and the demand changes permanently 
+𝜋𝜋> �𝜋𝜋
 
-- It does not depend on the monetary policy!!! 
+## 2) ECONOMY BOLOW THE POTENTIAL
 
-## **2. NOMINAL INTEREST RATE** 
+𝐼 ∩𝐿 at the left of 𝑌𝑌𝑛𝑛
 
-In the medium run 𝑟𝑟= 𝑟𝑟𝑛𝑛 and 𝜋𝜋= 𝜋𝜋[𝑒𝑒] => the nominal interest rate will be 𝑖𝑖= 𝑟𝑟𝑛𝑛 + 𝜋𝜋[𝑒𝑒] With anchored expectations 𝜋𝜋[𝑒𝑒] = �𝜋𝜋 => 𝑖𝑖= 𝑟𝑟𝑛𝑛 + �𝜋𝜋 
+Short Run equilibrium: point 0 𝑌𝑌≠𝑌𝑌𝑛𝑛 ⇒Δ𝜋𝜋≠0
 
-The higher the inflation target, the higher the nominal interest rate will be 
+Negative  output gap: economy below the potential
 
-# **3. INFLATION RATE IS EQUAL TO THE GROWTH RATE OF MONEY** 
+∶ 𝑌𝑌< 𝑌𝑌𝑛𝑛 ⇒𝑢𝑢> 𝑢𝑢𝑛𝑛
 
-The money market is in equilibrium 
+⇒ ↓ workers  bargaining power
 
-**==> picture [85 x 43] intentionally omitted <==**
+↑ firms  bargaining power
 
-Given that L is constant also the real money supply will be constant 
+⇒ ↓ nominal W bargained ⇒ ↓ firms production costs that set higher prices to final consumers ⇒ ↓current price level ⇒ ↓inflation that will be lower than the CB target expected ⇒𝜋𝜋< 𝜋𝜋(𝑒𝑒) ^1zzryo
 
-**==> picture [88 x 64] intentionally omitted <==**
+𝜋𝜋< �𝜋𝜋
 
-**4. SAVING AND INVESTMENT** In the MR all markets are in equilibrium and expectations are correct 
+# HOW DO WE REACH A MR  EQUILIBRIUM?
 
-_=_ 𝑌𝑌𝑛𝑛 𝑍𝑍𝑛𝑛 and 𝐼𝐼= 𝐼𝐼𝑁 𝑡𝑡 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑒𝑒= 𝐼𝐼 𝑌𝑌−𝑇𝑇+ 𝑇𝑇−𝐺𝐺 
+Nowaday mainly thanks to the interventions of the CB ECB goal: price stability FED goal: maximize employment with stable prices
 
-# **5. REAL VARIABLES IN THE MR DO NOT DEPEND ON MONETARY POLICY** 
+## MONETARY POLICY and INFLATION TARGETING
 
-The monetary policy in the medium rum determines only the nominal interest rate and inflation 
+Modern CB have targets in terms of inflation
 
-## **SHORT RUN EQUILIBRIUM** 
+- **European Central Bank**
 
-Goods and financial markets are in equilibrium but expectations are not correct => the economy is above/below the with an output gap 𝑌𝑌≠𝑌𝑌𝑛𝑛, 𝑢𝑢≠𝑢𝑢𝑛𝑛, Δ𝜋𝜋[𝑒𝑒] ≠0 
+- The o primary objective f the ECB’s monetary policy is to maintain **price**
 
-## 1) ECONOMY ABOVE THE POTENTIAL 
+- **stability**
 
-**==> picture [291 x 362] intentionally omitted <==**
+- The Governing Council considers that price stability is best maintained by aiming for **2% inflation over the medium term** .
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>N<br>0 𝐿<br>̅𝑟𝑟<br>𝐼<br>𝑌𝑌0 𝑌𝑌<br>∆𝜋𝜋 [𝑒𝑒]<br>𝑃𝑃𝐶𝐶<br>0<br>𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>N<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 𝑌𝑌0<br>**----- End of picture text -----**<br>
+- **FED**:
 
+- The goals of monetary policy are to promote maximum employment, **stable prices** and moderate long-term interest rates.
 
-𝐼 ∩𝐿 at the right of 𝑌𝑌𝑛𝑛 Short Run equilibrium: point 0 𝑌𝑌≠𝑌𝑌𝑛𝑛 ⇒Δ𝜋𝜋≠0 
+- By implementing effective monetary policy, the Fed can maintain **stable prices** , thereby supporting conditions for long-term economic growth and maximum employment
 
-Positive output gap: economy above the potential 
+## MONETARY POLICY
 
-∶ 𝑌𝑌> 𝑌𝑌𝑛𝑛 ⇒𝑢𝑢< 𝑢𝑢𝑛𝑛 ⇒ ↑ workers  bargaining power ↓ firms  bargaining power ⇒↑ nominal W bargained ⇒↑ firms production costs that set higher prices to final consumers ⇒↑ current price level ⇒↑ inflation that will be higher than the CB target expected ⇒𝜋𝜋> 𝜋𝜋[𝑒𝑒] 
+- Main desirable objectives:
 
-𝜋𝜋> �𝜋𝜋 
+- A low and stable inflation
 
-## 2) ECONOMY BOLOW THE POTENTIAL 
+- Production at potential ( 𝑌𝑌𝑛𝑛 )
 
-**==> picture [290 x 362] intentionally omitted <==**
+- Up to the 80s, the strategy of monetary policy was money targeting
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>0 𝐿<br>̅𝑟𝑟<br>N<br>𝐼<br>𝑌𝑌0 𝑌𝑌<br>∆𝜋𝜋 [𝑒𝑒]<br>𝑃𝑃𝐶𝐶<br>N<br>𝑌<br>0<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛<br>𝜋𝜋< 𝜋𝜋 [𝑒𝑒]<br>0<br>**----- End of picture text -----**<br>
+- Control the amount of money (growth)
 
+- Results were unsatisfactory
 
-𝐼 ∩𝐿 at the left of 𝑌𝑌𝑛𝑛 
+- Strategy adopted today: _**inflation targeting**_
 
-Short Run equilibrium: point 0 𝑌𝑌≠𝑌𝑌𝑛𝑛 ⇒Δ𝜋𝜋≠0 
+- Two main principles:
 
-Negative  output gap: economy below the potential 
+- _Keep inflation stable and low;_
 
-∶ 𝑌𝑌< 𝑌𝑌𝑛𝑛 ⇒𝑢𝑢> 𝑢𝑢𝑛𝑛 
+- Follow, explicitly or implicitly, a policy rule on the interest rate
 
-⇒ ↓ workers  bargaining power 
+## INFLATION TARGETING
 
-↑ firms  bargaining power 
+- Phillips Curve:
 
-⇒ ↓ nominal W bargained ⇒ ↓ firms production costs that set higher prices to final consumers ⇒ ↓current price level ⇒ ↓inflation that will be lower than the CB target expected ⇒𝜋𝜋< 𝜋𝜋[𝑒𝑒] 
+- If the Central Bank is credible in pursuing the aim of an inflation rate equal to �𝜋𝜋
 
-𝜋𝜋< �𝜋𝜋 
+- =
 
-# **HOW DO WE REACH A MR  EQUILIBRIUM?** 
+- Agents form expectations coherently 𝜋𝜋(𝑒𝑒) �𝜋𝜋
 
-Nowaday mainly thanks to the interventions of the CB ECB goal: price stability FED goal: maximize employment with stable prices 
+- The economy is always at the natural rate of unemployment
 
-## MONETARY POLICY and INFLATION TARGETING 
+- Hence, 𝑌𝑌= 𝑌𝑌𝑛𝑛
 
-Modern CB have targets in terms of inflation 
+- **Divine Coincidence!**
 
-- **European Central Bank** 
+- A point of reference, but the real world is a bit more complicated …
 
-   - The o primary objective f the ECB’s monetary policy is to maintain **price** 
+## MONETARY POLICY IN ACTION
 
-   - **stability** 
+-: In practice CB adopt a **«flexible» inflation targeting** – Uncertainty over the impact of changes in the interest rate on production and inflation
 
-   - The Governing Council considers that price stability is best maintained by aiming for **2% inflation over the medium term** . 
+– A gradual approach => Target over the medium run
 
-- **FED** : 
+## IS-LM-PC: ADJUSTMENT TO THE MR
 
-   - The goals of monetary policy are to promote maximum employment, **stable prices** and moderate long-term interest rates. 
+The CB acts to reduce inflation growth
 
-   - By implementing effective monetary policy, the Fed can maintain **stable prices** , thereby supporting conditions for long-term economic growth and maximum employment 
+𝑖𝑖↑⇒𝑟𝑟↑⇒𝐿 ↑ 𝑟𝑟↑⇒𝐼𝐼↓⇒𝑌𝑌↓ along the 𝐼
 
-## MONETARY POLICY 
+In 𝟏𝟏 , the economy is at the **medium run** equilibrium **:** 𝜋𝜋= 𝜋𝜋(𝑒𝑒) 𝑌𝑌= 𝑌𝑌𝑛𝑛 𝑢𝑢= 𝑢𝑢𝑛𝑛 𝑟𝑟= 𝑟𝑟𝑛𝑛
 
-- Main desirable objectives: 
+## ECONOMIC INTUITION
 
-   - A low and stable inflation 
+- CB implements contractionary MP by selling bonds.
 
-   - Production at potential ( 𝑌𝑌𝑛𝑛 ) 
+- On the bonds market the price of bond decreases and, given their face value, their nominal return increases.
 
-- Up to the 80s, the strategy of monetary policy was money targeting 
+- Given expected inflation, also the real interest rate increases
 
-   - Control the amount of money (growth) 
+- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income
 
-   - Results were unsatisfactory 
+- If GDP decreases, employment decreases and unemployment increases reducing the workers bargaining power with respect to firms
 
-- Strategy adopted today: _**inflation targeting**_ 
+- Bargained nominal wages decrease thus reducing firms production costs.
 
-- Two main principles: 
+- Firms can maximize their profits by charging lower prices
 
-   - _Keep inflation stable and low;_ 
+- The inflation rate decreases
 
-   - Follow, explicitly or implicitly, a policy rule on the interest rate 
+H ↓⇒€PB ↓ and i ↑ => given expected inflation also r ↑ => ↓ I, ↓ Z  and ↓ Y  => u ↑ and  W ↓⇒P ↓⇒π ↓
 
-## INFLATION TARGETING 
+In 0: short run 𝑌𝑌< 𝑌𝑌𝑛𝑛 ⇒𝜋𝜋< 𝜋𝜋(𝑒𝑒)
 
-- Phillips Curve: 
+## How do we reach the medium run equilibrium?
 
-**==> picture [159 x 45] intentionally omitted <==**
+## ECONOMIC INTUITION
 
-- If the Central Bank is credible in pursuing the aim of an inflation rate equal to �𝜋𝜋 
+- CB implements expansionary MP by buying bonds.
 
-   - = 
+- On the bonds market the price of bond increases and, given their face value, their nominal return decreases.
 
-   - Agents form expectations coherently 𝜋𝜋[𝑒𝑒] �𝜋𝜋 
+- Given expected inflation, also the real interest rate decerases
 
-   - The economy is always at the natural rate of unemployment 
+- The lower borrowing rate increases investment, the aggregate demand  and through the multiplier income
 
-   - Hence, 𝑌𝑌= 𝑌𝑌𝑛𝑛 
+- If GDP increases, employment increases and unemployment decerases increasing the workers bargaining power with respect to firms
 
-- **Divine Coincidence!** 
+- Bargained nominal wages increase thus increasing firms production costs.
 
-      - A point of reference, but the real world is a bit more complicated … 
+- Firms in order to maximize their profits charge higher prices
 
-## MONETARY POLICY IN ACTION 
+- The inflation rate increases
 
-• : In practice CB adopt a **«flexible» inflation targeting** – Uncertainty over the impact of changes in the interest rate on production and inflation 
+H ↑⇒€PB ↑ and i ↓ => given expected inflation also r ↓ => ↑ I, ↑↓ Z  and ↑ Y  => u ↑ and  W ↓⇒P ↑⇒π ↑
 
-– A gradual approach => Target over the medium run 
+## ADJUSTMENT IN THE REAL WORLD
 
-## IS-LM-PC: ADJUSTMENT TO THE MR 
+- In the **real world** , the economy goes back to medium run gradually!!!
 
-**==> picture [640 x 419] intentionally omitted <==**
+- Why is it the case?
 
-**----- Start of picture text -----**<br>
-In  0 : short run<br>𝑟𝑟 𝑌𝑌> 𝑌𝑌𝑛𝑛 ⇒𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>POSITIVE  output gap:<br>economy ABOVE the<br>potential<br>0 𝑊𝑊↑⇒𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>̅𝑟𝑟0 𝐿<br>𝐼<br>𝑌𝑌0 𝑌𝑌<br>𝜋𝜋−𝜋𝜋 [𝑒𝑒]<br>0<br>𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 𝑌𝑌0<br>How do we reach the medium run equilibrium?<br>Through CB interventions to close the output gap<br>**----- End of picture text -----**<br>
+1. Not easy to detect whether is different from  (not observed!!!)
 
+2. Difficulties in estimating shocks’ magnitude and persistency
 
-**==> picture [291 x 362] intentionally omitted <==**
+3. Lag in monetary policy’s transmission to the real economy
 
-**----- Start of picture text -----**<br>
-𝑟𝑟<br>�𝒓𝒓𝒏𝒏 1 𝐿 𝑛𝑛<br>0<br>̅𝑟𝑟0 𝐿<br>𝐼<br>𝑌𝑌0 𝑌𝑌<br>𝜋𝜋−𝜋𝜋 [𝑒𝑒]<br>0<br>𝜋𝜋> 𝜋𝜋 [𝑒𝑒]<br>𝑌𝑌<br>𝑌𝑌𝑛𝑛 𝑌𝑌0<br>**----- End of picture text -----**<br>
+# COSTS & BENEFITS OF INFLATION
 
+## COSTS OF INFLATION
 
-The CB acts to reduce inflation growth 
+- Menu costs – costs of changing prices due to inflation. e.g. new menus, catalogues
 
-𝑖𝑖↑⇒𝑟𝑟↑⇒𝐿 ↑ 𝑟𝑟↑⇒𝐼𝐼↓⇒𝑌𝑌↓ along the 𝐼 
+- Change more frequently
 
-In 𝟏𝟏 , the economy is at the **medium run** equilibrium **:** 𝜋𝜋= 𝜋𝜋[𝑒𝑒] 𝑌𝑌= 𝑌𝑌𝑛𝑛 𝑢𝑢= 𝑢𝑢𝑛𝑛 𝑟𝑟= 𝑟𝑟𝑛𝑛 
+- Shoe-leather costs – Costs of behaviors to reduce the impact of inflation
 
-## ECONOMIC INTUITION 
+- Higher opportunity cost of money
 
-- CB implements contractionary MP by selling bonds. 
+## COSTS OF INFLATION
 
-   - On the bonds market the price of bond decreases and, given their face value, their nominal return increases. 
+- Tax distortions:
 
-   - Given expected inflation, also the real interest rate increases 
+– tax brackets not adjusted in line with inflation
 
-- The higher borrowing rate reduces investment, the aggregate demand  and through the multiplier income 
+– over-taxation of capital gains
 
-- If GDP decreases, employment decreases and unemployment increases reducing the workers bargaining power with respect to firms 
+- Wealth redistribution:
 
-- Bargained nominal wages decrease thus reducing firms production costs. 
+– E.g. from creditors to borrowers!!!
 
-- Firms can maximize their profits by charging lower prices 
+## COSTS OF INFLATION
 
-- The inflation rate decreases 
+- Uncertainty and volatility – Higher inflation is typically associated with more **volatile** inflation, which increases the risk of financial assets that promise fixed nominal payments in the future
 
-H ↓⇒€PB ↓ and i ↑ => given expected inflation also r ↑ => ↓ I, ↓ Z  and ↓ Y  => u ↑ and  W ↓⇒P ↓⇒π ↓ 
+- Money illusion: systematic mistakes in comparing nominal vs. real changes
 
-In 0 : short run 𝑌𝑌< 𝑌𝑌𝑛𝑛 ⇒𝜋𝜋< 𝜋𝜋[𝑒𝑒] 
+- If inflation becomes volatile, this comparison becomes even more difficult
 
-## How do we reach the medium run equilibrium? 
+## BENEFITS OF INFLATION
 
-**==> picture [590 x 353] intentionally omitted <==**
+-:
 
-**----- Start of picture text -----**<br>
-𝑟𝑟 The CB acts to increase output<br>𝐼<br>0 𝐿 𝑖𝑖↓⇒𝑟𝑟↓⇒𝐿 ↓<br>𝑟𝑟 ↓⇒𝐼𝐼↑⇒𝑌𝑌↑<br>̅𝑟𝑟<br>1 along the  𝐼<br>𝑌𝑌0 𝑌𝑌<br>𝜋𝜋−𝜋𝜋 [𝑒𝑒] In  𝟏𝟏 , the economy is at the<br>medium run  equilibrium :<br>1 𝑃𝑃𝐶𝐶 𝜋𝜋= 𝜋𝜋 [𝑒𝑒]<br>𝑌𝑌0 𝑌𝑌= 𝑌𝑌 𝑢𝑢= 𝑢𝑢<br>𝑛𝑛 𝑛𝑛<br>𝑌𝑌<br>𝑟𝑟= 𝑟𝑟<br>𝜋𝜋< 𝜋𝜋 [𝑒𝑒] 𝑌𝑌𝑛𝑛 𝑛𝑛<br>0<br>**----- End of picture text -----**<br>
+- Moderate inflation enables adjustment of wages
 
+- **Money illusion:** it is difficult to cut nominal wages
 
-## ECONOMIC INTUITION 
+- With positive inflation, it is easier to adjust real wages, without cutting the nominal ones
 
-- CB implements expansionary MP by buying bonds. 
+- Negative (real) interest rates
 
-   - On the bonds market the price of bond increases and, given their face value, their nominal return decreases. 
+## SUMMARY
 
-   - Given expected inflation, also the real interest rate decerases 
+- IS-LM-PC Model
 
-- The lower borrowing rate increases investment, the aggregate demand  and through the multiplier income 
+- From short to medium run
 
-- If GDP increases, employment increases and unemployment decerases increasing the workers bargaining power with respect to firms 
+- Role of Central Banks
 
-- Bargained nominal wages increase thus increasing firms production costs. 
+- Costs and benefits of inflation
 
-- Firms in order to maximize their profits charge higher prices 
-
-- The inflation rate increases 
-
-H ↑⇒€PB ↑ and i ↓ => given expected inflation also r ↓ => ↑ I, ↑↓ Z  and ↑ Y  => u ↑ and  W ↓⇒P ↑⇒π ↑ 
-
-## ADJUSTMENT IN THE REAL WORLD 
-
-- In the **real world** , the economy goes back to medium run gradually!!! 
-
-- Why is it the case? 
-
-   1. Not easy to detect whether is different from  (not observed!!!) 
-
-   2. Difficulties in estimating shocks’ magnitude and persistency 
-
-   3. Lag in monetary policy’s transmission to the real economy 
-
-**==> picture [302 x 219] intentionally omitted <==**
-
-# **COSTS & BENEFITS OF INFLATION** 
-
-## COSTS OF INFLATION 
-
-- Menu costs – costs of changing prices due to inflation. e.g. new menus, catalogues 
-
-   - Change more frequently 
-
-- Shoe-leather costs – Costs of behaviors to reduce the impact of inflation 
-
-   - Higher opportunity cost of money 
-
-## COSTS OF INFLATION 
-
-- Tax distortions: 
-
-– tax brackets not adjusted in line with inflation 
-
-– over-taxation of capital gains 
-
-- Wealth redistribution: 
-
-– E.g. from creditors to borrowers!!! 
-
-## COSTS OF INFLATION 
-
-- Uncertainty and volatility – Higher inflation is typically associated with more **volatile** inflation, which increases the risk of financial assets that promise fixed nominal payments in the future 
-
-- Money illusion: systematic mistakes in comparing nominal vs. real changes 
-
-   - If inflation becomes volatile, this comparison becomes even more difficult 
-
-## BENEFITS OF INFLATION 
-
-- : 
-
-- Moderate inflation enables adjustment of wages 
-
-   - **Money illusion:** it is difficult to cut nominal wages 
-
-   - With positive inflation, it is easier to adjust real wages, without cutting the nominal ones 
-
-- Negative (real) interest rates 
-
-## SUMMARY 
-
-- IS-LM-PC Model 
-
-   - From short to medium run 
-
-   - Role of Central Banks 
-
-- Costs and benefits of inflation 
-
+## Related Notes
+- [[L15 ISLMPC Shock]]
+- [[Trigari_08_New(Chapter 9)]]
+- [[L12 Phillips Curve]]

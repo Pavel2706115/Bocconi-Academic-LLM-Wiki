@@ -1,532 +1,342 @@
-DECOLONISATION: LIGHTS AND (MANY) SHADOWS 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "18_Decolonization and Asian Tigers"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**Alfani-Colli, ch. 14-15** 
+DECOLONISATION: LIGHTS AND (MANY) SHADOWS
 
-Economic history Ay 2025/2026 
+**Alfani-Colli, ch. 14-15**
 
-Sonia Schifano 
+Economic history Ay 2025/2026
 
-**==> picture [860 x 485] intentionally omitted <==**
+Sonia Schifano
 
-A.Y. 2025/2026 30076 
+A.Y. 2025/2026 30076
 
-5 
+## GOLDEN AGE BUT…NOT FOR EVERYONE
 
-## GOLDEN AGE BUT…NOT FOR EVERYONE 
+- Until the mid-20th century, modern economic growth benefited Europe and the western offshoots (and Japan)
 
-- Until the mid-20th century, modern economic growth benefited Europe and the western offshoots (and Japan) 
+- In the 1950-1973
 
-- In the 1950-1973 
+- Western Countries grew at an average of 4% rate after WW2
 
-   - Western Countries grew at an average of 4% rate after WW2 
+- In Africa growth rate was about 1,8%
 
-   - In Africa growth rate was about 1,8% 
+- In Latin America growth rate was 2,4%
 
-   - In Latin America growth rate was 2,4% 
+- In Asia (excluding Japan) growth rate of 2,6%
 
-   - In Asia (excluding Japan) growth rate of 2,6% 
+- New competitors in medium-tech from the 1960s onward
 
-- New competitors in medium-tech from the 1960s onward 
+- Newly industrialised countries (NICs)
 
-- Newly industrialised countries (NICs) 
+- In 1965, NICs produced 5% of world manufacturing output, by 1995 their share grew to 17% (and since then doubled)
 
-   - In 1965, NICs produced 5% of world manufacturing output, by 1995 their share grew to 17% (and since then doubled) 
+- South Korea, Taiwan, Singapore, Hong Kong broke into the club of advanced economies
 
-   - South Korea, Taiwan, Singapore, Hong Kong broke into the club of advanced economies 
+## GOLDEN AGE BUT…NOT FOR EVERYONE
 
-A.Y. 2025/2026 
+- Does a common growth path exist?
 
-30076 
+- The use of a single word - **decolonisation** - to refer to **the transfer of sovereignty from the imperial powers to their former colonies** after 1945 may suggest a uniform process with a common set of causes. But decolonization happened at different time in different part of the world and with different processes.
+*(See also: [[Economic History Blab Handout 2024-2025 A.Y.#^tv3vb3]])*
 
-6 
+- Relations between rich and poor countries mattered
 
-## GOLDEN AGE BUT…NOT FOR EVERYONE 
+- Economic Dependence
 
-- Does a common growth path exist? 
+- The role of the World Bank - aid to developed countries represents an obstacle for less developed economies
 
-   - The use of a single word - **decolonisation** - to refer to **the transfer of sovereignty from the imperial powers to their former colonies** after 1945 may suggest a uniform process with a common set of causes. But decolonization happened at different time in different part of the world and with different processes. 
+- What about humanitarian aid? Absurdly, in many cases, it made the situation worse: it increased people's life expectancy without giving them higher incomes
 
-- Relations between rich and poor countries mattered 
+## DECOLONISATION
 
-   - Economic Dependence 
+- Sovereign countries represented at the UN were 51 among them the Asian ones were 9 and the African 3
 
-   - The role of the World Bank  aid to developed countries represents an obstacle for less developed economies 
+- Sovereign Member States at the UN = 120 - 70 representig African or Asian countries
 
-   - What about humanitarian aid? Absurdly, in many cases, it made the situation worse: it increased people's life expectancy without giving them higher incomes 
+- changing balance of power within the UN
 
-A.Y. 2025/2026 
+https://www.un.org/en/global-issues/decolonization
 
-30076 
+## TIMING OF DECOLONISATION
 
-7 
+- Decolonization came into waves, and in a changing geographic scenario:
 
-## DECOLONISATION 
+- Immediately after the war, mainly East Asia (Korea, Taiwan, Indonesia, Philippines)
 
-1945 
+- During the first half of the 1950s, southeast Asia (basically Indochina)
 
-- Sovereign countries represented at the UN were 51 among them the Asian ones were 9 and the African 3 
+- End of the Fifties – beginning of the Sixties: Africa
 
-1960 
+-:
 
-- Sovereign Member States at the UN = 120  70 representig African or Asian countries 
+- The process **was not always peaceful**
 
- changing balance of power within the UN 
+- Britain was ready to give independence to India and decided to reinvigorate the concept of Commonwealth as trade union among increasingly autonomous dominions.
 
-https://www.un.org/en/global-issues/decolonization 
+- France maintained more firmly an imperialistic attitude.
 
-A.Y. 2025/2026 
+## FRECH DECOLONIZATION
 
-30076 
+- The decolonization of the French Empire was a long, violent, and politically traumatic process
 
-8 
+- While the British Empire largely dissolved within two decades (1947–1965), the French process was marked by two major colonial wars:
 
-## TIMING OF DECOLONISATION 
+- **The First Indochina War** (1946–1954): Vietnam, Laos, and Cambodia (then collectively known as French Indochina).
 
-- Decolonization came into waves, and in a changing geographic scenario: 
+- **The Algerian War** (1954–1962)
 
-   - Immediately after the war, mainly East Asia (Korea, Taiwan, Indonesia, Philippines) 
+- The decolonization of the vast **French West Africa (AOF)** and **French Equatorial Africa (AEF)** was relatively more peaceful and rapid.
 
-   - During the first half of the 1950s, southeast Asia (basically Indochina) 
+## DECOLONISATION
 
-   - End of the Fifties – beginning of the Sixties: Africa 
+Among the reasons behind decolonization are:
 
-- : 
+## 1. Weakening of European powers
 
-- The process **was not always peaceful** 
+- World War II severely depleted the economic and military resources of colonial powers like Britain, France, and the Netherlands, making the cost of maintaining and governing vast empires unsustainable.
 
-   - Britain was ready to give independence to India and decided to reinvigorate the concept of Commonwealth as trade union among increasingly autonomous dominions. 
+## 2. Rise of anti-colonial/independence movements
 
-   - France maintained more firmly an imperialistic attitude. 
+- Local nationalist leaders and movements, often inspired by Western ideals of self-determination, gained
 
-A.Y. 2025/2026 
+- massive popular support.
 
-30076 
+## 3. Cold War Context
 
-9 
+- Negative stance of the USA and USSR towards colonial
 
-## FRECH DECOLONIZATION 
+## 4. The United Nations (UN):
 
-- The decolonization of the French Empire was a long, violent, and politically traumatic process 
+- The UN, founded in 1945, provided an international forum that institutionalized the principle of selfdetermination. The 1960 Declaration on the Granting of Independence to Colonial Countries and Peoples was a landmark resolution.
 
-- While the British Empire largely dissolved within two decades (1947–1965), the French process was marked by two major colonial wars: 
+## DECOLONIZATION AND COLD WAR
 
-   - **The First Indochina War** (1946–1954): Vietnam, Laos, and Cambodia (then collectively known as French Indochina). 
+- **Bipolar world** (USA-USSR) and the search for autonomous positioning
 
-   - **The Algerian War** (1954–1962) 
+- Bandung Conference 1955
 
-- The decolonization of the vast **French West Africa (AOF)** and **French Equatorial Africa (AEF)** was relatively more peaceful and rapid. 
+- Its main purpose was for the world's newly independent and anti-colonial nations to:
 
-**==> picture [390 x 195] intentionally omitted <==**
+- Condemn colonialism and racism collectively.
 
-A.Y. 2025/2026 
+- Assert their political independence on the global stage.
 
-30076 
+- Form the basis for the Non-Aligned Movement (NAM) to avoid taking sides in the Cold War.
 
-10 
+- It essentially announced the birth of the "Third World" as a new and unified force in international politics
 
-## DECOLONISATION 
+## Fragile States Index Heat Map, 2022
 
-Among the reasons behind decolonization are: 
+Independence does not erase the dramatic problems of **underdevelopment**
 
-## **1. Weakening of European powers** 
+- poverty, illiteracy, dependence on international trade...
 
-- World War II severely depleted the economic and military resources of colonial powers like Britain, France, and the Netherlands, making the cost of maintaining and governing vast empires unsustainable. 
+Fragility of the new ruling classes and the role of the military
 
-## **2. Rise of anti-colonial/independence movements** 
+- **Dictatorial regimes often emerge** supported by the military.
 
-- Local nationalist leaders and movements, often inspired by Western ideals of self-determination, gained 
+_Source: Fund for Peace annual report 2022_
 
-- massive popular support. 
+## DECOLONISATION: INITIAL RESULTS
 
-## **3. Cold War Context** 
+- Three perspectives on decolonisation:
 
-- Negative stance of the USA and USSR towards colonial 
+- “
 
-## **4. The United Nations (UN):** 
+- - **Balance sheets** ” of the European colonial powers: private investments leave the colonies well
 
-- The UN, founded in 1945, provided an international forum that institutionalized the principle of selfdetermination. The 1960 Declaration on the Granting of Independence to Colonial Countries and Peoples was a landmark resolution. 
+- before political power.
 
-A.Y. 2025/2026 
+- - Resources leave countries
 
-30076 
+- Colonial unintentional **transfer of power**: as expatriates leave the colonies, they leave gaps in many economic activities that they previously monopolised. Local entrepreneurs can take over and take a slice of the economy.
 
-11 
+- The know how has been affected
 
-## DECOLONIZATION AND COLD WAR 
+- **Interdependence and integration of Western European economies**: as European economic integration proceeded and a large continental market was created, the colonies were progressively **marginalised** until they became a vestigial part of many states.
 
-- **Bipolar world** (USA-USSR) and the search for autonomous positioning 
+## THE POST-COLONIAL DIVERGENCE
 
-   - Bandung Conference 1955 
+On the one hand the economic miracles of the 1950s brought prosperity and wealth to many countries in the West. But on the other hand, they **increased the gap between rich and poor countries.**
 
-      - Its main purpose was for the world's newly independent and anti-colonial nations to: 
+Why couldn't the former colonies keep up with the old motherlands?
 
-      - Condemn colonialism and racism collectively. 
+- economic structure still strongly dominated by the **primary sector**
 
-      - Assert their political independence on the global stage. 
+- Inappropriate factor endowments
 
-      - Form the basis for the Non-Aligned Movement (NAM) to avoid taking sides in the Cold War. 
+- Insufficient technical capabilities
 
-   - It essentially announced the birth of the "Third World" as a new and unified force in international politics 
+- **high birth rate** (after WWII it rose from 0.8% to 2% per year, while in the West it stopped at 1.3%) - different stages in the demographic transition
 
-**==> picture [368 x 192] intentionally omitted <==**
+Growing demographic pressure accompanied by low per-capita income further condemned developing countries to poverty.
 
-A.Y. 2025/2026 
+## POPULATION BOOM
 
-30076 
+## THE LEGACIES OF THE PAST
 
-12 
+- Behind a common colonial past, there are different paths.
 
-## Fragile States Index Heat Map, 2022 
+- Countries with **subsistence agriculture** (except for export productions) and without significant manufacturing experiences.
 
-Independence does not erase the dramatic problems of **underdevelopment** 
+- Countries that, in the 1930s, had initiated **significant experiences** in the industrial field, facilitated by flows of emigrants from Europe (human capital): Argentina, Brazil, Chile, Mexico.
 
-- poverty, illiteracy, dependence on international trade... 
+- In **Asia** , the skills necessary for the start of industrial activities are formed through **migratory flows** , thanks to the colonial legacy (European and Japanese) and the presence of American multinational companies.
 
-Fragility of the new ruling classes and the role of the military 
+- With decolonization, the countries that succeed in meeting the challenge of development are those able to **seize the opportunity to acquire technologies and develop their own development strategy** , generally with state support.
 
-- **Dictatorial regimes often emerge** supported by the military. 
+## RECIPES FOR GROWTH
 
-**==> picture [459 x 309] intentionally omitted <==**
+- **In developing countries** , the prevailing idea is that to industrialize and modernize, it is appropriate to go .
 
-_Source: Fund for Peace annual report 2022_ 
+- through **autarchic and protectionist policies**
 
-A.Y. 2025/2026 
+- Latin American countries, as well as Asia and Africa, once they achieve independence, embark on the path of **economic nationalism**:
 
-30076 
+- **Industrialization** is perceived as the fastest way to modernize economic and social structures.
 
-13 
+- Rarely, however, they were able to narrow the gap with developed countries and 'break' the mechanism of **subordination** to the mechanisms of **international markets or the aid** that could come from superpowers
 
-## DECOLONISATION: INITIAL RESULTS 
+- **Import substitution industrialization (ISI)**
 
-- Three perspectives on decolonisation: 
+## IMPORT SUBSTITUTION INDUSTRIALIZATION (ISI)
 
-   - “ 
+- The **strategy**: a state-led economic policy to stop importing industrial products and start manufacturing them domestically. The goal was to shift the entire economic base from agriculture/mining to industry.
 
-   - • **Balance sheets** ” of the European colonial powers: private investments leave the colonies well 
+- The **mechanism**: the government uses high tariffs, import quotas, and subsidies to protect its new "infant industries" from established foreign competition, giving them the space to grow and become competitive.
 
-   - before political power. 
+- The model suggested by economists, however, was much broader than what was normally implemented by governments. The model included:
 
-      - Resources leave countries 
+- Import substitution **Less dependence on imports**
 
-   - Colonial unintentional **transfer of power** : as expatriates leave the colonies, they leave gaps in many economic activities that they previously monopolised. Local entrepreneurs can take over and take a slice of the economy. 
+- Export diversification - Industrial diversification
 
-      - The know how has been affected 
+- Regional integration
 
-   - **Interdependence and integration of Western European economies** : as European economic integration proceeded and a large continental market was created, the colonies were progressively **marginalised** until they became a vestigial part of many states. 
+## THE HISTORICAL EXPERIENCE OF ISI
 
-A.Y. 2025/2026 
+- This policy has, in many cases, achieved the set goal, allowing different states to become **complete industrial economies** , following the example of more advanced countries.
 
-30076 
+- However, this has not always translated into a corresponding increase in well-being and per capita income comparable to the western standards
 
-14 
+- States often indiscriminately **protected** all industrial sectors, including the most **inefficient** ones.
 
-## THE POST-COLONIAL DIVERGENCE 
+- In other cases, the creation of **powerful lobbies** prevented the removal of protection once the industry became competitive.
 
-On the one hand the economic miracles of the 1950s brought prosperity and wealth to many countries in the West. But on the other hand, they **increased the gap between rich and poor countries.** 
+- The limited size of domestic markets restricted the development of economies of scale.
 
-Why couldn't the former colonies keep up with the old motherlands? 
+- Instances of **corruption** have been frequent.
 
-- economic structure still strongly dominated by the **primary sector** 
+- The occurrence of **social conflicts** , as this policy has often resulted in the strengthening of certain classes of workers at the expense of others
 
-   - Inappropriate factor endowments 
+- ISI was financed by **massive external borrowing** that quadrupled in just 7 years (1975-1982).
 
-   - Insufficient technical capabilities 
+- **This model** , which created inefficient industries protected from competition, **collapsed** when global interest rates rose, triggering the "Lost Decade" of the 1980s.
 
-- **high birth rate** (after WWII it rose from 0.8% to 2% per year, while in the West it stopped at 1.3%)  different stages in the demographic transition 
+## THE POST-COLONIAL DIVERGENCE
 
-Growing demographic pressure accompanied by low per-capita income further condemned developing countries to poverty. 
+Despite the difficulties of many of the former colonies in developing their economies, it should not be assumed that growth rates were negative.
 
-A.Y. 2025/2026 
+On the contrary, although modest compared to the West, compared to the colonial period they often recorded a high **GDP growth**
 
-30076 
 
-15 
 
-## POPULATION BOOM 
+- this growth did not everywhere bring prosperity, but often it brought **political and social instability**
 
-**==> picture [568 x 393] intentionally omitted <==**
+- - The newly created wealth was **not fairly redistributed** among the population and the already fragile political architecture was further weakened.
 
-A.Y. 2025/2026 
+## THE POST-COLONIAL DIVERGENCE
 
-30076 
+It should be emphasised that poverty was not a common condition for all former colonies:
 
-16 
+for some states, the abundance of **natural resources** demanded by Western countries caused **per capita income to rise** significantly.
 
-## THE LEGACIES OF THE PAST 
+The most classic example is the Gulf economies, which prospered rapidly thanks to **oil** .
 
-- Behind a common colonial past, there are different paths. 
+## A DIFFERENT DESTINY: THE ASIAN TIGERS
 
-   - Countries with **subsistence agriculture** (except for export productions) and without significant manufacturing experiences. 
+## A DIFFERENT DESTINY: THE ASIAN TIGERS
 
-   - Countries that, in the 1930s, had initiated **significant experiences** in the industrial field, facilitated by flows of emigrants from Europe (human capital): Argentina, Brazil, Chile, Mexico. 
+- If we look back at the economic landscape of the 1950s and early 60s, **South Korea, Taiwan, Hong Kong, and Singapore** did not look like future economic superpowers: they were resource-poor and politically fragile.
 
-   - In **Asia** , the skills necessary for the start of industrial activities are formed through **migratory flows** , thanks to the colonial legacy (European and Japanese) and the presence of American multinational companies. 
+- While colonialism was inherently exploitative and often brutal, it inadvertently left behind the "hardware" and "software" necessary for modern industrialization.
 
-- With decolonization, the countries that succeed in meeting the challenge of development are those able to **seize the opportunity to acquire technologies and develop their own development strategy** , generally with state support. 
+- These countries received significant investments from their colonizers (Japan and Britain) meant to integrate them into a wider empire.
 
-A.Y. 2025/2026 
+- This created a **unique starting point** when they finally gained independence.
 
-30076 
+## SOUTH KOREA AND TAIWAN
 
-17 
+- Both colonies of Imperial Japan until 1945. The Japanese approach was authoritarian and focused on industrial production to fuel their own empire.
 
-## RECIPES FOR GROWTH 
+- They built an extensive network of railways, roads, harbors, and hydroelectric plants.
 
-- **In developing countries** , the prevailing idea is that to industrialize and modernize, it is appropriate to go . 
+- When the Japanese left, the factories and infrastructure remained.
 
-- through **autarchic and protectionist policies** 
+- The post-war governments in Seoul and Taipei inherited a specific style of governance: a centralized, ruthless, yet highly efficient bureaucracy capable of mobilizing the entire nation toward a single economic goal.
 
-- Latin American countries, as well as Asia and Africa, once they achieve independence, embark on the path of **economic nationalism** : 
+## HONG KONG AND SINGAPORE
 
-   - **Industrialization** is perceived as the fastest way to modernize economic and social structures. 
+- Hong Kong and Singapore were shaped by the British Empire.
 
-- Rarely, however, they were able to narrow the gap with developed countries and 'break' the mechanism of **subordination** to the mechanisms of **international markets or the aid** that could come from superpowers 
+- As strategic trading ports, their colonial legacy was less about heavy industry and more about commerce and administration.
 
-- **Import substitution industrialization (ISI)** 
+- The British left behind the "soft" infrastructure that is crucial for global business: the Rule of Law.
 
-A.Y. 2025/2026 
+- This gave international investors confidence that contracts would be honored. Additionally, they inherited a professional civil service and the widespread use of the English language.
 
-30076 
+## THE STRATEGY USED
 
-18 
+- **These countries were not geographcically extended**
 
-## IMPORT SUBSTITUTION INDUSTRIALIZATION (ISI) 
+- These countries had a less dynamic domestic market, their people were poor thus domestic consumption was limited and therefore had to focus immediately on **exports**
 
-- The **strategy** : a state-led economic policy to stop importing industrial products and start manufacturing them domestically. The goal was to shift the entire economic base from agriculture/mining to industry. 
+- **The export led growth** approach used, did not include **protective tariffs** to support domestic manufacturing firms
 
-- The **mechanism** : the government uses high tariffs, import quotas, and subsidies to protect its new "infant industries" from established foreign competition, giving them the space to grow and become competitive. 
+- Labour force was well educated, disciplined and cheap (not huge though)
 
-- The model suggested by economists, however, was much broader than what was normally implemented by governments. The model included: 
+- As they earned foreign currency, they didn’t just spend it; they reinvested it into education and better technology:
 
--  . 
+- They climbed the ladder, moving from cheap labor industries to heavy industry, and eventually, to the high-tech electronics and finance sectors.
 
-- Import substitution **Less dependence on imports** 
+## SECRET WEAPONS: EDUCATION AND SAVINGS
 
-- Export diversification  Industrial diversification 
+- **Education first**:
 
-- Regional integration 
+- By 1965, all four Tigers had achieved universal primary education (100% enrollment). They educated their workforce before they had the factories to employ them.
 
-A.Y. 2025/2026 
+## -: **Savings mania**
 
-30076 
+- In the 1960s, savings were low. By the 1980s, their citizens were saving over 30-35% of their income (compared to ~15% in the West). This money funded the factories without needing excessive foreign deb
 
-19 
+## SECRET WEAPONS: EDUCATION AND SAVINGS
 
-## THE HISTORICAL EXPERIENCE OF ISI 
+## DRIVERS FOR SUCCESS
 
-- This policy has, in many cases, achieved the set goal, allowing different states to become **complete industrial economies** , following the example of more advanced countries. 
+- The success of the growth recipes depended on:
 
-- However, this has not always translated into a corresponding increase in well-being and per capita income comparable to the western standards 
+**1. SECTORS**: "mature" technologies, usable by human capital that is not of the highest quality and on sectors not exposed to competition from countries relying on low labor costs. steel, automotive, basic chemicals, consumer electronics.
 
-   - States often indiscriminately **protected** all industrial sectors, including the most **inefficient** ones. 
+**2. BUSINESS FORMS:** groups of family-controlled but managerially managed companies, often close to political power and able to seize the opportunities offered by international markets plus diversification
 
-   - In other cases, the creation of **powerful lobbies** prevented the removal of protection once the industry became competitive. 
+**3. DEVELOPMENTAL STATE**: subsidies (to stimulate competitiveness); tax incentives; investment on education; developmental banks
 
-   - The limited size of domestic markets restricted the development of economies of scale. 
+For over 30 years (1960–1990), these four nations grew at an average of 7% to 10% per year.
 
-   - Instances of **corruption** have been frequent. 
+Normal growth for a developed country is about 2-3%. They grew 3x faster than the rest of the world!!!
 
-   - The occurrence of **social conflicts** , as this policy has often resulted in the strengthening of certain classes of workers at the expense of others 
-
-- ISI was financed by **massive external borrowing** that quadrupled in just 7 years (1975-1982). 
-
-- **This model** , which created inefficient industries protected from competition, **collapsed** when global interest rates rose, triggering the "Lost Decade" of the 1980s. 
-
-A.Y. 2025/2026 
-
-30076 
-
-20 
-
-## THE POST-COLONIAL DIVERGENCE 
-
-Despite the difficulties of many of the former colonies in developing their economies, it should not be assumed that growth rates were negative. 
-
-On the contrary, although modest compared to the West, compared to the colonial period they often recorded a high **GDP growth** 
-
-- . 
-
-- this growth did not everywhere bring prosperity, but often it brought **political and social instability** 
-
-- The newly created wealth was **not fairly redistributed** among the population and the already fragile political architecture was further weakened. 
-
-A.Y. 2025/2026 
-
-30076 
-
-21 
-
-## THE POST-COLONIAL DIVERGENCE 
-
-It should be emphasised that poverty was not a common condition for all former colonies: 
-
-for some states, the abundance of **natural resources** demanded by Western countries caused **per capita income to rise** significantly. 
-
-The most classic example is the Gulf economies, which prospered rapidly thanks to **oil** . 
-
-**==> picture [268 x 338] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-22 
-
-## A DIFFERENT DESTINY: THE ASIAN TIGERS 
-
-**==> picture [472 x 344] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-23 
-
-## A DIFFERENT DESTINY: THE ASIAN TIGERS 
-
-- If we look back at the economic landscape of the 1950s and early 60s, **South Korea, Taiwan, Hong Kong, and Singapore** did not look like future economic superpowers: they were resource-poor and politically fragile. 
-
-- While colonialism was inherently exploitative and often brutal, it inadvertently left behind the "hardware" and "software" necessary for modern industrialization. 
-
-- These countries received significant investments from their colonizers (Japan and Britain) meant to integrate them into a wider empire. 
-
-- This created a **unique starting point** when they finally gained independence. 
-
-**==> picture [232 x 368] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-24 
-
-## SOUTH KOREA AND TAIWAN 
-
-- Both colonies of Imperial Japan until 1945. The Japanese approach was authoritarian and focused on industrial production to fuel their own empire. 
-
-- They built an extensive network of railways, roads, harbors, and hydroelectric plants. 
-
-- When the Japanese left, the factories and infrastructure remained. 
-
-- The post-war governments in Seoul and Taipei inherited a specific style of governance: a centralized, ruthless, yet highly efficient bureaucracy capable of mobilizing the entire nation toward a single economic goal. 
-
-A.Y. 2025/2026 
-
-30076 
-
-25 
-
-## HONG KONG AND SINGAPORE 
-
-- Hong Kong and Singapore were shaped by the British Empire. 
-
-- As strategic trading ports, their colonial legacy was less about heavy industry and more about commerce and administration. 
-
-- The British left behind the "soft" infrastructure that is crucial for global business: the Rule of Law. 
-
-- This gave international investors confidence that contracts would be honored. Additionally, they inherited a professional civil service and the widespread use of the English language. 
-
-A.Y. 2025/2026 
-
-30076 
-
-26 
-
-## THE STRATEGY USED 
-
-- **These countries were not geographcically extended** 
-
-- These countries had a less dynamic domestic market, their people were poor thus domestic consumption was limited and therefore had to focus immediately on **exports** 
-
-- **The export led growth** approach used, did not include **protective tariffs** to support domestic manufacturing firms 
-
-- Labour force was well educated, disciplined and cheap (not huge though) 
-
-- As they earned foreign currency, they didn’t just spend it; they reinvested it into education and better technology: 
-
-   - They climbed the ladder, moving from cheap labor industries to heavy industry, and eventually, to the high-tech electronics and finance sectors. 
-
-A.Y. 2025/2026 
-
-30076 
-
-27 
-
-## SECRET WEAPONS: EDUCATION AND SAVINGS 
-
-##  **Education first** : 
-
-- By 1965, all four Tigers had achieved universal primary education (100% enrollment). They educated their workforce before they had the factories to employ them. 
-
-##  : **Savings mania** 
-
-- In the 1960s, savings were low. By the 1980s, their citizens were saving over 30-35% of their income (compared to ~15% in the West). This money funded the factories without needing excessive foreign deb 
-
-A.Y. 2025/2026 
-
-30076 
-
-28 
-
-## SECRET WEAPONS: EDUCATION AND SAVINGS 
-
-**==> picture [860 x 274] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-29 
-
-## DRIVERS FOR SUCCESS 
-
-- The success of the growth recipes depended on: 
-
-   **1. SECTORS** : "mature" technologies, usable by human capital that is not of the highest quality and on sectors not exposed to competition from countries relying on low labor costs. steel, automotive, basic chemicals, consumer electronics. 
-
-   **2. BUSINESS FORMS:** groups of family-controlled but managerially managed companies, often close to political power and able to seize the opportunities offered by international markets plus diversification 
-
-   **3. DEVELOPMENTAL STATE** : subsidies (to stimulate competitiveness); tax incentives; investment on education; developmental banks 
-
-A.Y. 2025/2026 
-
-30076 
-
-30 
-
-For over 30 years (1960–1990), these four nations grew at an average of 7% to 10% per year. 
-
-Normal growth for a developed country is about 2-3%. They grew 3x faster than the rest of the world!!! 
-
-**==> picture [635 x 449] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-31 
-
-**==> picture [738 x 452] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-32 
-
-**==> picture [738 x 460] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-33 
-
-**==> picture [738 x 446] intentionally omitted <==**
-
-A.Y. 2025/2026 
-
-30076 
-
-34 
-
+## Related Notes
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- [[8_The industrialisation process outside Europe]]
+- [[6_The industrialisation process_2]]

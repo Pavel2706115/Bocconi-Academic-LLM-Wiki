@@ -1,453 +1,280 @@
-**==> picture [58 x 208] intentionally omitted <==**
+---
+course: "Public Finance"
+course_code: "30264"
+tags:
+  - "source"
+  - course_30264
+Title: "Public Finance BIEM – Spring 2026 Fundamental Tax Reform and Consumption Taxation (Ch. 25)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **Public Finance BIEM – Spring 2026 Fundamental Tax Reform and Consumption Taxation (Ch. 25)** 
+# Public Finance BIEM – Spring 2026 Fundamental Tax Reform and Consumption Taxation (Ch. 25)
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Why fundamental Tax Reform?
 
-## Why fundamental Tax Reform? 
+There are three reasons for pursuing a fundamental tax reform:
 
-**==> picture [58 x 208] intentionally omitted <==**
+1. To increase tax compliance
 
-There are three reasons for pursuing a fundamental tax reform: 
+2. To make the tax code simpler
 
-1. To increase tax compliance 
+3. To improve tax efficiency
 
-2. To make the tax code simpler 
+## Improving Tax Compliance
 
-3. To improve tax efficiency 
+## **Tax compliance:** Efforts to reduce the evasion of taxes.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- To improve it, the government must reduce the amount of **tax evasion** (illegal nonpayment of taxation)
 
-2 
+**Tax avoidance:** Legal action to reduce tax burden.
 
-## Improving Tax Compliance 
+## APPLICATION: Tax Evasion 1
 
-**==> picture [58 x 208] intentionally omitted <==**
+The rich are not the only ones who evade taxes…
 
-## **Tax compliance:** Efforts to reduce the evasion of taxes. 
+- For years, taxpayers wanting to claim tax exemptions for dependents were required only to fill in the names of their dependents on tax forms
 
-- To improve it, the government must reduce the amount of **tax evasion** (illegal nonpayment of taxation) 
+- When the US 1986 Tax Reform Act required filers to list as well the Social Security numbers of dependents over the age of 5, 6 million suddenly disappeared from the tax rolls!
 
-**Tax avoidance:** Legal action to reduce tax burden. 
+- Two years later, when the tax law required that the Social Securitynumbers of child care providers be listed for workers to claim their childcare tax credits, **2.6 million child care providers disappeared!**
 
-**==> picture [86 x 105] intentionally omitted <==**
+## APPLICATION: Tax Evasion 2
 
-3 
+- Greek property taxes are based on self-reported house values, which led to widespread underreporting of home values. In a recent year, only 324 residents in a wealthy suburb reported having a pool.
 
-## APPLICATION: Tax Evasion 1 
+- After former president George Papandreou used extreme means, such as helicopter surveillance and Google Earth pictures, there was a boom in the sales of tarpaulins to cover pools and make them invisible to aerial tax inspectors.
 
-The rich are not the only ones who evade taxes… 
+## APPLICATION: Tax Evasion 3
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Theory of Tax Evasion
 
-- For years, taxpayers wanting to claim tax exemptions for dependents were required only to fill in the names of their dependents on tax forms 
+The theory of tax evasion emphasizes the trade-offs involved:
 
-- When the US 1986 Tax Reform Act required filers to list as well the Social Security numbers of dependents over the age of 5, 6 million suddenly disappeared from the tax rolls! 
+- Save money on unpaid taxes if not caught.
 
-- Two years later, when the tax law required that the Social Securitynumbers of child care providers be listed for workers to claim their childcare tax credits, **2.6 million child care providers disappeared!** 
+- Penalties or jail if caught.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Higher taxes increase the benefit of avoidance without increasing the cost, increasing evasion.
 
-4 
+- Increased penalties increase the cost of evasion and therefore reduce it.
 
-## APPLICATION: Tax Evasion 2 
+## Theory of Tax Evasion
 
-**==> picture [58 x 208] intentionally omitted <==**
+Figure 25-1
 
-- Greek property taxes are based on self-reported house values, which led to widespread underreporting of home values. In a recent year, only 324 residents in a wealthy suburb reported having a pool. 
+The marginal benefit of evading taxes is the tax payment saved per dollar of . evasion—the tax rate. Optimal evasion occurs when $$MC = MB,$$ at E1
 
-- After former president George Papandreou used extreme means, such as helicopter surveillance and Google Earth pictures, there was a boom in the sales of tarpaulins to cover pools and make them invisible to aerial tax inspectors. 
+## Figure 25-1
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Theory of Tax Evasion
 
-5 
+- If the penalties for the next dollar of cheating or the probability of getting caught rise → the marginal cost curve shifts up from MC ₁ to MC ₂ and the optimal amount of evasion is identified by point B. INDIVIDUALS CHEAT LESS
 
-## APPLICATION: Tax Evasion 3 
+- If the marginal tax rate rises to 60% (holding penalties and thus marginal cost constant) → the marginal benefit curve shifts up from MB ₁ to MB ₂ . INDIVIDUALS CHEAT MORE
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Evidence on Tax Evasion
 
-**==> picture [375 x 386] intentionally omitted <==**
+- Tax evasion is pervasive in the United States and around the world.
 
-**==> picture [390 x 348] intentionally omitted <==**
+- U.S. “tax gap” between taxes owed and taxes paid was $630 billion, 16.7% of tax revenue in 2020.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Sweden estimated its tax gap at 10% of tax revenue in 2008.
 
-6 
+- Worse in developing countries: 69% tax gap in Pakistan.
 
-## Theory of Tax Evasion 
+- Evidence that evasion increases with tax rates and decreases with threats of audits.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Evidence on Tax Evasion: Europe
 
-The theory of tax evasion emphasizes the trade-offs involved: 
+Source: European Commission
 
-- Save money on unpaid taxes if not caught. 
+## EMPIRICAL EVIDENCE: What Determines Tax Compliance?
 
-- Penalties or jail if caught. 
+Using a sample of 40,000 Danish taxpayers, Kleven et al. (2011) randomly selected half to be audited, whereas the remainder were not. The next year, a new randomization was done, with half receiving letters threatening an audit and half not.
 
-- Higher taxes increase the benefit of avoidance without increasing the cost, increasing evasion. 
+## Several findings:
 
-- Increased penalties increase the cost of evasion and therefore reduce it. 
+- Evasion of income reported by third-party sources was quite low.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Evasion of self-reported income was substantial and responded strongly to being audited or threatened with an audit.
 
-7 
+- Higher tax rates led to more evasion but primarily had other effects, such as legal tax avoidance.
 
-## Theory of Tax Evasion 
+## EMPIRICAL EVIDENCE: What Determines Tax Compliance?
 
-Figure 25-1 
+- Slemrod et al. (2001) found that threatening an audit led to increased reported income for low- and middle-class families but lower reported income for upper-class families.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Boning et al. (2018) found that auditing firms caused them to report more income, but it also caused firms that were served by the same tax preparer to report higher incomes, suggesting network effects of government enforcement.
 
-**==> picture [531 x 356] intentionally omitted <==**
+- Slemrod et al. (2019) found that when Pakistan enacted a public disclosure program, forcing all taxpayers to reveal their reported tax liabilities, tax compliance rose disproportionately among those most likely to be identified by the disclosure— for example, politicians and people with unusual names.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Why should we care about Tax Evasion?
 
-The marginal benefit of evading taxes is the tax payment saved per dollar of . evasion—the tax rate. Optimal evasion occurs when MC = MB, at E1 
+- Efficiency
 
-8 
+- Tax evasion narrows the base, reducing efficiency.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Vertical equity
 
-## Figure 25-1 
+- The wealthy can evade more easily, reducing their tax burden at the expense of poorer Americans.
 
-## Theory of Tax Evasion 
+- Especially: horizontal equity
 
-**==> picture [530 x 356] intentionally omitted <==**
+- A tax evader with the same income as a non-evader clearly has a lower tax burden.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Making the Tax Code Simpler
 
-- If the penalties for the next dollar of cheating or the probability of getting caught rise → the marginal cost curve shifts up from MC ₁ to MC ₂ and the optimal amount of evasion is identified by point B. INDIVIDUALS CHEAT LESS 
+- At the end of 2014, the IRS sent taxpaying individuals a packet with instructions for completing their Form 1040. The IRS estimated that it would take about **16 hours to complete the tax forms.**
 
-- If the marginal tax rate rises to 60% (holding penalties and thus marginal cost constant) → the marginal benefit curve shifts up from MB ₁ to MB ₂ . INDIVIDUALS CHEAT MORE 
+- In 2000, taxpayers spent 3.2 billion hours and $18.8 billion filling out tax forms, an average of 26.4 hours and $209 per filer.
 
-9 
+- Reducing exemptions or deductions would simplify the tax code.
 
-## Evidence on Tax Evasion 
+- But this may increase reporting requirements, with an unclear total impact on simplicity.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Making the Tax Code Simpler
 
-- Tax evasion is pervasive in the United States and around the world. 
+## Figure 25-2
 
-   - U.S. “tax gap” between taxes owed and taxes paid was $630 billion, 16.7% of tax revenue in 2020. 
+The **number of pages of instructions** that come with the basic individual tax form: the 1040. This has risen from **2** pages in 1940 to **217** pages in 2017
 
-   - Sweden estimated its tax gap at 10% of tax revenue in 2008. 
+## Improving Tax Efficiency
 
-   - Worse in developing countries: 69% tax gap in Pakistan. 
+- What matters for the efficiency cost of taxation are the **behavioral responses to taxation**
 
-**==> picture [86 x 105] intentionally omitted <==**
+- We can summarize these responses to taxation by asking: _How does changing the tax rate change tax revenues?_
 
-- Evidence that evasion increases with tax rates and decreases with threats of audits. 
+- Efficiency of the tax code depends on the **elasticity of revenues** with respect to the tax rate.
 
-10 
+- Tax code changes have two effects on revenue:
 
-## Evidence on Tax Evasion: Europe 
+- Direct effect of tax changes: A higher tax rate that raises revenues on a fixed base of taxation.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Indirect effect of tax changes: A higher tax rate that decreases the revenue base on which taxes are levied.
 
-**==> picture [693 x 416] intentionally omitted <==**
+## Improving Tax Efficiency
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Tax changes can have four **indirect effects**:
 
-Source: European Commission 
+- Gross income effect: A higher tax rate may reduce gross income by lowering labor supply, savings, or risk taking.
 
-11 
+- Reporting effect: For a given level of gross income, a higher tax rate causes people to report less income to avoid additional taxes.
 
-## EMPIRICAL EVIDENCE: What Determines Tax Compliance? 
+- Income exclusion effect: For a given reported income, a higher tax rate causes people to take more deductions and exclusions.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Compliance effect: Higher tax rates may reduce revenues through increased tax evasion.
 
-Using a sample of 40,000 Danish taxpayers, Kleven et al. (2011) randomly selected half to be audited, whereas the remainder were not. The next year, a new randomization was done, with half receiving letters threatening an audit and half not. 
+## Summary: The Benefits of Fundamental Tax Reform
 
-## Several findings: 
+Fundamental tax reform helps address all of the tax reform goals:
 
-- Evasion of income reported by third-party sources was quite low. 
+- Improves tax compliance and tax efficiency by expanding the tax base and lowering tax rates.
 
-- Evasion of self-reported income was substantial and responded strongly to being audited or threatened with an audit. 
+- Simplifies tax filing by ending many detailed exemptions and deductions and taxing different forms of income at the same rate.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## The Politics and Economics of Tax Reform
 
-- Higher tax rates led to more evasion but primarily had other effects, such as legal tax avoidance. 
+- The Tax Reform Act (TRA) 86 broadened the base and reduced rates, representing a “victory” for tax reform.
 
-12 
+- But this victory was short lived:
 
-## EMPIRICAL EVIDENCE: What Determines Tax Compliance? 
+- In 1993, top tax rates rose.
 
-**==> picture [58 x 208] intentionally omitted <==**
+- The 1997 Taxpayer Relief Act gave many new credits.
 
-- Slemrod et al. (2001) found that threatening an audit led to increased reported income for low- and middle-class families but lower reported income for upper-class families. 
+- Tax reforms in 2001 and 2003 continued to complicate the tax code.
 
-- Boning et al. (2018) found that auditing firms caused them to report more income, but it also caused firms that were served by the same tax preparer to report higher incomes, suggesting network effects of government enforcement. 
+- Why is it so hard to maintain a simple, broad-based tax code?
 
-- Slemrod et al. (2019) found that when Pakistan enacted a public disclosure program, forcing all taxpayers to reveal their reported tax liabilities, tax compliance rose disproportionately among those most likely to be identified by the disclosure— for example, politicians and people with unusual names. 
+## Political Pressures for a Complicated Tax Code
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Political pressures are strongest when the winners are concentrated and have much to gain and the losers are diffused and don’t lose much per person.
 
-13 
+- Naïve voters may oppose explicit government spending but support tax expenditures.
 
-## Why should we care about Tax Evasion? 
+## Economic Pressures Against Broadening the Tax Base
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Any attempt to broaden the base may simply encourage additional tax shelters, undoing the base increase
 
-- Efficiency 
+- **Tax shelters:** Activities whose sole reason for existence is tax minimization
 
-   - Tax evasion narrows the base, reducing efficiency. 
+- Tax shelters have real economic costs but save the shelters’ creators money by reducing their tax burden
 
-- Vertical equity 
+## Economic Pressures Against Broadening the Tax Base
 
-   - The wealthy can evade more easily, reducing their tax burden at the expense of poorer Americans. 
+- BACKGROUND: by the mid-1980s, the tax code had created a number of ways in which savvy inventors could legally turn a profit by shielding their money from the IRS
 
-- Especially: horizontal equity 
+- Many measures were intended by the Congress to encourage investment in real estate and oil industry, but the distortion on incentives created serious overinvestments
 
-   - A tax evader with the same income as a non-evader clearly has a lower tax burden. 
+- **Tax shelters** run in opposition to the benefits of fundamental tax reform:
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Tax shelters make tax evasion easier
 
-14 
+- They make the tax code more complicated
 
-## Making the Tax Code Simpler 
+- They make the tax code less efficient
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Transitional Inequities 1
 
-- At the end of 2014, the IRS sent taxpaying individuals a packet with instructions for completing their Form 1040. The IRS estimated that it would take about **16 hours to complete the tax forms.** 
+- Because of tax capitalization, eliminating tax shelters can create large transitional inequities
 
-- In 2000, taxpayers spent 3.2 billion hours and $18.8 billion filling out tax forms, an average of 26.4 hours and $209 per filer. 
+- Tax capitalization: The change in asset prices that occurs due to a change in the tax levied on the stream of returns from that asset
 
-- Reducing exemptions or deductions would simplify the tax code. 
+- Transitional inequities from tax reform: Changes in the treatment of similar individuals who have made different decisions in the past and are therefore differentially treated by tax reform
 
-   - But this may increase reporting requirements, with an unclear total impact on simplicity. 
+## Transitional Inequities 2
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Transitional inequities  are a natural feature of any tax reform, which by definition will create winners and losers
 
-15 
+- Concerns addressing transitional inequities have led to various forms of compensation through the political process, such as **grandfathering:**
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Those who made decisions under the old tax rules are allowed to continue to benefit from those rules, while the rules are changed for all future decisions
 
-## Making the Tax Code Simpler 
+## The Conundrum
 
-## Figure 25-2 
+- Political and economic pressures are significant barriers to moving to a broad-based system
 
-**==> picture [688 x 309] intentionally omitted <==**
+- Political forces are constantly pushing for the use of the tax code to deliver benefits to particular groups at the cost of potentially inefficient and inequitable holes in the tax base
 
-**==> picture [86 x 105] intentionally omitted <==**
+- After these tax breaks are in place, it is very hard to remove them because doing so would create horizontal inequities for those who made decisions based on the existence of these tax breaks
 
-The **number of pages of instructions** that come with the basic individual tax form: the 1040. This has risen from **2** pages in 1940 to **217** pages in 2017 
+## Consumption Taxation
 
-16 
+- Consumption taxation is a radical reform preferred by many economists
 
-## Improving Tax Efficiency 
+- **Taxing consumption:** Taxing individuals based not on what they earn but what they consume, such as through a sales tax
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Used by state and local governments and many governments around the world
 
-- What matters for the efficiency cost of taxation are the **behavioral responses to taxation** 
+## Why might consumption make a better Tax Base? 1
 
-   - We can summarize these responses to taxation by asking: _How does changing the tax rate change tax revenues?_ 
+## Potential advantages to moving to a consumption tax base:
 
-- Efficiency of the tax code depends on the **elasticity of revenues** with respect to the tax rate. 
+- Improved capital allocation
 
-- Tax code changes have two effects on revenue: 
+- Fairer treatment of savers and less distortion to savings decision
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Simplicity
 
-- Direct effect of tax changes: A higher tax rate that raises revenues on a fixed base of taxation. 
+## Why might consumption make a better Tax Base? 2
 
-- Indirect effect of tax changes: A higher tax rate that decreases the revenue base on which taxes are levied. 
+**1. Improved Capital Allocation**
 
-17 
+- The current tax system encourages some kinds of investment over others
 
-## Improving Tax Efficiency 
+- Better allocation improves economic efficiency.
 
-**==> picture [58 x 208] intentionally omitted <==**
+## Why might consumption make a better Tax Base? 3
 
-## Tax changes can have four **indirect effects** : 
+## 2. Fairer Treatment of Savers and Less Distortion to Savings Decisions Homer Marge
 
-- Gross income effect: A higher tax rate may reduce gross income by lowering labor supply, savings, or risk taking. 
-
-- Reporting effect: For a given level of gross income, a higher tax rate causes people to report less income to avoid additional taxes. 
-
-- Income exclusion effect: For a given reported income, a higher tax rate causes people to take more deductions and exclusions. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Compliance effect: Higher tax rates may reduce revenues through increased tax evasion. 
-
-18 
-
-## Summary: The Benefits of Fundamental Tax Reform 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Fundamental tax reform helps address all of the tax reform goals: 
-
-- Improves tax compliance and tax efficiency by expanding the tax base and lowering tax rates. 
-
-- Simplifies tax filing by ending many detailed exemptions and deductions and taxing different forms of income at the same rate. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-19 
-
-## The Politics and Economics of Tax Reform 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- The Tax Reform Act (TRA) 86 broadened the base and reduced rates, representing a “victory” for tax reform. 
-
-- But this victory was short lived: 
-
-   - In 1993, top tax rates rose. 
-
-   - The 1997 Taxpayer Relief Act gave many new credits. 
-
-   - Tax reforms in 2001 and 2003 continued to complicate the tax code. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Why is it so hard to maintain a simple, broad-based tax code? 
-
-20 
-
-## Political Pressures for a Complicated Tax Code 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Political pressures are strongest when the winners are concentrated and have much to gain and the losers are diffused and don’t lose much per person. 
-
-- Naïve voters may oppose explicit government spending but support tax expenditures. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-21 
-
-## Economic Pressures Against Broadening the Tax Base 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Any attempt to broaden the base may simply encourage additional tax shelters, undoing the base increase 
-
-- **Tax shelters:** Activities whose sole reason for existence is tax minimization 
-
-   - Tax shelters have real economic costs but save the shelters’ creators money by reducing their tax burden 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-22 
-
-## Economic Pressures Against Broadening the Tax Base 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- BACKGROUND: by the mid-1980s, the tax code had created a number of ways in which savvy inventors could legally turn a profit by shielding their money from the IRS 
-
-   - Many measures were intended by the Congress to encourage investment in real estate and oil industry, but the distortion on incentives created serious overinvestments 
-
-- **Tax shelters** run in opposition to the benefits of fundamental tax reform: 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Tax shelters make tax evasion easier 
-
-- They make the tax code more complicated 
-
-- They make the tax code less efficient 
-
-23 
-
-## Transitional Inequities 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Because of tax capitalization, eliminating tax shelters can create large transitional inequities 
-
-   - Tax capitalization: The change in asset prices that occurs due to a change in the tax levied on the stream of returns from that asset 
-
-   - Transitional inequities from tax reform: Changes in the treatment of similar individuals who have made different decisions in the past and are therefore differentially treated by tax reform 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-24 
-
-## Transitional Inequities 2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Transitional inequities  are a natural feature of any tax reform, which by definition will create winners and losers 
-
-- Concerns addressing transitional inequities have led to various forms of compensation through the political process, such as **grandfathering:** 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Those who made decisions under the old tax rules are allowed to continue to benefit from those rules, while the rules are changed for all future decisions 
-
-25 
-
-## The Conundrum 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Political and economic pressures are significant barriers to moving to a broad-based system 
-
-- Political forces are constantly pushing for the use of the tax code to deliver benefits to particular groups at the cost of potentially inefficient and inequitable holes in the tax base 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- After these tax breaks are in place, it is very hard to remove them because doing so would create horizontal inequities for those who made decisions based on the existence of these tax breaks 
-
-26 
-
-## Consumption Taxation 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- Consumption taxation is a radical reform preferred by many economists 
-
-- **Taxing consumption:** Taxing individuals based not on what they earn but what they consume, such as through a sales tax 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- Used by state and local governments and many governments around the world 
-
-27 
-
-## Why might consumption make a better Tax Base? 1 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## **Potential advantages to moving to a consumption tax base:** 
-
-- Improved capital allocation 
-
-- Fairer treatment of savers and less distortion to savings decision 
-
-- Simplicity 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-28 
-
-## Why might consumption make a better Tax Base? 2 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-**1. Improved Capital Allocation** 
-
-   - The current tax system encourages some kinds of investment over others 
-
-   - Better allocation improves economic efficiency. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-29 
-
-## Why might consumption make a better Tax Base? 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-## **2. Fairer Treatment of Savers and Less Distortion to Savings Decisions Homer Marge** 
-
-||||
+|
 |---|---|---|
-||**Homer**|**Marge**|
-|**Income Tax**|||
+|**Homer**|**Marge**|
+|**Income Tax**|
 |Income in period 1|$100|$100.00|
 |Taxes in period 1|50|50.00|
 |Consumption in period 1|50|25.61|
@@ -456,7 +283,7 @@ Fundamental tax reform helps address all of the tax reform goals:
 |Taxes in period 2|0|1.22|
 |Consumption in period 2|0|25.61|
 |PDV of taxes|50|51.11|
-|**Consumption Tax**|||
+|**Consumption Tax**|
 |Income in period 1|$100|$100.00|
 |Consumption in period 1|50|26.19|
 |Taxes in period 1|50|26.19|
@@ -465,314 +292,198 @@ Fundamental tax reform helps address all of the tax reform goals:
 |Consumption in period 2|0|26.19|
 |Taxes in period 2|0|26.19|
 |PDV of taxes|50|50.00|
-||||
+|
 
+## Why might consumption make a better Tax Base? 4
 
+## 3. Simplicity
 
-**==> picture [86 x 105] intentionally omitted <==**
+- In principle, it is much more straightforward to simply tax individuals on their purchases than on a complicated definition of income.
 
-30 
+## Why Might Consumption Be a Worse Tax Base? 1
 
-## Why might consumption make a better Tax Base? 4 
+1. Vertical equity
 
-**==> picture [58 x 208] intentionally omitted <==**
+2. Differences between savers and Non-savers
 
-## **3. Simplicity** 
+3. Transition issues
 
-- In principle, it is much more straightforward to simply tax individuals on their purchases than on a complicated definition of income. 
+4. Compliance
 
-**==> picture [86 x 105] intentionally omitted <==**
+5. Cascading
 
-31 
+## Why Might Consumption Be a Worse Tax Base? 2
 
-## Why Might Consumption Be a Worse Tax Base? 1 
+**1. Vertical equity**
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Consumption taxes reduce vertical equity
 
-1. Vertical equity 
+- Rich people save more, so consumption taxes are regressive
 
-2. Differences between savers and Non-savers 
+- Net lifetime savings are bequests, so an estate tax might help, but estate taxes are very unpopular
 
-3. Transition issues 
+- A progressive expenditure tax could correct this but would introduce other complications
 
-4. Compliance 
+## Why Might Consumption Be a Worse Tax Base? 3
 
-5. Cascading 
+**2. Differences Between Savers and Non-Savers**
 
-**==> picture [86 x 105] intentionally omitted <==**
+- Taxing savings might help tax high-ability people.
 
-32 
+**3. Transition Issues**
 
-## Why Might Consumption Be a Worse Tax Base? 2 
+- Seniors could be devastated by the transition.
 
-**1. Vertical equity** 
+**4. Compliance**
 
-**==> picture [58 x 208] intentionally omitted <==**
+- It is harder to measure consumption than income.
 
-- Consumption taxes reduce vertical equity 
+## 5. Cascading
 
-- Rich people save more, so consumption taxes are regressive 
+- One business’s output is another’s input, making it difficult to avoid double taxation
 
-- Net lifetime savings are bequests, so an estate tax might help, but estate taxes are very unpopular 
+## Designing a Consumption Tax: Value-Added Tax
 
-- A progressive expenditure tax could correct this but would introduce other complications 
+- A value-added tax addresses cascading and compliance.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- **Value-added tax (VAT):** A consumption tax levied on each stage of a good’s production on the increase in value of the good at that stage of production.
 
-33 
+- VATs are widely used around the world.
 
-## Why Might Consumption Be a Worse Tax Base? 3 
+- Firms have an incentive to make sure that the firms they are buying from and selling to are honest, as dishonesty to reduce one firm’s taxes would increase the other firms’ taxes.
 
-**2. Differences Between Savers and Non-Savers** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-   - Taxing savings might help tax high-ability people. 
-
-**3. Transition Issues** 
-
-   - Seniors could be devastated by the transition. 
-
-**4. Compliance** 
-
-   - It is harder to measure consumption than income. 
-
-## **5. Cascading** 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-- One business’s output is another’s input, making it difficult to avoid double taxation 
-
-34 
-
-## Designing a Consumption Tax: Value-Added Tax 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-- A value-added tax addresses cascading and compliance. 
-
-   - **Value-added tax (VAT):** A consumption tax levied on each stage of a good’s production on the increase in value of the good at that stage of production. 
-
-- VATs are widely used around the world. 
-
-- Firms have an incentive to make sure that the firms they are buying from and selling to are honest, as dishonesty to reduce one firm’s taxes would increase the other firms’ taxes. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-35 
-
-## Value-Added Tax in Practice 
-
-**==> picture [58 x 208] intentionally omitted <==**
+## Value-Added Tax in Practice
 
 |**Agent**|**Purchase Price**|**Sale Price**|**Value Added**|**Tax Paid (VAT = 20%)**|
 |---|---|---|---|---|
 |Logger|$0|$25|$25|$5|
 |Manufacturer|25|75|50|10|
 |Retailer|75|100|25|5|
-||||**Total tax paid:**|**$20**|
+|**Total tax paid:**|**$20**|
 
+When the logger adds $25 in value through producing the wood, they pay $5 in VAT.
 
+The manufacturer then adds $50 in value and pays a VAT of $10.
 
-When the logger adds $25 in value through producing the wood, they pay $5 in VAT. 
+Finally, the retailer pays $5 in VAT on her $25 in value added.
 
-**==> picture [86 x 105] intentionally omitted <==**
+## Designing a Consumption Tax: Value-Added Tax
 
-The manufacturer then adds $50 in value and pays a VAT of $10. 
+- The VAT is not that simple as it seems
 
-Finally, the retailer pays $5 in VAT on her $25 in value added. 
+- In practice, these VATs typically have multiple rates
 
-36 
+- Some lower rates for progressivity
 
-## Designing a Consumption Tax: Value-Added Tax 
+- Some lower rates for politics
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Administrative costs are similar to income tax systems
 
-- The VAT is not that simple as it seems 
+## Designing a Consumption Tax: Expenditure Tax
 
-- In practice, these VATs typically have multiple rates 
+- An alternative to a VAT is an expenditure tax.
 
-   - Some lower rates for progressivity 
+- **Expenditure tax:** A consumption tax levied on **yearly consumption** rather than on specific sales.
 
-   - Some lower rates for politics 
+- An expenditure tax operates in the same way as an income tax, but it replaces the base of taxation with expenditure rather than income
 
-   - Administrative costs are similar to income tax systems 
+- It is straightforward to make an expenditure tax progressive, making the consumption tax system more vertically equitable.
 
-**==> picture [86 x 105] intentionally omitted <==**
+- However, it is **difficult to track** expenditures throughout the year.
 
-37 
+## Backing into Consumption Taxation: Cash-Flow Taxation
 
-## Designing a Consumption Tax: Expenditure Tax 
+- Previous issues:
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Taxing consumption at the point of production leads to progressivity concerns
 
-- An alternative to a VAT is an expenditure tax. 
+- Taxing expenditure at the individual level is administratively infeasible
 
-- **Expenditure tax:** A consumption tax levied on **yearly consumption** rather than on specific sales. 
+- → Cash-flow taxation is a third alternative
 
-   - An expenditure tax operates in the same way as an income tax, but it replaces the base of taxation with expenditure rather than income 
+- **Cash-flow tax**: A tax on the difference between cash income and savings
 
-- It is straightforward to make an expenditure tax progressive, making the consumption tax system more vertically equitable. 
+- Effectively taxes consumption and can be based on year-end total consumption
 
-**==> picture [86 x 105] intentionally omitted <==**
+## VAT in Italy (Imposta sul Valore Aggiunto)
 
-- However, it is **difficult to track** expenditures throughout the year. 
+- The standard VAT rate in Italy is **22%** and applies to most goods and services.
 
-38 
+- Several reduced VAT rates apply to specific goods and services: **4%** → goods of primary necessity (e.g., basic food products, books, newspapers)
 
-## Backing into Consumption Taxation: Cash-Flow Taxation 
+- **5%** → some food products and health or social services **10%** → tourism, restaurants, transport, and some utilities
 
-- Previous issues: 
+- Some activities are exempt (e.g., financial services, education, healthcare).
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Reduced rates reflect distributional and political considerations, aiming to lower the tax burden on essential goods and key sectors.
 
-   - Taxing consumption at the point of production leads to progressivity concerns 
+Source: Italian Ministry of Economy and Finance;
+- OECD Tax Policy Database.
 
-   - Taxing expenditure at the individual level is administratively infeasible 
+## EXERCISES
 
-   - → Cash-flow taxation is a third alternative 
+## MC 1
 
-- **Cash-flow tax** : A tax on the difference between cash income and savings 
+What is the primary economic motivation for fundamental tax reform?
 
-**==> picture [86 x 105] intentionally omitted <==**
+a) To increase statutory tax rates b) To improve efficiency and reduce compliance costs c) To reduce redistribution d) To shift taxation toward capital income
 
-- Effectively taxes consumption and can be based on year-end total consumption 
+## MC 2
 
-39 
+Why does a more complex tax system tend to increase tax avoidance and evasion?
 
-## VAT in Italy (Imposta sul Valore Aggiunto) 
+a) Because complexity creates loopholes and grey areas b) Because enforcement agencies become weaker c) Because higher tax rates always induce evasion d) Because taxpayers face lower penalties
 
-**==> picture [58 x 208] intentionally omitted <==**
+## MC 3
 
-- The standard VAT rate in Italy is **22%** and applies to most goods and services. 
+In the standard economic model of tax evasion, an individual chooses how much to evade by comparing:
 
-- Several reduced VAT rates apply to specific goods and services: **4%** → goods of primary necessity (e.g., basic food products, books, newspapers) 
+a) Average tax rates and penalties
 
-   - **5%** → some food products and health or social services **10%** → tourism, restaurants, transport, and some utilities 
+b) Total tax liability and income
 
-**==> picture [86 x 105] intentionally omitted <==**
+c) Audit probabilities and government revenue needs d) Marginal benefits of evasion and marginal costs of evasion
 
-- Some activities are exempt (e.g., financial services, education, healthcare). 
+## MC 4
 
-- Reduced rates reflect distributional and political considerations, aiming to lower the tax burden on essential goods and key sectors. 
+Why can base broadening improve both tax efficiency and revenue collection?
 
-Source: Italian Ministry of Economy and Finance; OECD Tax Policy Database. 
+a) It raises marginal tax rates
 
-40 
+b) It reduces avoidance opportunities and distortions c) It targets high-income taxpayers more heavily d) It eliminates the need for audits
 
-**==> picture [58 x 208] intentionally omitted <==**
+## MC 5
 
-## **EXERCISES** 
+From an efficiency perspective, why is consumption taxation often preferred to income taxation?
 
-**==> picture [86 x 105] intentionally omitted <==**
+a) It increases tax progressivity b) It reduces government revenue volatility c) It taxes capital income more heavily d) It avoids taxing saving and intertemporal choices
 
-41 
+## True/False (please provide a justification)
 
-## MC 1 
+# 1) In practice, increasing penalties for tax evasion always reduces the amount of evasion.
 
-What is the primary economic motivation for fundamental tax reform? 
+2) A value-added tax is generally less susceptible to evasion than a retail sales tax.
 
-**==> picture [58 x 208] intentionally omitted <==**
+3) Base broadening can allow governments to lower marginal tax rates without reducing total tax revenue.
 
-a) To increase statutory tax rates b) To improve efficiency and reduce compliance costs c) To reduce redistribution d) To shift taxation toward capital income 
+## Exercises
 
-**==> picture [86 x 105] intentionally omitted <==**
+## EXERCISE 1
 
-42 
+An individual earns €50000 and faces an income tax rate of 30%. The individual considers evading €10000 of income.
 
-## MC 2 
+- Probability of audit: 10%
 
-**==> picture [58 x 208] intentionally omitted <==**
+- Penalty rate: 200% of unpaid tax a) Calculate the tax saved if evasion is not detected. b) Calculate the expected penalty associated with evasion. c) Determine whether evasion is optimal in expected value terms and explain briefly.
 
-Why does a more complex tax system tend to increase tax avoidance and evasion? 
+## Exercises
 
-a) Because complexity creates loopholes and grey areas b) Because enforcement agencies become weaker c) Because higher tax rates always induce evasion d) Because taxpayers face lower penalties 
+## EXERCISE 2
 
-**==> picture [86 x 105] intentionally omitted <==**
+An individual earns €50000 in period 1. They consume €35000 in period 1 and save the remainder. Savings earn a 10% return, which is entirely consumed in period 2. The tax rate is 30% under both systems. a) Compute total lifetime tax paid under an income tax. b) Compute total lifetime tax paid under a consumption tax. c) Compare the two outcomes and explain which tax system distorts intertemporal choices less and why.
+*(See also: [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)#^b4nrcd]])*
 
-43 
-
-## MC 3 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-In the standard economic model of tax evasion, an individual chooses how much to evade by comparing: 
-
-a) Average tax rates and penalties 
-
-b) Total tax liability and income 
-
-c) Audit probabilities and government revenue needs d) Marginal benefits of evasion and marginal costs of evasion 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-44 
-
-## MC 4 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-Why can base broadening improve both tax efficiency and revenue collection? 
-
-a) It raises marginal tax rates 
-
-b) It reduces avoidance opportunities and distortions c) It targets high-income taxpayers more heavily d) It eliminates the need for audits 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-45 
-
-## MC 5 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-From an efficiency perspective, why is consumption taxation often preferred to income taxation? 
-
-a) It increases tax progressivity b) It reduces government revenue volatility c) It taxes capital income more heavily d) It avoids taxing saving and intertemporal choices 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-46 
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## True/False (please provide a justification) 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-# 1) In practice, increasing penalties for tax evasion always reduces the amount of evasion. 
-
-2) A value-added tax is generally less susceptible to evasion than a retail sales tax. 
-
-3) Base broadening can allow governments to lower marginal tax rates without reducing total tax revenue. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 1** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-An individual earns €50000 and faces an income tax rate of 30%. The individual considers evading €10000 of income. 
-
-- Probability of audit: 10% 
-
-• Penalty rate: 200% of unpaid tax a) Calculate the tax saved if evasion is not detected. b) Calculate the expected penalty associated with evasion. c) Determine whether evasion is optimal in expected value terms and explain briefly. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
-**==> picture [162 x 37] intentionally omitted <==**
-
-## Exercises 
-
-## **EXERCISE 2** 
-
-**==> picture [58 x 208] intentionally omitted <==**
-
-An individual earns €50000 in period 1. They consume €35000 in period 1 and save the remainder. Savings earn a 10% return, which is entirely consumed in period 2. The tax rate is 30% under both systems. a) Compute total lifetime tax paid under an income tax. b) Compute total lifetime tax paid under a consumption tax. c) Compare the two outcomes and explain which tax system distorts intertemporal choices less and why. 
-
-**==> picture [86 x 105] intentionally omitted <==**
-
+## Related Notes
+- [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
+- [[L14 L15_Taxation]]
+- [[L13_Introduction to taxes]]

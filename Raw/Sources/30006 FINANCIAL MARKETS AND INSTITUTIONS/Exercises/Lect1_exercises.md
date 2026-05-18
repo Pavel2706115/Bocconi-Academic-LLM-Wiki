@@ -1,50 +1,68 @@
-## **Extra exercises of Lecture 1** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect1_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 1
 
-Which is the main function of the financial sector? 
+## EX 1
 
-a) to channel funds from those that have a surplus of funds 
+Which is the main function of the financial sector?
 
-to those that have a shortage of funds 
+a) to channel funds from those that have a surplus of funds
 
-b) to let lenders earn a correct yield on their financial investment 
+to those that have a shortage of funds
 
-c) to let some players win their bets, even if all others lose 
+b) to let lenders earn a correct yield on their financial investment
 
-d) to help savers to gain from lending to spenders 
+c) to let some players win their bets, even if all others lose
 
-## **EX 2** 
+d) to help savers to gain from lending to spenders
 
-What is the distinctive feature of direct finance? 
+## EX 2
 
-a) there must be a direct and physical contact between market players b) financial intermediaries are not allowed by law to enter the market 
+What is the distinctive feature of direct finance?
 
-c) one party (ex.: borrower) obtains funds directly from the other party (ex.: lender) d) none of the answers above 
+a) there must be a direct and physical contact between market players b) financial intermediaries are not allowed by law to enter the market
 
-## **EX 3** 
+c) one party (ex.: borrower) obtains funds directly from the other party (ex.: lender) d) none of the answers above
 
-Which of the following is true about primary and secondary markets? a) in secondary markets the holders of securities cannot use funds for productive investment (e.g.: buying a machinery) 
+## EX 3
 
-b) in primary markets the users of funds offer newly issued securities for sale 
+Which of the following is true about primary and secondary markets? a) in secondary markets the holders of securities cannot use funds for productive investment (e.g.: buying a machinery)
+*(See also: [[Lect1#^1eih5b]])*
 
-c) only in secondary markets holders of securities can sell them to buyers 
+b) in primary markets the users of funds offer newly issued securities for sale
 
-d) in primary markets the users of funds cannot sell securities 
+c) only in secondary markets holders of securities can sell them to buyers
 
-## **EX 4** 
+d) in primary markets the users of funds cannot sell securities
 
-Which of the following reasons motivate the presence of financial intermediation? 
+## EX 4
 
-- I. Transaction costs 
+Which of the following reasons motivate the presence of financial intermediation?
 
-- II. Risk sharing 
+- I. Transaction costs
 
-III. Asymmetric information 
+- II. Risk sharing
 
-IV.  Economies of scope 
+III. Asymmetric information
 
-a) only I and IV b) only II and III 
+IV.  Economies of scope
 
-c) only I, III and IV d) I, II, III and IV 
+a) only I and IV b) only II and III
 
+c) only I, III and IV d) I, II, III and IV
+
+## Related Notes
+- [[Lect1]]
+- LECTURE_1_FMI
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]

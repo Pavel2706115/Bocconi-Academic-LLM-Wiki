@@ -1,418 +1,364 @@
-Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "The Stock Market (Chapter 13)"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-# **The Stock Market (Chapter 13)** 
+# The Stock Market (Chapter 13)
 
-**==> picture [308 x 179] intentionally omitted <==**
+## The Stock Market
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+# ✓ The **stock market** is the other capital market together with the bond market
 
+## ✓ It receives a lot of media attention:
 
-**==> picture [308 x 179] intentionally omitted <==**
+`o` _“The market is down 2%”. Implicit: stock market_
 
-**----- Start of picture text -----**<br>
-13-1<br>**----- End of picture text -----**<br>
+✓ Why so much attention to stocks? `o` Because the gains are potentially infinite, and people love to get rich!
 
+✓ Also, easy “see” the stock market:
 
-## **The Stock Market** 
+`o` floor traders shouting and big screens with lots of numbers to represent panic
 
-# ✓ The **stock market** is the other capital market together with the bond market 
+## Stock Market on the News
 
-## ✓ It receives a lot of media attention: 
+Source: La Repubblica, Aug 25(th) 2015, Chinese and global stock market plunge
 
-`o` _“The market is down 2%”. Implicit: stock market_ 
+## Great Fortunes are made…
 
-✓ Why so much attention to stocks? `o` Because the gains are potentially infinite, and people love to get rich! 
+- $1,000 worth of Tesla stocks bought 4 years ago are worth $3,000 today …
 
-✓ Also, easy “see” the stock market: 
+- … but also much more only Jan 20205!!!
 
-`o` floor traders shouting and big screens with lots of numbers to represent panic 
+## …but also lost
 
-## **Stock Market on the News** 
+## Chapter Preview
 
-**==> picture [707 x 229] intentionally omitted <==**
+## Topics of today
 
-Source: La Repubblica, Aug 25[th] 2015, Chinese and global stock market plunge 
+1. Stocks vs Bonds
 
-## **Great Fortunes are made…** 
+2. Types of stocks
 
-**==> picture [644 x 365] intentionally omitted <==**
+3. Where and how do stocks trade
 
-- $1,000 worth of Tesla stocks bought 4 years ago are worth $3,000 today … 
+4. Stock Market Indexes
 
-- … but also much more only Jan 20205!!! 
+Next class we will look at the valuation of stocks
 
-## **…but also lost** 
+## Equity/Stocks/Shares
 
-**==> picture [697 x 377] intentionally omitted <==**
+- ✓ A **share** of **stock** (or **equity** ) represents a _fraction of_ ownership in a firm:
 
-**----- Start of picture text -----**<br>
-AIG<br>**----- End of picture text -----**<br>
+- a stock-/share-/equity holder owns a % of the firm
 
+- ✓ Owner also earns …
 
-## **Chapter Preview** 
+- … if there are profits to be shared ( **dividends** )
 
-## Topics of today 
+- `o` … if stock **price** increases
 
-1. Stocks vs Bonds 
+- ✓ Much riskier than bonds because:
 
-2. Types of stocks 
+`o` **dividends** do not follow a fixed schedule or amount (like coupons do) `o` stock **prices** are more volatile than bonds, on average
 
-3. Where and how do stocks trade 
+- ✓ Ownership entitles also the stockholder to say something on firms’ actions ( _vote_ )
 
-4. Stock Market Indexes 
+## Stocks vs Debt
 
-Next class we will look at the valuation of stocks 
+## ✓ Stockholders are **residual claimants** …
 
-## **Equity/Stocks/Shares** 
+- _… i.e._ in a default they get what’s left after all other creditors have been paid off
 
-- ✓ A **share** of **stock** (or **equity** ) represents a _fraction of_ ownership in a firm: 
+- ✓ Last time we discussed that bondholders themselves can then be subdivided into _senior_ and _junior_ `o` … the order of payment is called **seniority**
 
-   - a stock-/share-/equity holder owns a % of the firm 
+- `o` … senior are paid before, junior after `o` debt is senior to equity because it gets paid first
 
-- ✓ Owner also earns … 
+- ✓ … that’s the case for stockholders too (see next on common Vs preferred stocks)
 
-   - … if there are profits to be shared ( **dividends** ) 
+## 2 Main types of Stocks
 
-   - `o` … if stock **price** increases 
+## ✓ **Common** Stock:
 
-- ✓ Much riskier than bonds because: 
+_a. dividend_: holder is entitled to **discretionary** dividend payments _b. voting right_: holder **has** right to vote (... on the board of directors) _c. seniority_: it is a _residual claim …_
 
-`o` **dividends** do not follow a fixed schedule or amount (like coupons do) `o` stock **prices** are more volatile than bonds, on average 
+`o` … holder is paid only after other claims (of bondholders and preferred stockholders have been met)
 
-- ✓ Ownership entitles also the stockholder to say something on firms’ actions ( _vote_ ) 
+## ✓ **Preferred** Stock:
 
-✓Copyright ©2015 Pearson EducationThere is no , Ltd. All rights reserved. date! maturity 
+_a. dividend_: pays a dividend, but it is **fixed** (like a bond) `o` thus, price is stable bcs easier to forecast future cash flows (see next lecture) _b._: **no** _voting right_ voting right (unless dividends have not been paid) _c._: _seniority_
 
-## **Stocks vs Debt** 
+`o` higher seniority than common stockholders `o` but still lower seniority than bondholders
 
-## ✓ Stockholders are **residual claimants** … 
+## 2 Main types of Stocks
 
-   - _… i.e._ in a default they get what’s left after all other creditors have been paid off 
+## Memo tables (but not sufficient for the exam!)
 
-- ✓ Last time we discussed that bondholders themselves can then be subdivided into _senior_ and _junior_ `o` … the order of payment is called **seniority** 
+Stocks feature Common Preferred Dividends discretionary fixed Voting right yes no (usually) Seniority((1)) lower higher Seniority((2)) lower lower ^oex3kc
 
-- `o` … senior are paid before, junior after `o` debt is senior to equity because it gets paid first 
+## (1): between the 2 types of stocks
 
-- ✓ … that’s the case for stockholders too (see next on common Vs preferred stocks) 
+(2): with respect to bonds
 
-## **2 Main types of Stocks** 
+Seniority scheme (updated): 1st senior bondholders
 
-## ✓ **Common** Stock: 
+- 2nd junior bondholders 3rd stockholders with preferred stocks 4th stockholders with common stocks
 
-_a. dividend_ : holder is entitled to **discretionary** dividend payments _b. voting right_ : holder **has** right to vote (... on the board of directors) _c. seniority_ : it is a _residual claim …_ 
+## Stocks Vs Bonds
 
-`o` … holder is paid only after other claims (of bondholders and preferred stockholders have been met) 
+Stocks and bonds have a balanced **trade-off** of control rights and cash flows
 
-## ✓ **Preferred** Stock: 
+**1. Stocks**
 
-_a. dividend_ : pays a dividend, but it is **fixed** (like a bond) `o` thus, price is stable bcs easier to forecast future cash flows (see next lecture) _b._ : **no** _voting right_ voting right (unless dividends have not been paid) _c._ : _seniority_ 
+- ➢ **high** control rights (vote)
 
-`o` higher seniority than common stockholders `o` but still lower seniority than bondholders 
+- ➢ **uncertain** cash flow (volatile price, uncertain dividend)
 
-## **2 Main types of Stocks** 
+## 2. Bonds
 
-## Memo tables (but not sufficient for the exam!) 
+- ➢ **low** control rights (other than in bankruptcy)
 
-Stocks feature Common Preferred Dividends discretionary fixed Voting right yes no (usually) Seniority[(1)] lower higher Seniority[(2)] lower lower 
+- ➢ **certain** cash flow (less volatile, certain interest)
 
-## (1): between the 2 types of stocks 
+## Stocks vs Bonds: Taxation
 
-(2): with respect to bonds 
+## Equity funding is **more costly** than debt funding. Why?
 
-Seniority scheme (updated): 1st senior bondholders 
+- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** !
 
-- 2nd junior bondholders 3rd stockholders with preferred stocks 4th stockholders with common stocks 
+- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk
 
-## **Stocks Vs Bonds** 
+Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest
 
-Stocks and bonds have a balanced **trade-off** of control rights and cash flows 
+## Stocks vs Bonds: Taxation
 
-**1. Stocks** 
+Equity funding is **more costly** than debt funding. Why?
 
-   - ➢ **high** control rights (vote) 
+- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** !
 
-   - ➢ **uncertain** cash flow (volatile price, uncertain dividend) 
+- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk
 
-## **2. Bonds** 
+Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest
 
-- ➢ **low** control rights (other than in bankruptcy) 
+## Stocks vs Bonds: Taxation
 
-- ➢ **certain** cash flow (less volatile, certain interest) 
+Equity funding is **more costly** than debt funding. Why?
 
-## **Stocks vs Bonds: Taxation** 
+- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** !
 
-## Equity funding is **more costly** than debt funding. Why? 
+- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk
 
-- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** ! 
+Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest. Tax rate= 30%.
 
-- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk 
+## Shares Terminology
 
-Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest 
+- ✓ **Authorized shares**: maximum number of shares the company can issue during its lifetime
 
-## **Stocks vs Bonds: Taxation** 
+- decided at the time the firm files the registration statement
 
-Equity funding is **more costly** than debt funding. Why? 
+- it can be changed, but it needs shareholders’ vote
 
-- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** ! 
+- ✓ **Outstanding shares**: number of shares company has issued Outstanding shares include:
 
-- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk 
+- **restricted shares**: cannot be bought or sold by the public - these are the only type of stocks available in private companies ( _i.e._ not yet listed)
 
-Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest 
+- usually given to employees and insiders as part of salaries or bonus
 
-**==> picture [720 x 240] intentionally omitted <==**
+- **‘ ’**
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 13-13<br>**----- End of picture text -----**<br>
+- `o` **Float**: freely bought and sold without restrictions by the public
 
+- ✓ Outstanding shares are typically used to calculate a company’s
 
-## **Stocks vs Bonds: Taxation** 
+**market capitalization** = price per share × outstanding shares
 
-Equity funding is **more costly** than debt funding. Why? 
+## Primary Market
 
-- ✓ Because interest paid from bonds is **tax-deductible** , while dividends from stocks are **not** ! 
+✓ Def: new security issues sold to initial buyers
 
-- ✓ Moreover, equity holders demand higher rate of return than bondholders as compensation for risk 
+- registration with Authority (SEC) is required before stock can be issued
 
-Example: Suppose a firm makes $20M of gross income. Either pays $5M in dividends or in interest. Tax rate= 30%. 
+## ✓ For issues of **new stock**
 
-**==> picture [720 x 240] intentionally omitted <==**
+- **Initial Public Offering** ( **IPO** ): _first-time_ offer of equity to be publicly traded
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved. 13-14<br>**----- End of picture text -----**<br>
+-: firm
 
+- **Seasoned offering** _already has stocks_ trading in secondary market and issues new stocks
 
-## **Shares Terminology** 
+## ✓ Underwriter
 
-- ✓ **Authorized shares** : maximum number of shares the company can issue during its lifetime 
+- Typically, it is an investment bank (syndicate if more inv. banks), that also arranges the sale of securities to investors
 
-   - decided at the time the firm files the registration statement 
+- _commitment underwriting_: underwriter commits to buy full issue at fixed price from corporate issuer
 
-   - it can be changed, but it needs shareholders’ vote 
+- _best efforts underwriting_: underwriter does not guarantee a price and acts more as a distribution agent
 
-- ✓ **Outstanding shares** : number of shares company has issued Outstanding shares include: 
+## Secondary Market
 
-   - **restricted shares** : cannot be bought or sold by the public ▪ these are the only type of stocks available in private companies ( _i.e._ not yet listed) 
+✓ Securities previously issued are _bought and sold_ `o` when people refer to “the stock market” they usually mean the secondary market for stocks
 
-- usually given to employees and insiders as part of salaries or bonus 
+✓ Involves matching of buyers and sellers `o` it basically works like an auction market
 
-- **‘ ’** 
+✓ It can be an **organized exchange** (like the _NYSE_ ): a company that earn profit on trading fees and concessions `o` it used to imply a specific _physical_ trading location, but **computer** systems have replaced the need for a physical location where traders meet (although they do still meet there) `o` main in the US: NYSE (best known with ≈4bn shares daily), but also others (Chicago, etc …)
+*(See also: [[Lect7_exercises#^sd1gzg]])*
 
-- `o` **Float** : freely bought and sold without restrictions by the public 
+`o` Europe: London Stock Exchange, Deutsche Börse in Frankfurt, Bourse de Paris, Borsa Italiana in Milan etc..
 
-- ✓ Outstanding shares are typically used to calculate a company’s 
+✓ Or non-organized: an **over-the-counter (OTC)** market
 
-**market capitalization** = price per share × outstanding shares 
+## Organized Exchanges
 
-## **Primary Market** 
+## Organized Exchanges
 
-✓ Def: new security issues sold to initial buyers 
+# ✓ Characterized as an **auction** market
 
-- registration with Authority (SEC) is required before stock can be issued 
+- physical trading floor with trading posts
 
-## ✓ For issues of **new stock** 
+- ✓ In the OE, each _trading post_ has a **specialist** `o` each stock is assigned to one specialist
 
-- **Initial Public Offering** ( **IPO** ): _first-time_ offer of equity to be publicly traded 
+- `o` it acts as an _**auctioneer**_ (sets the price) matching buyers and sellers `o` specialists are obliged to act as to stabilize order flow and prices `o` specialists belong to _specialist firms_ and pay _concession fees_ to NYSE
 
-- : firm 
+- ✓ **Floor traders/brokers** (representing clients) trade at the trade posts
 
-- **Seasoned offering** _already has stocks_ trading in secondary market and issues new stocks 
+- usually with other brokers (intermediated by specialists) in 90% cases; only 10% directly with exchange specialist (takes ownership or sells from inventory)
 
-## ✓ Underwriter 
+- Market orders: at market price, executed immediately
 
-- Typically, it is an investment bank (syndicate if more inv. banks), that also arranges the sale of securities to investors 
+## Trading posts
 
-   - _commitment underwriting_ : underwriter commits to buy full issue at fixed price from corporate issuer 
+New York Stock Exchange Trading Post, 1930
 
-   - _best efforts underwriting_ : underwriter does not guarantee a price and acts more as a distribution agent 
+New York Stock Exchange Trading Posts, 2024
 
-**==> picture [569 x 67] intentionally omitted <==**
+## Organized Exchanges
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+- ✓ To be listed at NYSE, a firm must satisfy _many_ requirements `o` market capitalization > $100 M (or $40 M for an IPO)
 
+- `o` number of shares outstanding > 1,1M
 
-## **Secondary Market** 
+- `o` stock price >= 4$
 
-✓ Securities previously issued are _bought and sold_ `o` when people refer to “the stock market” they usually mean the secondary market for stocks 
+- plus a number of further criteria (full list here)
 
-✓ Involves matching of buyers and sellers `o` it basically works like an auction market 
+- `o` fees
 
-✓ It can be an **organized exchange** (like the _NYSE_ ): a company that earn profit on trading fees and concessions `o` it used to imply a specific _physical_ trading location, but **computer** systems have replaced the need for a physical location where traders meet (although they do still meet there) `o` main in the US: NYSE (best known with ≈4bn shares daily), but also others (Chicago, etc …) 
+## ✓ Being listed has some advantages:
 
-`o` Europe: London Stock Exchange, Deutsche Börse in Frankfurt, Bourse de Paris, Borsa Italiana in Milan etc.. 
+1. stocks trade on a _more liquid market_ (can find easily many buyers and sellers)
 
-✓ Or non-organized: an **over-the-counter (OTC)** market 
+## 2. prestige
 
-## **Organized Exchanges** 
+- ✓ Nevertheless, some big companies (Microsoft, Google!) never listed at NYSE …
 
-**==> picture [66 x 19] intentionally omitted <==**
+- rather on NASDAQ Stock market in the US and as secondary
 
-**----- Start of picture text -----**<br>
-NYSE<br>**----- End of picture text -----**<br>
+## Over-the-counter markets (OTC)
 
+✓ Lower listing requirements
 
-**==> picture [557 x 372] intentionally omitted <==**
+- ✓ No trade floor, all electronic (NASDAQ is an OTC!)
 
-## **Organized Exchanges** 
+- ✓ **Dealers** stand ready to “make a market” ( _market makers_ ) `o` _many dealers for each stock_ (competition)
 
-# ✓ Characterized as an **auction** market 
+- they have inventory of stocks and quote two prices:
 
-- physical trading floor with trading posts 
+- to **buy** at the **bid** price
 
-- ✓ In the OE, each _trading post_ has a **specialist** `o` each stock is assigned to one specialist 
+- - to **sell** at the **ask** price
 
-- `o` it acts as an _**auctioneer**_ (sets the price) matching buyers and sellers `o` specialists are obliged to act as to stabilize order flow and prices `o` specialists belong to _specialist firms_ and pay _concession fees_ to NYSE 
+- after entering bid and ask prices, dealers must trade a minimum quantity of shares at those prices
 
-- ✓ **Floor traders/brokers** (representing clients) trade at the trade posts 
+- earn **bid-ask spread** and commission fees
 
-   - usually with other brokers (intermediated by specialists) in 90% cases; only 10% directly with exchange specialist (takes ownership or sells from inventory) 
+- ✓ OTC important for thinly-traded securities (because need a market maker for trades to happen)
 
-   - Market orders: at market price, executed immediately 
+## Stock Market Indexes
 
-`o` Limit orders: buy or sell a stock at a specific price or better Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+- ✓ Indexes capture the evolution of a group of shares
 
-## **Trading posts** 
+- they are used to monitor the behavior of a groups  of stocks.
 
-New York Stock Exchange Trading Post, 1930 
+- `o` “See how overall market is doing”
 
-New York Stock Exchange Trading Posts, 2024 
+## ✓ **indexes** are: Major
 
-**==> picture [318 x 253] intentionally omitted <==**
+1. Dow Jones Industrial Average ( _DJIA_ ): 30 companies
 
-## **Organized Exchanges** 
+2. the _S&P 500_: 500 companies
 
-- ✓ To be listed at NYSE, a firm must satisfy _many_ requirements `o` market capitalization > $100 M (or $40 M for an IPO) 
+3. the _NASDAQ composite_: over 3,000 companies
 
-- `o` number of shares outstanding > 1,1M 
+_4. FTSE 100_ (London): 100 companies
 
-- `o` stock price >= 4$ 
+5. Nikkei 225: 225 companies
 
-   - plus a number of further criteria (full list here) 
+6. FTSE MIB (Milan): 40 firms
 
-   - `o` fees 
+- ✓ These indexes are just averages (simple, value weighted) of the stocks composing the index
 
-## ✓ Being listed has some advantages: 
+## Stock Market Indexes
 
-1. stocks trade on a _more liquid market_ (can find easily many buyers and sellers) 
+✓ A **price weighted** index: _simple_ arithmetic mean of prices 𝑁
 
-## 2. prestige 
+## `o` every stock has the _same weight_
 
-- ✓ Nevertheless, some big companies (Microsoft, Google!) never listed at NYSE … 
+- ✓ The DJIA is an example of a price- _weighted_ index, but it has adjustments. DJIA formula:
 
-- rather on NASDAQ Stock market in the US and as secondary 
+`o` 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟 a price weighted index corrected by (not based on market capitalization)
 
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved.listings other stock exch. in Europe (London, Frankfurt, Milan, etc…)13-21 
+`o` the 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟
 
-## **Over-the-counter markets (OTC)** 
+## DJIA
 
-✓ Lower listing requirements 
+# ✓ So, if the index is **46,200** it means that the average price (after adjustments) for one share in the DJIA is $46,200
 
-- ✓ No trade floor, all electronic (NASDAQ is an OTC!) 
+- ✓ In 1980 the DJIA was $800: 57,3 times increase!
 
-- ✓ **Dealers** stand ready to “make a market” ( _market makers_ ) `o` _many dealers for each stock_ (competition) 
+# ✓ Each stock in the Dow has the same weight, regardless  of the company’s market capitalization
 
-   - they have inventory of stocks and quote two prices: 
+## Stock Market Indexes, S&P500
 
-      - to **buy** at the **bid** price 
+# ✓ S&P 500 is a value weighted index: weighted average of prices
 
-      - ▪ to **sell** at the **ask** price 
+500 1 𝑝𝑖 × 𝑛_𝑠ℎ𝑎𝑟𝑒𝑠𝑖 𝑚𝑘𝑡𝑣𝑎𝑙𝑢𝑒𝑏𝑎𝑠𝑒𝑦𝑒𝑎𝑟(෍) 𝑖=1
 
-   - after entering bid and ask prices, dealers must trade a minimum quantity of shares at those prices 
+- ✓ Every stock is weighted by its capitalization ( _p_ x _q_ , a composite index) over a base year
 
-   - earn **bid-ask spread** and commission fees 
+✓ So, if the index is **3,700** , it means …
 
-- ✓ OTC important for thinly-traded securities (because need a market maker for trades to happen) 
+`o` … that the market value for firms in the S&P500 is **3,700** times higher compared to 1941-43 (base year) `o` in 1980 it was 100 – around 37 times increase `o` today S&P 500 is about 6,580
 
-## **Stock Market Indexes** 
+# Co-movement of S&P500 and DJIA
 
-- ✓ Indexes capture the evolution of a group of shares 
+# Widening lately (because of tech stocks)
 
-   - they are used to monitor the behavior of a groups  of stocks. 
+## ETFs
 
-   - `o` “See how overall market is doing” 
+## Exchange-Traded Funds
 
-## ✓ **indexes** are: Major 
+- ✓ allow to **invest in stock market indexes**
 
-   1. Dow Jones Industrial Average ( _DJIA_ ): 30 companies 
+- ✓ an investment fund that holds a basket of securities
 
-   2. the _S&P 500_ : 500 companies 
+`o` automatically aligned with a stock market index they replicate (ex.: DJIA) …
 
-   3. the _NASDAQ composite_ : over 3,000 companies 
+- … not actively managed
 
-   _4. FTSE 100_ (London): 100 companies 
+- ✓ lower fees very popular for investing in a diversified way at , also popular in foreign markets
 
-   5. Nikkei 225: 225 companies 
+- ✓ nicknames of ETFs tracing particular indexes. Fancy names: `o` Diamonds (DJIA)
 
-   6. FTSE MIB (Milan): 40 firms 
+- `o` Spiders (S&P 500)
 
-- ✓ These indexes are just averages (simple, value weighted) of the stocks composing the index 
-
-- ✓ Copyright ©2015 Pearson Education, Ltd. All rights reserved. The basket of underlying stocks changes periodically 
-
-## **Stock Market Indexes** 
-
-✓ A **price weighted** index: _simple_ arithmetic mean of prices 𝑁 
-
-**==> picture [78 x 66] intentionally omitted <==**
-
-## `o` every stock has the _same weight_ 
-
-- ✓ The DJIA is an example of a price- _weighted_ index, but it has adjustments. DJIA formula: 
-
-**==> picture [222 x 78] intentionally omitted <==**
-
-`o` 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟 a price weighted index corrected by (not based on market capitalization) 
-
-`o` the 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟 
-
-▪ keeps track of stock splits, dividends etc… to maintain historical continuity Copyright ©2015 Pearson Education, Ltd. All rights reserved.▪ at end of ‘24 was around 0.16 → multiplier 1/0.16=6.25: big adjustment! 13-24 
-
-## **DJIA** 
-
-# ✓ So, if the index is **46,200** it means that the average price (after adjustments) for one share in the DJIA is $46,200 
-
-- ✓ In 1980 the DJIA was $800: 57,3 times increase! 
-
-# ✓ Each stock in the Dow has the same weight, regardless  of the company’s market capitalization 
-
-## **Stock Market Indexes, S&P500** 
-
-# ✓ S&P 500 is a value weighted index: weighted average of prices 
-
-500 1 𝑝𝑖 × 𝑛_𝑠ℎ𝑎𝑟𝑒𝑠𝑖 𝑚𝑘𝑡𝑣𝑎𝑙𝑢𝑒𝑏𝑎𝑠𝑒𝑦𝑒𝑎𝑟[෍] 𝑖=1 
-
-- ✓ Every stock is weighted by its capitalization ( _p_ x _q_ , a composite index) over a base year 
-
-✓ So, if the index is **3,700** , it means … 
-
-`o` … that the market value for firms in the S&P500 is **3,700** times higher compared to 1941-43 (base year) `o` in 1980 it was 100 – around 37 times increase `o` today S&P 500 is about 6,580 
-
-# **Co-movement of S&P500 and DJIA** 
-
-**==> picture [686 x 326] intentionally omitted <==**
-
-# **Widening lately (because of tech stocks)** 
-
-**==> picture [690 x 308] intentionally omitted <==**
-
-## **ETFs** 
-
-## _Exchange-Traded Funds_ 
-
-- ✓ allow to **invest in stock market indexes** 
-
-- ✓ an investment fund that holds a basket of securities 
-
-`o` automatically aligned with a stock market index they replicate (ex.: DJIA) … 
-
-   - … not actively managed 
-
-- ✓ lower fees very popular for investing in a diversified way at , also popular in foreign markets 
-
-- ✓ nicknames of ETFs tracing particular indexes. Fancy names: `o` Diamonds (DJIA) 
-
-- `o` Spiders (S&P 500) 
-
-- Copyright ©2015 Pearson Education, Ltd. All rights reserved. `o` 13-29 Qubes (Nasdaq) 
-
+## Related Notes
+- [[Lect7_exercises]]
+- [[Libby_12e_Chap011_PPT w-corrige print]]
+- [[L18 Expectations Financial Markets Stocks]]

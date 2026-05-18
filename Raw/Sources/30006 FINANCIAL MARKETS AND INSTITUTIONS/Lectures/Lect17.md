@@ -1,619 +1,524 @@
-# Class 30006 – Financial Markets and Institutions Università Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Mutual Funds (Chapter 20)** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Mutual Funds (Chapter 20)**"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**==> picture [265 x 187] intentionally omitted <==**
+# Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Mutual Funds (Chapter 20)**
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Outline of today’s class
 
+## **Mutual Funds** (MFs)
 
-**==> picture [98 x 39] intentionally omitted <==**
+1. What they are and why they have grown so much
 
-**==> picture [321 x 184] intentionally omitted <==**
+2. What they do
 
-**----- Start of picture text -----**<br>
-7-1<br>**----- End of picture text -----**<br>
+3. Structure
 
+4. Prices and Fees
 
-## **Outline of today’s class** 
+5. Types of MFs
 
-## **Mutual Funds** (MFs) 
+- a. Money Markets Mutual Funds (MMMFs)
 
-1. What they are and why they have grown so much 
+- b. Index funds
 
-2. What they do 
+c. Exchange Traded Funds (ETFs) d. Hedge Funds e. Conflicts of interests (optional)
 
-3. Structure 
+## Mutual Funds
 
-4. Prices and Fees 
+- ✓ **Mutual Funds** (MFs) are financial intermediaries that:
 
-5. Types of MFs 
+`o` pool the investors’ resources by **selling** them **shares** _(so, investors are shareholders)_ and
 
-- a. Money Markets Mutual Funds (MMMFs) 
+`o` using the proceeds to invest in portfolios of securities
 
-- b. Index funds 
+- ✓ They have been growing in number and importance since 1980, in the US and worldwide
 
-c. Exchange Traded Funds (ETFs) d. Hedge Funds e. Conflicts of interests (optional) 
+`o` due to ceiling on int. rates (regulation Q, until 1986): - inflation in the 70’s made MFs attractive w.r.t. bank deposits `o` equity boom in the ‘80s and ‘90s made the rest ✓ MFs are now almost as large commercial banks in terms of _total assets_ ( **Asset Under Management** (AUM))
 
-## **Mutual Funds** 
+## **The Growth of US Mutual Funds:** _**Number of Funds**_
 
-- ✓ **Mutual Funds** (MFs) are financial intermediaries that: 
+## **The Growth of US Mutual Funds:** _**Assets Under Management (AUM)**_
 
-`o` pool the investors’ resources by **selling** them **shares** _(so, investors are shareholders)_ and 
+## Mutual Funds: What do they do?
 
-`o` using the proceeds to invest in portfolios of securities 
+1. BENEFITS: the _pooling_ of resources `o` reduces the _transaction costs_ and
 
-- ✓ They have been growing in number and importance since 1980, in the US and worldwide 
+`o` brings better _diversification_ to small investors
 
-`o` due to ceiling on int. rates (regulation Q, until 1986): ▪ inflation in the 70’s made MFs attractive w.r.t. bank deposits `o` equity boom in the ‘80s and ‘90s made the rest ✓ MFs are now almost as large commercial banks in terms of _total assets_ [ **Asset Under Management** (AUM)] 
+## 2. TYPES: the majority of MFs continuously
 
-## **The Growth of US Mutual Funds:** _**Number of Funds**_ 
+`o` sells _new shares_ to investors and
 
-**==> picture [574 x 454] intentionally omitted <==**
+`o` allows _redemption of outstanding shares_ at market price
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Benefits: Diversification, Denomination and Transaction Costs
 
+## ✓ Denomination:
 
-## **The Growth of US Mutual Funds:** _**Assets Under Management (AUM)**_ 
+`o` individual investors would like to diversify, but it’s not always possible: with $1,000 or even $10,000, difficult to diversify across assets/sectors/countries ...
 
-**==> picture [547 x 446] intentionally omitted <==**
+`o` MFs pool individual savings and issue individual shares of low denomination (ex.: $1,000)
 
-## **Mutual Funds: What do they do?** 
+- ✓ Diversification benefits come with the ability to invest `o` in _large denomination_ assets and
 
-1. BENEFITS: the _pooling_ of resources `o` reduces the _transaction costs_ and 
+- `o` at _lower average_ transaction costs
 
-`o` brings better _diversification_ to small investors 
+- ✓ But how do Mutual Funds make money? `o` they charge **fees** (more on this later)
 
-## 2. TYPES: the majority of MFs continuously 
+## The Benefits of Mutual Funds
 
-`o` sells _new shares_ to investors and 
+## 5 main **benefits** of MFs explain why they’re so popular
 
-`o` allows _redemption of outstanding shares_ at market price 
+_**1. Liquidity**_ **intermediation**: investors can _quickly_ convert investments into _cash_ at low or zero fee
 
-## **Benefits: Diversification, Denomination and Transaction Costs** 
+##
 
-## ✓ Denomination: 
+_**2. Denomination**_ **intermediation**: investors can participate in equity/debt offerings that, individually, require more capital than they possess
 
-`o` individual investors would like to diversify, but it’s not always possible: with $1,000 or even $10,000, difficult to diversify across assets/sectors/countries ... 
+_**3. Diversification**_: even with small investments, investors can _diversify_ to reduce risk
 
-`o` MFs pool individual savings and issue individual shares of low denomination (ex.: $1,000) 
+_**4. Cost**_ **advantages**: MF can negotiate _lower transaction fees_ than would be available to the individual investor
 
-- ✓ Diversification benefits come with the ability to invest `o` in _large denomination_ assets and 
+**5. Managerial expertise**: many investors prefer to rely on _professional money managers_ to select their investments
 
-- `o` at _lower average_ transaction costs 
+## Mutual Fund Structure
 
-- ✓ But how do Mutual Funds make money? `o` they charge **fees** (more on this later) 
+## 1. Closed-End Fund
 
-## **The Benefits of Mutual Funds** 
+## `o` fixed number of nonredeemable shares
 
-## 5 main **benefits** of MFs explain why they’re so popular 
+- shares sold through an IPO …
 
-_**1. Liquidity**_ **intermediation** : investors can _quickly_ convert investments into _cash_ at low or zero fee 
+- … then traded in the OTC/Stock Exchange
 
-## 
+## `o` after IPO **no other $ can be added** nor **withdrawn**
 
-**==> picture [35 x 223] intentionally omitted <==**
+- so, investors **can’t** redeem their shares …
 
-_**2. Denomination**_ **intermediation** : investors can participate in equity/debt offerings that, individually, require more capital than they possess 
+- … but they can sell them to _others_ at market value: people know **Net Asset Value** (NAV) bcs composition is fixed, which is determined by supply and demand of each asset in the fund
 
-_**3. Diversification**_ : even with small investments, investors can _diversify_ to reduce risk 
+## `o` trade value
 
-_**4. Cost**_ **advantages** : MF can negotiate _lower transaction fees_ than would be available to the individual investor 
+- at substantial discounts relative to their NAV
 
-**5. Managerial expertise** : many investors prefer to rely on _professional money managers_ to select their investments 
+`o` but prices converge to reported NAV at termination
 
-## **Mutual Fund Structure** 
+## `o` termination
 
-## **1. Closed-End Fund** 
+- either through liquidation, merger or conversion to an open-end fund `o` more common for funds that invest in _less liquid_ securities
 
-## `o` fixed number of nonredeemable shares 
+## Mutual Fund Structure
 
-- shares sold through an IPO … 
+**2. Open-End Fund**
 
-- … then traded in the OTC/Stock Exchange 
+`o` investors _may_ buy or redeem shares (ask for cash back) at any time
 
-## `o` after IPO **no other $ can be added** nor **withdrawn** 
+- so fund can grow to +∞ …
 
-- so, investors **can’t** redeem their shares … 
+- … but fund need to … _keep some liquidity_
 
-- … but they can sell them to _others_ at market value: people know **Net Asset Value** (NAV) bcs composition is fixed, which is determined by supply and demand of each asset in the fund 
+- … to be able to meet redemption requests at all times `o` Both purchase and redemption (buy back by MF) take place at share price determined by the NAV of MF
 
-## `o` trade value 
+- ✓ 98% of MFs assets are in open-end funds
 
-- at substantial discounts relative to their NAV 
+## ’ s Calculating a Mutual Fund Net Asset Value
 
-`o` but prices converge to reported NAV at termination 
+_**Net Asset Value (NAV)**_ ~ 𝑠𝑜𝑟𝑡𝑜𝑓𝑝𝑟𝑖𝑐𝑒
 
-## `o` termination 
+’ `o` _Definition:_ Total market value of the mutual fund s stocks, bonds, cash, and other assets minus any liabilities (such as accrued fees), divided by the number of shares outstanding ^akjjj9
 
-## ▪ either through liquidation, merger or conversion to an open-end fund `o` more common for funds that invest in _less liquid_ securities 
+Stocks $35,000,000 Bonds $15,000,000 Cash $3,000,000 Total value of assets $53,000,000 – Liabilities $800,000
 
-▪ ex.: small firms, municipal bonds Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+market values, calculated using market prices, not _historical purchase_ (book) values
 
-## **Mutual Fund Structure** 
+Net worth $52,200,000 Outstanding shares 15 million
 
-**2. Open-End Fund** 
+NAV = $52,200,000/15,000,000 = $3.48
 
-`o` investors _may_ buy or redeem shares (ask for cash back) at any time 
+## Exercise: yield of MF
 
-▪ so fund can grow to +∞ … 
+Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M.
 
-- … but fund need to … _keep some liquidity_ 
+**Q1**: What is new NAV? **A1**: NAV = Assets- Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48
 
-▪ … to be able to meet redemption requests at all times `o` Both purchase and redemption (buy back by MF) take place at share price determined by the NAV of MF 
+## Exercise: yield of MF
 
-- ✓ 98% of MFs assets are in open-end funds 
+Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M.
 
-## **’ s Calculating a Mutual Fund Net Asset Value** 
+**Q1**: What is new NAV? **A1**: NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48
 
-_**Net Asset Value (NAV)**_ ~ 𝑠𝑜𝑟𝑡𝑜𝑓𝑝𝑟𝑖𝑐𝑒 
+## Exercise: yield of MF
 
-’ `o` _Definition:_ Total market value of the mutual fund s stocks, bonds, cash, and other assets minus any liabilities (such as accrued fees), divided by the number of shares outstanding 
+Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M.
 
-Stocks $35,000,000 Bonds $15,000,000 Cash $3,000,000 Total value of assets $53,000,000 – Liabilities $800,000 
+**Q1**: What is new NAV? **A1**: NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV:
 
-market values, calculated using market prices, not _historical purchase_ (book) values 
+## Investment Objective Classes
 
-**==> picture [55 x 19] intentionally omitted <==**
+✓ Four primary classes of MFs by _asset class_ they invest in
 
-Net worth $52,200,000 Outstanding shares 15 million 
+`o` _**Long term MFs**_
 
-NAV = $52,200,000/15,000,000 = $3.48 
+- _Stock_ (equity) funds - _Bond_ funds - _Hybrid_ funds `o` _**Short term MFs**_ - _Money market_ funds
 
-𝐴𝑠𝑠𝑒𝑡𝑠−𝐿𝑖𝑎𝑏𝑖𝑙𝑖𝑡𝑖𝑒𝑠 𝑁𝑒𝑡𝑊𝑜𝑟𝑡ℎ 𝑁𝐴𝑉= = # 𝑠ℎ𝑎𝑟𝑒𝑠 # 𝑠ℎ𝑎𝑟𝑒𝑠 Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+(active) (active) (active)
 
-## **Exercise: yield of MF** 
+(active)
 
-Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M. 
+## ✓ _Other_ types that do not fit in these categories:
 
-**Q1** : What is new NAV? **A1** : NAV = Assets- Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2** : What is the yield of the investment in the MF? **A2** : The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48 
+`o` _**Index**_ **Funds** (subset: **ETFs** ) `o` _**Hedge**_ **Funds**
 
-## **Exercise: yield of MF** 
+(passive) (active)
 
-Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M. 
+7-16
 
-**Q1** : What is new NAV? **A1** : NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2** : What is the yield of the investment in the MF? **A2** : The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48 
+## Money Market Mutual Funds (MMMFs)
 
-## **Exercise: yield of MF** 
+✓ Open-end funds that invest only in _**money** market_ securities
 
-Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M. 
+- ✓ Traditionally thought to be very safe
 
-**Q1** : What is new NAV? **A1** : NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2** : What is the yield of the investment in the MF? **A2** : The yield is the percentage change of NAV: 
+`o` they invest in money market instruments! `o` and yield _higher returns_ than _bank deposits_
 
-$3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48 
+- ✓ That’s why they are so popular and net assets increased dramatically since 1980 `o` overcome interest rate ceilings on deposits due to Regulation Q
 
-## **Investment Objective Classes** 
+- ✓ _Low_ denomination
 
-✓ Four primary classes of MFs by _asset class_ they invest in 
+- initial minimum investment is usually in the range $500-$2,000
 
-`o` _**Long term MFs**_ 
+- ✓ Some of these MMMFs went into trouble during the 2007 crisis (saved by Treasury and Fed)
 
-▪ _Stock_ (equity) funds ▪ _Bond_ funds ▪ _Hybrid_ funds `o` _**Short term MFs**_ ▪ _Money market_ funds 
+## Average Distribution of MMMF Assets
 
-[active] [active] [active] 
+## MMMF after Covid
 
-[active] 
+## Fee Structure of Mutual Funds
 
-## ✓ _Other_ types that do not fit in these categories: 
+MF often have **fees** (4 ex., there can be one-time fees on the amount of shares you purchase (≈2-6% value)
 
-`o` _**Index**_ **Funds** (subset: **ETFs** ) `o` _**Hedge**_ **Funds** 
+## ✓ **Load funds**
 
-[passive] [active] 
+- charge an _upfront fee,_ a one-time commission at the time of the purchase of the share (% of _total_ sale)
 
-**==> picture [662 x 361] intentionally omitted <==**
+## ✓ **Deferred load funds**
 
-**----- Start of picture text -----**<br>
-MUTUAL FUNDS<br>Managed ‘‘Active’’ Funds<br>Stock Funds Hybrid Bond Funds<br>Funds<br>Money Market<br>Hedge Funds<br>Funds<br>**----- End of picture text -----**<br>
+- charge a one-time fee when the shares are redeemed (% of _original_ sale)
 
+## ✓ **No Load funds**
 
-**==> picture [327 x 88] intentionally omitted <==**
+- no
 
-**----- Start of picture text -----**<br>
-Index ‘‘Passive’’ Funds<br>ETFs<br>**----- End of picture text -----**<br>
+- charge you commission for purchasing / selling shares (but still charge other fees)
 
+- this represents 55-65% of bond & equity funds
 
-**==> picture [280 x 9] intentionally omitted <==**
+Is this all the fees? No! Other fees include:
 
-**----- Start of picture text -----**<br>
-Copyright ©2015 Pearson Education, Ltd. All rights reserved.<br>**----- End of picture text -----**<br>
+## Fee Structure of Mutual Funds
 
+## Exercise: MF fees and Investing
 
-7-16 
+## Consider an MF with the following assets at the end of the trading day:
 
-## **Money Market Mutual Funds (MMMFs)** 
+## The MF has 100 shares outstanding
 
-✓ Open-end funds that invest only in _**money** market_ securities 
+## **Q1**: What is the NAV of this MF?
 
-- ✓ Traditionally thought to be very safe 
+**A**: 𝐍𝐀𝐕= (15 × 10 + 20 × 20 + 15 × 30 + 10 × 20 + 50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓
 
-`o` they invest in money market instruments! `o` and yield _higher returns_ than _bank deposits_ 
+7-22
 
-- ✓ That’s why they are so popular and net assets increased dramatically since 1980 `o` overcome interest rate ceilings on deposits due to Regulation Q 
+## Exercise: MF fees and Investing
 
-- ✓ _Low_ denomination 
+Consider an MF with the following assets at the end of the trading day:
 
-   - initial minimum investment is usually in the range $500-$2,000 
+## The MF has 100 shares outstanding
 
-- ✓ Some of these MMMFs went into trouble during the 2007 crisis (saved by Treasury and Fed) 
+## **Q1**: What is the NAV of this MF?
 
-- ✓Copyright ©2015 Pearson Education, Ltd. All rights reserved. What do they invest on? (next slide) 
+**A1**: 𝐍𝐀𝐕= ($15 × 10 + $20 × 20 + $30 × 15 + $20 × 10 + $50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓
 
-## **Average Distribution of MMMF Assets** 
+## Exercise: MF fees and Investing
 
-**==> picture [638 x 409] intentionally omitted <==**
+You decide to buy into this fund and **want to invest $25**
 
-## **MMMF after Covid** 
+**Q2**: How many shares can you buy?
 
-**==> picture [646 x 450] intentionally omitted <==**
+**A1**: You can buy 2 shares ( _NAV=$12.5; $25/$12.5 = 2_ )
 
-## **Fee Structure of Mutual Funds** 
+**Q3**: What is the total new number of shares in this MF and the new NAV?
 
-MF often have **fees** (4 ex., there can be one-time fees on the amount of shares you purchase (≈2-6% value) 
+**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102
 
-## ✓ **Load funds** 
+**Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
-- charge an _upfront fee,_ a one-time commission at the time of the purchase of the share (% of _total_ sale) 
+**A3**: Now with $25 you buy only 95% of your _desired_ number of shares; 5% is «lost» as fee. So you need to give to the manager
 
-## ✓ **Deferred load funds** 
+7-24
 
-- charge a one-time fee when the shares are redeemed (% of _original_ sale) 
+## Exercise: MF fees and Investing
 
-## ✓ **No Load funds** 
+You decide to buy into this fund and **want to invest $25 Q2**: How many shares can you buy?
 
-- no 
+**A2**: You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2
 
-- charge you commission for purchasing / selling shares (but still charge other fees) 
+**Q3**: What is the total new number of shares in this MF and the new NAV?
 
-- this represents 55-65% of bond & equity funds 
+**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102
 
-Is this all the fees? No! Other fees include: 
+**Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
-_management fees, account maintenance fees, marketing fees, etc..._ Co ~~pyright ©2015 Pearson Education, L~~ td. All rights reserved. 
+**A3**: Now with $25 you buy only 95% of your _desired_ number of shares; 5% is «lost» as fee. So you need to give to the manager
 
-## **Fee Structure of Mutual Funds** 
+7-25
 
-**==> picture [606 x 354] intentionally omitted <==**
+## Exercise: MF fees and Investing
 
-The _average expense ratio_ for MFs is an annual fee, expressed as a percentage of investment, that covers the fund's operating costs (ex.: management, administrative, and marketing expenses) Copyright ©2015 Pearson Education, Ltd. All rights reserved. 
+You decide to buy into this fund and **want to invest $25 Q2**: How many shares can you buy?
 
-## **Exercise: MF fees and Investing** 
+**A2**: You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2
 
-## Consider an MF with the following assets at the end of the trading day: 
+**Q3**: What is the total new number of shares in this MF and the new NAV?
 
-**==> picture [476 x 234] intentionally omitted <==**
+**A3**: The new total number of MF shares is 102 (= 100 + 2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,250 + $25 $1,275 = 𝑁𝐴𝑉= = $12.5 100 + 2 102
 
-**----- Start of picture text -----**<br>
-Book<br>Market<br>Units  Value<br>Asset Price per<br>Owned<br>per<br>security<br>securit<br>y<br>Stock A 10 $15 $20<br>Stock B 20 $20 $15<br>Stock C 15 $30 $25<br>Bond 10 $20 $49<br>--<br>Cash $50 $50<br>**----- End of picture text -----**<br>
+**Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
+7-26
 
-## The MF has 100 shares outstanding 
+## Exercise: MF fees and Investing
 
-## **Q1** : What is the NAV of this MF? 
+You decide to buy into this fund and **want to invest $25 Q2**: How many shares can you buy?
 
-**A** : 𝐍𝐀𝐕= (15 × 10 + 20 × 20 + 15 × 30 + 10 × 20 + 50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓 
+**A2**: You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2
 
-Note that we used Copyright ©2015 Pearson Education, Ltd. All rights reserved.market prices, not book values 
+**Q3**: What is the total new number of shares in this MF and the new NAV?
 
-7-22 
+**Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
-## **Exercise: MF fees and Investing** 
+## Index Funds
 
-Consider an MF with the following assets at the end of the trading day: 
+✓ A special class of mutual funds that is _not actively_ managed
 
-|||||
-|---|---|---|---|
-|**Asset**|**Units**<br>**Owned**|**Market**<br>**Price per**<br>**security**|**Book**<br>**Value**<br>**per**<br>**security**|
-|Stock A|10|$15|$20|
-|Stock B|20|$20|$15|
-|Stock C|15|$30|$25|
-|Bond|10|$20|$49|
-|Cash|--|$50|$50|
+`o` the fund **contains the stock of the index it is** _**mimicking**_ . 4 ex.: S&P500, Russell 1000, etc…
 
+## ✓ Advantages
 
+- they offer benefits of traditional mutual funds (good diversification) …
 
-## The MF has 100 shares outstanding 
+- `o` with lower fees (passive tracking, no brainer)
 
-## **Q1** : What is the NAV of this MF? 
+## ✓: Only recently popular
 
-**A1** : 𝐍𝐀𝐕= ($15 × 10 + $20 × 20 + $30 × 15 + $20 × 10 + $50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓 
+- until the advent of computing technology, it was quite costly to manage an index portfolio of 100s or 1,000s stocks
 
-Note that we used Copyright ©2015 Pearson Education, Ltd. All rights reserved.market prices, not book values 
+- ✓ If you believe in _EMH_ , buy passively managed funds: nobody can systematically beat the market
 
-## **Exercise: MF fees and Investing** 
+`o` the former CEO of Vanguard Group admitted that he himself was an “index” investor
 
-You decide to buy into this fund and **want to invest $25** 
+## ETFs History
 
-**Q2** : How many shares can you buy? 
+- ✓ **Exchange Traded Funds** (ETFs) are _open-end_ investment companies that replicate an index
 
-**A1** : You can buy 2 shares ( _NAV=$12.5; $25/$12.5 = 2_ ) 
+- ✓ One of the **most important innovations** in financial markets of the last decades
 
-**Q3** : What is the total new number of shares in this MF and the new NAV? 
+## ✓ History
 
-**A2** : The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102 
+`o` January 1993: First US-listed ETF, the SPDR, launched by State Street - SPDR tracks S&P500 and today still largest ETF with AUM = $700 B (look) `o` after SPDR, new ETFs were launched tracking domestic and international indices, and more specialized sector, regions… `o` recently, ETFs have **grown substantially** in assets, diversity, and market significance
+*(See also: [[Lect17_exercises#^sh46tf]])*
 
-**Q4** : If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares? 
+# ETF Growth
 
-**A3** : Now with $25 you buy only 95% of your _desired_ number of shares; 5% is «lost» as fee. So you need to give to the manager 
+## A Special Type of Index Funds: ETFs
 
-$25 $25: 0.95 = 𝑥: 1 ⇒𝑥= Copyright ©2015 Pearson Education, Ltd. All rights reserved. 0.95[= $26.32] 
+## ✓ ETFs are a mix between Index funds and MFs
 
-7-24 
+- ✓ Differently from (and better than) MFs, ETFs are:
 
-## **Exercise: MF fees and Investing** 
+- more liquid than MFs
 
-You decide to buy into this fund and **want to invest $25 Q2** : How many shares can you buy? 
+- trade continuously during the trading day (like stocks)
 
-**A2** : You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2 
+- open-end MFs transactions occur _at the end of the day_ at NAV
 
-**Q3** : What is the total new number of shares in this MF and the new NAV? 
+- closed-end MFs shares also trade _continuously_ like ETFs, but they suffer from poor liquidity
 
-**A2** : The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102 
+- lower fees than MFs - ETFs are _passively_ managed (just track a benchmark, no-brainer), so have substantially lower fees than actively managed funds (like MFs)
 
-**Q4** : If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares? 
+- ✓ Differenty from _index funds,_ ETFs are: `o` interaction
 
-**A3** : Now with $25 you buy only 95% of your _desired_ number of shares; 5% is «lost» as fee. So you need to give to the manager 
+- investors in ETFs mostly do not trade the fund _directly_
 
-$25 $25: 0.95 = 𝑥: 1 ⇒𝑥= Copyright ©2015 Pearson Education, Ltd. All rights reserved. 0.95[= $26.32] 
+- “Creation and Redemption mechanism” (next)
 
-7-25 
+## Structure of ETF
 
-## **Exercise: MF fees and Investing** 
+## Structure of ETF
 
-You decide to buy into this fund and **want to invest $25 Q2** : How many shares can you buy? 
+## Structure of ETF
 
-**A2** : You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2 
+## Structure of ETF
 
-**Q3** : What is the total new number of shares in this MF and the new NAV? 
+- ✓ the _ETF manager_ enters into a legal contract with one/several “Authorized Participants” (APs) `o` APs have _exclusive right_ to interact with ETF manager `o` typically, large financial institutions with expertise
 
-**A3** : The new total number of MF shares is 102 (= 100 + 2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,250 + $25 $1,275 = 𝑁𝐴𝑉= = $12.5 100 + 2 102 
+✓ the ETF manager can _issue_ or _redeem_ shares, called creation units, with APs (in large blocks) in exchange for `o` a _basket of securities_ (“in-kind” transactions) and/or
 
-**Q4** : If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares? 
+`o` cash
 
-**A3** : Now with $25 you buy only 95% of your _desired_ number of shares; 5% is «lost» as fee. So you need to give to the manager $25 $25: 0.95 = 𝑥: 1 ⇒𝑥= Copyright ©2015 Pearson Education, Ltd. All rights reserved. 7-26 0.95[= $26.32] 
+- ✓ APs in turn interact with the **markets**
 
-7-26 
+`o` buy/sell with investors
 
-## **Exercise: MF fees and Investing** 
+- ETF shares or securities making the index
 
-You decide to buy into this fund and **want to invest $25 Q2** : How many shares can you buy? 
+## Structure of ETF
 
-**A2** : You can buy 2 shares: if NAV = $12.5, $25/$12.5 = 2 
+## **Primary** market of ETF shares
 
-**Q3** : What is the total new number of shares in this MF and the new NAV? 
+- ✓ ETF AP’s Players: only manager and
 
-**==> picture [649 x 91] intentionally omitted <==**
+- ✓ The mechanism by which the shares of the ETF are adjusted in response to supply and demand is known as _**creation/redemption mechanism**_
 
-**Q4** : If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares? 
+- ✓ **Creation** = **increase** in the _number of shares_ outstanding
 
-**==> picture [665 x 92] intentionally omitted <==**
+- ✓ **Redemption** = **decrease** in _the number of shares_ outstanding
 
-## **Index Funds** 
+## ETF price
 
-✓ A special class of mutual funds that is _not actively_ managed 
+## ✓ ETF managers have to publish a NAV (like MFs)
 
-`o` the fund **contains the stock of the index it is** _**mimicking**_ . 4 ex.: S&P500, Russell 1000, etc… 
+## ✓ Arbitrage of APs
 
-## ✓ Advantages 
+- deviations of price from the announced NAV are **arbitraged away** by APs  thanks to the creation/ redemption mechanism. How?
 
-- they offer benefits of traditional mutual funds (good diversification) … 
+- Ex. 1: ETF is traded _at premium_ wrt AP’s estimate of the value 𝑁𝐴𝑉 > 𝑁𝐴𝑉(𝑒)
 
-- `o` with lower fees (passive tracking, no brainer) 
+- ( 𝑡 ; 102 Vs 100). The AP:
 
-## ✓ : Only recently popular 
+- buys basket of securities making index from investors at 𝑁𝐴𝑉(𝑒)
 
-   - until the advent of computing technology, it was quite costly to manage an index portfolio of 100s or 1,000s stocks 
+- exchange it with ETF manager to get ETF shares
 
-- ✓ If you believe in _EMH_ , buy passively managed funds: nobody can systematically beat the market 
+- sell ETF shares to the market 𝑁𝐴𝑉 ⟹ , to lock in infraday profits at 𝑡
 
-`o` the former CEO of Vanguard Group admitted that he himself was an “index” investor 
+- 𝑁𝐴𝑉↓
 
-## **ETFs History** 
+- Ex. 2: ETF is traded at _discount_ 𝑁𝐴𝑉 < 𝑁𝐴𝑉(𝑒) ( 𝑡 ). The AP:
 
-- ✓ **Exchange Traded Funds** (ETFs) are _open-end_ investment companies that replicate an index 
+- - 𝑁𝐴𝑉 ⟹ 𝑁𝐴𝑉↑ buys ETF shares from the investors at 𝑡
 
-- ✓ One of the **most important innovations** in financial markets of the last decades 
+- - exchange them to ETF manager to get basket of securities
 
-## ✓ History 
+- - sell the securities to market at 𝑁𝐴𝑉(𝑒)
 
-`o` January 1993: First US-listed ETF, the SPDR, launched by State Street ▪ SPDR tracks S&P500 and today still largest ETF with AUM = $700 B (look) `o` after SPDR, new ETFs were launched tracking domestic and international indices, and more specialized sector, regions… `o` recently, ETFs have **grown substantially** in assets, diversity, and market significance 
+## **ETF traded** _**at premium**_
 
-# **ETF Growth** 
+## ETF price
 
-**==> picture [670 x 410] intentionally omitted <==**
+- ✓ The creation/redemption mechanism thus works through _arbitrage_ to help keep the **price of an ETF close to the intrinsic value** of its holdings
 
-## **A Special Type of Index Funds: ETFs** 
+- ✓ Market data vendors calculate and publish the NAV based on past prices and provide an **Intraday** _**Indicative**_ **Value** _every 15 seconds_ !
 
-## ✓ ETFs are a mix between Index funds and MFs 
+- ✓ The _intraday tradability_ of ETFs allows to have the price of the fund determined by the market through the interaction of buyers and sellers
 
-- ✓ Differently from (and better than) MFs, ETFs are: 
+- ✓ In contrast, for MFs liquidity is offered only at the close and only at NAV
 
-   - more liquid than MFs 
+## Hedge Funds
 
-   - trade continuously during the trading day (like stocks) 
+## **Hedge Funds** are a special type of Mutual Funds
 
-      - open-end MFs transactions occur _at the end of the day_ at NAV 
+`o` do not hedge, but they do **speculation**
 
-      - closed-end MFs shares also trade _continuously_ like ETFs, but they suffer from poor liquidity 
+- they often pursue risky strategies that yield _high returns_ in both falling and rising markets
 
-   - lower fees than MFs ▪ ETFs are _passively_ managed (just track a benchmark, no-brainer), so have substantially lower fees than actively managed funds (like MFs) 
+- Only wealthy investors allowed (by law):
 
-- ✓ Differenty from _index funds,_ ETFs are: `o` interaction 
+- high minimum investment (min. wealth: $1M)
 
-         - investors in ETFs mostly do not trade the fund _directly_ 
+- high fees: typically, 1% of assets plus 20% of profits (or even 50%!)
 
-         - “Creation and Redemption mechanism” (next) 
+- - annual income >$200,000 and net worth (excluding house) >$1M
 
-## **Structure of ETF** 
+## `o` Lightly regulated wrt MFs:
 
-**==> picture [652 x 366] intentionally omitted <==**
+- idea is that the **rich can take care of themselves** (they do not need the government to tell them not to gamble)
 
-## **Structure of ETF** 
+- can do short-selling      highly levered
 
-**==> picture [652 x 366] intentionally omitted <==**
+- - derivatives trading
 
-## **Structure of ETF** 
+- - program trading
 
-**==> picture [652 x 366] intentionally omitted <==**
+## Hedge Funds
 
-## **Structure of ETF** 
+- ✓ Hedge funds employ _sophisticated_ trading strategies `o` they try to take advantage of unusual spreads between security prices
 
-- ✓ the _ETF manager_ enters into a legal contract with one/several “Authorized Participants” (APs) `o` APs have _exclusive right_ to interact with ETF manager `o` typically, large financial institutions with expertise 
+- ✓ Ex: it can be that a 29.5-year US Treasury bond seems cheap relative to 30-year Treasuries. The managers figure that the value of the two bonds _would converge_ over time: similar maturity. Strategy:
 
-✓ the ETF manager can _issue_ or _redeem_ shares, called creation units, with APs (in large blocks) in exchange for `o` a _basket of securities_ (“in-kind” transactions) and/or 
+- sell short ($2bn) of the 30-year and go long ($2bn) on the 29.5-year
 
-`o` cash 
+- `o` 6 months later, reverse these transactions: sell 29.5-year and buy 30-year
 
-- ✓ APs in turn interact with the **markets** 
+- if prices do converge realize a profit: that from 𝑃29.5 𝑦 ↑ should cover loss from 𝑃30 𝑦 ↓ and repay borrowing costs
 
-`o` buy/sell with investors 
+- `o` if they do not converge «enough»: big loss
 
-▪ ETF shares or securities making the index 
+## Renaissance Technologies
 
-`o` often hold (at their own risk) some _inventory_ of the ETF shares, Copyright ©2015 Pearson Education, Ltd. All rights reserved. creating further market liquidity for the ETF 
+## Sophisticated hedge funds run by mathematicians
 
-## **Structure of ETF** 
+James Simons, Renaissance Technologies
 
-## **Primary** market of ETF shares 
+- Renaissance flagship’s fund Medallion has had a 60% average return 1994-2016
 
-- ✓ ETF AP’s Players: only manager and 
+- Worst year was 21%. Made 98% return in 2008.
 
-- ✓ The mechanism by which the shares of the ETF are adjusted in response to supply and demand is known as _**creation/redemption mechanism**_ 
+- James Simons himself made $2.5bn of income (!) in 2008
 
-- ✓ **Creation** = **increase** in the _number of shares_ outstanding 
+- He is considered "the most successful _hedge fund_ manager of all time”
 
-- ✓ **Redemption** = **decrease** in _the number of shares_ outstanding 
+## Mini-Case: The LTCM Debacle
 
-## **ETF price** 
+- ✓ Long Term Capital Management ( _LTCM_ ) was a _hedge fund_ run by John Meriwether, and its board included Nobel Laureates (Myron Scholes and Robert C. Merton)
 
-## ✓ ETF managers have to publish a NAV (like MFs) 
+- ✓ It recorded after-fee returns in excess of 30% for the first several years
 
-## ✓ Arbitrage of APs 
+- ✓ It then took _bets_ that went the wrong way ( _prices did not converge_ after 1997 Asian Crisis & Russia default)
 
-- deviations of price from the announced NAV are **arbitraged away** by APs  thanks to the creation/ redemption mechanism. How? 
+- ✓ Leverage: in 1998 $4.72bn net worth, $129bn assets ... Regulator had to bail it out. Its failure could have been devastating for the U.S. economy
 
-- Ex. 1: ETF is traded _at premium_ wrt AP’s estimate of the value 𝑁𝐴𝑉 > 𝑁𝐴𝑉[𝑒] 
+- ✓ You can read more about it here if interested
 
-- ( 𝑡 ; 102 Vs 100). The AP: 
+## Conflicts of Interests (optional)
 
-   - buys basket of securities making index from investors at 𝑁𝐴𝑉[𝑒] 
+- ✓ investment advisers have incentive to increase their income (through fees) to the detriment of shareholders’ return
 
-   - exchange it with ETF manager to get ETF shares 
+- ✓ monitoring by directors (in turn appointed by investors) is not sufficient
 
-   - sell ETF shares to the market 𝑁𝐴𝑉 ⟹ , to lock in infraday profits at 𝑡 
+## 2 Relevant cases of substantial conflicts of interest
 
-   - 𝑁𝐴𝑉↓ 
+- ✓ _: Late trading_ practice of allowing trades at the 4:00pm price of that day after 4:00pm to trade (not tomorrows price)
 
-- Ex. 2: ETF is traded at _discount_ 𝑁𝐴𝑉 < 𝑁𝐴𝑉[𝑒] ( 𝑡 ). The AP: 
+`o` if relevant news became public after 4:00pm, a trader could make a **certain gain**
 
-- ▪ 𝑁𝐴𝑉 ⟹ 𝑁𝐴𝑉↑ buys ETF shares from the investors at 𝑡 
+`o` late trades are illegal but there are some exceptions
 
-- ▪ exchange them to ETF manager to get basket of securities 
+- ✓ _: Market timing_ MFs calculate NAV using latest released prices; but due to time zone differences, these may be already many hours old (and fail to contain relevant information)
 
-- ▪ sell the securities to market at 𝑁𝐴𝑉[𝑒] 
+`o` Ex: US fund that holds Japanese stocks. Japan stock market closes 9h before US market. NAV of US fund uses closing prices of Japanese market, which do not contain new information that as released after Japanese market closed
 
-## **ETF traded** _**at premium**_ 
-
-**==> picture [652 x 377] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-$102 $100<br>+$2<br>$100<br>**----- End of picture text -----**<br>
-
-
-## **ETF price** 
-
-- ✓ The creation/redemption mechanism thus works through _arbitrage_ to help keep the **price of an ETF close to the intrinsic value** of its holdings 
-
-- ✓ Market data vendors calculate and publish the NAV based on past prices and provide an **Intraday** _**Indicative**_ **Value** _every 15 seconds_ ! 
-
-- ✓ The _intraday tradability_ of ETFs allows to have the price of the fund determined by the market through the interaction of buyers and sellers 
-
-- ✓ In contrast, for MFs liquidity is offered only at the close and only at NAV 
-
-## **Hedge Funds** 
-
-## **Hedge Funds** are a special type of Mutual Funds 
-
-`o` do not hedge, but they do **speculation** 
-
-- they often pursue risky strategies that yield _high returns_ in both falling and rising markets 
-
-- Only wealthy investors allowed (by law): 
-
-   - high minimum investment (min. wealth: $1M) 
-
-   - high fees: typically, 1% of assets plus 20% of profits (or even 50%!) 
-
-   - ▪ annual income >$200,000 and net worth (excluding house) >$1M 
-
-## `o` Lightly regulated wrt MFs: 
-
-- idea is that the **rich can take care of themselves** (they do not need the government to tell them not to gamble) 
-
-- can do short-selling      highly levered 
-
-- ▪ derivatives trading 
-
-- ▪ program trading 
-
-## **Hedge Funds** 
-
-- ✓ Hedge funds employ _sophisticated_ trading strategies `o` they try to take advantage of unusual spreads between security prices 
-
-- ✓ Ex: it can be that a 29.5-year US Treasury bond seems cheap relative to 30-year Treasuries. The managers figure that the value of the two bonds _would converge_ over time: similar maturity. Strategy: 
-
-   - sell short ($2bn) of the 30-year and go long ($2bn) on the 29.5-year 
-
-   - `o` 6 months later, reverse these transactions: sell 29.5-year and buy 30-year 
-
-   - if prices do converge realize a profit: that from 𝑃29.5 𝑦 ↑ should cover loss from 𝑃30 𝑦 ↓ and repay borrowing costs 
-
-   - `o` if they do not converge «enough»: big loss 
-
-- ✓ Everything amplified by using lots of **leverage** : borrow a lot Copyright ©2015 Pearson Education, Ltd. All rights reserved.so ROE is very high 
-
-## _**Renaissance Technologies**_ 
-
-## Sophisticated hedge funds run by mathematicians 
-
-**==> picture [308 x 205] intentionally omitted <==**
-
-James Simons, Renaissance Technologies 
-
-- Renaissance flagship’s fund Medallion has had a 60% average return 1994-2016 
-
-- Worst year was 21%. Made 98% return in 2008. 
-
-- James Simons himself made $2.5bn of income (!) in 2008 
-
-- He is considered "the most successful _hedge fund_ manager of all time” 
-
-## **Mini-Case: The LTCM Debacle** 
-
-- ✓ Long Term Capital Management ( _LTCM_ ) was a _hedge fund_ run by John Meriwether, and its board included Nobel Laureates (Myron Scholes and Robert C. Merton) 
-
-- ✓ It recorded after-fee returns in excess of 30% for the first several years 
-
-- ✓ It then took _bets_ that went the wrong way ( _prices did not converge_ after 1997 Asian Crisis & Russia default) 
-
-- ✓ Leverage: in 1998 $4.72bn net worth, $129bn assets ... Regulator had to bail it out. Its failure could have been devastating for the U.S. economy 
-
-- ✓ You can read more about it here if interested 
-
-## **Conflicts of Interests (optional)** 
-
-- ✓ investment advisers have incentive to increase their income (through fees) to the detriment of shareholders’ return 
-
-- ✓ monitoring by directors (in turn appointed by investors) is not sufficient 
-
-## **2 Relevant cases of substantial conflicts of interest** 
-
-- ✓ _: Late trading_ practice of allowing trades at the 4:00pm price of that day after 4:00pm to trade (not tomorrows price) 
-
-`o` if relevant news became public after 4:00pm, a trader could make a **certain gain** 
-
-`o` late trades are illegal but there are some exceptions 
-
-- ✓ _: Market timing_ MFs calculate NAV using latest released prices; but due to time zone differences, these may be already many hours old (and fail to contain relevant information) 
-
-`o` Ex: US fund that holds Japanese stocks. Japan stock market closes 9h before US market. NAV of US fund uses closing prices of Japanese market, which do not contain new information that as released after Japanese market closed 
-
+## Related Notes
+- [[Lect17_exercises]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]
+- [[Lect7]]

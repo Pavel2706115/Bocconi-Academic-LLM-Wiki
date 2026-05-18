@@ -1,444 +1,296 @@
-# **The ‘Great Divergence’** 
+---
+course: "Economic History"
+course_code: "30067"
+tags:
+  - "source"
+  - course_30067
+Title: "The ‘Great Divergence’"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**(Alfani-Colli, ch. 2.2-3)** 
+# The ‘Great Divergence’
 
-Economic history Academic year 2025/2026 Sonia Schifano 
+**(Alfani-Colli, ch. 2.2-3)**
 
-## **In this episode** 
+Economic history Academic year 2025/2026 Sonia Schifano
 
-- From Closed Worlds to Open World 
+## In this episode
 
-- **The** _**Great Divergence**_ **or** _**How did Europe become so powerful**_ **?** 
+- From Closed Worlds to Open World
 
-- The reasons behind the European take off: • Demography 
+- **The** _**Great Divergence**_ **or** _**How did Europe become so powerful**_ **?**
 
-- • Geography 
+- The reasons behind the European take off: - Demography
 
-   - Institutions 
+- - Geography
 
-   - • Geo-politics 
+- Institutions
 
-**==> picture [454 x 394] intentionally omitted <==**
+- - Geo-politics
 
-A.y. 2025/2026 
+## Preindustrial ‘closed worlds’
 
-30067 
+- Until the end of the 13th century, Europe and the Mediterranean basin, East Asia and Central
 
-## **Preindustrial ‘closed worlds’** 
+- America were ‘closed worlds’.
 
-- Until the end of the 13th century, Europe and the Mediterranean basin, East Asia and Central 
+- They had important (internal) trade exchanges but were not economically integrated with each
 
-   - America were ‘closed worlds’. 
+- other.
 
-      - They had important (internal) trade exchanges but were not economically integrated with each 
+- The period between **1450 and 1550** marks breaking point:
 
-         - other. 
+- Thanks to geographical discoveries and the creation of new commercial and communication routes more and more areas of the planet ‘opened up’ to the outside world, giving rise to .
 
-- The period between **1450 and 1550** marks breaking point: 
+- **world economic system**
 
-      - Thanks to geographical discoveries and the creation of new commercial and communication routes more and more areas of the planet ‘opened up’ to the outside world, giving rise to . 
+- This opening up starts in Europe and the Mediterranean.
 
-      - **world economic system** 
+## → **Why?**
 
-- This opening up starts in Europe and the Mediterranean. 
+## The centrality of the Mediterranean
 
-## → **Why?** 
+- Until the end of the 15th century, the focus of European naval trade had been within the Mediterranean and dominated by the Italians.
 
-A.y. 2025/2026 
+- The latter, led by the Venetians and Genoese, were the absolute leaders in trade with the East.
 
-30067 
+- From the Middle and Far East, the Mediterranean received mainly luxury products
 
-**==> picture [764 x 459] intentionally omitted <==**
+- Silks and porcelains, brocades, spices, or valuable raw materials such as alum and cotton.
 
-A.y. 2025/2026 
+- Towards the Levant, the Mediterranean sent
 
-30067 
+- **woollen** and **linen cloths** , furs from northern Europe,
 
-## **The centrality of the Mediterranean** 
+- **metal products** (from central Europe and Lombardy),
 
-- Until the end of the 15th century, the focus of European naval trade had been within the Mediterranean and dominated by the Italians. 
+- **paper** , and **glass artefacts** (from Venice).
 
-   - The latter, led by the Venetians and Genoese, were the absolute leaders in trade with the East. 
+## The first ‘opening’
 
-- From the Middle and Far East, the Mediterranean received mainly luxury products 
+- At the end of the 13th century, Genoa and Venice organised the first trade expeditions to Flanders and England, thus connecting the Mediterranean with Northern Europe by sea, bypassing traditional land routes: ^cxnf4n
 
-   - Silks and porcelains, brocades, spices, or valuable raw materials such as alum and cotton. 
+- spices were exchanged for raw and semi-finished materials (metals and wool).
 
-- Towards the Levant, the Mediterranean sent 
+- In the same period, however, the ships available - **galleys and** _**cocche**_ -  were not suitable for the open ocean:
 
-   - **woollen** and **linen cloths** , furs from northern Europe, 
+- The Italians manage to go as far as Morocco but no further
 
-   - **metal products** (from central Europe and Lombardy), 
+- The Genoese expedition in 1291 to attempt to circumnavigate Africa to reach the Indies failed
 
-   - **paper** , and **glass artefacts** (from Venice). 
+## Premises of discoveries: Guns, Sails & Empires
 
-A.y. 2025/2026 
+- In the 15(th) century, shipbuilding developed considerably. Sturdier and faster ships, better suited to ocean navigation, were designed and built: caravels.
 
-30067 
+- In addition, we have significant improvements in navigation science: quadrant, nocturnal, astrolabe, nautical charts were invented or greatly improved in this period.
 
-## **The first ‘opening’** 
+- Cannons were equally fundamental: commercial expansion often required military action…
 
-- At the end of the 13th century, Genoa and Venice organised the first trade expeditions to Flanders and England, thus connecting the Mediterranean with Northern Europe by sea, bypassing traditional land routes: 
+- Taking advantage of these technological advances, the Portuguese, Dutch, and Flemish sought to enter the **lucrative trade with Asia** .
 
-   - spices were exchanged for raw and semi-finished materials (metals and wool). 
+## Opening closed worlds
 
-**==> picture [237 x 160] intentionally omitted <==**
+- The **Portuguese** first gradually integrated into the trade between the **Mediterranean and the North Sea** and then they began to look south.
 
-- In the same period, however, the ships available - **galleys and** _**cocche**_ -  were not suitable for the open ocean: 
+- In **1434** the Portuguese Gil Eanes rounded **Cape Bojador**
 
-   - The Italians manage to go as far as Morocco but no further 
+- succeeding where the Italians had failed and changing the geopolitical balance in the Mediterranean.
 
-**==> picture [203 x 170] intentionally omitted <==**
+- The consolidation of the supremacy of the Portuguese was further determined by the advance of the Turks in their conquest of the Orient. Italian merchants encountered increasing difficulties in the Levant (first Turkish-Venetian war in 1463-1479).
+*(See also: [[3_New players, new institutions_30067#^tvjs1s]])*
 
-- The Genoese expedition in 1291 to attempt to circumnavigate Africa to reach the Indies failed 
+- The presence of the Ottoman Empire thus stimulated the search for other routes to the East to continue the rich trade in spices and high-value goods.
 
-A.y. 2025/2026 
+## The age of Portuguese discoveries
 
-30067 
+- In 1427 the Portuguese discovered the Azores, 1500 km off Lisbon
 
-## **Premises of discoveries: Guns, Sails & Empires** 
+- In 1434 Gil Eanes rounded Cape Bojador
 
-**==> picture [222 x 167] intentionally omitted <==**
+- In 1487-88 Bartolomeo Diaz rounded Cape Good Hope
 
-- In the 15[th] century, shipbuilding developed considerably. Sturdier and faster ships, better suited to ocean navigation, were designed and built: caravels. 
+- Between 1497 and 1498 Vasco da Gama circumnavigated Africa and reached India at Calicut
 
-**==> picture [160 x 288] intentionally omitted <==**
+## The Portuguese conquests
 
-- In addition, we have significant improvements in navigation science: quadrant, nocturnal, astrolabe, nautical charts were invented or greatly improved in this period. 
+- Methods and goals of Portuguese occupation:
 
-- Cannons were equally fundamental: commercial expansion often required military action… 
+- establishment of **outposts** to control trade (in Africa to handle trade in high-value goods such as gold, ivory, spices from the Gulf of Guinea and, later, the slave trade)
 
-- Taking advantage of these technological advances, the Portuguese, Dutch, and Flemish sought to enter the **lucrative trade with Asia** . 
+- only ‘ **marginal** ’ territorial occupation
 
-A.y. 2025/2026 
+- high rate of **resource extraction**
 
-30067 
+The Portuguese continued to aim for the East Indies:
 
-**==> picture [642 x 428] intentionally omitted <==**
+→ 1510 Malacca Peninsula and Malaysia;
 
-**----- Start of picture text -----**<br>
-What<br>else?<br>**----- End of picture text -----**<br>
+- → 1513 China;
 
+- → 1543 Japan.
 
-A.y. 2025/2026 
+The Portuguese wrested the primacy of trade from Genoa and Venice (engaged in the clash with the Ottoman Empire) and supplanted the Arabs in the Indian Ocean.
 
-30067 
+**Ormuz**
 
-## **Opening closed worlds** 
+**Malacca**
 
-- The **Portuguese** first gradually integrated into the trade between the **Mediterranean and the North Sea** and then they began to look south. 
+## The Spanish Empire
 
-- In **1434** the Portuguese Gil Eanes rounded **Cape Bojador** 
+- Having completed the expulsion of the Arabs from the Iberian Peninsula ( _Reconquista_ ) _,_ the .
 
-   - succeeding where the Italians had failed and changing the geopolitical balance in the Mediterranean. 
+- Spanish rulers financed an expedition with the aim of **reaching Asia from the west**
 
-- The consolidation of the supremacy of the Portuguese was further determined by the advance of the Turks in their conquest of the Orient. Italian merchants encountered increasing difficulties in the Levant (first Turkish-Venetian war in 1463-1479). 
+- In 1492, Christopher Columbus discovered the Americas. Despite its enormous historical significance, this discovery did not satisfy him too much:
 
-- The presence of the Ottoman Empire thus stimulated the search for other routes to the East to continue the rich trade in spices and high-value goods. 
+- he never wanted to believe he discovered a ‘new world’
 
-A.y. 2025/2026 
+- he did not find the precious spices he was looking for and he had to ‘settle’ for gold and silver
 
-30067 
+- In the 1520s, the Spaniard Cortès initiated the exploration and conquest of the American continent. The key to the success of the conquistadors was the fragility of the local empires.
 
-## **The age of Portuguese discoveries** 
+## A new geopolitical order
 
-**==> picture [252 x 379] intentionally omitted <==**
+## Proto-Globalisation
 
-- In 1427 the Portuguese discovered the Azores, 1500 km off Lisbon 
+- Between 1435 and 1550, proto-globalisation began:
 
-- In 1434 Gil Eanes rounded Cape Bojador 
+- **Integration of previously distant markets** and gradual opening up of closed worlds
 
-- In 1487-88 Bartolomeo Diaz rounded Cape Good Hope 
+- What cannot be produced locally is now traded (globally)
 
-- Between 1497 and 1498 Vasco da Gama circumnavigated Africa and reached India at Calicut 
+-:
 
-A.y. 2025/2026 
+- **Mercantilist policies and the role of the state**
 
-30067 
+- Nations compete to hoard wealth (gold and silver) and keep the trade balance active (export > import)
 
-## **The Portuguese conquests** 
+- Trade policy serves political power (wealth → strengthening military power)
 
-- Methods and goals of Portuguese occupation: 
+## Mercantilism
 
-   - establishment of **outposts** to control trade (in Africa to handle trade in high-value goods such as gold, ivory, spices from the Gulf of Guinea and, later, the slave trade) 
+- The main toos used for mercantilism:
 
-   - only ‘ **marginal** ’ territorial occupation 
+- **Protectionism**: governments imposed high tariffs on imported goods to protect domestic industries from foreign competition.
 
-   - high rate of **resource extraction** 
+- **Trade monopolies**: state-chartered trading companies (like the East India Company) were created and granted monopolies to trade with specific regions.
 
-The Portuguese continued to aim for the East Indies: 
+- **Export incentives**: the state provided subsidies and tax breaks to industries that produced goods for export.
 
-→ 1510 Malacca Peninsula and Malaysia; 
+- **Colonialism**: colonies were seen as sources of cheap raw materials and exclusive markets for the mother country's products. The state was responsible for maintaining control over these colonies, often through military force.
 
-- → 1513 China; 
+## The Great Divergence
 
-- → 1543 Japan. 
+- The Great Divergence is the process by which:
 
-The Portuguese wrested the primacy of trade from Genoa and Venice (engaged in the clash with the Ottoman Empire) and supplanted the Arabs in the Indian Ocean. 
+- Europe emerged as the richest area on the planet
 
-A.y. 2025/2026 
+- the limits of the pre-industrial agrarian economies were progressively
 
-30067 
+- overcome
 
-**==> picture [762 x 452] intentionally omitted <==**
+- The Great Divergence:
 
-A.y. 2025/2026 
+- led to modern economic development ( → Industrial Revolution)
 
-30067 
+- **but** had its roots in a series of pre-conditions and events
 
-**==> picture [613 x 452] intentionally omitted <==**
+- **Until the end of the Middle Ages, Asia and Europe had the same** .
 
-A.y. 2025/2026 
+- **preconditions**
 
-30067 
+- Indeed, in some fields, Asian civilisations had made key discoveries well before Europe
 
-**Ormuz** 
+## Explaining the Great Divergence
 
-**Malacca** 
+- From the 1500s onwards, Europe embarked on a divergent development trajectory compared to Asia, as shown by:
 
-A.y. 2025/2026 
+- The gap in **urbanisation rates**
 
-30067 
+- The dominance of the seas, **trade and intercontinental empires**
 
-## **The Spanish Empire** 
+- **Technological and scientific superiority** , which began to assert itself in those years
 
-- Having completed the expulsion of the Arabs from the Iberian Peninsula ( _Reconquista_ ) _,_ the . 
+- Better standards of living
 
-- Spanish rulers financed an expedition with the aim of **reaching Asia from the west** 
+However, scholars do not agree on the origins and causes of the Great Divergence. We can group the explanations into three categories!!!
 
-- In 1492, Christopher Columbus discovered the Americas. Despite its enormous historical significance, this discovery did not satisfy him too much: 
+# How do we measure living standards?
 
-   - he never wanted to believe he discovered a ‘new world’ 
+## 1. Explaining the Great Divergence: Demography
 
-   - he did not find the precious spices he was looking for and he had to ‘settle’ for gold and silver 
+**Higher population density In Europe than Asia**
 
-- In the 1520s, the Spaniard Cortès initiated the exploration and conquest of the American continent. The key to the success of the conquistadors was the fragility of the local empires. 
+**Ideas circulate quicker Innovation More pressure on resources**
 
-A.y. 2025/2026 
+## 1. Explaining the Great Divergence: Demography
 
-30067 
+**According to historian G. Clark:** the start of the Divergence should be backdated until the Middle Ages:
 
-## **A new geopolitical order** 
+## 2. Explaining the Great Divergence: institutions
 
-**==> picture [703 x 384] intentionally omitted <==**
+“Institutions are the rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction. In consequence they structure incentives in human exchange, whether political, social, or economic.”
 
-A.y. 2025/2026 
+Douglass North, _1994_
 
-30067 
+## 2. Explaining the Great Divergence: Institutions
 
-## **Proto-Globalisation** 
+There would be a difference between European and Asian institutions
 
-- Between 1435 and 1550, proto-globalisation began: 
+European institutions stimulate economic and scientifictechnical innovation
 
-   - **Integration of previously distant markets** and gradual opening up of closed worlds 
+Great Divergence
 
-   - What cannot be produced locally is now traded (globally) 
+**University** dissemination of knowledge and scientific method
 
-- : 
+Economic dynamism; managerial techniques and entrepreneurial solutions; development of innovation- and trade-oriented bourgeois mentality **Mercantile Cities**
 
-- **Mercantilist policies and the role of the state** 
+**Private initiative** Free and efficient markets and recognition of property rights
 
-   - Nations compete to hoard wealth (gold and silver) and keep the trade balance active (export > import) 
+J. Needham
 
-   - Trade policy serves political power (wealth → strengthening military power) 
+Landes, North, and
 
-A.y. 2025/2026 
+## 3. Explaining the Great Divergence: geopolitics
 
-30067 
+- Small states in Europe (competition and innovation)
 
-## **Mercantilism** 
+Natual - Great empires in Asia (social stability at the expense of innovation) barriers J. Diamond
 
-- The main toos used for mercantilism: 
+- Fresh resources to overcome natural constraints in Europe
 
-   - **Protectionism** : governments imposed high tariffs on imported goods to protect domestic industries from foreign competition. 
+Access to the - Development of energy-intensive sectors (coal) Americas K. Pomeranz
 
-   - **Trade monopolies** : state-chartered trading companies (like the East India Company) were created and granted monopolies to trade with specific regions. 
+- Europe extensively exploited the conquered territories by creating a system with centres, semi-peripheries and peripheries Colonialism
 
-   - **Export incentives** : the state provided subsidies and tax breaks to industries that produced goods for export. 
+I. Wallerstein
 
-   - **Colonialism** : colonies were seen as sources of cheap raw materials and exclusive markets for the mother country's products. The state was responsible for maintaining control over these colonies, often through military force. 
+## The world system
 
-A.y. 2025/2026 
+- According to Immanuel Wallerstein's
 
-30067 
+## Core
 
-## **The Great Divergence** 
+interpretation, within the economy-world there is an international division of labour and political weight (hegemony)
 
-- The Great Divergence is the process by which: 
+It drives the economy, and the highest value-added production is concentrated there
 
-      - Europe emerged as the richest area on the planet 
+- Economic exchanges and power relations are highly asymmetrical.
 
-      - the limits of the pre-industrial agrarian economies were progressively 
+- Capitalism is a world-economy.
 
-         - overcome 
+- Development and underdevelopment are two sides of the same coin
 
-- The Great Divergence: 
+Semi-periphery Political weight is limited but economic weight is significant
 
-      - led to modern economic development ( → Industrial Revolution) 
+Periphery
 
-      - **but** had its roots in a series of pre-conditions and events 
+Economic and political clout are limited. There are simple productions and the most important raw materials
 
-- **Until the end of the Middle Ages, Asia and Europe had the same** . 
-
-- **preconditions** 
-
-   - Indeed, in some fields, Asian civilisations had made key discoveries well before Europe 
-
-A.y. 2025/2026 
-
-30067 
-
-## **Explaining the Great Divergence** 
-
-- From the 1500s onwards, Europe embarked on a divergent development trajectory compared to Asia, as shown by: 
-
-   - The gap in **urbanisation rates** 
-
-   - The dominance of the seas, **trade and intercontinental empires** 
-
-   - **Technological and scientific superiority** , which began to assert itself in those years 
-
-   - Better standards of living 
-
-However, scholars do not agree on the origins and causes of the Great Divergence. We can group the explanations into three categories!!! 
-
-**==> picture [324 x 330] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Demography Institutions<br>Geography and<br>geopolitics<br>**----- End of picture text -----**<br>
-
-
-A.y. 2025/2026 
-
-30067 
-
-**==> picture [794 x 433] intentionally omitted <==**
-
-A.y. 2025/2026 
-
-30067 
-
-# How do we measure living standards? 
-
-A.y. 2025/2026 
-
-30067 
-
-## **1. Explaining the Great Divergence: Demography** 
-
-**Higher population density In Europe than Asia** 
-
-**Ideas circulate quicker Innovation More pressure on resources** 
-
-A.y. 2025/2026 
-
-30067 
-
-## **1. Explaining the Great Divergence: Demography** 
-
-**According to historian G. Clark:** the start of the Divergence should be backdated until the Middle Ages: 
-
-**==> picture [560 x 253] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Reduced pressure<br>on resources<br>Black Death (1347)<br>Favours an increase<br>in real wages<br>**----- End of picture text -----**<br>
-
-
-**==> picture [202 x 252] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-The Malthusian trap<br>is temporarily<br>overcome<br>Living conditions<br>improve and the<br>level of inequality is<br>reduced<br>**----- End of picture text -----**<br>
-
-
-A.y. 2025/2026 
-
-30067 
-
-## **2. Explaining the Great Divergence: institutions** 
-
-“Institutions are the rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction. In consequence they structure incentives in human exchange, whether political, social, or economic.” 
-
-Douglass North, _1994_ 
-
-A.y. 2025/2026 
-
-30067 
-
-## **2. Explaining the Great Divergence: Institutions** 
-
-There would be a difference between European and Asian institutions 
-
-European institutions stimulate economic and scientifictechnical innovation 
-
-Great Divergence 
-
-**==> picture [44 x 38] intentionally omitted <==**
-
-**University** dissemination of knowledge and scientific method 
-
-Economic dynamism; managerial techniques and entrepreneurial solutions; development of innovation- and trade-oriented bourgeois mentality **Mercantile Cities** 
-
-**==> picture [96 x 34] intentionally omitted <==**
-
-**Private initiative** Free and efficient markets and recognition of property rights 
-
-J. Needham 
-
-Landes, North, and 
-
-A.y. 2025/2026 
-
-30067 
-
-## **3. Explaining the Great Divergence: geopolitics** 
-
-- Small states in Europe (competition and innovation) 
-
-Natual • Great empires in Asia (social stability at the expense of innovation) barriers J. Diamond 
-
-- Fresh resources to overcome natural constraints in Europe 
-
-Access to the • Development of energy-intensive sectors (coal) Americas K. Pomeranz 
-
-• Europe extensively exploited the conquered territories by creating a system with centres, semi-peripheries and peripheries Colonialism 
-
-I. Wallerstein 
-
-A.y. 2025/2026 
-
-30067 
-
-## **The world system** 
-
-- According to Immanuel Wallerstein's 
-
-## **Core** 
-
-interpretation, within the economy-world there is an international division of labour and political weight (hegemony) 
-
-It drives the economy, and the highest value-added production is concentrated there 
-
-**==> picture [305 x 208] intentionally omitted <==**
-
-- Economic exchanges and power relations are highly asymmetrical. 
-
-- Capitalism is a world-economy. 
-
-- Development and underdevelopment are two sides of the same coin 
-
-Semi-periphery Political weight is limited but economic weight is significant 
-
-Periphery 
-
-Economic and political clout are limited. There are simple productions and the most important raw materials 
-
-A.y. 2025/2026 
-
-30067 
-
-**==> picture [858 x 436] intentionally omitted <==**
-
-A.y. 2025/2026 
-
-30067 
-
+## Related Notes
+- [[3_New players, new institutions_30067]]
+- [[Economic History Blab Handout 2024-2025 A.Y.]]
+- 10_Recap 

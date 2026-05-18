@@ -1,608 +1,310 @@
-**==> picture [263 x 112] intentionally omitted <==**
+---
+course: "Management"
+course_code: "30060"
+tags:
+  - "source"
+  - course_30060
+Title: "slideset 7_v.2"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-**WHAT IS STRATEGY?** 
+**WHAT IS STRATEGY?**
 
-Management book: Chapter 7 
+Management book: Chapter 7
 
-**==> picture [104 x 53] intentionally omitted <==**
+## AGENDA
 
-2 
+1. WHAT IS STRATEGY?
 
-## AGENDA 
+2. COMPETITIVE ADVANTAGE
 
-1. WHAT IS STRATEGY? 
+3. CONCLUDING CASE: SOUTHWEST AIRLINES
 
-2. COMPETITIVE ADVANTAGE 
+4. SUMMARY OF MAIN POINTS
 
-3. CONCLUDING CASE: SOUTHWEST AIRLINES 
+What gives Apple a clear advantage over its competitors in the smartphone industry?
 
-4. SUMMARY OF MAIN POINTS 
+WHAT IS STRATEGY?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Apple overtook Samsung and Huawei to become the smartphone market leader by share of units shipped, accounting for 23.4% of the overall market in the fourth quarter of 2020
 
-3 
+1.0
 
-What gives Apple a clear advantage over its competitors in the smartphone industry? 
+**WHAT IS STRATEGY?**
 
-**==> picture [104 x 53] intentionally omitted <==**
+WHAT IS STRATEGY?
 
-4 
+## What is strategy?
 
-WHAT IS STRATEGY? 
+— As explained by Roger Martin, former Dean of the Rotman School of Management considered one of the most influential thought leaders in strategic management https://www.youtube.com/watch?v=iuYlGRnC7J8
 
-Apple overtook Samsung and Huawei to become the smartphone market leader by share of units shipped, accounting for 23.4% of the overall market in the fourth quarter of 2020 
+WHAT IS STRATEGY?
 
-**==> picture [104 x 53] intentionally omitted <==**
+## How to think about competition?
 
-**==> picture [454 x 375] intentionally omitted <==**
+**COMPETING TO BE THE BEST** Run the same race
 
-1.0 
+**COMPETING TO BE UNIQUE** Run a different race
 
-**WHAT IS STRATEGY?** 
+WHAT IS STRATEGY?
 
-**==> picture [105 x 53] intentionally omitted <==**
+## How to think about competition?
 
-6 
+## Balenciaga is **better** than Zara
 
-WHAT IS STRATEGY? 
+… and **different** from Gucci
 
-## What is strategy? 
+But Zara could also be **better than both** if the race you run is that of manufacturing cost and final price…
 
-— As explained by Roger Martin, former Dean of the Rotman School of Management considered one of the most influential thought leaders in strategic management https://www.youtube.com/watch?v=iuYlGRnC7J8 
+WHAT IS STRATEGY?
 
-**==> picture [153 x 190] intentionally omitted <==**
+## We define **STRATEGY** as
 
-**==> picture [105 x 53] intentionally omitted <==**
+The set of goal-directed actions a firm takes to gain and sustain superior performance relative to competitors
 
-7 
+WHAT IS STRATEGY?
 
-WHAT IS STRATEGY? 
+## Good strategy consists of 3 elements
 
-## How to think about competition? 
+## DIAGNOSIS
 
-**COMPETING TO BE THE BEST** Run the same race 
+## GUIDING POLICY
 
-**COMPETING TO BE UNIQUE** Run a different race 
+## COHERENT ACTIONS
 
-**==> picture [126 x 126] intentionally omitted <==**
+- Identify competitive challenge
 
-**==> picture [125 x 126] intentionally omitted <==**
+- By analysis of firm’s external and internal environment
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Address the competitive challenge
 
-8 
+- By formulation of firm’s corporate, business and functional strategies
 
-WHAT IS STRATEGY? 
+- Implement firm’s guiding policy
 
-## How to think about competition? 
+- Through strategy implementation
 
-**==> picture [305 x 143] intentionally omitted <==**
+## Tesla's secret strategy
 
-**----- Start of picture text -----**<br>
-Balenciaga Speed Zara sneakers<br>600 € 60 €<br>**----- End of picture text -----**<br>
+- In 2006, Elon Musk, co-founder of Tesla, explained the start-up's master plan
 
+- Step 1: Build sports car
 
-**==> picture [330 x 145] intentionally omitted <==**
+- Step 2: Use that money to build an affordable car
 
-## Balenciaga is **better** than Zara 
+- Step 3: Use that money to build an even more affordable car
 
-… and **different** from Gucci 
+- Step 4: While doing above, also provide zeroemission electric power generation options
 
-But Zara could also be **better than both** if the race you run is that of manufacturing cost and final price… 
+- Step 5: Don't tell anyone
 
-**==> picture [105 x 53] intentionally omitted <==**
+WHAT IS STRATEGY?
 
-9 
+## Tesla's "secret" strategy
 
-WHAT IS STRATEGY? 
+WHAT IS STRATEGY?
 
-## We define **STRATEGY** as 
+WHAT IS STRATEGY?
 
-The set of goal-directed actions a firm takes to gain and sustain superior performance relative to competitors 
+## Tesla - Diagnosis of the competitive challenge
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Tesla’s goal
 
-10 
+Build zero-emission electric vehicles that are attractive and affordable
 
-WHAT IS STRATEGY? 
+- Competitive challenge: Tesla needs
 
-## Good strategy consists of 3 elements 
+- Infrastructure for electric vehicles
 
-## **DIAGNOSIS** 
+- Network of charging stations, etc.
 
-## **GUIDING POLICY** 
+WHAT IS STRATEGY?
 
-## **COHERENT ACTIONS** 
+## Guiding policy to address the competitive challenge
 
-- Identify competitive challenge 
+- Tesla’s current guiding policy
 
-- By analysis of firm’s external and internal environment 
+- “To build a cost-competitive massmarket vehicle such as Model 3”
 
-- Address the competitive challenge 
+- Backed with strategic commitments such as $5 billion investment in lithium-ion battery plant in Nevada
 
-- By formulation of firm’s corporate, business and functional strategies 
+- Effective guiding policy consistent with firm mission and strategy
 
-- Implement firm’s guiding policy 
+WHAT IS STRATEGY?
 
-- Through strategy implementation 
+## Set of coherent actions to implement guiding policy
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Tesla must reduce costs to increase production volumes
 
-11 
+- Tesla’s coherent actions
 
-WHAT IS STRATEGY 
+- Retool existing facilities with cutting-edge robotics
 
-## Tesla's secret strategy 
+- - Secure uninterrupted supply of lithium-ion batteries
 
-- In 2006, Elon Musk, co-founder of Tesla, explained the start-up's master plan 
+WHAT IS STRATEGY?
 
-   - Step 1: Build sports car 
+## What strategy is not…
 
-   - Step 2: Use that money to build an affordable car 
+- Grandiose statements
 
-   - Step 3: Use that money to build an even more affordable car 
+- Failure to face a competitive challenge
 
-   - Step 4: While doing above, also provide zeroemission electric power generation options 
+- Operational, effectiveness, competitive benchmarking or other tactical tools
 
-**==> picture [219 x 123] intentionally omitted <==**
+Extra reading: What strategy is not What Strategy is Not - Forbes article by Freek Vermeulen
 
-**==> picture [128 x 11] intentionally omitted <==**
+2.0
 
-**----- Start of picture text -----**<br>
-Elon Musk, CEO of Tesla<br>**----- End of picture text -----**<br>
+**COMPETITIVE ADVANTAGE**
 
+## We define **COMPETITIVE ADVANTAGE** as
 
-- Step 5: Don't tell anyone 
+Superior performance relative to other competitors in the same industry or the industry average
 
-**==> picture [105 x 53] intentionally omitted <==**
+How do firms gain competitive advantage? Combine value and cost through strategic positioning by:
 
-12 
+- delivering superior value containing the cost to create it
 
-WHAT IS STRATEGY? 
+- ( differentiation )
 
-## Tesla's "secret" strategy 
+- offering similar value at lower cost ( cost leadership )
 
-**==> picture [475 x 276] intentionally omitted <==**
+(Low-cost retailer)
 
-**----- Start of picture text -----**<br>
-Step 2<br>In 2013, Tesla<br>introduced Model S,<br>a $73,500 4-door<br>family sedan<br>2008 2013 2016<br>Step 1 Step 3<br>Tesla  In 2016, Tesla<br>introduced  unveiled Model<br>Roadster, a  3, an all electric<br>$110,000  compact luxury<br>sportscar sedan with a<br>starting price of<br>$35,000<br>**----- End of picture text -----**<br>
+(High-end luxury retailer)
 
+## Walmart and Nordstrom
 
-**==> picture [157 x 169] intentionally omitted <==**
+## Walmart and Nordstrom
 
-**----- Start of picture text -----**<br>
-Step 4<br>Tesla acquired<br>SolarCity, a $2 billion<br>solar energy company<br>making it a fully<br>integrated clean-tech<br>energy company<br>2016<br>Fall<br>**----- End of picture text -----**<br>
+Low cost retailer
 
+Upscale retailer
 
-**==> picture [154 x 50] intentionally omitted <==**
+- Acceptable level of service, by low-skilled employees
 
-13 
+— Superior customer experience by professional sales people
 
-WHAT IS STRATEGY? 
+- Big-box retail outlet
 
-**==> picture [105 x 53] intentionally omitted <==**
+- Luxury setting
 
-**==> picture [449 x 299] intentionally omitted <==**
+- Everyday low prices
 
-14 
+Walmart and Nordstrom are important retailers in the US market, they compete in the same industry, yet they are not direct competitors
 
-WHAT IS STRATEGY? 
+## Walmart and Nordstrom
 
-## Tesla - Diagnosis of the competitive challenge 
+Cost leadership
 
-- Tesla’s goal 
+## Differentiation
 
-Build zero-emission electric vehicles that are attractive and affordable 
+Even if they compete in the same industry, their customers have little overlap as they are not direct competitors
 
-- Competitive challenge: Tesla needs 
+## Walmart's strategy
 
-   - Infrastructure for electric vehicles 
+- Walmart has a clear strategic profile and serves a specific market segment
 
-   - Network of charging stations, etc. 
+- Walmart performs activities differently than rivals, and they reinforce one another
 
-**==> picture [263 x 184] intentionally omitted <==**
+- Big retail stores in rural locations
 
-**==> picture [105 x 53] intentionally omitted <==**
+- High purchasing power
 
-15 
+- Sophisticated IT system
 
-WHAT IS STRATEGY? 
+- Low base salaries
 
-## Guiding policy to address the competitive challenge 
+Good strategy creates value for shareholders and other stakeholders
 
-- Tesla’s current guiding policy 
+## We define **VALUE CREATION** when
 
-   - “To build a cost-competitive massmarket vehicle such as Model 3” 
+Companies with a good strategy are able to provide products or services to consumers at a price point that they can afford while keeping their costs in check, thus making a profit at the same time. Both parties benefit from this trade as each captures a part of the value created. ^l12vj2
+*(See also: [[slideset 10#^84bt7x]])*
 
-- Backed with strategic commitments such as $5 billion investment in lithium-ion battery plant in Nevada 
+3.0
 
-**==> picture [276 x 156] intentionally omitted <==**
+**CONCLUDING CASE: SOUTHWEST AIRLINES**
 
-- Effective guiding policy consistent with firm mission and strategy 
+## Read this article
 
-**==> picture [105 x 53] intentionally omitted <==**
+## Diagnosis
 
-16 
+1. How was Southwest different from the other US airline companies?
 
-WHAT IS STRATEGY? 
+2. Was Southwest successful ?
 
-## Set of coherent actions to implement guiding policy 
+How was Southwest **different** from the other US airline companies?
 
-**==> picture [300 x 160] intentionally omitted <==**
+1. No hubs
 
-- Tesla must reduce costs to increase production volumes 
+2. Few fees
 
-- Tesla’s coherent actions 
+3. Prioritizing employees
 
-   - Retool existing facilities with cutting-edge robotics 
+4. Prioritizing customers
 
-   - - Secure uninterrupted supply of lithium-ion batteries 
+5. Single aircraft model
 
-**==> picture [105 x 53] intentionally omitted <==**
+## No hubs
 
-17 
+> Delta 's routes in 2016 (hub-andspoke model)
 
-WHAT IS STRATEGY? 
+> Southwest 's routes in 2016 (point-to-point model)
 
-## What strategy is not… 
+Few fees
 
-- Grandiose statements 
+## Few fees
 
-- Failure to face a competitive challenge 
+## Prioritizing employees
 
-- Operational, effectiveness, competitive benchmarking or other tactical tools 
+## Prioritizing customers
 
-Extra reading: What strategy is not What Strategy is Not - Forbes article by Freek Vermeulen 
+## Single aircraft model
 
-**==> picture [105 x 53] intentionally omitted <==**
+Page 1 of Southwest’s 2016 Annual Report
 
-2.0 
+## Was Southwest **successful** ?
 
-**COMPETITIVE ADVANTAGE** 
+## Guiding policy
 
-**==> picture [105 x 53] intentionally omitted <==**
+Can we run an experiment? When you must take a decision, collecting information is important.
 
-19 
+1. WestJet and JetBlue had already introduced bag fees without dramatic change in customer behaviour.
 
-COMPETITIVE ADVANTAGE 
+2. J.P. Morgan's analyst begged Kelly to test bag fees on some routes to see if customers revolt.
 
-## We define **COMPETITIVE ADVANTAGE** as 
+## Let’s run a ”thought experiment”…
 
-Superior performance relative to other competitors in the same industry or the industry average 
+What to do? Was the decline in performance due to problems in Southwest's strategy?
 
-**==> picture [105 x 53] intentionally omitted <==**
+Was the decline in performance due to factors beyond the company's control, while the strategy was sound?
 
-20 
+Change necessary Change harmful
 
-COMPETITIVE ADVANTAGE 
+4.0
 
-How do firms gain competitive advantage? Combine value and cost through strategic positioning by: 
+**SUMMARY OF MAIN POINTS**
 
-- delivering superior value containing the cost to create it 
+## In summary
 
-   - ( differentiation ) 
+- Good strategy defines the competitive challenge, provides a guiding policy, and is implemented by coherent actions
 
-- offering similar value at lower cost ( cost leadership ) 
+- Good strategy enhances chances of achieving competitive advantage and superior performance
 
-**==> picture [219 x 46] intentionally omitted <==**
+- Strategic leaders need to be mindful of all relevant stakeholders because they have a vested interest in the performance and continued survival of the firm
 
-VS 
+- Good strategy results when leaders analyze firm environment, formulate appropriate business and corporate strategy and implement formulated strategy effectively
 
-**==> picture [219 x 46] intentionally omitted <==**
+**THANKS.**
 
-(Low-cost retailer) 
+**Universit→ Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1
 
-(High-end luxury retailer) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-21 
-
-COMPETITIVE ADVANTAGE 
-
-## Walmart and Nordstrom 
-
-**==> picture [224 x 120] intentionally omitted <==**
-
-**==> picture [223 x 129] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [216 x 117] intentionally omitted <==**
-
-**==> picture [216 x 129] intentionally omitted <==**
-
-22 
-
-COMPETITIVE ADVANTAGE 
-
-## Walmart and Nordstrom 
-
-**==> picture [224 x 120] intentionally omitted <==**
-
-**==> picture [216 x 117] intentionally omitted <==**
-
-Low cost retailer 
-
-Upscale retailer 
-
-- Acceptable level of service, by low-skilled employees 
-
-— Superior customer experience by professional sales people 
-
-- Big-box retail outlet 
-
-   - Luxury setting 
-
-- Everyday low prices 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-Walmart and Nordstrom are important retailers in the US market, they compete in the same industry, yet they are not direct competitors 
-
-23 
-
-COMPETITIVE ADVANTAGE 
-
-## Walmart and Nordstrom 
-
-**==> picture [224 x 120] intentionally omitted <==**
-
-**==> picture [216 x 117] intentionally omitted <==**
-
-Cost leadership 
-
-## Differentiation 
-
-Even if they compete in the same industry, their customers have little overlap as they are not direct competitors 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-24 
-
-COMPETITIVE ADVANTAGE 
-
-## Walmart's strategy 
-
-- Walmart has a clear strategic profile and serves a specific market segment 
-
-- Walmart performs activities differently than rivals, and they reinforce one another 
-
-   - Big retail stores in rural locations 
-
-   - High purchasing power 
-
-   - Sophisticated IT system 
-
-   - Low base salaries 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-25 
-
-STAKEHOLDER STRATEGY AND COMPETITIVE ADVANTAGE 
-
-Good strategy creates value for shareholders and other stakeholders 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**==> picture [391 x 355] intentionally omitted <==**
-
-26 
-
-STAKEHOLDER STRATEGY AND COMPETITIVE ADVANTAGE 
-
-## We define **VALUE CREATION** when 
-
-Companies with a good strategy are able to provide products or services to consumers at a price point that they can afford while keeping their costs in check, thus making a profit at the same time. Both parties benefit from this trade as each captures a part of the value created. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-3.0 
-
-**CONCLUDING CASE: SOUTHWEST AIRLINES** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-28 
-
-SOUTHWEST AIRLINES 
-
-## Read this article 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [385 x 292] intentionally omitted <==**
-
-29 
-
-SOUTHWEST AIRLINES 
-
-## Diagnosis 
-
-1. How was Southwest different from the other US airline companies? 
-
-2. Was Southwest successful ? 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-30 
-
-SOUTHWEST AIRLINES 
-
-How was Southwest **different** from the other US airline companies? 
-
-1. No hubs 
-
-2. Few fees 
-
-3. Prioritizing employees 
-
-4. Prioritizing customers 
-
-5. Single aircraft model 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-31 
-
-SOUTHWEST AIRLINES 
-
-## No hubs 
-
-**==> picture [294 x 181] intentionally omitted <==**
-
-> Delta 's routes in 2016 (hub-andspoke model) 
-
-**==> picture [278 x 181] intentionally omitted <==**
-
-> Southwest 's routes in 2016 (point-to-point model) 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-32 
-
-SOUTHWEST AIRLINES 
-
-Few fees 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [403 x 336] intentionally omitted <==**
-
-33 
-
-SOUTHWEST AIRLINES 
-
-## Few fees 
-
-**==> picture [416 x 235] intentionally omitted <==**
-
-**==> picture [187 x 236] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-34 
-
-SOUTHWEST AIRLINES 
-
-## Prioritizing employees 
-
-**==> picture [460 x 246] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-35 
-
-SOUTHWEST AIRLINES 
-
-## Prioritizing customers 
-
-**==> picture [283 x 252] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [233 x 277] intentionally omitted <==**
-
-36 
-
-SOUTHWEST AIRLINES 
-
-## Single aircraft model 
-
-**==> picture [449 x 197] intentionally omitted <==**
-
-**==> picture [169 x 114] intentionally omitted <==**
-
-Page 1 of Southwest’s 2016 Annual Report 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-37 
-
-SOUTHWEST AIRLINES 
-
-## Was Southwest **successful** ? 
-
-**==> picture [237 x 240] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [237 x 240] intentionally omitted <==**
-
-38 
-
-SOUTHWEST AIRLINES 
-
-## Guiding policy 
-
-**==> picture [487 x 230] intentionally omitted <==**
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-39 
-
-SOUTHWEST AIRLINES 
-
-Can we run an experiment? When you must take a decision, collecting information is important. 
-
-1. WestJet and JetBlue had already introduced bag fees without dramatic change in customer behaviour. 
-
-2. J.P. Morgan's analyst begged Kelly to test bag fees on some routes to see if customers revolt. 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-40 
-
-SOUTHWEST AIRLINES 
-
-## Let’s run a ”thought experiment”… 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**==> picture [420 x 274] intentionally omitted <==**
-
-41 
-
-SOUTHWEST AIRLINES 
-
-What to do? Was the decline in performance due to problems in Southwest's strategy? 
-
-Was the decline in performance due to factors beyond the company's control, while the strategy was sound? 
-
-**==> picture [67 x 58] intentionally omitted <==**
-
-**==> picture [67 x 59] intentionally omitted <==**
-
-Change necessary Change harmful 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-4.0 
-
-**SUMMARY OF MAIN POINTS** 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-43 
-
-SUMMARY 
-
-## In summary 
-
-- Good strategy defines the competitive challenge, provides a guiding policy, and is implemented by coherent actions 
-
-- Good strategy enhances chances of achieving competitive advantage and superior performance 
-
-- Strategic leaders need to be mindful of all relevant stakeholders because they have a vested interest in the performance and continued survival of the firm 
-
-- Good strategy results when leaders analyze firm environment, formulate appropriate business and corporate strategy and implement formulated strategy effectively 
-
-**==> picture [105 x 53] intentionally omitted <==**
-
-**THANKS.** 
-
-**==> picture [104 x 53] intentionally omitted <==**
-
-**Università Commerciale Luigi Bocconi** Via Sarfatti 25 | 20136 Milano – Italia | Tel +39 02 5836.1 
-
+## Related Notes
+- [[slideset 10]]
+- [[slideset 11]]
+- [[slideset 8]]

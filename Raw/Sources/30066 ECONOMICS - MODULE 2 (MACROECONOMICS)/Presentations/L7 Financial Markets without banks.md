@@ -1,828 +1,694 @@
-## 30066 – MACROECONOMICS 
+---
+course: "Macroeconomics"
+course_code: "30066"
+tags:
+  - "source"
+  - course_30066
+Title: "MONEY MARKET WITHOUT COMMERCIAL BANKS"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-(8 CFU) CLASS : BIEM 14 & 19 2024 – 25 **Lecture 7 (Ch. 4)** Financial Markets without banks 
+## 30066 – MACROECONOMICS
 
-M I C H E L A B R A G A 
+(8 CFU) CLASS: BIEM 14 & 19 2024 – 25 **Lecture 7 (Ch. 4)** Financial Markets without banks
 
-## WHERE WE ARE 
+## WHERE WE ARE
 
-## **Fundamentals** 
+## Fundamentals
 
-## **Extensions** 
+## Extensions
 
-1. Macroeconomic variables 
+1. Macroeconomic variables
 
-   - Elements of national accounting 
+- Elements of national accounting
 
-2. The short run 
+2. The short run
 
-   1. Goods markets 
+1. Goods markets
 
-   2. Financial markets 
+2. Financial markets
 
-      1. Without commercial banks 
+1. Without commercial banks
 
-      2. With commercial banks 
+2. With commercial banks
 
-   4. Expectations, financial markets, and economic policies 
+4. Expectations, financial markets, and economic policies
 
-      1. Financial markets and expectations 
+1. Financial markets and expectations
 
-      2. Consumption, investment, and expectations 
+2. Consumption, investment, and expectations
 
-      3. Output, economic policies, and expectations 
+3. Output, economic policies, and expectations
 
-3. IS-LM model 
+3. IS-LM model
 
-      5. Open economy 
+5. Open economy
 
-3. The medium run 
+3. The medium run
 
-   1. Labor market 
+1. Labor market
 
-   2. Phillips curve 
+2. Phillips curve
 
-   3. IS-LM-PC model 
+3. IS-LM-PC model
 
-   1. Exchange rates, trade, and international returns 
+1. Exchange rates, trade, and international returns
 
-   2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy 
+2. Goods markets in an open economy 3. Financial markets and economic policies in an open economy
 
-6. Public debt and fiscal policy 
+6. Public debt and fiscal policy
 
-7. From the Great Recession to Quantitative Tightening 
+7. From the Great Recession to Quantitative Tightening
 
-   - From a housing crisis to a financial crisis 
+- From a housing crisis to a financial crisis
 
-   - Unconventional monetary policies 
+- Unconventional monetary policies
 
-2 
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility rate – the rate through which the Governing Council steers the monetary policy stance – is based on its updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission.
 
-**==> picture [410 x 88] intentionally omitted <==**
+The disinflation process is well on track. Inflation has continued to develop broadly in line with the staff projections and is set to return to the Governing Council’s 2% medium-term target in the course of this year. Most measures of underlying inflation suggest that inflation will settle at around the target on a sustained basis. Domestic inflation remains high, mostly because wages and prices in certain sectors are still adjusting to the past inflation surge with a substantial delay. But wage growth is moderating as expected, and profits are partially buffering the impact on inflation. ^6ku123
+*(See also: [[L10 ISLM model#^ju363t]])*
 
-The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility rate – the rate through which the Governing Council steers the monetary policy stance – is based on its updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission. 
+The Governing Council’s recent interest rate cuts are gradually making new borrowing less expensive for firms and households. At the same time, financing conditions continue to be tight, also because monetary policy remains restrictive and past interest rate hikes are still transmitting to the stock of credit, with some maturing loans being rolled over at higher rates. The economy is still facing headwinds but rising real incomes and the gradually fading effects of restrictive monetary policy should support a pick-up in demand over time.
 
-The disinflation process is well on track. Inflation has continued to develop broadly in line with the staff projections and is set to return to the Governing Council’s 2% medium-term target in the course of this year. Most measures of underlying inflation suggest that inflation will settle at around the target on a sustained basis. Domestic inflation remains high, mostly because wages and prices in certain sectors are still adjusting to the past inflation surge with a substantial delay. But wage growth is moderating as expected, and profits are partially buffering the impact on inflation. 
+The Governing Council is determined to ensure that inflation stabilises sustainably at its 2% medium-term target. It will follow a datadependent and meeting-by-meeting approach to determining the appropriate monetary policy stance. In particular, the Governing Council’s interest rate decisions will be based on its assessment of the inflation outlook in light of the incoming economic and financial data, the dynamics of underlying inflation and the strength of monetary policy transmission. The Governing Council is not precommitting to a particular rate path. ^tgbnej
 
-The Governing Council’s recent interest rate cuts are gradually making new borrowing less expensive for firms and households. At the same time, financing conditions continue to be tight, also because monetary policy remains restrictive and past interest rate hikes are still transmitting to the stock of credit, with some maturing loans being rolled over at higher rates. The economy is still facing headwinds but rising real incomes and the gradually fading effects of restrictive monetary policy should support a pick-up in demand over time. 
+ECB press release, 30 January 2025
 
-The Governing Council is determined to ensure that inflation stabilises sustainably at its 2% medium-term target. It will follow a datadependent and meeting-by-meeting approach to determining the appropriate monetary policy stance. In particular, the Governing Council’s interest rate decisions will be based on its assessment of the inflation outlook in light of the incoming economic and financial data, the dynamics of underlying inflation and the strength of monetary policy transmission. The Governing Council is not precommitting to a particular rate path. 
+https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250130~530b29e622.en.html
 
-ECB press release, 30 January 2025 
+The Governing Council will stay the course in raising interest rates significantly at a steady pace and in keeping them at levels that are sufficiently restrictive to ensure a timely return of inflation to our two per cent medium-term target.
 
-https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250130~530b29e622.en.html 
+Accordingly, the Governing Council today decided to raise the three key ECB interest rates by 50 basis points and we expect to raise them further. In view of the underlying inflation pressures, we intend to raise interest rates by another 50 basis points at our next monetary policy meeting in March and we will then evaluate the subsequent path of our monetary policy.
 
-**==> picture [411 x 87] intentionally omitted <==**
+Keeping interest rates at restrictive levels will over time reduce inflation by dampening demand and will also guard against the risk of a persistent upward shift in inflation expectations. In any event, our future policy rate decisions will continue to be datadependent and follow a meeting-by-meeting approach.
 
-The Governing Council will stay the course in raising interest rates significantly at a steady pace and in keeping them at levels that are sufficiently restrictive to ensure a timely return of inflation to our two per cent medium-term target. 
+ECB press release, 3 February  2023
 
-Accordingly, the Governing Council today decided to raise the three key ECB interest rates by 50 basis points and we expect to raise them further. In view of the underlying inflation pressures, we intend to raise interest rates by another 50 basis points at our next monetary policy meeting in March and we will then evaluate the subsequent path of our monetary policy. 
+https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2023/html/ecb.is230202~4313651089.en.html
 
-Keeping interest rates at restrictive levels will over time reduce inflation by dampening demand and will also guard against the risk of a persistent upward shift in inflation expectations. In any event, our future policy rate decisions will continue to be datadependent and follow a meeting-by-meeting approach. 
+Keeping in mind our ultimate goal of studying the behavior of the entire economic system, let's first understand how the financial side works
 
-ECB press release, 3 February  2023 
+## FINANCIAL MARKETS
 
-https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2023/html/ecb.is230202~4313651089.en.html 
+Investors and financial institutions trade FINANCIAL ASSETS - Bond - Stocks - Money - More complex assets
 
-**==> picture [479 x 206] intentionally omitted <==**
+As in all markets demand and supply determine the PRICE …and, in this case, the RETURN of the asset
 
-**----- Start of picture text -----**<br>
-The macro<br>dynamics of a<br>country<br>GOODS<br>FINANCIAL<br>Interactions<br>MARKET MARKETS<br>**----- End of picture text -----**<br>
+## WHAT IS MONEY?
 
+Liquid financial assets: directly used in transactions
 
-Keeping in mind our ultimate goal of studying the behavior of the entire economic system, let's first understand how the financial side works 
+- 3 functions:
 
-## **FINANCIAL MARKETS** 
+1. Unit of account for pricing
 
-Investors and financial institutions trade FINANCIAL ASSETS - Bond - Stocks - Money - More complex assets 
+2. Store of value for saving
 
-As in all markets demand and supply determine the PRICE …and, in this case, the RETURN of the asset 
+3. Medium of exchange for buying things
 
-## WHAT IS MONEY? 
+- Transactions can be made with
 
-Liquid financial assets: directly used in transactions 
+- Currency
 
-- 3 functions: 
+- Electronic payments thanks to our Bank Deposits
 
-1. Unit of account for pricing 
+As for all goods there is a market to exchange money: there is a demand for and a supply of money
 
-2. Store of value for saving 
+# MONEY MARKET WITHOUT COMMERCIAL BANKS
 
-3. Medium of exchange for buying things 
+Money is a good that is traded on a market (money market) based on demand (public uses money to make transactions) and supply (controlled by the “producer” of money: the Central Bank)
 
-   - Transactions can be made with 
+## MODEL ASSUMPTIONS
 
-      - Currency 
+- No commercial banks: all money held as currency
 
-      - Electronic payments thanks to our Bank Deposits 
+- Central Bank is the only financial institution
 
-As for all goods there is a market to exchange money: there is a demand for and a supply of money 
+- Agents own some wealth to allocate in 2 alternative financial assets
 
-# **MONEY MARKET WITHOUT COMMERCIAL BANKS** 
+MONEY (M) Perfectly liquid for transactions No interest
 
-Money is a good that is traded on a market (money market) based on demand (public uses money to make transactions) and supply (controlled by the “producer” of money: the Central Bank) 
+BOND (B): 1 year risk free Pay an interest, 𝑖𝑖 Not liquid
 
-## MODEL ASSUMPTIONS 
+Investment problem: Choosing the optimal allocation btw M and B implies a trade - off
 
- No commercial banks: all money held as currency 
+## INTEREST RATE (i)
 
- Central Bank is the only financial institution 
+- Key variable for the money market
 
- Agents own some wealth to allocate in 2 alternative financial assets 
+- Is the _«price» of money_
 
-MONEY (M) Perfectly liquid for transactions No interest 
+- Opportunity cost of taking M instead of B
 
-BOND (B): 1 year risk free Pay an interest, 𝑖𝑖 Not liquid 
+- If I take 1€ as M, I do not invest in B => I loose/pay _I_
 
-Investment problem: Choosing the optimal allocation btw M and B implies a trade - off 
+- You are an investor and you buy a 1 year risk free bond
 
-## INTEREST RATE (i) 
+- €Pt = today bond price based on D and S
 
-- Key variable for the money market 
+- €Rt = 100€ = Face value (amount paid back in 1 year from now) (zero coupon bond)
 
-- Is the _«price» of money_ 
+_What is the rate of return paid by the bond?_
 
-   - Opportunity cost of taking M instead of B 
+∆% _Asset value =_
 
-   - If I take 1€ as M, I do not invest in B => I loose/pay _I_ 
+> €100−€Pt ≡𝑖𝑖 Nominal interest
 
-- You are an investor and you buy a 1 year risk free bond 
+> €Pt rate
 
-   - €Pt = today bond price based on D and S 
+- % change btw how much is paid and how much is obtained in 1 year
 
-   - €Rt = 100€ = Face value (amount paid back in 1 year from now) (zero coupon bond) 
+## Rearranging we obtain
 
-_What is the rate of return paid by the bond?_ 
+€100 𝑖𝑖= −1 €𝑃𝑃𝑡𝑡 If €𝑃𝑃𝑡𝑡 ↑⇒𝑖𝑖↓ If €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑
 
-∆% _Asset value =_ 
+If €Pt = 95€       i =(100 -95) / 95 = 0.052 If €Pt = 90€       i =(100 -90) / 90 = 0.011
 
-> €100−€Pt ≡𝑖𝑖 Nominal interest 
+Given the promise to pay in 1 year, if we pay less today, we obtain more
 
-> €Pt rate 
+The price of the bond will be:
 
-- % change btw how much is paid and how much is obtained in 1 year 
+€100 = €𝑃𝑃𝑡𝑡 1 + 𝑖𝑖 **Investors’ Present Discounted Value (PDV) wiliness to pay of the future payment**
 
-## Rearranging we obtain 
+how much we worth the future payments
 
-€100 𝑖𝑖= −1 €𝑃𝑃𝑡𝑡 If €𝑃𝑃𝑡𝑡 ↑⇒𝑖𝑖↓ If €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑ 
+today value of the 100€ we will have in 1 year
 
-If €Pt = 95€       i =(100 -95) / 95 = 0.052 If €Pt = 90€       i =(100 -90) / 90 = 0.011 
+## MONEY DEMAND
 
-Given the promise to pay in 1 year, if we pay less today, we obtain more 
+- What are the determinants of the money demand?
 
-The price of the bond will be: 
+Agents choose how much money to hold based on:
 
-€100 = €𝑃𝑃𝑡𝑡 1 + 𝑖𝑖 **Investors’ Present Discounted Value (PDV) wiliness to pay of the future payment** 
+## 1. LIQUIDITY NEED: transactions in the economy
 
-how much we worth the future payments 
+## Proxy - nominal GDP: €Y = P x Y
 
-today value of the 100€ we will have in 1 year 
+If €Y ↑⇒↑ N/value of transactions ⇒ more money is needed ⇒M(d) ↑
 
-## MONEY DEMAND 
+## 2. MONEY OPPORTUNITY COST wrt BONDS
 
-- What are the determinants of the money demand? 
+## i= cost of holding money or the «price» of M
 
-Agents choose how much money to hold based on: 
+𝒊𝒊↑⇒ bonds  relatively more convenient than M => _M(d)_ ↓
 
-## 1. LIQUIDITY NEED: transactions in the economy 
+The money demand is a  function of:
 
-## Proxy - nominal GDP : €Y = P x Y 
+M(d) = €Y  L( i ) = P  Y  L( i ) NOMINAL M Liquidity demand demand function function
 
-If €Y ↑⇒↑ N/value of transactions ⇒ more money is needed ⇒M[d] ↑ 
+- Level of transactions (Price level and Real GDP)
 
-## 2. MONEY OPPORTUNITY COST wrt BONDS 
+- Interest rate
 
-## _i= cost of holding money or the «price» of M_ 
+Nominal interest rate (price of M)
 
-𝒊𝒊↑⇒ bonds  relatively more convenient than M => _M[d]_ ↓ 
+𝑖𝑖
 
-The money demand is a  function of: 
+In the (M, i) plane, the M function is M(d) (Y, P) plotted for given values of 𝑃𝑃 and 𝑌𝑌 𝑀𝑀
 
-M[d] = €Y  L( i ) = P  Y  L( i ) NOMINAL M Liquidity demand demand function function 
+Nominal money stock (quantity)
 
-- Level of transactions (Price level and Real GDP) 
+## SLOPE DETERMINATS
 
-- Interest rate 
+𝑀𝑀(𝐷𝐷) = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖) − +
 
-Nominal interest rate (price of M) 
+𝑖𝑖
 
-𝑖𝑖 
+Negative slope since there is a trade off btw M and B
 
-In the (M, i) plane, the M function is M[d] (Y, P) plotted for given values of 𝑃𝑃 and 𝑌𝑌 𝑀𝑀 
+If i ↑ , bonds are relatively more convenient than M B(d) ↑ and Md ↓
 
-Nominal money stock (quantity) 
+𝑖𝑖1
 
-## SLOPE DETERMINATS 
+𝑖𝑖0
 
-𝑀𝑀[𝐷𝐷] = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖) − + 
+---> movement ALONG the curve from 0 to 1
 
-𝑖𝑖 
+i is an endogenous variable for the money demand function. Changes in i do not shift the curve
 
-Negative slope since there is a trade off btw M and B 
+𝑀𝑀
 
-If i ↑ , bonds are relatively more convenient than M B[d] ↑ and Md ↓ 
+𝑀𝑀1 𝑀𝑀0
 
-𝑖𝑖1 
+## POSITION DETERMINATS
 
-𝑖𝑖0 
+## Recap: MONEY DEMAND FUNCTION
 
-1 
+## 𝑀𝑀(𝐷𝐷) = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖)
 
-0 
+- **Negative slope**: it captures the trade – off btw M and B through _i_
 
----> movement ALONG the curve from 0 to 1 
+- 𝑖𝑖↑⇒𝑀𝑀(𝐷𝐷) ↓ since  bonds are more attractive for investors => we move along the money function to the left
 
-i is an endogenous variable for the money demand function. Changes in i do not shift the curve 
+- 𝑖𝑖↓⇒𝑀𝑀(𝐷𝐷) ↑ since  bonds are less attractive for investors => we move along the money function to the right
 
-**==> picture [25 x 15] intentionally omitted <==**
+- **Position**
 
-**----- Start of picture text -----**<br>
-M [d]<br>**----- End of picture text -----**<br>
+- depends on P and Y, taking constant i
 
+- if P and/or Y ↑, the 𝑀𝑀(𝐷𝐷) shifts to the right since more money is needed for transactions
 
-𝑀𝑀 
+- if P and/or Y ↓, the 𝑀𝑀(𝐷𝐷) shifts to the left since less money is needed for transactions
 
-𝑀𝑀1 𝑀𝑀0 
+## MONEY SUPPLY: DETERMINANTS
 
-## POSITION DETERMINATS 
+- All money held as currency
 
-**==> picture [653 x 442] intentionally omitted <==**
+- Money supply is fully controlled by the Central Bank: chooses the stock of money
 
-**----- Start of picture text -----**<br>
-𝑀𝑀 [𝐷𝐷] = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖)<br>−<br>+<br>If Y ↑ and/or P↑ => more transactions<br>𝑖𝑖 in the economy and more M is needed<br>=> Md ↑ given i<br>---> the curve SHIFTS to the right<br>passing  from 0 to 2<br>P and Y are exogenous variables for<br>the money demand function. Their<br>change moves the curve<br>3 0 If Y ↓ and/or P ↓=> less transactions in<br>2<br>𝑖𝑖0 the economy and less M is needed<br>=> Md ↓given i<br>---> the curve SHIFTS to the<br>M [d] ‘<br>left passing  from 0 to 3<br>M [d]<br>𝑀𝑀<br>𝑀𝑀3<br>𝑀𝑀0 𝑀𝑀2<br>**----- End of picture text -----**<br>
+- CB uses monetary policy instruments:
 
+- _**Expansionary MP**_: CB ↑ the stock of M supplied
 
-## Recap: MONEY DEMAND FUNCTION 
+- _**Contractionary MP**_: CB ↓ the stock of M supplied
 
-## 𝑀𝑀[𝐷𝐷] = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖) 
+# CENTRAL BANKS AND MONETARY POLICY
 
-**==> picture [44 x 12] intentionally omitted <==**
+## How is the monetary policy implemented in practice?
 
-- **Negative slope** : it captures the trade – off btw M and B through _i_ 
+https://www.ecb.europa.eu/mopo/implement/html/index.en.html
 
-   - 𝑖𝑖↑⇒𝑀𝑀[𝐷𝐷] ↓ since  bonds are more attractive for investors => we move along the money function to the left 
+## Open market operations
 
-   - 𝑖𝑖↓⇒𝑀𝑀[𝐷𝐷] ↑ since  bonds are less attractive for investors => we move along the money function to the right 
+We use open market operations to steer interest rates, to manage the amount of liquidity in the financial system and to signal our monetary policy stance.
 
-- **Position** 
+Our regular open market operations consist of one-week liquidity-providing operations in euro (main refinancing operations, or MROs) and three-month liquidity-providing operations in euro (longer-term refinancing operations, or LTROs).
 
-   - depends on P and Y, taking constant i 
+https://www.ecb.europa.eu/mopo/implement/omo/html/index.en.html
 
-      - if P and/or Y ↑, the 𝑀𝑀[𝐷𝐷] shifts to the right since more money is needed for transactions 
+Since 2009 the ECB has implemented several measures of unconventional monetary policy
 
-      - if P and/or Y ↓, the 𝑀𝑀[𝐷𝐷] shifts to the left since less money is needed for transactions 
+## OPEN MARKET OPERATIONS (OMO)
 
-## MONEY SUPPLY: DETERMINANTS 
+- **What?** Main tool to control liquidity in the economy
 
-- All money held as currency 
+- **How?** The CB sells (buys) bonds (free/low – risk) on the secondary market and is paid (pays) with money
 
-- Money supply is fully controlled by the Central Bank: chooses the stock of money 
+Where already existing bonds are exchanged Vs. Primary market Where bonds are issued
 
-**==> picture [250 x 188] intentionally omitted <==**
+- **Effect?** They change the CB balance sheet by the same amount
 
-**----- Start of picture text -----**<br>
-𝑖𝑖 𝑀𝑀 [S]<br>𝑀𝑀 0 𝑀𝑀<br>**----- End of picture text -----**<br>
+**ASSETS LIABILITIES** Bonds (B) Money/Currency (M=CU)
 
+https://www.ecb.europa.eu/pub/annual/balance/html/ecb. eurosystembalancesheet2021~f9edd2ff57.en.html
 
-- CB uses monetary policy instruments: 
+- Expansionary MP: The Central Bank buys bonds on the secondary market and pays with money - Increase in money supply 𝚫𝚫 M = 𝚫𝚫 B > 0
 
-   - _**Expansionary MP**_ : CB ↑ the stock of M supplied 
+CB buys bonds for 100
 
-   - _**Contractionary MP**_ : CB ↓ the stock of M supplied 
+**ASSETS LIABILITIES** Bonds (B)+100 Money/Currency +100
 
-# **CENTRAL BANKS AND MONETARY POLICY** 
+- Contractionary MP: The Central Bank **sells bonds** on the secondary market and is **paid with money** - decrease in money supply
 
-## How is the monetary policy implemented in practice? 
+- 𝚫𝚫 M = 𝚫𝚫 B < 0
 
-**==> picture [378 x 211] intentionally omitted <==**
+- CB sells bonds for 100
 
-https://www.ecb.europa.eu/mopo/implement/html/index.en.html 
+Assets and liabilities change by the same amount
 
-## Open market operations 
+## THE MONEY MARKET EQUILIBRIUM
 
-We use open market operations to steer interest rates, to manage the amount of liquidity in the financial system and to signal our monetary policy stance. 
+Equilibrium condition on the money market:  No excess D nor S
 
-Our regular open market operations consist of one-week liquidity-providing operations in euro (main refinancing operations, or MROs) and three-month liquidity-providing operations in euro (longer-term refinancing operations, or LTROs). 
+## WHAT HAPPENS IF THE MARKET IS NOT IN EQUILIBRIUM?
 
-https://www.ecb.europa.eu/mopo/implement/omo/html/index.en.html 
+The interest rate has to change in order to restore the equilibrium and to clear the market
 
-Since 2009 the ECB has implemented several measures of unconventional monetary policy 
+## 𝑖𝑖
 
-## OPEN MARKET OPERATIONS (OMO) 
+𝑀𝑀(S)
 
-- **What?** Main tool to control liquidity in the economy 
+_i_ > _i*  =>_ i has to decrease
 
-- **How?** The CB sells (buys) bonds (free/low – risk) on the secondary market and is paid (pays) with money 
+When in the market there is excess supply, the _interest rate_ must _decrease_ , to _make money more attractive_ compared to bonds, increase the demand and close the excess supply
 
-**==> picture [225 x 168] intentionally omitted <==**
+𝑖𝑖1
 
-Where already existing bonds are exchanged Vs. Primary market Where bonds are issued 
+How is it possible? What is the economic mechanism? _i_ is too high
 
-- **Effect?** They change the CB balance sheet by the same amount 
+- ⇒ Excess supply for M
 
-**ASSETS LIABILITIES** Bonds (B) Money/Currency (M=CU) 
+𝑖𝑖(∗)
 
-https://www.ecb.europa.eu/pub/annual/balance/html/ecb. eurosystembalancesheet2021~f9edd2ff57.en.html 
+𝐸𝐸
 
-- Expansionary MP: The Central Bank buys bonds on the secondary market and pays with money  Increase in money supply 𝚫𝚫 M = 𝚫𝚫 B > 0 
+- ⇒Agents use extra money not used for transactions to buy bonds
 
-CB buys bonds for 100 
+- ⇒ in the bond market B(D) ↑
 
-**ASSETS LIABILITIES** Bonds (B)+100 Money/Currency +100 
+- ⇒ €P t ↑
 
-- Contractionary MP: The Central Bank **sells bonds** on the secondary market and is **paid with money**  decrease in money supply 
+- ⇒ given the bonds’ face value, _i_ ↓ ⇒ the lower _i_ makes M more attractive for investors  that increase their demand up to the point where it is equal to the supply
 
-   - 𝚫𝚫 M = 𝚫𝚫 B < 0 
+𝑀𝑀
 
-- CB sells bonds for 100 
+𝑀𝑀
 
-**==> picture [396 x 61] intentionally omitted <==**
+## WHAT HAPPENS IF THE MARKET IS NOT IN EQUILIBRIUM?
 
-**----- Start of picture text -----**<br>
-ASSETS LIABILITIES<br>Bonds (B)- 100  Money/Currency - 100<br>**----- End of picture text -----**<br>
+𝑖𝑖
 
+𝑀𝑀(S)
 
-Assets and liabilities change by the same amount 
+## If i < i*
 
-## THE MONEY MARKET EQUILIBRIUM 
+⇒ _i_ is too low
 
-Equilibrium condition on the money market:  No excess D nor S 
+- ⇒ Excess demand for M
 
-**==> picture [573 x 337] intentionally omitted <==**
+- ⇒ To obtain money necessary for transactions, agents sell bonds
 
-**----- Start of picture text -----**<br>
-𝑀𝑀 [𝑆𝑆] = 𝑀𝑀 [𝑑𝑑]<br>M<br>= 𝑃𝑃𝑌𝑌𝐿𝐿( 𝑖𝑖)<br>𝑖𝑖<br>𝑀𝑀 [S]<br>:<br>Equilibrium<br>The interest rates  𝐸𝐸<br>at which money  𝑖𝑖 [∗]<br>demand is equal<br>to money supply<br>𝑀𝑀 [d]<br>𝑀𝑀<br>𝑀𝑀<br>**----- End of picture text -----**<br>
+⇒ in the bonds market  B(S) ↑
 
+⇒ €Pt ↓
 
-## WHAT HAPPENS IF THE MARKET IS NOT IN EQUILIBRIUM? 
+𝑖𝑖(∗)
 
-The interest rate has to change in order to restore the equilibrium and to clear the market 
+𝑖𝑖1
 
-## 𝑖𝑖 
+𝐸𝐸
 
-𝑀𝑀[S] 
+𝐸
 
-_i_ > _i*  =>_ i has to decrease 
+𝑀𝑀
 
-When in the market there is excess supply, the _interest rate_ must _decrease_ , to _make money more attractive_ compared to bonds, increase the demand and close the excess supply 
+- ⇒given the bonds face value, _i_ ↑ ⇒ i continues to increase up to the level that ensures the equilibrium bwt demand and supply for money
 
-**==> picture [14 x 15] intentionally omitted <==**
+𝑀𝑀
 
-**----- Start of picture text -----**<br>
-𝐸<br>**----- End of picture text -----**<br>
+## EXOGENOUS SHOCK AND COMPARATIVE STATICS
 
+How is the equilibrium modified by the shock?
 
-𝑖𝑖1 
+- 3-step procedure:
 
-How is it possible? What is the economic mechanism? _i_ is too high 
+- Which curve is affected?
 
-- ⇒ Excess supply for M 
+- Graphical analysis
 
-𝑖𝑖[∗] 
+- Explain the economic intuition
 
-**==> picture [85 x 80] intentionally omitted <==**
+Suppose the economy is in strong recovery phase and there is sudden increase in real GDP
 
-𝐸𝐸 
+- What we could expect to be the effect on the money market?
 
-M[d] 
+- - How the equilibrium will be affected?
 
-- ⇒Agents use extra money not used for transactions to buy bonds 
+## INCREASE in REAL GDP
 
-- ⇒ in the bond market B[D] ↑ 
+Money supply:  = M
 
-- ⇒ €P t ↑ 
+Money demand: M(d) = P  Y  L (i )
 
-- ⇒ given the bonds’ face value, _i_ ↓ ⇒ the lower _i_ makes M more attractive for investors  that increase their demand up to the point where it is equal to the supply 
+𝑖𝑖 𝑀𝑀(S) 1 𝑖𝑖1 𝑖𝑖0 0 M(d ) ‘ M(d) 𝑀𝑀
 
-𝑀𝑀 
+## Which curve is affected?
 
-𝑀𝑀 
+Exogenous increase of demand: more income, more transaction, more money demanded by the public
 
-## WHAT HAPPENS IF THE MARKET IS NOT IN EQUILIBRIUM? 
+⇒ The money demand curve **shifts** right
 
-𝑖𝑖 
+What happens to the equilibrium?
 
-𝑀𝑀[S] 
+The economy moves from 0 to 1: i increases while the nominal money stock is constant
 
-## If i < i* 
+𝑀𝑀
 
-⇒ _i_ is too low 
+What is the economic mechanism behind the change in the interest rate? You have to make the reasoning passing from the bond market!
 
-- ⇒ Excess demand for M 
+- Exogenous ↑ 𝑀𝑀(𝑑𝑑)
 
-- ⇒ To obtain money necessary for transactions, agents sell bonds 
+𝑀𝑀
 
-⇒ in the bonds market  B[S] ↑ 
+- At the initial interest rate, 𝑖𝑖0: 𝑀𝑀(𝑑𝑑) > 𝑀𝑀(𝑆𝑆)
 
-⇒ €Pt ↓ 
+- Excess demand for money
 
-𝑖𝑖[∗] 
+- Agents sell bonds to obtain the extra money they need
 
-𝑖𝑖1 
+⇒ B(S) ↑
 
-𝐸𝐸 
+⇒€Pt ↓ ⇒ _i_ ↑
 
-**==> picture [100 x 74] intentionally omitted <==**
+- The interest rate must increase, to induce agents to hold a lower amount of money
 
-𝐸 
+- As i ↑, as the demand fro money ↓, closing the excess demand
 
-𝑀𝑀 
+_What happens if P_ ↓?
 
-**==> picture [29 x 17] intentionally omitted <==**
+## MONETARY POLICY
 
-**----- Start of picture text -----**<br>
-M [d]<br>**----- End of picture text -----**<br>
+- Monetary Policy is set by Central Bank
 
+- $$EU =>$$  BCE
 
-- ⇒given the bonds face value, _i_ ↑ ⇒ i continues to increase up to the level that ensures the equilibrium bwt demand and supply for money 
+- US =>  Fed
 
-𝑀𝑀 
+- Japan => Bank of Japan
 
-## **EXOGENOUS SHOCK AND COMPARATIVE STATICS** 
+- …
 
-How is the equilibrium modified by the shock? 
+- The CB controls the liquidity level (M(s) ) in the economy
 
-- 3-step procedure: 
+Two key questions:
 
-- Which curve is affected? 
+- 1) What is the impact on the interest rate, i, when the CB injects or reduces liquidity in the economy?
 
-- Graphical analysis 
+- 2) What is the CB objective?
 
-- Explain the economic intuition 
+Suppose the Central Bank decides to reduce the stock of money in the economy
 
-Suppose the economy is in strong recovery phase and there is sudden increase in real GDP 
+- What we could expect to be the effect on the money market?
 
-- What we could expect to be the effect on the money market? 
+- - How the equilibrium will be affected?
 
-- • How the equilibrium will be affected? 
+- Why does the MP affect the interest rate?
 
-## INCREASE in REAL GDP 
+## CONTRACTIONARY MONETARY POLICY
 
-Money supply:  = M 
+Which curve is affected? Exogenous decrease of M(S) The money supply curve **shifts** to the left
 
-Money demand: M[d] = P  Y  L (i ) 
+What happens to the equilibrium?
 
-𝑖𝑖 𝑀𝑀[S] 1 𝑖𝑖1 𝑖𝑖0 0 M[d ] ‘ M[d] 𝑀𝑀 
+The economy moves from 0 to 1: i increases and the nominal money decreases
 
-## _Which curve is affected?_ 
+Less liquidity in the economy translates into a higher price of money: Money becomes «scarce» and its price increases
 
-Exogenous increase of demand: more income, more transaction, more money demanded by the public 
+## MECHANISM AND ECONOMIC INTUITION
 
-⇒ The money demand curve **shifts** right 
+- CB sells bonds and it is paid with money => less liquidity in the economy
 
-What happens to the equilibrium? 
+- Exogenous decrease of 𝑀𝑀(𝑆𝑆)
 
-The economy moves from 0 to 1: i increases while the nominal money stock is constant 
+- At the initial interest rate, 𝑖𝑖0: 𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆)
 
-𝑀𝑀 
+′ 𝑖𝑖 𝑀𝑀(S) 𝑀𝑀(S)
 
-What is the economic mechanism behind the change in the interest rate? You have to make the reasoning passing from the bond market! 
+The interest rate must increase, to induce individuals to hold more bonds and less money => to reduce the money demand
 
-- Exogenous ↑ 𝑀𝑀[𝑑𝑑] 
+## What happens on the bond market?
 
-**==> picture [334 x 291] intentionally omitted <==**
+- ⇒ when the CB sells bods the B(S) ↑
 
-**----- Start of picture text -----**<br>
-𝑖𝑖<br>𝑀𝑀 [S]<br>1<br>𝑖𝑖1<br>Excess demand<br>M [d ] ‘<br>0<br>𝑖𝑖0<br>M [d ]<br>**----- End of picture text -----**<br>
+𝑖𝑖1 0 𝑖𝑖0 Excess demand 𝑀𝑀′ 𝑀𝑀
 
+⇒ €Pt ↓
 
-**==> picture [19 x 22] intentionally omitted <==**
+- ⇒ given the bonds’ face value, _i_ ↑
 
-**----- Start of picture text -----**<br>
-𝑀𝑀<br>**----- End of picture text -----**<br>
+⇒ bonds become more attractive for investors and the money demand decreases, up to become equal to the new lower supply
 
+## EXPANSIONARY MONETARY POLICY
 
-𝑀𝑀 
+- CB buys bonds and pays with “new” money
 
-- At the initial interest rate, 𝑖𝑖0 : 𝑀𝑀[𝑑𝑑] > 𝑀𝑀[𝑆𝑆] 
+- ⇒ Exogenous increase of 𝑀𝑀(𝑆𝑆)
 
-- Excess demand for money 
+- ⇒ money supply shifts to the right and an excess supply occurs at the initial equilibrium interest rate
 
-- Agents sell bonds to obtain the extra money they need 
+- The interest rate must decrease, to induce individuals to hold less bonds and more money
 
-⇒ B[S] ↑ 
+- The equilibrium moves from 0 to 1: money becomes «abundant» and its price decreases
 
-⇒€Pt ↓ ⇒ _i_ ↑ 
+- How is it possible?
 
-- The interest rate must increase, to induce agents to hold a lower amount of money 
+- On the bond market since the CB buys bonds, the B(D) ↑
 
-- As i ↑, as the demand fro money ↓, closing the excess demand 
+- ⇒ €Pt ↑
 
-_What happens if P_ ↓? 
+- ⇒ given the bonds’ face value, _i_ ↓
 
-## MONETARY POLICY 
+- ⇒ bonds become less attractive for investors and the money demand increases up to become equal to the new higher money supply
 
-- Monetary Policy is set by Central Bank 
+## MONETARY POLICY: summing up
 
-   - EU =>  BCE 
+- Expansionary Monetary Policy
 
-   - US =>  Fed 
+- The CB **buys** bonds on the secondary market
 
-   - Japan => Bank of Japan 
+- Demand for bonds increases
 
-   - 
+- The interest rate declines: given the bonds face value, if their price increase the rate of return decreases
 
-   - … 
+- Restrictive Monetary Policy
 
-- The CB controls the liquidity level (M[s] ) in the economy 
+- The CB **sells** bonds on the secondary market
 
-Two key questions: 
+- Increase in supply of bonds:
 
-- 1) What is the impact on the interest rate, i, when the CB injects or reduces liquidity in the economy? 
+- The interest rate increases: given the bonds face value, if their price decreases the rate of return increases
 
-- 2) What is the CB objective? 
+## WHAT DOES THE CB CHOOSE?
 
-Suppose the Central Bank decides to reduce the stock of money in the economy 
+## Two alternative approaches:
 
-- What we could expect to be the effect on the money market? 
+STANDARD CASE:
 
-- • How the equilibrium will be affected? 
+## ALTERNATIVE CASE:
 
-- Why does the MP affect the interest rate? 
+Endogenous aggregate money
 
-## CONTRACTIONARY MONETARY POLICY 
+Exogenous aggregate money
 
-Which curve is affected? Exogenous decrease of M[S] The money supply curve **shifts** to the left 
+- The Central Bank sets the interest policy rate
 
-**==> picture [319 x 316] intentionally omitted <==**
+- The Central Bank sets the quantity of aggregate money
 
-**----- Start of picture text -----**<br>
-‘<br>𝑖𝑖 M [S]<br>M [S]<br>1<br>𝑖𝑖1<br>0<br>𝑖𝑖0<br>M [d] = P Y L(i)<br>𝑀𝑀′ 𝑀𝑀<br>**----- End of picture text -----**<br>
+- The quantity of aggregate money adjusts to  keep the interest rate constant at the desired level
 
+- The interest rate is determined by the money demand
 
-What happens to the equilibrium? 
+## The ECB CASE
 
-The economy moves from 0 to 1: i increases and the nominal money decreases 
+## What does monetary policy do?
 
-Less liquidity in the economy translates into a higher price of money: Money becomes «scarce» and its price increases 
+The primary monetary policy instrument is the setting of ECB policy rates, which influence financing conditions and economic developments, thereby contributing to keeping inflation at the ECB’s target level.
 
-**==> picture [19 x 22] intentionally omitted <==**
+## 1. STANDARD CASE:
 
-**----- Start of picture text -----**<br>
-𝑀𝑀<br>**----- End of picture text -----**<br>
+## Endogenous aggregate money
 
+Given the target, once observed the 𝑑𝑑 money demand ( 𝑀𝑀0 ), to reach the target ̅𝚤𝚤, the CB has to adjust money 𝑠𝑠 supply at 𝑀𝑀0
 
-## MECHANISM AND ECONOMIC INTUITION 
+## 2. ALTERNATIVE CASE: Exogenous aggregate money
 
-- CB sells bonds and it is paid with money => less liquidity in the economy 
+Given the target in terms on money supply, the interest rate is determined by the  money demand 𝑑𝑑 ( 𝑀𝑀0 ) and will be 𝑖𝑖0
 
-- Exogenous decrease of 𝑀𝑀[𝑆𝑆] 
+Same shock has different effects depending on the CB behavior.
 
-- At the initial interest rate, 𝑖𝑖0 : 𝑀𝑀[𝐷𝐷] > 𝑀𝑀[𝑆𝑆] 
+_Suppose that, starting from an initial equilibrium in the money market as described, there is a general wave of optimism due to good news about the global geopolitical situation._
 
-′ 𝑖𝑖 𝑀𝑀[S] 𝑀𝑀[S] 
+_How does the central bank (CB) respond under the two alternative approaches?_
 
-The interest rate must increase, to induce individuals to hold more bonds and less money => to reduce the money demand 
+## EXOGENOUS MONETARY POLICY
 
-## **What happens on the bond market?** 
+- in the goods market, optimism increases c0, I, Z and, through the multiplier, Y
 
-- ⇒ when the CB sells bods the B[S] ↑ 
+– 𝑖𝑖 𝑀𝑀(S) ↑ transactions => Increase in money demand – 𝑀 shifts to the right – Upward pressure on i – The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate – The economy moves from 0 to 1 _1_ 𝑖𝑖1 **Monetary policy is Exogenous** to the demand and the CB does not intervene: when M(d) changes, M(s) stays constant _0_ 𝑖𝑖0 𝑀𝑀(D′) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀(D) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀
 
-1 
+- The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate
 
-𝑖𝑖1 0 𝑖𝑖0 Excess demand 𝑀𝑀′ 𝑀𝑀 
+- – The economy moves from 0 to 1
 
-⇒ €Pt ↓ 
+## ENDOGENOUS MONETARY POLICY
 
-- ⇒ given the bonds’ face value, _i_ ↑ 
+- in the goods market, optimism increases c0, I, Z and through the multiplier Y
 
-⇒ bonds become more attractive for investors and the money demand decreases, up to become equal to the new lower supply 
+- ↑ transactions => Increase in money demand
 
-**==> picture [111 x 44] intentionally omitted <==**
+𝑖𝑖 demand 𝑀𝑀(S) 𝑀𝑀(S) – 𝑀 – – M((s)) follows M _0’ 0 1_ ̅𝚤𝚤 𝑀𝑀(d′) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀(d) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀 𝑀𝑀
 
-**----- Start of picture text -----**<br>
-𝑀𝑀 [D] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖)<br>𝑀𝑀<br>**----- End of picture text -----**<br>
+- 𝑀 shifts to the right creating
 
+- upward pressure on i (from 0 to 0’)
 
-## EXPANSIONARY MONETARY POLICY 
+- To avoid  the increase in i and to keep the target the CB must increase the money supply accordingly to the higher money demand (from 0’ to 1)
 
-- CB buys bonds and pays with “new” money 
+- – M((s)) follows M(d)
 
-- ⇒ Exogenous increase of 𝑀𝑀[𝑆𝑆] 
+_**Monetary policy is Endogenous** and the CB intervenes by changing M(s) when M(d) changes to keep its interest rate target_
 
-- ⇒ money supply shifts to the right and an excess supply occurs at the initial equilibrium interest rate 
+## LIQUIDITY TRAP AND MONETARY POLICY
 
-**==> picture [389 x 319] intentionally omitted <==**
+When i=0 the economy is in a liquidity trap and expansionary MP cannot further reduce i
 
-**----- Start of picture text -----**<br>
-‘<br>𝑖𝑖 M [S]<br>M [S] •<br>Excess<br>•<br>suplly<br>𝑖𝑖0 •<br>0<br>1<br>𝑖𝑖1<br>M [d] = P Y L(i)<br>𝑀𝑀<br>𝑀𝑀 𝑀𝑀′<br>**----- End of picture text -----**<br>
+## LIQUIDITY TRAP
 
+- The (nominal) interest rate **cannot be negative**
 
-- The interest rate must decrease, to induce individuals to hold less bonds and more money 
+## 𝑖𝑖≥0
 
-- The equilibrium moves from 0 to 1: money becomes «abundant» and its price decreases 
+- Why?
 
-## • How is it possible? 
+- If 𝑖𝑖= 0, bonds are no longer attractive
 
-- On the bond market since the CB buys bonds, the B[D] ↑ 
+- Agents are indifferent between bonds and money
 
-   - ⇒ €Pt ↑ 
+- There is no trade off btw bonds and money (M(d) is no longer downward sloping)
 
-   - ⇒ given the bonds’ face value, _i_ ↓ 
+- When i=0
 
-   - ⇒ bonds become less attractive for investors and the money demand increases up to become equal to the new higher money supply 
+- The economy is said to be in a Liquidity Trap
 
-## MONETARY POLICY: summing up 
+- Conventional MP through OMO is unable to further reduce i
 
-- Expansionary Monetary Policy 
+## MONEY MARKET: EQUILIBRIUM
 
-   - The CB **buys** bonds on the secondary market 
+- When money demand becomes horizontal expansionary monetary policy has no effect on the interest rate
 
-   - Demand for bonds increases 
+- More liquidity does not translate into lower interest rate => the economy is in a Liquidity Trap
 
-   - The interest rate declines: given the bonds face value, if their price increase the rate of return decreases 
+- The CB cannot reduce the interest rate below zero => i=0 is the so called zero lower bound
 
-- Restrictive Monetary Policy 
+## QUICK CHECK
 
-   - The CB **sells** bonds on the secondary market 
+- When the central bank conducts an open market purchase, what happens on the money market?
 
-   - Increase in supply of bonds: 
+- a. The money supply decreases and the interest rate rises.
 
-   - The interest rate increases: given the bonds face value, if their price decreases the rate of return increases 
+- **b. The money supply increases and the interest rate falls.**
 
-## WHAT DOES THE CB CHOOSE? 
+- c. The money demand increases and the interest rate rises.
 
-## Two alternative approaches: 
+- d. Commercial banks reduce their lending.
 
-STANDARD CASE: 
+## QUICK CHECK
 
-## ALTERNATIVE CASE: 
+When the central bank aims to reduce the interest rate, it should **a. Buy bonds to increase bond prices.** b. Sell bonds to increase bond prices. c. Buy bonds to decrease bond prices d. Sell bonds to decrease bond prices
 
-Endogenous aggregate money 
+## QUICK CHECK
 
-Exogenous aggregate money 
+Suppose the government increases public expenditures and the central bank has a interest rate policy target. On the money market, the money __________ has to ______________ to keep the interest rate constant. a. supply, decrease. **b. supply, increase.** c. demand, decrease. d. demand, increase.
 
-- The Central Bank sets the interest policy rate 
+## TAKE AWAY AND KEY CONCEPTS
 
-   - The Central Bank sets the quantity of aggregate money 
+- Simple case: no banks
 
-- The quantity of aggregate money adjusts to  keep the interest rate constant at the desired level 
+- Price of bonds
 
-- The interest rate is determined by the money demand 
+- Money demand:
 
-**==> picture [74 x 65] intentionally omitted <==**
+- Negative slope
 
-## **The ECB CASE** 
+- Position depends on GPD and prices
 
-## **What does monetary policy do?** 
+- Money supply: controlled by the CB
 
-The primary monetary policy instrument is the setting of ECB policy rates, which influence financing conditions and economic developments, thereby contributing to keeping inflation at the ECB’s target level. 
+- Contractionary and expansionary MP
 
-## 1. STANDARD CASE: 
+- OMO, bonds price and interest rate
 
-## Endogenous aggregate money 
+- Equilibrium: money supply = money demand
 
-**==> picture [227 x 205] intentionally omitted <==**
+- Comparative statics: monetary policy and shocks to money demand
 
-**----- Start of picture text -----**<br>
-𝑠𝑠<br>𝑖𝑖 𝑀𝑀0<br>̅𝚤𝚤<br>𝑑𝑑<br>𝑀𝑀0<br>𝑀𝑀<br>**----- End of picture text -----**<br>
+- Liquidity trap and zero lower bound
 
-
-Given the target, once observed the 𝑑𝑑 money demand ( 𝑀𝑀0 ), to reach the target ̅𝚤𝚤, the CB has to adjust money 𝑠𝑠 supply at 𝑀𝑀0 
-
-## 2. ALTERNATIVE CASE: Exogenous aggregate money 
-
-**==> picture [237 x 208] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑖𝑖 𝑀𝑀 [S]<br>𝑑𝑑<br>𝑖𝑖0<br>𝑀𝑀0<br>�𝑀𝑀 𝑀𝑀<br>**----- End of picture text -----**<br>
-
-
-Given the target in terms on money supply, the interest rate is determined by the  money demand 𝑑𝑑 ( 𝑀𝑀0 ) and will be 𝑖𝑖0 
-
-Same shock has different effects depending on the CB behavior. 
-
-_Suppose that, starting from an initial equilibrium in the money market as described, there is a general wave of optimism due to good news about the global geopolitical situation._ 
-
-_How does the central bank (CB) respond under the two alternative approaches?_ 
-
-## EXOGENOUS MONETARY POLICY 
-
-- in the goods market, optimism increases c0, I, Z and, through the multiplier, Y 
-
-– 𝑖𝑖 𝑀𝑀[S] ↑ transactions => Increase in money demand – 𝑀 shifts to the right – Upward pressure on i – The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate – The economy moves from 0 to 1 _1_ 𝑖𝑖1 **Monetary policy is Exogenous** to the demand and the CB does not intervene: when M[d] changes, M[s] stays constant _0_ 𝑖𝑖0 𝑀𝑀[D′] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀[D] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀 
-
-- The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate 
-
-- – The economy moves from 0 to 1 
-
-## ENDOGENOUS MONETARY POLICY 
-
-- in the goods market, optimism increases c0, I, Z and through the multiplier Y 
-
-- ↑ transactions => Increase in money demand 
-
- 𝑖𝑖 demand 𝑀𝑀[S] 𝑀𝑀[S] – 𝑀 – – M[[s]] follows M _0’ 0 1_ ̅𝚤𝚤 𝑀𝑀[d′] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀[d] = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀 𝑀𝑀 
-
-- 𝑀 shifts to the right creating 
-
-- upward pressure on i (from 0 to 0’) 
-
-- To avoid  the increase in i and to keep the target the CB must increase the money supply accordingly to the higher money demand (from 0’ to 1) 
-
-- – M[[s]] follows M[d] 
-
-_**Monetary policy is Endogenous** and the CB intervenes by changing M[s] when M[d] changes to keep its interest rate target_ 
-
-**==> picture [509 x 291] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-i↑, contract. MP<br>i↓, expans. MP<br>**----- End of picture text -----**<br>
-
-
-## **LIQUIDITY TRAP AND MONETARY POLICY** 
-
-When i=0 the economy is in a liquidity trap and expansionary MP cannot further reduce i 
-
-## LIQUIDITY TRAP 
-
-- The (nominal) interest rate **cannot be negative** 
-
-## 𝑖𝑖≥0 
-
-- Why? 
-
-      - If 𝑖𝑖= 0, bonds are no longer attractive 
-
-   - 
-
-   - Agents are indifferent between bonds and money 
-
-   - There is no trade off btw bonds and money (M[d] is no longer downward sloping) 
-
-**==> picture [259 x 200] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-𝑖𝑖<br>0 M [d]<br>M<br>**----- End of picture text -----**<br>
-
-
-- When i=0 
-
-   - The economy is said to be in a Liquidity Trap 
-
-   - Conventional MP through OMO is unable to further reduce i 
-
-## MONEY MARKET: EQUILIBRIUM 
-
-**==> picture [432 x 371] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-’<br>𝑖𝑖<br>𝑀𝑀 [𝑆𝑆]<br>•<br>•<br>𝑖𝑖 [∗] 𝐸𝐸<br>•<br>1<br>2<br>3 4 M [d]<br>i=0<br>𝑀𝑀<br>𝑀𝑀<br>**----- End of picture text -----**<br>
-
-
-- When money demand becomes horizontal expansionary monetary policy has no effect on the interest rate 
-
-- More liquidity does not translate into lower interest rate => the economy is in a Liquidity Trap 
-
-- The CB cannot reduce the interest rate below zero => i=0 is the so called zero lower bound 
-
-**==> picture [102 x 16] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Liquidity Trap<br>**----- End of picture text -----**<br>
-
-
-## QUICK CHECK 
-
-- When the central bank conducts an open market purchase, what happens on the money market? 
-
-   - a. The money supply decreases and the interest rate rises. 
-
-   - **b. The money supply increases and the interest rate falls.** 
-
-   - c. The money demand increases and the interest rate rises. 
-
-   - d. Commercial banks reduce their lending. 
-
-## QUICK CHECK 
-
-When the central bank aims to reduce the interest rate, it should **a. Buy bonds to increase bond prices.** b. Sell bonds to increase bond prices. c. Buy bonds to decrease bond prices d. Sell bonds to decrease bond prices 
-
-## QUICK CHECK 
-
-Suppose the government increases public expenditures and the central bank has a interest rate policy target. On the money market, the money __________ has to ______________ to keep the interest rate constant. a. supply, decrease. **b. supply, increase.** c. demand, decrease. d. demand, increase. 
-
-## TAKE AWAY AND KEY CONCEPTS 
-
-- Simple case: no banks 
-
-   - Price of bonds 
-
-   - Money demand: 
-
-      - Negative slope 
-
-      - Position depends on GPD and prices 
-
-   - Money supply: controlled by the CB 
-
-   - Contractionary and expansionary MP 
-
-   - OMO, bonds price and interest rate 
-
-   - Equilibrium: money supply = money demand 
-
-   - Comparative statics: monetary policy and shocks to money demand 
-
-- Liquidity trap and zero lower bound 
-
+## Related Notes
+- [[L10 ISLM model]]
+- [[Trigari_03(Chapter 4)]]
+- [[L8 & L9 Financial Markets with banks]]

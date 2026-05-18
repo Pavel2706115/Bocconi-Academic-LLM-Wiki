@@ -1,278 +1,146 @@
-**==> picture [836 x 8] intentionally omitted <==**
+---
+course: "Financial Accounting 2"
+course_code: "30693"
+tags:
+  - "source"
+  - course_30693
+Title: "Presentation 3 - Consolidation 2026.04.21"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## _**Accounting for Business Combinations**_ 
+## Accounting for Business Combinations
 
-**==> picture [44 x 126] intentionally omitted <==**
+_**Slide deck 3**_
 
-_**Slide deck 3**_ 
+## Where are we now?
 
-**==> picture [836 x 8] intentionally omitted <==**
+Now that you understand how consolidation adjustments work, we can take a step back and explain how to make the _**pre-consolidation adjustments**_ relating to accounting policies.
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+These adjustments do not go into the consolidation adjustment columns; instead, they are made before preparing the aggregated financial statements.
 
-**1** 
+However, it was not possible to explain them earlier, since they required an understanding of the consolidation logic, which was explained in detail when making the first actual consolidation adjustment, namely the elimination of the investment ( _refer to Slide deck 2_ ).
 
-**==> picture [836 x 8] intentionally omitted <==**
+Therefore, in terms of the agenda, we are now returning to _**section III.A.**_
 
-## _Where are we now?_ 
+## Agenda
 
-Now that you understand how consolidation adjustments work, we can take a step back and explain how to make the _**pre-consolidation adjustments**_ relating to accounting policies. 
+## I. Preface on Business Combinations
 
-These adjustments do not go into the consolidation adjustment columns; instead, they are made before preparing the aggregated financial statements. 
+## II. Consolidation and the Concept of “ _control_ ”
 
-**==> picture [44 x 126] intentionally omitted <==**
+## III. The preparation of the consolidated financial statements
 
-However, it was not possible to explain them earlier, since they required an understanding of the consolidation logic, which was explained in detail when making the first actual consolidation adjustment, namely the elimination of the investment ( _refer to Slide deck 2_ ). 
+- **A. Separate F/S collection and pre-consolidation adjustments to make them uniform**
 
-Therefore, in terms of the agenda, we are now returning to _**section III.A.**_ 
+- B. Aggregation of the separate F/S
 
-**==> picture [836 x 8] intentionally omitted <==**
+- C. Consolidation adjustments
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill
 
-**2** 
+- 2) Depreciation/amortization of plusvalues (minusvalues)
 
-**==> picture [836 x 8] intentionally omitted <==**
+- 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses
 
-## _**Agenda**_ 
+- 4) Elimination of intercompany profits on sale of goods
 
-## I. Preface on Business Combinations 
+- 5) Elimination of intercompany profits on sale of long-lived assets
 
-## II. Consolidation and the Concept of “ _control_ ” 
+- 6) Elimination of intercompany dividends
 
-## **III. The preparation of the consolidated financial statements** 
+- 7) Computation of NC net income
 
-- **A. Separate F/S collection and pre-consolidation adjustments to make them uniform** 
+- D. The completion of the work: the consolidated financial statements
 
-- B. Aggregation of the separate F/S 
+## Pre-Consolidation Adjustments
 
-- C. Consolidation adjustments 
+In order to prepare consolidated financial statements, it is necessary to add together the balance sheets and the income statements of the parent company and of all the subsidiaries.
 
-   - 1) Investment write-off, calculation of <<non-controlling interest>> and goodwill 
+Financial statements are to be prepared using uniform accounting policies _(harmonization of pre-consolidation phase)._
 
-   - 2) Depreciation/amortization of plusvalues (minusvalues) 
+The uniformity of accounting policies may be obtained in different ways. In practice, three main scenarios occur:
 
-**==> picture [44 x 126] intentionally omitted <==**
+1. Subsidiaries (included in the consolidation area) to adopt _ex-ante_ in their financial statement the same accounting policies used by the parent company (i.e., in the consolidation process). If such standards are compliant with the local regulation;
 
-   - 3) Elimination of intercompany transactions: receivables/payables/revenues/expenses 
+2. Subsidiaries (included in the consolidation area) provide financial statement with the necessary adjustments for the consolidation process. This means that at local level after stand-alone financial statements are prepared as required by local rules, an additional “ad hoc” reporting is prepared and sent to the parent for consolidation purposes only.
 
-   - 4) Elimination of intercompany profits on sale of goods 
+3. Harmonization is managed at parent level. This implies all adjustments/changes are prepared at corporate level, during the consolidation process.
 
-   - 5) Elimination of intercompany profits on sale of long-lived assets 
+## Pre-Consolidation Adjustments
 
-   - 6) Elimination of intercompany dividends 
+## The logic to make **adjustments to harmonize accounting principles and valuation criteria** is as follows:
 
-   - 7) Computation of NC net income 
+1. Identify the accounting actually made by the subsidiary ( **“effective” accounting** ). This entry is reflected in the aggregated sheet;
 
-- D. The completion of the work: the consolidated financial statements 
+2. Identify the accounting that the company would have made to adopt principles and policies consistent with those followed by the _**group**_ ( **“proper” accounting** );
 
-**==> picture [836 x 8] intentionally omitted <==**
+3. According to the differences between the “proper” and “proper” accounting identify the **Adjustments to Consolidated Financial Statements**
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- … let’s work with an example …
 
-**3** 
+## Pre-Consolidation Adjustments
 
-**==> picture [836 x 8] intentionally omitted <==**
+## Example 1 – Inventory Policy differences
 
-**==> picture [796 x 414] intentionally omitted <==**
+## Info:
 
-**----- Start of picture text -----**<br>
-Pre-Consolidation Adjustments<br>Remember we said:<br>Will get back to this<br>later….<br>Pre-consolidation<br>adjustments<br>Schemes and<br>contents of the  Accounting<br>financial principles and<br>statements policies adopted.<br>Reporting<br>Closing dates of<br>currency the statements<br>**----- End of picture text -----**<br>
+- Alfa acquired 100% of the shares in Beta on January 1, 2025.
 
+- At the end of 2025, Alfa has to consolidate Beta accounts.
 
-**==> picture [44 x 126] intentionally omitted <==**
+- With reference to Inventories:
 
-**==> picture [836 x 8] intentionally omitted <==**
+- _(a)_ Alfa’ Inventories are accounted using FIFO;
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+- _(b)_ in its own accounts, Beta accounts inventories using LIFO.
 
-**4** 
+- Alfa identifies that, if Beta had valued inventory using FIFO, it would have resulted in a _**€500 lower cost of goods sold.**_
 
-**==> picture [836 x 8] intentionally omitted <==**
+## The Issue:
 
-## _Pre-Consolidation Adjustments_ 
+- The consolidation process requires the use of consistent accounting policies (harmonization).
 
-In order to prepare consolidated financial statements, it is necessary to add together the balance sheets and the income statements of the parent company and of all the subsidiaries. 
+- The subsidiary (Beta) must therefore adjust its inventory valuation to align with the parent company’s (Alfa) accounting policy.
 
-Financial statements are to be prepared using uniform accounting policies _(harmonization of pre-consolidation phase)._ 
+- _**This means …**_
 
-The uniformity of accounting policies may be obtained in different ways. In practice, three main scenarios occur: 
+## Pre-Consolidation Adjustments
 
-1. Subsidiaries (included in the consolidation area) to adopt _ex-ante_ in their financial statement the same accounting policies used by the parent company (i.e., in the consolidation process). If such standards are compliant with the local regulation; 
+## The adjustment from Beta’s “effective” policy (LIFO) to the group’s “proper” policy (FIFO) requires:
 
-**==> picture [44 x 126] intentionally omitted <==**
+1. A decrease in _Cost of Goods Sold_ of 500 2. An increase in _Inventory_ of 500. _**Why is this the case?**_ When Beta – _using LIFO_ – accounted for Inventory and CoGS, it recorded an entry as follows: _CoGS Inventory XXXX Inventory XXXX_ Instead, If FIFO had been used, the CoGS would be lower by 500. This means that we need to adjust the entry above, as follows: _Inventory 500 CoGS Inventory 500_ This is intuitive, as if CoGS decreases, this means that the amount “not sold” (so the adjustment) is actually still on hand. Where is the amount on hand stored? In the inventory account. This is why we debit inventory. _**Note**_: In this example, tax effects have not yet been included. **Financial Accounting –Financial Accounting - Code 30427693 8**
+*(See also: [[Presentation 1 - Consolidation 2026.04.10#^g70aox]])*
 
-2. Subsidiaries (included in the consolidation area) provide financial statement with the necessary adjustments for the consolidation process. This means that at local level after stand-alone financial statements are prepared as required by local rules, an additional “ad hoc” reporting is prepared and sent to the parent for consolidation purposes only. 
+## Pre-Consolidation Adjustments
 
-3. Harmonization is managed at parent level. This implies all adjustments/changes are prepared at corporate level, during the consolidation process. 
+## Pre-Consolidation Adjustments
 
-**==> picture [836 x 8] intentionally omitted <==**
+## So let see what happens, with Inventories…considering taxes:
 
-**Financial Accounting –Financial Accounting - Code 30427693** 
+The main adjustment is the same:
 
-**5** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-## The logic to make **adjustments to harmonize accounting principles and valuation criteria** is as follows: 
-
-1. Identify the accounting actually made by the subsidiary ( **“effective” accounting** ). This entry is reflected in the aggregated sheet; 
-
-2. Identify the accounting that the company would have made to adopt principles and policies consistent with those followed by the _**group**_ ( **“proper” accounting** ); 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-3. According to the differences between the “proper” and “proper” accounting identify the **Adjustments to Consolidated Financial Statements** 
-
-   - … let’s work with an example … 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**6** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-## _**Example 1 – Inventory Policy differences**_ 
-
-## **Info:** 
-
-- Alfa acquired 100% of the shares in Beta on January 1, 2025. 
-
-- At the end of 2025, Alfa has to consolidate Beta accounts. 
-
-- With reference to Inventories: 
-
-   - _(a)_ Alfa’ Inventories are accounted using FIFO; 
-
-   - _(b)_ in its own accounts, Beta accounts inventories using LIFO. 
-
-- Alfa identifies that, if Beta had valued inventory using FIFO, it would have resulted in a _**€500 lower cost of goods sold.**_ 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-## **The Issue:** 
-
-- The consolidation process requires the use of consistent accounting policies (harmonization). 
-
-- The subsidiary (Beta) must therefore adjust its inventory valuation to align with the parent company’s (Alfa) accounting policy. 
-
-- _**This means …**_ 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**7** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-## _**The adjustment from Beta’s “effective” policy (LIFO) to the group’s “proper” policy (FIFO) requires:**_ 
-
-1. A decrease in _Cost of Goods Sold_ of 500 2. An increase in _Inventory_ of 500. _**Why is this the case?**_ When Beta – _using LIFO_ – accounted for Inventory and CoGS, it recorded an entry as follows: _CoGS Inventory XXXX Inventory XXXX_ Instead, If FIFO had been used, the CoGS would be lower by 500. This means that we need to adjust the entry above, as follows: _Inventory 500 CoGS Inventory 500_ This is intuitive, as if CoGS decreases, this means that the amount “not sold” (so the adjustment) is actually still on hand. Where is the amount on hand stored? In the inventory account. This is why we debit inventory. _**Note**_ : In this example, tax effects have not yet been included. **Financial Accounting –Financial Accounting - Code 30427693 8** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-||**Income Statement**<br>Operatingrevenues<br>Operatingexpenses|**Alfa**<br>10,000<br>7,000|**Beta**<br>5,000<br>4,000|**(1)**<br>-500|**Aggregated**<br>~~One impo~~rtant thing is worth<br>~~mentioning~~…|**Aggregated**<br>~~One impo~~rtant thing is worth<br>~~mentioning~~…|**Aggregated**<br>~~One impo~~rtant thing is worth<br>~~mentioning~~…|
-|---|---|---|---|---|---|---|---|
-||_Operating Income_<br>Financial  revenues<br>Financial expenses<br>_Income before Tax_|_3,000_<br>100<br>_2,900_|_1,000_<br>20<br>500<br>_520_|+500||~~When we ~~make the adjustment,<br>~~we also i~~ndirectly change the<br>~~Income…s~~pecifically the pre-tax<br>~~income.~~||
-||Income tax|2,000|260|?||||
-||**_Net income_**|**_900_**|**_260_**|?||||
-|||||||Thisgenerates the following …||
-||**Balance Sheet**|**Alfa**|**Beta**|**(1)**|**Aggregated**|||
-||_Non current assets_|||||||
-||_Current assets_||||So we need also to take into account|||
-||Inventories|1,000|1,360|+500|the TAX effect.|||
-||**_Total assets_**|**_20,000_**|**_8,360_**|||||
-||_Owners' equity_||||This|will always (and only) be present||
-||Common stock|10,000|3,000||if through consolidation adjustments|||
-||Retained earnings|3,500|||we modifythepre-tax income.|||
-||Net income|900|260|||||
-||Omissis…|||||||
-||**_Total liabilties and equity_**|**_20,000_**|**_8,360_**|||||
-
-
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**9** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-## _Pre-Consolidation Adjustments_ 
-
-## _**So let see what happens, with Inventories…considering taxes:**_ 
-
-The main adjustment is the same: 
-
-|_Inventory_|_500_|||
+|_Inventory_|_500_|
 |---|---|---|---|
-|_CoGS Inventory_||_500_||
+|_CoGS Inventory_|_500_|
 
+However, we are now aware that this adjustment increases pre-tax income by 500. This means that, at the consolidation level, taxes should be higher by:
 
+500 x Tax Rate
 
-However, we are now aware that this adjustment increases pre-tax income by 500. This means that, at the consolidation level, taxes should be higher by: 
+This means that we need to account for the tax effect. Such tax effect will generate Deferred Taxation. Deferred taxation will work as follows:
 
-500 x Tax Rate 
-
-This means that we need to account for the tax effect. Such tax effect will generate Deferred Taxation. Deferred taxation will work as follows: 
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-|Tax income increases …(let’s assume a 30% tax rate). The Entry will be as follows:<br>**_Post-Adjustment_**<br>Income Effect<br>Income Statement Tax Effect Balance Scheet Tax Effect<br>(A)<br>Pre tax Income decrease<br>Taxes Decreases<br>Deferred Tax Assets Arise<br>(B)<br>Pre tax Income increase<br>Taxes Increases<br>Deferred Tax Liabilities Arise<br>_Income Taxes_<br>_150_<br>_Deferred Tax Liabilities_<br>_150_|**_Post-Adjustment_**|**_Post-Adjustment_**|**_Post-Adjustment_**|
+|Tax income increases …(let’s assume a 30% tax rate). The Entry will be as follows: **_Post-Adjustment_** Income Effect Income Statement Tax Effect Balance Scheet Tax Effect (A) Pre tax Income decrease Taxes Decreases Deferred Tax Assets Arise (B) Pre tax Income increase Taxes Increases Deferred Tax Liabilities Arise _Income Taxes_ _150_ _Deferred Tax Liabilities_ _150_|**_Post-Adjustment_**|**_Post-Adjustment_**|**_Post-Adjustment_**|
 |---|---|---|---|
-||Income Effect|Income Statement Tax Effect|Balance Scheet Tax Effect|
-||Pre tax Income decrease|Taxes Decreases|Deferred Tax Assets Arise|
-||Pre tax Income increase|Taxes Increases|Deferred Tax Liabilities Arise|
+|Income Effect|Income Statement Tax Effect|Balance Scheet Tax Effect|
+|Pre tax Income decrease|Taxes Decreases|Deferred Tax Assets Arise|
+|Pre tax Income increase|Taxes Increases|Deferred Tax Liabilities Arise|
 
+In our case: (A) Pre-Tax income increases …(let’s assume a 30% tax rate). The Entry will be as follows:
 
-
-In our case: (A) Pre-Tax income increases …(let’s assume a 30% tax rate). The Entry will be as follows: 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**10** 
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-||_Pre-Consolidation Adjustments_|_Pre-Consolidation Adjustments_|_Pre-Consolidation Adjustments_|_Pre-Consolidation Adjustments_|_Pre-Consolidation Adjustments_|
-|---|---|---|---|---|---|
-|||||||
-||**Balance Sheet**|**Alfa**|**Beta**|**(1)**|**Aggregated**|
-||_Non current assets_|||||
-||Deferred tax assets|||||
-||_Current assets_|||||
-||Inventories|1,000|1,360|500||
-||**_Total assets_**|**_20,000_**|**_8,360_**|||
-||_Owners' equity_|||||
-||Common stock|10,000|3,000|||
-||Retained earnings|3,500||||
-||Net income|900|260|+350||
-||Omissis…<br>Deferred Tax Liabilities|||**+150**||
-||**_Total liabilties and equity_**|**_20,000_**|**_8,360_**|||
-
-
-
-**==> picture [44 x 126] intentionally omitted <==**
-
-**==> picture [836 x 8] intentionally omitted <==**
-
-**Financial Accounting –Financial Accounting - Code 30427693** 
-
-**11** 
-
+## Related Notes
+- [[Presentation 1 - Consolidation 2026.04.10]]
+- [[Presentation 6 - Consolidation 2026.04.17]]
+- [[Presentation 2 - Consolidation 2026.04.14]]

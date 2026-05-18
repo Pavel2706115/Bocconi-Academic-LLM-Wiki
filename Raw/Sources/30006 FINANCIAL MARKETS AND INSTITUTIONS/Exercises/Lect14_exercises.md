@@ -1,58 +1,76 @@
-## **Extra exercises of Lecture 14** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect14_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 14
 
-Which of the following statements is true about the role of financial intermediaries? 
+## EX 1
 
-- I. they reduce the transaction cost of linking together borrowers and lenders 
+Which of the following statements is true about the role of financial intermediaries?
 
-- II. they increase the exposure of investors to risk through diversification 
+- I. they reduce the transaction cost of linking together borrowers and lenders
 
-- III. they increase portfolio diversification 
+- II. they increase the exposure of investors to risk through diversification
 
-- IV. they are neutral on problems of asymmetric information 
+- III. they increase portfolio diversification
 
-- a) I and III 
+- IV. they are neutral on problems of asymmetric information
 
-- b) I and II 
+- a) I and III
 
-- c) II and IV 
+- b) I and II
 
-- d) III and IV 
+- c) II and IV
 
-## **EX 2** 
+- d) III and IV
 
-Suppose a buyer wants to buy a bond, but there is asymmetric information on its quality. Which is the price the buyer is willing to pay? 
+## EX 2
 
-- a) the average price of similar securities in the market 
+Suppose a buyer wants to buy a bond, but there is asymmetric information on its quality. Which is the price the buyer is willing to pay?
 
-- b) a price _above_ the average of similar securities in the market 
+- a) the average price of similar securities in the market
 
-- c) a price _below_ the average of similar securities in the market 
+- b) a price _above_ the average of similar securities in the market
 
-- d) any price 
+- c) a price _below_ the average of similar securities in the market
 
-## **EX 3** 
+- d) any price
 
-Why does the principal agent problem of moral hazard arise with equity more than with debt? Because … 
+## EX 3
 
-- a) borrower only needs to pay a fixed sum (interest), she/he can keep the rest, not with equity 
+Why does the principal agent problem of moral hazard arise with equity more than with debt? Because …
 
-- b) debt is monitored by credit agency firms, while equity monitoring is made by owners 
+- a) borrower only needs to pay a fixed sum (interest), she/he can keep the rest, not with equity
 
-- c) equity is a claim on profits in all situations of the firm, while with debt the lender only needs to monitor some states of the world 
+- b) debt is monitored by credit agency firms, while equity monitoring is made by owners
 
-- d) none of the answers above 
+- c) equity is a claim on profits in all situations of the firm, while with debt the lender only needs to monitor some states of the world
 
-## **EX 4** 
+- d) none of the answers above
 
-An investment bank, in charge of arranging the IPO of a company A, gives the shares underpriced to the executives of company B in exchange for future business with their company. This is an example of: 
+## EX 4
 
-- a) adverse selection 
+An investment bank, in charge of arranging the IPO of a company A, gives the shares underpriced to the executives of company B in exchange for future business with their company. This is an example of: ^fxvjbb
+*(See also: [[Lect14#^hroojd]])*
 
-- b) a conflict of interest 
+- a) adverse selection
 
-- c) financial regulation 
+- b) a conflict of interest
 
-- d) a debt covenant 
+- c) financial regulation
 
+- d) a debt covenant
+
+## Related Notes
+- [[Lect14]]
+- [[Lect1]]
+- [[Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018)]]

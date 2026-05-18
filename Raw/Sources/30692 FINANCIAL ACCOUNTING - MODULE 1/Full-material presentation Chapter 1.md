@@ -1,690 +1,426 @@
-**Financial Accounting** 12e9e 
+---
+course: "Financial Accounting 1"
+course_code: "30692"
+tags:
+  - "source"
+  - course_30692
+Title: "Full-material presentation Chapter 1"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **Libby • Libby •** Hodge 
+**Financial Accounting** 12e9e
 
-**1-1** 
+## **Libby - Libby - ** Hodge
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Learning Objectives
 
-## Learning Objectives 
+After studying this chapter, you should be able to:
 
-After studying this chapter, you should be able to: 
+- **1-1** Recognize the information conveyed in each of the four basic financial statements and the way that it is used by different decision makers (investors, creditors, and managers).
 
-- **1-1** Recognize the information conveyed in each of the four basic financial statements and the way that it is used by different decision makers (investors, creditors, and managers). 
+- **1-2** Identify the role of generally accepted accounting principles (GAAP) in determining financial statement content and managers’, directors’, and auditors’ responsibilities for ensuring the accuracy of the financial statements.
 
-- **1-2** Identify the role of generally accepted accounting principles (GAAP) in determining financial statement content and managers’, directors’, and auditors’ responsibilities for ensuring the accuracy of the financial statements. 
+## Understanding the Business
 
-**1-2** 
+## Exhibit 1.1
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## The Accounting System and Decision Makers
 
-## Understanding the Business 
+**Accounting System**
 
-**==> picture [578 x 366] intentionally omitted <==**
+**Financial Accounting Reports** Periodic financial statements and related disclosures
 
-**----- Start of picture text -----**<br>
-Sources of Financial Resources<br>Stockholders Creditors<br>Potential Return for  Potential Return for<br>Stockholders: Creditors:<br>• •<br>Dividends Interest<br>•<br>Higher future stock prices<br>Both groups estimate future performance, in part, based on<br>information in the company’s financial statements.<br>**----- End of picture text -----**<br>
+provided to
 
+**Managerial Accounting Reports** Detailed plans and continuous performance reports
 
-**==> picture [65 x 560] intentionally omitted <==**
+**External Decision Makers** Evaluate the company Creditors Investors
 
-**1-3** 
+**Internal Decision Makers** Run the company
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Managers
 
-## Exhibit 1.1 
+Creditors: ©Anton Violin/Shutterstock;
+- Investors: ©Pressmaster/Shutterstock;
+- Managers: ©kzenon/123RF
 
-## The Accounting System and Decision Makers 
+## Business Activities
 
-**Accounting System** 
+Financing Activities
 
-**==> picture [277 x 35] intentionally omitted <==**
+Investing Activities
 
-**Financial Accounting Reports** Periodic financial statements and related disclosures 
+Operating Activities
 
-**==> picture [123 x 82] intentionally omitted <==**
+## Why Study Financial Accounting?
 
-provided to 
+- Decision makers rely on financial information: - Investors - Creditors
 
-**Managerial Accounting Reports** Detailed plans and continuous performance reports 
+- Managers within the firm such as:
 
-**==> picture [123 x 82] intentionally omitted <==**
+- Marketing managers
 
-**External Decision Makers** Evaluate the company Creditors Investors 
+- Credit managers
 
-**Internal Decision Makers** Run the company 
+- Supply chain managers
 
-**==> picture [116 x 81] intentionally omitted <==**
+- Human resource managers
 
-Managers 
+## Your Goals for Chapter 1
 
-Creditors: ©Anton Violin/Shutterstock; Investors: ©Pressmaster/Shutterstock; Managers: ©kzenon/123RF 
+Focus your attention on learning the:
 
-**1-4** 
+- **Content:** the categories, or elements, reported on each of the four statements.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- **Structure:** the equation that shows how the elements within the statement are organized and related.
 
-## Business Activities 
+- **Use:** how the information is used by stockholders and creditors to make investment and lending decisions.
 
-Financing Activities 
+_Note: Rather than trying to memorize the definitions of every term used in this chapter, try to focus your attention on learning the general content, structure, and use of the statements._
 
-Investing Activities 
+## Learning Objective 1-1
 
-Operating Activities 
+**1-1** Recognize the information conveyed in each of the four basic financial statements and the way that it is used by different decision makers (investors, creditors, and managers).
 
-**==> picture [65 x 560] intentionally omitted <==**
+## The Four Basic Financial Statements: An Overview
 
-**1-5** 
+**BALANCE SHEET** – reports the financial position of an entity at a point in time (assets, liabilities, and stockholders’ equity).
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+**INCOME STATEMENT** – reports the revenues less the expenses during the accounting period.
 
-## Why Study Financial Accounting? 
+**STATEMENT OF STOCKHOLDERS’ EQUITY** – reports the changes in each of the company’s stockholders’ equity accounts, including the change in the retained earnings balance caused by net income and dividends, during the reporting period.
 
-- Decision makers rely on financial information:  Investors  Creditors 
+**STATEMENT OF CASH FLOWS** – reports inflows and outflows of cash during the accounting period in the categories of operating, investing, and financing.
 
-- Managers within the firm such as: 
+_The notes are an integral part of these financial statements._
 
- Marketing managers 
+## Financial Statement Time Period & Structure
 
- Credit managers 
+The four basic financial statements can be prepared at any point in time such as:
 
-- Supply chain managers 
+- **End of the year** (for the year ended, annual reports)
 
- Human resource managers 
+- **Quarterly** (for the quarter ended, quarterly reports)
 
-**==> picture [65 x 560] intentionally omitted <==**
+- **Monthly** (for the month ended, monthly reports)
 
-**1-6** 
+The financial statement heading includes:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- **Name of the entity** (Company name)
 
-## Your Goals for Chapter 1 
+- **Title of the statement** (e.g., Balance Sheet)
 
-Focus your attention on learning the: 
+- **Specific date of the statement** (e.g., At December 31, 2020)
 
- **Content:** the categories, or elements, reported on each of the four statements. 
+- **Unit of measure** (in millions of dollars)
 
- **Structure:** the equation that shows how the elements within the statement are organized and related. 
+## The Balance Sheet
 
- **Use:** how the information is used by stockholders and creditors to make investment and lending decisions. 
+The purpose of the **balance sheet (statement of financial position)** is to report the financial position (amount of assets, liabilities, and stockholders’ equity) of an accounting entity at a particular point in time.
 
-_Note: Rather than trying to memorize the definitions of every term used in this chapter, try to focus your attention on learning the general content, structure, and use of the statements._ 
+**Assets** Cash Short-Term Investments Accounts Receivable Notes Receivable Inventories Supplies Prepaid Expenses Long-Term Investments Equipment Buildings Land Intangibles
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Liabilities** Accounts Payable Accrued Expenses Notes Payable Taxes Payable Unearned Revenue Bonds Payable
 
-**1-7** 
+**Stockholders’ Equity** Common Stock Retained Earnings
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Exhibit 1.2 Balance Sheet
 
-## Learning Objective 1-1 
+## The Basic Accounting Equation
 
-**1-1** Recognize the information conveyed in each of the four basic financial statements and the way that it is used by different decision makers (investors, creditors, and managers). 
+_The basic accounting equation refers to a company’s_ _**financial position:** the_ _**economic resources** that the company owns and the_ _**sources of financing** for those resources._
 
-**1-8** 
+## Interpreting Assets, Liabilities, and Stockholders’ Equity on the Balance Sheet
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Creditors and shareholders analyze assets to determine if the company has sufficient resources available to operate. _Assets can be sold for cash if the company goes out of business._
 
-## The Four Basic Financial Statements: An Overview 
+- Creditors and shareholders are concerned about whether the company has sufficient sources of cash to pay its liabilities .
 
-**BALANCE SHEET** – reports the financial position of an entity at a point in time (assets, liabilities, and stockholders’ equity). 
+- (debts) _If a company does not pay its creditors, the creditors can force the sale of assets._
 
-**INCOME STATEMENT** – reports the revenues less the expenses during the accounting period. 
+- Stockholders’ Equity is considered a protective “cushion” to creditors because the creditors’ claims legally come before those of the owners. _If the company goes out of business and its assets are sold, the creditors are paid back before the shareholders receive any money._
 
-**STATEMENT OF STOCKHOLDERS’ EQUITY** – reports the changes in each of the company’s stockholders’ equity accounts, including the change in the retained earnings balance caused by net income and dividends, during the reporting period. 
+## Income Statement
 
-**STATEMENT OF CASH FLOWS** – reports inflows and outflows of cash during the accounting period in the categories of operating, investing, and financing. 
+The **income statement** ( **statement of income, statement of earnings, statement of operations** ) reports the primary measure of performance of a business: revenues less expenses during the accounting period.
 
-_The notes are an integral part of these financial statements._ 
+While the term profit is used widely, accountants prefer to use the technical terms **net income** or net earnings.
 
-**==> picture [65 x 560] intentionally omitted <==**
+**Expenses** Resources used to earn period’s revenues.
 
-**1-9** 
+**Revenues**
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Cash and promises received from delivery of goods and services.
 
-## Financial Statement Time Period & Structure 
+_Examples:_ Cost of Goods Sold Wages Expense Rent Expense Depreciation Expense Insurance Expense Repair Expense Income Tax Expense
 
-The four basic financial statements can be prepared at any point in time such as: 
+_Examples:_ Sales Revenue Service Revenue Rental Revenue Interest Revenue
 
-- **End of the year** (for the year ended, annual reports) 
+## The Income Statement Equation
 
-- **Quarterly** (for the quarter ended, quarterly reports) 
+_If total expenses exceed total revenues, a net loss is reported._
 
-- **Monthly** (for the month ended, monthly reports) 
+## Exhibit 1.3 Income Statement
 
-The financial statement heading includes: 
+## Interpreting the Income Statement
 
-- **Name of the entity** (Company name) 
+- Investors and creditors closely monitor a firm’s net income because it indicates the firm’s ability to sell goods and services for more than they cost to produce and deliver.
 
-- **Title of the statement** (e.g., Balance Sheet) 
+- Investors buy stock when they believe that future earnings will improve and lead to dividends and the ability to sell their stock for more than they paid. ^zfgmuq
 
-- **Specific date of the statement** (e.g., At December 31, 2020) 
+- Lenders rely on future earnings to provide the resources to repay loans. The income statement helps investors and creditors estimate the company’s future earnings.
 
-- **Unit of measure** (in millions of dollars) 
+## Statement of Stockholders’ Equity
 
-**==> picture [65 x 560] intentionally omitted <==**
+The **Statement of Stockholders’ Equity** reports the change in each stockholders’ equity account during the period.
 
-**1-10** 
+**Common Stock** Amounts invested in the business by stockholders. _Beginning Common Stock +    Stock Issuance Ending Common Stock_
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+**Retained Earnings** Past earnings not distributed to stockholders. _Beginning Retained Earnings +               Net Income_ **−** _Dividends Ending Retained Earnings_
 
-## The Balance Sheet 
+## Exhibit 1.4 Statement of Stockholders’ Equity
 
-The purpose of the **balance sheet (statement of financial position)** is to report the financial position (amount of assets, liabilities, and stockholders’ equity) of an accounting entity at a particular point in time. 
+## Interpreting Retained Earnings
 
-**Assets** Cash Short-Term Investments Accounts Receivable Notes Receivable Inventories Supplies Prepaid Expenses Long-Term Investments Equipment Buildings Land Intangibles 
+- Reinvestment of or retained is an earnings, earnings, important
 
-**Liabilities** Accounts Payable Accrued Expenses Notes Payable Taxes Payable Unearned Revenue Bonds Payable 
+- source of financing for companies.
 
-**Stockholders’ Equity** Common Stock Retained Earnings 
+- Creditors closely monitor a firm’s statement of stockholders’ equity because the company’s policy on dividend payments affects its ability to repay its debts.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- _Every dollar the company pays to stockholders as a dividend is not available for use in paying back its debt._
 
-**1-11** 
+- Investors examine retained earnings to determine whether the company is reinvesting a sufficient portion of earnings to support future growth.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Exhibit 1.5
 
-## Exhibit 1.2 Balance Sheet 
+## Relationship Among LeNature’s Statements
 
-**==> picture [644 x 488] intentionally omitted <==**
+## Statement of Cash Flows (1 of 2)
 
-**1-12** 
+## Statement of Cash Flows (2 of 2)
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Cash Flows from Operating Activities
 
-## The Basic Accounting Equation 
+Elements of the Statement of Cash Flows
 
-**==> picture [630 x 268] intentionally omitted <==**
+_Cash flows directly related to earning income, such as cash collected from customers less cash paid for operating expenses, such as cash paid to suppliers and employees._
 
-_The basic accounting equation refers to a company’s_ _**financial position:** the_ _**economic resources** that the company owns and the_ _**sources of financing** for those resources._ 
+Cash Flows from Investing Activities _Cash flows related to acquisition or sale of the company’s plant and equipment and investments._
 
-**==> picture [65 x 560] intentionally omitted <==**
+Cash Flows from Financing Activities
 
-**1-13** 
+_Cash flows directly related to the financing of the enterprise, such as the receipt or payment of money to investors and creditors (except suppliers)_
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+_The Statement of Cash Flows reports inflows and outflows of cash during the accounting period._
 
-## Interpreting Assets, Liabilities, and Stockholders’ Equity on the Balance Sheet 
+## Exhibit 1.6 Statement of Cash Flows
 
-**==> picture [464 x 57] intentionally omitted <==**
+## Interpreting the Cash Flow Statement
 
-- Creditors and shareholders analyze assets to determine if the company has sufficient resources available to operate. _Assets can be sold for cash if the company goes out of business._ 
+Analyze operating cash flow to check the company’s ability to:
 
-- Creditors and shareholders are concerned about whether the company has sufficient sources of cash to pay its liabilities . 
+- Pay back bank debt
 
-- (debts) _If a company does not pay its creditors, the creditors can force the sale of assets._ 
+- Expand the company
 
-- Stockholders’ Equity is considered a protective “cushion” to creditors because the creditors’ claims legally come before those of the owners. _If the company goes out of business and its assets are sold, the creditors are paid back before the shareholders receive any money._ 
+- Distribute cash dividends to shareholders
 
-**==> picture [65 x 560] intentionally omitted <==**
+_The Operating Activities section is thought to be the most important because it indicates the company’s ability to generate cash from sales to meet its current cash needs._
 
-**1-14** 
+## Notes (or Footnotes)
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## “The notes are an integral part of these financial statements.”
 
-## Income Statement 
+Did you notice this sentence at the bottom of each financial statement?
 
-The **income statement** ( **statement of income, statement of earnings, statement of operations** ) reports the primary measure of performance of a business: revenues less expenses during the accounting period. 
+All financial statements should be accompanied by notes that provide the reader with supplemental information to help the reader better understand the financial statements.
 
-While the term profit is used widely, accountants prefer to use the technical terms **net income** or net earnings. 
+## Financial Statement Formatting Conventions
 
-**Expenses** Resources used to earn period’s revenues. 
+Include the monetary unit sign _($)_ beside the first dollar amount in a group of items and by group total
 
-**Revenues** 
+Assets are listed on the balance sheet by ease of conversion to cash. Liabilities are listed by the maturity (due date).
 
-Cash and promises received from delivery of goods and services. 
+Place a single underline below the last item in a group before a total or subtotal, and a double underline below the group totals.
 
-_Examples:_ Cost of Goods Sold Wages Expense Rent Expense Depreciation Expense Insurance Expense Repair Expense Income Tax Expense 
+## Exhibit 1.7
 
-_Examples:_ Sales Revenue Service Revenue Rental Revenue Interest Revenue 
+Summary of the Four Basic Financial
 
-**==> picture [65 x 560] intentionally omitted <==**
+Statements
 
-**1-15** 
+## Learning Objective 1-2
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- **1-2** Identify the role of generally accepted accounting principles (GAAP) in determining financial statement content and managers’, directors’, and auditors’ responsibilities for ensuring the accuracy of the financial statements.
 
-## The Income Statement Equation 
+## Generally Accepted Accounting Principles
 
-**==> picture [591 x 348] intentionally omitted <==**
+The rules that determine the content and measurement rules of the statements are called generally accepted accounting principles, or GAAP.
 
-**----- Start of picture text -----**<br>
-−<br>Revenues  Expenses = Net Income<br>Resources earned  Resources  Revenues earned<br>from delivery of  used  minus expenses<br>goods and  (incurred) to  incurred.<br>services earn period’s<br>revenue Also called “profit”,<br>“net earnings”, or<br>“the bottom line.”<br>**----- End of picture text -----**<br>
+## How are GAAP Principles Determined?
 
+Congress created the Securities and Exchange Commission (SEC) and gave it broad powers to determine measurement rules for financial statements for publicly traded companies.
 
-_If total expenses exceed total revenues, a net loss is reported._ 
+The SEC has worked closely with accountants and other interested parties to work out the detailed rules that become GAAP principles.
 
-**==> picture [65 x 560] intentionally omitted <==**
+Today, the Financial Accounting Standards Board (FASB) has the responsibility to formulate GAAP. The official pronouncements of the FASB are called the FASB Accounting Standards Codification.
 
-**1-16** 
+## What Concepts Guide the Setting of Accounting Standards?
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+The FASB relies on a **conceptual framework** to provide a structure for developing specific accounting standards.
 
-## Exhibit 1.3 Income Statement 
+Exhibit 1.8 Conceptual Framework for Financial Reporting
 
-**==> picture [696 x 460] intentionally omitted <==**
+## Why is GAAP Important to Managers and External Users?
 
-**1-17** 
+Companies incur the cost of preparing the financial statements and bear the major economic consequences of their publication, which include:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Effects on the selling price of a company’s stock.
 
-## Interpreting the Income Statement 
+- Effects on the amount of bonuses received by management and other employees.
 
-**==> picture [464 x 57] intentionally omitted <==**
+- Loss of competitive information to other companies.
 
-- Investors and creditors closely monitor a firm’s net income because it indicates the firm’s ability to sell goods and services for more than they cost to produce and deliver. 
+_Because of these and other concerns, changes in GAAP are actively debated, political lobbying often takes place, and final rules are a compromise among the wishes of interested parties._
 
-- Investors buy stock when they believe that future earnings will improve and lead to dividends and the ability to sell their stock for more than they paid. 
+## International Perspective
 
-- Lenders rely on future earnings to provide the resources to repay loans. The income statement helps investors and creditors estimate the company’s future earnings. 
+Financial accounting standards and disclosure requirements are adopted by national regulatory agencies.
 
-**==> picture [65 x 560] intentionally omitted <==**
+Since 2002, 147 jurisdictions have adopted **International Financial Reporting Standards (IFRS)** issued by the **International Accounting Standards Board (IASB).**
 
-**1-18** 
+Examples of jurisdictions requiring the use of IFRS:
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- European Union (Germany, France, the Netherlands, Belgium, Bulgaria, Poland, etc.) and United Kingdom
 
-## Statement of Stockholders’ Equity 
+- Australia and New Zealand
 
-The **Statement of Stockholders’ Equity** reports the change in each stockholders’ equity account during the period. 
+- Hong Kong (S.A.R. of China), Malaysia, and Republic of Korea
 
-**==> picture [266 x 257] intentionally omitted <==**
+- Israel and Turkey
 
-**Common Stock** Amounts invested in the business by stockholders. _Beginning Common Stock +    Stock Issuance Ending Common Stock_ 
+- Brazil and Chile
 
-**Retained Earnings** Past earnings not distributed to stockholders. _Beginning Retained Earnings +               Net Income_ **−** _Dividends Ending Retained Earnings_ 
+- Canada and Mexico
 
-**==> picture [267 x 119] intentionally omitted <==**
+In the U.S., the SEC now allows foreign companies whose stock is traded in the United States to use IFRS.
 
-**==> picture [65 x 560] intentionally omitted <==**
+## What if the Numbers Are Wrong? (1 of 2)
 
-**1-19** 
+Shortly after the issuance of the Le-Nature’s financial statements presented in this chapter in 2005 (yes, it happened in 2005, not 2023), borrowed $285 million from various lenders.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Le-Nature’s financial statements presented a picture of a growth company.
 
-## Exhibit 1.4 Statement of Stockholders’ Equity 
+- Reported revenues grew from $40 to $275 million (or nearly 600 percent) in just six years!
 
-**1-20** 
+- Reported net income rose by 2,400 percent in the same period!
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Clearly, Le-Nature’s looked like a good bet.
 
-## Interpreting Retained Earnings 
+**The truth about Le-Nature’s was revealed when several non-family-member stockholders suspected that all was not right and filed a lawsuit.**
 
-**==> picture [464 x 57] intentionally omitted <==**
+- Reported annual sales of $275 million were really about $32 million.
 
-- Reinvestment of or retained is an earnings, earnings, important 
+- Gregory Podlucky and his co-conspirators forged checks, invoices, and revenue and expense records to massively overstate revenues and profits.
 
-- source of financing for companies. 
+- The $10.6 million cash on the balance sheet turned out to be $1.8 million. The balance sheet also understated liabilities by $200 million.
 
-- Creditors closely monitor a firm’s statement of stockholders’ equity because the company’s policy on dividend payments affects its ability to repay its debts. 
+- The company was never a real success— **it was all fake** . Podlucky was borrowing more and more money and using it to pay off his earlier creditors (this is called a **Ponzi scheme** ). At the same time, he was stealing cash to support a lavish lifestyle.
 
-   - _Every dollar the company pays to stockholders as a dividend is not available for use in paying back its debt._ 
+## What if the Numbers Are Wrong? (2 of 2)
 
-- Investors examine retained earnings to determine whether the company is reinvesting a sufficient portion of earnings to support future growth. 
+**Consequences of the Le-Nature’s Case:**
 
-**==> picture [65 x 560] intentionally omitted <==**
+- and his seven were sentenced to a total of **73 in**
 
-**1-21** 
+- Podlucky co-conspirators **years**
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
 
-## Exhibit 1.5 
 
-## Relationship Among LeNature’s Statements 
+- **federal prison**
 
-**==> picture [730 x 209] intentionally omitted <==**
+- The auditors who missed the fraud agreed to pay $50 million to the creditors.
 
-**1-22** 
+- Wachovia Capital Markets, which marketed the loans, agreed to pay $80 million.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Little besides the jewelry and the Latrobe plant were left to satisfy Le-Nature’s over $800 million in debts.
 
-## Statement of Cash Flows (1 of 2) 
+- Nonfamily stockholders lost all of their money.
 
-**==> picture [193 x 153] intentionally omitted <==**
+- Over 240 plant workers lost their jobs and the town of Latrobe, Pennsylvania suffered a severe economic blow!
 
-**==> picture [409 x 215] intentionally omitted <==**
+## Ethical Conduct
 
-**----- Start of picture text -----**<br>
-+/− Cash Flows from Opera�ng Ac�vi�es (CFO)<br>+/− Cash Flows from Inves�ng Ac�vi�es (CFI)<br>+/− Cash Flows from Financing Ac�vi�es (CFF)<br>Change in Cash<br>+     Beginning Cash Balance<br>Ending Cash Balance<br>**----- End of picture text -----**<br>
+Ethics are standards of conduct for judging right from wrong, honest from dishonest, and fair from unfair.
 
+**Intentional misreporting of financial statements is unethical and illegal.** However, many situations are less clear-cut and required individuals to weigh one moral principal (e.g., honesty) against another (e.g., loyalty to a friend).
 
-**==> picture [469 x 80] intentionally omitted <==**
+Three-Step Process for Making Ethical Decisions
 
-**----- Start of picture text -----**<br>
-Note that each of the three cash flow<br>sources can be positive (net cash inflow)<br>/<br>or negative (net cash outflow)<br>**----- End of picture text -----**<br>
+1. Identify the benefits of a decision (often to the manager or employee involved) and who will be harmed (other employees, owners, creditors, the environment).
 
+2. Identify alternative courses of action.
 
-**==> picture [65 x 560] intentionally omitted <==**
+3. Choose the one you would like your family and friends to see reported on your local news. That is usually the ethical choice.
 
-**1-23** 
+## Responsibility and the Need for Controls
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+Companies should take three important steps to assure investors that the company’s records are accurate:
 
-**==> picture [65 x 560] intentionally omitted <==**
+**1. Maintain a system of internal controls over the records and assets of the company.**
 
-## Statement of Cash Flows (2 of 2) 
+**2. Hire external independent auditors to audit the fairness of the financial statements.**
 
-Cash Flows from Operating Activities 
+**3. Form a committee of the board of directors to oversee the integrity of these other safeguards.**
 
-Elements of the Statement of Cash Flows 
+## Supplement A: Types of Business Entities
 
-_Cash flows directly related to earning income, such as cash collected from customers less cash paid for operating expenses, such as cash paid to suppliers and employees._ 
+**Sole Proprietorship**: unincorporated business owned by a single individual **Partnership:** unincorporated business owned by two or more individuals **Corporation:** business incorporated under the laws of a particular state. Owners are called stockholders or shareholders. Ownership is represented by shares of stock that can be bought and sold freely and operates separately from its owners. ^i1ezx6
+*(See also: [[BLAB ACC SHEET CHAPTER 1#^y0h6ja]])*
 
-Cash Flows from Investing Activities _Cash flows related to acquisition or sale of the company’s plant and equipment and investments._ 
+## Advantages of a Corporation
 
-Cash Flows from Financing Activities 
+- Stockholders have limited liability (they are only liable for debts to the extent of their investments).
 
-_Cash flows directly related to the financing of the enterprise, such as the receipt or payment of money to investors and creditors (except suppliers)_ 
+- Continuity of life of the company.
 
-_The Statement of Cash Flows reports inflows and outflows of cash during the accounting period._ 
+- Ease in transferring ownership.
 
-**1-24** 
+- Opportunity to raise large amounts of money by selling shares of stock to a large number of people.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+## Disadvantages of a Corporation
 
-## Exhibit 1.6 Statement of Cash Flows 
+- Maybe subject to double taxation (income taxed when earned and again when distributed to stockholders as dividends)
 
-**1-25** 
+- Stockholders elect the board of directors who hire managers and supervise the corporation.
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Limited liability companies (LLCs) and limited liability partnerships (LLPs) have many characteristics similar to corporations.
 
-## Interpreting the Cash Flow Statement 
+## Supplement B: Employment in the Accounting Profession Today
 
-**==> picture [464 x 57] intentionally omitted <==**
+## Practice of Public Accounting
 
-Analyze operating cash flow to check the company’s ability to: 
+- Audit or Assurance Services
 
-- Pay back bank debt 
+- Management consulting or advisory services
 
- Expand the company 
+- Tax planning, consulting, and preparation services
 
- Distribute cash dividends to shareholders 
+- Licensed CPAs (certified public accountant) are licensed by each state.
 
-_The Operating Activities section is thought to be the most important because it indicates the company’s ability to generate cash from sales to meet its current cash needs._ 
+- The requirements vary by state but usually require a college degree, 150 credit hours, good character, professional experience, and successful completion of the CPA professional exam.
 
-**==> picture [65 x 560] intentionally omitted <==**
+- **Accountants are also employed by various organizations including:** - Businesses: Management, cost accounting, profit planning, information systems management, internal auditing, external reporting, tax planning, and more.
 
-**1-26** 
+- Not-for-Profit hospitals and universities
 
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
+- Government agencies such as the SEC, GAO, and FCC
 
-## Notes (or Footnotes) 
-
-## _**“The notes are an integral part of these financial statements.”**_ 
-
-Did you notice this sentence at the bottom of each financial statement? 
-
-All financial statements should be accompanied by notes that provide the reader with supplemental information to help the reader better understand the financial statements. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-27** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Financial Statement Formatting Conventions 
-
-Include the monetary unit sign _($)_ beside the first dollar amount in a group of items and by group total 
-
-Assets are listed on the balance sheet by ease of conversion to cash. Liabilities are listed by the maturity (due date). 
-
-Place a single underline below the last item in a group before a total or subtotal, and a double underline below the group totals. 
-
-**==> picture [334 x 486] intentionally omitted <==**
-
-**1-28** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Exhibit 1.7 
-
-Summary of the Four Basic Financial 
-
-Statements 
-
-**==> picture [560 x 555] intentionally omitted <==**
-
-**1-29** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Learning Objective 1-2 
-
-- **1-2** Identify the role of generally accepted accounting principles (GAAP) in determining financial statement content and managers’, directors’, and auditors’ responsibilities for ensuring the accuracy of the financial statements. 
-
-**1-30** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Generally Accepted Accounting Principles 
-
-The rules that determine the content and measurement rules of the statements are called generally accepted accounting principles, or GAAP. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-31** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## How are GAAP Principles Determined? 
-
-Congress created the Securities and Exchange Commission (SEC) and gave it broad powers to determine measurement rules for financial statements for publicly traded companies. 
-
-**==> picture [45 x 62] intentionally omitted <==**
-
-The SEC has worked closely with accountants and other interested parties to work out the detailed rules that become GAAP principles. 
-
-**==> picture [45 x 62] intentionally omitted <==**
-
-Today, the Financial Accounting Standards Board (FASB) has the responsibility to formulate GAAP. The official pronouncements of the FASB are called the FASB Accounting Standards Codification. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-32** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## What Concepts Guide the Setting of Accounting Standards? 
-
-The FASB relies on a **conceptual framework** to provide a structure for developing specific accounting standards. 
-
-Exhibit 1.8 Conceptual Framework for Financial Reporting 
-
-**==> picture [623 x 143] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-33** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Why is GAAP Important to Managers and External Users? 
-
-Companies incur the cost of preparing the financial statements and bear the major economic consequences of their publication, which include: 
-
-- Effects on the selling price of a company’s stock. 
-
- Effects on the amount of bonuses received by management and other employees. 
-
- Loss of competitive information to other companies. 
-
-_Because of these and other concerns, changes in GAAP are actively debated, political lobbying often takes place, and final rules are a compromise among the wishes of interested parties._ 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-34** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## International Perspective 
-
-Financial accounting standards and disclosure requirements are adopted by national regulatory agencies. 
-
-Since 2002, 147 jurisdictions have adopted **International Financial Reporting Standards (IFRS)** issued by the **International Accounting Standards Board (IASB).** 
-
-Examples of jurisdictions requiring the use of IFRS: 
-
-- European Union (Germany, France, the Netherlands, Belgium, Bulgaria, Poland, etc.) and United Kingdom 
-
-- Australia and New Zealand 
-
-- Hong Kong (S.A.R. of China), Malaysia, and Republic of Korea 
-
-- Israel and Turkey 
-
-- Brazil and Chile 
-
-- Canada and Mexico 
-
-In the U.S., the SEC now allows foreign companies whose stock is traded in the United States to use IFRS. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-35** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## What if the Numbers Are Wrong? (1 of 2) 
-
-Shortly after the issuance of the Le-Nature’s financial statements presented in this chapter in 2005 (yes, it happened in 2005, not 2023), borrowed $285 million from various lenders. 
-
-- Le-Nature’s financial statements presented a picture of a growth company. 
-
-- Reported revenues grew from $40 to $275 million (or nearly 600 percent) in just six years! 
-
-- Reported net income rose by 2,400 percent in the same period! 
-
-- Clearly, Le-Nature’s looked like a good bet. 
-
-**The truth about Le-Nature’s was revealed when several non-family-member stockholders suspected that all was not right and filed a lawsuit.** 
-
-- Reported annual sales of $275 million were really about $32 million. 
-
-- Gregory Podlucky and his co-conspirators forged checks, invoices, and revenue and expense records to massively overstate revenues and profits. 
-
-- The $10.6 million cash on the balance sheet turned out to be $1.8 million. The balance sheet also understated liabilities by $200 million. 
-
-- The company was never a real success— **it was all fake** . Podlucky was borrowing more and more money and using it to pay off his earlier creditors (this is called a **Ponzi scheme** ). At the same time, he was stealing cash to support a lavish lifestyle. 
-
-**1-36** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## What if the Numbers Are Wrong? (2 of 2) 
-
-**Consequences of the Le-Nature’s Case:** 
-
-- and his seven were sentenced to a total of **73 in** 
-
-- Podlucky co-conspirators **years** 
-
-   - . 
-
-   - **federal prison** 
-
-- The auditors who missed the fraud agreed to pay $50 million to the creditors. 
-
-- Wachovia Capital Markets, which marketed the loans, agreed to pay $80 million. 
-
-- Little besides the jewelry and the Latrobe plant were left to satisfy Le-Nature’s over $800 million in debts. 
-
-      - Nonfamily stockholders lost all of their money. 
-
-      - Over 240 plant workers lost their jobs and the town of Latrobe, Pennsylvania suffered a severe economic blow! 
-
-**1-37** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Ethical Conduct 
-
-Ethics are standards of conduct for judging right from wrong, honest from dishonest, and fair from unfair. 
-
-**Intentional misreporting of financial statements is unethical and illegal.** However, many situations are less clear-cut and required individuals to weigh one moral principal (e.g., honesty) against another (e.g., loyalty to a friend). 
-
-Three-Step Process for Making Ethical Decisions 
-
-1. Identify the benefits of a decision (often to the manager or employee involved) and who will be harmed (other employees, owners, creditors, the environment). 
-
-2. Identify alternative courses of action. 
-
-3. Choose the one you would like your family and friends to see reported on your local news. That is usually the ethical choice. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-38** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Responsibility and the Need for Controls 
-
-Companies should take three important steps to assure investors that the company’s records are accurate: 
-
-**1. Maintain a system of internal controls over the records and assets of the company.** 
-
-**2. Hire external independent auditors to audit the fairness of the financial statements.** 
-
-**3. Form a committee of the board of directors to oversee the integrity of these other safeguards.** 
-
-**==> picture [545 x 283] intentionally omitted <==**
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-39** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Supplement A: Types of Business Entities 
-
-**Sole Proprietorship** : unincorporated business owned by a single individual **Partnership:** unincorporated business owned by two or more individuals **Corporation:** business incorporated under the laws of a particular state. Owners are called stockholders or shareholders. Ownership is represented by shares of stock that can be bought and sold freely and operates separately from its owners. 
-
-## **Advantages of a Corporation** 
-
-- Stockholders have limited liability (they are only liable for debts to the extent of their investments). 
-
-- Continuity of life of the company. 
-
-- Ease in transferring ownership. 
-
-- Opportunity to raise large amounts of money by selling shares of stock to a large number of people. 
-
-## **Disadvantages of a Corporation** 
-
-- Maybe subject to double taxation (income taxed when earned and again when distributed to stockholders as dividends) 
-
-- Stockholders elect the board of directors who hire managers and supervise the corporation. 
-
-- Limited liability companies (LLCs) and limited liability partnerships (LLPs) have many characteristics similar to corporations. 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-40** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
-## Supplement B: Employment in the Accounting Profession Today 
-
-## **Practice of Public Accounting** 
-
-- Audit or Assurance Services 
-
-- Management consulting or advisory services 
-
-- Tax planning, consulting, and preparation services 
-
-- Licensed CPAs (certified public accountant) are licensed by each state. 
-
-- The requirements vary by state but usually require a college degree, 150 credit hours, good character, professional experience, and successful completion of the CPA professional exam. 
-
-- **Accountants are also employed by various organizations including:**  Businesses: Management, cost accounting, profit planning, information systems management, internal auditing, external reporting, tax planning, and more. 
-
-- Not-for-Profit hospitals and universities 
-
-- Government agencies such as the SEC, GAO, and FCC 
-
-**==> picture [65 x 560] intentionally omitted <==**
-
-**1-41** 
-
-_© McGraw Hill LLC. All rights reserved. No reproduction or distribution without the prior written consent of McGraw Hill LLC._ 
-
+## Related Notes
+- [[BLAB ACC SHEET CHAPTER 1]]
+- [[Accounting 1 Blab Handout 2024-2025 A.Y.]]
+- [[Libby_12e_Chap012_PPT print]]

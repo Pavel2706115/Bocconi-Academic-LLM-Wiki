@@ -1,48 +1,66 @@
-## **Extra exercises of Lecture 17** 
+---
+course: "Financial Markets and Institutions"
+course_code: "30006"
+tags:
+  - "source"
+  - course_30006
+Title: "Lect17_exercises"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
+  - "source"
+---
 
-## **EX 1** 
+## Extra exercises of Lecture 17
 
-- If an investor exits from a closed-end mutual fund, by selling its shares to others, he/she obtains: 
+## EX 1
 
-- a) the book value of his/her shares 
+- If an investor exits from a closed-end mutual fund, by selling its shares to others, he/she obtains:
 
-- b) the market price of his/her shares 
+- a) the book value of his/her shares
 
-- c) the liquidation value of the fund’s assets 
+- b) the market price of his/her shares
 
-- d) none of the other options 
+- c) the liquidation value of the fund’s assets
 
-## **EX 2** 
+- d) none of the other options
 
-Compared to mutual funds, hedge funds are … 
+## EX 2
 
-- a) more heavily regulated to contain the gambling of wealthy investors 
+Compared to mutual funds, hedge funds are …
 
-- b) less heavily regulated to protect their financially less sophisticated investors 
+- a) more heavily regulated to contain the gambling of wealthy investors
 
-- c) less heavily regulated since their wealthy investors are presumed to be more financially sophisticated 
+- b) less heavily regulated to protect their financially less sophisticated investors
 
-- d) more heavily to have lower fees 
+- c) less heavily regulated since their wealthy investors are presumed to be more financially sophisticated
 
-## **EX 3** 
+- d) more heavily to have lower fees
 
-Consider an open-end mutual fund with the following assets: 250 shares of Microsoft, 100 shares of Apple, and 30 shares of General Motors. Market prices of these shares are $50, $100, and $30, respectively. The fund has also $2,100 of cash and 500 shares outstanding. How many shares of the mutual fund do you receive if you invest $5,100 into this fund (proxy decimals to units)? Assume that the fund charges no fees. 
+## EX 3
 
-- a) 100 
+Consider an open-end mutual fund with the following assets: 250 shares of Microsoft, 100 shares of Apple, and 30 shares of General Motors. Market prices of these shares are $50, $100, and $30, respectively. The fund has also $2,100 of cash and 500 shares outstanding. How many shares of the mutual fund do you receive if you invest $5,100 into this fund (proxy decimals to units)? Assume that the fund charges no fees. ^sh46tf
 
-- b) 200 
+- a) 100
 
-- c) 275 d) 226 
+- b) 200
 
-## **EX 4** 
+- c) 275 d) 226
 
-An open-end mutual fund has the following assets: 200 shares of Mickey Mouse, 100 shares of Donald Duck, and 300 shares of Uncle Scrooge. The current market prices of these shares are $2, $2, and $2, respectively. Apart from stocks, the fund has $150 of cash and $180 of liabilities. The fund has 600 shares outstanding.  If the fund charges a 4.9% upfront fee, how many mutual fund shares do you receive if you invest $205 into this fund? 
+## EX 4
 
-- a) 250 
+An open-end mutual fund has the following assets: 200 shares of Mickey Mouse, 100 shares of Donald Duck, and 300 shares of Uncle Scrooge. The current market prices of these shares are $2, $2, and $2, respectively. Apart from stocks, the fund has $150 of cash and $180 of liabilities. The fund has 600 shares outstanding.  If the fund charges a 4.9% upfront fee, how many mutual fund shares do you receive if you invest $205 into this fund?
+*(See also: [[Lect17#^akjjj9]])*
 
-- b) 371 
+- a) 250
 
-- c) it cannot be determined with available data 
+- b) 371
 
-- d) 100 
+- c) it cannot be determined with available data
 
+- d) 100
+
+## Related Notes
+- [[Lect17]]
+- [[Lect16_exercises]]
+- [[Lect18_exercises]]
