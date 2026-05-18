@@ -1,22 +1,93 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Raw/Sources/30017 CORPORATE FINANCE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30001 STATISTICS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30060 MANAGEMENT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30264 PUBLIC FINANCE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30264 PUBLIC FINANCE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30692 FINANCIAL ACCOUNTING - MODULE 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Raw/Sources/30693 FINANCIAL ACCOUNTING - MODULE 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12267
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.188149688149688,
   "repelStrength": 20,
-  "linkStrength": 0,
+  "linkStrength": 0.221413721413721,
   "linkDistance": 30,
-  "scale": 0.2871081831129998,
+  "scale": 0.017186588188972268,
   "close": false
 }
