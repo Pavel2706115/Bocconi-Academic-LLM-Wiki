@@ -10,429 +10,671 @@ Created: 2026-05-18
 Processed: true
   - "source"
 ---
+## Topic 1: Introduction & Macro Overview
+
+### Slide 1: Public Finance
+
+**1) Slide elements:**
+
+- **Title:** Public Finance
+    
+- **Text:** * BIEM - Spring 2026
+    
+    - Introduction to Taxes
+        
+
+### Slide 2: Why study taxation?
+
+**1) Slide elements:**
 
-# Public Finance BIEM – Spring 2026 Taxation (Ch. 18)
-
-## Taxation in this course
-
-18.1 Types of Taxation
-
-18.3 Measuring the Fairness of Tax Systems
-
-- 18.4 Defining the Income Tax Base
-
-18.5 Externality/Public Goods Rationales for Deviating from Haig-Simons
-
-- 18.6 The Appropriate Unit of Taxation
-
-Basic concepts of taxation
-
-## Tax progressivity: definitions
-
-- A tax is proportional if the average tax rate does not change with the tax base: all taxpayers pay the same proportion of their income in taxes
-
-- A tax is progressive if the average tax rate increases when the tax base increases: higher marginal tax rates are applied to higher tax bases (MTR>ATR)
-
-- A tax is regressive if the average tax rate decrases when the tax base increases
-
-## Tax progressivity
-
-# How to reach progressivity in income taxation: tax brackets
-
-## Comments on progressivity
-
-- Tax brackets, deductions and tax credits are typically all present,but one instrument is enough to reach progressivity
-
-- There is a trend in reduction of the number of tax brackets:
-
-- Average number in OECD countries: 14 (1980), 6 (1990), 5(2000)
-
-- The top marginal tax rate is an important measure
-
-## Taxation across income levels
-
-Tax systems typically apply higher average tax rates at higher income levels
-
-Progressivity reflects:
-
-- graduated income tax schedules
-
-- social security contribution caps
-
-- tax credits and allowances at low incomes
-
-## As a result:
-
-- redistribution is mainly driven by average tax rates
-
-- behavioral responses depend on marginal tax rates
-
-- The degree of progressivity varies substantially across OECD countries
-
-Source: OECD (2024), _Taxing Wages_
-
-## Maximum tax rate, personal income tax, OECD countries
-
-## Maximum tax rate, personal income tax, OECD countries
-
-## 2022
-
-60.00 50.00 40.00 30.00 20.00 10.00 0.00
-
-## Tax progressivity
-
-- Direct taxes are typically progressive
-
-- However: taxes on labour income are progressive, while taxes on capital income are typically not progressive and they are low
-
-- Indirect taxes (consumption) may be even regressive
-
-- Contributions are typically proportional (although floors and ceilings on taxable earnings often apply)
-
-## Measuring the Fairness of Tax Systems 1
-
-## Two key features of any tax system:
-
-- Marginal tax rate: The percentage of the next dollar of taxable income that is paid in taxes.
-
-- In the US, the marginal tax rate rises with income, from 10% to 37%.
-
-- Average tax rate: The percentage of gross income that is paid in taxes:
-
-𝑇𝑜𝑡𝑎𝑙𝑇𝑎𝑥𝑃𝑎𝑦𝑚𝑒𝑛𝑡𝑠
-
-𝑇𝑜𝑡𝑎𝑙𝐼𝑛𝑐𝑜𝑚𝑒
-
-## Measuring the Fairness of Tax Systems 2
-
-**Example:** Ranya has
-
-Gross income =$200,000 Taxable income =$180,000 Total Tax Bill = (19,750 \times 0.1)+(60,500 \times 0.12)+(90,800 \times 0.22)+(8,950 \times 0.2 4) = $31,359
-
-Her **marginal tax rate** is 24%
-
-Her **average tax rate** is
-
-𝑇𝑜𝑡𝑎𝑙𝑇𝑎𝑥𝑃𝑎𝑦𝑚𝑒𝑛𝑡𝑠 31,359 = 𝑇𝑜𝑡𝑎𝑙𝐼𝑛𝑐𝑜𝑚𝑒 200,000(=15.7%)
-
-## Vertical and Horizontal Equity 1
-
-Two distributional goals are considered in measuring tax fairness:
-
-- **Vertical equity:** The principle that groups with more resources should pay higher taxes than groups with fewer resources.
-
-- **Horizontal equity:** The principle that similar individuals who make different economic choices should be treated similarly by the tax system.
-
-## Vertical and Horizontal Equity 2
-
-## Extreme example for the horizontal equity:
-
-- State 1 sets a sales tax of 5% on all goods.
-
-- State 2 implements a system whereby whenever you make a purchase, the cashier flips a coin, and you pay no sales tax if it is heads and a 10% sales tax if it is tails.
-
-State 2’s system will raise the same amount of money as State 1’s system on average. However, it is much less horizontally equitable because two identical individuals could end up paying very different taxes.
-
-## Measuring Vertical Equity
-
-## Vertical equity likely requires progressive taxation.
-
-- **Progressive:** Tax systems in which effective average tax rates rise with income.
-
-- _Example: i_ ndividuals pay 10% of their income in tax at an income of $10,000, but they pay 30% of their income in tax at an income of $100,000.
-
-- **Proportional:** Tax systems in which effective average tax rates do not change with income so that all taxpayers pay the same proportion of their income in taxes.
-
-- _Example:_ individuals pay 15% of their income in taxes regardless of whether they earn $10,000 or $100,000.
-
-- **Regressive:** Tax systems in which effective average tax rates fall with income.
-
-- _Example:_ individuals pay 15% of their income in tax at an income of $10,000, but pay only 10% of their income in tax at an income of $100,000.
-
-## Defining the Income Tax Base: The Haig–Simons Comprehensive Income Definition
-
-## What kind of income should be taxed?
-
-- Haig–Simons comprehensive income definition: Defines taxable resources as the change in an individual’s power to consume during the year.
-
-- Potential annual consumption: Total consumption during the year, plus any increases in wealth.
-
-- Difficulties:
-
-- Defining power to consume/ability to pay
-
-- Nonconsumption expenditures
-
-## Defining the Income Tax Base: Deviations
-
-Haig–Simons promotes horizontal equity by treating all income equally.
-
-- One reason for deviation is to account for expenses not associated with desired consumption.
-
-- Deductions for property and casualty losses
-
-- Deduction for medical expenditures
-
-- Deduction for state and local tax payments
-
-- Another reason for deviation is that some expenditures are not for consumption but rather reflect the cost of earning a living.
-
-- Legitimate costs of doing business should be deducted from income.
-
-- Difficulties arise in defining “legitimate.”
-
-## Externality/Public Goods Rationales for Deviating from Haig– Simons: Charitable Giving
-
-One reason to deviate from Haig–Simons is to **correct externalities** .
-
-- Example: Charitable giving likely underprovided. People may give to homeless shelters because of the tax break, but these would be underfunded otherwise. Alternatively, the government could provide homeless shelters. Why not do so?
-
-- If the government subsidizes homeless shelters, the amount of private charitable giving to those shelters would most likely fall ( **crowd-out** ).
-
-- When the government tax subsidizes charitable giving, it may “ **crowd in** ,” or increase, private contributions.
-
-## Marginal Versus Inframarginal Effects of TaxSubsidies
-
-Tax breaks have marginal and inframarginal effects.
-
-**Marginal impacts:** Changes in behavior the government hopes to encourage through a given tax incentive.
-
-**Inframarginal impacts:** Tax breaks the government gives to those whose behavior is not changed by new tax policy.
-
-## Effects of Tax Subsidies Versus Direct Spending
-
-- Mathematically, the _government should use a tax break instead of direct spending if:_ the increase in charity per $ of tax break > 1
-
-It implies reduction in charity per $ of government spending.
-
-- If this holds, then giving more of a tax break and reducing government spending increases charitable giving
-
-- Several studies have concluded that for each 1% fall in the price of charitable giving, the amount of giving rises by1%.
-
-## Consumer Sovereignty Versus Imperfect Information
-
-- Direct government provision imposes preferences about how funds are spent.
-
-- Tax subsidies to private individuals respects the preferences of citizens.
-
-- But the private sector may not have the appropriate mechanisms in place to ensure efficient distribution of charitable spending.
-
-- Most individuals do little research before donating.
-
-- This approach has the potential to lead to gifts that don’t provide much benefit to the intended target.
-
-## Taxation of households and families
-
-- The unit of taxation matters
-
-- Tax liabilities depend on:
-
-- marital status
-
-- number of earners
-
-- presence of children
-
-- Many systems implicitly favor:
-
-- single-earner couples
-
-- households with one main earner
-
-- Family taxation shapes work incentives within the household
-
-Source: OECD (2023), _Taxing Wages,_ OECD (2022), _Tax Policy Reforms_
-
-## The appropriate Unit of Taxation
-
-- How should the government choose the appropriate unit of taxation?
-
-- Should taxes be levied on total family income or just on the incomes of individuals?
-
-- We might like a tax system to satisfy three principles:
-
-- Progressivity
-
-- Across-Family Horizontal Equity
-
-- Across-Marriage Horizontal Equity
-
-- It is impossible to achieve all three goals at once
-
-## The Problem of the “Marriage Tax” 1
-
-- Any tax system that tries to achieve horizontal equity and progressivity has a marriage tax for some people.
-
-- Marriage tax: A rise in the joint tax burden on two individuals from becoming married.
-
-- Progressivity, with taxes applied to individual income, means that two couples with different earnings distributions have different tax burdens.
-
-- Taxing family incomes leads to a marriage tax.
-
-## The Problem of the Marriage Tax 2
-
-## Consider a tax system with:
-
-- 10% tax rate on income up to $20,000
-
-- 20% marginal rate up to $80,000
-
-- 30% marginal rate on any income above $80,000
-
-Consider two couples:
-
-**Individual Income Yasmin** 140,000 **Doug** 10,000 **Jan** 75,000 **Elena** 75,000
-
-## The Problem of the Marriage Tax 3
-
-**Total tax liability Yasmin=** 10% × $20,000 + 20% × ($80,000 − $20,000) + 30% × ($140,000 − $80,000) = $32,000
-
-**Total tax liability Doug=** 10% × $10,000=$1,000
-
-**Total tax liability Jan =** 10% × $20,000 + 20% × ($75,000 − $20,000) = $13,000 **Total tax liability Elena=** 10% × $20,000 + 20% × ($75,000 − $20,000) = $13,000
-
-## The Problem of the Marriage Tax 4
-
-**Total tax liability Family=** 10% × $20,000 + 20% × ($80,000 − $20,000) + 30% × ($150,000 − $80,000) = $35,000
-
-|Table 18-3|Table 18-3|Table 18-3|Table 18-3|Table 18-3|Table 18-3|
-|---|---|---|---|---|---|
-|**IndividualFamily Income**|
-|**Yasmin** **Doug**|140,000 10,000|150,000|32,000 1,000|33,000|35,000|
-|**Jan** **Elena**|75,000 75,000|150,000|13,000 13,000|26,000|35,000|
-
-A progressive tax system based on total family income imposes a **marriage tax** on both couples, as they both pay more in taxes as married couples than they would as singles. The ideal tax system would not distort the decision to become married
-
-## Marriage Taxes in Practice - Why We Care
-
-- Families with equal incomes are not paying equal taxes. There is no set of deductions that would make the system of family-based taxation marriage neutral rather than providing subsidies to some marriages and taxing others.
-
-- Society might actually want to encourage marriage, not discourage it through marriage taxes.
-
-- A high marginal tax rate on secondary earners could reduce the labor supply of secondary earners.
-
-## Additional implication of joint taxation
-
-- In a progressive tax system with joint taxation, the income of the secondary earner is taxed at the household’s marginal tax rate
-
-- This can reduce labor supply incentives for secondary earners
-
-- Example: Suppose the tax rate is 20% up to €50,000 and 40% above €50,000. If one spouse earns €60000, the household already faces the 40% marginal tax rate.
-
-If the second spouse takes a job earning €20,000, that income may be taxed at 40%, reducing the net gain from working.
-
-## Marginal Tax Wedge Decomposition in Italy, 2022
-
-The marginal tax wedge shows how much of an extra euro of labour cost is lost to taxes and contributions rather than received as net pay; in Italy it is high and highly non-linear, with sharp spikes driven by tax, contribution, and benefit changes that distort work incentives at specific thresholds. Source: OECD Taxing wedges, 2023
-*(See also: [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)#^52tvkx]])*
-
-## Conclusion
-
-- There are different types of taxes, which can be sorted into four broad categories: taxes on individual income, taxes on corporate income, taxes on wealth and taxes on consumption
-
-- Measuring the fairness or equity of the income tax is difficult and involves considerations such as how to measure tax rates and how to define equity
-
-- The ideal tax system would not distort the decision to become married
-
-## Exercises
-
-## MC 1
-
-Which statement describes a progressive tax on income?
-
-a)Average tax rates increase with income
-
-b)Marginal tax rate is larger than average tax rate
-
-c)The share of income paid into taxes increases when the income increases
-
-d)All answers are correct
-
-## MC 2
-
-According to the Haig–Simons definition, taxable income should include:
-
-a) Only labor income
-
-b) Only realized income
-
-c) Consumption plus saving
-
-d) Consumption minus saving
-
-## MC 3
-
-Why do most real-world tax systems deviate from the Haig– Simons income base?
-
-a) Because it is too progressive
-
-b) Because it discourages labor supply
-
-c) Because it is difficult to measure and administer
-
-d) Because it raises too little revenue
-
-## MC 4
-
-Horizontal equity requires that:
-
-a)High-income individuals pay higher average tax rates b)Individuals with different abilities pay different taxes c)Individuals with the same ability to pay are treated equally d)Tax burdens depend only on efficiency considerations
-
-## MC 5
-
-Why can joint taxation of married couples generate a marriage tax or bonus?
-
-a) Because married couples always pay higher taxes b) Because marginal tax rates are lower for singles c) Because tax liabilities depend on household income only d) Because tax liabilities depend on how income is split within the household
-
-## True/False (please provide a justification)
-
-- 1) Typically, taxes on income are progressive.
-
-2) A tax system with a constant (flat) statutory tax rate can still be progressive if there are deductions or allowances.
-
-- 3) Joint taxation can discourage labor supply of secondary earners.
-
-## Exercises
-
-## EXERCISE 1
-
-Consider the following tax schedule:
-
-- Income up to €20000: 10%
-
-- Income between €20000 and €50000: 30%
-
-- Income above €50000: 40%
-
-Questions:
-
-- Compute total tax paid by an individual earning €60000.
-
-- Compute the average tax rate.
-
-- Identify the marginal tax rate and explain its relevance for behavior.
-
-## Exercises
-
-## EXERCISE 2
-
-An individual has the following economic situation in a given year:
-
-- Labor income: €40000
-
-- Interest income: €2000
-
-- Increase in asset values (unrealized capital gains): €6000
-
-- Consumption expenditure: €35000
-
-Questions:
-
-- Compute taxable income under a Haig–Simons income tax.
-
-- Compute the tax base under a consumption tax.
-
-- Explain why the two tax bases differ.
+- **Text:** Taxes are economically large. In advanced economies, taxes finance a substantial share of public sharing. Tax revenue typically amounts to 30-45% of GDP. Italy is above the OECD average, but so are many European countries.
+    
+
+**2) Explanation of content:**
+
+- **Text explanation:** The slide sets the stage for why taxation matters macro economically. It states that taxes make up a massive portion of a country's total economic output in advanced economies to fund public goods. It specifically highlights Italy's position as a high-tax country compared to the OECD average, grouping it with other European nations.
+    
+
+### Slide 3: Trends in tax-to-GDP ratios, 1965-2023 (% of GDP)
+
+**1) Slide elements:**
+
+- **Visuals:** Line chart titled "Trends in tax-to-GDP ratios, 1965-2023 (% of GDP)"
+    
+- **Y-axis:** Tax revenue (% of GDP), ranging from 0 to 50
+    
+- **X-axis:** Year, showing decades from 1970 to 2020
+    
+- **Legend:** Lines representing France, Italy, UK, US and the OECD average
+    
+- _Note: [Pasted image 20260503110607.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** The chart tracks how much of a country's GDP is collected as tax over nearly 60 years. France and Italy show steady, significant climb, with France peaking near 45% and Italy around 42% by the 2020s. The UK and the OECD average cluster tightly together around 33-35%. The US remains consistently the lowest among this group, hovering largely between 25% and 28%.
+    
+- **Key takeaways from visuals:**
+    
+    - Tax burdens have generally grown across the board since 1965.
+        
+    - France and Italy are structurally higher-tax economies compared to the US and UK.
+        
+    - Italy's tax burden grew most aggressively between 1980 and 2000.
+        
+
+### Slide 4: Tax revenue across countries
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Large cross-country differences
+        
+    - Tax-to GDP ratios vary widely across OECD countries
+        
+    - Reflect different:
+        
+        - Welfare state models (Like we studied in Law 2 or Econ History)
+            
+        - Social insurance systems (L6_Social Insurance.pdf)
+            
+        - Political choices
+            
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide explains why the gaps seen on the previous chart exist. The variance in tax-to-GDP ratios isn't random; it reflects a nation's underlying philosophy regarding the size and scope of its government. High taxes usually mean expensive welfare states, and heavier social insurance needs require higher tax-to-GDP ratios to fund them.
+    
+
+### Slide 5: Tax-to-GDP ratios in 2023 and 2024 (as % of GDP)
+
+**1) Slide elements:**
+
+- **Visuals:** Bar chart showing "Slide 5: Tax-to-GDP ratios in 2023 and 2024 (as % of GDP)"
+    
+- **Y-axis:** %, ranging from 0 to 50
+    
+- **X-axis:** Country codes (DNK, FRA, FIN, ..., MEX)
+    
+- **Legend:** Blue bars represent 2023 data, empty circle markers represent 2024 data
+    
+- **Callouts:** A prominent red rectangular box highlights Italy (ITA) and Luxembourg (LUX). The OECD average bar is colored orange.
+    
+- _Note: [Pasted image 20260503110547.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** The chart ranks OECD countries from highest to lowest tax burden for the years 2023 and 2024. Denmark (DNK) and France (FRA) are at the top (above 40%), while Mexico (MEX) is at the bottom (below 20%). The OECD average sits around 34%.
+    
+- **Key takeaways from visuals:**
+    
+    - Italy (highlighted) is near the top of the distribution, significantly above the OECD average, with a ratio of around 42%.
+        
+    - The 2024 estimates (circles) show minor fluctuations from 2023, but the overall country rankings remain stable.
+        
+
+**3) What this slide is really saying:**
+
+> This cross-sectional view proves that Italy is one of the more heavily taxed nations in the OECD, ranking it near the top tier alongside Nordic countries and France. It visually reinforces the wide spread between high-tax and low-tax developed nations.
+
+## Topic 2: Taxation Typologies & Structures
+
+### Slide 6: Types of Taxation (I)
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - **Taxes on Earnings**
+        
+        - Payroll tax: A tax levied on income earned on one's job
+            
+    - **Taxes on Individual Income**
+        
+        - Individual income tax: A tax paid on individual income accrued during the year
+            
+        - Capital gains: Earnings from selling capital assets, such as stocks, paintings, and houses
+            
+    - **Taxes on Corporate Income**
+        
+        - Corporate income tax: Tax levied on the earnings of corporations
+            
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide introduces fundamental tax classifications, focusing on direct taxes on income and earnings. It distinguishes between payroll taxes (tied specifically to wage employment), individual income taxes (broader income), capital gains (profits from asset appreciation), and corporate taxes (business profits).
+    
+
+### Slide 7: Types of Taxation (II)
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - **Taxes on Wealth**
+        
+        - Wealth Taxes: Taxes paid on the value of the assets, such as real estate or stocks, held by a person or family
+            
+        - Property taxes: A form of wealth tax based on the value of real estate, including the value of real estate
+            
+        - Estate taxes: A form of wealth tax based on the value of the estate left behind when one dies
+            
+    - **Taxes on Consumption:**
+        
+        - Sales taxes: Taxes paid by consumers to vendors at the point of sale
+            
+        - Excise tax: A tax paid on the sales of particular goods, such as cigarettes or gasoline
+            
+
+**2) Explanation of content:**
+
+- **Text explanation:** Continuing the taxonomy from the previous slide, this covers taxes not tied to direct income creation. Wealth taxes target accumulated value (like property or inheritances). Consumption taxes target spending (general sales taxes versus targeted excise taxes on specific goods).
+    
+
+### Slide 8: What do governments tax?
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Governments raise revenue mainly from:
+        
+        - Labor taxes (income tax + social security contributions)
+            
+        - Consumption taxes (VAT, excises)
+            
+        - Capital & wealth taxes (capital income, property, inheritance)
+            
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide synthesizes the previous taxonomy into three major macroeconomic buckets for revenue collection: labor, consumption, and capital/wealth. It notes the specific mechanisms used for each.
+    
+
+### Slide 9: Tax structures in 2023 (as % of total tax revenue)
+
+**1) Slide elements:**
+
+- **Visuals:** Stacked bar chart showing tax composition across countries
+    
+- **Y-axis:** Percentage from 0 to 100
+    
+- **X-axis:** Country codes, grouped into three main sections: "Income taxes", "Social security contributions", "Taxes on goods & services"
+    
+- **Legend:** Personal income tax (light blue), Corporate income tax (dark blue), Social security contributions (green striped), Property taxes (pink), Taxes on goods and services (orange), Other (gray striped)
+    
+- _Note: [Pasted image 20260503110522.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** The chart breaks down the composition of tax revenues. In Italy (highlighted), the green striped bar (social security) and the light blue bar (personal income) combined make up over 60% of total tax revenue. Goods and services (orange) make up roughly 25%.
+    
+- **Key takeaways from visuals:**
+    
+    - Italy's tax structure is heavily reliant on labor-related taxes (PIT + Social Security).
+        
+    - Countries have drastically different tax compositions, even if their overall tax-to-GDP ratios are similar.
+        
+
+**3) What this slide is really saying:**
+
+> This visual proves that it is not just how much a country taxes, but what it taxes. Italy relies exceptionally heavily on taxing labor and social contributions to fund its government, contrasting with countries that lean more on consumption or direct income taxes.
+
+### Slide 10: Italy's tax mix in international perspective
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - A labor-heavy tax system
+        
+    - Italy relies heavily on labor taxation
+        
+    - Lower role for:
+        
+        - Inheritance and wealth taxes
+            
+        - Capital income taxation
+            
+    - Consumption taxes play a relevant but not dominant role
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide explicitly summarizes the data from the previous chart regarding Italy. It defines Italy's system as heavily skewed toward labor, while intentionally underutilizing wealth, inheritance, and capital taxation. Consumption taxes (like VAT) are important but secondary.
+    
+
+### Slide 11: Tax revenues by economic function in EU-27 Member States, 2023 (% of total)
+
+**1) Slide elements:**
+
+- **Visuals:** Stacked bar chart showing the composition of tax revenue by economic function
+    
+- **Y-axis:** Percentage from 0 to 100
+    
+- **X-axis:** EU Member states
+    
+- **Legend:** Labor (dark blue), Consumption (light blue), Capital (yellow)
+    
+- **Callouts:** A red rectangular outline highlights Italy (IT)
+    
+- _Note: [Pasted image 20260503110502.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This chart groups all revenues into three macroeconomic categories. For Italy (IT), the breakdown is explicitly shown via labels inside the bar: 48.8% Labor, 26.0% Consumption, and 25.2% Capital.
+    
+- **Key takeaways from visuals:**
+    
+    - Across the EU, Labor is universally the largest single source of tax revenue (typically 40-55%).
+        
+    - Italy is near the middle of the pack in the EU-27 for its proportion of labor taxes, though it still makes up nearly half of all revenue.
+        
+
+### Slide 12: Direct and indirect taxation
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Two broad ways to tax:
+        
+    - **Direct taxes:** levied on income or wealth
+        
+        - personal income tax
+            
+        - corporate income tax
+            
+        - property and inheritance taxes
+            
+    - **Indirect taxes:** levied on transactions
+        
+        - value added tax (VAT)
+            
+        - excise taxes
+            
+    - Direct taxes are typically progressive; indirect taxes are easier to collect
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This transitions to another way of classifying taxes: by collection method. Direct taxes are applied straight to a person or entity's earnings or wealth, allowing them to be progressive (taxing the rich at higher rates). Indirect taxes are transactional, paid automatically during a purchase, which makes them highly efficient to collect but often regressive (hitting lower incomes harder proportionally).
+    
+
+**3) What this slide is really saying:**
+
+> Governments balance direct taxes (which are fairer and progressive) with indirect taxes (which are much easier and cheaper to administer). This trade-off between fairness and efficiency is a core dilemma in tax policy.
+
+### Slide 13: Revenues by type of tax in % of GDP, 2023
+
+**1) Slide elements:**
+
+- **Visuals:** Stacked bar chart showing total tax burden
+    
+- **Y-axis:** Percentage from 0% to 50%
+    
+- **X-axis:** EU Member states
+    
+- **Legend:** VAT (brown), PIT (light blue), CIT (yellow), SC (dark blue), Other (medium blue), Total (red dot)
+    
+- **Callouts:** A red rectangle highlights Italy (IT)
+    
+- _Note: [Pasted image 20260503110424.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This chart combines total tax burden (% of GDP) with the direct/indirect breakdown. Italy's total tax burden is high (represented by the red dot around 42%). The dark blue section (Social Contributions - SC) and the light blue section (Personal Income Tax - PIT) are visually dominant for Italy, taking up well over half the bar.
+    
+- **Key takeaways from visuals:**
+    
+    - France, Denmark, Austria, and Italy have the highest overall tax burdens as a percentage of GDP in Europe.
+        
+    - Social contributions (SC) in Italy represent an enormous share of its GDP relative to other nations.
+        
+
+## Topic 3: Labor Taxation
+
+### Slide 14: The role of labor taxation
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Labor is the main tax base
+        
+    - Labor income is taxed through:
+        
+        - personal income taxes
+            
+        - employee social security contributions
+            
+        - employer social security contributions
+            
+    - Together, these form the labor tax wedge
+        
+    - Labor taxes account for the largest share of total tax revenue in most OECD countries
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide drills down into the specific components of labor taxation. It defines the "labor tax wedge" as the sum of personal income tax, the worker's social security cut, and the employer's social security cut. It reinforces that taxing work is the lifeblood of modern OECD budgets.
+    
+
+**3) What this slide is really saying:**
+
+> When we say "labor is taxed," it means a combination of income tax and social security payments split between the worker and the employer. This combined burden, known as the tax wedge, is the most lucrative revenue source for governments.
+
+### Slide 15: Labor tax revenues in EU Member States (% in GDP)
+
+**1) Slide elements:**
+
+- **Visuals:** Bar chart
+    
+- **Y-axis:** Percentage from 0 to 30
+    
+- **X-axis:** EU Member States (DK, SE, ..., EU27)
+    
+- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
+    
+- **Callouts:** A red box highlights Italy (IT)
+    
+- _Note: [Pasted image 20260505114806.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This chart isolates just the taxes on labor and measures them against GDP, placing it high up in the European rankings, just behind Denmark, Sweden, France, Germany, and Belgium.
+    
+
+**3) What this slide is really saying:**
+
+> Taxes on labor alone consume a massive fifth of Italy's entire GDP. Italy is among the top-tier European nations when it comes to aggressively taxing work.
+
+### Slide 16: Income tax plus employee and employer social security contributions, 2023
+
+**1) Slide elements:**
+
+- **Visuals:** Horizontal stacked bar chart
+    
+- **X-axis:** Percentage from 0% to 60%
+    
+- **Y-axis:** List of countries
+    
+- **Legend:** Income tax (dark blue), Employee SSC (light gray), Employer SSC (purple)
+    
+- **Callouts:** A wide red rectangular box highlights France, Italy, and Finland
+    
+- _Note: [Pasted image 20260505114824.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** Looking at Italy, the total bar reaches around 45-46% of total labor cost. Crucially, the purple section (Employer SSC) and light gray section (Employee SSC) make up the majority of this burden, with Income Tax (dark blue) making up a smaller fraction compared to countries like Denmark.
+    
+
+### Slide 17: The labor tax wedge
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - What is the tax wedge?
+        
+    - Difference between:
+        
+        - total labor cost for the employer
+            
+        - net take-home pay of the worker
+            
+    - Captures the overall tax burden on labor
+        
+    - Key indicator for:
+        
+        - work incentives
+            
+        - labor supply decisions
+            
+        - cross-country comparisons
+            
+    - Italy has a relatively high labor tax wedge, similar to some European countries such as Belgium and Germany, and higher than the US
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide defines the economic concept visualized on the previous slide. The tax wedge creates a gap between what businesses pay and what workers keep. This gap heavily influences behavioral economics: a high wedge discourages hiring (due to high costs) and discourages working (due to low net pay).
+    
+
+### Slide 18: Percentage of gross wage earnings paid in income tax and employee social security contributions, 2023
+
+**1) Slide elements:**
+
+- **Visuals:** Horizontal stacked bar chart
+    
+- **X-axis:** Percentage from 0% to 45%
+    
+- **Y-axis:** List of countries
+    
+- **Legend:** Income tax (blue), Social security contributions (gray)
+    
+- **Callouts:** A wide red rectangle highlights Ireland, Turkey, and France
+    
+- _Note: [Pasted image 20260505114852.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** For Italy, roughly 30% of a worker's gross wage is deducted before they get paid. This is split heavily towards Income Tax (around 22%) and employee SSC (around 8%).
+    
+
+**3) What this slide is really saying:**
+
+> Even excluding the massive invisible tax employers pay, an Italian worker still sees about 30% of their gross paycheck disappear to income taxes and their share of social security.
+
+## Topic 4: Consumption Taxation
+
+### Slide 19: Consumption taxation and VAT
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Taxing consumption
+        
+    - Value Added Tax (VAT) is the main consumption tax
+        
+    - Levied on spending rather than income
+        
+    - VAT is:
+        
+        - a major revenue source in Europe
+            
+        - relatively neutral with respect to saving decisions
+            
+    - Standard VAT rates vary substantially across countries
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** The presentation shifts from taxing income/labor to taxing spending. Value Added Tax (VAT) is introduced as the standard mechanism. An important economic property of VAT is noted: unlike income tax, it doesn't punish you for saving money, as it is only triggered upon consumption.
+    
+
+**3) What this slide is really saying:**
+
+> VAT is the backbone of consumption taxation in Europe. Because it taxes spending rather than earning, it is highly lucrative but avoids creating disincentives for individuals to save their money.
+
+### Slide 20: Value Added Tax (% of GDP and % of total tax revenues), EU 27, 2013–2023
+
+**1) Slide elements:**
+
+- **Visuals:** Line chart with two distinct series
+    
+- **Y-axis:** Percentage from 0% to 20%
+    
+- **X-axis:** Years from 2013 to 2023
+    
+- **Legend:** % Total (dark blue), % GDP (light blue)
+    
+- _Note: [Pasted image 20260505114914.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** The chart shows two incredibly flat lines over a decade. The dark blue line shows that VAT makes up roughly 17-18% of all tax revenues collected in the EU. The light blue line shows that this represents about 7% of the total European GDP.
+    
+
+### Slide 21: Consumption tax revenues in EU Member States (% of GDP)
+
+**1) Slide elements:**
+
+- **Visuals:** Bar chart
+    
+- **Y-axis:** Percentage from 0 to 20
+    
+- **X-axis:** EU Member States
+    
+- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
+    
+- **Callouts:** A red rectangular box highlights Italy (IT)
+    
+- _Note: [Pasted image 20260505114931.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This chart maps consumption taxes against GDP for individual countries. Croatia (HR) leads the pack above 18%, Italy (IT) sits solidly in the middle of the distribution, pulling in slightly under 11% of its GDP from consumption taxes.
+    
+- **Key takeaways from visuals:**
+    
+    - Italy's consumption tax yield is perfectly aligned with its historical averages (bars hit the dash marks exactly).
+        
+    - Italy relies less on consumption taxes relative to its GDP than eastern/southern European nations like Croatia, Greece, Bulgaria, and Hungary.
+        
+
+## Topic 5: Capital & Wealth Taxation
+
+### Slide 22: Capital income taxation
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Capital income includes interest, dividends, and capital gains
+        
+    - Compared to labor and consumption, capital taxes raise a small share of total revenue
+        
+    - In many countries, capital income is taxed at flat or proportional rates
+        
+    - Several European countries follow similar approaches: for example, Italy, Germany, and many Nordic countries apply relatively low or proportional taxes on financial income
+        
+    - Italy applies a flat tax on most financial income, with preferential rates for government bonds
+        
+    - Cross-country differences in capital taxation are large and reflect different policy choices
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** The lecture shifts to the final pillar: taxing investment and wealth. Capital taxes generally generate little revenue compared to labor or consumption. Many countries (including Italy) use a "flat tax" system for investments rather than progressive brackets. Notably, Italy offers tax breaks to citizens who invest in government bonds to incentivize financing the national debt.
+    
+
+### Slide 23: Capital tax revenues in EU Member States (% of GDP)
+
+**1) Slide elements:**
+
+- **Visuals:** Bar chart
+    
+- **Y-axis:** Percentage from 0 to 14
+    
+- **X-axis:** EU Member States
+    
+- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
+    
+- **Callouts:** A red rectangular box highlights Italy (IT)
+    
+- _Note: [Pasted image 20260505115001.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This chart confirms the statement from the previous slide that capital taxes raise less revenue. The highest country, Luxembourg (LU), is only at 14% of GDP (compared to labor taxes hitting 20-30%). Italy sits near the top third, collecting around 10% of its GDP from capital taxes.
+    
+
+### Slide 24: Property and inheritance taxation
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Property taxes are typically levied on real estate and are often assigned to local governments
+        
+    - Inheritance and gift taxes exist in most countries but generate very limited revenue
+        
+    - Italy relies relatively more on recurrent property taxation than on inheritance taxes
+        
+    - In comparison with countries such as France, Belgium, or Germany, inheritance taxation in Italy is relatively low
+        
+    - As a result, wealth taxation plays only a minor role in overall tax revenues
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This slide addresses physical wealth and asset transfers. It explains that property taxes fund local municipalities, while inheritance taxes exist but are weak revenue drivers. Italy specifically leans into real estate yearly (recurrent) while maintaining very loose laws on inheritance relative to its neighbors, resulting in wealth taxes playing a minor macro role.
+    
+
+### Slide 25: Revenue from property taxes as share of total tax revenues, 2023 vs 2013
+
+**1) Slide elements:**
+
+- **Visuals:** Stacked bar chart
+    
+- **Y-axis:** Percentage from 0% to 12%
+    
+- **X-axis:** EU Member States
+    
+- **Legend:** Recurrent TIP 2023 (dark blue), Other prop taxes 2023 (orange), Total 2013 (light blue dash)
+    
+- **Callout:** A red rectangular box highlights Italy (IT)
+    
+- _Note: [Pasted image 20260505115018.png]_
+    
+
+**2) Explanation of content:**
+
+- **Graph explanation:** This looks strictly at property taxes against total tax revenue (not GDP). In Italy, property taxes make up around 5.5% of total tax revenues. The dark blue section (recurrent taxes on real estate) forms slightly more than half of that, with other property taxes making up the rest.
+    
+- **Key takeaways from visuals:**
+    
+    - Italy's reliance on property taxes has fallen significantly over the last decade (the 2013 light blue dash is near 10%, while the 2023 bar is near 5.5%).
+        
+    - Overall, property taxes represent a very minor part of government funding across the EU.
+        
+
+### Slide 26: Key facts about taxation
+
+**1) Slide elements:**
+
+- **Text:**
+    
+    - Taxes are economically large in advanced economies
+        
+    - Labor is the main tax base
+        
+    - Italy relies heavily on labor taxation
+        
+    - Consumption taxes play an important supporting role
+        
+    - Capital and inheritance taxes raise limited revenue
+        
+    - Economic behavior responds to marginal incentives
+        
+
+**2) Explanation of content:**
+
+- **Text explanation:** This is the executive summary of the entire lecture. It recaps that modern states require massive revenues (30-45% of GDP), which they achieve primarily by taxing human labor (via the tax wedge). Italy is the prime example of a labor-heavy tax system. Consumption acts as a steady secondary source, while wealth/capital taxes are mostly negligible for balancing budgets. Finally, a fundamental economic principle is stated: tax rates change how people behave regarding work and investment.
 
 ## Related Notes
 - [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]

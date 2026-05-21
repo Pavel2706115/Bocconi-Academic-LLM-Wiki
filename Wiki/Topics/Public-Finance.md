@@ -4,7 +4,7 @@ tags:
 topics: []
 status: seed
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-21
 sources:
   - "Raw/Sources/30264 PUBLIC FINANCE/L1_Intro to public finance.md"
   - "Raw/Sources/30264 PUBLIC FINANCE/L2 L3_Externalities and Public Goods.md"
@@ -18,7 +18,8 @@ sources:
   - "Raw/Sources/30264 PUBLIC FINANCE/L18 L19_Taxes on savings.md"
   - "Raw/Sources/30264 PUBLIC FINANCE/L20 L21_Taxes on risk taking and wealth.md"
   - "Raw/Sources/30264 PUBLIC FINANCE/L22 L23_Fundamental Tax Reform and Consumption Taxation.md"
-source_count: 12
+  - "Raw/Sources/30264 PUBLIC FINANCE/Formulas.md"
+source_count: 13
 aliases:
   - "30264 Public Finance"
 ---
@@ -37,8 +38,11 @@ Public Finance (30264) studies the proper role of government in the economy: whe
 - [[Wiki/Concepts/Social-Insurance|Social Insurance]] — Government programs to insure against adverse events
 - [[Wiki/Concepts/Healthcare-Economics|Healthcare Economics]] — Market failures in health and insurance design
 - [[Wiki/Concepts/Pension-Systems|Pension Systems]] — Pay-as-you-go vs funded systems; Social Security design
-- [[Wiki/Concepts/Taxation-Principles|Taxation Principles]] — Tax bases, rates, progressivity, and incidence
-- [[Wiki/Concepts/Tax-Inefficiency|Tax Inefficiency]] — Deadweight loss and excess burden of taxation
+- [[Wiki/Concepts/Education-Economics|Education Economics]] — Returns, voucher programs, teacher value-added, and class-size effects
+- [[Wiki/Concepts/Taxation-Principles|Taxation Principles]] — Tax bases, rates, progressivity, and statutory/economic incidence
+- [[Wiki/Concepts/Tax-Inefficiency|Tax Inefficiency]] — Deadweight loss, Harberger triangles, and Ramsey optimal tax rules
+- [[Wiki/Concepts/Capital-and-Wealth-Taxation|Capital and Wealth Taxation]] — Savings choices, inflation dynamics, risk-taking, and estate/property taxes
+- [[Wiki/Concepts/Consumption-Taxation|Consumption Taxation]] — VAT design, direct/indirect taxation, and tax compliance and evasion
 - [[Wiki/Concepts/Income-Redistribution|Income Redistribution]] — Government's role in reducing inequality
 
 ## Key Takeaways

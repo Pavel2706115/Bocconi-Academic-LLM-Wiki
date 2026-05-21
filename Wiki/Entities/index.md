@@ -1,6 +1,6 @@
 # Entities Index
 
-_Generated 2026-05-18_
+_Generated 2026-05-21_
 
 - [[Wiki/Entities/Adam-Smith.md|Adam Smith]]
 - [[Wiki/Entities/ECB.md|ECB]]

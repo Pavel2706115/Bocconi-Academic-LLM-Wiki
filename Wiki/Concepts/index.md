@@ -1,6 +1,6 @@
 # Concepts Index
 
-_Generated 2026-05-18_
+_Generated 2026-05-21_
 
 - [[Wiki/Concepts/30001-STATISTICS-Overview.md|30001 STATISTICS Overview]]
 - [[Wiki/Concepts/30006-FINANCIAL-MARKETS-AND-INSTITUTIONS-Overview.md|30006 FINANCIAL MARKETS AND INSTITUTIONS Overview]]
@@ -19,6 +19,7 @@ _Generated 2026-05-18_
 - [[Wiki/Concepts/Bond-Valuation.md|Bond Valuation]]
 - [[Wiki/Concepts/Break-Even-Analysis.md|Break Even Analysis]]
 - [[Wiki/Concepts/Bretton-Woods-System.md|Bretton Woods System]]
+- [[Wiki/Concepts/Capital-and-Wealth-Taxation.md|Capital and Wealth Taxation]]
 - [[Wiki/Concepts/Capital-Budgeting.md|Capital Budgeting]]
 - [[Wiki/Concepts/Capital-Structure.md|Capital Structure]]
 - [[Wiki/Concepts/CAPM.md|CAPM]]
@@ -29,12 +30,14 @@ _Generated 2026-05-18_
 - [[Wiki/Concepts/Consolidated-Financial-Sheets-Overview.md|Consolidated Financial Sheets Overview]]
 - [[Wiki/Concepts/Consolidated-Financial-Statements.md|Consolidated Financial Statements]]
 - [[Wiki/Concepts/Consumer-Theory.md|Consumer Theory]]
+- [[Wiki/Concepts/Consumption-Taxation.md|Consumption Taxation]]
 - [[Wiki/Concepts/Cost-Accounting.md|Cost Accounting]]
 - [[Wiki/Concepts/Cost-of-Capital.md|Cost of Capital]]
 - [[Wiki/Concepts/Decision-Analysis.md|Decision Analysis]]
 - [[Wiki/Concepts/Decolonization-and-Asian-Tigers.md|Decolonization and Asian Tigers]]
 - [[Wiki/Concepts/Depreciation-and-Amortization.md|Depreciation and Amortization]]
 - [[Wiki/Concepts/Descriptive-Statistics.md|Descriptive Statistics]]
+- [[Wiki/Concepts/Education-Economics.md|Education Economics]]
 - [[Wiki/Concepts/Elasticity.md|Elasticity]]
 - [[Wiki/Concepts/Equity-Valuation.md|Equity Valuation]]
 - [[Wiki/Concepts/Exercises-Overview.md|Exercises Overview]]

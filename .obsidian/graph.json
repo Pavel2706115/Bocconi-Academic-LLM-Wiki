@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Raw/Sources/30017 CORPORATE FINANCE\"  ",
@@ -83,11 +83,11 @@
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.188149688149688,
+  "collapse-forces": true,
+  "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.221413721413721,
-  "linkDistance": 30,
-  "scale": 0.02696786797993119,
-  "close": false
+  "linkStrength": 1,
+  "linkDistance": 232,
+  "scale": 0.037808488917622944,
+  "close": true
 }

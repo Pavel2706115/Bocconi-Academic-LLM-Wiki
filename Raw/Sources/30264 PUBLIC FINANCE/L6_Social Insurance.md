@@ -11,448 +11,170 @@ Created: 2026-05-18
 Processed: true
   - "source"
 ---
-
-## 30264 - Public Finance
-
-BIEM Spring 2026
-
-**Social Insurance Gruber - Chapter 12**
-
-## **1** What Is Insurance and Why Do Individuals Value It?
-
-# **2** Why Have Social Insurance? Asymmetric Information and Adverse Selection
-# 3 The Problem with Insurance: Moral Hazard
-
-## Social Insurance Programs (in bold what we’ll cover)
-
-- **Social Security (Pensions)**
-
-- Unemployment Insurance
-
-- Disability Insurance
-
-- Worker’s compensation
-
-- **Health Insurance**
-
-- **Social Exclusion/Anti-poverty measures**
-
-- (Housing)
-
-## Social spending as % of GDP for 2024, OECD countries
-
-## EU vs US model of social insurance
-
-## 1. «European Model»
-
-- Crucial role of the government in the direct provision of social insurance
-
-**2. «Private Model»** → private expenditure (+ fiscal incentives)
-
-- **Household private direct expenditure**
-
-- **Private Insurance**
-
-https://ec.europa.eu/eurostat/statistics-explained/index.php/Government_expenditure_by_function_–_COFOG#General_overview
-
-## What is insurance and why do individuals value it?
-
-→ Insurance is a **promise** to make some **payment** in case of a particular **negative event** , in exchange for a payment, called a **premium**
-
-- **States of the world:** The set of outcomes that are possible in an uncertain future.
-
-- **Insurance premiums:** Money that is paid to an insurer so that an individual will be insured against adverse events.
-
-→ Insurance is valuable because it helps individuals **level consumption across states of the world** .
-
-In the next slide, a quick recap of the **expected utility model**: the utility of a “lottery” is the weighted sum of utilities across states of the world, where the weights are the probabilities of each state occurring.
-
-## Suppose an adverse event occurs with probability 𝑝 . The expected utility is
-
-𝑬𝑼= 𝟏−𝒑× 𝑼 𝐜𝐨𝐧𝐬. 𝐰𝐢𝐭𝐡𝐧𝐨𝐚𝐝𝐯𝐞𝐫𝐬𝐞𝐞𝐯𝐞𝐧𝐭+ 𝒑× 𝑼 𝐜𝐨𝐧𝐬. 𝐰𝐢𝐭𝐡𝐚𝐝𝐯𝐞𝐫𝐬𝐞𝐞𝐯𝐞𝐧𝐭
-
-**No insurance scenario:**
-
-Instead, consider the possibility of purchasing an **insurance contract**:
-
-b = reimbursement
-
-w = wealth if no accident occurs
-
-m = unitary premium (0<m<1) per dollar of reimbursement
-
-w – d = wealth if accident occurs
-
-→ total premium is mb
-
-According to the expected utility model, the expected utility will be:
-
-Upon purchasing this contract, the lottery faced by the individual has the following payoffs:
-
-w - mb = wealth if no accident occurs
-
-w - mb - d + b= wealth if accident occurs
-
-So the expected utility is
-
-**$$EU= (1-p)U(w-mb)+ pU(w-mb-d+b)$$
-## ?What do you prefer?
-
-If the premium is **actuarially fair** and the contract provides **full insurance** , then **risk averse** individuals will always purchase that contract (it maximizes their expected utility).
-
-**Actuarially fair**: m=p, the premium reflects the probability
-
-**Full insurance**: b=d, the damage is fully reimbursed
-
-**Risk-averse:** concave utility function, i.e. diminishing marginal utility → these individuals do not like risk, they prefer certainty to lotteries having the same expected value (they are also willing to pay to avoid risk) ^sexyc4
-
-Intuition: risk-averse people prefer giving up some of their money to avoid risk.
-
-Insurance is valuable because it helps individuals **level consumption across states of the world** .
-
-## Numerical Example
-
-- _p_ =1% chance that Sam gets hit by a car, resulting in $30,000 in medical expenses.
-
-- Insurance costs _m_ for each dollar of coverage.
-
-- If Sam buys $ _b_ of coverage, his premium is $ _mb._
-
-- 𝑈= 𝑐 To analyze Sam’s choice, assume , and premiums are actuarially fair.
-
-|**Purchase**|**Purchase**|**Hit?**|**_C_**|𝑪|**Expected Utility**|
-|---|---|---|---|---|---|---|
-|No|insurance|Yes|0|0|0.01 × 0 + 0.99 × 173.2|
-|No|30,000|173.2|= 𝟏𝟕𝟏. 𝟓|
-|Full insurance|Yes|29,700|172.34|0.99 × 172.34 + 0.01 × 172.34|
-|($300)|No|29,700|172.34|= 𝟏𝟕𝟐. 𝟑𝟒|
-|Partial insurance|Yes|14,850|121.86|0.99 × 172.77 + 0.01 × 121.86|
-|($150)|No|29,850|172.77|= 𝟏𝟕𝟐. 𝟐𝟔|
-
-## The Role of Risk Aversion
-
-- **Risk aversion:** The extent to which individuals are willing to bear risk.
-
-- Risk-averse people may still want to buy some insurance even if it is not actuarially fair.
-
-- People may differ in their risk aversion, and if insurance premiums are extremely unfair, then only the most risk averse will want it.
-
-We said that risk-averse individual like buying insurance (they prefer full insurance when the premium is actuarially fair), so….
-
-…why is insurance a public finance topic? What is wrong in this market?
-
-## INFORMATIONAL ASYMMETRIES
-
-- The equilibrium reached by private agents could be not Pareto efficient if there are some informational asymmetries in the insurance market
-
-## → **Ex-ante asymmetry (adverse selection)**
-
-(Ex-post asymmetry (moral hazard)  can be caused by insurance itself…more on this later…)
-
-## Why Have Social Insurance? Asymmetric Information and Adverse Selection
-
-Why should the government provide insurance?
-
-- Information asymmetry can lead to a key market failure: adverse selection.
-
-- **Information asymmetry:** The difference in information that is available to sellers and to purchasers in a market.
-
-- In the insurance market, buyers may know more about their insurable risks than the seller (insurer) does.
-
-- **Adverse selection:** The fact that the insured individuals know more about their risk level than does the insurer might cause those most likely to have the adverse outcome to select insurance, leading insurers to lose money if they offer insurance.
-
-## Adverse Selection Example
-
-- Two kinds of people:
-
-- People texting while driving have a 5% chance of being in a car accident (half the population).
-
-- Careful people have a 0.5% chance (half the population).
-
-- If the insurance companies **knows each person’s type (full information)** , it can charge them separate prices
-
-- If the insurance company **doesn’t know their type** , it could try charging a price that is **fair on average (pooling equilibrium)** , or try charging **separate prices (separating equilibrium)**
-
-## Insurer Breaks Even with **Full Information Pricing**
-
-- What happens if the insurance company could charge each type their actuarially fair price?
-
-- Charge careless people $1,500.
-
-- Charge careful people $150.
-
-`o` Earn $150,000 per 100 careless people, pay out $150,000.
-
-`o` Earn $15,000 per 100 careful people, pay out $15,000.
-
-## Asymmetric Information Pricing: **Average price**
-
-- What if the insurance company tries to charge average price?
-
-`o` Average price: $825 = 0.5*1500+0.5*150
-
-`o` Insurance is a great deal for careless people, so they buy it, pay $825. `o` Careful people decline it. `o` Earn $82,500 per 100 careless people, pay out $150,000. Lose $67,500. `o` Earn nothing from careful people.
-
-## Asymmetric Information Pricing: **Separate prices**
-
-- What if the insurance tries to charge different prices but cannot tell who is careless?
-
-- Careless people pretend to be careful, pay $150.
-
-- Careful people pay $150.
-
-`o` Earn $15,000 per 100 careless people, pay out $150,000. Lose $135,000. `o` Earn $15,000 per 100 careful people, pay out $15,000.
-
-## Adverse Selection Example
-
-|**Information**|**PricingInsurers**|
-|---|---|---|---|---|---|---|
-|Full|Separate|$1,500|$150|$165,000 (100 x $1,500 + 100 x $150)|$165,000|0|
-|Asymmetric|Separate|$1,500|$150|$30,000 (0 x $1,500 + 200 x $150)|$165,000|−$135,000|
-|Asymmetric|Average|$825|$825|$82,500 (100 x $825 + 0 x $825)|$150,000|−$67,500|
-
-## The Problem of Adverse Selection
-
-- **Adverse selection:** The fact that insured individuals know more about their risk level than does the insurer might cause those most likely to have the adverse outcome to select insurance, leading insurers to lose money if they offer insurance.
-
-- Selling to both requires that low-risk people subsidize high-risk people.
-
-- Low-risk people may not want to do this.
-
-- Sometimes, only high-risk people end up with insurance.
-
-## Does Asymmetric Information Necessarily Lead to Market Failure?
-
-If low-risk people have a high enough risk premium (i.e. they really dislike risk!), they will subsidize high-risk people in a pooling equilibrium.
-
-- **Risk premium**: The amount that risk-averse individuals will pay for insurance above and beyond the actuarially fair price.
-
-- **Pooling equilibrium:** A market equilibrium in which all types of people buy full insurance even though it is not fairly priced to all individuals.
-
-- **Separating equilibrium:** A market equilibrium in which different types of people buy different kinds of insurance products designed to reveal their true types.
-
-## Does Asymmetric Information Necessarily Lead to Market Failure?
-
-Alternatively, the insurance company could offer two alternative contracts Contract A: fair premium for high risk people + full insurance Contract B: fair premium for low risk people + partial insurance
-
-Aim → type revelation
-
-High risk buy contract A Low risk buy contract B
-
-- **Separating equilibrium:** A market equilibrium in which different types of people buy different kinds of insurance products designed to reveal their true types.
-
-- → **market failure!!** Low risk would like to buy full insurance, not offered to them!
-
-## How Does the Government Address Adverse Selection?
-
-Adverse selection leads to market failure, since healthy people may not be willing to buy insurance.
-
-- The government can address adverse selection and improve market efficiency in a number of ways . . .
-
-- but they all involve redistribution from the healthy to the sick, which may be unpopular.
-
-## Other Reasons for Government Intervention in Insurance Markets
-
-- **Externalities:** Vaccines have positive spillovers; car crashes negative ones.
-
-- **Administrative costs:** Government-run Medicare has much lower administrative costs than private insurance.
-
-- **Redistribution:** Governments may want to redistribute from healthy to sick.
-
-- **Paternalism:** Governments may feel that people would choose to buy too little insurance for themselves.
-
-## Social Insurance versus Self-Insurance: How Much Consumption Smoothing?
-
-Even if private insurance markets do not function well, people may still be able to insure with self-insurance.
-
-- **Self-insurance:** The private means of smoothing consumption over adverse events, such as through one’s own savings, the labor supply of family members, or borrowing from friends.
-
-## Example: Unemployment Insurance
-
-People can insure against unemployment in many ways:
-
-- They can draw on their own savings.
-
-- They can borrow, either in _collateralized_ forms (such as borrowing against the equity they have in their homes) or in _uncollateralized_ forms (such as on their credit card).
-
-- Other family members can increase their labor earnings.
-
-- They can receive transfers from their extended family, friends, or local organizations.
-
-## Example: Unemployment Insurance - effectiveness
-
-How much self-insurance is in place determines how effective social insurance is.
-
-`o` For an individual with no self-insurance, each dollar of unemployment insurance (UI) directly reduces the decline in consumption caused by unemployment.
-
-`o` No crowding out
-
-`o` For an individual with complete self-insurance, each dollar of UI replaces a dollar of self-insurance.
-
-`o` Complete crowding out
-
-`o` For an individual with partial self-insurance, each dollar is split between smoothing consumption and reducing self-insurance.
-
-`o` Partial crowding out
-
-## Lessons for Consumption-Smoothing Role of Social Insurance
-
-The importance of social insurance for consumption smoothing will depend on two factors:
-
-_1. Predictability of the event_: It is easier for people to self-insure against a predictable event, such as increasing their savings. More predictable risks reduce the benefits of providing social insurance.
-
-_2. Cost of the event_: It is more difficult to self-insure against high-cost events, such as becoming injured and unable to work. Costly risks increase the benefits of providing social insurance.
-
-## The Problem with Insurance: Moral Hazard
-
-The cost of insurance is moral hazard.
-
-- **Moral hazard:** Adverse actions taken by individuals or producers in response to insurance against adverse outcomes.
-
-- The existence of moral hazard means that it may not be optimal for the government to provide the full insurance that is demanded by risk-averse consumers.
-
-## What determines moral hazard?
-
-- How easy it is to observe whether the adverse event has happened.
-
-- How easy it is to change behavior in order to establish the adverse event.
-
-## The Problem with Insurance:
-
-## Moral Hazard in social insurance
-
-In examining the effects of social insurance, four types of moral hazard play a particularly important role.
-
-- Reduced precaution against entering the adverse state.
-
-- Because you have medical insurance, you reduce efforts to protect your health.
-
-- Increased odds of entering the adverse state.
-
-- Because you have workers’ compensation, you are more likely to claim that you were injured on the job.
-
-- Increased expenditures when in the adverse state.
-
-- Because you have medical insurance, you use more medical care.
-
-- Supplier responses to insurance against the adverse state.
-
-- Because you have workers’ compensation, firms aren’t as careful about protecting you against workplace accidents.
-
-## The Consequences of Moral Hazard
-
-## Moral hazard is costly for two reasons.
-
-- The adverse behavior encouraged by insurance lowers social efficiency; for example, workers’ compensation reduces the provision of a socially efficient labor supply.
-
-- When social insurance encourages adverse events, which raise the cost of the social insurance program, it increases taxes and lowers social efficiency further.
-
-## Putting It All Together: Optimal Social Insurance
-
-- Optimal social insurance systems should partially, but not completely, insure individuals against adverse events.
-
-- The benefit of social insurance is the amount of consumption smoothing provided by social insurance programs.
-
-- The cost of social insurance is the moral hazard caused by insuring against adverse events.
-
-## Conclusion
-
-- Asymmetric information in insurance markets has two important implications:
-
-- It can cause _adverse selection_
-
-- It can cause _moral hazard_
-
-- The ironic feature of asymmetric information is therefore that it simultaneously motivates _and_ undercuts the rationale for government intervention through social insurance.
-
-# Exercises
-
-## 1) Adverse selection arises in insurance markets because:
-
-- a) Insurers have better information than consumers
-
-- b) Insurance causes individuals to change behavior
-
-- c) Individuals know more about their risk than insurers
-
-- d) Government regulation distorts prices
-
-2) Which of the following is correct about pooling equilibria in insurance contexts?
-
-- a) High-risk and low-risk people pay the same premium
-
-- b) High-risk people will purchase partial coverage contracts
-
-- c) Low-risk people maximize their utility
-
-- d) The insurance company makes positive profits
-
-## 3) In a separating equilibrium:
-
-- a) Low-risk individuals subsidize high-risk individuals
-
-- b) Individuals reveal their type by choosing different contracts
-
-- c) Everyone receives full insurance
-
-- d) The market always achieves efficiency
-
-- 4) Which of the following is an example of self-insurance? a) Buying health insurance from the government
-
-- b) Saving money to prepare for unemployment
-
-- c) Receiving unemployment benefits
-
-- d) Mandatory social security contributions
-
-5) There are two groups of people in city A: bad drivers and good drivers. The probability of incurring in an accident is respectively 20% for bad drivers and 5% for good drivers. The insurance company cannot discriminate between the two groups of people and offers a unique contract with a unitary premium of 0,15$. This implies that the proportion of good drivers in the population is
-
-- a) One third
-
-- b) Two thirds
-
-- c) Uncertain
-
-- d) One half
-
-## TRUE/FALSE (please provide a justification)
-
-1) Insurance is valuable for risk-averse individuals because it increases expected income .
-
-2) Adverse selection arises because insurance coverage changes individuals’ behavior after the contract is signed.
-
-- 3) In a pooling equilibrium, low-risk individuals may subsidize high-risk individuals.
-
-## Exercise 1
-
-Mr. Rossi has a 2% probability of suffering from sinusitis. In case of illness, in the past he has always been treated with pharmaceutical therapy, with a total cost (damage) of 10 EUR. Given this information, an insurance company offers him an insurance policy with an actuarially fair premium.
-
-- a) What is the unit premium charged by the insurance company?
-
-- b) At this premium, will Mr. Rossi purchase partial or full coverage?
-
-- c) What is the total premium paid by Mr. Rossi to the insurance company?
-
-Once the insurance coverage is purchased, Mr. Rossi’s trusted clinic informs him about the possibility of treating sinusitis more effectively and without side effects through thermal water inhalations, costing 250 EUR. The clinic receives retrospective reimbursement from the insurance company, without the insurer being able to observe which treatment is most appropriate for the specific case.
-
-- d) Explain in words and quantify numerically the problem that arises in this case.
-
-- e) What strategy can the insurance company adopt to limit this problem?
-
-- f) Answer again questions (d) and (e) in the case in which the insurance company acquires the medical clinic.
-
-## Exercise 2
-
-The population of Gotham City consists of 2000 people, 200 criminals and 1800 virtuous citizens. The probability of being injured is 30% for criminals and 10% for virtuous citizens. The damage that a person would suffer from an injury is 300$ (independently from their type).
-
-a) Please compute the premium (in dollars) that criminals and virtuous citizens would be asked to pay by risk-neutral insurance company in case their type was observable and they were offered full coverage.
-
-- b) Please compute the profits of the insurance company in the above case.
-
-c) What if the insurance company was unable to distinguish between the two types of citizens? What premium (in dollars) would they be asked to pay (assume full coverage as above)?
-
-- d) How do you call such an equilibrium described in part c)? Is it always achievable? Please briefly discuss.
-
+### Introduction & Context
+- **Slide 1: Title Slide**
+	- **Text:** The lecture covers “Social Insurance,” referencing Chapter 12 from Gruber's textbook
+- **Slide 2: Lecture Outline**
+	- **Text:**
+		1. What insurance is and why individuals value it
+		2. Why do we have social insurance, focusing on asymmetric information and adverse selection
+		3. The problem with insurance: moral hazard
+- **Slide 3: Social Insurance Programs**
+	- **Text:** Programs include **Social Security (Pensions)**, **Unemployment Insurance**, **Disability Insurance**, **Worker's compensation**, **Health Insurance**, Social Exclusion/Anti-poverty measures, and Housing. The first five are in bold, indicating they will be covered in the course
+- **Slide 4: Social Spending in OECD Countries**
+	- **Graph Analysis:**
+		- The y-axis represents social spending as a percentage of GDP
+		- Austria, Finland, and France top the list, with public social spending around 30% of their GDP
+		- Countries like the US, Korea, Ireland, and Turkey are on the lower end, falling below the OECD average
+- **Slide 5: EU vs US Model of Social Insurance**
+	- **Text:**
+		- The “European Model” relies heavily on the crucial role of the government in the direct provision of social insurance
+		- The “Private Model” relies on private expenditure and fiscal incentives. This encompasses household private direct expenditure and private insurance
+- **Slide 6: EU General Government Expenditure**
+	- **Graph Explanation:**
+		- The total government expenditure accounted for 49.6% of the EU's GDP
+		- “Social protection” is the largest single category, taking up 19.5% of the total GDP
+		- Other significant sectors include Health (7.7%), General public services (6.0%), Economic affairs (5.9%), and Education (4.7%)
+### Topic 1: The Value and Mechanics of Insurance
+- **Slide 7: What Is Insurance?**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Insurance is a promise to make a payment in case of a negative event, in exchange for a premium</mark>
+		- “States of the world” refers to the set of possible outcomes in an uncertain future
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Insurance premiums are money paid to an insurer to secure coverage against adverse events</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Insurance is valuable because it helps individuals level consumption across different states of the world</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The expected utility of a “lottery” is the weighted sum of utilities across states where weights are the probabilities of each state occurring</mark>
+- **Slide 8: Expected Utility Model**
+	- **Summary:** Introduces the mathematical model for expected utility with and without insurance
+	- **Text:**
+		- Without insurance, expected utility is: $EU = (1-p) \times U\text{(cons. with no adverse event)} + p \times U\text{(cons. with adverse event)}$
+		- With no insurance, wealth $w$ if no accident occurs, and $w - d$ if an accident occurs. Expected utility is $EU = (1-p) \times U(w) + p \times U(w-d)$
+		- With an insurance contract, $b$ is the reimbursement, $m$ is the unitary premium ($0 < m < 1$), and total premium is $mb$
+		- With insurance, wealth is $w - mb$ if no accident occurs, and $w - mb - d + b$ if an accident occurs. Expected utility is $EU = (1-p) \times U(w-mb) + pU(w-mb-d+b)$
+- **Slide 9: Actuarially Fair Premiums and Full Insurance**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Risk-averse individuals will always purchase an insurance contract if it provides full insurance and the premium is actuarially fair</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">"Actuarially fair" means m=p (premium reflects the probability)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">"Full insurance" means b=d (damage is full reimbursed)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">"Risk-averse" describes a concave utility function (diminishing marginal utility); the risk-averse individuals prefer certainty to lotteries with the same expected value and will pay to avoid risk</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Intuition: risk-averse people prefer giving up some money to avoid risk, helping</mark>
+- **Slide 10: Numerical Example of Insurance Choice**
+	- **Text & Graph Explanation:**
+		- Sam faces a 1% chance of being hit by a car, which would cost 30,000 in medical expenses
+		- Assuming his utility function is $U = \sqrt{c}$ and premiums are actuarially fair, the table compares three scenarios: no insurance, full insurance, and partial insurance
+		- Without insurance, his expected utility is 171.5
+		- With full insurance (paying a 300 premium), his expected utility is maximized at 172.34
+		- With partial insurance (paying a 150 premium), his expected utility is 172.26
+- **Slide 11: The Role of Risk Aversion**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Risk aversion is defined as the extent to which an individual is willing to bear risk</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Highly risk-averse people might still purchase insurance even if it is not actuarially fair</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Because individuals differ in risk aversion, extremely unfair premiums will only attract the most risk-averse consumers</mark>
+### Topic 2: Asymmetric Information & Adverse Selection
+- **Slide 12: Why is Insurance a Public Finance Topic?**
+	- **Summary:** The slide pivots to explain why government intervention might be needed in a market where people naturally want to buy insurance
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The core issue is “Informational Asymmetries”</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">The equilibrium established by private markets may not be Pareto efficient due to these information gaps</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">These include ex-ante asymmetry (known as adverse selection) and ex-post asymmetry (known as moral hazard)</mark>
+- **Slide 13: Asymmetric Information and Adverse Selection**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Information asymmetry: The difference in information available to sellers and purchasers. In insurance, buyers may know more about their risks than the insurer does</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Adverse selection: Because insured individuals know more about their risk, those most likely to have the adverse outcome select insurance, leading to lose money</mark>
+- **Slide 14: Adverse Selection Example**
+	- **Text:**
+		- Half the population are people who text while driving (5% of an accident)
+		- Half the population are careful people (0.5% chance)
+		- If the insurance company knows each person's type (full information), it can charge separate prices
+		- If it doesn't know, it must try charging an average price (pooling equilibrium) or separate prices (separating equilibrium)
+- **Slide 15: Insurer Breaks Even with Full Information Pricing**
+	- **Text:**
+		- Charge careless people €1,500 and careful people €150
+		- Earn €150,000 per 100 careless people, pay out €150,000
+		- Earn €15,000 per 100 careful people, pay out €15,000
+- **Slide 16: Asymmetric Information Pricing: Average Price**
+	- **Text:**
+		- Average price: $825 = 0.5 \times 1500 + 0.5 \times 150$
+		- Careless people buy it (it's a great deal), careful people decline it
+		- The insurer earns €82,500 from careless people but pays out €150,000, losing €67,500. They earn nothing from careful people
+- **Slide 17: Asymmetric Information Pricing: Separate Prices**
+	- **Text:**
+		- Careless people pretend to be careful and pay €150. Careful people also pay €150
+		- The insurer ears €15,000 per 100 careless people, and pays out €150,000, and loses €135,000
+- **Slide 18: Adverse Selection Example Matrix**
+	- **Table Explanation:**
+		- Full info + Separate pricing: Net profits = 0
+		- Asymmetric + Separate pricing: Net profits = -€135,000
+		- Asymmetric + Average pricing: Net profits = -€67,500
+- **Slide 19: The Problem of adverse Selection**
+	- **Text:**
+		- Adverse selection cause insurance to lose money
+		- Selling to both groups requires low-risk people to subsidize high-risk people
+		- Low-risk people may refuse, meaning sometimes only high-risk people end up with insurance
+- **Slide 20: Does Asymmetric Information Necessarily Lead to Market Failure? (Part 1)**
+	- **Text:**
+		- If low-risk people have a high enough risk premium, they will subsidize high-risk people in a pooling equilibrium
+		- Risk premium: The amount risk-averse individuals will pay above the actuarially fair price
+		- Pooling equilibrium: Everyone buys full insurance even thought it is not fairly priced for all
+		- Separating equilibrium: Different types buy different products designed to reveal their true types
+- **Slide 21: Does Asymmetric Information Necessarily Lead to Market Failure? (Part 2)**
+	- **Text:**
+		- An insurance company could offer Contract A (fair premium for high risk + full insurance) and Contract B (fair premium for low risk + partial insurance)
+		- The goal is “type revelation,” where high-risk buyers choose Contract A and low-risk buyers choose Contract B
+		- This is still considered a market failure because low-risk individuals would prefer to buy full insurance, but that option is intentionally kept away from them to maintain the separation
+- **Slide 22: How Does the Government Address Adverse Selection?**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Because healthy people drop out of private markets (causing market failure), the government can step in to improve efficiency</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">However, all government solutions essentially mandate redistribution from the healthy to the sick, which can be politically unpopular</mark>
+- **Slide 23: Other Reasons for Government Intervention**
+	- **Externalities:** Things like vaccines create positive spillovers, while crashes create negative ones
+	- **Administrative costs:** Publicly run programs (like Medicare) often operate with much lower administrative overhead than private insurers
+	- **Redistribution:** The government has a broader societal goal to redistribute resources from healthy to sick populations
+	- **Paternalism:** The government may believe individuals are too short-sighted to buy adequate insurance for themselves
+### Topic 3: Social Insurance vs. Self-Insurance
+- **Slide 24: Social Insurance versus Self-Insurance**
+	- **Text:**
+		- Even when private markets fail, people can smooth consumption using self-insurance
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Self-insurance: The private means of smoothing consumption over adverse events, such as through savings, family labor supply, or borrowing</mark>
+- **Slide 25: Example: Unemployment Insurance**
+	- **Text:**
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Borrowing (collaterized against homes, or uncollateralized via credit cards)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Other family member increasing labor earnings</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Receiving transfers from extended family or friends</mark>
+- **Slide 26: Effectiveness of Unemployment Insurance**
+	- **Text:**
+		- How much self-insurance exists determines social insurance effectiveness
+		- <mark style="background:rgba(240, 200, 0, 0.2)">No self-insurance: unemployment insurance (UI) directly reduces the decline in consumption (No crowding out)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Complete self-insurance: Each dollar of UI replaces the dollar of self-insurance (Complete crowding out)</mark>
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Partial self-insurance: Each dollar is split between smoothing consumption and reducing self-insurance (Partial crowding out)</mark>
+- **Slide 27: Lessons for Consumption-Smoothing**
+	- **Text:**
+		- **1. Predictability of the event:** It is easier to self-insure against predictable events. More predictable risks reduce the benefits of providing social insurance
+		- **2. Cost of the event:** It is difficult to self-insure against high-cost events. Costly risks increase the benefits of providing social insurance
+### Topic 4: The Cost of Insurance: Moral Hazard
+- **Slide 28: The Problem with Insurance: Moral Hazard**
+	- **Text:**
+		- Moral hazard: Adverse actions taken by individuals or producers in response to insurance against adverse outcomes
+		- Because of this, it may not be optimal for the government to provide full insurance
+		- It is determined by how easy it is to observe the adverse event, and how easy it is to change behavior to establish the event
+- **Slide 29: Moral Hazard in Social Insurance**
+	- **Text:**
+		- **Reduced precaution:** Reducing efforts to protect your health because you have medical insurance
+		- **Increased odds of adverse state:** Claiming injury more frequently because of workers' compensation
+		- **Increased expenditures:** Using more medical care because you have insurance
+		- **Supplier responses:** Firms being less careful about protecting workers against accidents because of workers' compensation
+- **Slide 30: The Consequences of Moral Hazard**
+	- **Text:**
+		- 1. Adverse behavior lowers social efficiency (e.g., workers' compensation reduces socially efficient labor supply)
+		- 2. Encouraged adverse events raise the cost of the program, increasing taxes and lowering social efficiency further
+- **Slide 31: Putting It All Together: Optimal Social Insurance**
+	- **Text:**
+		- Optimal systems should partially, but not completely, insure individuals against adverse events
+		- The benefit is the amount of consumption smoothing provided
+		- The cost is the moral hazard caused by insuring against adverse events
+- **Slide 32: Conclusion**
+	- **Text:**
+		- Asymmetric information causes both adverse selection and moral hazard
+		- The ironic feature is that it simultaneously motivates and undercuts the rationale for government intervention
 ### Links:
 - [[L9 L10 L11_Pension System]]
 - [[C29]]

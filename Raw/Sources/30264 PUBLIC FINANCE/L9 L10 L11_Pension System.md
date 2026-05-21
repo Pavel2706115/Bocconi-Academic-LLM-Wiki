@@ -10,670 +10,124 @@ Created: 2026-05-18
 Processed: true
   - "source"
 ---
-
-## 30264 - Public Finance
-
-BIEM Spring 2026
-
-# Social Security (Pension System) Gruber - Chapter 13
-
-## Social Security spending in Europe (% of GDP)
-
-## Pension spending trends in Europe
-
-## In this slide set
-
-- Why should the government provide social security?
-
-- Types of pension systems («Pay-as-you-go» vs «fully funded»)
-
-- Funding scheme
-
-- Comparison
-
-- Public pension system’ risks (moral hazard, crowd-out) and benefits
-
-- Financial equilibrium and social security reforms
-
-- A focus on the Italian case
-
-## Why should the govt. provide social security?
-
-- **Adverse event**: being too old to gain a sufficient income
-
-- **Market solution:** Private pension plans: savings today are invested in assets such as government bonds, corporate bonds, or stocks, and the accumulated assets pay for (fund) the future benefits promised by the pension ( **fully funded** plans).
-
-- **Problems of private pension plans:**
-
-- ✓poor performance of financial markets and inflation can lead to low future pensions → the ratio of benefits received to earnings prior to retirement (so called **replacement ratio** ) may be too low;
-
-- ✓people under-estimate their future needs, or think they can work forever…
-
-→ Private pension plans can be an inefficient way to deal with the social risk of losing the ability to gain an income.
-
-## Types of pension systems
-
-- **Fully funded:** social security contributions paid by workers are invested in the capital market in _assets_ that will fund their future pensions.
-
-- **PAYGO (Pay-as-you-go):** the revenue collected in each period is devoted to same
-
-- the funding of the pensions paid in the period.
-
-## Public pension systems
-
-- Public Social Security has traditionally been an **unfunded** plan: taxes or social contributions collected from a worker today go directly to today’s retirees rather than being saved (and invested) to pay for benefits when the taxed worker retires.
-
-- -
-
-- This is often referred to as a scheme and it is based on an inter **pay-as-you-go**
-
-- generational pact: active workers pay for the pensions of today’s retirees because they know that when they will stop working the next generation will pay for their pensions.
-
-## How are Pension Systems funded?
-
-## ➢ Pension Systems differ in their funding:
-
-## ➢ **Pay-As-You-Go (Unfunded)**
-
-> time t-1 time t time t+1
-
-## Workers Retirees Workers Retirees Workers
-
-## How are Pension Systems funded?
-
-➢ Pension Systems differ in their funding: ➢ Pay-As-You-Go ➢ **Fully Funded**
-
-> time t-1 time t time t+1
-
-## Comparison
-
-We want to compare these two systems over three main dimensions:
-
-1) Financing method
-
-## 2) Rate of return
-
-## 3) Method for calculating the pension benefit
-
-## Comparison
-
-We want to compare these two systems over three main dimensions:
-
-## 1) Financing method
-
-2) Rate of return
-
-## 3) Method for calculating the pension benefit
-
-## Financing Method
-
-Let’s consider 2 periods (working & retirement periods).
-
-## Accumulation, t-1
-
-## Retirement period, t
-
-Ct -1 = - Wt-1
-
-Pt
-
-- ➢ **Pay-go system**: the revenue collected in each period (the sum of the social security contributions paid) is used to fund the pensions paid in the same period:
-
-- **Ct-1** - **Pt-1 and Ct** - **Pt**
-
-## → « **INTERGENERATIONAL AGREEMENT»**
-
-- ➢ **Fully funded system**: social security contributions paid by each worker during her/his working period are invested in the capital market. The pension he/she will receive will be equal to the contributions payed augmented by the return _i (interest rate)_ obtained in the capital market _._
-
-- **Pt = Ct-1(1+i)**
-
-- Accumulation of resources: **insurance perspective**
-
-## Comparison
-
-We want to compare these two systems over three main dimensions:
-
-1) Financing method
-
-## 2) Rate of return
-
-## 3) Method for calculating the pension benefit
-
-## Pension systems’ returns
-
-Let’s consider 2 generations:
-
-- ➢ The former works at time t-1 and is on retirement at time t;
-
-- ➢ The latter works at time t and will on retirement at time t+1.
-
-Let’s define:
-
-- ➢ Number of workers: Nt and Nt-1
-
-- ➢ Average wage of the workers: wt and wt-1
-
-- ➢ Total wage Wt=Ntwt and Wt-1=Nt-1wt-1
-
-- ➢ Contribution rate (proportional to wages): α
-
-Suppose that:
-
-- ➢ wt = wt-1(1+m) with m = productivity growth rate
-
-- ➢ Nt = Nt-1(1+n) with n = population growth rate (assumed to be equal to the workers growth rate)
-
-Hence:
-
-**Wt = Ntwt = Nt-1(1+n)wt-1(1+m) = Wt-1(1+n)(1+m)**
-
-## Pension systems’ returns
-
-- ➢ **Paygo system:** the total amount of pensions paid at time _t_ is equal to the total amount of contributions paid at time _t_
-
-- ➢ **Fully funded system:** the total amount of pensions paid at time _t_ is equal to the total amount of contributions paid at time _t-1_ plus the return obtained on the capital market, which is equal to the market interest rate _i_
-
-- ➢ In the previous formula, the rates (1+n)(1+m) and (1+i) can be interpreted as the return rates of the social contributes paid during the working life (period t-1) by the individuals that will be retirees at time t.
-
-## Pension systems’ returns
-
-- ➢ More precisely, we define « **implicit return»** that the pension system guarantees to a given generation the ratio between the total amount of pensions paid by the State and the total amount of social contributions paid by workers, decreased by 1:
-
-(Pt/Ct-1)-1
-
-- (Pt
-
-**(PG)**
-/ α Wt-1)-1 = (1+n)(1+m)-1 = 1+n+m+nm-1 ≈n+m (paygo implicit return rate)
-
-- (Pt
-
-**(FF)**
-/ α Wt-1)-1 = (1+i)-1 = i (fully funded return rate)
-
-## ➢ Paygo implicit return rate is higher than fully funded return rate if:
-
-## (n+m) > i
-
-That is if the sum of population growth rate and wages growth rate (= productivity _i_ . growth rate) is grater than market interest rate
-
-## Paygo system return rate: example
-
-- Population and earnings grow by 5% per year.
-
-- Unfunded system with 10% payroll tax.
-
-|**Period**|**NumberReturn**|
-|---|---|---|---|---|---|---|---|---|
-|1|100|$20,000|0|0|0|0|—|—|
-|2|105|$21,000|$2,100|$220,500|100|$2,205|0|Infinite|
-|3|110|$22,050|$2,205|$242,550|105|$2,310|$2,100|10%|
-|4|115|$23,153|$2,315|$266,225|110|$2,420|$2,205|10%|
-|5|121|$24,310|0|0|115|0|$2,315|−100%|
-
-## Paygo system return rate: example - Conclusions
-
-- ➢ PRO: it is possible to start immediately the pension transfers to old individuals (retirees) even if contributions were not previuosly payed.
-
-- ➢ FIRST GENERATION EFFECT: the PAYGO pension system induces, at the moment of its introduction, a **redistribution** in favour of the generation working before its introduction: the return rate tends to infinity for the first generation.
-
-- ➢ LAST GENERATION EFFECT: if workers stop financing the system, retirees will get no pensions even if they contributed to the pension system during their working life: negative return rate for the last generation.
-
-## DIFFERENCES WRT THE FULLY FUNDED SYSTEM
-
-## Comparison
-
-We want to compare these two systems over three main dimensions:
-
-## 1) Financing method
-
-- 2) Rate of return
-
-## 3) Method for calculating the pension benefit
-
-## PAYGO pension system: alternative computation methods
-
-Let’s consider a PAYGO system. How can be pensions computed?
-
-**1) Earnings-based:** the pension received each year is equal to a share ( _coefficient of return_ ) of the pensionable earnings multiplied by the years of contribution.
-
-- **2) Contribution-based:** ratio of the sum of the contributions payed by the worker during her working life over the expected lenght of the retirement period.
-
-## Earnings-based PAYGO system
-
-## Define:
-
-- ➢ 𝛽 = coefficient of return;
-
-- ➢ w 𝑃 = pensionable earning;
-
-- ➢ 𝐿 = years of contribution
-
-## Using the earnings-based method the pension is:
-
-## P = β x** w 𝑷 **x L
-
-i.e. the pension is equal to the coefficient of return applied to the pensionable earnings, multiplied by the number of years in which the individual has payed contributions.
-
-## Earnings-based PAYGO system
-
-The pensionable earning can be defined in different ways
-
-## 1. w 𝑃 is equal to the **last salary** ( w𝐿 ) before retirement:
-
-## 𝑃= × 𝐋 𝛽× 𝐰𝐿
-
-2. 𝑤𝑃 is an **average of the salaries** received during the working life augmented by a revaluation rate _r_ set by the government.
-
-Example with L=3:
-
-𝒘1(1 + 𝑟)(2) +𝒘2 1 + 𝑟+ 𝒘3 𝐰 = 𝑝 3
-
-## Contribution-based PAYGO
-
-The pension is computed using the following equation:
-
-𝑪= 𝑨𝑽(𝑷)
-
-## where:
-
-- ➢ 𝐶 = sum of the contributions payed during the working period augmented by a revaluation rate r set by the government.
-
-- ➢ 𝐴𝑉(𝑃) = actual value of the pension flow computed at the end of the working period based on life expectancy
-
-Example with L=3 (earnings: w1, w2 , w3)
-
-C = 𝛼w 1(1+r)(2) + 𝛼w 2(1+r)+ 𝛼w 3
-
-where α is the contribution rate payed each year by the worker
-
-## Contribution-based PAYGO
-
-- ➢ Suppose that the pension Pis constant over time (but there might be indexation… )
-
-- ➢ D efine 𝑒(𝐿) the years of life expectancy at the day of retirement.
-
-- ➢ The actual value of the pension at the day of retirement if 𝑒(𝐿) =2 is:
-
-where 𝒓𝒛 is the discount rate of future pensions.
-
-## Contribution-based PAYGO
-
-If r =0: z
-
-𝐴𝑉𝑃= 𝑒(𝐿) ∙𝑃
-
-𝑪 𝑪= 𝑨𝑽𝑷 →𝐶= 𝑒𝐿∙𝑃→𝑷= 𝒆𝑳
-
-## Pension P:
-
-## ➢ Increases with C, and hence with α, r, w and L.
-
-## ➢ decreases with e(L)
-
-1/e(L) = «transformation coefficient»: it is the coefficient that converts C into P. It if reflects the real life expectancy, it allows tackling the ageing of the population transferring the burden on the retirees
-
-## Fully funded pension system: computation method
-
-The pension is computed using the following equation:
-
-## 𝑪= 𝑨𝑽(𝑷)
-
-## where:
-
-- ➢ 𝐶 = sum of the contributions payed during the working period augmented by the interest rate _i_ obtained on the capital market.
-
-- ➢ 𝐴𝑉(𝑃) = actual value of the pension flow computed at the end of the working period based on life expectancy
-
-Example with L=3 (earnings: w1, w2 , w3)
-
-C = 𝛼w 1(1+ **i** )(2) + 𝛼w 2(1+i)+ 𝛼w 3
-
-where α is the contribution rate payed each year by the worker
-
-𝑷 𝑷 𝑪 𝑨𝑽𝑷= + If rz=0 → 𝑷= (𝟏+𝒓𝒛) 𝟏+𝒓𝒛(𝟐) 𝒆𝑳
-
-## Summing up:
-
-|**PAYGO –contribution-based**|**Fully-funded**|
-|---|---|---|---|
-|Financing|Contributions paid by active workers (intergenerational agreement)|Contributions paid by active workers (intergenerational agreement)|Contributions payed by the retirees when they were workers|
-|Pension Bill|Depends on: wages, contribution rate, productivity and number of employed|Depends on: wages, contribution rate, productivity and number of employed|Depends on: wages, contribution rate and capital market interest rate|
-|(Individual) Pension|Depends on pensionable earnings, years of contribution and coefficient of return|Depends on: - Contributions payed during the entire working life - Contribution revaluation rate (r) - years of life expectancy at the day of retirement|Dipends on: -Contributions payed during the entire working life - Capital market interest rate - years of life expectancy at the day of retirement|
-
-Justifications for State intervention in the pension system
-
-- 1) Insurance market may experience market failures because of adverse selection (individuals have more information about their life expectancy than insurance companies)
-
-- 2) Policy makers are afraid that people do not save enough during their working life for their retirement period ( _paternalism_ ).
-
-Issue: does the public pension system realizes consumption stabilization - or it simply crowd out private saving?
-
-## Living standards of the elderly
-
-In the US, there is a striking negative correlation over time between the poverty rates of the elderly (which have fallen) and the size of the Social Security program (which has risen).
-
-## Living standards of the elderly
-
-In Italy, we observe a correlation between the reduction in the relative poverty rate among the elderly and the increase in pension benefits; this would seem to confirm the hypothesis of a positive effect on the stabilization of consumption.
-
-## The impact of the pension system on the choice of retirement age
-
-- The pension system guarantees an income to the retirees.
-
-- It may cause a _**moral hazard**_ problem: a worker may have an incentive to move up the beginning of the retirement period in order to benefit from the pension.
-
-Why can the pension system influence the retirement decision?
-
-« **Implicit taxation» on labour** → Incentive to move up the retirement date. The marginal cost of working one additional year (pay contributions for one additional year and one year less of pension benefit) is greater than the marginal benefit (receive a higher pension)
-
-## Social Security and Retirement: Theory
-
-What are the costs and benefits of working an additional year at age 62?
-
-- Costs: Implicit tax
-
-- Pay an extra year of payroll taxes on earnings.
-
-`o` Receive one year less of Social Security benefits.
-
-- Benefits: Benefit adjustment
-
-- Higher Social Security benefit level through the actuarial adjustment
-
-`o` Increase pension
-
-## Moral Hazard: Evidence Elderly Work and Social Security, US 1959−2019
-
-Moral hazard: once pension program in place workers may retire earlier to start collecting their benefits
-
-In the 1960s and 1970s, the program grew rapidly and LFP decreased.  Both flattened in the mid-1980s, and in recent years, both are on the rise.
-
-## Moral Hazard: Evidence
-
-## Elderly Work and Social Security, Italy 1971−2015
-
-Moral hazard: once pension program in place workers may retire earlier to start collecting their benefits
-
-**Labor Force Partecipation Rate (% of 65+ in Labor Force)**
-
-## Social Security and Retirement: Evidence Spike in Retirement Hazard at EEA
-
-The male hazard rate, or exit rate at each age, given that a man has worked up to that age, spikes at ages 62 (the Early Entitlement Age, EEA) and 65 (the previous Full Retirement Age, FRA)—key ages for the Social Security system.
-
-## Implicit Social Security Taxes and Retirement Behavior
-
-There is large variation across nations in the social security disincentives to work at older ages. Those nations with greater disincentives to work tend to have much higher nonwork among older workers.
-
-## Implications
-
-- Evidence suggests that it is potentially very costly to design Social Security systems that penalize additional work beyond the retirement age.
-
-- Adjusting systems to more fairly reward work at old ages can mitigate much of the moral hazard effect of Social Security.
-
-## Social Security Reforms
-
-Social Security faces a major fiscal imbalance as it is increasingly difficult for young generations to pay for the benefits of older generations.
-
-`o` Rising life expectancy
-
-`o` Falling birth rates
-
-`o` Reduction in wage growth rates
-
-## The demographic dangers of pay-as-you-go pension systems
-
-Ij the US, the number of persons over age 65 per working-age person age 15 to 64 more than triples over the century, from 13 per 100 in 1950 to 42 per 100 in 2060.
-
-## The financial equilibrium in a pay-as-you-go pension system
-
-A pay-as-you.go system is in financial equilibrium when total pension expenditures are exactly equal to total contribution revenues. This condition can be written as:
-
-## P · Nᵣ = α · Nw · w
-
-where:
-
-- P is the average pension,
-
-- Nᵣ is the number of retirees,
-
-- Nw is the number of workers,
-
-- w is the average wage,
-
-- α is the payroll tax rate.
-
-Therefore, financial equilibrium in a PAYG system depends on **demographic factors** (the ratio of workers to retirees), **average wages** , and **pension levels** .
-
-The financial equilibrium in a pay-as-you-go pension system
-
-## P · Nᵣ = α · Nw · w
-
-If the population ages, Nᵣ increases. To keep the system in balance, a reform of the pension system may:
-
-- Increase α: workers pay higher contributions
-
-- Reduce P: pensioners receive lower pensions
-
-- Increase the retirement age: shifting individuals from Nᵣ to Nw
-
-Other possibilities (which are not determined by a pension system reform):
-
-- Increase Nw: female labor participation, immigration…
-
-- Increase w: higher productivity, economic growth
-
-## Incremental Reforms
-
-## Many possible additional reforms:
-
-- Raise social security tax revenues collected.
-
-- Raise the tax rate on taxable wages.
-
-- Extend the base of taxable wages.
-
-- Reduce social security benefits paid out.
-
-- Raise the retirement age to match increasing life spans.
-
-- Lower benefits to all eligible recipients.
-
-- Change to a welfare program where recipients’ benefits decrease with higher incomes.
-
-## Fundamental Reforms
-
-## Fundamental reforms have also been proposed:
-
-- Invest the trust fund in stocks
-
-- Privatization
-
-## Advantages of a privately funded pension system with individual accounts:
-
-- the capital is in the hands of individuals rather than the State;
-
-- it respects consumer sovereignty over investment choices.
-
-- returns are higher.
-
-## A crucial question: **how can the current generation of pensioners be supported?**
-
-## Other critical issues:
-
-- Would a private pension system really offer a higher rate of return? The debt inherited from the
-
-- first generation of pensioners would need to be financed.
-
-- Administrative and management costs would be very high
-
-- Policymakers might be unwilling to respect consumer sovereignty over savings earmarked for
-
-- pensions.
-
-# A focus on the Italian case
-
-## The demographic dangers of pay-as-you-go pension systems
-
-## Italy - Elderly dependence index: Population 65+/ Population 15-64
-
-## Population trends in Italy
-
-Since the 1990s, the Italian pension system has been under strong pressure due to population aging, driven by rising life expectancy and declining birth rates.
-
-## A timeline of Italian reforms
-
-Pre-Amato:
-
-- earnings-related calculation method with pensionable earnings equal to the **average of earnings over the last five years** , β = 2%.
-
-> 1992 - Pensions were indexed to both wage growth and inflation.
-
-Amato
-
-1995 Dini
-
-2011 Fornero
-
-## The Amato Reform (1992)
-
-- The earnings-related calculation method is maintained, but pensionable earnings are no longer calculated as the average of the last five years of earnings; instead, they are calculated as **the average of earnings over the entire working life, appropriately revalued** .
-
-- 1992
-
-## Amato
-
-- The statutory retirement age for old-age pensions (with at least 20 years of contributions) increases from 60 to 65 for men and from 55 to 60 for women.
-
-- Eligibility for seniority pensions requires at least 35 years of contributions.
-
-- Pensions are indexed only to inflation and no longer to wage growth: the pension received in the first year increases in subsequent years only in line with inflation.
-
-- From an intergenerational equity perspective, those who were already retired are favored relative to younger cohorts.
-
-## The Dini Reform (1995)
-
-- Remaining within a pay-as-you-go system, a shift is **introduced from the earningsrelated calculation method to the contribution-based calculation method**: the pension is calculated by multiplying the accumulated contribution amount (obtained by applying a 33 percent contribution rate to earnings) by a rate equal to the five-year moving average of the growth rate of nominal GDP. This amount is then multiplied by a conversion coefficient that ensures equality between the accumulated contributions and total pension benefits and that varies with life expectancy at retirement: the lower the life expectancy (and thus the older the retiree), the higher the pension. **This mechanism discourages individuals from retiring early. The contribution-based**
-
-- 1995 **calculation method reduces the level of pensions.**
-
-Dini
-
-- The conversion coefficients are updated every ten years, in order to adjust pensions to changes in life expectancy and thus avoid financial imbalances due to population aging.
-
-- The retirement age is set within a window between 57 and 65 years. However, the above-mentioned disincentive effect still applies, meaning that in terms of pension benefits **it is advantageous to postpone retirement.**
-
-- Pensions continue to be indexed only to the inflation rate.
-
-- This system applies only to individuals who started working from 1 January 1996 onwards. It does not apply to those who had more than 18 years of contributions as of that date; for them, a pro-rata or mixed system applies.
-
-## In beween the Dini reform and the Fornero reform
-
-- Prodi (1998): the age requirements for seniority pensions are raised. The aim is to harmonize regulations across different categories of workers.
-
-- Maroni Law (2004): eliminates the retirement flexibility introduced by the Dini reform. From 1 January 2008, a single requirement is introduced: either 40 years of contributions, or 35 years of contributions and 65 years of age for men / 60 for women.
-
-- Prodi (2007): to make access to pensions more flexible, a quota system is introduced, linking eligibility for retirement to both chronological age and contributory seniority.
-
-- 2009: equalization of the retirement age for men and women.
-
-## The Fornero Reform (2011)
-
-- Application of the **contribution-based calculation method for everyone** starting from 1 January 2012. Even for those who had more than 18 years of contributions in 1995, a prorata system applies, under which the pension is calculated using the earnings-related method up to 2011 and the contribution-based method from 2012 onwards.
-
-- **Adjustments to life expectancy** , which determine eligibility requirements and conversion coefficients, are made **every two years** starting from 2019.
-
-- **Increase in contribution rates** for both self-employed workers and employees.
-
-- **Abolition of the quota system** for retirement age and introduction of **new criteria for access to old-age pensions and early retirement pensions** . For old-age pensions, at least 20 years of contributions are required, along with a statutory retirement age that gradually increases to reach 67 years for everyone by 2020. The pension benefit is set at no less than 1.5 times the amount of the social allowance. For early retirement pensions, a lower statutory age is allowed, but stricter contribution requirements apply, together with a penalty (on the earnings-related component) of 1 percent for each year of retirement before age 62, and 2 percent for each additional year beyond the first two years of early retirement. “Contribution-based” workers, instead, may access early retirement at age 63 with 20 years of effective contributions, provided that the monthly pension exceeds 2.8 times the social pension.
-*(See also: [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)#^h4mz1k]])*
-
-2011 Fornero
-
-- Indexation of pensions to inflation is provided in 2012–13 **only for pensions below** three times the minimum benefit.
-
-## Flexibility in the retirement age
-
-- The scenario following the Fornero Reform reopened the issue of flexibility in retirement: there are workers who wish to retire earlier and are potentially willing to accept a penalty.
-
-- Examples: APE sociale, Quota 103, and Opzione Donna.
-
-Public pension spending over GDP in Italy (2000-2070)
-
-# Exercises
-
-- 1) In the state of Fantasyland, workers can choose between a pay-go system and a fully-funded system. Given that the expected interest rates are about 2%, the expected population growth rate is 3% and the expected wage growth rate is 1%, what do you expect to observe?
-
-- a) All workers will opt for the pay-go system
-
-- b) All workers will opt for the fully funded system
-
-- c) 50% of workers will opt for the pay-go system and 50% of workers will opt for the fully funded system
-
-- d) We cannot answer given the insufficient data provided
-
-- 2) Consider a citizen who worked for three years before retiring, with salaries equal to 40, 45 and 50 respectively in the three years. Her pension gets computed using the earning-based method. If the coefficient of return is 0,2 percent, how much would her pension be?
-
-- a) 30
-
-- b) 50
-
-- c) It depends on how the pensionable wage is computed (ex: lifetime average vs last year salary)
-
-- d) It depends on the payroll tax rate alpha
-
-- 3) Which of the following best characterizes the Dini Reform (1995) of the Italian pension system?
-
-- a) It replaced the pay-as-you-go system with a fully funded system
-
-- b) It introduced a contribution-based calculation method linked to life expectancy
-
-- c) It indexed pensions to wage growth rather than inflation
-
-- d) It immediately applied the new system to all workers regardless of seniority
-
-## 4) Which of the following was a key effect of the Fornero Reform (2011)?
-
-a) It reintroduced retirement age flexibility through a quota system b) B. It abolished the contribution-based method for older workers
-
-- c) It accelerated the increase in the statutory retirement age and linked it to life expectancy
-
-d) It restored pension indexation to both wages and inflation
-
-- 5) Which statement best describes a key disadvantage of a pay-as-you-go (PAYG)
-
-- pension system?
-
-a) It cannot provide pensions to the first generation of retirees b) Its return depends on financial market performance
-
-c) It is vulnerable to population aging and declining worker-to-retiree ratios d) It eliminates moral hazard in retirement decisions
-
-## True/False Questions (please provide an explanation)
-
-1) In a pay-as-you-go pension system, the implicit rate of return is unaffected by demographic changes once the system is in financial equilibrium.
-
-2) Transitioning from a pay-as-you-go system to a fully funded system can make all generations better off without additional financing costs.
-
-- 3) In a contribution-based PAYGO pension system, linking benefits to life expectancy reduces the financial impact of population aging on the system.
-
-## Exercise 1
-
-Consider a country with a Pay-as-you-go pension system, The average salary if workers is w=200;
-
-a) Assume that there are Nr=2000 retired people e Nw= 3000 workers and that the payroll tax rate alpha is 0,5, please compute the replacement rate (assuming no population growth and constant salaries)
-
-b) Assume 1000 workers, whose salary is equal to the average one, leave the country. What is the new payroll tax rate we would have in equilibrium, ensuring the same average pension as in point a?
-
-c) If we wanted to keep rate alpha equal to 0,5 even after the emigration, how much would the replacement rate then be?
-
-## Exercise 2
-
-Consider an individual who worked and paid contributions for three period. Her wage was 20 in the first period, 15 in the second, 10 in the third.
-
-a) Please compute the pension to be received by this individual under the earning-based method, considering as pensionable wage the average wage over the full career, given a coefficient of return beta of 0,05.
-
-b) How would your answer to the previous part change if the pension were to be computed using as pensionable wage the last wage received by the individual?
-
+### Topic 1: Introduction and the European Context
+- **Slide 1: Title Slide**
+	- **Summary:** The title slide introduces the lecture on “Social Security (Pension System)” from the Public Finance course
+- **Slide 2: Social Security spending in Europe**
+	- **Graph Explanation:** A stacked bar chart showing Social Security spending as a percentage of GDP across various European countries. The bars are divided by function:
+		- Old-age (blue)
+		- Disability (orange)
+		- Survivors (gray)
+		- Unemployment (yellow)
+	- **Key Points:** Italy spends a significant portion of its GDP on social security, predominantly driven by old-age and survivors' pensions, placing it among the highest spenders alongside France and Greece
+- **Slide 3: Pension spending trends in Europe**
+	- **Graph Explanation:** A line graph tracking pension spending as a percentage of GDP from 1995 to 2022 across multiple European countries
+	- **Key Points:** Most countries show an upward trajectory in spending over time. Italy (red line) gas consistently remained one of the highest spenders throughout the observed decades
+- **Slide 4: Lecture Outline**
+	- **Summary:** Outlines the lecture's core themes:
+		1. Why the government provides social security?
+		2. The types of systems (PAYGO vs. fully funded)
+		3. Risks like moral hazard
+		4. Financial equilibrium
+		5. Specific focus on the Italian reform case
+### Topic 2: The Rationale and Types of Pension Systems
+- **Slide 5: Why should the government provide social security?**
+	- **Summary:** Explains the rationale for state intervention. The primary “adverse event” is getting too old to earn a sufficient income
+	- **Key Points:** While private pension plans (where current savings are invested in bonds/stocks to fund future benefits) exist, they are prone to failure. Inflation and poor financial market performance can severely lower the “replacement ratio” (the ratio of benefits to pre-retirement earnings). Additionally, individuals often underestimate their future needs, making private markets inefficient for this social risk
+- **Slide 6 & 7: Types of pension systems & Public Systems**
+	- **Summary:** Defines two primary structures of pension systems
+	- **Key Points:** 
+		- **Fully Funded:** <mark style="background:rgba(240, 200, 0, 0.2)">Workers' contributions are actively invested in capital markets to fund their own future pensions</mark>
+		- **Pays-As-You-Go (PAYGO):** <mark style="background:rgba(240, 200, 0, 0.2)">An unfunded scheme based on an intergenerational pact. The taxes collected from active workers today go directly to pay for today's retirees, with the expectation/intergenerational promise that the next generation will do the same for them</mark>
+- **Slide 8 & 9: Diagrams of Funding Systems**
+	- **Summary:** Visual diagrams illustrating the flow of money. In PAYGO, funds move diagonally from workers at time $t$ to retirees at time $t$. In Fully Funded systems, funds stay with the cohort, moving from workers into a “Fund,” which pays out to that same cohort when they become retirees at time $t+1$.
+### Topic 3: Comparing Systems: Financing and Returns
+- **Slides 10, 11, & 13: Comparison Overview**
+	- **Summary:** Transition slides establishing the three dimensions used to compare systems:
+		- Financing method
+		- Rate of return
+		- Method for calculating benefits
+- **Slide 12: Financing Method**
+	- **Summary:** Details the core mathematical difference in financing
+	- **Key Points:** <mark style="background:rgba(240, 200, 0, 0.2)">In PAYGO</mark>, $C_t$ =>$P_t$ <mark style="background:rgba(240, 200, 0, 0.2)">(contributions at time t fund pensions at time t)</mark>. <mark style="background:rgba(240, 200, 0, 0.2)">In a Fully Funded system</mark>, $P_t = C_{t-1} \times (1+i)$, <mark style="background:rgba(240, 200, 0, 0.2)">meaning pensions equal past contributions multiplied by the capital market's interest rate</mark> ($i$)
+- **Slide 14-16: Pension systems' returns**
+	- **Summary:** Explains how "implicit returns" are calculated in PAYGO versus actual returns in Fully Funded systems
+	- **Key Points:** 
+		- The implicit return of PAYGO is driven by population growth ($n$) and productivity/wage growth ($m$). The rate is approximately $n+m$
+		- The return for a Fully Funded system is simply the market interest rate ($i$)
+		- PAYGO offers a better return than a Fully Funded system only if population and wage growth combined exceed the interest rate ($(n+m)>i$)
+- **Slides 17 & 18: PAYGO system return rate (Example & Conclusion)**
+	- **Summary:** A numerical table and its implications, assuming 5% population/wage growth and a 10% tax
+	- **Key Points:** PAYGO allows a state to pay seniors immediately. However, it creates a “First Generation Effect” (the very first retirees get an infinite return because they never paid in) and a potential “Last Generation Effect” (if the system collapses, the final workers get a -100% return)
+### Topic 4: PAYGO Computation Methods
+- **Slide 20-22: Earnings-based PAYGO system**
+	- **Summary:** Explains how pensions are calculated based on past salaries
+	- **Key Points:** 
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Earnings-based: a company promising to pay you 70% of your final salary for the rest of your life, regardless of how long you live</mark>
+		- The formula is $P = \beta \times W_p \times L$ <mark style="background:rgba(240, 200, 0, 0.2)">(Pension equals a coefficient of return times pensionable earnings, times years worked). Pensionable earnings</mark> ($W_p$) <mark style="background:rgba(240, 200, 0, 0.2)">can be calculated generously (using just the last salary before retirement) or strictly (using a lifetime average)</mark>
+- **Slide 23-25: Contribution-based PAYGO**
+	- **Summary:** Explains a system that mimics a funded system but remains unfunded
+	- **Key Points:** 
+		- <mark style="background:rgba(240, 200, 0, 0.2)">Contribution-based: A piggy bank that lets you get back exactly what you put in, and if you are going to live a very long time, you have to stretch those same savings out into much smaller monthly portions</mark>
+		- The pension is determined by the total contributions paid ($C$) divided by the expected years of life at retirement ($e(L)$). This introduces a “transformation coefficient” ($\frac{1}{e(L)}$) which automatically lowers the yearly pension payout as life expectancy increases, passing the burden of an aging population directly to the retirees
+- **Slide 26: Fully funded pension system: computation method**
+	- **Summary:** Under a fully funded approach, the accumulated capital ($C$) grows via the actual market interest rate ($i$) and is then paid out based on life expectancy
+- **Slide 27: Summary Table**
+	- **Summary:** A matrix comparing the three systems (PAYGO Earnings-based, PAYGO Contribution-based, and Fully-funded) across their financing sources, total pension bill drivers, and individual pension calculators![[Pasted image 20260315115200.png]]
+### Topic 5: Poverty, Justifications, and Moral Hazard
+- **Slide 28: Justifications for State Intervention**
+	- **Summary:** Re-evaluates why the state is involved: 
+		- A**dverse selection in private markets** (individuals know their life expectancy better than insurers)
+		- **Paternalism** (governments fear people won't save enough)
+- **Slide 29 & 30: Living standards of the elderly (US & Italy)**
+	- **Graph Explanation:** Two line charts (one for the US, and one for Italy) plotting Social Security spending against elderly poverty rate 
+	- **Key Points:** Both countries show a striking, inverse correlation over time. As social security spending increased, the poverty rate among the elderly fell significantly, confirming the system's success in stabilizing consumption
+- **Slide 31 & 32: The impact of the pension system on retirement age**
+	- **Summary:** Introduces the problem of moral hazard in pension system
+	- **Key Points:** Systems often apply an “implicit tax” on labor. If you work an extra year you pay another year of taxes AND forfeit a year of pension payouts. If the resulting bump in future pension levels is not actuarially fair, it heavily incentivizes workers to retire at the earliest possible dates
+- **Slide 33 & 34: Moral Hazard Evidence (US & Italy)**
+	- **Graph Explanation:** Line graphs mapping Social Security Spending against the Labor Force Participation (LFP) rate of elderly
+	- **Key Points:** As spending on pension grew rapidly in the 1960s-1970s, labor force participation plummeted, proving that workers react to the incentives of the system
+- **Slide 35: Strike in Retirement Hazard at EEA**
+	- **Graph Explanation:** A line graph plotting the exit rate of male workers against age
+	- **Key Points:** There are massive spikes in retirement exactly at age 62 (Early Entitlement Age) and 65 (Full Retirement Age), proving people time their retirement directly to system rules
+- **Slide 36 & 37: Implicit Taxes and Implications**
+	- **Graph Explanation:** A scatter plot showing an incredibly strong correlation ($R^2 = 0.82$) between a country's "Disincentive to work" and the percentage of “Nonworking Elderly”
+	- **Key Points:** Countries like Italy and Belgium have high disincentive and high non-work rates, while Japan has low disincentive and high elderly work rates. Adjusting systems to fairly reward late retirement can mitigate this costly moral hazard
+### Topic 6: Social Security Reforms and Equilibrium
+- **Slide 38 & 39: Financial Imbalance and Demographics**
+	- **Summary:** PAYGO systems face a major crisis
+	- **Key Points / Graph:** The imbalance is driven by rising life expectancy, falling births, and lower wage growth. The graph shows the US ratio of older adults to working age people will more than triple (from 13 per 100 in 1950 to 42 per 100 in 2060)
+- **Slide 40 & 41: Financial equilibrium in a PAYGO system**
+	- **Summary:** Outlines the mathematical balance required to sustain the system: $P \cdot N_r = \alpha \cdot N_w \cdot w$ (Total Pensions = Total Contributions)
+	- **Key Points:** Because the number of retirees ($N_r$) is increasing, policymakers are forced to reform by either raising taxes ($\alpha$), lowering average pension ($P$), or raising the retirement age (which shifts people from the $N_r$ pool to the $N_w$ pool)
+- **Slide 42 & 43: Incremental vs Fundamental Reforms**
+	- **Summary:** Discusses solutions
+	- **Key Points:** Incremental reforms involve tweaking the math (raising taxes, lowering benefits, raising the age). Fundamental reforms involve privatization. While privatization puts capital in individuals' hands and respects consumer sovereignty, it triggers a massive transition problem: how do we pay for the current generation of retirees if current workers are putting their money into private accounts?
+### Topic 7: The Italian Pension System Care
+- **Slides 44, 45, & 46: Demographics in Italy**
+	- **Graph Explanation:**
+		- Slide 45 shows Italy's “Elderly dependence index” steeply climbing from 10% in 1940 to over 60% by 2060
+		- Slide 46 shows a population pyramid bar chart comparing 2000 vs 2050, visibly demonstrating the severe aging of the population structure
+	- **Key Points:** Italy's system has been under severe pressure since the 1990s due to this aging trajectory
+- **Slide 47: Timeline of Italian Reforms**
+	- **Summary:** Marks the major reforms:
+		- 1992 -> AMATO
+		- 1995 -> DINI
+		- 2011 -> FORNERO
+- **Slide 48: The Amato Reform (1992)**
+	- **Summary:** An incremental reform
+	- **Key Points:** Kept the earnings-related method but switched the calculations base from the last 5 years of salary to the *entire* working life average, significantly lowering payouts. It raised retirement ages and indexed pensions only to inflation, ceasing indexation to wage growth
+- **Slide 49: The Dini Reform (1995)**
+	- **Summary:** A major structural reform
+	- **Key Points:** Shifted Italy from an earnings-based PAYGO to a *contribution-based* PAYGO system. It introduced conversion coefficients tied to life expectancy, meaning longer-living populations, would automatically receive lower yearly pensions, discouraging early retirement. However, it applied only to new workers (1996 and forward)(pro-rata for others), delaying its fiscal impact
+- **Slide 50: In between Dini and Fornero**
+	- **Summary:** Outlines stopgap measures by Prodi (1998, 2007) and Maroni (2004) attempting to tweak seniority rules and quota systems to restrict early retirement
+- **Slide 51: The Fornero Reform (2011)**
+	- **Summary:** A drastic tightening of the system due to the financial crisis
+	- **Key Points:** Forced the contribution-based calculation on *everyone* starting in 2012 (pro-rata). It raised the statutory retirement age rapidly toward 67 by 2020 and linked future age requirements automatically to life expectancy. It heavily penalized early retirement
+- **Slide 52 & 53: Flexibility and the Future**
+	- **Summary / Graph:** Because Fornero was so strict, subsequent governments introduced flexibility loopholes (like Quota 103 or Opzione Donna) for those willing to accept penalties. Slide 53's graph models Italy's public pension spending, showing it spiking near 17% in 2040 before the demographic wave passes, and it declines to 13.7% by 2070
 ## Related Notes
 - [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
 - [[L18 L19_Taxes on savings]]
