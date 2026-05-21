@@ -204,16 +204,9 @@ def cmd_build():
         lines.append(f"\n## {sub} ({len(sub_entries)})\n")
         for e in sub_entries:
             lines.append(f"- [[{e['path']}|{e['title']}]]")
-        # Per-folder index
-        idx_path = WIKI / sub / "index.md"
-        idx_lines = [f"# {sub} Index\n", f"_Generated {date.today().isoformat()}_\n"]
-        for e in sub_entries:
-            idx_lines.append(f"- [[{e['path']}|{e['title']}]]")
-        idx_path.write_text("\n".join(idx_lines) + "\n", encoding="utf-8")
 
     WIKI_INDEX.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("  Wiki/index.md: written")
-    print("  Per-folder indexes: written")
     print("build: DONE")
 
 
