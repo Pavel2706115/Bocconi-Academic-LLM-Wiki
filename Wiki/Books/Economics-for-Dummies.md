@@ -1,6 +1,6 @@
 ---
 tags:
-  - "topic"
+  - "book"
 topics:
   - "[[Wiki/Topics/Microeconomics]]"
   - "[[Wiki/Topics/Macroeconomics]]"

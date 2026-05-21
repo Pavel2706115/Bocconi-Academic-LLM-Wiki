@@ -30,8 +30,8 @@ WIKI_INDEX = WIKI / "index.md"
 SOURCE_MANIFEST = SCHEMA / "source-manifest.jsonl"
 WIKI_LOG = WIKI / "log.md"
 
-ALLOWED_TAGS = {"topic", "concept", "entity", "project", "log"}
-WIKI_SUBDIRS = ["Topics", "Concepts", "Entities", "Projects", "Logs"]
+ALLOWED_TAGS = {"topic", "concept", "entity", "project", "log", "book"}
+WIKI_SUBDIRS = ["Topics", "Concepts", "Entities", "Projects", "Logs", "Books"]
 
 # ── YAML-lite parser (no external deps) ─────────────────────────────────────
 
@@ -135,7 +135,7 @@ def cmd_doctor():
 
     # Folder checks
     for d in ["Raw/Sources", "Raw/Files", "Wiki/Topics", "Wiki/Concepts",
-              "Wiki/Entities", "Wiki/Projects", "Wiki/Logs", "Schema",
+              "Wiki/Entities", "Wiki/Projects", "Wiki/Logs", "Wiki/Books", "Schema",
               "_templates", ".agents/skills", "scripts"]:
         p = ROOT / d
         status = "OK" if p.is_dir() else "MISSING"
@@ -259,6 +259,25 @@ def cmd_lint():
                     errors.append(f"{p}: topic note missing '## Core Concepts' heading")
                 if not re.search(r"^##\s+Key\s+Takeaways\b", content, re.MULTILINE):
                     errors.append(f"{p}: topic note missing '## Key Takeaways' heading")
+            except Exception as e:
+                errors.append(f"{p}: failed to read file content for body checks: {e}")
+
+        # Book-specific checks
+        is_book_dir = p.startswith("Wiki/Books/")
+        if is_book_dir and tag != "book":
+            errors.append(f"{p}: note in Wiki/Books/ must have the 'book' tag (found '{tag}')")
+        elif not is_book_dir and tag == "book":
+            errors.append(f"{p}: note with 'book' tag must be located in Wiki/Books/ directory")
+
+        if tag == "book":
+            try:
+                content = note.read_text(encoding="utf-8", errors="replace")
+                if not re.search(r"^##\s+Overview\b", content, re.MULTILINE):
+                    errors.append(f"{p}: book note missing '## Overview' heading")
+                if not re.search(r"^##\s+Core\s+Concepts\b", content, re.MULTILINE):
+                    errors.append(f"{p}: book note missing '## Core Concepts' heading")
+                if not re.search(r"^##\s+Key\s+Takeaways\b", content, re.MULTILINE):
+                    errors.append(f"{p}: book note missing '## Key Takeaways' heading")
             except Exception as e:
                 errors.append(f"{p}: failed to read file content for body checks: {e}")
 

@@ -50,7 +50,7 @@ aliases: []
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| `tags` | list | Yes | Exactly one of: `topic`, `concept`, `entity`, `project`, `log` |
+| `tags` | list | Yes | Exactly one of: `topic`, `concept`, `entity`, `project`, `log`, `book` |
 | `topics` | list | Yes | Related topic note links |
 | `status` | string | Yes | One of: `seed`, `draft`, `reviewed`, `stable` |
 | `created` | date | Yes | Date the note was created |
@@ -67,4 +67,14 @@ In addition to the general Compiled Wiki Note fields above, any note with the `t
    - `## Overview` — Summarizes the high-level subject, scope, and course module boundaries.
    - `## Core Concepts` — Links and lists the primary concepts (`Wiki/Concepts/`) associated with the subject.
    - `## Key Takeaways` — Lists the central academic/practical takeaways of the subject.
+
+### Book Note Constraints (`Wiki/Books/`)
+
+Any note with the `book` tag is subject to strict constraints to keep academic book overviews standardized:
+1. **Directory Location**: Must reside strictly under `Wiki/Books/`. Conversely, all notes under `Wiki/Books/` must have the `book` tag.
+2. **Structural Sections**: Must contain exactly three H2 headings in its body:
+   - `## Overview` — Detailed chapter-by-chapter walkthrough of the book's parts/chapters.
+   - `## Core Concepts` — Mapped concepts and links inside the LLM Wiki that the book covers or supports.
+   - `## Key Takeaways` — Detailed list of major academic and educational takeaways from the book.
+
 

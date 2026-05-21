@@ -3,9 +3,8 @@
 _Generated 2026-05-21_
 
 
-## Topics (11)
+## Topics (10)
 
-- [[Wiki/Topics/Books/Economics-for-Dummies.md|Economics for Dummies]]
 - [[Wiki/Topics/Corporate-Finance.md|Corporate Finance]]
 - [[Wiki/Topics/Economic-History.md|Economic History]]
 - [[Wiki/Topics/Financial-Accounting.md|Financial Accounting]]
@@ -154,3 +153,7 @@ _Generated 2026-05-21_
 - [[Wiki/Logs/Antigravity-Session-May-18/implementation_plan.md|implementation_plan]]
 - [[Wiki/Logs/Antigravity-Session-May-18/task.md|task]]
 - [[Wiki/Logs/Antigravity-Session-May-18/walkthrough.md|walkthrough]]
+
+## Books (1)
+
+- [[Wiki/Books/Economics-for-Dummies.md|Economics for Dummies]]

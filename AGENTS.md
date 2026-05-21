@@ -4,8 +4,8 @@ This file defines the rules every AI agent **must** follow when reading or writi
 
 ## Core Principles
 
-1. **Raw vs Wiki separation**: `Raw/Sources/` contains original source material (lecture notes, slides, transcripts). Never edit Raw sources unless explicitly asked. Never treat them as compiled knowledge.
-2. **Write knowledge to Wiki only**: Reusable, compiled knowledge notes belong in `Wiki/` — organized under `Topics/`, `Concepts/`, `Entities/`, `Projects/`, or `Logs/`.
+1. Raw vs Wiki separation: Raw/Sources/ contains original source material (lecture notes, slides, transcripts). Never edit Raw sources unless explicitly asked. Never treat them as compiled knowledge.
+2. Write knowledge to Wiki only: Reusable, compiled knowledge notes belong in `Wiki/` — organized under `Topics/`, `Concepts/`, `Entities/`, `Projects/`, `Logs/`, or `Books/`.
 3. **Source traceability**: Every compiled Wiki note **must** link back to one or more Raw sources in its `sources` frontmatter field. The `source_count` field must equal the length of `sources`. Do not invent citations or create unsupported claims.
 4. **Catalog-first search**: Before opening broad Raw context, search `Wiki/catalog.jsonl` for existing compiled notes. Open Raw sources only when compiled notes are insufficient or the user asks for source-level verification.
 5. **Maintenance gates**: Run `build`, `lint`, and `source-lint` checks before every meaningful commit.
@@ -21,6 +21,7 @@ This file defines the rules every AI agent **must** follow when reading or writi
 | `Wiki/Entities/` | People, institutions, tools | Agent |
 | `Wiki/Projects/` | Project tracking notes | Agent |
 | `Wiki/Logs/` | Timestamped activity logs | Agent |
+| `Wiki/Books/` | Detailed academic book overviews | Agent |
 | `Schema/` | Rules, specs, manifests | Agent (setup only) |
 | `_templates/` | Note templates | Agent (setup only) |
 | `.agents/skills/` | Agent skill definitions | Agent (setup only) |
@@ -35,6 +36,7 @@ Only these tags may appear in compiled Wiki notes:
 - `entity`
 - `project`
 - `log`
+- `book`
 
 ## Workflow: Ingesting a New Source
 
