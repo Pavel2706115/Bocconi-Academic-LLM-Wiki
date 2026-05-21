@@ -16,7 +16,7 @@ _Generated 2026-05-21_
 - [[Wiki/Topics/Public-Finance.md|Public Finance]]
 - [[Wiki/Topics/Statistics.md|Statistics]]
 
-## Concepts (111)
+## Concepts (114)
 
 - [[Wiki/Concepts/30001-STATISTICS-Overview.md|30001 STATISTICS Overview]]
 - [[Wiki/Concepts/30006-FINANCIAL-MARKETS-AND-INSTITUTIONS-Overview.md|30006 FINANCIAL MARKETS AND INSTITUTIONS Overview]]
@@ -54,6 +54,7 @@ _Generated 2026-05-21_
 - [[Wiki/Concepts/Depreciation-and-Amortization.md|Depreciation and Amortization]]
 - [[Wiki/Concepts/Descriptive-Statistics.md|Descriptive Statistics]]
 - [[Wiki/Concepts/Education-Economics.md|Education Economics]]
+- [[Wiki/Concepts/Efficient-Market-Hypothesis.md|Efficient Market Hypothesis]]
 - [[Wiki/Concepts/Elasticity.md|Elasticity]]
 - [[Wiki/Concepts/Equity-Valuation.md|Equity Valuation]]
 - [[Wiki/Concepts/Exercises-Overview.md|Exercises Overview]]
@@ -78,6 +79,7 @@ _Generated 2026-05-21_
 - [[Wiki/Concepts/Income-Redistribution.md|Income Redistribution]]
 - [[Wiki/Concepts/Income-Statement.md|Income Statement]]
 - [[Wiki/Concepts/Income-Taxes-Overview.md|Income Taxes Overview]]
+- [[Wiki/Concepts/Index-Investing.md|Index Investing]]
 - [[Wiki/Concepts/Industrial-Revolution.md|Industrial Revolution]]
 - [[Wiki/Concepts/Interest-Rates.md|Interest Rates]]
 - [[Wiki/Concepts/Internal-Rate-of-Return.md|Internal Rate of Return]]
@@ -129,6 +131,7 @@ _Generated 2026-05-21_
 - [[Wiki/Concepts/Tax-Inefficiency.md|Tax Inefficiency]]
 - [[Wiki/Concepts/Taxation-Principles.md|Taxation Principles]]
 - [[Wiki/Concepts/Uncategorized-Overview.md|Uncategorized Overview]]
+- [[Wiki/Concepts/Value-Investing.md|Value Investing]]
 
 ## Entities (9)
 
@@ -154,6 +157,7 @@ _Generated 2026-05-21_
 - [[Wiki/Logs/Antigravity-Session-May-18/task.md|task]]
 - [[Wiki/Logs/Antigravity-Session-May-18/walkthrough.md|walkthrough]]
 
-## Books (1)
+## Books (2)
 
 - [[Wiki/Books/Economics-for-Dummies.md|Economics for Dummies]]
+- [[Wiki/Books/The-Intelligent-Investor.md|The Intelligent Investor]]
