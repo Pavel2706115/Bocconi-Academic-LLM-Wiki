@@ -3,10 +3,14 @@ course: Financial Accounting 2
 course_code: "30693"
 tags:
   - "source"
+  - course_30693
+Links:
 Title: "Accounting and taxation: transfer pricing & profit shifting"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # Accounting and taxation: transfer pricing & profit shifting
 

@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "EXTERNAL ANALYSIS: INDUSTRY STRUCTURE, COMPETITIVE FORCES, AND STRATEGIC GROUPS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # EXTERNAL ANALYSIS: INDUSTRY STRUCTURE, COMPETITIVE FORCES, AND STRATEGIC GROUPS
 

@@ -1,15 +1,16 @@
 ---
-Title: "16_Atlantic Charter"
-Author: "Bocconi"
-Reference: "Course Material"
-ContentType:
-  - "markdown"
-Created: 2026-05-18
-Processed: true
+course: Economic History
+course_code: "30067"
 tags:
   - "source"
-
+  - course_30067
+Links:
+Title: "16_Atlantic Charter"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: false
 ---
+
 
 **==> picture [322 x 85] intentionally omitted <==**
 

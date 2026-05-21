@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "INSTITUTIONAL EQUILIBRIUM"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **UNDERSTANDING THE PURPOSE AND THE SYSTEM OF FINANCIAL STATEMENTS 30060 – MANAGEMENT**
 

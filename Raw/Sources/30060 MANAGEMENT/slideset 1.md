@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "ROLE OF THE ENTREPRENEUR, GOVERNMENT AND ETHICS IN BUSINESS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## AN INTRODUCTION TO THE ECONOMIC ACTIVITY
 

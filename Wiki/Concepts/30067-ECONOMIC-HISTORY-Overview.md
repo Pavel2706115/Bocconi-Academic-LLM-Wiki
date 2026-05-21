@@ -13,7 +13,6 @@ sources:
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/13_Economic Instability.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/14_The 1929 financial Crisis.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/15_The 1929 financial Crisis part 2.md]]"
-  - "[[Raw/Sources/30067 ECONOMIC HISTORY/16_Atlantic Charter.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/16_state intervention - Europe and WWII .md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/17_Prosperity at last.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/18_Decolonization and Asian Tigers.md]]"
@@ -28,7 +27,7 @@ sources:
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/9_the first phase of globalisation.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/Economic History Blab Handout 2024-2025 A.Y..md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/Reading on Constitutional Justice My Copy.md]]"
-source_count: 21
+source_count: 20
 aliases:
   - "30067 ECONOMIC HISTORY Overview"
 ---

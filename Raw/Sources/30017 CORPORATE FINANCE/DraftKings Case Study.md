@@ -1,13 +1,16 @@
 ---
-course: "Corporate Finance"
+course: Corporate Finance
 course_code: "30017"
 tags:
   - "source"
   - course_30017
+Links:
 Title: "DraftKings Case Study"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## Executive Summary
 

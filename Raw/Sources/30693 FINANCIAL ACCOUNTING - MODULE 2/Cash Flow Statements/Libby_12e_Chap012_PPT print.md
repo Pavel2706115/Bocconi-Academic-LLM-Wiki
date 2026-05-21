@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 2"
+course: Financial Accounting 2
 course_code: "30693"
 tags:
   - "source"
   - course_30693
+Links:
 Title: "**A common rule of thumb followed by financial and credit analysts is to avoid firms with rising net income but falling cash flow from operations.** In the long run, operations are the only source of cash!"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **Financial Accounting** 12e
 

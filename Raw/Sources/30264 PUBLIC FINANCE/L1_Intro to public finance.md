@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Introduction to Public Finance"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ### Topic 1: Introduction to Public Finance & Government Size
 - **Slide 1: Why Study Public Finance?**

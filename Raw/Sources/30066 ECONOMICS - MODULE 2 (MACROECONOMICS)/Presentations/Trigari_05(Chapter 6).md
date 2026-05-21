@@ -1,13 +1,16 @@
 ---
-course: "Macroeconomics"
+course: Macroeconomics
 course_code: "30066"
 tags:
   - "source"
   - course_30066
+Links:
 Title: "Chapter 6 - Financial markets and the extended IS LM model"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # Chapter 6 - Financial markets and the extended IS LM model
 

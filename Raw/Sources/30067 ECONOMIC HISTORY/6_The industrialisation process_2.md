@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "6_The industrialisation process_2"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 FROM THE SPREAD OF IR TO THE SECOND IR ALFANI-COLLI, CH. 5.3 AND 6
 

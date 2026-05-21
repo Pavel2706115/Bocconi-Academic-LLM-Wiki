@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 2"
+course: Financial Accounting 2
 course_code: "30693"
 tags:
   - "source"
   - course_30693
+Links:
 Title: "1. DEFINING FINANCIAL STATEMENT FRAUD"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## INTRODUCTION TO FINANCIAL STATEMENT FRAUD
 

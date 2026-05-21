@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "14_The 1929 financial Crisis"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## THE CRISIS OF CAPITALISM PART 1
 

@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "ACC_3(1)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **UNDERSTANDING HOW THE PROFIT AND LOSS ACCOUNT WORKS 30060 - MANAGEMENT**
 

@@ -1,13 +1,16 @@
 ---
-course: "Financial Markets and Institutions"
+course: Financial Markets and Institutions
 course_code: "30006"
 tags:
   - "source"
   - course_30006
+Links:
 Title: "Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Bond Market (Chapter 12)**"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **The Bond Market (Chapter 12)**
 

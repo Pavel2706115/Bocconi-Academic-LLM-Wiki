@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 2"
+course: Financial Accounting 2
 course_code: "30693"
 tags:
   - "source"
   - course_30693
+Links:
 Title: "NCI NI = (PrSub +- Adj) * %NCI"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## Accounting for Business Combinations
 

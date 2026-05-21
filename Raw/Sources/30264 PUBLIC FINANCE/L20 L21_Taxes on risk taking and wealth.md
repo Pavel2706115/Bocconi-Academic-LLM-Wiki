@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "L20 L21_Taxes on risk taking and wealth"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 ## Section: Introduction and Motivation
 
 ### Slide 1: Taxes on Risk Taking and Wealth (Ch.23)

@@ -29,7 +29,7 @@ aliases:
 
 ## Overview
 
-Economic History (30067) traces the evolution of economic systems from pre-industrial agrarian societies through industrialisation, globalisation, crises, and the post-war order. Based on Alfani-Colli with primary source readings. Taught by Sonia Schifano.
+Economic History (30067) traces the evolution of economic systems from pre-industrial agrarian societies through industrialization, globalization, crises, and the post-war order. Based on Alfani-Colli with primary source readings. Taught by Sonia Schifano.
 
 ## Core Concepts
 

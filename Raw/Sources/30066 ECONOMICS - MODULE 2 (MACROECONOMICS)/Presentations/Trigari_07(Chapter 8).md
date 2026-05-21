@@ -1,13 +1,16 @@
 ---
-course: "Macroeconomics"
+course: Macroeconomics
 course_code: "30066"
 tags:
   - "source"
   - course_30066
+Links:
 Title: "Chapter 8 The Phillips curve"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # Chapter 8 The Phillips curve
 

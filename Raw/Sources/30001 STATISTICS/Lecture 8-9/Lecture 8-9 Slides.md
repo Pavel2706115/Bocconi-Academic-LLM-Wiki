@@ -1,13 +1,16 @@
 ---
-course: "Statistics"
+course: Statistics
 course_code: "30001"
 tags:
   - "source"
   - course_30001
+Links:
 Title: "Joint analysis of two variables Qualitative variables (or discrete taking few distinct values)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **TABLES, GRAPHS AND SUMMARY MEASURES IN THE ANALYSIS OF TWO VARIABLES**
 

@@ -8,7 +8,9 @@ Links:
 Title: "**2** Why Have Social Insurance? Asymmetric Information and Adverse Selection"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 ### Introduction & Context
 - **Slide 1: Title Slide**
 	- **Text:** The lecture covers “Social Insurance,” referencing Chapter 12 from Gruber's textbook

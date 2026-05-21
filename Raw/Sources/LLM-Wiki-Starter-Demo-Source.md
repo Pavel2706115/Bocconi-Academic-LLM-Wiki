@@ -1,15 +1,16 @@
 ---
-Title: "LLM Wiki Starter Demo Source"
-Author: "LLM Wiki Starter"
-Reference: "owned-demo"
-ContentType:
-  - "markdown"
-Created: 2026-05-18
-Processed: true
+course: Public Finance
+course_code: "30264"
 tags:
   - "source"
-
+  - course_30264
+Links:
+Title: "LLM Wiki Starter Demo Source"
+Reference: "owned-demo"
+Created: 2026-05-18
+Processed: true
 ---
+
 
 # LLM Wiki Starter Demo Source
 

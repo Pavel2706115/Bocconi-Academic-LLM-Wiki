@@ -1,13 +1,16 @@
 ---
 course: Financial Accounting 2
 course_code: "30693"
+tags:
+  - "source"
+  - course_30693
+Links:
 Title: "Down payments, tax liability, and outstanding balance due"
 Reference: "Course Material"
 Created: 2026-05-18
 Processed: true
-tags:
-  - "source"
 ---
+
 
 ## Course 30427
 

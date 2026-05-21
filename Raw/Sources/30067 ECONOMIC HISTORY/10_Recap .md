@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "From the Agrarian Revolution to the First Globalization"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## RECAP 1
 

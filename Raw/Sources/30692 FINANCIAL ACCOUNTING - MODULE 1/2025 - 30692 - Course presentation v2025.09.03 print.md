@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 1"
+course: Financial Accounting 1
 course_code: "30692"
 tags:
   - "source"
   - course_30692
+Links:
 Title: "2025 - 30692 - Course presentation v2025.09.03 print"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: false---
+Processed: false
+---
+
 
 30692 **Financial Accounting** (Module 1) Academic year 2025-2026
 

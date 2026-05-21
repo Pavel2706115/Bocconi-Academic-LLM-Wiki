@@ -1,13 +1,16 @@
 ---
-course: "Statistics"
+course: Statistics
 course_code: "30001"
 tags:
   - "source"
   - course_30001
+Links:
 Title: "INTRODUCTION TO R & RSTUDIO"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # INTRODUCTION TO R & RSTUDIO
 

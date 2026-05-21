@@ -1,15 +1,16 @@
 ---
-Title: "Brunello Cucinelli"
-Author: "Bocconi"
-Reference: "Course Material"
-ContentType:
-  - "markdown"
-Created: 2026-05-18
-Processed: true
+course: Financial Accounting - Module 2
+course_code: "30693"
 tags:
   - "source"
-
+  - course_30693
+Links:
+Title: "Brunello Cucinelli"
+Reference: "Course Material"
+Created: 2026-05-18
+Processed: true
 ---
+
 
 **==> picture [51 x 62] intentionally omitted <==**
 

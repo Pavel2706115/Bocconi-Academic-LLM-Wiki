@@ -4,10 +4,13 @@ course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "THANK YOU"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **BREAK EVEN POINT ANALYSIS (30060 – MANAGEMENT)**
 

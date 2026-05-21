@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Social Security (Pension System) Gruber - Chapter 13"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 ### Topic 1: Introduction and the European Context
 - **Slide 1: Title Slide**
 	- **Summary:** The title slide introduces the lecture on “Social Security (Pension System)” from the Public Finance course

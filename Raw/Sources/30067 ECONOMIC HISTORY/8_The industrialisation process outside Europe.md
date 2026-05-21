@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "8_The industrialisation process outside Europe"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 AN UNSTOPPABLE PROCESS Alfani-Colli, chapters 6.4 and 8.2+8.3
 

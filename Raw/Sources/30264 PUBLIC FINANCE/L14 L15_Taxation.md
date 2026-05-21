@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Public Finance BIEM – Spring 2026 Taxation (Ch. 18)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 ## Topic 1: Introduction & Macro Overview
 
 ### Slide 1: Public Finance

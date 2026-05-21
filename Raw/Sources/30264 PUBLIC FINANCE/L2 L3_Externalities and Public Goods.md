@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Exercises"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ### Topic 1: Introduction to Externalities and Market Failures
 - **Slide 1 & 2: Title and Outline**

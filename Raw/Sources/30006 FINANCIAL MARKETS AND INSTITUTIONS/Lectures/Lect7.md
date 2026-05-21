@@ -1,13 +1,16 @@
 ---
-course: "Financial Markets and Institutions"
+course: Financial Markets and Institutions
 course_code: "30006"
 tags:
   - "source"
   - course_30006
+Links:
 Title: "The Stock Market (Chapter 13)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 # The Stock Market (Chapter 13)
 

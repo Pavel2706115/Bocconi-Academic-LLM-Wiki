@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 2"
+course: Financial Accounting 2
 course_code: "30693"
 tags:
   - "source"
   - course_30693
+Links:
 Title: "Libby_12e_AppA_PPT print"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **Financial Accounting** 12e
 

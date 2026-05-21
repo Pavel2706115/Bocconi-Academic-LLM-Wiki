@@ -1,13 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Public Finance BIEM – Spring 2026 Tax inefficiencies and their implications for Optimal Taxation (Ch. 20)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 ## Section: Introduction
 
 ### Slide 1: Title Slide

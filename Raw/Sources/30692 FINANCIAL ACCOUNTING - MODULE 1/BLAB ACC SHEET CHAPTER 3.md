@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 1"
+course: Financial Accounting 1
 course_code: "30692"
 tags:
   - "source"
   - course_30692
+Links:
 Title: "BLAB ACC SHEET CHAPTER 3"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: false---
+Processed: false
+---
+
 
 ## Accounting 1
 

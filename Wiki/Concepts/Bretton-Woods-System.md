@@ -8,7 +8,7 @@ created: 2026-05-18
 updated: 2026-05-18
 sources:
   - "Raw/Sources/30067 ECONOMIC HISTORY/19_Bretton woods deregulation.md"
-  - "Raw/Sources/30067 ECONOMIC HISTORY/16_Atlantic Charter.md"
+  - "Raw/Sources/30067 ECONOMIC HISTORY/16_state intervention - Europe and WWII .md"
 source_count: 2
 aliases:
   - "Bretton Woods"

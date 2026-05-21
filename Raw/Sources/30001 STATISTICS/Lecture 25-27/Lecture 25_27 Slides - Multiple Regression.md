@@ -1,13 +1,16 @@
 ---
-course: "Statistics"
+course: Statistics
 course_code: "30001"
 tags:
   - "source"
   - course_30001
+Links:
 Title: "Which plane best describes the linear relationship between the dependent variable and the explanatory variables (here 2)? Least squares** method **: plane that best interpolates the data"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## MULTIPLE REGRESSION
 

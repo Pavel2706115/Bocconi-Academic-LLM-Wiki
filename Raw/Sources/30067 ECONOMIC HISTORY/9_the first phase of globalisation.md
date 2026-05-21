@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "9_the first phase of globalisation"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 THE FIRST GLOBALIZATION ALFANI-COLLI, CH. 9.1-9.2
 

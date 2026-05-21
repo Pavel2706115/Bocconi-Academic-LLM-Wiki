@@ -2,13 +2,15 @@
 course: Public Finance
 course_code: "30264"
 tags:
-  - source
+  - "source"
   - course_30264
-Title: Public Finance BIEM – Spring 2026 Taxes on Savings (Ch.22)
-Reference: Course Material
+Links:
+Title: "Public Finance BIEM – Spring 2026 Taxes on Savings (Ch.22)"
+Reference: "Course Material"
 Created: 2026-05-18
 Processed: true
 ---
+
 ## Section: Introduction
 
 ### Slide 1: Bocconi Public Finance

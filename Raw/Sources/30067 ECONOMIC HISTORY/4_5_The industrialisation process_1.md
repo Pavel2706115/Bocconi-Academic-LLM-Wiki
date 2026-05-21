@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "4_5_The industrialisation process_1"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 THE INDUSTRIAL REVOLUTION PRE-CONDITIONS ALFANI COLLI, CH. 5 Economic history A.y. 2025/2026 Sonia Schifano
 

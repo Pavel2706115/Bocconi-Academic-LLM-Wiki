@@ -1,14 +1,16 @@
 ---
-course: "Public Finance"
+course: Public Finance
 course_code: "30264"
 tags:
   - "source"
   - course_30264
+Links:
 Title: "Public Finance Formulas Summary"
 Reference: "Student-compiled Formulas"
 Created: 2026-05-21
 Processed: true
 ---
+
 
 ## First Part:
 $$ \text{Government Expenditures as a Percentage of GDP} = \frac{\text{Total Public Spending}}{\text{Total GDP}} \times 100 $$

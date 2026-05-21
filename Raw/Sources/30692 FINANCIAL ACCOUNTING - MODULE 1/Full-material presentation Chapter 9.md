@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 1"
+course: Financial Accounting 1
 course_code: "30692"
 tags:
   - "source"
   - course_30692
+Links:
 Title: "Money invested in an interest-bearing account grows over time.  This is referred to as the time value of money."
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **Financial Accounting** 12e
 

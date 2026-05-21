@@ -1,13 +1,16 @@
 ---
-course: "Financial Markets and Institutions"
+course: Financial Markets and Institutions
 course_code: "30006"
 tags:
   - "source"
   - course_30006
+Links:
 Title: "Lect6_exercises"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ## Extra exercises of Lecture 6
 

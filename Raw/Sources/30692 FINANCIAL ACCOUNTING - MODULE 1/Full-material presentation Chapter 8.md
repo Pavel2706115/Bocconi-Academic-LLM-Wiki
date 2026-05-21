@@ -1,13 +1,16 @@
 ---
-course: "Financial Accounting 1"
+course: Financial Accounting 1
 course_code: "30692"
 tags:
   - "source"
   - course_30692
+Links:
 Title: "Full-material presentation Chapter 8"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **Financial Accounting** 12e
 

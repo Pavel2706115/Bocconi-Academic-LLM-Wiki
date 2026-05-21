@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "THE MA JOR FUNCTIONS OF MANAGEMENT"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **THE NATURE OF MANAGEMENT 30060 – MANAGEMENT**
 

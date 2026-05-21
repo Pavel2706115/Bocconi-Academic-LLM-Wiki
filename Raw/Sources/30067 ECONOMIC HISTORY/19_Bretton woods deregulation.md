@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "19_Bretton woods deregulation"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 THE END OF BRETTON WOODS AND DEREGULATION ALFANI-COLLI CHAPTER 16
 

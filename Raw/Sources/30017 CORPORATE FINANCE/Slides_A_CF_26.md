@@ -1,13 +1,16 @@
 ---
 course: Corporate Finance
-course_code: 30017
+course_code: "30017"
 tags:
   - "source"
   - course_30017
+Links:
 Title: "Corporate Finance 30017 - Slides A"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 ---
 # Corporate Finance 30017 - Slides A

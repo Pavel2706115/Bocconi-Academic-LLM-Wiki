@@ -1,13 +1,16 @@
 ---
-course: "Economic History"
+course: Economic History
 course_code: "30067"
 tags:
   - "source"
   - course_30067
+Links:
 Title: "16_state intervention - Europe and WWII "
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 STATE INTERVENTION IN EUROPE AND WWII ALFANI-COLLI 10.2-11 Economic history Ay 2025/2026 Sonia Schifano
 

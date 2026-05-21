@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "SHAREHOLDER OBJECTIVES AND RIGHTS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **SHAREHOLDER RIGHTS AND CORPORATE GOVERNANCE 30060 - MANAGEMENT**
 

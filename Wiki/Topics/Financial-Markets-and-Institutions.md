@@ -34,7 +34,7 @@ aliases:
 
 ## Overview
 
-Financial Markets and Institutions (30006) studies how the financial system channels funds from savers to borrowers, covering the structure of financial markets, the role of financial intermediaries, interest rate behaviour, monetary policy, and financial regulation. Based on Mishkin & Eakins.
+Financial Markets and Institutions (30006) studies how the financial system channels funds from savers to borrowers, covering the structure of financial markets, the role of financial intermediaries, interest rate behavior, monetary policy, and financial regulation. Based on Mishkin & Eakins.
 
 ## Core Concepts
 

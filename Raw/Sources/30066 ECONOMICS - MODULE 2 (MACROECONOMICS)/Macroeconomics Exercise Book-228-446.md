@@ -1,13 +1,16 @@
 ---
-course: "Macroeconomics"
+course: Macroeconomics
 course_code: "30066"
 tags:
   - "source"
   - course_30066
+Links:
 Title: "Chapter 1  -  The goods and financial markets"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: false---
+Processed: false
+---
+
 
 ## Part II Solutions
 

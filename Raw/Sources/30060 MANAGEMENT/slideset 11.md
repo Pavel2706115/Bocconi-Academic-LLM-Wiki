@@ -1,13 +1,16 @@
 ---
-course: "Management"
+course: Management
 course_code: "30060"
 tags:
   - "source"
   - course_30060
+Links:
 Title: "slideset 11"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true---
+Processed: true
+---
+
 
 **CORPORATE STRATEGY: VERTICAL INTEGRATION AND DIVERSIFICATION 30060 - MANAGEMENT**
 
