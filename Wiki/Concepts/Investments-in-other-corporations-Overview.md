@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Investments-in-other-corporations]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -29,7 +29,7 @@ Overview concept covering all raw materials for Investments in other corporation
 
 ## Related Concepts
 
-- [[Wiki/Topics/Investments-in-other-corporations|Investments in other corporations Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

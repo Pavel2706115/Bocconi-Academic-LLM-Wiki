@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30066-ECONOMICS---MODULE-2-MACROECONOMICS]]"
+  - "[[Wiki/Topics/Macroeconomics]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -32,7 +32,7 @@ Overview concept covering all raw materials for 30066 ECONOMICS - MODULE 2 (MACR
 
 ## Related Concepts
 
-- [[Wiki/Topics/30066-ECONOMICS---MODULE-2-MACROECONOMICS|30066 ECONOMICS - MODULE 2 (MACROECONOMICS) Topic]]
+- [[Wiki/Topics/Macroeconomics|Macroeconomics Topic]]
 
 ## Sources
 

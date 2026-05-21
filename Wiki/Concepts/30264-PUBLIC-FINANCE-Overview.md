@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30264-PUBLIC-FINANCE]]"
+  - "[[Wiki/Topics/Public-Finance]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-21
@@ -74,5 +74,5 @@ The curriculum is structured into two core halves: government expenditures/socia
 ---
 
 ## Related Notes
-- [[Wiki/Topics/30264-PUBLIC-FINANCE|30264 PUBLIC FINANCE Topic]]
+- [[Wiki/Topics/Public-Finance|Public Finance Topic]]
 - [[Wiki/Topics/Public-Finance|Public Finance Topic]]

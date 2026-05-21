@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Consolidated-Financial-Sheets]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -34,7 +34,7 @@ Overview concept covering all raw materials for Consolidated Financial Sheets.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Consolidated-Financial-Sheets|Consolidated Financial Sheets Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

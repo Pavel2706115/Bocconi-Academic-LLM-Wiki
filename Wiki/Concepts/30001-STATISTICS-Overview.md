@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30001-STATISTICS]]"
+  - "[[Wiki/Topics/Statistics]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -30,7 +30,7 @@ Overview concept covering all raw materials for 30001 STATISTICS.
 
 ## Related Concepts
 
-- [[Wiki/Topics/30001-STATISTICS|30001 STATISTICS Topic]]
+- [[Wiki/Topics/Statistics|Statistics Topic]]
 
 ## Sources
 

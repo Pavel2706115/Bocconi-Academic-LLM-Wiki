@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30017-CORPORATE-FINANCE]]"
+  - "[[Wiki/Topics/Corporate-Finance]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -34,7 +34,7 @@ Overview concept covering all raw materials for 30017 CORPORATE FINANCE.
 
 ## Related Concepts
 
-- [[Wiki/Topics/30017-CORPORATE-FINANCE|30017 CORPORATE FINANCE Topic]]
+- [[Wiki/Topics/Corporate-Finance|Corporate Finance Topic]]
 
 ## Sources
 

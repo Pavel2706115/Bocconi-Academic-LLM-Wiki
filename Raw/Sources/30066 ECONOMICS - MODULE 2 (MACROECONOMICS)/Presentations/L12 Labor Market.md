@@ -608,5 +608,5 @@ prices
 
 ## Related Notes
 - [[Trigari_06(Chapter 7)]]
-- [[Mock_partial_3_solutions]]
+- Mock_partial_3_solutions
 - [[L12 Phillips Curve]]

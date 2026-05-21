@@ -1925,4 +1925,4 @@ Government debt and economic growth
 ## Related Notes
 - [[Macroeconomics Exercise Book]]
 - [[Macroeconomics Exercise Book-228-446]]
-- [[Mock_general_1]]
+- Mock_general_1

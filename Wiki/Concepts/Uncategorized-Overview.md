@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Uncategorized]]"
+  - "[[Wiki/Topics/Knowledge-Management]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -29,7 +29,7 @@ Overview concept covering all raw materials for Uncategorized.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Uncategorized|Uncategorized Topic]]
+- [[Wiki/Topics/Knowledge-Management|Knowledge Management Topic]]
 
 ## Sources
 

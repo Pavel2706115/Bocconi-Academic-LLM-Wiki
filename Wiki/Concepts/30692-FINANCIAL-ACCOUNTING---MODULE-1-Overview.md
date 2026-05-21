@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30692-FINANCIAL-ACCOUNTING---MODULE-1]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -44,7 +44,7 @@ Overview concept covering all raw materials for 30692 FINANCIAL ACCOUNTING - MOD
 
 ## Related Concepts
 
-- [[Wiki/Topics/30692-FINANCIAL-ACCOUNTING---MODULE-1|30692 FINANCIAL ACCOUNTING - MODULE 1 Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

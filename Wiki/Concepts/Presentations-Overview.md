@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Presentations]]"
+  - "[[Wiki/Topics/Macroeconomics]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -56,7 +56,7 @@ Overview concept covering all raw materials for Presentations.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Presentations|Presentations Topic]]
+- [[Wiki/Topics/Macroeconomics|Macroeconomics Topic]]
 
 ## Sources
 

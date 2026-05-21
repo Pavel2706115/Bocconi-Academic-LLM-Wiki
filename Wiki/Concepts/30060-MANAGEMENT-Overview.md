@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30060-MANAGEMENT]]"
+  - "[[Wiki/Topics/Management]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -48,7 +48,7 @@ Overview concept covering all raw materials for 30060 MANAGEMENT.
 
 ## Related Concepts
 
-- [[Wiki/Topics/30060-MANAGEMENT|30060 MANAGEMENT Topic]]
+- [[Wiki/Topics/Management|Management Topic]]
 
 ## Sources
 

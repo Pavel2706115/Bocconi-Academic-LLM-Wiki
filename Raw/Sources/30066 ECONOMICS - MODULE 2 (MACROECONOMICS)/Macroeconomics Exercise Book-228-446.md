@@ -2131,4 +2131,4 @@ MyBook is the gateway to access accompanying resources (both text and multimedia
 ## Related Notes
 - [[Macroeconomics Exercise Book]]
 - [[Macroeconomics Exercise Book-1-227]]
-- [[BIG STACK MOCK]]
+- BIG STACK MOCK

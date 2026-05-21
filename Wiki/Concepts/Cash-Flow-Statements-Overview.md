@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Cash-Flow-Statements]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -29,7 +29,7 @@ Overview concept covering all raw materials for Cash Flow Statements.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Cash-Flow-Statements|Cash Flow Statements Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

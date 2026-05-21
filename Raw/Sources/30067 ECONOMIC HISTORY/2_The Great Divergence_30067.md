@@ -289,4 +289,4 @@ Economic and political clout are limited. There are simple productions and the m
 ## Related Notes
 - [[3_New players, new institutions_30067]]
 - [[Economic History Blab Handout 2024-2025 A.Y.]]
-- 10_Recap 
+- 10_Recap

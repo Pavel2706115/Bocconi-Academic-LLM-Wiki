@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30006-FINANCIAL-MARKETS-AND-INSTITUTIONS]]"
+  - "[[Wiki/Topics/Financial-Markets-and-Institutions]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -29,7 +29,7 @@ Overview concept covering all raw materials for 30006 FINANCIAL MARKETS AND INST
 
 ## Related Concepts
 
-- [[Wiki/Topics/30006-FINANCIAL-MARKETS-AND-INSTITUTIONS|30006 FINANCIAL MARKETS AND INSTITUTIONS Topic]]
+- [[Wiki/Topics/Financial-Markets-and-Institutions|Financial Markets and Institutions Topic]]
 
 ## Sources
 

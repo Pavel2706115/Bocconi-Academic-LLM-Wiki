@@ -7,7 +7,7 @@
 1. Agent runs: `python scripts/wiki_tool.py search-catalog --query "statistics descriptive"`
 2. Agent finds `Wiki/Concepts/Descriptive-Statistics.md` already exists.
 3. Agent updates the existing concept note with new claims from Lecture 5.
-4. Agent adds `[[Raw/Sources/30001 STATISTICS/Lecture 5/Lecture 5 Slides]]` to `sources`.
+4. Agent adds `'Raw/Sources/30001 STATISTICS/Lecture 5/Lecture 5 Slides'` to `sources`.
 5. Agent increments `source_count`.
 6. Agent runs build + lint gate.
 7. Agent adds a log entry: "Updated Descriptive-Statistics with Lecture 5 material."

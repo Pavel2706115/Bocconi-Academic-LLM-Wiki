@@ -74,7 +74,7 @@ Processed: true
 - **Slide 26: Fully funded pension system: computation method**
 	- **Summary:** Under a fully funded approach, the accumulated capital ($C$) grows via the actual market interest rate ($i$) and is then paid out based on life expectancy
 - **Slide 27: Summary Table**
-	- **Summary:** A matrix comparing the three systems (PAYGO Earnings-based, PAYGO Contribution-based, and Fully-funded) across their financing sources, total pension bill drivers, and individual pension calculators![[Pasted image 20260315115200.png]]
+	- **Summary:** A matrix comparing the three systems (PAYGO Earnings-based, PAYGO Contribution-based, and Fully-funded) across their financing sources, total pension bill drivers, and individual pension calculators
 ### Topic 5: Poverty, Justifications, and Moral Hazard
 - **Slide 28: Justifications for State Intervention**
 	- **Summary:** Re-evaluates why the state is involved: 

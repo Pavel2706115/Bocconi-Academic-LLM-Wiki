@@ -4040,4 +4040,4 @@ MyBook is the gateway to access accompanying resources (both text and multimedia
 ## Related Notes
 - [[Macroeconomics Exercise Book-228-446]]
 - [[Macroeconomics Exercise Book-1-227]]
-- [[BIG STACK MOCK]]
+- BIG STACK MOCK

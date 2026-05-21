@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Exercises]]"
+  - "[[Wiki/Topics/Financial-Markets-and-Institutions]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -52,7 +52,7 @@ Overview concept covering all raw materials for Exercises.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Exercises|Exercises Topic]]
+- [[Wiki/Topics/Financial-Markets-and-Institutions|Financial Markets and Institutions Topic]]
 
 ## Sources
 

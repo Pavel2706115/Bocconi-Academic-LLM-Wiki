@@ -74,4 +74,4 @@ Which of the following aspects about a security will typically increase investor
 ## Related Notes
 - [[Lect4]]
 - [[Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz]]
-- [[Mock_general_1_solutions]]
+- Mock_general_1_solutions

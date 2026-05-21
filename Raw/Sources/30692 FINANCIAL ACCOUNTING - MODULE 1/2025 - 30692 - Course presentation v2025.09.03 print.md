@@ -204,4 +204,4 @@ _(note: in those years, VAT was not covered in the course)_
 ## Related Notes
 - [[intro_30060_cl14_v.2 (2)]]
 - [[L1 Intro]]
-- 10_Recap 
+- 10_Recap

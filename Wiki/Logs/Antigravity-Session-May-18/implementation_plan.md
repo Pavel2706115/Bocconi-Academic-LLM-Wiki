@@ -38,7 +38,7 @@ Ingest all ~231 raw source files across 10 Bocconi courses into structured, inte
 
 Create one Topic note per course (10 new notes). Each Topic will:
 - List all key concepts covered in the course
-- Link to the Concept notes via `[[Wiki/Concepts/...]]`
+- Link to the Concept notes via ``Wiki/Concepts/...``
 - Reference all source files from that course in `sources`
 
 **New files:**

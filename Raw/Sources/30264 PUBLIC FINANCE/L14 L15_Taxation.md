@@ -48,7 +48,6 @@ Processed: true
     
 - **Legend:** Lines representing France, Italy, UK, US and the OECD average
     
-- _Note: [Pasted image 20260503110607.png]_
     
 
 **2) Explanation of content:**
@@ -102,7 +101,6 @@ Processed: true
     
 - **Callouts:** A prominent red rectangular box highlights Italy (ITA) and Luxembourg (LUX). The OECD average bar is colored orange.
     
-- _Note: [Pasted image 20260503110547.png]_
     
 
 **2) Explanation of content:**
@@ -206,7 +204,6 @@ Processed: true
     
 - **Legend:** Personal income tax (light blue), Corporate income tax (dark blue), Social security contributions (green striped), Property taxes (pink), Taxes on goods and services (orange), Other (gray striped)
     
-- _Note: [Pasted image 20260503110522.png]_
     
 
 **2) Explanation of content:**
@@ -262,7 +259,6 @@ Processed: true
     
 - **Callouts:** A red rectangular outline highlights Italy (IT)
     
-- _Note: [Pasted image 20260503110502.png]_
     
 
 **2) Explanation of content:**
@@ -324,7 +320,6 @@ Processed: true
     
 - **Callouts:** A red rectangle highlights Italy (IT)
     
-- _Note: [Pasted image 20260503110424.png]_
     
 
 **2) Explanation of content:**
@@ -384,7 +379,6 @@ Processed: true
     
 - **Callouts:** A red box highlights Italy (IT)
     
-- _Note: [Pasted image 20260505114806.png]_
     
 
 **2) Explanation of content:**
@@ -410,7 +404,6 @@ Processed: true
     
 - **Callouts:** A wide red rectangular box highlights France, Italy, and Finland
     
-- _Note: [Pasted image 20260505114824.png]_
     
 
 **2) Explanation of content:**
@@ -464,7 +457,6 @@ Processed: true
     
 - **Callouts:** A wide red rectangle highlights Ireland, Turkey, and France
     
-- _Note: [Pasted image 20260505114852.png]_
     
 
 **2) Explanation of content:**
@@ -520,7 +512,6 @@ Processed: true
     
 - **Legend:** % Total (dark blue), % GDP (light blue)
     
-- _Note: [Pasted image 20260505114914.png]_
     
 
 **2) Explanation of content:**
@@ -542,7 +533,6 @@ Processed: true
     
 - **Callouts:** A red rectangular box highlights Italy (IT)
     
-- _Note: [Pasted image 20260505114931.png]_
     
 
 **2) Explanation of content:**
@@ -596,7 +586,6 @@ Processed: true
     
 - **Callouts:** A red rectangular box highlights Italy (IT)
     
-- _Note: [Pasted image 20260505115001.png]_
     
 
 **2) Explanation of content:**
@@ -640,7 +629,6 @@ Processed: true
     
 - **Callout:** A red rectangular box highlights Italy (IT)
     
-- _Note: [Pasted image 20260505115018.png]_
     
 
 **2) Explanation of content:**

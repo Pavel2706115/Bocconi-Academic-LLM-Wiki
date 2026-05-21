@@ -30,7 +30,6 @@ Processed: true
 			- **Y-axis:** Tax revenue (% of GDP), ranging from 0 to 50
 			- **X-axis:** Year, showing decades from 1970 to 2020
 			- **Legend:** Lines representing France, Italy, UK, US and the OECD average
-			- ![[Pasted image 20260503110607.png]]
 	2. Explanation of content:
 		- **Graph explanation:** The chart tracks how much of a country's GDP is collected as tax over nearly 60 years. France and Italy show steady, significant climb, with France peaking near 45% and Italy around 42% by the 2020s. The UK and the OECD average cluster tightly together around 33-35%. The US remains consistently the lowest among this group, hovering largely between 25% and 28%.
 		- **Key takeaways from visuals:**
@@ -55,7 +54,6 @@ Processed: true
 			- **X-axis:** Country codes (DNK, FRA, FIN, …, MEX)
 			- **Legend:** Blue bars represent 2023 data, empty circle markers represent 2024 data
 			- **Callouts:** A prominent red rectangular box highlights Italy (ITA) and Luxembourg (LUX). The OECD average bar is colored orange
-			- ![[Pasted image 20260503110547.png]]
 	2. Explanation of content:
 		- **Graph explanation:** The chart ranks OECD countries from highest to lowest tax burden for the years 2023 and 2024. Denmark (DNK) and France (FRA) are at the top (above 40%), while Mexico (MEX) is at the bottom (below 20%). The OECD average sits around 34%
 		- **Key takeaways from visuals:**
@@ -106,7 +104,6 @@ Processed: true
 				- “Social security contributions”
 				- “Taxes on goods & services”
 			- **Legend:** Personal income tax (light blue), Corporate income tax (dark blue), Social security contributions (green striped), Property taxes (pink), Taxes on goods and services (orange), Other (gray striped)
-			- ![[Pasted image 20260503110522.png]]
 	2. Explanation of content:
 		- **Graph explanation:** The chart breaks down the composition of tax revenues. In Italy (highlighted), the green striped bar (social security) and the light blue bar (personal income) combined make up over 60% of total tax revenue. Goods and services (orange) make up roughly 25%
 		- **Key takeaways from visuals:**
@@ -131,7 +128,6 @@ Processed: true
 			- **X-axis:** EU Member states
 			- **Legend:** Labor (dark blue), Consumption (light blue), Capital (yellow)
 			- **Callouts:** A red rectangular outline highlights Italy (IT)
-			- ![[Pasted image 20260503110502.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This chart groups all revenues into three macroeconomic categories. For Italy (IT), the breakdown is explicitly shown via labels inside the bar: 48.8% Labor, 26.0% Consumption, and 25.2% Capital
 		- **Key takeaways from visuals:**
@@ -160,7 +156,6 @@ Processed: true
 			- **X-axis:** EU Member states
 			- **Legend:** VAT (brown), PIT (light blue), CIT (yellow), SC (dark blue), Other (medium blue), Total (red dot)
 			- **Callouts:** A red rectangle highlights Italy (IT)
-			- ![[Pasted image 20260503110424.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This chart combines total tax burden (% of GDP) with the direct/indirect breakdown. Italy's total tax burden is high (represented by the red dot around 42%). The dark blue section (Social Contributions - SC) and the light blue section (Personal Income Tax - PIT) are visually dominant for Italy, taking up well over half the bar
 		- **Key takeaways from visuals:**
@@ -188,7 +183,6 @@ Processed: true
 			- **X-axis:** EU Member States (DK, SE, …, EU27)
 			- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
 			- **Callouts:** A red box highlights Italy (IT)
-			- ![[Pasted image 20260505114806.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This chart isolates just the taxes on labor and measures them against GDP, placing it high up in the European rankings, just behind Denmark, Sweden, France, Germany, and Belgium
 	3. What this slide is really saying:
@@ -200,7 +194,6 @@ Processed: true
 			- **Y-axis:** List of countries
 			- **Legend:** Income tax (dark blue), Employee SSC (light gray), Employer SSC (purple)
 			- **Callouts:** A wide red rectangular box highlights France, Italy, and Finland
-			- ![[Pasted image 20260505114824.png]]
 	2. Explanation of content:
 		- **Graph explanation:** Looking at Italy, the total bar reaches around 45-46% of total labor cost. Crucially, the purple section (Employer SSC) and light gray section (Employee SSC) make up the majority of this burden, with Income Tax (dark blue) making up a smaller fraction compared to countries like Denmark
 - **Slide 17: The labor tax wedge**
@@ -225,7 +218,6 @@ Processed: true
 			- **Y-axis:** List of countries
 			- **Legend:** Income tax (blue), Social security contributions (gray)
 			- **Callouts:** A wide red rectangle highlights Ireland, Turkey, and France
-			- ![[Pasted image 20260505114852.png]]
 	2. Explanation of content:
 		- **Graph explanation:** For Italy, roughly 30% of a worker's gross wage is deducted before they get paid. This is split heavily towards Income Tax (around 22%) and employee SSC (around 8%)
 	3. What this slide is really saying:
@@ -251,7 +243,6 @@ Processed: true
 			- **Y-axis:** Percentage from 0% to 20%
 			- **X-axis:** Years from 2013 to 2023
 			- **Legend:** % Total (dark blue), % GDP (light blue)
-			- ![[Pasted image 20260505114914.png]]
 	2. Explanation of content:
 		- **Graph explanation:** The chart shows two incredibly flat lines over a decade. The dark blue line shows that VAT make up roughly 17-18% of all tax revenues collected in the EU. The light blue line shows that this represents about 7% of the total European GDP
 - **Slide 21: Consumption tax revenues in EU Member States (% of GDP)**
@@ -261,7 +252,6 @@ Processed: true
 			- **X-axis:** EU Member States
 			- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
 			- **Callouts:** A red rectangular box highlights Italy (IT)
-			- ![[Pasted image 20260505114931.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This chart maps consumption taxes against GDP for individual countries. Croatia (HR) leads the pack above 18%, Italy (IT) sits solidly in the middle of the distribution, pulling in slightly under 11% of its GDP from consumption taxes
 		- **Key takeaways from visuals:**
@@ -285,7 +275,6 @@ Processed: true
 			- **X-axis:** EU Member States
 			- **Legend:** 2023 (dark blue bar), Average 19-23 (red dash), Average 14-18 (light blue dash)
 			- **Callouts:** A red rectangular box highlights Italy (IT)
-			- ![[Pasted image 20260505115001.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This chart confirms the statement from the previous slide that capital taxes raise less revenue. The highest country, Luxembourg (LU), is only at 14% of GDP (compared to labor taxes hitting 20-30%). Italy sits near the top third, collecting around 10% of its GDP from capital taxes.
 - **Slide 24: Property and inheritance taxation**
@@ -305,7 +294,6 @@ Processed: true
 			- **X-axis:** EU Member States
 			- **Legend:** Recurrent TIP 2023 (dark blue), Other prop taxes 2023 (orange), Total 2013 (light blue dash)
 			- **Callout:** A red rectangular box highlights Italy (IT)
-			- ![[Pasted image 20260505115018.png]]
 	2. Explanation of content:
 		- **Graph explanation:** This looks strictly at property taxes against total tax revenue (not GDP). In Italy, property taxes make up around 5.5% of total tax revenues. The dark blue section (recurrent taxes on real estate) forms slightly more than half of that, with other property taxes making up the rest
 		- **Key takeaways from visuals:**

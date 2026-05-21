@@ -114,7 +114,7 @@ Kuznet, 1973.
 ## MODERN ECONOMIC GROWTH: EFFECTS
 
 - Simon Kuznets (1955): Transfer of workforce from a sector having low income and productivity (agriculture) to one with high income (industry and services). Under the hypothesis that the differential in income between the two sectors remains constant during the transition, inequality will grow up until 50% of the workforce has transferred. Later, and for the same reasons, inequality will start to decrease.
-*(See also: 10_Recap #^0zwhxu)*
+*(See also: 10_Recap#^0zwhxu)*
 
 ## INEQUALITY
 
@@ -282,5 +282,5 @@ _Mokyr (2009)_
 
 ## Related Notes
 - [[Economic History Blab Handout 2024-2025 A.Y.]]
-- 10_Recap 
+- 10_Recap
 - [[4_5_The industrialisation process_1]]

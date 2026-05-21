@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/30065-ECONOMICS---MODULE-1-MICROECONOMICS]]"
+  - "[[Wiki/Topics/Microeconomics]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -57,7 +57,7 @@ Overview concept covering all raw materials for 30065 ECONOMICS - MODULE 1 (MICR
 
 ## Related Concepts
 
-- [[Wiki/Topics/30065-ECONOMICS---MODULE-1-MICROECONOMICS|30065 ECONOMICS - MODULE 1 (MICROECONOMICS) Topic]]
+- [[Wiki/Topics/Microeconomics|Microeconomics Topic]]
 
 ## Sources
 

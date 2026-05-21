@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/Income-Taxes]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -30,7 +30,7 @@ Overview concept covering all raw materials for Income Taxes.
 
 ## Related Concepts
 
-- [[Wiki/Topics/Income-Taxes|Income Taxes Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

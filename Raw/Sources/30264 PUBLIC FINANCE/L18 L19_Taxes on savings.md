@@ -2139,4 +2139,4 @@ This final data slide proves that Italy's struggle to save is a chronic, structu
 ## Related Notes
 - [[Public Finance Public Policy 6th Edition (Jonathan Gruber) (z-library.sk, 1lib.sk, z-lib.sk)]]
 - [[L19 & L20 & L21 Expectations Consumption and Investment]]
-- [[Mock_general_1_solutions]]
+- Mock_general_1_solutions

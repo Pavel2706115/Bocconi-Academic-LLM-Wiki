@@ -33,7 +33,6 @@ Processed: true
 - **Slide 6: An example: Negative production externality**
 	- **Graph Explanation:** A supply and demand graph for steel. The private supply curve ($S=PMC$) intersects the demand curve ($D = PMB = SMB$) at point A($Q_1$). However, the true Social Marginal Cost curve ($SMC = PMC + MD$) sits higher up. The socially optimal intersection is at point C($Q_2$)
 	- **Key Points:** Because the factory does not pay for its pollution (Marginal Damage, MD), it overproduces steel by the amount $Q_1 - Q_2$. This overproduction creates a **Deadweight Loss** to society, represented by the shaded triangle BCA
-	 ![[Pasted image 20260316114200.png]]
 ### Topic 2: Private-Sector Solutions to Externalities
 - **Slide 7: The Solution**
 	- **Summary:** Introduces <mark style="background:rgba(240, 200, 0, 0.2)">the concept of “internalizing the externality”</mark>
@@ -45,7 +44,6 @@ Processed: true
 		- <mark style="background:rgba(240, 200, 0, 0.2)">Part II: The efficient solution will be reached regardless of which party is initially assigned the property rights</mark>
 - **Slide 9: The Solution: Coasian Payments**
 	- **Graph Explanation:** Updates the steel graph from Slide 6. It shows the private supply curve ($PMC_1$) shifting upward by the exact amount of the Coasian payment to become $PMC_2$. This perfectly aligns private costs with social costs ($SMC$), moving the market equilibrium from the inefficient Point A to the efficient Point B
-	 ![[Pasted image 20260316121555.png]]
 - **Slide 10 & 11: The Problem with Coasian Solutions 1 & 2**
 	- **Summary:** Outlines <mark style="background:rgba(240, 200, 0, 0.2)">four reasons why Coasian bargaining often fails in the real world</mark>
 	- **Key Points:** 

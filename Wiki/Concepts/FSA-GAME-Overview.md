@@ -2,7 +2,7 @@
 tags:
   - "concept"
 topics:
-  - "[[Wiki/Topics/FSA-GAME]]"
+  - "[[Wiki/Topics/Financial-Accounting]]"
 status: seed
 created: 2026-05-18
 updated: 2026-05-18
@@ -35,7 +35,7 @@ Overview concept covering all raw materials for FSA GAME.
 
 ## Related Concepts
 
-- [[Wiki/Topics/FSA-GAME|FSA GAME Topic]]
+- [[Wiki/Topics/Financial-Accounting|Financial Accounting Topic]]
 
 ## Sources
 

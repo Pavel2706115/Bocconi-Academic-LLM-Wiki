@@ -269,4 +269,4 @@ The loss of weight of the guilds leads to an efficiency differential in the manu
 ## Related Notes
 - [[2_The Great Divergence_30067]]
 - [[Economic History Blab Handout 2024-2025 A.Y.]]
-- 10_Recap 
+- 10_Recap

@@ -282,7 +282,7 @@ Physical Capital
 Caveat: Malthusian theory is not perfect and a pre-industrial society was not necessarily subject to it. But it remains an important tool for understanding how pre-industrial societies functioned.
 
 _“We will the means subsistence in suppose of any country just equal to the easy support of its inhabitants. The constant effort towards population increases the number of people before the means of subsistence are increased. The food therefore which before supported seven millions, must now be divided among seven millions and a half or eight millions. The poor consequently must live much worse, and many of them be reduced to severe distress. The number of labourers also being above the proportion of the work in the market, the price of labour must tend toward a decrease; while the price of provisions would at the same time tend to rise. The labourer therefore must work harder to earn the same as he did before.”_
-*(See also: 10_Recap #^0zwhxu)*
+*(See also: 10_Recap#^0zwhxu)*
 
 _Thomas Malthus, 1798._
 
@@ -357,6 +357,6 @@ What are the economic consequences?
 Source: S. Pamuk, The Black Death and the Origins of the ‘Great Divergence’ across Europe, 1300.- 1600, in European Review of Economic History, 2007, 11(3), p. 297. The graph shows real wages of unskilled workers converted to indices.
 
 ## Related Notes
-- 10_Recap 
+- 10_Recap
 - [[4_5_The industrialisation process_1]]
 - [[Economic History Blab Handout 2024-2025 A.Y.]]
