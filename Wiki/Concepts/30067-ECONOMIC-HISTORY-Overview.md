@@ -26,8 +26,7 @@ sources:
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/8_The industrialisation process outside Europe.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/9_the first phase of globalisation.md]]"
   - "[[Raw/Sources/30067 ECONOMIC HISTORY/Economic History Blab Handout 2024-2025 A.Y..md]]"
-  - "[[Raw/Sources/30067 ECONOMIC HISTORY/Reading on Constitutional Justice My Copy.md]]"
-source_count: 20
+source_count: 19
 aliases:
   - "30067 ECONOMIC HISTORY Overview"
 ---

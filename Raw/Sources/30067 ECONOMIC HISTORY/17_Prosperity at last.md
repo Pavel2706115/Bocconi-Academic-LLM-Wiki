@@ -227,4 +227,4 @@ Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 1
 ## Related Notes
 - [[19_Bretton woods deregulation]]
 - [[Economic History Blab Handout 2024-2025 A.Y.]]
-- 16_state intervention - Europe and WWII 
+- [[16_state intervention - Europe and WWII]]

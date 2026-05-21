@@ -189,7 +189,7 @@ Transports: turnpike roads and internal - Reduction in time and cost of transpor
 
 - Assembly Line
 
-- - Standardisation
+- Standardisation
 
 ## IR AND LIVING STANDARDS
 

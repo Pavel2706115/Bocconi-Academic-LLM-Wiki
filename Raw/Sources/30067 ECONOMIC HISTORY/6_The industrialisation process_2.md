@@ -59,7 +59,7 @@ result of numerous **regional developments**:
 
 ## POLLARD THEORY
 
-- An additional concept introduced by Pollard and important for understanding industrialization is the socalled " **contemporaneity differential** ":
+- An additional concept introduced by Pollard and important for understanding industrialization is the so called "**contemporaneity differential**":
 
 - Developments in the international economy interfere with the development plans of individual countries, directing their effects either positively or negatively.
 

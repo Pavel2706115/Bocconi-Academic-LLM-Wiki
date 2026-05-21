@@ -17,10 +17,8 @@ Alfani-Colli, ch. 9.3 Economic history - 30067 a.y. 2025/2026 Sonia Schifano
 
 ## PROGRAMME OVERVIEW
 
-|**Part I**|**Rise of the West**|1. Origins of economic development 2. Pre-industrial economies 3. The Industrial Revolution 4. Industrial economies 5. The first age of globalisation|
-|---|---|---|
-|
-|**Part II**|**The modern world**|6. Economic development after World War I 7. Depression and deglobalization 8. Economic development after World War II 9. The new age ofglobalisation|
+| **Part I** | **Rise of the West** | 1. Origins of economic development <br>2. Pre-industrial economies <br>3. The Industrial Revolution <br>4. Industrial economies <br>5. The first age of globalisation |
+| ---------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 *(See also: [[Economic History Blab Handout 2024-2025 A.Y.#^hg5qsz]])*
 
 ## THE ‘LONG’ NINETEENTH CENTURY

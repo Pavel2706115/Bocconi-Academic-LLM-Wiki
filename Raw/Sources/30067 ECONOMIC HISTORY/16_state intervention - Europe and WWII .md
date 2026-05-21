@@ -85,8 +85,6 @@ State of emergency was introduced: control of the economy and the society
 
 - He was appointed President of the Reichsbank (1933 to 1939) and Minister of Economics (1934-1937).
 
--:
-
 - Schact’s program envisaged restarting industry by **injecting liquidity** however, an expansionary maneuver would have led to a collapse of the balance of payments.
 
 - To prevent this, he introduced innovative financial instruments such as the MEFO bills, which enabled the state to finance rearmament and industrial growth without immediate inflationary or external imbalances.
