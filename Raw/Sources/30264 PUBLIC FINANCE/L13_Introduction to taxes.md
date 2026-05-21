@@ -7,9 +7,7 @@ tags:
 Title: "Introduction to Taxes"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ### Topic 1: Introduction & Macro Overview
 - **Slide 1: Public Finance**
 	1. Slide elements:

@@ -7,9 +7,7 @@ tags:
 Title: "Social Security (Pension System) Gruber - Chapter 13"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ### Topic 1: Introduction and the European Context
 - **Slide 1: Title Slide**
 	- **Summary:** The title slide introduces the lecture on “Social Security (Pension System)” from the Public Finance course

@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 7 The labor market"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Chapter 7 The labor market
 

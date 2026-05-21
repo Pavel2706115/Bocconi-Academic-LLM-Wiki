@@ -7,9 +7,7 @@ tags:
 Title: "INTERVAL ESTIMATION"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # INTERVAL ESTIMATION
 

@@ -7,9 +7,7 @@ tags:
 Title: "What is a problem for economic growth to occur in this context?"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## The structural characteristics of preindustrial economy
 

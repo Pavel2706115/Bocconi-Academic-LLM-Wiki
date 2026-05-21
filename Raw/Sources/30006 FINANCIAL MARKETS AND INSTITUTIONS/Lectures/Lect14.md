@@ -7,9 +7,7 @@ tags:
 Title: "Why Do Financial Institutions Exist? (Chapter 7)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Why Do Financial Institutions Exist? (Chapter 7)
 

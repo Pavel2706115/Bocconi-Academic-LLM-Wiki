@@ -7,9 +7,7 @@ tags:
 Title: "Full-material presentation Chapter 6"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 Cash
 

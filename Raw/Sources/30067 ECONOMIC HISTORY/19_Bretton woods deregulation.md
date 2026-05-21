@@ -7,9 +7,7 @@ tags:
 Title: "19_Bretton woods deregulation"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 THE END OF BRETTON WOODS AND DEREGULATION ALFANI-COLLI CHAPTER 16
 

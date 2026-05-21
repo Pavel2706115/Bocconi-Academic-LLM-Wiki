@@ -7,9 +7,7 @@ tags:
 Title: "✓ Why would a firm need this service, and not issue securities on their own? Because"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Preview of talk
 

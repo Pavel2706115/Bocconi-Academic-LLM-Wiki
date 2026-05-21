@@ -7,9 +7,7 @@ tags:
 Title: "Sustainability Reporting"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## 30693 FINANCIAL ACCOUNTING – MODULE 2
 

@@ -7,9 +7,7 @@ tags:
 Title: "Exercises"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ### Topic 1: Introduction to Externalities and Market Failures
 - **Slide 1 & 2: Title and Outline**

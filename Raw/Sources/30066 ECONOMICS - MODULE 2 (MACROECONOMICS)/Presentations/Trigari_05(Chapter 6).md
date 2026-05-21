@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 6 - Financial markets and the extended IS LM model"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Chapter 6 - Financial markets and the extended IS LM model
 

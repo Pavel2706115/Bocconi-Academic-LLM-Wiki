@@ -7,9 +7,7 @@ tags:
 Title: "Public Finance BIEM – Spring 2026 Fundamental Tax Reform and Consumption Taxation (Ch. 25)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ## Section: Introduction
 
 ### Slide 1: Fundamental Tax Reform and Consumption Taxation (Ch. 25)

@@ -7,9 +7,7 @@ tags:
 Title: "Thank you!"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Financial Accounting – Course 30693
 

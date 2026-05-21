@@ -7,9 +7,7 @@ tags:
 Title: "Corporate Finance 30017 - Slides B"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ---
 # Corporate Finance 30017 - Slides B

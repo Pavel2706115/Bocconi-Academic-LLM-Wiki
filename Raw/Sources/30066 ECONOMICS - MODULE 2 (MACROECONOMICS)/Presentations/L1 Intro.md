@@ -7,9 +7,7 @@ tags:
 Title: "L1 Intro"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 30066 - MACROECONOMICS (8 CFU)
 

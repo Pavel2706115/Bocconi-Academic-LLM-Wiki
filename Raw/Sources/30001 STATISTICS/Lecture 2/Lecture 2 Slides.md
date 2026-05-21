@@ -7,9 +7,7 @@ tags:
 Title: "INTRODUCTION TO R & RSTUDIO"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # INTRODUCTION TO R & RSTUDIO
 

@@ -7,9 +7,7 @@ tags:
 Title: "Which plane best describes the linear relationship between the dependent variable and the explanatory variables (here 2)? Least squares** method **: plane that best interpolates the data"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## MULTIPLE REGRESSION
 

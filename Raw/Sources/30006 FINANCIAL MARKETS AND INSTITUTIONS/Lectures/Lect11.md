@@ -7,9 +7,7 @@ tags:
 Title: "✓ The option (gross) **payoff** is the amount the option pays at expiration"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi **Derivatives: Options (Chapter 24)**
 

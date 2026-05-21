@@ -7,9 +7,7 @@ tags:
 Title: "Lecture 13-14 Slides Point estimation"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## POINT ESTIMATION
 

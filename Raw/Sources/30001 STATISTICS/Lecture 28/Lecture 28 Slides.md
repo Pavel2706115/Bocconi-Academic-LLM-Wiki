@@ -7,9 +7,7 @@ tags:
 Title: "Lecture 28 Slides"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Non-linear relationship: happiness vs. working hours
 

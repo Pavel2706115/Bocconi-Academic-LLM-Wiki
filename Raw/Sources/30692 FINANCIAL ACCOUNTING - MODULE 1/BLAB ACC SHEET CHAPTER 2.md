@@ -7,9 +7,7 @@ tags:
 Title: "BLAB ACC SHEET CHAPTER 2"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: false---
 
 ## Accounting 1
 

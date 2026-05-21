@@ -7,9 +7,7 @@ tags:
 Title: "IIIC-4. Elimination of intercompany profits on sale of goods"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Accounting for Business Combinations
 

@@ -7,9 +7,7 @@ tags:
 Title: "THE MA JOR FUNCTIONS OF MANAGEMENT"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **THE NATURE OF MANAGEMENT 30060 – MANAGEMENT**
 

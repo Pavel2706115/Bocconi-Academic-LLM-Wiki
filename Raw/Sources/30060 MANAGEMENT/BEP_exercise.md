@@ -7,9 +7,7 @@ tags:
 Title: "BREAK-EVEN POINT ANALYSIS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # BREAK-EVEN POINT ANALYSIS
 

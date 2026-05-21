@@ -7,9 +7,7 @@ tags:
 Title: "12_Post great war"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 Economic history a.y. 2025/2026 Sonia Schifano
 

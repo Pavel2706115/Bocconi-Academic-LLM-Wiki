@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 20: Output, the interest rate and the exchange rate"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Universit→ Bocconi
 

@@ -7,9 +7,7 @@ tags:
 Title: "2025 - 30692 - Course presentation v2025.09.03 print"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: false---
 
 30692 **Financial Accounting** (Module 1) Academic year 2025-2026
 

@@ -7,9 +7,7 @@ tags:
 Title: "THANK YOU"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **BUSINESS STRATEGY 30060 – MANAGEMENT** Management Book – Chapter 10
 

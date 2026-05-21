@@ -7,9 +7,7 @@ tags:
 Title: "Statistics 30001 Instructor: Pieralberto Guarniero (Pier) Dept. Decision Sciences"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Statistics 30001 Instructor: Pieralberto Guarniero (Pier) Dept. Decision Sciences
 

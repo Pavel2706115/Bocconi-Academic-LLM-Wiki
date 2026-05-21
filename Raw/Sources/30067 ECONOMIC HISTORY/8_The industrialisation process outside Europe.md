@@ -7,9 +7,7 @@ tags:
 Title: "8_The industrialisation process outside Europe"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 AN UNSTOPPABLE PROCESS Alfani-Colli, chapters 6.4 and 8.2+8.3
 

@@ -7,9 +7,7 @@ tags:
 Title: "Comparing conditional distributions only makes sense if they are homogeneous with respect to other factors."
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **DESCRIPTIVE STATISTICS: APPLICATIONS AND EXAMPLES**
 

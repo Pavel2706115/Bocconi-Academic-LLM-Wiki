@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 9 From the short to the medium run: the** _**IS-LM-PC**_ **model"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Chapter 9 From the short to the medium run: the** _**IS-LM-PC**_ **model
 

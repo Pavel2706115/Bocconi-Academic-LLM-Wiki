@@ -7,9 +7,7 @@ tags:
 Title: "Foreign Currency Transactions - teaching note"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: false---
 
 Bocconi University - Accounting Department
 

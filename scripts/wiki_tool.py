@@ -249,6 +249,26 @@ def cmd_lint():
             if not src_path.is_file():
                 errors.append(f"{p}: source not found: {clean}")
 
+        # Topic-specific checks
+        tag = valid_tags[0] if valid_tags else None
+        is_topic_dir = p.startswith("Wiki/Topics/")
+        if is_topic_dir and tag != "topic":
+            errors.append(f"{p}: note in Wiki/Topics/ must have the 'topic' tag (found '{tag}')")
+        elif not is_topic_dir and tag == "topic":
+            errors.append(f"{p}: note with 'topic' tag must be located in Wiki/Topics/ directory")
+
+        if tag == "topic":
+            try:
+                content = note.read_text(encoding="utf-8", errors="replace")
+                if not re.search(r"^##\s+Overview\b", content, re.MULTILINE):
+                    errors.append(f"{p}: topic note missing '## Overview' heading")
+                if not re.search(r"^##\s+Core\s+Concepts\b", content, re.MULTILINE):
+                    errors.append(f"{p}: topic note missing '## Core Concepts' heading")
+                if not re.search(r"^##\s+Key\s+Takeaways\b", content, re.MULTILINE):
+                    errors.append(f"{p}: topic note missing '## Key Takeaways' heading")
+            except Exception as e:
+                errors.append(f"{p}: failed to read file content for body checks: {e}")
+
     if errors:
         for e in errors:
             print(f"  ERROR: {e}")

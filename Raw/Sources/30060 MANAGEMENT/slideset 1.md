@@ -7,9 +7,7 @@ tags:
 Title: "ROLE OF THE ENTREPRENEUR, GOVERNMENT AND ETHICS IN BUSINESS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## AN INTRODUCTION TO THE ECONOMIC ACTIVITY
 

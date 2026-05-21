@@ -7,9 +7,7 @@ tags:
 Title: "THANK YOU"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## HOW TO BUILD A FINANCIAL STATEMENT 30060 – MANAGEMENT
 

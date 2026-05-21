@@ -7,9 +7,7 @@ tags:
 Title: "Full-material presentation Chapter 3"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## **Financial Accounting** 9e12e **Libby - Libby - ** Hodge
 

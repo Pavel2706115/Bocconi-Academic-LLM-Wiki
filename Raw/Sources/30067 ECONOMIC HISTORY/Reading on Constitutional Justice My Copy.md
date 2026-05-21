@@ -7,9 +7,7 @@ tags:
 Title: "Reading on Constitutional Justice My Copy"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ##
 

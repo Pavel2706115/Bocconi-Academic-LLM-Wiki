@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 4 Financial markets"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Chapter 4 Financial markets
 

@@ -7,9 +7,7 @@ tags:
 Title: "7_The industrialisation process Social Aspects - cl 15"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## THE SOCIAL ASPECTS OF THE IR
 

@@ -7,9 +7,7 @@ tags:
 Title: "Money invested in an interest-bearing account grows over time.  This is referred to as the time value of money."
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **Financial Accounting** 12e
 

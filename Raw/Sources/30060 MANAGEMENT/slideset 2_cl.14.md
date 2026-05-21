@@ -7,9 +7,7 @@ tags:
 Title: "THE CORPORATION AND ITS STAKEHOLDERS 30060 – MANAGEMENT"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # THE CORPORATION AND ITS STAKEHOLDERS 30060 – MANAGEMENT
 

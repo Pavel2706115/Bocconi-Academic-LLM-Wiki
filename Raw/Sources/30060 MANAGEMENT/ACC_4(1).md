@@ -7,9 +7,7 @@ tags:
 Title: "ACC_4(1)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **MEASURING PERFORMANCE 30060 - MANAGEMENT**
 

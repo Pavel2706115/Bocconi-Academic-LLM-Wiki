@@ -7,9 +7,7 @@ tags:
 Title: "Public Finance BIEM – Spring 2026 Tax inefficiencies and their implications for Optimal Taxation (Ch. 20)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ## Section: Introduction
 
 ### Slide 1: Title Slide

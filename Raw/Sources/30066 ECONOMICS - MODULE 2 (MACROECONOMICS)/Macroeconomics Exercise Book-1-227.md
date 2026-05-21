@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 1  -  The goods and financial markets"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: false---
 
 ## Giuseppe Ferraguto
 

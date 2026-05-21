@@ -6,9 +6,7 @@ tags:
 Title: "Accounting and taxation: transfer pricing & profit shifting"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Accounting and taxation: transfer pricing & profit shifting
 

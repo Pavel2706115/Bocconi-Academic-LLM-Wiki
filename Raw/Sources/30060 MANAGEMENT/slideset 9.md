@@ -7,9 +7,7 @@ tags:
 Title: "slideset 9"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **INTERNAL ANALYSIS 30060 – MANAGEMENT** Management Book – chapter 9
 

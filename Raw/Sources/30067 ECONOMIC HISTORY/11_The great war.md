@@ -7,9 +7,7 @@ tags:
 Title: "11_The great war"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## THE GREAT WAR
 

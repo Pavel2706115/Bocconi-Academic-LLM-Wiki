@@ -11,6 +11,9 @@ Pre-commit validation rules enforced by `scripts/wiki_tool.py lint` and `source-
 - [ ] `status` is one of: `seed`, `draft`, `reviewed`, `stable`
 - [ ] `created` and `updated` are valid dates in `YYYY-MM-DD` format
 - [ ] Note body is non-empty
+- [ ] **Topic Note Alignment**: If the note resides in `Wiki/Topics/`, it must be tagged `topic`. Conversely, if the note is tagged `topic`, it must reside in `Wiki/Topics/`.
+- [ ] **Topic Note Structure**: Any note tagged `topic` must contain exactly three H2 headings in its body: `## Overview`, `## Core Concepts`, and `## Key Takeaways`.
+
 
 ## Source Notes (`Raw/Sources/`)
 

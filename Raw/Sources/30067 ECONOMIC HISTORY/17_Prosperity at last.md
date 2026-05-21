@@ -7,9 +7,7 @@ tags:
 Title: "17_Prosperity at last"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## ECONOMIC RECOVERY POST WORLD WAR II
 

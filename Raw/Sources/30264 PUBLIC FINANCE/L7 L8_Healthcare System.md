@@ -7,9 +7,7 @@ tags:
 Title: "Exercises"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ### Introduction
 - **Slide 1: Title Slide**
 	- **Summary:** The slides introduce the topic of the “Healthcare System” from the Public Finance course

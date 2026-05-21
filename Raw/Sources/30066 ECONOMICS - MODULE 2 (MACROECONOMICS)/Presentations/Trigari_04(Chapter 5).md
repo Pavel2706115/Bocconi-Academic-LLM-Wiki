@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 5 - Goods and financial markets: the IS LM model"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # Chapter 5 - Goods and financial markets: the IS LM model
 

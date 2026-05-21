@@ -7,9 +7,7 @@ tags:
 Title: "IS GDP A GOOD MEASURE?"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## 30066 – MACROECONOMICS
 

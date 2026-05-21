@@ -7,9 +7,7 @@ tags:
 Title: "RANDOM VARIABLES AND THEIR COMBINATIONS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # RANDOM VARIABLES AND THEIR COMBINATIONS
 

@@ -7,9 +7,7 @@ tags:
 Title: "Joint analysis of two variables Qualitative variables (or discrete taking few distinct values)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **TABLES, GRAPHS AND SUMMARY MEASURES IN THE ANALYSIS OF TWO VARIABLES**
 

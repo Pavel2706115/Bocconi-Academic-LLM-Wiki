@@ -7,9 +7,7 @@ tags:
 Title: "1. DEFINING FINANCIAL STATEMENT FRAUD"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## INTRODUCTION TO FINANCIAL STATEMENT FRAUD
 

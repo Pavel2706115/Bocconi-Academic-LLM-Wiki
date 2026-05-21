@@ -58,3 +58,13 @@ aliases: []
 | `sources` | list | Yes | Links to Raw source notes that support this note |
 | `source_count` | integer | Yes | Must equal `len(sources)` |
 | `aliases` | list | No | Alternative names or abbreviations |
+
+### Topic Note Constraints (`Wiki/Topics/`)
+
+In addition to the general Compiled Wiki Note fields above, any note with the `topic` tag is subject to strict constraints to keep high-level subjects standardized:
+1. **Directory Location**: Must reside strictly under `Wiki/Topics/`. Conversely, all notes under `Wiki/Topics/` must have the `topic` tag.
+2. **Structural Sections**: Must contain exactly three H2 headings in its body:
+   - `## Overview` — Summarizes the high-level subject, scope, and course module boundaries.
+   - `## Core Concepts` — Links and lists the primary concepts (`Wiki/Concepts/`) associated with the subject.
+   - `## Key Takeaways` — Lists the central academic/practical takeaways of the subject.
+

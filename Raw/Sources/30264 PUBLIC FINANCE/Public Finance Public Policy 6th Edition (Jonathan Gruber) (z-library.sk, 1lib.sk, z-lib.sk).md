@@ -7,9 +7,7 @@ tags:
 Title: "PUBLIC FINANCE AND PUBLIC POLICY"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # PUBLIC FINANCE AND PUBLIC POLICY
 

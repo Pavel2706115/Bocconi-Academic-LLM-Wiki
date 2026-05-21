@@ -7,9 +7,7 @@ tags:
 Title: "slideset 11"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **CORPORATE STRATEGY: VERTICAL INTEGRATION AND DIVERSIFICATION 30060 - MANAGEMENT**
 

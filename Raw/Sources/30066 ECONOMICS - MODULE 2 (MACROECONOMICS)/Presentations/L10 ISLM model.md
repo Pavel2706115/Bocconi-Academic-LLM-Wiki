@@ -7,9 +7,7 @@ tags:
 Title: "THE LM CURVE EQUILIBRIUM IN THE FINANCIAL MARKETS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## 30066 – MACROECONOMICS
 

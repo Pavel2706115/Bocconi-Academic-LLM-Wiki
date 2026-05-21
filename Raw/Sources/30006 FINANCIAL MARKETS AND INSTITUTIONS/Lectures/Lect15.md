@@ -7,9 +7,7 @@ tags:
 Title: "Commercial Banking Bank Balance sheet (Chapter 17)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Class 30006 – Financial Markets and Institutions Universit→ Commerciale Luigi Bocconi Fall 2025 Prof. Francesco Bripi
 

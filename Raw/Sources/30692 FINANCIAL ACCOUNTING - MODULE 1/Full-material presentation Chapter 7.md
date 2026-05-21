@@ -7,9 +7,7 @@ tags:
 Title: "Full-material presentation Chapter 7"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 Chapter 7: Reporting and Interpreting Cost of Goods Sold and **Financial Accounting** Inventory 12e
 

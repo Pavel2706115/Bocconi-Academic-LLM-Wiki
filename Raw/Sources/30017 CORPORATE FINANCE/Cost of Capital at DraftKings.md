@@ -7,9 +7,7 @@ tags:
 Title: "Cost of Capital at DraftKings"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ## Cost of Capital at DraftKings
 
 In March 2021, Jason Robins and Jason Park, the CEO and CFO of DraftKings, were making final preparations for an upcoming “investor day” webcast. The firm had continued to grow in the year since its listing on the NASDAQ, with its revenue rising by almost 50% from $432 million in 2019 to $644 million in 2020.(1) (See **Exhibit 1** .) DraftKings had raised close to $2 billion through the sale of its common stock in 2020, and Robins and Park expected investors to ask questions about DraftKings’ ongoing investment opportunities and its path to profitability as the sports betting company expanded its operations across the U.S.

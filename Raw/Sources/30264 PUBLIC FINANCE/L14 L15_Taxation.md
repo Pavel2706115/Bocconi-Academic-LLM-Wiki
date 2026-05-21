@@ -7,9 +7,7 @@ tags:
 Title: "Public Finance BIEM – Spring 2026 Taxation (Ch. 18)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ## Topic 1: Introduction & Macro Overview
 
 ### Slide 1: Public Finance

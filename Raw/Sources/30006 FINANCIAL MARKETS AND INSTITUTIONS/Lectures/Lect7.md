@@ -7,9 +7,7 @@ tags:
 Title: "The Stock Market (Chapter 13)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 # The Stock Market (Chapter 13)
 

@@ -7,9 +7,7 @@ tags:
 Title: "L20 L21_Taxes on risk taking and wealth"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 ## Section: Introduction and Motivation
 
 ### Slide 1: Taxes on Risk Taking and Wealth (Ch.23)

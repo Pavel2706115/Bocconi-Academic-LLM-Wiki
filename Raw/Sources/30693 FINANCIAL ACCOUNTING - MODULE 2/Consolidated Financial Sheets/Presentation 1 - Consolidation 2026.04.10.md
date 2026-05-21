@@ -7,9 +7,7 @@ tags:
 Title: "Presentation 1 - Consolidation 2026.04.10"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Accounting for Business Combinations
 

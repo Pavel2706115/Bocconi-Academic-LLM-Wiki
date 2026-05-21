@@ -7,9 +7,7 @@ tags:
 Title: "INSTITUTIONAL EQUILIBRIUM"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **UNDERSTANDING THE PURPOSE AND THE SYSTEM OF FINANCIAL STATEMENTS 30060 – MANAGEMENT**
 

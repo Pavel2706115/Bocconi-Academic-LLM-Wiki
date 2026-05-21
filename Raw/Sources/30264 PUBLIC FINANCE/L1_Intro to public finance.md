@@ -7,9 +7,7 @@ tags:
 Title: "Introduction to Public Finance"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ### Topic 1: Introduction to Public Finance & Government Size
 - **Slide 1: Why Study Public Finance?**

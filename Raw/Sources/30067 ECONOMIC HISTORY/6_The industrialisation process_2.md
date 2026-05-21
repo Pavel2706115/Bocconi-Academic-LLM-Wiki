@@ -7,9 +7,7 @@ tags:
 Title: "6_The industrialisation process_2"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 FROM THE SPREAD OF IR TO THE SECOND IR ALFANI-COLLI, CH. 5.3 AND 6
 

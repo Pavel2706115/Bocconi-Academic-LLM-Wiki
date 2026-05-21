@@ -7,9 +7,7 @@ tags:
 Title: "ORGANIZATIONAL STRUCTURE"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **ORGANIZATION 30060 – MANAGEMENT**
 

@@ -7,9 +7,7 @@ tags:
 Title: "Chapter 19: The Goods Market in an Open Economy"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Universit→ Bocconi
 

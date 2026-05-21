@@ -7,9 +7,7 @@ tags:
 Title: "Computation of b0 and b1 through Least Squares "
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Related Notes
 - [[PEPUS-X]]

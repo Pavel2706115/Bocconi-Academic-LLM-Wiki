@@ -7,9 +7,7 @@ tags:
 Title: "Lect21_notes_mcr"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## Related Notes
 - Syllabus_FinMktsInst_2025_class_15

@@ -7,9 +7,7 @@ tags:
 Title: "**A common rule of thumb followed by financial and credit analysts is to avoid firms with rising net income but falling cash flow from operations.** In the long run, operations are the only source of cash!"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **Financial Accounting** 12e
 

@@ -7,9 +7,7 @@ tags:
 Title: "SHAREHOLDER OBJECTIVES AND RIGHTS"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 **SHAREHOLDER RIGHTS AND CORPORATE GOVERNANCE 30060 - MANAGEMENT**
 

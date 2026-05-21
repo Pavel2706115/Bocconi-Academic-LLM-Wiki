@@ -7,9 +7,7 @@ tags:
 Title: "Simple regression Weak and strong assumptions and inference on the linear model parameters"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## SIMPLE LINEAR REGRESSION
 

@@ -7,9 +7,7 @@ tags:
 Title: "14_The 1929 financial Crisis"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## THE CRISIS OF CAPITALISM PART 1
 

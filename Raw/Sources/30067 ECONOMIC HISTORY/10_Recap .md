@@ -7,9 +7,7 @@ tags:
 Title: "From the Agrarian Revolution to the First Globalization"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
-  - "source"
----
+Processed: true---
 
 ## RECAP 1
 
