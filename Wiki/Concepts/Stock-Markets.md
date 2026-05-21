@@ -20,6 +20,17 @@ aliases:
 
 # Stock Markets
 
+> [!NOTE] Ingested Sources & Original PDF Materials
+> * **Related Book**: [[Wiki/Books/The-Intelligent-Investor|The Intelligent Investor]]
+> * **Book Source & File**: [[Raw/Sources/Economics PDF Books/The-Intelligent-Investor-Excerpt|The Intelligent Investor Excerpt (Raw Source)]] | [[Raw/Files/Economics PDF Books/The_intelligent_investor.pdf|The_intelligent_investor.pdf (Original PDF)]]
+> * **Academic Paper Sources & Files**:
+>     * **EMH & Market Efficiency**: [[Raw/Sources/Economics PDF Books/EMH-Professional-Status|EMH & Professional Status (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_Efficient_Market_Hypothesis_theFinan.pdf|The_Efficient_Market_Hypothesis_theFinan.pdf (Original PDF)]]
+>     * **Index Rationality & Paradox**: [[Raw/Sources/Economics PDF Books/Rationality-of-Index-Investing|Rationality of Index Investing (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_rationality_of_index_investing_and_p.pdf|The_rationality_of_index_investing_and_p.pdf (Original PDF)]]
+>     * **FMI Lecture 6 (Bonds)**: [[Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect6|FMI Lecture 6 (Raw Source)]] | [[Raw/Files/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect6.pdf|Lect6.pdf (Original PDF)]]
+>     * **FMI Lecture 7 (Stocks)**: [[Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect7|FMI Lecture 7 (Raw Source)]] | [[Raw/Files/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect7.pdf|Lect7.pdf (Original PDF)]]
+
+---
+
 ## Definition
 
 Stock markets are venues where equity securities (shares of ownership in corporations) are issued and traded. They provide capital for companies and investment opportunities for individuals.

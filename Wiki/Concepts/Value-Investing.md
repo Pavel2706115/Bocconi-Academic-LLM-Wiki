@@ -22,6 +22,13 @@ aliases:
 
 ---
 
+> [!NOTE] Ingested Sources & Original PDF Materials
+> * **Related Book**: [[Wiki/Books/The-Intelligent-Investor|The Intelligent Investor]]
+> * **Book Source & File**: [[Raw/Sources/Economics PDF Books/The-Intelligent-Investor-Excerpt|The Intelligent Investor Excerpt (Raw Source)]] | [[Raw/Files/Economics PDF Books/The_intelligent_investor.pdf|The_intelligent_investor.pdf (Original PDF)]]
+> * **Academic Paper Source & File**: [[Raw/Sources/Economics PDF Books/Value-Investing-Essence|Value Investing: Essence (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/Value_Investing_Essence_And_Ways_Of_Find.pdf|Value_Investing_Essence_And_Ways_Of_Find.pdf (Original PDF)]]
+
+---
+
 ## 1. Core Principles of Graham's Philosophy
 
 ### Investment versus Speculation

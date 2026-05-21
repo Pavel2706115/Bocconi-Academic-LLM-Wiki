@@ -22,6 +22,13 @@ The **Efficient Market Hypothesis (EMH)** is an academic theory asserting that f
 
 ---
 
+> [!NOTE] Ingested Sources & Original PDF Materials
+> * **Related Book**: [[Wiki/Books/The-Intelligent-Investor|The Intelligent Investor]]
+> * **Book Source & File**: [[Raw/Sources/Economics PDF Books/The-Intelligent-Investor-Excerpt|The Intelligent Investor Excerpt (Raw Source)]] | [[Raw/Files/Economics PDF Books/The_intelligent_investor.pdf|The_intelligent_investor.pdf (Original PDF)]]
+> * **Academic Paper Source & File**: [[Raw/Sources/Economics PDF Books/EMH-Professional-Status|EMH & Professional Status (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_Efficient_Market_Hypothesis_theFinan.pdf|The_Efficient_Market_Hypothesis_theFinan.pdf (Original PDF)]]
+
+---
+
 ## 1. The Three Forms of Market Efficiency
 Eugene Fama (1970) formalized the EMH by defining the information sets reflected in asset prices. He categorized efficiency into three distinct levels:
 

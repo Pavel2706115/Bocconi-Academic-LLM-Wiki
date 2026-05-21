@@ -21,6 +21,13 @@ aliases:
 
 ---
 
+> [!NOTE] Ingested Sources & Original PDF Materials
+> * **Related Book**: [[Wiki/Books/The-Intelligent-Investor|The Intelligent Investor]]
+> * **Academic Paper Source & File**: [[Raw/Sources/Economics PDF Books/Rationality-of-Index-Investing|Rationality of Index Investing (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_rationality_of_index_investing_and_p.pdf|The_rationality_of_index_investing_and_p.pdf (Original PDF)]]
+
+---
+
+
 ## 1. The Rationale Behind Passive Indexing
 
 The academic and practical success of index investing rests on four core pillars:

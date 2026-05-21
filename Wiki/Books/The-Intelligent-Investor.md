@@ -21,6 +21,15 @@ aliases:
 
 ---
 
+> [!NOTE] Ingested Sources & Original PDF Materials
+> * **Book Source & File**: [[Raw/Sources/Economics PDF Books/The-Intelligent-Investor-Excerpt|The Intelligent Investor Excerpt (Raw Source)]] | [[Raw/Files/Economics PDF Books/The_intelligent_investor.pdf|The_intelligent_investor.pdf (Original PDF)]]
+> * **Related Academic Papers**:
+>     * **Value Investing Strategy**: [[Raw/Sources/Economics PDF Books/Value-Investing-Essence|Value Investing: Essence (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/Value_Investing_Essence_And_Ways_Of_Find.pdf|Value_Investing_Essence_And_Ways_Of_Find.pdf (Original PDF)]]
+>     * **EMH & Market Efficiency**: [[Raw/Sources/Economics PDF Books/EMH-Professional-Status|EMH & Professional Status (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_Efficient_Market_Hypothesis_theFinan.pdf|The_Efficient_Market_Hypothesis_theFinan.pdf (Original PDF)]]
+>     * **Index Rationality & Paradox**: [[Raw/Sources/Economics PDF Books/Rationality-of-Index-Investing|Rationality of Index Investing (Raw Source)]] | [[Raw/Files/Economics PDF Books/most_similar_papers_to_this_one/The_rationality_of_index_investing_and_p.pdf|The_rationality_of_index_investing_and_p.pdf (Original PDF)]]
+
+---
+
 ## Overview
 
 The text guides lay and professional investors in developing an investment policy that shields them from catastrophic market losses while seeking reasonable long-term returns. It divides investors into two types: the **Defensive (Passive) Investor** and the **Enterprising (Active/Aggressive) Investor**.
