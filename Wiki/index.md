@@ -16,7 +16,7 @@ _Generated 2026-05-21_
 - [[Wiki/Topics/Public-Finance.md|Public Finance]]
 - [[Wiki/Topics/Statistics.md|Statistics]]
 
-## Concepts (114)
+## Concepts (99)
 
 - [[Wiki/Concepts/30001-STATISTICS-Overview.md|30001 STATISTICS Overview]]
 - [[Wiki/Concepts/30006-FINANCIAL-MARKETS-AND-INSTITUTIONS-Overview.md|30006 FINANCIAL MARKETS AND INSTITUTIONS Overview]]
@@ -87,21 +87,6 @@ _Generated 2026-05-21_
 - [[Wiki/Concepts/Investments-in-other-corporations-Overview.md|Investments in other corporations Overview]]
 - [[Wiki/Concepts/IS-LM-Model.md|IS LM Model]]
 - [[Wiki/Concepts/Labor-Market-Macro.md|Labor Market Macro]]
-- [[Wiki/Concepts/Lecture-1-Overview.md|Lecture 1 Overview]]
-- [[Wiki/Concepts/Lecture-10-Overview.md|Lecture 10 Overview]]
-- [[Wiki/Concepts/Lecture-11-12-Overview.md|Lecture 11 12 Overview]]
-- [[Wiki/Concepts/Lecture-13-14-Overview.md|Lecture 13 14 Overview]]
-- [[Wiki/Concepts/Lecture-15-16-Overview.md|Lecture 15 16 Overview]]
-- [[Wiki/Concepts/Lecture-17-21-Overview.md|Lecture 17 21 Overview]]
-- [[Wiki/Concepts/Lecture-2-Overview.md|Lecture 2 Overview]]
-- [[Wiki/Concepts/Lecture-22-24-Overview.md|Lecture 22 24 Overview]]
-- [[Wiki/Concepts/Lecture-25-27-Overview.md|Lecture 25 27 Overview]]
-- [[Wiki/Concepts/Lecture-28-Overview.md|Lecture 28 Overview]]
-- [[Wiki/Concepts/Lecture-3-4-Overview.md|Lecture 3 4 Overview]]
-- [[Wiki/Concepts/Lecture-5-6-Overview.md|Lecture 5 6 Overview]]
-- [[Wiki/Concepts/Lecture-7-Overview.md|Lecture 7 Overview]]
-- [[Wiki/Concepts/Lecture-8-9-Overview.md|Lecture 8 9 Overview]]
-- [[Wiki/Concepts/Lectures-Overview.md|Lectures Overview]]
 - [[Wiki/Concepts/Linear-Regression.md|Linear Regression]]
 - [[Wiki/Concepts/Market-Equilibrium.md|Market Equilibrium]]
 - [[Wiki/Concepts/Market-Failures.md|Market Failures]]

@@ -8,7 +8,7 @@ Links:
 Title: "Joint analysis of two variables Qualitative variables (or discrete taking few distinct values)"
 Reference: "Course Material"
 Created: 2026-05-18
-Processed: true
+Processed: false
 ---
 
 
