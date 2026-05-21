@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: false
 ---
 
-
 **==> picture [322 x 85] intentionally omitted <==**
 
 **==> picture [322 x 85] intentionally omitted <==**
@@ -33,10 +32,6 @@ Processed: false
 7. Freedom of the seas 
 
 8. Disarmament of aggressor nations, postwar common disarmament 
-
-a.y. 2025/2026 
-
-30067 
 
 25 
 

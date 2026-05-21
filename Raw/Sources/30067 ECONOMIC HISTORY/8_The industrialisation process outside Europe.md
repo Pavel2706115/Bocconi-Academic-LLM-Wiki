@@ -11,10 +11,7 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 AN UNSTOPPABLE PROCESS Alfani-Colli, chapters 6.4 and 8.2+8.3
-
-Economic history Ay 2025/2026 Sonia Schifano
 
 ## INDUSTRIALIZATION BEYOND EUROPE: USA
 
@@ -31,10 +28,6 @@ Economic history Ay 2025/2026 Sonia Schifano
 - states, municipalities and privates invested in turnpikes and canals to integrate the huge internal market
 
 - Railway network in 1840 exceeded the one in all of Europe boosting transportation services and industrial sectors (iron and steel)
-
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: USA
 
 - Increasing population:
 
@@ -54,8 +47,6 @@ Economic history Ay 2025/2026 Sonia Schifano
 
 - Regional specialization - favoured by high physical dimension and varied climates
 
-2025/2026
-
 ## THE US ECONOMY
 
 - At the onset of the Civil War (1861-1865)
@@ -65,8 +56,6 @@ Economic history Ay 2025/2026 Sonia Schifano
 - The West, a vast and continually expanding territory, specialised in livestock farming and the cultivation of wheat, maize and other cereals;
 
 - The South, concentrated on colonial products (cotton, sugar cane, tobacco etc.) primarily destined for export.
-
-2025/2026
 
 ## INDUSTRIALIZATION BEYOND EUROPE: USA
 
@@ -85,12 +74,6 @@ Economic history Ay 2025/2026 Sonia Schifano
 - University education started to provide courses for mechanical, electrical and chemical engineers
 
 - Business schools were introduced to study the strategy and management practices of the big industrial corporations
-
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: USA
-
-2025/2026
 
 ## TAYLORISM OR _SCIENTIFIC MANAGEMENT_
 
@@ -128,11 +111,7 @@ To this Ford combined
 
 - total intolerance towards any form of trade union.
 
-2025/2026
-
 ## What about the East the relationship with the West of the World?
-
-2025/2026
 
 ## INDUSTRIALIZATION BEYOND EUROPE: CHINA
 
@@ -156,10 +135,6 @@ To this Ford combined
 
 - Increasing corruption and administrative disorders
 
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: CHINA
-
 - **Opium Wars** of 1840 and 1860  and the **Unequal Treaties**
 
 - China gave Hong Kong to Britain
@@ -180,8 +155,6 @@ To this Ford combined
 
 - The political weakness prevented China to experience an early industrialisation phase
 
-2025/2026
-
 ## INDUSTRIALIZATION BEYOND EUROPE
 
 - Public intervention in the process of national industrialisation is also decisive in the first examples of transformation outside (or at the margins of) Europe.
@@ -189,8 +162,6 @@ To this Ford combined
 - It started at the turn of the 19th and 20th centuries, as a result of exogenous shocks and the .
 
 - spread of the **globalisation**
-
-2025/2026
 
 ## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
@@ -212,14 +183,6 @@ To this Ford combined
 
 - development of good road network: favoured rudimentary integration of the national market and the formation of regional markets
 
-2025/2026
-
-2025/2026
-
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
-
 - Japanese isolation was broken in the years 1853-1854: a US military ship entered the port of Edo (Tokyo) and forced the opening of trade relations between the two countries under threat of bombing the city.
 *(See also: [[Economic History Blab Handout 2024-2025 A.Y.#^16nua2]])*
 
@@ -231,19 +194,11 @@ To this Ford combined
 
 - The opening to international trade was not beneficial to Japan: the local industries, even the more advanced (like those of cotton) were damaged by the Western competition.
 
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
-
 - In 1868 an alliance of aristocrats defeated the shogunate. Emperor Mutsuhito ascended the .
 
 - throne, to reign over Japan until 1912. 1868 is the start of the **Meiji restoration**
 
 - The new imperial policy was based on the goal of becoming a ‘first class nation’. The slogan used was _fokoku kyohei_ or ‘rich nation, strong army’.
-
-2025/2026
-
-## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
 The emperor initiated a vast modernisation programme for the country inspired by the best Western models:
 
@@ -263,8 +218,6 @@ The emperor initiated a vast modernisation programme for the country inspired by
 
 - Accession to the international monetary system (gold standard)
 
-2025/2026
-
 ## COPYING THE WEST
 
 - Japan imported technological knowledge from abroad.
@@ -272,10 +225,6 @@ The emperor initiated a vast modernisation programme for the country inspired by
 - Employed foreign advisors and experts who worked both with the state and as employees in the private sector.
 
 - Sent missions or individual Japanese abroad.
-
-2025/2026
-
-2025/2026
 
 ## INDUSTRIALIZATION BEYOND EUROPE: JAPAN
 
@@ -288,12 +237,6 @@ The Meiji government tackled the problem of industrialisation in two ways:
 These industrial activities were then sold to private individuals, becoming the first nucleus of the large private industrial groups in formation: the _zaibatsu_ .
 
 To stimulate industrialisation the government also used the **import substitution policy**: tariff barriers on imported products to stimulate the development of domestic industry.
-
-2025/2026
-
-2025/2026
-
-2025/2026
 
 ## Related Notes
 - [[Economic History Blab Handout 2024-2025 A.Y.]]

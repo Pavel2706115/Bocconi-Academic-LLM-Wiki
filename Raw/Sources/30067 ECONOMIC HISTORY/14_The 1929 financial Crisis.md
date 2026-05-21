@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## THE CRISIS OF CAPITALISM PART 1
 
 Alfani-Colli 10.2 -10.3 Part of Feinstein et al. Chapter 8 Sonia Schifano a.y. 2025/2026
@@ -109,17 +108,14 @@ Source: Kindleberger (1986), _The World in Depression, 1929-1939_
 
 - called in their loans ⟶ further difficulties for firms
 
-- ⟶
-
+- 
 - experienced bank runs from depositors liquidity/solvency at risk
 
 - failed
 
-- ⟶ net loss for the economy (the banks’ role as intermediaries was lost)
+- net loss for the economy (the banks’ role as intermediaries was lost)
 
-- ⟶ loss of savings for depositors
-
-## WALL STREET CRASH OF 1929
+- loss of savings for depositors
 
 The immediate consequence were
 
@@ -284,8 +280,6 @@ In 1933, representatives from 66 nations gathered in London to restore global ec
 - The United States, under President Franklin D. Roosevelt:
 
 - prioritized domestic recovery through inflationary policies and rejected a premature return to gold
-
-## THE LONDON CONFERENCE OF 1933
 
 - Negotiators initially reached a secret agreement to stabilize the dollar, pound, and franc.
 

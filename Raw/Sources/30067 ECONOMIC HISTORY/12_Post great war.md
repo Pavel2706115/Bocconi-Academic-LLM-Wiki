@@ -11,9 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
-Economic history a.y. 2025/2026 Sonia Schifano
-
 ## IN THIS EPISODE
 
 - The consequences of peace
@@ -140,8 +137,6 @@ Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 1
 
 - Wholesale prices rising at the astronomical rate of 335 percent per month h from August 1922 to November 1923
 
-## THE END OF MONETARY STABILITY
-
 - In 1923 the exchange rate between the mark and the dollar had reached unimaginable levels: 4,200,000,000,000 marks for one dollar.
 
 - The monetary authorities withdrew the mark from circulation and replaced it with the Rentenmark.
@@ -194,8 +189,6 @@ Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 1
 
 - The loans between the European allies were only nominal. The European states had convinced themselves that this would also be the case for loans from the US. But the US demanded full repayment of the capital!
 *(See also: [[Trigari_06(Chapter 7)#^atu360]])*
-
-## WWI: THE END OF MONETARY STABILITY
 
 The issue of German reparations remained open, which amounted to
 

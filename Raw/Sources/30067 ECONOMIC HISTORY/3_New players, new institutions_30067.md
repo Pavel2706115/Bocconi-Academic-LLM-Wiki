@@ -11,10 +11,7 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## NEW PLAYERS, NEW INSTITUTIONS
-
-Economic history A.y. 2025/2026 Sonia Schifano
 
 ## IN THIS EPISODE
 
@@ -148,8 +145,6 @@ Venetian supremacy
 
 - From the end of the 16th century, the Dutch economy became progressively integrated due to the high population density both in cities and small towns and this stimulated continuous innovation, exchange of ideas, and knowledge.
 
-## THE FLYING DUTCH (REPUBLIC)
-
 ## BUT ….THE OTHER COUNTRIES?
 
 ## THE FLYING DUTCH (REPUBLIC): TRADE
@@ -207,8 +202,6 @@ The Dutch model was adopted by other rampant countries: England and France.
 - Traditional weapons (wars against the United Provinces, 1652-1674)
 
 - Commercial weapons (Navigation Acts, 1651).
-
-## COMMERCE AND COLONIALISM
 
 - In the 18th century, contention for supremacy in international trade involved England and France clashing repeatedly.
 

@@ -11,10 +11,7 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 THE FIRST GLOBALIZATION ALFANI-COLLI, CH. 9.1-9.2
-
-Economic History 30067 Ay 2025/2026 Sonia Schifano
 
 ## IN THIS EPISODE
 
@@ -76,11 +73,11 @@ Distinction between two kind of globalization:
 
 - Mobility of production factors (especially labour)
 
-- → Failed to accelerate because of the lack of interaction and technology
+- Failed to accelerate because of the lack of interaction and technology
 
-- → Slow transportation
+- Slow transportation
 
-- → High transportation costs
+- High transportation costs
 
 ## HARD OR FIRST GLOBALIZATION 1850-1914
 
@@ -110,21 +107,15 @@ Globalization means price convergence
 
 NB: convergence only occurs when there is market integration. Where there are high tariff barriers, prices do not converge
 
-## 1 – ECONOMIC INTEGRATION
-
 In a globalized world, price fluctuations propagate more rapidly.
 
 - In pre-industrial economies, price fluctuations were influenced by local or regional phenomena, often caused by "natural" factors such as droughts, famines, or floods, which had repercussions on crop yields or the supply of precious metals (commodity money).
 
 - With industrialization, fluctuations increasingly became linked to the "state of trade" and demand fluctuations. In other words, as the economy integrated, price fluctuations took on a more cyclic nature.
 
-→ **Synchronization of various national economies** → **Crisis become systemic** → **Convergence of prices (law of one price)**
+- **Synchronization of various national economies** → **Crisis become systemic** → **Convergence of prices (law of one price)**
 
-→ **Increase in international mobility of goods, labour, and capital**
-
-## 1 – ECONOMIC INTEGRATION
-
-## 1 – ECONOMIC INTEGRATION
+- **Increase in international mobility of goods, labour, and capital**
 
 In addition to the movement of goods, the movement of capital was fundamental for the international market integration.
 
@@ -154,8 +145,6 @@ https://www.youtube.com/watch?v=NiZI7YnAhp8
 
 ## 2 – TRANSPORT AND COMMUNICATION
 
-## 2 – TRANSPORT AND COMMUNICATION
-
 - The intensification of trade and financial flows was made possible by a (further) **revolution in**:
 
 - **transport and communications**
@@ -169,8 +158,6 @@ https://www.youtube.com/watch?v=NiZI7YnAhp8
 - The decline in transport costs
 
 - The creation of a national (and later international) market served quickly, extensively, and reliably
-
-## 2 – TRANSPORT AND COMMUNICATION
 
 - Telegraph (1840)
 
@@ -209,8 +196,6 @@ All of this would lead to an optimal allocation of resources
 
 ## → THESE THEORIES RESTED ON PURE LOGICAL GROUND
 
-## 3 – TRADE POLICIES
-
 - Different phases of English trade policies
 
 - England used mercantilism first and then protectionism
@@ -229,11 +214,9 @@ All of this would lead to an optimal allocation of resources
 
 - During the Napoleonic wars, due to the continental blockade, agriculture had become extremely profitable. Unsurprisingly, in order not to lose a lucrative source of income, the large landowners, well represented in Parliament, fought to keep these laws in order.
 
-## 3 – TRADE POLICIES
-
 - The decisive blow that led to the repeal of the Corn Laws was the terrible famine in Ireland in 1845.
 
-- → The famine was so severe that the government within months voted
+- The famine was so severe that the government within months voted
 
 - to repeal the Corn Laws.
 
@@ -243,8 +226,6 @@ All of this would lead to an optimal allocation of resources
 
 - **In the second half of the 19th century began for Great Britain a phase of intransigent free trade policy.**
 
-## 3 – TRADE POLICIES
-
 «Free trade is a principle which recognizes the paramount importance of individual action.
 
 Peace will come to earth when the people have more to do with each other and governments less.
@@ -252,15 +233,11 @@ Peace will come to earth when the people have more to do with each other and gov
 **(We)**
 advocated Free Trade, not merely on account of the material wealth which it would bring to the community, but for the far loftier motive of securing permanent peace between nations»
 
-## 3 – TRADE POLICIES
-
 - Cobden, a leader of the anti-Corn Laws struggle, was also the advocate of the **Anglo-French Treaty of 1860 (or CobdenChevalier Treaty), a milestone of free-trade policies.**
 
 - Traditionally devoted to protectionism, with Napoleon III's rise to power in 1851, France radically changed its political-economic attitude.
 
 - Fundamental was the Emperor's desire to gain political and diplomatic credit for France after particularly turbulent decades for the hexagon.
-
-## 3 – TRADE POLICIES
 
 - The Cobden-Chevalier Treaty provided that:
 
@@ -358,8 +335,6 @@ The development of trade and commerce made the adoption of a more solid monetary
 
 - English banks around the world
 
-## 4 – GOLD STANDARD
-
 The system had gold as its base and was based on the following principles:
 
 - the Bank of England had to convert banknotes into gold at sight
@@ -369,8 +344,6 @@ The system had gold as its base and was based on the following principles:
 - the exchange rate between the unit of account (pound sterling) and gold was fixed (gold parity).
 
 Between 1870 and 1900, most of the industrialised countries (or those on the path to industrialisation) adhered to the gold standard:
-
-## 4 – GOLD STANDARD
 
 - Germany in 1871
 
@@ -388,8 +361,6 @@ Between 1870 and 1900, most of the industrialised countries (or those on the pat
 
 - The United States in 1900.
 
-## 4 – GOLD STANDARD
-
 - **Under a gold standard the money supply is determined by (and in some cases consists partially or entirely of) the monetary gold stock**
 
 - Unlike a fiat standard, under a gold standard, monetary authorities have considerably less flexibility to deal with shocks
@@ -404,8 +375,6 @@ Between 1870 and 1900, most of the industrialised countries (or those on the pat
 
 1 US 2 GB dollar pounds
 
-## 4 – GOLD STANDARD
-
 - In this system, exchange rates were fixed. For instance, 1 GB pound was exchanged with:
 
 - 4,85 US Dollars
@@ -418,7 +387,7 @@ Between 1870 and 1900, most of the industrialised countries (or those on the pat
 
 - 20,43 German Marks
 
-→ the g.s contributed to increase trades and capital investment abroad !!!
+- the g.s contributed to increase trades and capital investment abroad !!!
 
 - …
 
@@ -442,8 +411,6 @@ Between 1870 and 1900, most of the industrialised countries (or those on the pat
 
 ## 4 – GOLD STANDARD
 
-## 4 – GOLD STANDARD
-
 The Gold Standard lasted for about 40 years because it ensured price stability over the long term and similar price movements among participating countries:
 
 - Price levels in all countries were determined by the supply and demand for gold, and no single country exerted a decisive influence on price levels
@@ -452,7 +419,7 @@ The Gold Standard lasted for about 40 years because it ensured price stability o
 
 - Firm expectations of fixed exchange rates meant that speculation helped to rebalance the system
 
-- → **confidence**
+- **confidence**
 
 - Deviations from the Gold Standard were nonetheless followed by a return to parity
 
@@ -504,8 +471,6 @@ Monetary policy can only pursue two objectives at a time (Obstfeld & Taylor, 200
 
 - In the 1980s, low inflation and the discipline provided by gold as the nominal anchor were the essential attractions of the gold standard.
 
-a.y. 2025/2026 30067
-
 ## GLOBALIZATION AND MIGRATIONS
 
 The increased flow of goods and capitals moving from one side of the globe to the other was followed by the increased flow of people.
@@ -522,7 +487,7 @@ Population grew by 243% during the beginning of  the 19(th) century and the WWI
 
 - Maintenance of  the high birth rate
 
-→ Demographic transition
+- Demographic transition
 
 ## **Effect**:
 
@@ -543,8 +508,6 @@ Population grew by 243% during the beginning of  the 19(th) century and the WWI
 - Legislative
 
 - Removal of barriers allowed people to freely circulate
-
-## GLOBALIZATION AND MIGRATIONS
 
 - **Consequences**
 

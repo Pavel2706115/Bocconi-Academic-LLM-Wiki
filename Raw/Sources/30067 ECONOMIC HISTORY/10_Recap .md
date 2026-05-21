@@ -11,22 +11,15 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## RECAP 1
 
 # From the Agrarian Revolution to the First Globalization
-
-Sonia Schifano
 
 30067 A.Y. 2025/2026
 
 ## THE AGRARIAN REVOLUTION (10.000 BCE)
 
-2025/2026
-
 THE URBAN REVOLUTION (3.000 BCE)
-
-2025/2026
 
 ## THE PROTO DIVERGENCE
 
@@ -41,8 +34,6 @@ Institutional conditions
 Jared DIAMOND Environmental conditions
 
 1. Population density 2. Agricultural productivity
-
-2025/2026
 
 ## Theories and authors:
 
@@ -80,8 +71,6 @@ Higher in Europe:
 
 4. Income per capita
 
-2025/2026
-
 ## THE LITTLE DIVERGENCE
 
 1. Demography (Hajnal, Clark, Alfani)
@@ -109,8 +98,6 @@ Starting from the 16th century
 2. Lower birth rate if compared to the South of Europe (Hajnal)
 
 3. More private consumption (De Moor, Van Zanden, De Vries) 4. More productivity in manufacturing thanks to putting-outsystem
-
-2025/2026
 
 ## First IR
 
@@ -140,8 +127,6 @@ economic policy choices - Monetary policy
 
 Transports: turnpike roads and internal - Reduction in time and cost of transport canals - More market opportunities for entrepreneurs
 
-2025/2026
-
 ## FIRST IR: EFFECTS
 
 - A new economic structure: manufacturing is contributing more to GDP than agriculture
@@ -159,8 +144,6 @@ Transports: turnpike roads and internal - Reduction in time and cost of transpor
 - Starting point of modern economic growth (Kuznets)
 
 - Irreversible transformation: not only economic transformation but also big social and cultural change
-
-2025/2026
 
 ## SECOND IR
 
@@ -196,7 +179,7 @@ Transports: turnpike roads and internal - Reduction in time and cost of transpor
 
 - Industrial Concentration
 
-- → Competition
+- Competition
 
 - Management becomes a science
 
@@ -208,8 +191,6 @@ Transports: turnpike roads and internal - Reduction in time and cost of transpor
 
 - - Standardisation
 
-2025/2026
-
 ## IR AND LIVING STANDARDS
 
 Simon Kuznets: Inequality and industrialisation
@@ -219,8 +200,6 @@ Mokyr: Living standars
 Knowledge and Education
 
 Shift from the Old Regime
-
-2025/2026
 
 ## UNSTOPPABLE PROCESS
 
@@ -240,11 +219,7 @@ Raw Materials
 
 Competencies
 
-2025/2026
-
 ## THE FIRST GLOBALIZATION
-
-2025/2026
 
 ## Programme overview
 
@@ -252,8 +227,6 @@ Competencies
 |---|---|---|
 |
 |Part II|The modern world|6. WWI and Economic development after World War I 7. Depression and deglobalization 8. Economic development after World War II 9. The new age ofglobalisation|
-
-2025/2026
 
 ## 1. OUTLINE
 
@@ -270,8 +243,6 @@ Competencies
 - Type of questions → Guide to open questions
 
 - Interactive mock exam → 10 closed questions
-
-2025/2026
 
 ## 2. AIMS OF THE COURSE
 
@@ -292,8 +263,6 @@ Competencies
 - Understand simple tools of economic measurement
 
 - Demonstrate how economic theory can explain development
-
-2025/2026
 
 ## 3. COURSE CONTENT
 
@@ -321,8 +290,6 @@ Competencies
 
 _5. The first age of globalisation_
 
-2025/2026
-
 ## 4. SO, WHAT TO STUDY
 
 - It depends
@@ -331,15 +298,13 @@ _5. The first age of globalisation_
 
 - Otherwise, you can focus
 
-- ➢ Most test questions covered lectures’ note and slides
+- Most test questions covered lectures’ note and slides
 
-- ➢ A few can only be answered based on lectures
+- A few can only be answered based on lectures
 
-- ➢ Open questions can be answered based on slides and notes
+- Open questions can be answered based on slides and notes
 
 - Illustrations: main message, not the details
-
-2025/2026
 
 ## 5. HOW MUCH THEORY?
 
@@ -356,8 +321,6 @@ _5. The first age of globalisation_
 - whether you understand the theory
 
 - whether you know in what context they have been applied
-
-2025/2026
 
 ## 6. MIDTERM EXAM
 
@@ -376,8 +339,6 @@ _5. The first age of globalisation_
 - Answer 1 of 2 questions: two questions on two different topics
 
 - **Answer in approximately 250 words!**
-
-2025/2026
 
 ## 7. PART 1: CLOSED QUESTIONS
 
@@ -403,8 +364,6 @@ _5. The first age of globalisation_
 
 - – 5 correct answers: 18
 
-2025/2026
-
 ## 8. PART 2: OPEN QUESTIONS
 
 - Answer only ONE of TWO questions
@@ -424,8 +383,6 @@ _5. The first age of globalisation_
 - In the online exam, you cannot include model diagrams **, but you can refer to and/or explain relevant theory.**
 
 ## ➢ **Make sure you saved your answer!**
-
-2025/2026
 
 ## 9. OPEN QUESTIONS: GUIDELINES
 
@@ -451,8 +408,6 @@ _5. The first age of globalisation_
 
 - **Be coherent**: Do not just list facts; explain them clearly and logically
 
-2025/2026
-
 ## 10. OPEN QUESTIONS: GRADING
 
 |29-31|Strong answers ; very good command of relevant facts and/or arguments, and evidence of ability to organise them with clarity, insight and efficiency.|
@@ -462,8 +417,6 @@ _5. The first age of globalisation_
 |18-21|Weak answers ; with confusing argumentation, but some evidence of knowledge; or competent work that does not address the question.|
 |Fail|Very poor quality ; little (if any) evidence of study|
 *(See also: [[6_The industrialisation process_2#^bb3lc2]])*
-
-2025/2026
 
 ## Related Notes
 - [[6_The industrialisation process_2]]

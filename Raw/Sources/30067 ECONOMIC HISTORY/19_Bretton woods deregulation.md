@@ -11,10 +11,7 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 THE END OF BRETTON WOODS AND DEREGULATION ALFANI-COLLI CHAPTER 16
-
-Economic history Ay 2025/2026
 
 ## IN THIS EPISODE
 
@@ -50,23 +47,17 @@ In the post-WWII period, the Bretton Woods monetary system had guaranteed:
 
 - Bretton Woods was also not just a monetary system but part of a larger political project whose pivot was the USA.
 
-## THE BRETTON WOODS SYSTEM
-
 At the time the Bretton Woods agreements were signed, observers held a major belief:
 
 - the **US** would always economically **outperform** other countries
 
 - - their **trade balance** would always be in **surplus** .
 
-## THE BRETTON WOODS SYSTEM
-
 - In the 1950s, however, **Europe** and **Japan** began to recover economically faster than expected and their trade balances improved.
 
 - The USA trade balance started to deteriorate
 
 - Europe became an attractive market for American investment and this caused an **outflow of dollars** from the US to Europe.
-
-## THE BRETTON WOODS SYSTEM
 
 - After World War II, the dollar was both a **reserve** and an **international currency** .
 
@@ -241,8 +232,6 @@ He chose the second option and declared the **inconvertibility of the dollar** o
 
 - increased **welfare spending**
 
-## THE 1970S: A PIVOT OF CHANGE
-
 - Overall, in the **developed economies** Keynesian responses to the crisis did not yield satisfactory results.
 
 - This paved the way for a **neo-liberal reaction** that would profoundly reshape the role of government in the economy in the late 1970s and early 1980s.
@@ -252,8 +241,6 @@ He chose the second option and declared the **inconvertibility of the dollar** o
 - **foreign borrowing**
 
 - because of high inflation, real interest rates were low and international banks were willing to lend.
-
-## THE 1970S: A PIVOT OF CHANGE
 
 - In terms of international finance, a triangular circulation was established in the 1970s:
 
@@ -286,8 +273,6 @@ He chose the second option and declared the **inconvertibility of the dollar** o
 - state intervention distorts the behaviour of economic actors
 
 - state intervention causes inflationary spirals
-
-## THE 1970S: A PIVOT OF CHANGE
 
 - A new economic paradigm begins to assert itself, linked to the centrality of the market and money, and the reduction of the role of the state. This is referred to as **neo-liberalism** .
 
@@ -348,8 +333,6 @@ He chose the second option and declared the **inconvertibility of the dollar** o
 - In the late 1990s, industrial economies are freed from state controls and constraints as they have not been since the 1930s
 
 **→ extraordinary growth in the size of private enterprises.**
-
-## THE _REAGANOMICS_ BEYOND THE US
 
 - The process began in Great Britain in the Thatcher years and then involved
 

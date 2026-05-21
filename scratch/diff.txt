@@ -1,0 +1,293 @@
+--- original
++++ cleaned
+@@ -11,11 +11,8 @@
+ Processed: true
+ ---
+ 
+-
+ FROM THE SPREAD OF IR TO THE SECOND IR ALFANI-COLLI, CH. 5.3 AND 6
+ 
+-Economic history A.y. 2025/2026 Sonia Schifano
+-
+ ## IN THIS CLASS
+ 
+ - When and how industrialisation spreads (regional factors)
+@@ -26,10 +23,6 @@
+ 
+ - The role of the State
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE LONG WAY TO INDUSTRIALISATION
+ 
+ - England strenuously defended ‘its’ inventions but:
+@@ -40,26 +33,12 @@
+ 
+ - This favoured the spread of the new production systems across the whole European continent.
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+-2024/2025
+-
+-30067 - cl- 15
+-
+-## THE LONG WAY TO INDUSTRIALISATION
+-
+ - The first regions to adopt English technologies were Belgium, Alsace, Rhineland, Northern France, (Protestant) Switzerland, Saxony, Bohemia, and Lombardy. ^zug3yg
+ 
+ - Why? **They were already part of mercantile exchange circuits and/or had a well-established manufacturing tradition.**
+ 
+ - These regions began by imitating the production and the organisational system of the English industry, looking in particular at the textile sector.
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## POLLARD THEORY
+ 
+ - According to a model theorised by Sidney Pollard, the spread of industrialisation in Europe is the
+@@ -72,15 +51,11 @@
+ 
+ - homogeneity in resources and human capital was particularly crucial
+ 
+-→ all countries have developed areas and backward areas
++- all countries have developed areas and backward areas
+ 
+ ## ! Given the same resources, the institutional contexts were often very different and therefore
+ 
+ ## development had different speeds and characteristics from region to region!
+-
+-2024/2025
+-
+-30067 - cl- 15
+ 
+ ## POLLARD THEORY
+ 
+@@ -121,7 +96,7 @@
+ 
+ - Transportation – State intervention in 1830 for a basic railway network
+ 
+-- → Infusion of foreign technologies
++- Infusion of foreign technologies
+ 
+ - Natural resources
+ 
+@@ -129,11 +104,7 @@
+ 
+ - Canals connecting Belgium with northern France
+ 
+-- → Attractive incentives from French capital
+-
+-2024/2025
+-
+-30067 - cl- 15
++- Attractive incentives from French capital
+ 
+ ## FRANCE-THE FRENCH PARADOX
+ 
+@@ -153,10 +124,6 @@
+ 
+ - Food self-sufficiency
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE SECOND INDUSTRIAL REVOLUTION
+ 
+ ## THE DOUBLE LEAP
+@@ -175,32 +142,28 @@
+ 
+ - Scientific knowledge applied to production processes: more and more **R&D** .
+ 
+-
+-
+ - Emergence of big business with **new organisational structures**
+ 
+ - New industrial sectors → **increasingly capital intensive**
+ 
+ - The United States outperforms Great Britain to become the centre of the world economy.
+ 
++The **new technologies** have different characteristics to those of the first industrial revolution:
++
++- **greater capital intensity**
++
++- much closer relationship between **science and technology**
++
++- greater number of **industrial sectors** involved in innovation
++
++Within a few decades, industrial **R&D** laboratories become key locations for technological innovation processes and science becomes key to generating innovation
++
++Growth accelerates at a faster pace than during the first industrial revolution.
++
++## INDUSTRIALISATION AND ECONOMIC GROWTH
++
+ ## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
+ 
+-The **new technologies** have different characteristics to those of the first industrial revolution:
+-
+-- **greater capital intensity**
+-
+-- much closer relationship between **science and technology**
+-
+-- greater number of **industrial sectors** involved in innovation
+-
+-Within a few decades, industrial **R&D** laboratories become key locations for technological innovation processes and science becomes key to generating innovation
+-
+-Growth accelerates at a faster pace than during the first industrial revolution.
+-
+-## INDUSTRIALISATION AND ECONOMIC GROWTH
+-
+-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
+-
+ - **Steel production**: new processes
+ 
+ - invented between 1856 and 1876 allow mass production. Volumes of output soar from the 1880s.
+@@ -212,8 +175,6 @@
+ - 1878-79: Gilchrist Thomas method
+ 
+ _Early iron / steel production in some key countries. Note logarithmic scale and change of time scale for Russia and Japan_
+-
+-## THE PILLARS OF THE SECOND INDUSTRIAL REVOLUTION
+ 
+ Also fundamental was the development of the chemical industry:
+ 
+@@ -288,34 +249,27 @@
+ 
+ The emergence of the large enterprise alters the dynamics of competition:
+ 
+-- ⟶
+-
++- 
+ - strong industrial concentration **oligopolistic markets**
+ 
+ - penetration of foreign markets ⟶ _**multinationalisation**_
+ 
+ ...and generates dualism between sectors at the technological frontier and sectors with traditional technologies
+ 
+-## THE RISE OF BIG BUSINESS
+-
+ Big business brings with it major changes in the organisation of work.
+ 
+ In the Victorian factory
+ 
+-→ the organisation of production (time and methods of work) is in the hands of . **department heads**
++- the organisation of production (time and methods of work) is in the hands of . **department heads**
+ 
+ In the factory system that emerged between the 19th and 20th centuries
+ 
+-→ the system of organisation is in the hands of **managerial figures** , members of the management team.
++- the system of organisation is in the hands of **managerial figures** , members of the management team.
+ 
+ The main innovators in this field are Frederick Taylor, Henry Ford, Charles Eugène Bedaux, and Taiichi Ohno.
+ 
+ ## HOW CAN BACKWARDNESS BE ADDRESSED?
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE GERSCHENKRON MODEL
+ 
+ - **Alexander Gerschenkron** described **the advantages of backwardness** . In his model, it is not the long-term dynamics that are central, but above all the phases of ‘ **preparation** ’ and economic take-off.
+@@ -324,12 +278,6 @@
+ 
+ - The more distant prerequisites a country has from the leading economy, the more it will have to change its development model in order to be successful. Conversely, the more a country has similar prerequisites to the first comer, the more the model will be able to follow the one adopted by the latter.
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+-## THE GERSCHENKRON MODEL
+-
+ - In this model, backwardness brings advantages: it will be possible to imitate the winning technologies of the other competitors without going through a process of slow research and development.
+ 
+ - In this way there will be:
+@@ -344,22 +292,12 @@
+ 
+ - greater dependence on foreign capital and resources
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+-## THE GERSCHENKRON MODEL
+-
+ - The ‘natural’ consequence of this model is that the state/region that initially holds the leadership is not necessarily the same one that continues to prosper.
+ 
+ - England vs US
+ 
+ (we are applying this model to industrialisation, but it is also valid within a single industrial sector…)
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE LONG WAY TO INDUSTRIALISATION
+ 
+ - Being at a disadvantage also allows backward countries to find substitutes for the factors necessary for industrialization lacking in their own countries, just as the advanced countries did in the past.
+@@ -368,10 +306,6 @@
+ 
+ - The state and the universal bank system, for instance, palyed a central role in the development of many European countries on the Continent.
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE ROLE OF SUBSTITUTIVE FACTORS: UNIVERSAL BANKS
+ 
+ As we have seen, economic growth generates the need for a supportive and more articulated financial system. In England the banking system had time not only to develop, but also to better articulate and to (hyper) specialise itself, creating a number of different services able to cover the different needs of the market.
+@@ -380,10 +314,6 @@
+ 
+ Universal Banks are **joint-stock companies** and their specificity makes them highly exposed to the risk of liquidity crises.
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## THE ROLE OF SUBSTITUTIVE FACTORS: THE STATE
+ 
+ After the mid-19th century, the conditions for industrial development became increasingly difficult due to the high costs of production plants and due to the increasing relative backwardness of the laggard countries.
+@@ -402,10 +332,6 @@
+ 
+ - industrial bailouts / rescue
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## GERMANY
+ 
+ - Up to 1833 – awareness of the economic changes occurring in France, Belgium, Britain
+@@ -428,10 +354,6 @@
+ 
+ - Cartels+protectionists policies in 1879 = high prices in the domestic market + exports (at competitive prices)
+ 
+-2024/2025
+-
+-30067 - cl- 15
+-
+ ## ITALY
+ 
+ The late national unification created a pressing need for economic standardization!
+@@ -446,11 +368,11 @@
+ 
+ - Decisive role of the two major mixed banks (COMIT and CREDIT) in supporting industry
+ 
+-- ➢ From 1896 onward: a turning point, thanks in part to hydroelectric power and related industries. Large enterprises in innovative sectors (Fiat), growth in textiles, agri-food, metallurgy, and chemicals
+-
+-- ➢ Uneven development: the “Industrial Triangle” (Milan–Turin–Genoa)
+-
+-- ➢ Economic growth but also challenges. Mass emigration (painful!), brought significant benefits (demographic pressure, remittances, and export networks abroad)
++- From 1896 onward: a turning point, thanks in part to hydroelectric power and related industries. Large enterprises in innovative sectors (Fiat), growth in textiles, agri-food, metallurgy, and chemicals
++
++- Uneven development: the “Industrial Triangle” (Milan–Turin–Genoa)
++
++- Economic growth but also challenges. Mass emigration (painful!), brought significant benefits (demographic pressure, remittances, and export networks abroad)
+ 
+ ## TAYLORISM OR _SCIENTIFIC MANAGEMENT_
+ 

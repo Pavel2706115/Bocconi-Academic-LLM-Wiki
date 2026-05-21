@@ -11,14 +11,9 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 DECOLONISATION: LIGHTS AND (MANY) SHADOWS
 
 **Alfani-Colli, ch. 14-15**
-
-Economic history Ay 2025/2026
-
-Sonia Schifano
 
 A.Y. 2025/2026 30076
 
@@ -43,8 +38,6 @@ A.Y. 2025/2026 30076
 - In 1965, NICs produced 5% of world manufacturing output, by 1995 their share grew to 17% (and since then doubled)
 
 - South Korea, Taiwan, Singapore, Hong Kong broke into the club of advanced economies
-
-## GOLDEN AGE BUT…NOT FOR EVERYONE
 
 - Does a common growth path exist?
 
@@ -251,21 +244,15 @@ Despite the difficulties of many of the former colonies in developing their econ
 
 On the contrary, although modest compared to the West, compared to the colonial period they often recorded a high **GDP growth**
 
-
-
 - this growth did not everywhere bring prosperity, but often it brought **political and social instability**
 
 - - The newly created wealth was **not fairly redistributed** among the population and the already fragile political architecture was further weakened.
-
-## THE POST-COLONIAL DIVERGENCE
 
 It should be emphasised that poverty was not a common condition for all former colonies:
 
 for some states, the abundance of **natural resources** demanded by Western countries caused **per capita income to rise** significantly.
 
 The most classic example is the Gulf economies, which prospered rapidly thanks to **oil** .
-
-## A DIFFERENT DESTINY: THE ASIAN TIGERS
 
 ## A DIFFERENT DESTINY: THE ASIAN TIGERS
 

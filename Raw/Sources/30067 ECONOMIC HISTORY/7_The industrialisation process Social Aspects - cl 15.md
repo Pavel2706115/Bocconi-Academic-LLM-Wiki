@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## THE SOCIAL ASPECTS OF THE IR
 
 ## Alfani-Colli chapter 7
@@ -52,8 +51,6 @@ Schifano Sonia 30067 a.y. 2025/2026
 
 - Middle classe is the leader
 
-2024/2025
-
 ## SOCIETY AND THE IR
 
 - At the same time we have the abolishment of feudalism in many part of Europe (Napoleonic Civil Code)
@@ -64,11 +61,9 @@ Schifano Sonia 30067 a.y. 2025/2026
 
 From Land aristocracy to indutrial aristocracy
 
-→ A shift in economic and political power from the nobility to the bourgeoisie
+- A shift in economic and political power from the nobility to the bourgeoisie
 
-- → From ownership of land to industry
-
-2024/2025
+- From ownership of land to industry
 
 WHAT WAS THE IMPACT OF THE IF ON THE DIFFERENT SOCIAL CLASSES?
 
@@ -91,8 +86,6 @@ Kuznet, 1973.
 - Developed Countries can reach the rest of the World
 
 - Limited spread of modern economic growth, despite its worldwide partial effects
-
-2024/2025
 
 ## MODERN ECONOMIC GROWTH AND INEQUALITY: KUZNET
 
@@ -123,15 +116,11 @@ Kuznet, 1973.
 - Simon Kuznets (1955): Transfer of workforce from a sector having low income and productivity (agriculture) to one with high income (industry and services). Under the hypothesis that the differential in income between the two sectors remains constant during the transition, inequality will grow up until 50% of the workforce has transferred. Later, and for the same reasons, inequality will start to decrease.
 *(See also: 10_Recap #^0zwhxu)*
 
-2024/2025
-
 ## INEQUALITY
 
 ## Wealth Gini
 
 Chapter 5 Table 5.5 Gini coefficient of wealth inequality in selected countries, 1820-2010 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris.
-
-2024/2025
 
 ## URBAN (EARLY) GROWTH PARADOX
 
@@ -167,13 +156,9 @@ Chapter 5 Table 5.5 Gini coefficient of wealth inequality in selected countries,
 
 https://www.nationalarchives.gov.uk/education/resources/victorian-industrial-towns/lodging-houses/
 
-2024/2025
-
 ## CO2 EMISSIONS 1820-2000
 
 Chapter 10Table 10.9 CO2 emissions per capita in selected countries, 1820-2000 van Zanden, J. et al. (eds.) (2014), _How Was Life?: Global Well-being since 1820_ , OECD Publishing, Paris.
-
-2024/2025
 
 ## KNOWLEDGE AND THE IR
 
@@ -194,8 +179,6 @@ We discussed the important role played by knowledge before and during the indust
 - France – Fench Revolution - free- publicly supported education
 
 - disregarded until after 1840
-
-2024/2025
 
 ## KNOWLEDGE AND THE IR
 
@@ -219,10 +202,6 @@ We discussed the important role played by knowledge before and during the indust
 
 Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017.
 
-2024/2025
-
-## KNOWLEDGE AND THE IR
-
 - Primary school enrollment rates from selected Countries (per 10,000 Population)
 
 |**Country**|**1830**|**1850**|**1900**|
@@ -236,8 +215,6 @@ Neal and Cameron, A Coincise Economic History of the World, Oxford University Pr
 |Russia|-|98 (1870)|348|
 
 Neal and Cameron, A Coincise Economic History of the World, Oxford University Press, 2017.
-
-2024/2025
 
 ## LIVING STANDARDS AND THE IR: MOKYR
 
@@ -259,25 +236,19 @@ Mokyr (2009)
 
 - Change in the basket of goods comsumed
 
-2024/2025
-
 ## LIVING STANDARDS AND THE IR: MOKYR
 
 Are real wage statistics a good proxy for living standards?
 
 - Real wages for industrial sector → good in quantity and quality
 
-- → rare
+- rare
 
 - Real wages for domestic sector
 
 - Wage in kind common practice before the 18( th ) century
 
 Comparisons between pre and first industrialisation are difficult
-
-2024/2025
-
-## LIVING STANDARDS AND THE IR: MOKYR
 
 - **Biological indicators** – health – height – mortality - morbidity
 
@@ -299,8 +270,6 @@ The **HDI (Human Development Index)** is a more comprehensive index and it uses:
 
 - Political and social indicators
 
-2024/2025
-
 ## THE HUMAN DEVELOPMENT INDEX
 
 ## LIVING STANDARDS AND THE IR: MOKYR
@@ -310,8 +279,6 @@ The **HDI (Human Development Index)** is a more comprehensive index and it uses:
 _«While actual conditions may not have improved much before 1850, the achievement of the first two generations of the Industrial Revolution was to prevent the growing population and the external negative shocks from creating the kind of pressure that could have caused living standards to fall dramatically»_
 
 _Mokyr (2009)_
-
-2024/2025
 
 ## Related Notes
 - [[Economic History Blab Handout 2024-2025 A.Y.]]

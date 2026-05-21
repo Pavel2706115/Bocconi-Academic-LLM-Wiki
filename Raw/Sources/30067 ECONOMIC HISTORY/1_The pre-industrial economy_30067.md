@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## The structural characteristics of preindustrial economy
 
 (Alfani-Colli, ch. 1-2.1)
@@ -119,8 +118,6 @@ Dembitzer, Jacob, et al. "Levantine overkill: 1.5 million years of hunting down 
 - Less variety in diet - worst nutritional intake
 
 - More diseases (also due to the proximity of people in villages)
-
-## The shift to agriculture: a mixed blessing
 
 _Robert C. Allen (2024).The Neolithic Revolution in the Middle East: A survey and speculation article for the Economic History Review, 1-43_
 
@@ -284,14 +281,10 @@ Physical Capital
 
 Caveat: Malthusian theory is not perfect and a pre-industrial society was not necessarily subject to it. But it remains an important tool for understanding how pre-industrial societies functioned.
 
-## Resilience and vulnerability of agrarian economies
-
 _“We will the means subsistence in suppose of any country just equal to the easy support of its inhabitants. The constant effort towards population increases the number of people before the means of subsistence are increased. The food therefore which before supported seven millions, must now be divided among seven millions and a half or eight millions. The poor consequently must live much worse, and many of them be reduced to severe distress. The number of labourers also being above the proportion of the work in the market, the price of labour must tend toward a decrease; while the price of provisions would at the same time tend to rise. The labourer therefore must work harder to earn the same as he did before.”_
 *(See also: 10_Recap #^0zwhxu)*
 
 _Thomas Malthus, 1798._
-
-## Resilience and vulnerability of agrarian economies
 
 The basis of this idea is the principle that the population is growing in a geometrical rate: 2, 4, 8, 16, 32 etc. The food supply, on the other hand, increased only in an arithmetical fashion: 2, 4, 6, 8 etc.
 
@@ -300,8 +293,6 @@ Since the population will grow more quickly than the food supply. This will resu
 _“…the is than the power of population indefinitely greater power in the earth to produce subsistence for man.”_
 
 _Thomas Malthus, 1798._
-
-## Resilience and vulnerability of agrarian economies
 
 Two types of check can occur and limit population expansion:
 

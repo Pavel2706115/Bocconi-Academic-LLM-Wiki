@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 STATE INTERVENTION IN EUROPE AND WWII ALFANI-COLLI 10.2-11 Economic history Ay 2025/2026 Sonia Schifano
 
 ## IN THIS CLASS
@@ -58,8 +57,6 @@ The failure to use monetary policies to stimulate the economy worsened the situa
 
 Nazism capitalised on the discontent for its rise to power: 3 crisis in 10 years!
 
-## GERMANY: NAZI ECONOMY
-
 1932 National Socialists won the elections (37%)
 
 1933 Adolf Hitler became Chancellor
@@ -82,8 +79,6 @@ State of emergency was introduced: control of the economy and the society
 
 - Preparation for war
 
-## GERMANY: NAZI ECONOMY
-
 - The main architect of the economic recovery during Nazism was Hjalmar Schacht
 
 - **1934: THE NEW PLAN**
@@ -95,8 +90,6 @@ State of emergency was introduced: control of the economy and the society
 - Schact’s program envisaged restarting industry by **injecting liquidity** however, an expansionary maneuver would have led to a collapse of the balance of payments.
 
 - To prevent this, he introduced innovative financial instruments such as the MEFO bills, which enabled the state to finance rearmament and industrial growth without immediate inflationary or external imbalances.
-
-## GERMANY: NAZI ECONOMY
 
 The solution was found in the _Metallurgische Forschungsgesellschaft_ (ME.FO), a fictitious company used for rearmament (done in secret, initially):
 
@@ -117,8 +110,6 @@ The initial share capital for MEFO was put up by four major German armaments man
 - **Confidence in the system** rested on the guarantees offered by the central bank and because they were accepted by major companies as a means of payment.
 
 - This scheme allowed Hitler's regime to borrow and spend billions of Reichsmarks—primarily for rearmament—without the spending appearing on official budget figures or increasing the immediate public debt visible to other nations.
-
-## GERMANY: NAZI ECONOMY
 
 The government resorted to four-year plans financed largely by public spending:
 
@@ -295,8 +286,6 @@ Planning and autarkic policies tried in the past would prove invaluable both dur
 
 The countries that emerged triumphant from the war were those that before the conflict (1938) had the highest level of development ( GDP per capita).
 
-## WORLD WAR II
-
 - Science an role in war: plays important
 
 - the case of **Los Alamos National Laboratory** is probably the most paradigmatic example.
@@ -321,8 +310,6 @@ The countries that emerged triumphant from the war were those that before the co
 
 - War Bonds: sold at 75% of their face value, maturity in 10 years
 
-## THE AMERICAN PLAN
-
 - Defence spending rose from 1.4% of GDP in 1940 to over 37% in 1945
 
 - Real GDP per person reached a wartime peak that was 67% higher than the 1940 level
@@ -336,8 +323,6 @@ The countries that emerged triumphant from the war were those that before the co
 - This led to rationing of meat, gasoline, fuel oil, kerosene, nylon, silk, shoes, sugar, coffee, processed foods, cheese, and milk.
 
 But were Americans better off during the war than they had been before the US entered the war?
-
-## THE AMERICAN PLAN
 
 - Consumption per person was lower throughout the war than it was in 1940 when the economy was still climbing out of the Great Depression
 
@@ -373,19 +358,13 @@ But were Americans better off during the war than they had been before the US en
 
 - restoration of the **Gold Standard**
 
-## WORLD WAR II
-
 The Second World War deployed a far greater destructive potential than the First War. Human losses and damage to productive assets and infrastructure were correspondingly higher.
-
-## WORLD WAR II
 
 Reconstruction therefore started in 1945 from a lower level than in 1918:
 
 - nevertheless, the approach was underpinned by much more far-sighted vision and political planning (decisive role of the USA)
 
 - **international cooperation** was much more intense than after the first post-war period (even though the division of the world into two blocs opened up)
-
-## WORLD WAR II
 
 - The pillars on which post-World War II reconstruction is based are as follows:
 

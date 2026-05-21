@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 THE INDUSTRIAL REVOLUTION PRE-CONDITIONS ALFANI COLLI, CH. 5 Economic history A.y. 2025/2026 Sonia Schifano
 
 ## BREAKING POINT WRT PAST
@@ -108,8 +107,6 @@ Allen (2000) Agricultural labour productivity in Europe (England 1800 = 100).
 
 2025-2026
 
-## FROM OPEN FIELDS TO ENCLOSURES
-
 - English historians have explained the rise of English agriculture with the enclosure of open fields.
 
 - Inefficient open fields
@@ -133,8 +130,6 @@ Allen (2000) Agricultural labour productivity in Europe (England 1800 = 100).
 30067 - Economic History
 
 2025-2026
-
-## FROM OPEN FIELDS TO ENCLOSURES
 
 - Technology
 
@@ -232,8 +227,6 @@ With **mercantilism, or economic nationalism** , the aim of the state is (like t
 
 - **dominance over the seas** to ensure high levels of exports
 
-
-
 - they were also intended to strengthen **domestic production**
 
 - Mercantilist policies were implemented to **strengthen the state and to “commercially” fight the Dutch**
@@ -277,8 +270,6 @@ Among the most significant mercantilist policies are the **Navigation Acts** , a
 30067 - Economic History
 
 2025-2026
-
-## MERCANTILISM & EMPIRE
 
 - The third navigation act, the **Staple Act of 1663** , required instead that the English colonies had to obtain their supplies only from Great Britain and that certain goods (sugar, tobacco, cotton, etc.) had first to be brought to the mother country and then, eventually, re-exported.
 *(See also: [[6_The industrialisation process_2#^zug3yg]])*
@@ -411,8 +402,6 @@ The British Parliament began to regulate, on a macro-economic level:
 
 2025-2026
 
-## THE CHEAP ENERGY ECONOMY
-
 Source: Allen (2009), ‘Cheap energy economy’
 
 30067 - Economic History
@@ -441,8 +430,6 @@ Transport innovations was important because:
 
 2025-2026
 
-## TRANSPORTS
-
 Toll roads ( _turnpike roads_ ) are built according to a new model:
 
 - construction by turnpike trusts authorised by parliament
@@ -458,8 +445,6 @@ Moreover, we do not have to forget the fundamental role played by internal canal
 30067 - Economic History
 
 2025-2026
-
-## TRANSPORTS
 
 ## Internal canals
 
@@ -599,13 +584,9 @@ The term revolution indicates the **radical nature** of economic and social chan
 
 2025-2026
 
-## THE SLOW GROWTH PARADOX
-
 30067 - Economic History
 
 2025-2026
-
-## THE SLOW GROWTH PARADOX
 
 1. Rapid **demographic expansion**
 
@@ -619,17 +600,17 @@ The term revolution indicates the **radical nature** of economic and social chan
 
 - The relationship between science and technology is weak:
 
-- ⟶ new technologies are imperfect
+- new technologies are imperfect
 
 4. New technologies were highly **specific in scope**:
 
-- ⟶ they applied to only one stage of the production
+- they applied to only one stage of the production
 
 - The supply of adequate skills in the labor market is initially limited.
 
 process
 
-- ⟶ the steam engine represented the sole ‘general purpose’ technology (GPT)
+- the steam engine represented the sole ‘general purpose’ technology (GPT)
 
 6. The efficiency of the factory system follows learning curves.
 
@@ -711,7 +692,7 @@ Has an economic and social character
 
 - Flow of new inventions mobilized new investment
 
-- ➔ higher labour productivity ➔ higher wages ➔ labour-saving innovation
+- higher labour productivity ➔ higher wages ➔ labour-saving innovation
 
 - Disagreement with Allen
 
@@ -719,15 +700,13 @@ Has an economic and social character
 
 - Micro inventions: improved science in the 19(th) century made industrial technology more efficient
 
-- ➢ Productivity growth mostly came from micro inventions after 1820.
+- Productivity growth mostly came from micro inventions after 1820.
 
 - **Mokyr**: enlightened culture and institutions created an environment supportive of micro inventions
 
 30067 - Economic History
 
 2025-2026
-
-## THE EUROPEAN ENLIGHTENMENT
 
 - Origins of modern economic growth
 
@@ -884,8 +863,6 @@ As large quantities of water were needed, the first factories were built in the 
 
 2025-2026 30067 - Economic History
 
-## THE COTTON DISTRICT: LANCASHIRE
-
 - Lancashire became an extremely successful industrial agglomeration.
 
 - This concentration of related businesses led to significant productivity benefits.
@@ -944,13 +921,13 @@ _1771 James Watt_
 
 - Market economy with property rights & rule of law + Strong but limited state, sound taxation
 
-- → HIGHLY OPEN LIBERAL ECONOMY, FREE TRADE BIAS
+- HIGHLY OPEN LIBERAL ECONOMY, FREE TRADE BIAS
 
 - Favourable geography: coal, water, sea access
 
 - Skills in textiles, mining, iron,
 
-- → COMPLEMENTARITY AMONG SECTORS
+- COMPLEMENTARITY AMONG SECTORS
 
 - Agriculture reorganized on capitalist lines
 
@@ -962,19 +939,19 @@ _1771 James Watt_
 
 - Cotton textiles as iconic sector
 
-→ KNOWLEDGE
+- KNOWLEDGE
 
 - Lancashire as industrial hub (agglomeration effects)
 
-- → SPECIALIZATION
+- SPECIALIZATION
 
 - Agglomerations → productivity, hard to replicate
 
-- → ECONOMIES OF SCALE
+- ECONOMIES OF SCALE
 
 - Exports: ~25% of industrial output by 1851
 
-- → EXPORT ORIENTED
+- EXPORT ORIENTED
 
 30067 - Economic History
 

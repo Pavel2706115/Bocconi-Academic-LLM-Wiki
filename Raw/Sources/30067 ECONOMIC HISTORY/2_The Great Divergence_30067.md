@@ -11,12 +11,9 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 # The ‘Great Divergence’
 
 **(Alfani-Colli, ch. 2.2-3)**
-
-Economic history Academic year 2025/2026 Sonia Schifano
 
 ## In this episode
 
@@ -127,11 +124,11 @@ Economic history Academic year 2025/2026 Sonia Schifano
 
 The Portuguese continued to aim for the East Indies:
 
-→ 1510 Malacca Peninsula and Malaysia;
+- 1510 Malacca Peninsula and Malaysia;
 
-- → 1513 China;
+- 1513 China;
 
-- → 1543 Japan.
+- 1543 Japan.
 
 The Portuguese wrested the primacy of trade from Genoa and Venice (engaged in the clash with the Ottoman Empire) and supplanted the Arabs in the Indian Ocean.
 
@@ -226,8 +223,6 @@ However, scholars do not agree on the origins and causes of the Great Divergence
 **Higher population density In Europe than Asia**
 
 **Ideas circulate quicker Innovation More pressure on resources**
-
-## 1. Explaining the Great Divergence: Demography
 
 **According to historian G. Clark:** the start of the Divergence should be backdated until the Middle Ages:
 

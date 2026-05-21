@@ -11,12 +11,9 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## ECONOMIC RECOVERY POST WORLD WAR II
 
 ## Alfani-Colli 12
-
-Economic history Ay 2025/2026 Sonia Schifano
 
 ## IN THIS CLASS
 
@@ -56,11 +53,7 @@ July 1944, Bretton Woods Conference (New Hampshire): international reorganisatio
 
 - proposes to create a ‘Clearing Union’ (World Central Bank) to control international payments and lend with a new currency, called _Bancor_ (tied to gold)
 
-## 1. BRETTON WOODS
-
 The American position prevailed and the international monetary system adopted was a new gold exchange standard centred on the US dollar (the only currency convertible into gold at a price of $35 per ounce/28.5 grams).
-
-## 1. BRETTON WOODS
 
 ## International Monetary Stability
 
@@ -109,8 +102,6 @@ _**General Agreement on Tariffs and Trade (GATT)**_ paving the way, through succ
 
 _George C. Marshall_ Harvard University, 5 June 1947
 
-## 3. THE MARSHALL PLAN
-
 How did the Marshall plan work?
 
 1. European countries present their (four-year) **development plans** with the demand for necessary goods (raw materials, foodstuffs, coal and oil, machinery and means of transport, etc.).
@@ -120,8 +111,6 @@ How did the Marshall plan work?
 3. the European governments sell the obtained goods on their markets and they put the proceeds into a **'counterpart fund'** that they can only use with the consent of the US
 
 4. the fund is used for productive investments (France-Germany)or to reduce public debt (very rarely - UK)
-
-## 3. THE MARSHALL PLAN
 
 ## Main features:
 
@@ -150,8 +139,6 @@ Main ERP beneficiary countries (1948-52):
 - the USA assigned the OEEC the task of distributing Marshall Plan aid among the European countries.
 
 - 1961 = transformed into the **OECD** (Organisation for Economic Cooperation and Development) with the accession of other countries (USA, Canada, Japan).
-
-## 4. EUROPEAN INTEGRATION
 
 During the Korean War (1950), the demand for steel grew: to exploit this situation, **France and Germany** proposed the creation of the European Coal and Steel Community (ECSC) with the objective to create a **common market for coal and steel**
 
@@ -196,8 +183,6 @@ Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 1
 - **Keynesian Economy** - Investments in public schools
 
 - **International Trade** - promoted by the GATT, the OEEC, the ECSC, BW
-
-## 5. ECONOMIC MIRACLES
 
 - From 1952 to 1973:
 

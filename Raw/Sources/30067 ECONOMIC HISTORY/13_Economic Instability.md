@@ -11,10 +11,7 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## THE AGE OF INSECURITY
-
-Economic history a.y. 2025/2026 Sonia Schifano
 
 ## IN THIS CLASS
 
@@ -36,13 +33,9 @@ Economic history a.y. 2025/2026 Sonia Schifano
 
 ## THE LEAGUE OF NATIONS
 
-## THE LEAGUE OF NATIONS
-
 The United States never joined the League, significantly undermining its authority and power from the start.
 
 « NO MORE LONDON, NOT YET NEW YORK»
-
-## THE LEAGUE OF NATIONS
 
 - The tools set up for maintaining peace were:
 
@@ -59,10 +52,6 @@ The United States never joined the League, significantly undermining its authori
 - Its structure and experience were used to create its successor: the United Nations
 
 - (UN).
-
-A.Y. 2025/2026 30067
-
-A.Y. 2025/2026 30067
 
 ## THE DAWES PLAN
 
@@ -145,8 +134,6 @@ RESERVES: GOLD+DOLLARS+ POUNDS
 
 ## DO YOU REMEMBER UNEMPLOYMENT?
 
-## DO YOU REMEMBER UNEMPLOYMENT?
-
 - In 1925, Britain returned to the Gold Standard at pre-war parity
 
 - Gold-Sterling exchange rate was not adjusted for wartime inflation
@@ -191,8 +178,6 @@ RESERVES: GOLD+DOLLARS+ POUNDS
 
 - **Indirect taxes vs tax on property**
 
-A.Y. 2025/2026 30067
-
 ## THE ROARING TWENTIES
 
 From 1925 onwards, Western national economies recovered but there were considerable differences between Europe and North America.
@@ -218,8 +203,6 @@ Economic prosperity reverberated throughout the US and led to vigorous growth in
 - 15% owned a washing machine, toaster and other household appliances
 
 The standard of living of the Americans increased considerably and various forms of entertainment increased, from cinema, dancing, sports to music.
-
-## THE FLYING USA
 
 - In Europe, the myth of the American way of life was created, which corresponded to a standard of living characterised by a series of comforts unthinkable for the average European citizen.
 

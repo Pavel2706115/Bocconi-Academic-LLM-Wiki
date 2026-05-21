@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## THE CRISIS OF CAPITALISM PART 2
 
 Alfani-Colli 10.2 -10.3 Part of Feinstein et al. Chapter 8 Sonia Schifano a.y. 2025/2026
@@ -86,8 +85,6 @@ The ideology of the gold standard (financial orthodoxy) that led decision-makers
 
 - The tight control on capital flows had **negative effects on international trade.**
 
-## USA: HOOVER REACTION
-
 President Hoover, always convinced that the government should not intervene with countercyclical policies, was forced to change his mind in the face of unemployment numbers, but the outcomes were not positive.
 
 - In 1932 ( **Reconstruction Finance Corporation** ), he created a federal fund to be allocated to the largest banks, which were supposed to help the smaller ones in turn. The resources were inadequate. Large banks allowed the smaller ones to fail.
@@ -122,7 +119,7 @@ Liberal and orthodox financial principles required a balanced budget.
 
 - But reconstruction and social problems pushed for an increase in public spending.
 
-- ⟶ **distributive conflict: wealth tax or indirect taxation?**
+- **distributive conflict: wealth tax or indirect taxation?**
 
 ## THE BEGINING OF THE WELFARE STATE
 
@@ -167,8 +164,6 @@ Who was John Maynard Keynes?
 - 1936: General Theory of Employment, Interest, and Money
 
 - 1944: Head of the British delegation in the Bretton Wood Conference
-
-## THE FATHER OF THE WELFARE STATE
 
 ## Writer for:
 
@@ -218,8 +213,6 @@ Who was F.D. Roosevelt
 
 - 1933-1945: Presidency
 
-## USA: FDR AND THE NEW DEAL
-
 The first 100 days!!!
 
 In an attempt to resolve the consequences of the 1929 crisis, Roosevelt initiated a set of economic and social reforms aimed at the **3 Rs**:
@@ -229,8 +222,6 @@ In an attempt to resolve the consequences of the 1929 crisis, Roosevelt initiate
 - **Recovery**: restoring the economy to pre-crisis levels
 
 - **Reform**: reform of the financial and economic system in order to prevent new recessions
-
-## USA: FDR AND THE NEW DEAL
 
 The first 100 days!!!
 
@@ -242,8 +233,6 @@ In an attempt to resolve the consequences of the 1929 crisis, Roosevelt initiate
 
 “We can never insure one hundred percent of the population against one - hundred percent of the hazards and vicissitudes of life, but we have tried to **Reform**: reform of the financial and economic system in order to frame a law which will give some measure of protection to the average citizen prevent new recessions and to his family against the loss of a job and against poverty-ridden old age.” _President Roosevelt upon signing Social Security Act_
 *(See also: [[14_The 1929 financial Crisis#^53ey9f]])*
-
-## USA: FDR AND THE NEW DEAL
 
 ## The first 100 days!!!
 

@@ -11,7 +11,6 @@ Created: 2026-05-18
 Processed: true
 ---
 
-
 ## THE GREAT WAR
 
 Alfani-Colli, ch. 9.3 Economic history - 30067 a.y. 2025/2026 Sonia Schifano
@@ -120,8 +119,6 @@ Alfani-Colli, ch. 9.3 Economic history - 30067 a.y. 2025/2026 Sonia Schifano
 
 - End of the age of mass migration and large capital flows
 
-## GLOBALISATION BACKLASH
-
 ## Annual average growth of merchandise exports, at constant prices (%)
 
 Source: Feinstein et al (2008), _The World Economy between the World Wars,_ p. 12.
@@ -152,7 +149,7 @@ It brought an end to the ‘first globalisation’
 
 ## ➢ **Slow growth in Europe and Asia**
 
-- ➢ **New global powers: United States and Soviet Union**
+- **New global powers: United States and Soviet Union**
 
 - 1950-1973
 
@@ -226,8 +223,6 @@ It brought an end to the ‘first globalisation’
 
 - Austria-Hungary went to war against Serbia, a traditional ally of Russia. In short, the whole of continental Europe, bound by pacts and alliances, was involved in the conflict.
 
-## WWI: THE ORIGINS OF THE CONFLICT
-
 - It is virtually impossible to identify a single factor as determining the outbreak of the First World War.
 
 - The war broke out as a result of a process that had started in the mid-19th century for the **conquest and partition of a significant part of the planet** by European powers.
@@ -235,8 +230,6 @@ It brought an end to the ‘first globalisation’
 - Among the possible causes of the conflict, historian Fritz Fischer includes Germany's desire to conquer more space in Eastern Europe:
 
 - The Balkans became an area of increasing conflict where the desire for hegemony among European powers clashed with the rising nationalisms of new nation-states (Serbia, Romania, Bulgaria).
-
-## WWI: THE ORIGINS OF THE CONFLICT
 
 ## Among the macro categories of factors we can list:
 
@@ -308,8 +301,6 @@ A.Y. 2025/2026 30067 18
 
 - the government of finance
 
-## WWI: STATE INTERVENTION
-
 - In order to cope with the huge war requirements, governments set up **departments and offices** responsible above all for industrial mobilisation and the expansion of war production.
 
 - In the German case, for instance, the Hindenburg Plan created the _Kriegsamt_ (Supreme War Office) with the following objectives:
@@ -319,8 +310,6 @@ A.Y. 2025/2026 30067 18
 - total mobilisation of workers (even prisoners of war)
 
 - complete eradication of industrial inefficiencies
-
-## WWI: STATE INTERVENTION
 
 - The **government’s role in the economy** grew considerably:
 
@@ -333,8 +322,6 @@ A.Y. 2025/2026 30067 18
 - This showed – both in Europe (everywhere, even in liberal England) and in America - that the state could assume extensive responsibilities in the **co-ordination of economic activities** .
 
 - At the end of the war many controls were removed, but the liberal principle of the _laissez-faire_ had been profoundly shaken.
-
-## WWI: STATE INTERVENTION
 
 The state financed public spending through
 
@@ -351,10 +338,6 @@ The total **public debt** of the countries involved in the conflict rose from 26
 country and so did the levels of **inflation** , determined by the increase in circulating money:
 
 - this represented a heavy legacy to manage at the end of the conflict.
-
-A.Y. 2025/2026 30067
-
-A.Y. 2025/2026 30067
 
 A.Y. 2025/2026 30067 26
 
@@ -376,8 +359,6 @@ A.Y. 2025/2026 30067 26
 
 - Loss of lives
 
-## WWI: ECONOMIC CONSEQUENCES
-
 In terms of material destruction, the situation at the end of the conflict was dramatic:
 
 - the total cost of the war, between estimated losses and actual expenditure amounted to some 400 billion dollars (1914 purchasing power).
@@ -385,8 +366,6 @@ In terms of material destruction, the situation at the end of the conflict was d
 - Buildings, plants, industrial machinery, mines, agricultural machinery, livestock, transport and communication infrastructure were destroyed.
 
 In the long run, even more harmful to the economy was the disruption and disorganisation of normal economic relations between states: the negative effects did not cease at the end of the conflict but continued into the 1920s and 1930s.
-
-## WWI: ECONOMIC CONSEQUENCES
 
 - During the war, the governments of the belligerent states (and even the neutral ones) imposed .
 
@@ -399,10 +378,6 @@ In the long run, even more harmful to the economy was the disruption and disorga
 - Disruption of **foreign trade** and various forms of economic warfare
 
 - Germany and Britain, involving submarine warfare. In 1917, this led the United States to intervene in the conflict
-
-## WWI: ECONOMIC CONSEQUENCES
-
-
 
 - Another problem was the **loss of foreign markets**
 
@@ -465,8 +440,6 @@ _Source: Federico, Giovanni;
 
 - But mass mobilization increased state capacity
 
-A.Y. 2025/2026 30067
-
 ## WWI: INDUSTRIAL RECONVERSION
 
 - After the war, there was the urgent need to **reconvert industrial production towards civil production** . There was a widespread fear that leaving the growing demand for civil goods unsatisfied would cause inflation.
@@ -476,8 +449,6 @@ A.Y. 2025/2026 30067
 - the return of the soldiers from the front push up **unemployment rates**
 
 - waves of **strikes** occurred everywhere in Europe and in the United States due to discontent over **difficult living conditions**
-
-A.Y. 2025/2026 30067
 
 ## WWI: THE CONSEQUENCES OF PEACE
 
