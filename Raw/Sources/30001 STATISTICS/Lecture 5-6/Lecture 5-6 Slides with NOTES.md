@@ -167,7 +167,7 @@ The **mean (arithmetic)** is by far the most known and the most widely used cent
 
 ## About notation:
 
-- ഥ𝒙 denotes the **arithmetic mean computed for a** _**sample (statistic)**_ while the **arithmetic .**
+- \bar{x}_{d}enotes the **arithmetic mean computed for a** _**sample (statistic)**_ while the **arithmetic .**
 
 - **mean computed for an** _**entire population (parameter)**_ is denoted by - **18**
 
@@ -207,7 +207,7 @@ _The sum of the_ _**observed data** is the_ _**sum of** the_ _**products** betwe
 
 For discrete variables, the mean can be **precisely** calculated based on grouped data (frequency table) based on the observed distinct values and their relative or absolute frequencies.
 
-𝒏 𝑲 𝑲 𝑲 ∗ 𝒙 𝒙 𝒊 𝒌𝒇𝒌 ∗ 𝒇𝒌 ∗[෍) = 𝒙(෍) 𝒙 Formula for a sample 𝒌 𝒌𝒑𝒌 ഥ𝒙= ෍ 𝒏(=) 𝒏 ෍ 𝒏(=) 𝒊=𝟏 𝒌=𝟏 𝒌=𝟏 𝒌=𝟏 However, when a variable is measured in classes and only the frequency table of the classified variable is available the mean cannot be calculated precisely, because the original **raw numeric data are not available** . In this situation, the mean can only **be approximated,** under the **assumption** that the frequency associated with each interval is **uniformly distributed** over the interval.
+n K K K ∗ x x i kfk ∗ fk ∗[\sum) = x(\sum) x Formula for a sample k kpk \bar{x}= \sum n(=) n \sum n(=) i=1 k=1 k=1 k=1 However, when a variable is measured in classes and only the frequency table of the classified variable is available the mean cannot be calculated precisely, because the original **raw numeric data are not available** . In this situation, the mean can only **be approximated,** under the **assumption** that the frequency associated with each interval is **uniformly distributed** over the interval.
 
 ## Mean: Variables measured in interval classes
 

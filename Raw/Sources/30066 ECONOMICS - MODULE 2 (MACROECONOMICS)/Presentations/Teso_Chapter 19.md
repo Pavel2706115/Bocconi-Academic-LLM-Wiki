@@ -106,7 +106,7 @@ Exports are the distance AC Imports are the distance AB Net exports are the dist
 
 ## EQUILIBRIUM:   Y  =  Z
 
-𝒀= 𝑪 𝒀−𝑻+ 𝑰 𝒀, 𝒓+ 𝑮−𝑰𝑴 𝒀, 𝛜 Τ𝛜+ 𝑿 𝒀(∗) , 𝛜
+Y= C Y−T+ I Y, r+ G−IM Y, ε Τε+ X Y(∗) , ε
 
 ## Increase in domestic demand in an open economy
 

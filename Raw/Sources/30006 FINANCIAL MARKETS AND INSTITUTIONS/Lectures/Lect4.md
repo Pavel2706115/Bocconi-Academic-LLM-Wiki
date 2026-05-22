@@ -60,41 +60,41 @@ Holding everything else constant …. an **increase** in **wealth**
 
 ✓ The **expected return** is the average return across all _states of nature_
 
-𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1
+N E × R pi i R= \sum i=1
 
 where:
 
-𝑅 is the return in state 𝑖 𝑖
+R is the return in state i i
 
-𝑖 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
+i pi is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
 
 For example, consider a coin toss: you win $1 if heads and $0 if tails.
 
-- **Q**: What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case?
+- **Q**: What are pi, Ri and E R in this case?
 
 ## Expected Return
 
 ✓ The **expected return** is the average return across all _states of nature_
 
-𝑁 𝐸 × 𝑅 𝑝𝑖 𝑖 𝑅= ෍ 𝑖=1
+N E × R pi i R= \sum i=1
 
 where:
 
-𝑅 is the return in state 𝑖 𝑖
+R is the return in state i i
 
-- 𝑖
+- i
 
-- 𝑝𝑖 is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
+- pi is the probability of state occurring (technically, this is the formula for the expected value of a _discrete_ random variable)
 
 For example, consider a coin toss: you win $1 if heads and $0 if tails.
 
-- **Q**: What are 𝑝𝑖, 𝑅𝑖 and 𝐸 𝑅 in this case?
+- **Q**: What are pi, Ri and E R in this case?
 
 ## Expected Return
 
 ✓ Nice thing about expected returns is that they are **additive**
 
-✓ The expected return of a _portfolio of 2 fin. assets_ ( _A_ and _B)_ is the sum of the expected returns of the two _fin. assets_: 𝐸 𝑅 = 𝐸 𝑅 + 𝑅 = 𝐸 𝑅 𝐴 𝐵 𝐴) + 𝐸(𝑅𝐵 𝑝𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜
+✓ The expected return of a _portfolio of 2 fin. assets_ ( _A_ and _B)_ is the sum of the expected returns of the two _fin. assets_: E R = E R + R = E R A B A) + E(RB portfolio
 
 ## Expected Return
 
@@ -112,28 +112,28 @@ For example, consider a coin toss: you win $1 if heads and $0 if tails.
 
 - ✓ We measure **risk** as the standard deviation of an asset return (across all states of the world)
 
-✓ Consider stock A and its forecasted returns for the upcoming year: 3% 𝑝= 1/4 𝑅𝑖 7% 𝑝= 1/2 = ቐ15% 𝑝= 1/4 **Q**: what is the risk of stock A? **A**: 1(st): need to calculate the expected return: 𝐸 𝑅= 0.25 ∙0.03 + 0.5 ∙0.07 + 0.25 ∙0.14 = $0.08 (read 𝟖%) **…**
+✓ Consider stock A and its forecasted returns for the upcoming year: 3% p= 1/4 Ri 7% p= 1/2 = \{15% p= 1/4 **Q**: what is the risk of stock A? **A**: 1(st): need to calculate the expected return: E R= 0.25 ∙0.03 + 0.5 ∙0.07 + 0.25 ∙0.14 = $0.08 (read 8%) **…**
 *(See also: [[L16 & L17 Expectations Financial Markets Bonds#^3rew15]])*
 
 ## Risk: Answer
 
-… 2(nd): take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))(2) ෍ 𝑖=1
+… 2(nd): take square of deviations from the mean weighting by their probability: N pi × (Ri−E(R))(2) \sum i=1
 
-= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) 𝜎= 0.19% = 4.36%: take the square root:
+= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) σ= 0.19% = 4.36%: take the square root:
 
 Now consider stock B:
 
-𝑅𝑖 = ሼ𝟖% 𝑝= 1
+Ri = \{8% p= 1
 
 **Q**: What is the risk of stock B?
 
 ## Risk: Answer
 
-… 2(nd): take square of deviations from the mean weighting by their probability: 𝑁 𝑝𝑖 × (𝑅𝑖−𝐸(𝑅))(2) ෍ 𝑖=1
+… 2(nd): take square of deviations from the mean weighting by their probability: N pi × (Ri−E(R))(2) \sum i=1
 
-= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) 𝜎= 0.19% = 4.36%: take the square root:
+= 0.25 ∙ 0.03 −0.08(2) + 0.5 ∙ 0.07(2) + 0.25 ∙ 0.14 −−0.08(2) = 0.19% 3(rd) σ= 0.19% = 4.36%: take the square root:
 
-Now consider stock B: 𝑅𝑖 = ሼ𝟖% 𝑝= 1
+Now consider stock B: Ri = \{8% p= 1
 
 **Q**: What is the risk of stock B? **A**: 0 because the probability is 1 (no uncertainty!)
 
@@ -207,25 +207,25 @@ Holding everything else constant, an **increase** in **liquidity increases** the
 
 Formula for interest rate for one-year discount bond:
 
-𝐹𝑉−𝑃 = 𝑖(𝑒) = 𝑅(𝑒) 𝑃
+FV−P = i(e) = R(e) P
 
 ✓ Point A: if the bond was selling for $950 and face value = $1,000:
 
 Assume
 
-at point A ( _i.e._ for 𝑃= $950 )
+at point A ( _i.e._ for P= $950 )
 
 ## Derivation of Demand Curve
 
 Formula for interest rate for one-year discount bond:
 
-𝐹𝑉−𝑃 = 𝑖(𝑒) = 𝑅(𝑒) 𝑃
+FV−P = i(e) = R(e) P
 
 ✓ Point A: if the bond was selling for $950 and face value = $1,000:
 
 Assume
 
-at point A ( _i.e._ for 𝑃= $950 )
+at point A ( _i.e._ for P= $950 )
 
 ## Derivation of Demand Curve (cont.)
 
@@ -239,15 +239,15 @@ Point B: if the bond was selling for $900:
 
 **Q**: Is the demand at point B likely to be higher or lower than at point A?
 
-**A**: higher, because the expected return has gone up . (lower P means higher R) and nothing else has changed Suppose 𝐵(𝑑) at point B is $200 (making up these numbers)
+**A**: higher, because the expected return has gone up . (lower P means higher R) and nothing else has changed Suppose B(d) at point B is $200 (making up these numbers)
 
 ## Derivation of Demand Curve
 
 ## To continue …
 
-Point C: 𝑃 =  $850  𝑖= 17.6% 𝐵(𝑑) = 300 Point D: 𝑃 =  $800  𝑖= 25.0% 𝐵(𝑑) = 400 Point E: 𝑃 =  $750  𝑖= 33.0% 𝐵(𝑑) = 500
+Point C: P =  $850  i= 17.6% B(d) = 300 Point D: P =  $800  i= 25.0% B(d) = 400 Point E: P =  $750  i= 33.0% B(d) = 500
 
-✓ As 𝑷↓⇒𝑅(𝑒) ↑⇒𝑩(𝒅) ↑ …
+✓ As P↓⇒R(e) ↑⇒B(d) ↑ …
 
 **Demand** curve has usual **downward** slope with respect to **price**
 
@@ -293,13 +293,13 @@ Quantity, B
 
 The equilibrium occurs when supply-demand are equalized:
 
-✓ 𝐵(𝑑) =  𝐵(𝑠) , 𝑎𝑡 𝑃(∗) = 850, 𝑖(∗) = 17.6%
+✓ B(d) =  B(s) , at P(∗) = 850, i(∗) = 17.6%
 
-- ✓ when 𝑃= $950, 𝑖= 5.3%, 𝐵(𝑠) >  𝐵𝑑 𝑃 - 𝑡𝑜𝑃(∗) - 𝑡𝑜𝑖(∗)
+- ✓ when P= $950, i= 5.3%, B(s) >  Bd P - toP(∗) - toi(∗)
 
-- (excess **supply** ): (𝑜𝑟𝑖 )
+- (excess **supply** ): (ori )
 
-- ✓ when 𝑃= $750, 𝑖= 33.0, 𝐵𝑑> 𝐵(𝑠) (excess **demand** ): 𝑃 - 𝑡𝑜𝑃(∗) (𝑜𝑟𝑖 - 𝑡𝑜𝑖(∗) )
+- ✓ when P= $750, i= 33.0, Bd> B(s) (excess **demand** ): P - toP(∗) (ori - toi(∗) )
 
 ## Changes in Equilibrium Interest Rates
 
@@ -309,7 +309,7 @@ Remember:
 
 - a. movements _along_ the curves will be due to price changes alone
 
-- b. If **nothing else, that is not on the axes** ( 𝑄, 𝑃 ), changes, it’s a **shift** of either or both curves
+- b. If **nothing else, that is not on the axes** ( Q, P ), changes, it’s a **shift** of either or both curves
 
 ## Shift in Demand
 
@@ -317,11 +317,11 @@ Remember:
 
 1. Wealth
 
-2. Expected future interest rate: 𝐸(𝑖𝑡+1)
+2. Expected future interest rate: E(it+1)
 
-3. Riskiness: 𝜎
+3. Riskiness: σ
 
-4. Expected future inflation: 𝜋(𝑒)
+4. Expected future inflation: π(e)
 
 5. Liquidity
 
@@ -341,25 +341,25 @@ macro shocks, such as a _prolonged_
 
 ## Shift in Demand (2)
 
-## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand ? If expected interest rate ( 𝑡+1 ) (relative)
+## ↑ in t+ 1 E i ⇒ demand ? If expected interest rate ( t+1 ) (relative)
 
-Hint: if _E(it+1)_ rises what happens to **price** of **long-term** bonds 𝐸 𝑃 ? 𝑡+1 Hence what happens to the **rate of return** 𝐸 𝑅 ? 𝑡+1
+Hint: if _E(it+1)_ rises what happens to **price** of **long-term** bonds E P ? t+1 Hence what happens to the **rate of return** E R ? t+1
 
-𝑑 𝐵 1
+d B 1
 
 (demand for long B term bonds)
 
-**Q**: What happens to 1-year discount bond with maturity of 1 year if 𝐸(𝑖) ↑ ?
+**Q**: What happens to 1-year discount bond with maturity of 1 year if E(i) ↑ ?
 
 ## Shift in Demand (2)
 
-## ↑ in 𝑡+ 1 𝐸 𝑖 ⇒ demand - If expected interest rate ( 𝑡+1 ) (relative) Hint: if _E(it+1)_
+## ↑ in t+ 1 E i ⇒ demand - If expected interest rate ( t+1 ) (relative) Hint: if _E(it+1)_
 
-Hint: if _E(it+1)_ rises, **price** of **long** -term bonds 𝐸 𝑃 ↓ 𝑡+1 Hence, the expected **rate of return** 𝐸 𝑅 ↓: demand 𝑡+1 decreases
+Hint: if _E(it+1)_ rises, **price** of **long** -term bonds E P ↓ t+1 Hence, the expected **rate of return** E R ↓: demand t+1 decreases
 
 (demand for long B term bonds)
 
-# **ECB announced increase of interest rates of 75 bps:** 𝐸(𝑖𝑡+1) ↑
+# **ECB announced increase of interest rates of 75 bps:** E(it+1) ↑
 
 ## Shift in Demand (3)
 
@@ -369,15 +369,15 @@ If riskiness of bonds (relative to other assets) ↑⇒ demand ? (relative)
 
 ## Shift in Demand (4)
 
-## If 𝜋(𝑒) ↑⇒ demand ? (absolute)
+## If π(e) ↑⇒ demand ? (absolute)
 
-Hint: recall that bonds pay a nominal interest rate. What happens to the real return? 𝑑 𝐵 1
+Hint: recall that bonds pay a nominal interest rate. What happens to the real return? d B 1
 
 B
 
 ## Shift in Demand (4)
 
-## If 𝜋(𝑒) ↑⇒ demand ↓ (absolute)
+## If π(e) ↑⇒ demand ↓ (absolute)
 
 B
 
@@ -399,7 +399,7 @@ Now let’s considers factors that shift the curve supply
 
 1. Expected **profitability** of investments (say productivity)
 
-2. Expected future **inflation**: 𝜋(𝑒)
+2. Expected future **inflation**: π(e)
 
 **3. Government deficit**
 
@@ -421,13 +421,13 @@ Now let’s considers factors that shift the curve supply
 
 ## Shift in Supply (2)
 
-## If 𝜋(𝑒) ↑⇒ supply ? (absolute)
+## If π(e) ↑⇒ supply ? (absolute)
 
 B
 
 ## Shift in Supply (2)
 
-If 𝜋(𝑒) ↑⇒ supply ↑ (absolute)
+If π(e) ↑⇒ supply ↑ (absolute)
 
 Real cost of borrowing↓, it is less costly to borrow by issuing bonds ⇒ supply **increases**
 
@@ -473,7 +473,7 @@ B
 
 - ⇒ demand ↓ (shift left)
 
-- ✓ if **expected inflation** ↑ ( 𝜋(𝑒) ↑ ; absolute*) ⇒ demand ↓ (shift left)
+- ✓ if **expected inflation** ↑ ( π(e) ↑ ; absolute*) ⇒ demand ↓ (shift left)
 
 - ✓ if liquidity of bonds (abs./rel.*) ↑
 
@@ -481,7 +481,7 @@ B
 
 ## SUPPLY
 
-- ✓ if **expected profit. of invest.** (abs./rel.*) ↑⇒ supply ↑ (shift right) ✓ if **expected inflation** ↑ ( 𝜋(𝑒) ↑ ; absolute*) ⇒ supply ↑ (shift right) ✓ if government deficit ↑ (relative*) ↑ ⇒ supply ↑ (shift right)
+- ✓ if **expected profit. of invest.** (abs./rel.*) ↑⇒ supply ↑ (shift right) ✓ if **expected inflation** ↑ ( π(e) ↑ ; absolute*) ⇒ supply ↑ (shift right) ✓ if government deficit ↑ (relative*) ↑ ⇒ supply ↑ (shift right)
 
 (*): it is absolute if, 4 ex., a reform reduces trading commission costs to all securities; it is relative if it does so only to one category of bonds
 
@@ -557,11 +557,11 @@ Interest rates are **positively** correlated with business cycle expansions (bon
 
 ✓ In the wake of the global financial crisis, **interest rates** in Europe and the United States, as well as in Japan, have fallen to **extremely low levels** . How can we explain that within the framework discussed so far? `o` it’s a little tricky, but we can do it!
 
-✓ Inflation fell to negative rates, leading to lower real rates: `o` 𝐵(𝑑) ↑ (shifts out to right … less costly to borrow) `o` 𝐵(𝑠) ↓ (shifts out to left   … less convenient to lend) `o` Net effect was an **increase** in _bond prices_ (falling interest rates)
+✓ Inflation fell to negative rates, leading to lower real rates: `o` B(d) ↑ (shifts out to right … less costly to borrow) `o` B(s) ↓ (shifts out to left   … less convenient to lend) `o` Net effect was an **increase** in _bond prices_ (falling interest rates)
 
 - ✓ Business cycle contraction led to:
 
-`o` 𝐵(𝑑) ↓ (shifts out to left … less need to borrow) `o` 𝐵(𝑠) ↓ (shifts out to left … less opportunities to lend) `o` Net effect was **not clear** on _bond prices_
+`o` B(d) ↓ (shifts out to left … less need to borrow) `o` B(s) ↓ (shifts out to left … less opportunities to lend) `o` Net effect was **not clear** on _bond prices_
 
 ## ✓ Overall:
 

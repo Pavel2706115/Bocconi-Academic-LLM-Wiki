@@ -200,15 +200,15 @@ Assumptions:
 
 - Bought by investors in the primary market of bonds at
 
-€𝑃𝑃1𝑡𝑡 ≡ price of bond with maturity 1 year Determined by D and S of bonds: If investors strongly demand U.S. Treasury bonds, their €𝑃𝑃2𝑡𝑡 ≡ price of bond with maturity 2 years price increases (and the government can issue them at **lower interest rates** because investors are willing to accept less return for the security they provide)
+€PP1tt ≡ price of bond with maturity 1 year Determined by D and S of bonds: If investors strongly demand U.S. Treasury bonds, their €PP2tt ≡ price of bond with maturity 2 years price increases (and the government can issue them at **lower interest rates** because investors are willing to accept less return for the security they provide)
 
 Today's bond prices reflect the willingness of investors to pay: how much the bond is worth to them => present discounted value of the money they will receive in the future
 
 - 1) One-year bond: Pays 100€ in 1 year from now => Today, I am willing to pay for it based on how much €100 next year is worth today
 
-100 €𝑃𝑃1𝑡𝑡 = € present discounted value of the 1 + 𝑖𝑖1,𝑡𝑡 payment at maturity: today value of 100€ in one year CURRENT ONE YEAR INTEREST RATE = CURRENT SHORT TERM INTERST RATE
+100 €PP1tt = € present discounted value of the 1 + ii1,tt payment at maturity: today value of 100€ in one year CURRENT ONE YEAR INTEREST RATE = CURRENT SHORT TERM INTERST RATE
 
-- €𝑃𝑃1𝑡𝑡 = 𝑓𝑓(𝑖𝑖1,𝑡𝑡) Negative relationship btw prices and short term interest rate: If €𝑃𝑃1𝑡𝑡 ↑ => 𝑖𝑖1,𝑡𝑡 ↓
+- €PP1tt = ff(ii1,tt) Negative relationship btw prices and short term interest rate: If €PP1tt ↑ => ii1,tt ↓
 
 - 2) Two-year bond: Pays 100€ in 2 years from now
 
@@ -222,11 +222,11 @@ Assumption confirmed by the empirical observation: both types of bonds are trade
 
 ## HP: you have 1€ to invest
 
-1 year from now: 𝑡𝑡+ 1 Return for each € invested at t
+1 year from now: tt+ 1 Return for each € invested at t
 
-Today: 𝑡𝑡 1 year from now: 𝑡𝑡+ 1 Investment choice Return for each € invested at t n. bought bonds Bond 1: 1 100€ Certain return from the 1-year bond €𝑃𝑃1𝑡𝑡 €𝑃𝑃1𝑡𝑡(= 1 + 𝑖𝑖)(1,𝑡𝑡)(€) short term investment Bond 2: 1 1 𝑒𝑒 Expected return from the € €𝑃𝑃2𝑡𝑡(€𝑃𝑃)(1𝑡𝑡+1) long term investment 2-year bond €𝑃𝑃2𝑡𝑡
+Today: tt 1 year from now: tt+ 1 Investment choice Return for each € invested at t n. bought bonds Bond 1: 1 100€ Certain return from the 1-year bond €PP1tt €PP1tt(= 1 + ii)(1,tt)(€) short term investment Bond 2: 1 1 ee Expected return from the € €PP2tt(€PP)(1tt+1) long term investment 2-year bond €PP2tt
 
-Next year the bond will have one more year before maturity => it will be a one-year bond and you can sell it at  a 𝑒𝑒 price €𝑃𝑃1𝑡𝑡+1 = Expected price of a oneyear bond in 𝑡𝑡+ 1
+Next year the bond will have one more year before maturity => it will be a one-year bond and you can sell it at  a ee price €PP1tt+1 = Expected price of a oneyear bond in tt+ 1
 
 To have equilibrium in the bonds market with bonds with different maturity traded at any given time the expected one-year return of alternative bonds must be the same ^3rew15
 
@@ -234,23 +234,23 @@ By rearranging we obtain today price of a two – year bond
 
 present discounted value of the payment at maturity: today value of 100€ in two years
 
-=> the face value must be discounted using the current short-term interest rate ( i1,t ) and the 𝑒𝑒 expected future short-term interest rate ( 𝑖𝑖1,𝑡𝑡+1 )
+=> the face value must be discounted using the current short-term interest rate ( i1,t ) and the ee expected future short-term interest rate ( ii1,tt+1 )
 
 What happens if the arbitrage condition does not hold?
 
-𝑒𝑒 €𝑃𝑃1𝑡+1 If 1 + 𝑖𝑖1𝑡𝑡 < ⇒ more convenient for investors to buy 2 – year bonds ⇒€𝑃𝑃2𝑡𝑡 ↑ €𝑃𝑃2𝑡𝑡 ⇒ Expected return on 2−year bond ↓
+ee €PP1t+1 If 1 + ii1tt < ⇒ more convenient for investors to buy 2 – year bonds ⇒€PP2tt ↑ €PP2tt ⇒ Expected return on 2−year bond ↓
 
-𝑒𝑒 €𝑃𝑃1𝑡+1 If 1 + 𝑖𝑖1𝑡𝑡 > ⇒ more convenient for investors to buy 1– year bonds ⇒€𝑃𝑃2𝑡𝑡 ↓ €𝑃𝑃2𝑡𝑡 ⇒ Expected return on 2−year bond ↑
+ee €PP1t+1 If 1 + ii1tt > ⇒ more convenient for investors to buy 1– year bonds ⇒€PP2tt ↓ €PP2tt ⇒ Expected return on 2−year bond ↑
 
 - In general, the price of a bond today is the present value of the payment promised at maturity.
 
 => There is a negative relationship between bond prices and short-term interest rates (both current and expected).
 
-- 1-year bond: €𝑃𝑃1𝑡𝑡 = 𝑓𝑓(𝑖𝑖1,𝑡𝑡)
+- 1-year bond: €PP1tt = ff(ii1,tt)
 
-- 𝑒𝑒 2-year bond: €𝑃𝑃2𝑡𝑡 = 𝑓𝑓 𝑖𝑖1,𝑡𝑡 , 𝑖𝑖1,𝑡𝑡+1 ...
+- ee 2-year bond: €PP2tt = ff ii1,tt , ii1,tt+1 ...
 
-- 𝑒𝑒 𝑒𝑒 𝑒𝑒 _m-year bonds:_ €𝑃𝑃𝑚𝑚𝑡𝑡 = 𝑓𝑓 𝑖𝑖1,𝑡𝑡 , 𝑖𝑖1,𝑡𝑡+1 , 𝑖𝑖1,𝑡𝑡+2 , 𝑖𝑖1,𝑡𝑡+3 , … . current short-term All the expected future short-term interest interest rate rates from issuance to repayment
+- ee ee ee _m-year bonds:_ €PPmmtt = ff ii1,tt , ii1,tt+1 , ii1,tt+2 , ii1,tt+3 , … . current short-term All the expected future short-term interest interest rate rates from issuance to repayment
 
 ## True or false?
 
@@ -262,21 +262,21 @@ What is the price of a 2- year bond if for example:
 
 - e it = it+1 = 5% => no changes in MP at t+1
 
-100 = €𝑃𝑃2𝑡𝑡 1+0.05(2)(= 90.7)
+100 = €PP2tt 1+0.05(2)(= 90.7)
 
-- e it = 5%, it+1 = 8% => expected contractionary MP at t+1 100 = €𝑃𝑃2𝑡𝑡 1+0.05 1+0.08(= 88.18)
+- e it = 5%, it+1 = 8% => expected contractionary MP at t+1 100 = €PP2tt 1+0.05 1+0.08(= 88.18)
 
 ## FROM BOND PRICES TO BOND YIELDS
 
 Based on its maturity, a bond will have a price associated with a corresponding interest rate (yield to maturity)
 
-**Yield (to maturity) of an** 𝒎𝒎 **-year bond (** 𝒎𝒎 **-year interest rate)** Interest rate associated with a bond with maturity 𝑚𝑚 years (average annual interest rate paid by the bond) =
+**Yield (to maturity) of an** mm **-year bond (** mm **-year interest rate)** Interest rate associated with a bond with maturity mm years (average annual interest rate paid by the bond) =
 
 Constant annual interest rate that makes the price of the bond today equal to the expected present value of future payments promised
 
 For a zero coupon bond the only payment is the final reimbursement
 
-€100: = 𝑖𝑖𝑚𝑚𝑡𝑡 €𝑃𝑃𝑚𝑚𝑡𝑡 1+𝑖𝑖𝑚𝑚𝑡𝑡(𝑚𝑚)
+€100: = iimmtt €PPmmtt 1+iimmtt(mm)
 
 ## Yield to maturity for a
 
@@ -288,13 +288,13 @@ _…._
 
 If an investor pays €88.18 today for a 2-year bond and holds the asset in their portfolio until maturity, what is the approximate annual return? a) 5% **b) 6.5%** c) 7.2% d) 4.8%
 
-Having a 2-year bond the yield (to maturity) _or_ 2-year interest rate 𝑖𝑖2𝑡𝑡 is the constant interest rate that satisfy the following equation
+Having a 2-year bond the yield (to maturity) _or_ 2-year interest rate ii2tt is the constant interest rate that satisfy the following equation
 
-€100 = €𝑃𝑃2𝑡𝑡 1 + 𝑖𝑖2𝑡𝑡(2)
+€100 = €PP2tt 1 + ii2tt(2)
 
-_If_ €𝑃𝑃2𝑡𝑡 = 88.18€
+_If_ €PP2tt = 88.18€
 
-100 ⇒ = 1 + 𝑖𝑖2𝑡𝑡(2) 88.18 ⇒ 1 + 𝑖𝑖2𝑡𝑡 = 1.134 ⇒𝑖𝑖2𝑡𝑡 ≈6.5%
+100 ⇒ = 1 + ii2tt(2) 88.18 ⇒ 1 + ii2tt = 1.134 ⇒ii2tt ≈6.5%
 
 By holding the asset in the portfolio for two years, we obtain an average yearly return of 6.5%.
 
@@ -306,17 +306,17 @@ By holding the asset in the portfolio for two years, we obtain an average yearly
 
 Exact relationship between long-term and short-term (current and expected) interest rates: if short-term interest rates ↑, long-term interest rates ↑ too
 
-Ex: 𝑖𝑖𝑡𝑡 = 5% 𝑖𝑖𝑡𝑡+1𝑒𝑒 = 8% ⇒ 1 + 𝑖𝑖2𝑡𝑡(2) = 1 + 0.05 (1 + 0.08) 1 + 𝑖𝑖2𝑡𝑡 = 1.065 ⇒𝑖𝑖2𝑡𝑡 = 0.065 = 6.5%
+Ex: iitt = 5% iitt+1ee = 8% ⇒ 1 + ii2tt(2) = 1 + 0.05 (1 + 0.08) 1 + ii2tt = 1.065 ⇒ii2tt = 0.065 = 6.5%
 
 The previous relationship can be approximated using a logarithmic transformation by applying logs to both sides
 
-𝑒𝑒 𝑙 1 + 𝑖𝑖2𝑡𝑡(2) = 𝑙 1 + 𝑖𝑖1𝑡𝑡 1 + 𝑖𝑖1𝑡𝑡+1 𝑒𝑒 2 𝑙 1 + 𝑖𝑖2𝑡𝑡 = 𝑙 1 + 𝑖𝑖1𝑡𝑡 + 𝑙 1 + 𝑖𝑖1𝑡𝑡+1
+ee l 1 + ii2tt(2) = l 1 + ii1tt 1 + ii1tt+1 ee 2 l 1 + ii2tt = l 1 + ii1tt + l 1 + ii1tt+1
 
 Approximating:
 
-𝑒𝑒 2𝑖𝑖2𝑡𝑡 ≈𝑖𝑖1𝑡𝑡 + 𝑖𝑖1𝑡𝑡+1
+ee 2ii2tt ≈ii1tt + ii1tt+1
 
-1 ≈ 𝑒𝑒 𝑖𝑖2𝑡𝑡 ) 2((𝑖𝑖)(1𝑡𝑡)(+ 𝑖𝑖)(1𝑡𝑡+1)
+1 ≈ ee ii2tt ) 2((ii)(1tt)(+ ii)(1tt+1)
 
 Approximated relationship between long-term and short-term interest rates:
 
@@ -358,11 +358,11 @@ HP:
 
 - 3 risk free assets: 1 year, 2 year, 3 year bond
 
-=> three yield to maturity: 𝑖𝑖1𝑡𝑡 , 𝑖𝑖2𝑡𝑡, 𝑖𝑖3𝑡𝑡
+=> three yield to maturity: ii1tt , ii2tt, ii3tt
 
 => Yield curve with three points
 
-- CB chooses the policy rate ̅𝚤𝚤 =1%
+- CB chooses the policy rate ̅ıı =1%
 
 How is the yield curve influenced by expectations?
 
@@ -430,17 +430,17 @@ In the reality securities are not risk free
 
 We reintroduce risk assuming we have **1-year bond: no risk**
 
-We know with certainty the amount received 1 year from now (face value) => certain return ( 1 + 𝑖𝑖1𝑡𝑡 )
+We know with certainty the amount received 1 year from now (face value) => certain return ( 1 + ii1tt )
 
 ## 2-year bond: risky
 
-We don’t know for sure the amount we can get 1 year from now Uncertainty over the price of the bond 1-year from now **Risk premium:** 𝒙𝒙
+We don’t know for sure the amount we can get 1 year from now Uncertainty over the price of the bond 1-year from now **Risk premium:** xx
 
 1€ to invest
 
 ## Short term investment
 
-return on a 1-year bond 1 + 𝑖𝑖1𝑡𝑡
+return on a 1-year bond 1 + ii1tt
 
 ## Long term investment
 
@@ -464,7 +464,7 @@ What is the shape of the yield curve if agents do not expect any change in MP?
 
 When does the yield curve become steeper?
 
-𝑌𝑌𝑖𝑖𝑌𝑌𝑙𝑙𝑌𝑌, 𝑖𝑖
+YYiiYYllYY, ii
 
 - Agents become more risk-averse: they demand a higher yield to invest over longer periods
 
@@ -484,7 +484,7 @@ Maturity, m
 
 ## ….WAITING FOR RECESSION
 
-term spread = 𝑖𝑖10𝑡𝑡 −𝑖𝑖1𝑡𝑡
+term spread = ii10tt −ii1tt
 
 The term spread (the difference between longterm and short-term interest rates) is an accurate predictor of future economic activity
 

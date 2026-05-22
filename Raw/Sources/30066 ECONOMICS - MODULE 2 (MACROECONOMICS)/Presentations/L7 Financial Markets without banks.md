@@ -133,7 +133,7 @@ Money is a good that is traded on a market (money market) based on demand (publi
 
 MONEY (M) Perfectly liquid for transactions No interest
 
-BOND (B): 1 year risk free Pay an interest, 𝑖𝑖 Not liquid
+BOND (B): 1 year risk free Pay an interest, ii Not liquid
 
 Investment problem: Choosing the optimal allocation btw M and B implies a trade - off
 
@@ -157,7 +157,7 @@ _What is the rate of return paid by the bond?_
 
 ∆% _Asset value =_
 
-> €100−€Pt ≡𝑖𝑖 Nominal interest
+> €100−€Pt ≡ii Nominal interest
 
 > €Pt rate
 
@@ -165,7 +165,7 @@ _What is the rate of return paid by the bond?_
 
 ## Rearranging we obtain
 
-€100 𝑖𝑖= −1 €𝑃𝑃𝑡𝑡 If €𝑃𝑃𝑡𝑡 ↑⇒𝑖𝑖↓ If €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑
+€100 ii= −1 €PPtt If €PPtt ↑⇒ii↓ If €PPtt ↓⇒ii↑
 
 If €Pt = 95€       i =(100 -95) / 95 = 0.052 If €Pt = 90€       i =(100 -90) / 90 = 0.011
 
@@ -173,7 +173,7 @@ Given the promise to pay in 1 year, if we pay less today, we obtain more
 
 The price of the bond will be:
 
-€100 = €𝑃𝑃𝑡𝑡 1 + 𝑖𝑖 **Investors’ Present Discounted Value (PDV) wiliness to pay of the future payment**
+€100 = €PPtt 1 + ii **Investors’ Present Discounted Value (PDV) wiliness to pay of the future payment**
 
 how much we worth the future payments
 
@@ -195,7 +195,7 @@ If €Y ↑⇒↑ N/value of transactions ⇒ more money is needed ⇒M(d) ↑
 
 ## i= cost of holding money or the «price» of M
 
-𝒊𝒊↑⇒ bonds  relatively more convenient than M => _M(d)_ ↓
+ii↑⇒ bonds  relatively more convenient than M => _M(d)_ ↓
 
 The money demand is a  function of:
 
@@ -207,53 +207,53 @@ M(d) = €Y  L( i ) = P  Y  L( i ) NOMINAL M Liquidity demand demand function fu
 
 Nominal interest rate (price of M)
 
-𝑖𝑖
+ii
 
-In the (M, i) plane, the M function is M(d) (Y, P) plotted for given values of 𝑃𝑃 and 𝑌𝑌 𝑀𝑀
+In the (M, i) plane, the M function is M(d) (Y, P) plotted for given values of PP and YY MM
 
 Nominal money stock (quantity)
 
 ## SLOPE DETERMINATS
 
-𝑀𝑀(𝐷𝐷) = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖) − +
+MM(DD) = PP× LL( YY, ii) − +
 
-𝑖𝑖
+ii
 
 Negative slope since there is a trade off btw M and B
 
 If i ↑ , bonds are relatively more convenient than M B(d) ↑ and Md ↓
 
-𝑖𝑖1
+ii1
 
-𝑖𝑖0
+ii0
 
 ---> movement ALONG the curve from 0 to 1
 
 i is an endogenous variable for the money demand function. Changes in i do not shift the curve
 
-𝑀𝑀
+MM
 
-𝑀𝑀1 𝑀𝑀0
+MM1 MM0
 
 ## POSITION DETERMINATS
 
 ## Recap: MONEY DEMAND FUNCTION
 
-## 𝑀𝑀(𝐷𝐷) = 𝑃𝑃× 𝐿𝐿( 𝑌𝑌, 𝑖𝑖)
+## MM(DD) = PP× LL( YY, ii)
 
 - **Negative slope**: it captures the trade – off btw M and B through _i_
 
-- 𝑖𝑖↑⇒𝑀𝑀(𝐷𝐷) ↓ since  bonds are more attractive for investors => we move along the money function to the left
+- ii↑⇒MM(DD) ↓ since  bonds are more attractive for investors => we move along the money function to the left
 
-- 𝑖𝑖↓⇒𝑀𝑀(𝐷𝐷) ↑ since  bonds are less attractive for investors => we move along the money function to the right
+- ii↓⇒MM(DD) ↑ since  bonds are less attractive for investors => we move along the money function to the right
 
 - **Position**
 
 - depends on P and Y, taking constant i
 
-- if P and/or Y ↑, the 𝑀𝑀(𝐷𝐷) shifts to the right since more money is needed for transactions
+- if P and/or Y ↑, the MM(DD) shifts to the right since more money is needed for transactions
 
-- if P and/or Y ↓, the 𝑀𝑀(𝐷𝐷) shifts to the left since less money is needed for transactions
+- if P and/or Y ↓, the MM(DD) shifts to the left since less money is needed for transactions
 
 ## MONEY SUPPLY: DETERMINANTS
 
@@ -297,7 +297,7 @@ Where already existing bonds are exchanged Vs. Primary market Where bonds are is
 
 https://www.ecb.europa.eu/pub/annual/balance/html/ecb. eurosystembalancesheet2021~f9edd2ff57.en.html
 
-- Expansionary MP: The Central Bank buys bonds on the secondary market and pays with money - Increase in money supply 𝚫𝚫 M = 𝚫𝚫 B > 0
+- Expansionary MP: The Central Bank buys bonds on the secondary market and pays with money - Increase in money supply ΔΔ M = ΔΔ B > 0
 
 CB buys bonds for 100
 
@@ -305,7 +305,7 @@ CB buys bonds for 100
 
 - Contractionary MP: The Central Bank **sells bonds** on the secondary market and is **paid with money** - decrease in money supply
 
-- 𝚫𝚫 M = 𝚫𝚫 B < 0
+- ΔΔ M = ΔΔ B < 0
 
 - CB sells bonds for 100
 
@@ -319,23 +319,23 @@ Equilibrium condition on the money market:  No excess D nor S
 
 The interest rate has to change in order to restore the equilibrium and to clear the market
 
-## 𝑖𝑖
+## ii
 
-𝑀𝑀(S)
+MM(S)
 
 _i_ > _i*  =>_ i has to decrease
 
 When in the market there is excess supply, the _interest rate_ must _decrease_ , to _make money more attractive_ compared to bonds, increase the demand and close the excess supply
 
-𝑖𝑖1
+ii1
 
 How is it possible? What is the economic mechanism? _i_ is too high
 
 - ⇒ Excess supply for M
 
-𝑖𝑖(∗)
+ii(∗)
 
-𝐸𝐸
+EE
 
 - ⇒Agents use extra money not used for transactions to buy bonds
 
@@ -345,15 +345,15 @@ How is it possible? What is the economic mechanism? _i_ is too high
 
 - ⇒ given the bonds’ face value, _i_ ↓ ⇒ the lower _i_ makes M more attractive for investors  that increase their demand up to the point where it is equal to the supply
 
-𝑀𝑀
+MM
 
-𝑀𝑀
+MM
 
 ## WHAT HAPPENS IF THE MARKET IS NOT IN EQUILIBRIUM?
 
-𝑖𝑖
+ii
 
-𝑀𝑀(S)
+MM(S)
 
 ## If i < i*
 
@@ -367,19 +367,19 @@ How is it possible? What is the economic mechanism? _i_ is too high
 
 ⇒ €Pt ↓
 
-𝑖𝑖(∗)
+ii(∗)
 
-𝑖𝑖1
+ii1
 
-𝐸𝐸
+EE
 
-𝐸
+E
 
-𝑀𝑀
+MM
 
 - ⇒given the bonds face value, _i_ ↑ ⇒ i continues to increase up to the level that ensures the equilibrium bwt demand and supply for money
 
-𝑀𝑀
+MM
 
 ## EXOGENOUS SHOCK AND COMPARATIVE STATICS
 
@@ -405,7 +405,7 @@ Money supply:  = M
 
 Money demand: M(d) = P  Y  L (i )
 
-𝑖𝑖 𝑀𝑀(S) 1 𝑖𝑖1 𝑖𝑖0 0 M(d ) ‘ M(d) 𝑀𝑀
+ii MM(S) 1 ii1 ii0 0 M(d ) ‘ M(d) MM
 
 ## Which curve is affected?
 
@@ -417,15 +417,15 @@ What happens to the equilibrium?
 
 The economy moves from 0 to 1: i increases while the nominal money stock is constant
 
-𝑀𝑀
+MM
 
 What is the economic mechanism behind the change in the interest rate? You have to make the reasoning passing from the bond market!
 
-- Exogenous ↑ 𝑀𝑀(𝑑𝑑)
+- Exogenous ↑ MM(dd)
 
-𝑀𝑀
+MM
 
-- At the initial interest rate, 𝑖𝑖0: 𝑀𝑀(𝑑𝑑) > 𝑀𝑀(𝑆𝑆)
+- At the initial interest rate, ii0: MM(dd) > MM(SS)
 
 - Excess demand for money
 
@@ -483,11 +483,11 @@ Less liquidity in the economy translates into a higher price of money: Money bec
 
 - CB sells bonds and it is paid with money => less liquidity in the economy
 
-- Exogenous decrease of 𝑀𝑀(𝑆𝑆)
+- Exogenous decrease of MM(SS)
 
-- At the initial interest rate, 𝑖𝑖0: 𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆)
+- At the initial interest rate, ii0: MM(DD) > MM(SS)
 
-′ 𝑖𝑖 𝑀𝑀(S) 𝑀𝑀(S)
+′ ii MM(S) MM(S)
 
 The interest rate must increase, to induce individuals to hold more bonds and less money => to reduce the money demand
 
@@ -495,7 +495,7 @@ The interest rate must increase, to induce individuals to hold more bonds and le
 
 - ⇒ when the CB sells bods the B(S) ↑
 
-𝑖𝑖1 0 𝑖𝑖0 Excess demand 𝑀𝑀′ 𝑀𝑀
+ii1 0 ii0 Excess demand MM′ MM
 
 ⇒ €Pt ↓
 
@@ -507,7 +507,7 @@ The interest rate must increase, to induce individuals to hold more bonds and le
 
 - CB buys bonds and pays with “new” money
 
-- ⇒ Exogenous increase of 𝑀𝑀(𝑆𝑆)
+- ⇒ Exogenous increase of MM(SS)
 
 - ⇒ money supply shifts to the right and an excess supply occurs at the initial equilibrium interest rate
 
@@ -573,11 +573,11 @@ The primary monetary policy instrument is the setting of ECB policy rates, which
 
 ## Endogenous aggregate money
 
-Given the target, once observed the 𝑑𝑑 money demand ( 𝑀𝑀0 ), to reach the target ̅𝚤𝚤, the CB has to adjust money 𝑠𝑠 supply at 𝑀𝑀0
+Given the target, once observed the dd money demand ( MM0 ), to reach the target ̅ıı, the CB has to adjust money ss supply at MM0
 
 ## 2. ALTERNATIVE CASE: Exogenous aggregate money
 
-Given the target in terms on money supply, the interest rate is determined by the  money demand 𝑑𝑑 ( 𝑀𝑀0 ) and will be 𝑖𝑖0
+Given the target in terms on money supply, the interest rate is determined by the  money demand dd ( MM0 ) and will be ii0
 
 Same shock has different effects depending on the CB behavior.
 
@@ -589,7 +589,7 @@ _How does the central bank (CB) respond under the two alternative approaches?_
 
 - in the goods market, optimism increases c0, I, Z and, through the multiplier, Y
 
-– 𝑖𝑖 𝑀𝑀(S) ↑ transactions => Increase in money demand – 𝑀 shifts to the right – Upward pressure on i – The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate – The economy moves from 0 to 1 _1_ 𝑖𝑖1 **Monetary policy is Exogenous** to the demand and the CB does not intervene: when M(d) changes, M(s) stays constant _0_ 𝑖𝑖0 𝑀𝑀(D′) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀(D) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀
+– ii MM(S) ↑ transactions => Increase in money demand – M shifts to the right – Upward pressure on i – The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate – The economy moves from 0 to 1 _1_ ii1 **Monetary policy is Exogenous** to the demand and the CB does not intervene: when M(d) changes, M(s) stays constant _0_ ii0 MM(D′) = PPLL(YY, ii) MM(D) = PPLL(YY, ii) MM MM
 
 - The money market reaches the equilibrium at a higher interest rate since the CB has no specific objectives in terms of interest rate
 
@@ -601,9 +601,9 @@ _How does the central bank (CB) respond under the two alternative approaches?_
 
 - ↑ transactions => Increase in money demand
 
-𝑖𝑖 demand 𝑀𝑀(S) 𝑀𝑀(S) – 𝑀 – – M((s)) follows M _0’ 0 1_ ̅𝚤𝚤 𝑀𝑀(d′) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀(d) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) 𝑀𝑀 𝑀𝑀 𝑀𝑀
+ii demand MM(S) MM(S) – M – – M((s)) follows M _0’ 0 1_ ̅ıı MM(d′) = PPLL(YY, ii) MM(d) = PPLL(YY, ii) MM MM MM
 
-- 𝑀 shifts to the right creating
+- M shifts to the right creating
 
 - upward pressure on i (from 0 to 0’)
 
@@ -621,11 +621,11 @@ When i=0 the economy is in a liquidity trap and expansionary MP cannot further r
 
 - The (nominal) interest rate **cannot be negative**
 
-## 𝑖𝑖≥0
+## ii≥0
 
 - Why?
 
-- If 𝑖𝑖= 0, bonds are no longer attractive
+- If ii= 0, bonds are no longer attractive
 
 - Agents are indifferent between bonds and money
 

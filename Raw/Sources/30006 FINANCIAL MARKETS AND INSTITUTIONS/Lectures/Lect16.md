@@ -50,15 +50,15 @@ Processed: true
 
 ## 2 Main Transmission channels of Monetary Policy
 
-- 𝑁𝑃𝑉↓
+- NPV↓
 
 ```
 o
 ```
 
-𝑏. 𝐿𝑒𝑣𝑒𝑟𝑎𝑔𝑒𝑒𝑓𝑓𝑒𝑐𝑡: - if 𝑖(𝑎𝑠𝐿𝑒𝑣↑⇒𝑅𝑂𝐸↑) 𝐼(> 𝑖:) - if 𝑖(𝑎𝑠𝐿𝑒𝑣↑⇒𝑅𝑂𝐸↓) 𝐼(< 𝑖:)
+b. Leverageeffect: - if i(asLev↑⇒ROE↑) I(> i:) - if i(asLev↑⇒ROE↓) I(< i:)
 
-(*): for sake of simplicity 𝑖 is the interest rate determined by the Central Bank and it is used for discounting and borrowing in financial markets
+(*): for sake of simplicity i is the interest rate determined by the Central Bank and it is used for discounting and borrowing in financial markets
 
 ## Balance Sheet: Federal Reserve
 
@@ -262,25 +262,25 @@ We will also see how this market has changed after the 2008 crisis
 
 There are 3 rates to keep in mind:
 
-1. the **discount window rate** 𝑖 ( 𝑑 )
+1. the **discount window rate** i ( d )
 
 `o` this is the rate at which banks can borrow directly from the Fed _unlimited quantities of reserves_
 
-2. the **Fed funds target rate** ( 𝑖 ) 𝑓𝑓
+2. the **Fed funds target rate** ( i ) ff
 
 - the _effective_ rate at which banks lend and borrow _from each other_ (equilibrium) may be different from _target_ from time to time, but very close
 
 - this is the rate the Fed “ _wants” to see_ for interbank borrowing
 
-3. the **interest rate on Excess Reserves** ( 𝑖𝑂𝑅 ) `o` this is the rate the Fed pays on excess reserves _deposited_ at Fed ( _Fed is borrower_ )
+3. the **interest rate on Excess Reserves** ( iOR ) `o` this is the rate the Fed pays on excess reserves _deposited_ at Fed ( _Fed is borrower_ )
 
 ## Supply and Demand in the Market for Reserves
 
-## 𝑖 ( _Federal_
+## i ( _Federal_
 
 ## _Funds Rate_ )
 
-## 𝒊> 𝒊: No! 𝒅
+## i> i: No! d
 
 - _banks would borrow from Fed and lend to other banks at higher rate_
 
@@ -292,13 +292,13 @@ Interest on excess reserves sets a **floor**
 
 - _no bank would borrow from other banks, just from Fed_
 
-- 𝑖 𝑑
+- i d
 
-- 𝑖 𝑓𝑓
+- i ff
 
-- 𝑖 𝑂𝑅
+- i OR
 
-## 𝒊< 𝒊: No! 𝑶𝑹
+## i< i: No! OR
 
 - _banks would borrow from other banks and then deposit reserves at Fed_
 
@@ -429,13 +429,13 @@ ECB operations are decentralized
 
 ## A company produces with no debt initially and then with debt
 
-_t=1_ 𝐶𝑎𝑠𝑒1: 𝑖(𝑎𝑠𝐿𝑒𝑣↑⇒𝑅𝑂𝐸)(↑) 𝐼(> 𝑖:) _Surplus = $_ _**200** Equity   = $1,000 Debt = $_ _**1,000** i            = 9% ROE     =_ _**11%** (=($200-$90) /$1,000[_
+_t=1_ Case1: i(asLev↑⇒ROE)(↑) I(> i:) _Surplus = $_ _**200** Equity   = $1,000 Debt = $_ _**1,000** i            = 9% ROE     =_ _**11%** (=($200-$90) /$1,000[_
 
 _t=0_
 
 _Surplus = $   100 Equity   = $1,000 Debt = $       0 i            = 9% ROE     = 10% [= $100 /$1,000)_
 
-𝐶𝑎𝑠𝑒2: 𝑖(𝑎𝑠𝐿𝑒𝑣↑⇒𝑅𝑂𝐸)(↓) 𝐼(< 𝑖:) _Surplus = $_ _**200** Equity   = $1,000 Debt = $ 1,000 i            = 11% ROE     =_ _**9%** (=($200-$110) /$1,000)_
+Case2: i(asLev↑⇒ROE)(↓) I(< i:) _Surplus = $_ _**200** Equity   = $1,000 Debt = $ 1,000 i            = 11% ROE     =_ _**9%** (=($200-$110) /$1,000)_
 
 _Surplus = $   100 Equity   = $1,000 Debt = $       0 i            = 11% ROE     = 10% (= $100 /$1,000)_
 

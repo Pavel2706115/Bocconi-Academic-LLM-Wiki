@@ -62,21 +62,21 @@ The joint frequency distribution is organised in a **contingency table (or cross
 
 ## Cross-tab (absolute frequencies)
 
-## Distinct values taken by 𝒀
+## Distinct values taken by Y
 
 Each cell reports the frequency (in this case, the absolute frequency) characterising each pair of values
 
-For the sake of simplicity, we will always denote by 𝒀 the variable on the columns and by 𝑿 the variable on the rows of the table
+For the sake of simplicity, we will always denote by Y the variable on the columns and by X the variable on the rows of the table
 
 ## Qualitative variables: cross tabulation
 
 ## Cross-tab: absolute frequencies
 
-## Distinct values taken by 𝒀
+## Distinct values taken by Y
 
-Row-wise sums of  joint frequencies: frequencies of the distinct values taken by the variable on the rows ( 𝑿 ). Thus, this is the frequency distribution of 𝑿 , also said **marginal frequency distribution** of 𝑿 in this context
+Row-wise sums of  joint frequencies: frequencies of the distinct values taken by the variable on the rows ( X ). Thus, this is the frequency distribution of X , also said **marginal frequency distribution** of X in this context
 
-The sum of all the **absolute** joint frequencies is the number of cases (here we consider a **sample of** size 𝒏 . )
+The sum of all the **absolute** joint frequencies is the number of cases (here we consider a **sample of** size n . )
 
 ## Qualitative variables: double-entry table
 
@@ -155,11 +155,11 @@ The cross-tab and the bar charts used to represent it provide information on the
 
 Note a high % of low interest among the youngest and a high % of high interest among seniors
 
-**Row conditional frequency**: frequency of each category of the column variable 𝒀 , in the **subset of cases** characterised by one of the categories of 𝑿 .
+**Row conditional frequency**: frequency of each category of the column variable Y , in the **subset of cases** characterised by one of the categories of X .
 
 E.g. The frequency of **Interest** = _Medium_ **conditioned on** the category **Age =** _31-45_ is:
 
-168 Freq { 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭 = 𝑀𝑒𝑑𝑖𝑢𝑚 | 𝐀𝐠𝐞 = 31-45} = 333(= 0.505)
+168 Freq { Interest = Medium | Age = 31-45} = 333(= 0.505)
 
 ## Qualitative variables: conditional distributions
 
@@ -167,11 +167,11 @@ E.g. The frequency of **Interest** = _Medium_ **conditioned on** the category **
 
 Note that among those who are most interested, seniors prevail, whilst among respondents with low/ medium interest, youngsters prevail
 
-**Column conditional frequency**: frequency of each category of the row variable 𝑿 , in the **subset of** cases characterised by one of the categories of 𝒀 .
+**Column conditional frequency**: frequency of each category of the row variable X , in the **subset of** cases characterised by one of the categories of Y .
 
 E.g. The frequency of **Age** = _46-60_ **conditioned on** the category **Interest =** _High_ is:
 
-68 Freq { 𝐀𝐠𝐞 = _46-60_ | 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭 = _High_ } = 225(= 0.480)
+68 Freq { Age = _46-60_ | Interest = _High_ } = 225(= 0.480)
 
 ## Qualitative variables: conditional distributions
 
@@ -583,9 +583,9 @@ Two variables are **positively (or directly)** associated if concordant pairs pr
 
 ## Cross-products (cross-products)
 
-To assess the strength of the relation between two variables, we have to consider both the **direction** of the deviations from the means and their **size** . At this aim, we consider for each case ( 𝑥𝑖 , 𝑦𝑖 ) its cross-product, i.e. the product of the deviations from the means
+To assess the strength of the relation between two variables, we have to consider both the **direction** of the deviations from the means and their **size** . At this aim, we consider for each case ( xi , yi ) its cross-product, i.e. the product of the deviations from the means
 
-(𝑥𝑖 −ǉ𝑥)(𝑦𝑖 −ǉ𝑦)
+(xi −ǉx)(yi −ǉy)
 
 - The cross-product informs both on the concordance/discordance (sign) of the values observed on the two variables and on the extent of the deviations from the means.
 
@@ -623,7 +623,7 @@ We will use this formula only in particular cases, and specifically when the cov
 
 ## Covariance: calculation based on raw data
 
-## **Example: calculation of the covariance between** **`price` and** **`livingArea` based on the first** 𝒏 = 10 houses
+## **Example: calculation of the covariance between** **`price` and** **`livingArea` based on the first** n = 10 houses
 
 ## The means are
 

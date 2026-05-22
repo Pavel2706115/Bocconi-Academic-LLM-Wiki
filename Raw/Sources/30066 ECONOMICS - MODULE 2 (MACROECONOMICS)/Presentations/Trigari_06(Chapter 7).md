@@ -194,7 +194,7 @@ Both workers and firms care about **real wages** _(W/P),_ **not nominal wages** 
 
 - Firms do not care about the nominal wages they pay but about the nominal wages, _W_ , they pay **relative to the price of the goods they sell** , _P_ . They also care about _W/P_ ^atu360
 
-Now, **why** do **wages depend on the expected price level** _**$$$P(e)$$$**_ as opposed to the actual price level _P_ ?
+Now, **why** do **wages depend on the expected price level** _**$P(e)$**_ as opposed to the actual price level _P_ ?
 
 Because **wages are set in nominal terms** , and when they are set the price level is not yet known
 

@@ -80,7 +80,7 @@ This document is authorized for use only in Marco Loseto's 30017 - Corporate fin
 
 Robins and Park recognized the importance of their decisions: investments would drive future cash flow, and investors would compute the enterprise value of DraftKings as the present value of those cash flows, with a cost of capital, which reflected the return they might expect on their best alternative investment with comparable risk. Park and Robins interacted with over 30 analysts, from Jefferies, Morgan Stanley, UBS, Wolfe Research, and other institutions, who used cost of capital estimates that ranged from 7% to more than 10% for DraftKings in early 2021. Most analysts relied on a common formula for this opportunity cost that was familiar to the company:
 
-𝑅 𝑅 𝑅 𝑅 𝑅 𝑅 + 𝛽𝛽𝐷 𝐷 ×  𝑀𝑀𝑅 𝑅 𝑅 𝑅 𝑅𝑅𝑀𝑀𝑅 𝑀𝑀𝑅𝑅𝑀
+R R R R R R + ββD D ×  MMR R R R RRMMR MMRRM
 
 Every estimate started with the “risk-free rate” of return on U.S. Treasury securities, sometimes labeled as _Rf_ . (See **Exhibit 5** for **risk-free rates** at varying maturities.) To this they added an extra risk premium, often estimated as the product of an “asset beta” tailored to DraftKings specifically, labeled ~~β~~ _DKNG_ , and the “market risk premium.”
 
@@ -90,7 +90,7 @@ Some analysts felt that DraftKings did not have the risk of an average U.S. stoc
 
 To estimate the systematic risk of each company’s equity, analysts used stock return data to compute each company’s equity beta ( ~~β~~ _e_ ) relative to a broad market index like the S&P 500.(d) While DraftKings had no debt on its balance sheet, some of its comparable companies did, and debt magnified the risk of equity. So, for each potential comparable firm, analysts computed the weighted average beta of equity and debt, or the **asset beta** ( ~~β~~ _a_ ), as their measure of the systematic risk of each
 
-> d Analysts generally estimated a company’s equity beta by regressing its stock returns ( _Re_ ) on the returns of the U.S. stock market ( _Rm_ ). The beta (𝛽𝛽𝑒𝑒) is the slope coefficient from this regression and is equal to 𝛽𝛽𝑒𝑒 = Cov(𝑅𝑅𝑒𝑒, 𝑅𝑅𝑚𝑚)/$$$Var(𝑅𝑅𝑚𝑚)$$$.
+> d Analysts generally estimated a company’s equity beta by regressing its stock returns ( _Re_ ) on the returns of the U.S. stock market ( _Rm_ ). The beta (ββee) is the slope coefficient from this regression and is equal to ββee = Cov(RRee, RRmm)/$Var(RRmm)$.
 
 This document is authorized for use only in Marco Loseto's 30017 - Corporate finance-classes 15/18 at Bocconi University from Feb 2026 to Aug 2026.
 
@@ -100,7 +100,7 @@ firm’s assets.(e) (See **Exhibit 9** for a breakdown of the comparable firms�
 
 Given its strong competitive position, DraftKings could plausibly set a discount rate above its cost of capital and still attract and retain customers. Indeed, the management team was reassured that there were opportunities for investment in customer acquisition costs (CAC) with a “three-year gross profit payback,” which they felt would deliver a return to investors that exceeded DraftKings’ cost of capital.
 
-> e Specifically, analysts typically assumed that 𝛽𝛽𝑎𝑎 = 𝐸𝐸+𝐷𝐷𝐸𝐸 𝛽𝛽𝑒𝑒 + 𝐸𝐸+𝐷𝐷𝐷𝐷 𝛽𝛽𝑑𝑑 and used weights that mirrored the estimation of the equity beta, namely, the average ratio of net debt to net debt plus equity over the same window that the equity beta was estimated.
+> e Specifically, analysts typically assumed that ββaa = EE+DDEE ββee + EE+DDDD ββdd and used weights that mirrored the estimation of the equity beta, namely, the average ratio of net debt to net debt plus equity over the same window that the equity beta was estimated.
 
 This document is authorized for use only in Marco Loseto's 30017 - Corporate finance-classes 15/18 at Bocconi University from Feb 2026 to Aug 2026.
 

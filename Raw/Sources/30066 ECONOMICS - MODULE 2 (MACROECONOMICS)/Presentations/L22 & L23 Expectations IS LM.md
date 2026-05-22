@@ -16,7 +16,7 @@ Processed: true
 
 **(8 CFU) CLASS: BIEM 14 & 19 2024 – 25**
 
-**Lecture 22 and 23 (Ch. 17)** The 𝐼𝑆−𝐿𝑀 with expectations
+**Lecture 22 and 23 (Ch. 17)** The IS−LM with expectations
 
 ## WHERE WE ARE
 
@@ -102,103 +102,103 @@ The goods market:  expectations influence only the goods market through C and I
 
 - Aggregate consumption
 
-𝐶𝑡 = 𝐶(𝑌𝑡 −𝑇𝑡, 𝑌𝑡+1𝑒 −𝑇𝑡+1𝑒 , 𝐹𝑊𝑡, 𝐻𝑊𝑡, 𝑟𝑡)
+Ct = C(Yt −Tt, Yt+1e −Tt+1e , FWt, HWt, rt)
 
 - Aggregate investment
 
-𝑒 𝑒 𝑒 𝑒 𝐼𝑡 = 𝑓(Π𝑡, V Π(𝑒) ), 𝑥𝑡, 𝑥𝑡+1 = 𝑓(Π𝑡, Π𝑡+1, 𝑟𝑡, 𝑟𝑡+1, 𝛿 , 𝑥𝑡, 𝑥𝑡+1)
+e e e e It = f(Πt, V Π(e) ), xt, xt+1 = f(Πt, Πt+1, rt, rt+1, δ , xt, xt+1)
 
 - The goods market is in equilibrium if
 
-𝐴𝑡 = Aggregate private expenditure: depends on current and expected future variables
+At = Aggregate private expenditure: depends on current and expected future variables
 
 ## If
 
-- 𝑌 ↑ 𝑡
+- Y ↑ t
 
-- 𝐿𝑊𝑡 ↑⇒ more consumption opportunities over the life cycle ⇒𝐶𝑡 ↑
+- LWt ↑⇒ more consumption opportunities over the life cycle ⇒Ct ↑
 
-- - 𝛱𝑡 ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑
+- - Πt ↑⇒ firms are more willing to invest, as they expect higher returns ⇒It↑
 
-- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- => aggregare private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑒
+- e
 
-- 𝑌 ↑ 𝑡+1
+- Y ↑ t+1
 
-- more disposable income next period but more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
+- more disposable income next period but more consumption opportunities over the life cycle ⇒LWt ↑⇒Ct ↑
 
-- Fims expect higher profits next period and the PDV of the stream of profits ↑⇒ firms are more willing to invest, as they expect higher returns ⇒𝐼𝑡↑
+- Fims expect higher profits next period and the PDV of the stream of profits ↑⇒ firms are more willing to invest, as they expect higher returns ⇒It↑
 
-- 𝑒
+- e
 
-- Stocks become more attractive for investors as they expect  higher dividends €𝐷𝑡+1 ↑⇒ higher demand and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
+- Stocks become more attractive for investors as they expect  higher dividends €Dt+1 ↑⇒ higher demand and their price increases ⇒€Qt ↑⇒FWt ↑
 
-- => aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- => aggregate private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑒
+- e
 
-- 𝑥𝑡 ↓ and/or 𝑥𝑡+1 ↓
+- xt ↓ and/or xt+1 ↓
 
-- The borrowing rate today or tomorrow is lower ⇒ investment is cheaper for firms ⇒𝐼𝑡 ↑
+- The borrowing rate today or tomorrow is lower ⇒ investment is cheaper for firms ⇒It ↑
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- ⇒ aggregate private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑒
+- e
 
-- 𝑇𝑡 ↓ and/or 𝑇𝑡+1 ↓
+- Tt ↓ and/or Tt+1 ↓
 
-- More resources acre available over the life cycle ⇒𝐿𝑊𝑡 ↑⇒ more consumption opportunities ⇒𝐶𝑡 ↑
+- More resources acre available over the life cycle ⇒LWt ↑⇒ more consumption opportunities ⇒Ct ↑
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- ⇒ aggregate private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑟 ↓ 𝑡
+- r ↓ t
 
-- Given disposable income in both periods its PDV increases ⇒ more consumption opportunities over the life cycle ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
+- Given disposable income in both periods its PDV increases ⇒ more consumption opportunities over the life cycle ⇒LWt ↑⇒Ct ↑
 
-- ↑ the borrowing rate decreases  and the PDV of expected profits increases  making investment in physical capital more convenient for firms more convenient to invest ⇒𝐼𝑡
+- ↑ the borrowing rate decreases  and the PDV of expected profits increases  making investment in physical capital more convenient for firms more convenient to invest ⇒It
 
-- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑⇒𝐶𝑡 ↑
+- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€Qt ↑⇒FWt ↑⇒Ct ↑
 
-- => aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- => aggregare private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑟𝑒 ↓ 𝑡+1
+- re ↓ t+1
 
-- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
+- Stocks become more attractive than bonds for investors ⇒ higher demand for stocks and their price increases ⇒€Qt ↑⇒FWt ↑
 
-- firms are more willing to invest since the PDV of expected profits increases ⇒V Π(𝑒) ↑⇒𝐼 ↑ 𝑡
+- firms are more willing to invest since the PDV of expected profits increases ⇒V Π(e) ↑⇒I ↑ t
 
-- => aggregare private expenditure inreases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- => aggregare private expenditure inreases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝛿↓ firms are more willing to invest since  the devaluation process is slower and the PDV of expected profits increases ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
+- δ↓ firms are more willing to invest since  the devaluation process is slower and the PDV of expected profits increases ⇒V Π(e) ↑⇒It↑
 
-- ⇒ aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- ⇒ aggregate private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
 ## In a synthetic way the  current IS With expectations will be
 
-𝑌𝑡 = 𝐶 𝑌𝑡,, 𝑇𝑡, 𝑌𝑡+1𝑒 , 𝑇𝑡+1𝑒 , 𝑟𝑡,) + 𝐼(𝑌𝑡,, 𝑌𝑡+1𝑒 , 𝑟𝑡, 𝑟𝑡+1𝑒 , 𝑥𝑡, 𝑥𝑡+1𝑒 , 𝛿+ 𝐺𝑡
+Yt = C Yt,, Tt, Yt+1e , Tt+1e , rt,) + I(Yt,, Yt+1e , rt, rt+1e , xt, xt+1e , δ+ Gt
 
-𝐴 𝑡
+A t
 
 ## Current period (t)
 
-𝑟𝑡, 𝐼𝑆𝑒𝑥𝑝𝑒𝑐𝑡𝑎𝑡𝑖𝑜𝑛𝑠 0 𝐼𝑆 𝑠𝑡𝑎𝑛𝑑𝑎𝑟𝑑 1 1
+rt, ISexpectations 0 IS standard 1 1
 
-𝑌 ↑𝑌𝑒 ⇒𝐴 ↑ 𝑡 𝑡+1 𝑡 𝑒 𝑟 ↓𝑟 ↓⇒𝐴 ↑𝑇 𝑡 𝑡+1 𝑡 𝑡 ↓𝑇𝑒 ↓⇒𝐴 ↑ 𝑡+1 𝑡 𝑥↓⇒𝐴 ↑ 𝑡 𝛿↓⇒𝐴 ↑ 𝑡 Negative slope but steeper
+Y ↑Ye ⇒A ↑ t t+1 t e r ↓r ↓⇒A ↑T t t+1 t t ↓Te ↓⇒A ↑ t+1 t x↓⇒A ↑ t δ↓⇒A ↑ t Negative slope but steeper
 
-If 𝑟↓⇒𝐴↑⇒𝑍↑⇒𝑌↑
+If r↓⇒A↑⇒Z↑⇒Y↑
 
-But if we take expectations into account  the increase is smaller since the future dynamics of the financial 𝑒 markets ( 𝑟𝑡+1 ) and the of the goods markets ( 𝑌𝑡+1𝑒 ) also matter in determining current demand
+But if we take expectations into account  the increase is smaller since the future dynamics of the financial e markets ( rt+1 ) and the of the goods markets ( Yt+1e ) also matter in determining current demand
 
-𝑌 𝑡,
+Y t,
 
 ## Position of the current IS depends on both current and future exogenous variables
 
 The IS curve moves to the right if there is a positive increase in current demand dependent on
 
-- Directly driven by changes in current exogenous variables If 𝑐0𝑡 ↑, 𝑇𝑡 ↓, 𝑥↓, 𝛿↓⇒𝐴𝑡 ↑⇒ aggregate demand increases, in the goods market there is an excess demand, and in order to restore the equilibrium through the multiplier, production increases
+- Directly driven by changes in current exogenous variables If c0t ↑, Tt ↓, x↓, δ↓⇒At ↑⇒ aggregate demand increases, in the goods market there is an excess demand, and in order to restore the equilibrium through the multiplier, production increases
 
-- indirectly driven by changes in expectations If 𝑌𝑡+1𝑒 ↑, 𝑇𝑡+1𝑒 ↓, 𝑟𝑡+1𝑒 ↓⇒𝐴𝑡 ↑⇒𝑍𝑡 ↑ current aggregate demand ⇒ thanks to the multiplier 𝑌𝑡 ↑
+- indirectly driven by changes in expectations If Yt+1e ↑, Tt+1e ↓, rt+1e ↓⇒At ↑⇒Zt ↑ current aggregate demand ⇒ thanks to the multiplier Yt ↑
 
 ## The IS curve shifts to the left if there is a contraction in current demand
 
@@ -206,7 +206,7 @@ The IS curve moves to the right if there is a positive increase in current deman
 
 The money market is not affected by expectations
 
-- Standard case: the CB sets the nominal interest rate 𝑖(ഥ) (short term interest rate 𝑖1𝑡 ) that keeps the money market in equilibrium changing the money supply
+- Standard case: the CB sets the nominal interest rate \bar{i} (short term interest rate i1t ) that keeps the money market in equilibrium changing the money supply
 
 Money supply: depends on
 
@@ -222,9 +222,9 @@ Money supply: depends on
 
 Given expected inflation, the LM will be
 
-𝑟=
+r=
 
-- Alternative case: the CB sets the money supply, and the interest rate 𝑖 (short term interest rate 𝑖1𝑡 ) is the one that clears the money market
+- Alternative case: the CB sets the money supply, and the interest rate i (short term interest rate i1t ) is the one that clears the money market
 
 => Upward sloping LM
 
@@ -244,13 +244,13 @@ AIM: to show what happens to the macro equilibrium today, if  we expect somethin
 
 1. Plot the initial equilibrium at t and t+1 and the yield curve
 
-2. Begin always by studying the impact of the shock/policy at 𝑡+ 1 (future) How does the expected future equilibrium change?
+2. Begin always by studying the impact of the shock/policy at t+ 1 (future) How does the expected future equilibrium change?
 
-Δ𝑌𝑒 ? Δ𝑟𝑒 ? 𝑡+1 𝑡+1
+ΔYe ? Δre ? t+1 t+1
 
-3. Study the impact today ( 𝑡 ) of the policy/shock, incorporating changes in expectations How does the current equilibrium change?
+3. Study the impact today ( t ) of the policy/shock, incorporating changes in expectations How does the current equilibrium change?
 
-Δ𝑌 ? Δ𝑟 𝑡 𝑡
+ΔY ? Δr t t
 
 3. Analyse the impact on the yield curve
 
@@ -278,35 +278,35 @@ _1_ = final equilibrium
 
 - Agents expect that in t+1, the CB will lower the nominal interest rate. Given the resulting lower real interest rate, investment will increase, stimulating demand and, through the multiplier effect, boosting output
 
-𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑟𝑡+1𝑒 ↓
+LMt+1 down Equilibrium 0 →1 Yt+1e ↑, rt+1e ↓
 
 - In t, given their rational expectations, agents anticipate the effect expected for the future
 
-- 𝑒
+- e
 
-- 𝑌 ↑ 𝑡+1
+- Y ↑ t+1
 
-- more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
+- more disposable income  expected for next ⇒LWt ↑⇒Ct ↑
 
-- - 𝑒 Π𝑡+1 ↑, V Π(𝑒) ↑ investment more profitable ⇒𝐼𝑡↑
+- - e Πt+1 ↑, V Π(e) ↑ investment more profitable ⇒It↑
 
-- 𝑒
+- e
 
-- Stocks more attractive a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
+- Stocks more attractive a s €Dt+1 ↑⇒€Qt ↑⇒FWt ↑
 
-- aggregate private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- aggregate private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-- 𝑟𝑒 ↓ 𝑡+1
+- re ↓ t+1
 
-- stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
+- stocks more attractive ⇒€Qt ↑⇒FWt ↑
 
-𝐼𝑆𝑡 right Equilibrium 0 →1 𝑌𝑡 ↑, 𝑖𝑡 =
+ISt right Equilibrium 0 →1 Yt ↑, it =
 
-- firms more willing to invest ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
+- firms more willing to invest ⇒V Π(e) ↑⇒It↑
 
-- aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑
+- aggregare private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑
 
-Overall current output increases, the 𝑀(𝐷) ↑ and  the CB to keep the interest rate constant at the chosen policy rate, ↑𝑀(𝑆)
+Overall current output increases, the M(D) ↑ and  the CB to keep the interest rate constant at the chosen policy rate, ↑M(S)
 
 Effect on the yield curve:
 
@@ -344,32 +344,32 @@ The relative reduction in the current interest rate compared to the future rate 
 
 ## Effects
 
-𝐿𝑀𝑡+1 down Equilibrium 0 →1 𝑌𝑡+1𝑒 ↑, 𝑖𝑡+1𝑒 ↓
+LMt+1 down Equilibrium 0 →1 Yt+1e ↑, it+1e ↓
 
 - If in t+1 the central bank lowers the nominal interest rate, by buying bonds, it will stimulate the real economy through investment, which becomes cheaper , Z ↑ and through the multiplier effect Y↑.
 
 - - In t, the equilibrium will change as a result of
 
-- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↑ 𝑡+1
+- 1) Indirect effects of the changes in expected variables for the future that affect the IS Ye ↑ t+1
 
-- - more disposable income  expected for next ⇒𝐿𝑊𝑡 ↑⇒𝐶𝑡 ↑
+- - more disposable income  expected for next ⇒LWt ↑⇒Ct ↑
 
-- - 𝑒 Π𝑡+1 ↑, V Π(𝑒) ↑ investment more profitable ⇒𝐼𝑡↑
+- - e Πt+1 ↑, V Π(e) ↑ investment more profitable ⇒It↑
 
-- - 𝑒 Stocks more attractive for investors a s €𝐷𝑡+1 ↑⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑ 𝑒
+- - e Stocks more attractive for investors a s €Dt+1 ↑⇒€Qt ↑⇒FWt ↑ e
 
-- 𝑟 ↓ 𝑡+1
+- r ↓ t+1
 
-- - stocks more attractive ⇒€𝑄𝑡 ↑⇒𝐹𝑊𝑡 ↑
+- - stocks more attractive ⇒€Qt ↑⇒FWt ↑
 
-- - firms more willing to invest ⇒V Π(𝑒) ↑⇒𝐼𝑡↑
+- - firms more willing to invest ⇒V Π(e) ↑⇒It↑
 
-- ↑ aggregare private expenditure increases ⇒Z𝑡↑ and through the multiplier 𝑌𝑡 ↑ 2) Direct effect of current expansionary monetary policy: as the central bank reduces the nominal interest rate, the borrowing cost decreases, making investment less expensive ⇒ investment increases, stimulating demand and, in equilibrium, output. Equilibrium at time t 0 →1 𝑌𝑡 ↑, 𝑖𝑡 ↓
+- ↑ aggregare private expenditure increases ⇒Zt↑ and through the multiplier Yt ↑ 2) Direct effect of current expansionary monetary policy: as the central bank reduces the nominal interest rate, the borrowing cost decreases, making investment less expensive ⇒ investment increases, stimulating demand and, in equilibrium, output. Equilibrium at time t 0 →1 Yt ↑, it ↓
 *(See also: [[L10 ISLM model#^lf5j0s]])*
 
-𝐼𝑆𝑡 right
+ISt right
 
-𝐿𝑀 down 𝑡
+LM down t
 
 ## Effects
 
@@ -381,13 +381,13 @@ The relative reduction in the current interest rate compared to the future rate 
 
 - The slope depends on the intensity of the current MP compared with the expected future one
 
-- 𝑒
+- e
 
-- it depends on the difference we expect btw 𝑖𝑡 and 𝑖𝑡+1𝑒
+- it depends on the difference we expect btw it and it+1e
 
-- If 𝑖 = 𝑖𝑒 flat 𝑡 𝑡+1
+- If i = ie flat t t+1
 
-- If 𝑖𝑡 < 𝑖𝑡+1𝑒 positive slope - If 𝑖𝑡 > 𝑖𝑡+1𝑒 negative slope
+- If it < it+1e positive slope - If it > it+1e negative slope
 
 - For sure, the new long-term interest rate will be lower than the initial one, given that both the short-term interest rates at time t and time t+1 are lower, and so is their average.
 
@@ -429,9 +429,9 @@ To prevent the decline in current income the CB can use forward guidance on shor
 
 Forward guidance helps to offset or eliminate the impact of adverse expectations
 
-- If agents expect ↓𝑖𝑡+1𝑒 , the PDV of expected profits ↑,
+- If agents expect ↓it+1e , the PDV of expected profits ↑,
 
-- 𝐼 ↑ => 𝑍 ↑ 𝑡 𝑡
+- I ↑ => Z ↑ t t
 
 - current output  increases
 
@@ -457,21 +457,21 @@ _0_ = initial equilibrium
 
 ## Effects
 
-- Agents expect for t+1 an increase in taxes or a reduction in public 𝐼𝑆𝑡+1 to the left expenditure. The aggregate demand will be lower Z ↓ and through Equilibrium 0 →1
+- Agents expect for t+1 an increase in taxes or a reduction in public ISt+1 to the left expenditure. The aggregate demand will be lower Z ↓ and through Equilibrium 0 →1
 
-- the multiplier effect also output Y ↓. Given the lower money 𝑌𝑡+1𝑒 ↓, 𝑖𝑡+1𝑒 = demand the CB will intervene by decreasing the money supply to keep the interest rate constant
+- the multiplier effect also output Y ↓. Given the lower money Yt+1e ↓, it+1e = demand the CB will intervene by decreasing the money supply to keep the interest rate constant
 
 - - In t, the equilibrium will change as a result of
 
-- 1) Indirect effects of the changes in expected variables for the future that affect the IS 𝑌𝑒 ↓ 𝑡+1
+- 1) Indirect effects of the changes in expected variables for the future that affect the IS Ye ↓ t+1
 
-- - less disposable income  expected for next ⇒𝐿𝑊𝑡 ↓⇒𝐶𝑡 ↓ 𝐼𝑆𝑡 left - 𝑒 Π𝑡+1 ↓, V Π(𝑒) ↓ investment less profitable ⇒𝐼𝑡↓
+- - less disposable income  expected for next ⇒LWt ↓⇒Ct ↓ ISt left - e Πt+1 ↓, V Π(e) ↓ investment less profitable ⇒It↓
 
-- - 𝑒 Equilibrium 0 →1 Stocks less attractive for investors a s €𝐷𝑡+1 ↓⇒€𝑄𝑡 ↓⇒𝐹𝑊𝑡 ↓
+- - e Equilibrium 0 →1 Stocks less attractive for investors a s €Dt+1 ↓⇒€Qt ↓⇒FWt ↓
 
-Equilibrium 0 →1 𝑌𝑡 ↓, 𝑖𝑡 =
+Equilibrium 0 →1 Yt ↓, it =
 
-- => ↓ aggregare private expenditure decreases ⇒Z𝑡↓ and through the multiplier 𝑌𝑡 ↓
+- => ↓ aggregare private expenditure decreases ⇒Zt↓ and through the multiplier Yt ↓
 
 => In the momey market the money demand decreases and the CB to keep the interest rate constant reduces the money supply
 
@@ -533,7 +533,7 @@ Consider an economy with an initially flat yield curve. The government announces
 
 ## FALSE
 
-_We have contrasting effects but we do not know their relative magnitude: we are not able to predict the change in_ 𝑖2𝑡
+_We have contrasting effects but we do not know their relative magnitude: we are not able to predict the change in_ i2t
 
 ## QUICK CHECKS
 

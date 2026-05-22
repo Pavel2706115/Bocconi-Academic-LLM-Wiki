@@ -160,7 +160,7 @@ Processed: true
 
 `o` either _refusing total amount_ of loan requested by customer `o` or _restricting the size_ of the loan requested by customer `o` in both cases: even if customer are willing to pay a high interest rate
 
-✓ It may be optimal for the bank to ration credit … `o` the bank knows that by changing the interest rate it changes the average quality of the pool of borrowers asking for credit - if 𝑖↑⇒ select only riskier borrowers!!! - if 𝑖↓⇒ keep high-risk borrowers, but also low-risk ones
+✓ It may be optimal for the bank to ration credit … `o` the bank knows that by changing the interest rate it changes the average quality of the pool of borrowers asking for credit - if i↑⇒ select only riskier borrowers!!! - if i↓⇒ keep high-risk borrowers, but also low-risk ones
 
 ## Exercise: Credit Rationing
 
@@ -170,13 +170,13 @@ An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. Th
 
 **A:** No, the bank shouldn’t lend to this entrepreneur. Indeed, the expected profit for the bank is:
 
-𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × −$200𝑘= −$158𝑘 𝑏𝑎𝑛𝑘 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× −𝐿= . . . Since this is negative, **no** incentive to lend!
+E π = 0.1 × $200k× 1.1 + 0.9 × −$200k= −$158k bank E πbank = p× L× 1 + i+ 1 −p× −L= . . . Since this is negative, **no** incentive to lend!
 
 7-14
 
 ## Exercise: Credit Rationing
 
-An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 20%. No collateral. **Q:** Should the bank lend to this entrepreneur? **A:** No, the bank shouldn’t lend to this entrepreneur Indeed, the expected profit for the bank is: 𝐸 𝜋𝑏𝑎𝑛𝑘 = 𝑝× 𝐿× 1 + 𝑖+ 1 −𝑝× 0 −𝐿 𝐸 𝜋 = 0.1 × $200𝑘× 1.1 + 0.9 × 0 −$200𝑘= −$176𝑘 𝑏𝑎𝑛𝑘 Since this is negative, **no** incentive to lend!
+An entrepreneur has a project that yields $1M if it succeeds and 0 otherwise. The probability of success is 10%. In order to implement the project, the entrepreneur needs a loan of $200k and is willing to pay an interest rate of 20%. No collateral. **Q:** Should the bank lend to this entrepreneur? **A:** No, the bank shouldn’t lend to this entrepreneur Indeed, the expected profit for the bank is: E πbank = p× L× 1 + i+ 1 −p× 0 −L E π = 0.1 × $200k× 1.1 + 0.9 × 0 −$200k= −$176k bank Since this is negative, **no** incentive to lend!
 *(See also: [[Lect19_exercises#^bvat5l]])*
 
 ## Managing Credit Risk
@@ -229,7 +229,7 @@ To _alleviate_ asymmetric information problems, FI may use tools that reduce cos
 
 ## Managing Interest-Rate Risk
 
-What happens to an FI if 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑟𝑎𝑡𝑒𝑠 change? Recall: 𝑅𝑒𝑡𝑢𝑟𝑛= 𝐶+𝑃𝑡+1−𝑃𝑡 = 𝑖+ 𝑔 𝑃 𝑡
+What happens to an FI if interest rates change? Recall: Return= C+Pt+1−Pt = i+ g P t
 
 - ✓ Changes in **Income**: interest income on variable-interest on
 
@@ -253,7 +253,7 @@ The idea: look at the balance sheet and ..
 
 ## Income Gap analysis
 
-𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑
+Income = RSA−RSL gap
 
 ## Important
 
@@ -261,19 +261,19 @@ The idea: look at the balance sheet and ..
 
 ## Income Gap analysis
 
-𝑰𝒏𝒄𝒐𝒎𝒆 = 𝑹𝑺𝑨−𝑹𝑺𝑳 𝒈𝒂𝒑
+Income = RSA−RSL gap
 
 - ✓ Income gap can be positive or negative, depending on the exact composition of the FI’s balance sheet
 
-- ✓ Change of 𝑵𝑰𝑰 ( _Net Interest Income_ ):
+- ✓ Change of NII ( _Net Interest Income_ ):
 
-∆𝑵𝑰𝑰= 𝑰𝒏𝒄𝒐𝒎𝒆 × ∆𝒊 𝒈𝒂𝒑
+∆NII= Income × ∆i gap
 
-- ✓ So, interest rate changes can **negatively or positively** affect net interest margins, depending on the _sign_ of 𝐼𝑛𝑐𝑜𝑚𝑒 𝑔𝑎𝑝
+- ✓ So, interest rate changes can **negatively or positively** affect net interest margins, depending on the _sign_ of Income gap
 
-`o` if 𝐼𝑛𝑐𝑜𝑚𝑒𝑔𝑎𝑝 > 0: banks make more money if interest rates rise (but loses out if interest rates fall)
+`o` if Incomegap > 0: banks make more money if interest rates rise (but loses out if interest rates fall)
 
-`o` the reverse if 𝐼𝑛𝑐𝑜𝑚𝑒 < 0 𝑔𝑎𝑝
+`o` the reverse if Income < 0 gap
 
 ## JP Morgan Chase, Dec2015
 
@@ -287,9 +287,9 @@ The idea: look at the balance sheet and ..
 
 ## **Q1**: what is JPM’s income gap?
 
-**A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
+**A1**: Income = $1,238 B−$426B= $812 B gap
 
-**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase? **A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
+**Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase? **A2**: ∆i= .5% , ∆NII= Incomegap × ∆i ∆NII= $812 B× 0.005 = $4,06 B
 
 ✓ Note that:
 
@@ -301,11 +301,11 @@ The idea: look at the balance sheet and ..
 
 ## Exercise: JP Morgan Chase
 
-**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
+**Q1**: what is JPM’s income gap? **A1**: Income = $1,238 B−$426B= $812 B gap
 
 **Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
+**A2**: ∆i= .5% , ∆NII= Incomegap × ∆i ∆NII= $812 B× 0.005 = $4,06 B
 
 ✓ Note that:
 
@@ -315,11 +315,11 @@ The idea: look at the balance sheet and ..
 
 ## Exercise: JP Morgan Chase
 
-**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
+**Q1**: what is JPM’s income gap? **A1**: Income = $1,238 B−$426B= $812 B gap
 
 **Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
+**A2**: ∆i= .5% , ∆NII= Incomegap × ∆i ∆NII= $812 B× 0.005 = $4,06 B
 
 ✓ Note that:
 
@@ -331,11 +331,11 @@ The idea: look at the balance sheet and ..
 
 ## Exercise: JP Morgan Chase
 
-**Q1**: what is JPM’s income gap? **A1**: 𝐼𝑛𝑐𝑜𝑚𝑒 = $1,238 𝐵−$426𝐵= $812 𝐵 𝑔𝑎𝑝
+**Q1**: what is JPM’s income gap? **A1**: Income = $1,238 B−$426B= $812 B gap
 
 **Q2**: if interest rates increase by 50 bps, how does net interest income change for JPM Chase?
 
-**A2**: ∆𝑖= .5% , ∆𝑁𝐼𝐼= 𝑰𝒏𝒄𝒐𝒎𝒆𝒈𝒂𝒑 × ∆𝒊 ∆𝑁𝐼𝐼= $812 𝐵× 0.005 = $4,06 𝐵
+**A2**: ∆i= .5% , ∆NII= Incomegap × ∆i ∆NII= $812 B× 0.005 = $4,06 B
 
 ## ✓ Note that:
 
@@ -343,7 +343,7 @@ The idea: look at the balance sheet and ..
 
 - in this case RSA>RSL, often the reverse: RSA<RSL …
 
-`o` as 𝑖↑ , overall position (of RSA Vs RSL) of the bank matters!
+`o` as i↑ , overall position (of RSA Vs RSL) of the bank matters!
 
 ## Average Income Gap/Assets, US Banks
 
@@ -395,13 +395,13 @@ obvious Less obvious
 
 ## Income Gap for First National Bank
 
-EX: determine change in _Net Interest Income_ if 𝑖 increases by 5 pct. points ( ∆𝑖 = 5%=0.005)
+EX: determine change in _Net Interest Income_ if i increases by 5 pct. points ( ∆i = 5%=0.005)
 
 `o` _**RSA**_ = $5M + $10M + $15M + 20% - $10M =$32M `o` _**RSL**_ = $5M + $25M + $5M + $10M + 10% - $15M + 20% - $15M = $49.5M
 
-`o` 𝑰𝒏𝒄𝒐𝒎𝒆 = _RSA_ − _RSL_ **=** $32.0M − $49.5M = −$17.5M 𝒈𝒂𝒑 − − `o` ∆𝑵𝑰𝑰= 𝐼𝑛𝑐𝑜𝑚𝑒 × ∆𝑖= $1.6M $ 2.5M = $ 0.9M 𝑔𝑎𝑝
+`o` Income = _RSA_ − _RSL_ **=** $32.0M − $49.5M = −$17.5M gap − − `o` ∆NII= Income × ∆i= $1.6M $ 2.5M = $ 0.9M gap
 
-✓ Alternatively: `o` interest income = +5% - $32.0M `o` interest expense  = +5% - $49.5M `o` ∆𝑵𝑰𝑰= $1.6M − $ 2.5M **=** − **$ 0.9M**
+✓ Alternatively: `o` interest income = +5% - $32.0M `o` interest expense  = +5% - $49.5M `o` ∆NII= $1.6M − $ 2.5M **=** − **$ 0.9M**
 
 - = +$ 1.6M = +$ 2.5M
 
@@ -427,17 +427,17 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 3. then, compare the two to determine the duration of the bank’s net worth
 
-𝐶𝐹 𝑛 ~~∙~~ 𝑡 ✓ 𝑛 𝑃𝑉𝑡 σ𝑡=1 𝑡 1+𝑖(𝑡) Recall duration: 𝐷𝑈𝑅= σ𝑡=1 𝑡∙ 𝐶𝐹 𝑃𝑉 𝑛 𝑡 𝑇𝑂𝑇(=) σ𝑡=1 1+𝑖(𝑡) ✓ If the change in interest is small, then: Δ𝑃 Δ𝑖 %Δ𝑃= 𝑃(≈−𝐷𝑈𝑅×) 1 + 𝑖
+CF n ~~∙~~ t ✓ n PVt σt=1 t 1+i(t) Recall duration: DUR= σt=1 t∙ CF PV n t TOT(=) σt=1 1+i(t) ✓ If the change in interest is small, then: ΔP Δi %ΔP= P(≈−DUR×) 1 + i
 
-- ✓ Idea: similar approach here, but %∆𝑃 (rate of capital gain) is replaced with changes in the bank’s net worth
+- ✓ Idea: similar approach here, but %∆P (rate of capital gain) is replaced with changes in the bank’s net worth
 
 ## Duration Gap analysis: derivation
 
 ## ✓ Recall that duration is **additive**
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** MV MV J K = DUR × DUR + × DUR p J K MV + MV MV + MV J K J K
 
-`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ 𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴(× 𝐷𝑈𝑅)(𝑁𝑊)(+) 𝐴(× 𝐷𝑈𝑅)(𝐿) `o` it follows that: 𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊(×) 𝐴(× 𝐷𝑈𝑅)(𝐿)
+`o` by definition: NW= A−L , so A= NW+ L `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ NW L = DUR A A(× DUR)(NW)(+) A(× DUR)(L) `o` it follows that: A L = − DUR DUR NW A NW(×) A(× DUR)(L)
 
 7-39
 
@@ -445,15 +445,15 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 ## ✓ Recall that duration is **additive**
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 = 𝐷𝑈𝑅 × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐾 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** MV MV J K = DUR × DUR + × DUR p J K MV + MV MV + MV J K J K
 
-`o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_
+`o` by definition: NW= A−L , so A= NW+ L `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_
 
-𝑁𝑊 𝐿 = 𝐷𝑈𝑅 𝐴 𝐴(× 𝐷𝑈𝑅)(𝑁𝑊)(+) 𝐴(× 𝐷𝑈𝑅)(𝐿)
+NW L = DUR A A(× DUR)(NW)(+) A(× DUR)(L)
 
 `o` it follows that:
 
-𝐴 𝐿 = − 𝐷𝑈𝑅 𝐷𝑈𝑅 𝑁𝑊 𝐴 𝑁𝑊(×) 𝐴(× 𝐷𝑈𝑅)(𝐿)
+A L = − DUR DUR NW A NW(×) A(× DUR)(L)
 
 7-40
 
@@ -461,7 +461,7 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 ## ✓ Recall that duration is **additive**
 
-`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** 𝑀𝑉 𝑀𝑉 𝐽 𝐾 𝐷𝑈𝑅 = × 𝐷𝑈𝑅 + × 𝐷𝑈𝑅 𝑝 𝐽 𝐵 𝑀𝑉 + 𝑀𝑉 𝑀𝑉 + 𝑀𝑉 𝐽 𝐾 𝐽 𝐾 `o` by definition: 𝑁𝑊= 𝐴−𝐿 , so 𝐴= 𝑁𝑊+ 𝐿 `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ ^mxyigg
+`o` the duration of a portfolio ( _P=J+K_ ) is just a _(market) value_ **weighted** of duration of each asset: **average** MV MV J K DUR = × DUR + × DUR p J B MV + MV MV + MV J K J K `o` by definition: NW= A−L , so A= NW+ L `o` hence if you see _assets_ as a portfolio of _Net Worth + Liabilities:_ ^mxyigg
 
 `o` it follows that:
 
@@ -471,11 +471,11 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 ## Duration Gap Analysis
 
-- ✓ Definition: 𝐷𝑈𝑅 measures the of a bank ’ s Net 𝐺𝐴𝑃 _sensitivity_
+- ✓ Definition: DUR measures the of a bank ’ s Net GAP _sensitivity_
 
 - Worth (relative to the total value of assets) in response to changes in interest rates
 
-- ✓ _Important assumption_: ∆𝑖 is the same for all assets & liabilities (regardless of maturity structure)
+- ✓ _Important assumption_: ∆i is the same for all assets & liabilities (regardless of maturity structure)
 
 - ✓ _Recall_: values are market based!
 
@@ -485,19 +485,19 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 - so, interest rate changes can be **negatively or positively related** to changes in net worth
 
-- if 𝐷𝑈𝑅 > 0 𝐺𝐴𝑃 (normal case)
+- if DUR > 0 GAP (normal case)
 
 - liabilities have _relatively_ shorter duration than assets
 
-- - as 𝑖↑⟹𝑁𝑊↓
+- - as i↑⟹NW↓
 
 - in order to change this, the FI may sell assets with high duration and convert them into assets with lower duration, even though typically FI’s banks earn from mismatch: long duration assets and short duration liabilities!
 
-- if 𝐷𝑈𝑅 < 0 𝐺𝐴𝑃
+- if DUR < 0 GAP
 
 - liabilities have _relatively_ longer duration than assets
 
-- - as 𝑖↑⟹𝑁𝑊↑
+- - as i↑⟹NW↑
 
 - ✓ In either case, the duration gap measures FI’s **net worth** exposure to interest-rate risk
 
@@ -515,9 +515,9 @@ _sensitivity of a bank’s net worth to interest rate risk_
 
 ## **Q1**: what is this bank’s duration gap?
 
-50 50 **A1**: 𝐷𝑈𝑅 = 0.5 × 𝐴 100(+ 5 ×) 100(= 2.75) 80 10 = 𝐷𝑈𝑅 0.3 × 𝐿 90(+ 5 ×) 90(= 0.82)
+50 50 **A1**: DUR = 0.5 × A 100(+ 5 ×) 100(= 2.75) 80 10 = DUR 0.3 × L 90(+ 5 ×) 90(= 0.82)
 
-𝐿 90 − 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐺𝐴𝑃 𝐴 𝐴(𝐷𝑈𝑅)(𝐿)(= 2.75 −) 100(× 0.82 = 2.01)
+L 90 − DUR = DUR GAP A A(DUR)(L)(= 2.75 −) 100(× 0.82 = 2.01)
 
 ## Duration Gap analysis: exercise 1
 
@@ -553,9 +553,9 @@ With total assets of €100, this translates into a €1.83 negative change in t
 
 ## Targeting Duration Gap
 
-- ✓ Note that if an FI perfectly matched the duration of assets 𝑫𝑼𝑹 ≈𝟎
+- ✓ Note that if an FI perfectly matched the duration of assets DUR ≈0
 
-- and liabilities then it would have little IRR ( 𝑮𝑨𝑷 )
+- and liabilities then it would have little IRR ( GAP )
 
 - ✓ But this is unlikely:
 

@@ -113,41 +113,41 @@ What causes the big fluctuations of the market? The major booms and crashes of t
 
 - 2 options: a 1 year bond and a stock
 
-= €𝑄𝑡 _Ex-dividend price_ of a stock at time t, after the 𝑖1𝑡 payment of current period dividend => the next dividend will be at t+1
+= €Qt _Ex-dividend price_ of a stock at time t, after the i1t payment of current period dividend => the next dividend will be at t+1
 
 _t t+1_ Returns from holding Amount invested the asset for one year 1 YEAR BOND 1€ €
 
-Certain return 1 + 𝑖 € 1𝑡
+Certain return 1 + i € 1t
 
 STOCK 1€
 
-𝑒
+e
 
-- 1) You receive the dividend €𝐷𝑡+1𝑒 2) You  can resell the asset on the stock market at the expected price  prevailing on the stock market  next 𝑒
+- 1) You receive the dividend €Dt+1e 2) You  can resell the asset on the stock market at the expected price  prevailing on the stock market  next e
 
-- year €𝑄𝑡+1
+- year €Qt+1
 
 ## Stocks are riskier assets wrt bonds:
 
 both dividends and future prices are unknown at time t =>  investors require compensation for the higher risk
 
-## 𝑥 equity premium,
+## x equity premium,
 
 The 1 year expected return of the stock must be grater that the return of a bond in order to trade both assets (arbitrage condition)
 
-€𝐷𝑡+1𝑒 + €𝑄𝑡+1𝑒 = 1 + i1t + x €𝑄𝑡 1 year expected Return of a Equity Risk return of a stock risk-free bond premium
+€Dt+1e + €Qt+1e = 1 + i1t + x €Qt 1 year expected Return of a Equity Risk return of a stock risk-free bond premium
 
 Rearranging:
 
-€𝐷𝑡+1𝑒 €𝑄𝑡+1𝑒 Price is the expected PDV €𝑄𝑡 = 1 + 𝑖1𝑡 + 𝑥 + 1 + 𝑖1𝑡 + 𝑥 of future payments PDV of dividends PDV of the price at which expected for the next the stock can be sold period next year
+€Dt+1e €Qt+1e Price is the expected PDV €Qt = 1 + i1t + x + 1 + i1t + x of future payments PDV of dividends PDV of the price at which expected for the next the stock can be sold period next year
 
-Repeating the intuition for the next year and the subsequent  one, assuming 𝑛 high enough, we can write:
+Repeating the intuition for the next year and the subsequent  one, assuming n high enough, we can write:
 
 The stock price is the expected present discounted value of future expected dividends:
 
 it is the fundamental value of the stock - it reflects the underlying fundamentals of the economy
 
-€𝑄𝑡 = 𝑓(€𝐷𝑡+1𝑒 , 𝑖1𝑡, 𝑖1𝑡+1𝑒 , 𝑖1𝑡+2𝑒 , … . 𝑥)
+€Qt = f(€Dt+1e , i1t, i1t+1e , i1t+2e , … . x)
 
 Current price of stocks increases if the relative demand of stocks increases
 
@@ -155,13 +155,13 @@ Current price of stocks increases if the relative demand of stocks increases
 
 If expected GDP ↑⇒€D(e) ↑⇒ stocks more attractive for investors => ↑ demand for stocks => €Qt ↑
 
-- Lower current and expected future one-year real interest rates lead to a higher  real stock price: If 𝑖↓ and/or 𝑖(𝑒) ↓⇒ bonds are less appealing for investors that ask for more stocks and less bonds _=>_ €𝑄𝑡 ↑ ^guo7gh
+- Lower current and expected future one-year real interest rates lead to a higher  real stock price: If i↓ and/or i(e) ↓⇒ bonds are less appealing for investors that ask for more stocks and less bonds _=>_ €Qt ↑ ^guo7gh
 
-Or symmetrically, given the expected dividends their PDV increases, to hold a stock becomes worthwhile for investors, they ask for more stocks => => € 𝑄𝑡 ↑
+Or symmetrically, given the expected dividends their PDV increases, to hold a stock becomes worthwhile for investors, they ask for more stocks => => € Qt ↑
 
 - A lower risk premium leads to a higher stock price
 
-If 𝑥↓⇒ agents less risk averse => ask for more stocks => € 𝑄𝑡 ↑
+If x↓⇒ agents less risk averse => ask for more stocks => € Qt ↑
 
 ## THE STOCK MARKET AND THE ECONOMY
 
@@ -183,9 +183,9 @@ Not incorporated in the current value of stocks
 
 - the stock market reacts
 
-- ∆€𝑄𝑡 ≠0
+- ∆€Qt ≠0
 
-- ∆€𝑄𝑡 =0
+- ∆€Qt =0
 
 2) Announced changes in the economy are CREDIBLE or NOT CREDIBLE
 
@@ -217,7 +217,7 @@ In t+1 no changes are expected => no effect on the stock market
 
 Overall ,
 
-## ∆€𝑄𝑡 >0
+## ∆€Qt >0
 
 - the fundamentals behind the stock change in an unexpected way and the stock market reacts
 
@@ -231,7 +231,7 @@ Since these changes were already expected by agents the stock market does not re
 
 - No changes in the price of stocks
 
-- ∆€𝑄𝑡 = 0
+- ∆€Qt = 0
 
 ## TRUE OR FALSE
 
@@ -259,7 +259,7 @@ In t,  the short term interest rate ↓ and given future expected dividends, the
 
 In t in an unexpected way output ↓: - Firms expected profits ↓ - Stream of expected dividends ↓ - stocks less attractive for investors - their demand ↓ - their current price ↓
 
-In period 𝑡 , the central bank announces a monetary contraction to be implemented in 𝑡 +1. Assuming the announcement has no impact on today's economy and was not expected by financial markets, stock prices would decrease. ^yvytni
+In period t , the central bank announces a monetary contraction to be implemented in t +1. Assuming the announcement has no impact on today's economy and was not expected by financial markets, stock prices would decrease. ^yvytni
 
 False
 
@@ -275,13 +275,13 @@ False
 
 - No changes in expectations
 
-𝑌(𝑒) ↓𝑖(𝑒) ↑
+Y(e) ↓i(e) ↑
 
 - No changes in fundamentals
 
-€𝑄𝑡 ↓
+€Qt ↓
 
-= €Δ𝑄𝑡
+= €ΔQt
 
 Stock prices change, even if **nothing** happens **today**
 

@@ -31,11 +31,11 @@ d) the yield to maturity is 11%
 
 ## EX 4
 
-Consider a perpetuity with annual coupon of 𝐶, initial price 𝑃0 and interest rate 𝑖0.  If the interest rate doubles, what’s the new price 𝑃1 of the perpetuity?
+Consider a perpetuity with annual coupon of C, initial price P0 and interest rate i0.  If the interest rate doubles, what’s the new price P1 of the perpetuity?
 
-a) 𝑃0 ∗2
+a) P0 ∗2
 
-b) 𝐶/2 c) 𝑃0 d) 𝑃0/2
+b) C/2 c) P0 d) P0/2
 
 ## Related Notes
 - Chapter 3

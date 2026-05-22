@@ -176,7 +176,7 @@ IB also can **advise** on type, price and date of issuance ✓ **What** type (st
 
 **Q**: if PE industry ratios are high and interest rates are high, should you issue stocks or bonds?
 
-**A**: stocks (high 𝑃𝑆 ) rather than bonds (low 𝑃𝐵 , bcs 𝑖𝐵 is high)
+**A**: stocks (high PS ) rather than bonds (low PB , bcs iB is high)
 
 ## Underwriting Stocks and Bonds: 2. Giving advice
 
@@ -186,7 +186,7 @@ IB also can **advise** on type, price and date of issuance ✓ **What** type (st
 
 **Q**: if PE industry ratios are high and interest rates are high, should you issue stocks or bonds?
 
-- **A**: stocks (high 𝑃𝑆 ) rather than bonds (low 𝑃𝐵 , bcs 𝑖𝐵 is high)
+- **A**: stocks (high PS ) rather than bonds (low PB , bcs iB is high)
 
 ## ✓ **When** to issue?
 
@@ -198,7 +198,7 @@ Explain current market conditions
 
 ✓ **What** type (stocks or bonds) to issue? **Q**: if PE industry ratios are high and interest rates are high, should you issue stocks or bonds?
 
-**A**: stocks (high 𝑃𝑆 ) rather than bonds (low 𝑃𝐵 , bcs 𝑖𝐵 is high)
+**A**: stocks (high PS ) rather than bonds (low PB , bcs iB is high)
 
 ## ✓ **When** to issue?
 
@@ -220,7 +220,7 @@ Explain current market conditions
 
 **Q**: if PE industry ratios are high and interest rates are high, should you issue stocks or bonds?
 
-**A**: stocks (high 𝑃𝑆 ) rather than bonds (low 𝑃𝐵 , bcs 𝑖𝐵 is high)
+**A**: stocks (high PS ) rather than bonds (low PB , bcs iB is high)
 
 ## ✓ **When** to issue?
 

@@ -20,21 +20,21 @@ Processed: false
 
 on a Hypothesis **(statistical) testing**: procedure for assessing whether a given **hypothesis population parameter θ** is **supported by** the **available empirical evidence.**
 
-A **statistical hypothesis** is a statement about a measurable characteristic of a population, i.e. it is a statement about a the **parameter θ of a population** described by a r.v. 𝑿 (or about the a number of parameters of several populations)
+A **statistical hypothesis** is a statement about a measurable characteristic of a population, i.e. it is a statement about a the **parameter θ of a population** described by a r.v. X (or about the a number of parameters of several populations)
 
 - Hypotheses on a population mean or the proportion of cases with a certain characteristic
 
 - Simple hypothesis: **μ** = 350 / specifies a single value for the parameter
 
-- One-sided composite hypothesis: 𝒑 ≥ 0.6 / specifies a set of values for the parameter
+- One-sided composite hypothesis: p ≥ 0.6 / specifies a set of values for the parameter
 
 - Hypotheses about the difference between the means or proportions of two populations
 
-- Simple hypothesis: 𝛍𝑿 = 𝛍𝒀 or 𝛍𝑿 −𝛍𝒀 = 0
+- Simple hypothesis: μX = μY or μX −μY = 0
 
-- One-sided composite hypothesis: 𝛍𝑿 ≤𝛍𝒀 or 𝛍𝑿 −𝛍𝒀 ≤0
+- One-sided composite hypothesis: μX ≤μY or μX −μY ≤0
 
-- Bilateral composite hypothesis: 𝒑𝑿 ≠𝒑𝒀 o 𝒑𝑿 −𝒑𝒀 - 0
+- Bilateral composite hypothesis: pX ≠pY o pX −pY - 0
 
 - Hypotheses on the relationship between two variables
 
@@ -48,7 +48,7 @@ A **statistical hypothesis** is a statement about a measurable characteristic of
 
 Note that we will **never be able to determine whether a hypothesis about θ is** _**true**_ **or** _**false**_ , because **the true value of θ is unknown** and hypothesis testing is based on a **specific sample** drawn from the population.
 
-Hypothesis testing **does not allow to conclude** whether a **hypothesis is true or false** . It is rather a procedure for **assessing whether or not** the observations in the random sample, 𝑋1, 𝑋2, … , 𝑋𝑛 , drawn from the population **support a hypothesis on θ.**
+Hypothesis testing **does not allow to conclude** whether a **hypothesis is true or false** . It is rather a procedure for **assessing whether or not** the observations in the random sample, X1, X2, … , Xn , drawn from the population **support a hypothesis on θ.**
 
 To determine whether or not the empirical evidence supports a hypothesis about **θ,** hypothesis testing contrasts **two mutually exclusive hypotheses concerning θ** and assesses whether the observed sample realisation is more favourable to one hypothesis or to the other.
 
@@ -74,13 +74,13 @@ Statistical hypotheses can be **simple** (specifying a single value, e.g. **θ =
 
 A **statistical test** is a procedure for contrasting two hypotheses **H0** and **H1** and assessing, on the basis of the empirical evidence, whether to trust one hypothesis or the other, i.e. whether to - Accept (or fail to reject) **H0** (and thus reject **H1** ) or - Reject **H0** (and thus accept **H1)**
 
-= A **statistical H H test statistic** 𝛉(෡) test for testing two hypotheses **0** and **1** is typically based on a 𝑓 𝑿1, … , 𝑿𝑛 . **The distribution of** 𝛉(෡) **depends on θ, and it is fully determined if θ is known** . A test based on the **test statistic** 𝛉(෡) defines a **rejection** (or **critical** ) **region.** The rejection region includes all the samples corresponding to realisations of 𝛉(෡) , i.e. 𝝑(෡) = 𝑓 𝑥1, … , 𝑥𝑛 , that are unfavourable to **H0** and thus lead to **rejecting H0** in favour of **H1** .Defining the rejection region implies defining an **acceptance** region. This region includes all the samples leading to realisations 𝝑(෡) = 𝑓 𝑥1, … , 𝑥𝑛 that are favourable to **H0** (thus leading to not rejecting **H0** and rejecting **H1** )
+= A **statistical H H test statistic** θ\hat{P} test for testing two hypotheses **0** and **1** is typically based on a f X1, … , Xn . **The distribution of** θ\hat{P} **depends on θ, and it is fully determined if θ is known** . A test based on the **test statistic** θ\hat{P} defines a **rejection** (or **critical** ) **region.** The rejection region includes all the samples corresponding to realisations of θ\hat{P} , i.e. θ\hat{P} = f x1, … , xn , that are unfavourable to **H0** and thus lead to **rejecting H0** in favour of **H1** .Defining the rejection region implies defining an **acceptance** region. This region includes all the samples leading to realisations θ\hat{P} = f x1, … , xn that are favourable to **H0** (thus leading to not rejecting **H0** and rejecting **H1** )
 
 ## Statistical test: Type I and Type II Errors
 
-𝛉 are with The inferential problem arises because typically some realisations of(෡) **compatible** both the hypotheses being compared. No test to discriminate between two hypotheses **H0** and **H1** is therefore error-free, because hypothesis testing relies on **a sample** ! - Concluding in favour of a hypothesis, e.g. **H0** (resp. **H1** ) **does not imply** that **H0** (resp. **H1** ) **is true and H1** (resp. **H1** ) is **false** . We can only say that on the basis of the sample it seems more appropriate to work under the assumption that **H0** (resp. **H1** ) is true rather than false. - It is crucial to assess the risks associated with the decision made on the basis of a certain test (in the light of the empirical evidence, i.e. the observed sample). The following situations may arise:
+θ are with The inferential problem arises because typically some realisations of\hat{P} **compatible** both the hypotheses being compared. No test to discriminate between two hypotheses **H0** and **H1** is therefore error-free, because hypothesis testing relies on **a sample** ! - Concluding in favour of a hypothesis, e.g. **H0** (resp. **H1** ) **does not imply** that **H0** (resp. **H1** ) **is true and H1** (resp. **H1** ) is **false** . We can only say that on the basis of the sample it seems more appropriate to work under the assumption that **H0** (resp. **H1** ) is true rather than false. - It is crucial to assess the risks associated with the decision made on the basis of a certain test (in the light of the empirical evidence, i.e. the observed sample). The following situations may arise:
 
-|**State of nature** **(never known as** 𝛉**is not known)**|**Statistical decision(based on a sample)**|**Statistical decision(based on a sample)**|
+|**State of nature** **(never known as** θ**is not known)**|**Statistical decision(based on a sample)**|**Statistical decision(based on a sample)**|
 |---|---|---|
 |**Reject H0**|**Fail to reject H0**|
 |**H0 is true**|**Type I error**|**_Correct decision_**|
@@ -162,37 +162,37 @@ We are interested in assessing whether the promotional campaign is effective or 
 
 To build a **statistical test,** it is necessary to identify a **test statistic whose distribution depends on the parameter being inferred and which is fully determined if that parameter is known** Being interested in making inferences about the expected value, **μ** , it is natural to discriminate between the two hypotheses based on the **sample mean.**
 
-No assumptions were made about the distribution of profitability; however, the sample size is sufficiently large (50) to approximate the distribution of 𝑿(ഥ) with a normal distribution. Regardless the assumptions about the distribution of profitability, we have:
+No assumptions were made about the distribution of profitability; however, the sample size is sufficiently large (50) to approximate the distribution of \bar{X} with a normal distribution. Regardless the assumptions about the distribution of profitability, we have:
 
-ഥ ഥ 𝑿~𝓝( **μ** , 𝛔(𝟐) /𝒏 ) → 𝑿~𝓝( **μ** , 𝟏𝟕𝟎/𝟓𝟎 )= 𝓝( **μ** , 𝟑. 𝟒 )
+\bar{X} \bar{X}~N( **μ** , σ(2) /n ) → X~N( **μ** , 170/50 )= N( **μ** , 3. 4 )
 
 as the variance is assumed to be known and equal to 170 both pre and post campaign. Note that the distribution of the test statistic is **completely known** , except for the parameter **μ** , which has to be tested.
 
 ## The test statistic
 
-**Test statistic and its distribution** Test statistic: 𝑿~𝓝((ഥ) **μ** , 𝟏𝟕𝟎/𝟓𝟎 ) = 𝓝( **μ** , 𝟑. 𝟒 )
+**Test statistic and its distribution** Test statistic: X~N((\bar{X}) **μ** , 170/50 ) = N( **μ** , 3. 4 )
 
-The distribution of 𝑿(ഥ) describes the realisations of 𝑿(ഥ) , ഥ𝒙 , calculated based on all possible 𝑿 . samples that can be drawn from Under the assumption that **μ** is equal to a **specific** value, the distribution of 𝑿(ഥ) is fully known, and it is therefore possible to assess the probability of observing sample realisations in specific intervals
+The distribution of \bar{X} describes the realisations of \bar{X} , \bar{x} , calculated based on all possible X . samples that can be drawn from Under the assumption that **μ** is equal to a **specific** value, the distribution of \bar{X} is fully known, and it is therefore possible to assess the probability of observing sample realisations in specific intervals
 
 **μ**
 
 ## Sample realisations and statistical decision-making
 
-Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** 𝑿(ഥ) , under the two hypotheses
+Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** \bar{X} , under the two hypotheses
 
-𝑿ഥ **|(μ = μ0)** 𝑿ഥ **|(μ = μ1) μ0 = 15 μ1 = 21**
+\bar{X} **|(μ = μ0)** \bar{X} **|(μ = μ1) μ0 = 15 μ1 = 21**
 
-To build a test for **H vs H** we need to **0 1** establish which sample realisations of 𝑿(ഥ) **H .** should lead to the rejection of **0** To do so, we consider the ‘distance’ of the realisations from what we expect to observe when **H is true** and we establish **when the 0 empirical evidence is too** ‘far’ **from H0 to be considered favourable to it, i.e. when it is unlikely that the observed sample was drawn from a population with** 𝛍 **=** 𝛍 **0 and it should be considered more likely that the observed sample was drawn from a population with μ = μ1**
+To build a test for **H vs H** we need to **0 1** establish which sample realisations of \bar{X} **H .** should lead to the rejection of **0** To do so, we consider the ‘distance’ of the realisations from what we expect to observe when **H is true** and we establish **when the 0 empirical evidence is too** ‘far’ **from H0 to be considered favourable to it, i.e. when it is unlikely that the observed sample was drawn from a population with** μ **=** μ **0 and it should be considered more likely that the observed sample was drawn from a population with μ = μ1**
 
 ## Sample realisations and statistical decision-making
 
-Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** 𝑿(ഥ) , under the two hypotheses
+Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** \bar{X} , under the two hypotheses
 
-𝑿ഥ **|(μ = μ0)** 𝑿ഥ **|(μ = μ1)**
+\bar{X} **|(μ = μ0)** \bar{X} **|(μ = μ1)**
 
-Whice sample realisations of 𝑿(ഥ) are 'far' from **H ? 0**
+Whice sample realisations of \bar{X} are 'far' from **H ? 0**
 
-Note that **having defined the alternative hypothesis for H0:** 𝛍 **=** 𝛍 **0 = 15** allows to identify **which sample realisations are 'critical' for H0** , i.e. more **favourable to H1 than to H . 0**
+Note that **having defined the alternative hypothesis for H0:** μ **=** μ **0 = 15** allows to identify **which sample realisations are 'critical' for H0** , i.e. more **favourable to H1 than to H . 0**
 
 **These are those far from H0** _**in the direction towards**_ **H . 1**
 
@@ -202,19 +202,19 @@ Note that **having defined the alternative hypothesis for H0:** 𝛍 **=** 𝛍 
 
 ## Sample realisations and statistical decision-making
 
-Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** 𝑿(ഥ) , under the two hypotheses
+Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** \bar{X} , under the two hypotheses
 
-Which sample realisations of 𝑿(ഥ) should be considered 'too far' from **H ? 0**
+Which sample realisations of \bar{X} should be considered 'too far' from **H ? 0**
 
-It is necessary to define a **rejection region** based on a **critical value** ഥ𝒙 ***** that determines for which **values of** ഥ𝒙 **the null hypothesis H0 should be rejected.**
+It is necessary to define a **rejection region** based on a **critical value** \bar{x} ***** that determines for which **values of** \bar{x} **the null hypothesis H0 should be rejected.**
 
-**In this case, it is reasonable to reject H0 when the value of** ഥ𝒙 **is** _**extreme**_ **under H0 in the direction of H 1 Rejection region:** 𝒙>ഥ ഥ𝒙 *****
+**In this case, it is reasonable to reject H0 when the value of** \bar{x} **is** _**extreme**_ **under H0 in the direction of H 1 Rejection region:** x>\bar{X} \bar{x} *****
 
-**How to choose** ഥ𝒙 ***?**
+**How to choose** \bar{x} ***?**
 
 ## Type I Error, Type II Error and their probability
 
-Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** 𝑿(ഥ) , under the two hypotheses
+Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on the **parameter μ** , and the distributions of the **test statistic,** \bar{X} , under the two hypotheses
 
 - **Building the rejection region given**
 
@@ -224,9 +224,9 @@ Let us consider the two hypotheses **H0: μ = μ0 = 15 vs H1: μ = μ1 = 21** on
 
 Test for **H0: μ = 15 vs H1: μ = 21.**
 
-= **Rejection region:** ഥ𝒙> ഥ𝒙𝛂(𝟎) **with** ഥ𝒙𝛂(𝟎) percentile of order (1 - - ) of 𝓝( **μ0** , 𝛔(𝟐) /𝒏 ) = 𝓝(𝟏𝟓, 𝟑. 𝟒 ) By the relationship between the percentiles of a normal distribution and those of a standardised normal distribution we have:
+= **Rejection region:** \bar{x}> \bar{x}α(0) **with** \bar{x}α(0) percentile of order (1 - - ) of N( **μ0** , σ(2) /n ) = N(15, 3. 4 ) By the relationship between the percentiles of a normal distribution and those of a standardised normal distribution we have:
 
-= ∙ = = ∙ ഥ𝒙𝛂(𝟎) **μ0** +𝒛𝛂 𝛔(𝟐) /𝒏 **μ0** +𝒛𝛂 ∙𝑺𝑬(𝑿)(ഥ) **15** +𝒛𝛂 𝟑. 𝟒 Thus, we can define the **rejection region** as **:** ഥ𝒙> **15** + 𝒛𝛂 ∙ 𝟑. 𝟒 - **=0.01? What is the rejection region if you set**
+= ∙ = = ∙ \bar{x}α(0) **μ0** +zα σ(2) /n **μ0** +zα ∙SE(X)(\bar{X}) **15** +zα 3. 4 Thus, we can define the **rejection region** as **:** \bar{x}> **15** + zα ∙ 3. 4 - **=0.01? What is the rejection region if you set**
 
 ```
 > # Only for verification
@@ -236,7 +236,7 @@ Test for **H0: μ = 15 vs H1: μ = 21.**
 (1) 19.28957
 ```
 
-→ **Rejection region:** ഥ𝒙> 𝟏𝟗. 𝟐𝟗 _We reject_ **H0** _, and we conclude in favour of the hypothesis that the campaign is effective if the sample drawn has a sample mean greater than 19.29_
+→ **Rejection region:** \bar{x}> 19. 29 _We reject_ **H0** _, and we conclude in favour of the hypothesis that the campaign is effective if the sample drawn has a sample mean greater than 19.29_
 
 ```
 > # We will use this:
@@ -250,9 +250,9 @@ Test for **H0: μ = 15 vs H1: μ = 21.**
 ## Probability of type II error
 
 Test with - **=** 0.01 the hypotheses **H0: μ = 15 vs H1: μ = 21;
-- Rejection region:** ഥ𝒙> 𝟏𝟗. 𝟐𝟗
+- Rejection region:** \bar{x}> 19. 29
 
-**What probability of not launching the campaign when in fact it would have been effective?** We want to calculate the probability of **concluding** (on the basis of the test) **that the campaign is ineffective** when in fact it would have ensured the **required average profitability, i.e. 21.** This is the **probability of committing a type II error, and consists of failing to reject H0 (the campaign does not increase average profitability) when it is false (and H1 is true):** ഥ 𝛃= 𝑃 𝑿≤𝟏𝟗. 𝟐𝟗 **μ** = 𝟐𝟏= 𝑷(𝒁≤(𝟏𝟗. 𝟐𝟗−𝟐𝟏)/ 𝟑. 𝟒))
+**What probability of not launching the campaign when in fact it would have been effective?** We want to calculate the probability of **concluding** (on the basis of the test) **that the campaign is ineffective** when in fact it would have ensured the **required average profitability, i.e. 21.** This is the **probability of committing a type II error, and consists of failing to reject H0 (the campaign does not increase average profitability) when it is false (and H1 is true):** \bar{β}= P X≤19. 29 **μ** = 21= P(Z≤(19. 29−21)/ 3. 4))
 
 - **`beta<-pnorm(19.29,mean=21,sd=sqrt(3.4))`**
 
@@ -269,7 +269,7 @@ Test with - **=** 0.01 the hypotheses **H0: μ = 15 vs H1: μ = 21;
 ## Hypotheses and empirical evidence
 
 Test with - **=** 0.01 the hypotheses **H0: μ = 15 vs H1: μ = 21;
-- Rejection region:** ഥ𝒙> 𝟏𝟗. 𝟐𝟗
+- Rejection region:** \bar{x}> 19. 29
 
 **A sample of 50 customers is offered the promotion and (after an appropriate observation period) an average profitability of 17.9 was found. What is the decision?** The observed sample mean is greater than 15, but it **does not** fall into the rejection region. Thus, **H0** is not rejected: there is insufficient empirical evidence to conclude that the promotion would guarantee an average profitability of 21 (i.e. the observed sample mean, 17.9 is more compatible with **H0** than with **H1** , given the chosen significance level) **Consider the statement: "The probability that the decision (based on the observed sample) not to reject H0 - i.e. not to launch the campaign - is wrong is 0.1768 (that is,** - **)"** The statement is false because is unknown and it which of the two **μ is not possible to know** hypotheses is actually true. The mentioned probability **does not** refer to the decision made on the basis of a **specific** sample (the observed one), **but** to the decision made on the basis of a **generic sample.** - **can be interpreted as the % of samples with sample means wrongly** - **! leading to not reject H0. Similar interpretation for**
 
@@ -294,11 +294,11 @@ Another popular way to test hypotheses, implemented by statistical software, is 
 ## Observed significance level (p-value)
 
 Test with - =0.01 to test **H0: μ = 15 vs H1: μ = 21;
-- Rejection region:** ഥ𝒙> 𝟏𝟗. 𝟐𝟗 **Sample mean of the drawn sample:** ഥ𝒙 **= 17.9. Determine the p-value.**
+- Rejection region:** \bar{x}> 19. 29 **Sample mean of the drawn sample:** \bar{x} **= 17.9. Determine the p-value.**
 
-𝑿ഥ **|(μ = μ0)** 𝑿ഥ **|(μ = μ1) μ0 = 15 = 17.9 μ1 = 21**
+\bar{X} **|(μ = μ0)** \bar{X} **|(μ = μ1) μ0 = 15 = 17.9 μ1 = 21**
 
-**The 'critical tail' for H is the one in the 0 direction of H1 (here, the right tail). Thus the most extreme values (i.e. sample means) are those greater than** ഥ **the observed sample mean,** 𝒙 **= 17.9. The p-value is** 𝑿> 𝟏𝟕. 𝟗 = 𝟏𝟓= 𝑷((ഥ) **μ** = 𝑷(𝒁> (𝟏𝟕. 𝟗−𝟏𝟓)/ 𝟑. 𝟒)
+**The 'critical tail' for H is the one in the 0 direction of H1 (here, the right tail). Thus the most extreme values (i.e. sample means) are those greater than** \bar{X} **the observed sample mean,** x **= 17.9. The p-value is** X> 17. 9 = 15= P((\bar{X}) **μ** = P(Z> (17. 9−15)/ 3. 4)
 
 ```
 > pvalue<-1-pnorm(17.9,mean=15,sd=sqrt(3.4))
@@ -319,7 +319,7 @@ Test with - =0.01 to test **H0: μ = 15 vs H1: μ = 21;
 ## Observed significance level (p-value)
 
 Test with - =0.01 to test **H0: μ = 15 vs H1: μ = 21;
-- Rejection region:** ഥ𝒙> 𝟏𝟗. 𝟐𝟗. **Sample mean of the drawn sample: = 17.9; p-value=0.05789**
+- Rejection region:** \bar{x}> 19. 29. **Sample mean of the drawn sample: = 17.9; p-value=0.05789**
 
 The p-value **quantifies how** _**extreme**_ **the observed sample is under H0 (in the direction of H1** ) while - actually indicates the 'anomaly level' the researcher is willing to accept. **-** - A - **high p-value** - in particular **greater than** indicates that the observed sample is not particularly anomalous and is in any case less extreme than the threshold defined on the basis of - **. H** It indicates that the empirical evidence **supports H0** more than **1** - A **less than** - **low p-value** - in particular - indicates that it is very unlikely (or at least more - **H** unlikely than what is tolerable on the basis of ) to extract a sample less favourable to **0** than the one observed, given a population whose parameter (here the mean) is the one **H H** . specified by **0** ! It therefore leads to reject **0**
 
@@ -347,15 +347,15 @@ On the other hand, the rejection region approach is more suitable when a test wi
 
 - How does the test (the rejection region) **with significance level** change when we consider the hypotheses **H0: μ ≤ μ0 and H1: μ = μ1 (i.e. if H0 is composite rather than simple)** ?
 
-ഥ ഥ ഥ𝑿 **|(μ = μ'0 )** 𝑿 **|(μ = μ )0** 𝑿 **|(μ = μ )1**
+\bar{X} \bar{X} \bar{X} **|(μ = μ'0 )** X **|(μ = μ )0** X **|(μ = μ )1**
 
-The rejection region shape **does not change: rejection region:** ഥ𝒙> ഥ𝒙 *** The critical** tail is still the **right tail:** very **high** ഥ values of 𝒙 still **point to H1** and lead to the **. rejection of H0**
+The rejection region shape **does not change: rejection region:** \bar{x}> \bar{x} *** The critical** tail is still the **right tail:** very **high** \bar{v}_{a}lues of x still **point to H1** and lead to the **. rejection of H0**
 
-ഥ Furthermore, for any 𝒙 ***, we note that if we consider ' μ 0 < μ 0**
+\bar{F}_{u}rthermore, for any x ***, we note that if we consider ' μ 0 < μ 0**
 
 **μ0 = 15 μ1 = 21**
 
-𝑷(𝑿>(ഥ) ഥ𝒙 ***| μ = μ’0** ) < 𝑷(𝑿>(ഥ) ഥ𝒙 ***| μ = μ0** ) **Thus most critical value for H μ0 is the 0 as it is the one 'closest' to H . 1**
+P(X>(\bar{X}) \bar{x} ***| μ = μ’0** ) < P(X>(\bar{X}) \bar{x} ***| μ = μ0** ) **Thus most critical value for H μ0 is the 0 as it is the one 'closest' to H . 1**
 
 **The probability of incurring a type I error (as well as the p-value) is highest when μ = μ0! Thus, the rejection region and the critical value are the same as those used to test H0: μ = μ0 vs H1: μ = μ1**
 
@@ -363,13 +363,13 @@ The rejection region shape **does not change: rejection region:** ഥ𝒙> ഥ�
 
 - How does the test (the rejection region) **with significance level** change when we consider the hypotheses **H0: μ ≤ μ0 and H1: μ > μ0 (i.e. if both H0 and H1 are composite)** ?
 
-ഥ𝑿 **|(μ = μ0)**
+\bar{X} **|(μ = μ0)**
 
-Here **H1** does not specify any value for - **; even so, the shape of the rejection region depends on the relationship between H0 and H1!** The rejection region’s **does not change Rejection region:** 𝒙>ഥ ഥ𝒙 ***** ഥ very **high** values of 𝒙 still **point to H1** and lead to the **rejection of H0**
+Here **H1** does not specify any value for - **; even so, the shape of the rejection region depends on the relationship between H0 and H1!** The rejection region’s **does not change Rejection region:** x>\bar{X} \bar{x} ***** \bar{v}_{e}ry **high** values of x still **point to H1** and lead to the **rejection of H0**
 
 **μ0 = 15**
 
-**The value of** ഥ𝒙 *** is based on H0 , on the direction of H1, and on the most critical value for H0, which is the one 'closest' to H1, that is still μ0! Thus, the test is identical to that built to verify H 0: μ = μ0 vs H1: μ = μ1 > μ0**
+**The value of** \bar{x} *** is based on H0 , on the direction of H1, and on the most critical value for H0, which is the one 'closest' to H1, that is still μ0! Thus, the test is identical to that built to verify H 0: μ = μ0 vs H1: μ = μ1 > μ0**
 
 ## One-sided left-tailed test: Efficiency of a call centre
 
@@ -393,31 +393,29 @@ Assume **μ ≥ 8 unless the empirical evidence is clearly against this assumpti
 
 We want to test the two **composite** hypotheses **H0: μ ≥ 8 vs H1: μ < 8** .
 
-ഥ𝑿 **|(μ = μ0)**
+\bar{X} **|(μ = μ0)**
 
-In this case, the **critical tail for the null hypothesis is the left tail.** The shape of the rejection region **is: Rejection region:** 𝒙<ഥ ഥ𝒙 ***** relatively **small** values **of** ഥ𝒙 will lead to **lean towards H1** and **reject H0.**
+In this case, the **critical tail for the null hypothesis is the left tail.** The shape of the rejection region **is: Rejection region:** x<\bar{X} \bar{x} ***** relatively **small** values **of** \bar{x}_{w}ill lead to **lean towards H1** and **reject H0.**
 
 **μ0 = 8**
 
-**The determination of** ഥ𝒙 *** is based on H0, on the direction of H1, and on the most critical value for H0, that is the one 'closest' to H1, which is . μ=80**
+**The determination of** \bar{x} *** is based on H0, on the direction of H1, and on the most critical value for H0, that is the one 'closest' to H1, which is . μ=80**
 
 ## One-sided left-tailed test: rejection region
 
 We want to test the two **composite** hypotheses **H0: μ ≥ 8 vs H1: μ < 8** . **Which rejection** - **? region set, given the significance level**
 
-**The critical value** ഥ𝒙 *** is chosen such that the maximum $$$P(Reject H0|H0 is true)$$$** ഥ **=** Pr( 𝑿≤(ഥ) 𝒙 ***** | **μ=μ0** ) **=** - This condition is met when
+**The critical value** \bar{x} *** is chosen such that the maximum $P(Reject H0|H0 is true)$** \bar{X} **=** Pr( X≤(\bar{X}) x ***** | **μ=μ0** ) **=** - This condition is met whe\bar{n} \bar{X} 0 x **=** x ***** 1−α
 
-ഥ ഥ 𝟎 𝒙 **=** 𝒙 ***** 𝟏−𝛂
+- of the distribution of the percentile of order \bar{X} **when with μ=μ0**
 
-- of the distribution of the percentile of order ഥ 𝑿 **when with μ=μ0**
-
-ഥ 𝑿 **|(μ=μ0)** ~𝓝( **μ0** , 𝛔(𝟐) /𝒏 )= 𝓝(𝟖, 𝟗/𝟓𝟎 ) (remember that σ =3 and 𝑛 =50).
+\bar{X} **|(μ=μ0)** ~N( **μ0** , σ(2) /n )= N(8, 9/50 ) (remember that σ =3 and n =50).
 
 - **One-sided left-tailed test: rejection region at level**
 
 Test for **H0: μ ≥ 8 vs H1: μ < 8.**
 
-𝟎 𝟎 = **Rejection region:** ഥ𝒙> ഥ𝒙𝟏−𝛂 **with** ഥ𝒙𝟏−𝛂 percentile of order - of a 𝓝(𝟖, 𝟗/𝟓𝟎 ) For the relationship with the percentiles of the standardised normal we have: 𝟎 ഥ𝒙𝟏−𝛂 = **μ0** +𝒛𝟏−𝛂 ∙ 𝛔(𝟐) /𝒏= **μ0** −𝒛𝛂 ∙ 𝛔(𝟐) /𝒏 = **μ0** −𝒛𝛂 ∙𝑺𝑬(𝑿) =(ഥ) 𝟖 −𝒛𝛂 ∙ 𝟗/𝟓𝟎 It is convenient to write the **rejection region** as **:** ഥ𝒙< 𝟖 −𝒛𝛂 ∙ 𝟗/𝟓𝟎 **=** - **0.025? What rejection region if you set**
+0 0 = **Rejection region:** \bar{x}> \bar{x}_{1}−α **with** \bar{x}_{1}−α percentile of order - of a N(8, 9/50 ) For the relationship with the percentiles of the standardised normal we have: 0 \bar{x}_{1}−α = **μ0** +z1−α ∙ σ(2) /n= **μ0** −zα ∙ σ(2) /n = **μ0** −zα ∙SE(X) =(\bar{X}) 8 −zα ∙ 9/50 It is convenient to write the **rejection region** as **:** \bar{x}< 8 −zα ∙ 9/50 **=** - **0.025? What rejection region if you set**
 
 - **`# only for verification`**
 
@@ -447,7 +445,7 @@ _We reject_ **H0** _if the drawn sample has a sample mean of less than 7.168_
 ## One-sided left-tailed test: Statistical decision and p-value
 
 Test with - **=** 0.025 to verify **H0: μ ≥ 8 vs H1: μ < 8;
-- Rejection region:** ഥ𝒙< 𝟕. 𝟏𝟔𝟖 **The average AHT after the course for the 50 selected operators is 7.05. What decision?** The observed sample mean is less than 7.168 and thus falls into the rejection region. Therefore we reject **H0** and conclude **at level 0.025** that the course is effective (i.e. the observed sample mean, 7.04 is more compatible with **H1** than with **H0** , given the chosen significance level) **What is the p-value of the sample realisation? What considerations?** The p-value is the probability of observing a sample realisation more extreme than the observed one in the direction of **H1** under the hypothesis that **μ=μ0** ; in our case it is 𝑷(𝑿< 𝟕. 𝟎𝟓(ഥ) **μ** = 𝟖= 𝑷(𝒁< (𝟕. 𝟎𝟓−𝟖)/ 𝟗/𝟓𝟎 )
+- Rejection region:** \bar{x}< 7. 168 **The average AHT after the course for the 50 selected operators is 7.05. What decision?** The observed sample mean is less than 7.168 and thus falls into the rejection region. Therefore we reject **H0** and conclude **at level 0.025** that the course is effective (i.e. the observed sample mean, 7.04 is more compatible with **H1** than with **H0** , given the chosen significance level) **What is the p-value of the sample realisation? What considerations?** The p-value is the probability of observing a sample realisation more extreme than the observed one in the direction of **H1** under the hypothesis that **μ=μ0** ; in our case it is P(X< 7. 05(\bar{X}) **μ** = 8= P(Z< (7. 05−8)/ 9/50 )
 
 ```
 > pvalue<-pnorm((7.05-8)/sqrt(9/50))
@@ -471,9 +469,9 @@ We are interested in testing hypotheses concerning **μ** = average PM10 level o
 
 ## Two-sided test
 
-= = **41 vs. H** ≠ **Testing the hypotheses H0: μ μ0 1: μ μ0** The test statistic is always 𝑿(ഥ) and 𝑿|(ഥ) **μ0** ~𝓝( **μ0** , **207/30** )= 𝓝( **41** , **6.9** )
+= = **41 vs. H** ≠ **Testing the hypotheses H0: μ μ0 1: μ μ0** The test statistic is always \bar{X} and X|(\bar{X}) **μ0** ~N( **μ0** , **207/30** )= N( **41** , **6.9** )
 
-ഥ𝑿| **μ0** ~𝓝( **41** , **6.9** ) **The sample realisations 'critical' for H0 are those far from H0** _**towards**_ **H1 Given the** _**two-sided**_ **structure of H1** , **H0** should be **rejected** if the **observed sample mean:** - is too **high** to be considered **consistent** with an average of **41** (so the empirical evidence supports the idea that the cycle track **increases average PM10 levels** );
+\bar{X}| **μ0** ~N( **41** , **6.9** ) **The sample realisations 'critical' for H0 are those far from H0** _**towards**_ **H1 Given the** _**two-sided**_ **structure of H1** , **H0** should be **rejected** if the **observed sample mean:** - is too **high** to be considered **consistent** with an average of **41** (so the empirical evidence supports the idea that the cycle track **increases average PM10 levels** );
 
 **μ0 = 41**
 
@@ -483,13 +481,13 @@ We are interested in testing hypotheses concerning **μ** = average PM10 level o
 
 # = = **41 vs. H** ≠ **Testing the hypotheses H0: μ μ0 1: μ μ0**
 
-ഥ 𝑿| **μ0** ~𝓝( **41** , **6.9** ) In this case, **both tails are critical: it is reasonable to reject H0 when the value of** ഥ 𝑿| **μ0** ~𝓝( **41** , **6.9** ) **is** _**extreme**_ **under H0** _**in one of**_ **the directions indicated by H1 Rejection region:**
+\bar{X}| **μ0** ~N( **41** , **6.9** ) In this case, **both tails are critical: it is reasonable to reject H0 when the value of** \bar{X}| **μ0** ~N( **41** , **6.9** ) **is** _**extreme**_ **under H0** _**in one of**_ **the directions indicated by H1 Rejection region:**
 
-**μ0 = 41** ഥ𝒙 ***** _**L**_ **Reject H0 Don’t Reject H0**
+**μ0 = 41** \bar{x} ***** _**L**_ **Reject H0 Don’t Reject H0**
 
-𝒙<ഥ ഥ𝒙 ***** or 𝒙>ഥ ഥ𝒙 ***** _**L U reasonably assuming that the two critical values are symmetrical with respect to**_ **μ0** ഥ𝒙 ***** _**U**_
+x<\bar{X} \bar{x} ***** or x>\bar{X} \bar{x} ***** _**L U reasonably assuming that the two critical values are symmetrical with respect to**_ **μ0** \bar{x} ***** _**U**_
 
-**How to choose** 𝒙ഥ ***** _**L**_ and 𝒙ഥ ***** _**U ?**_
+**How to choose** \bar{x} ***** _**L**_ and \bar{x} ***** _**U ?**_
 
 **Reject H0**
 
@@ -499,31 +497,31 @@ We are interested in testing hypotheses concerning **μ** = average PM10 level o
 
 **Reject H00**
 
-ഥ ഥ 𝒙 ***** and 𝒙 ***** _**L U**_ **must be chosen in such a way that $$$P(Reject H0 |H0 is true) =**$$$ Pr( 𝑿<(ഥ) ഥ𝒙 ***** _**L**_ | **μ=μ0** )+ Pr( 𝑿>(ഥ) ഥ𝒙 ***** _**U**_ | **μ=μ0** ) **=** - **Since the two directions** are **indifferent:** Pr( 𝑿<(ഥ) ഥ𝒙 ***** _**L**_ | **μ=μ0** ) **=** Pr( 𝑿>(ഥ) ഥ𝒙 ***** _**U**_ | **μ=μ0** ) **=** - **/2** This condition is ensured by the **percentiles of - order** - **/2** and (1 - **/2** ) of the distribution of 𝑿|(ഥ) **μ0** , which are conveniently expressed as: ഥ 𝟎 𝒙 = −𝒛 ∙ 𝛔(𝟐) 𝟏−𝛂/𝟐 **μ0** 𝛂/𝟐 /𝒏 𝟎 ഥ𝒙𝛂/𝟐 = **μ0** +𝒛𝛂/𝟐 ∙ 𝛔(𝟐) /𝒏
+\bar{X} \bar{x} ***** and x ***** _**L U**_ **must be chosen in such a way that $P(Reject H0 |H0 is true) =**$ Pr( X<(\bar{X}) \bar{x} ***** _**L**_ | **μ=μ0** )+ Pr( X>(\bar{X}) \bar{x} ***** _**U**_ | **μ=μ0** ) **=** - **Since the two directions** are **indifferent:** Pr( X<(\bar{X}) \bar{x} ***** _**L**_ | **μ=μ0** ) **=** Pr( X>(\bar{X}) \bar{x} ***** _**U**_ | **μ=μ0** ) **=** - **/2** This condition is ensured by the **percentiles of - order** - **/2** and (1 - **/2** ) of the distribution of X|(\bar{X}) **μ0** , which are conveniently expressed as: \bar{X} 0 x = −z ∙ σ(2) 1−α/2 **μ0** α/2 /n 0 \bar{x}α/2 = **μ0** +zα/2 ∙ σ(2) /n
 
 ## Two-sided: fitting with confidence interval
 
 # Test the hypotheses H0: μ** = **μ0** = **41 vs H1: μ** ≠ **μ0 . Which rejection region, given the** - **? significance level
 
-ഥ 𝑿| **μ0** ~𝓝( **41** , **6.9** )
+\bar{X}| **μ0** ~N( **41** , **6.9** )
 
-- **/2** - **/2 μ0 = 41** 𝟎 𝟎 ഥ𝒙 ഥ𝒙 𝟏−𝛂/𝟐 𝛂/𝟐 **Reject H0 Don’t Reject H0 Reject H0**
+- **/2** - **/2 μ0 = 41** 0 0 \bar{x} \bar{x}_{1}−α/2 α/2 **Reject H0 Don’t Reject H0 Reject H0**
 
-**Note that the rejection region is** ഥ ഥ 𝒙< **μ0 –** _**z**_ - **/2** ∙ 𝛔(𝟐) /𝒏 **OR** 𝒙> **μ0 +** _**z**_ - **/2** ∙ 𝛔(𝟐) /𝒏 ∙ → **|** ഥ𝒙− **μ0| >** _**z**_ - **/2** 𝛔(𝟐) /𝒏 **Thus the acceptance region for H0 is:** ഥ ∙ ∙ **μ0 –** _**z**_ - **/2** 𝛔(𝟐) /𝒏 **≤** 𝒙 **≤ μ0 +** _**z**_ - **/2** 𝛔(𝟐) /𝒏 ഥ ഥ **–** ∙ ∙ → 𝒙 _**z**_ - **/2** 𝛔(𝟐) /𝒏 **≤ μ0 ≤** 𝒙 **+** _**z**_ - **/2** 𝛔(𝟐) /𝒏 **The acceptance region coincides with the 1-** - **confidence interval at level ( ) for μ. We** _**is included in the**_ **don’t reject H0 if μ0** - _**confidence interval at level**_ **(1- )** _**for**_ **μ**
+**Note that the rejection region is** \bar{X} \bar{x}< **μ0 –** _**z**_ - **/2** ∙ σ(2) /n **OR** x> **μ0 +** _**z**_ - **/2** ∙ σ(2) /n ∙ → **|** \bar{x}− **μ0| >** _**z**_ - **/2** σ(2) /n **Thus the acceptance region for H0 is:** \bar{X} ∙ ∙ **μ0 –** _**z**_ - **/2** σ(2) /n **≤** x **≤ μ0 +** _**z**_ - **/2** σ(2) /\bar{n} \bar{X} **–** ∙ ∙ → x _**z**_ - **/2** σ(2) /n **≤ μ0 ≤** x **+** _**z**_ - **/2** σ(2) /n **The acceptance region coincides with the 1-** - **confidence interval at level ( ) for μ. We** _**is included in the**_ **don’t reject H0 if μ0** - _**confidence interval at level**_ **(1- )** _**for**_ **μ**
 
 - **Two-sided test: rejection region at level**
 
-= = **41 vs H** ≠ **Build a test with significance level 0.05 for H0: μ μ0 1: μ μ0** (recall that 𝑿|(ഥ) **μ0** ~𝓝( **41** , **6.9** ))
+= = **41 vs H** ≠ **Build a test with significance level 0.05 for H0: μ μ0 1: μ μ0** (recall that X|(\bar{X}) **μ0** ~N( **41** , **6.9** ))
 
-𝟎 𝟎 **Rejection region:** ഥ𝒙< ഥ𝒙 **or** ഥ𝒙> ഥ𝒙 𝟏−𝛂/𝟐 𝛂/𝟐 which can be written using the percentiles of the standardised normal as:
+0 0 **Rejection region:** \bar{x}< \bar{x} **or** \bar{x}> \bar{x}_{1}−α/2 α/2 which can be written using the percentiles of the standardised normal as:
 
-𝛔(𝟐) ഥ𝒙< ∙ 𝛔(𝟐) **or** ഥ𝒙< ∙ **μ0** −𝒛𝛂/𝟐 /𝒏 **μ0** + 𝒛𝛂/𝟐 𝒏 → **|** ഥ𝒙− **μ0|** > 𝒛𝛂/𝟐 𝛔(𝟐) /𝒏
+σ(2) \bar{x}< ∙ σ(2) **or** \bar{x}< ∙ **μ0** −zα/2 /n **μ0** + zα/2 n → **|** \bar{x}− **μ0|** > zα/2 σ(2) /n
 
 - **`z_025<-qnorm(0.975)`**
 
-> **`> x_0_L_alpha_2<-41-z_025*sqrt(6.9)`** _We reject_ **H0** _if the extracted sample has_ **`> x_0_U_alpha_2<-41+z_025*sqrt(6.9)`** ഥ𝒙 **< 35.8516** _or_ ഥ𝒙 **> 46.1484** **`> x_0_L_alpha_2`**
+> **`> x_0_L_alpha_2<-41-z_025*sqrt(6.9)`** _We reject_ **H0** _if the extracted sample has_ **`> x_0_U_alpha_2<-41+z_025*sqrt(6.9)`** \bar{x} **< 35.8516** _or_ \bar{x} **> 46.1484** **`> x_0_L_alpha_2`**
 
-> **`(1) 35.8516`** _or, equivalently when_ **`> x_0_U_alpha_2 (1) 46.1484` |** ഥ𝒙− **41| is greater than 5.1484**
+> **`(1) 35.8516`** _or, equivalently when_ **`> x_0_U_alpha_2 (1) 46.1484` |** \bar{x}− **41| is greater than 5.1484**
 
 - **`(1) 46.1484`**
 
@@ -533,21 +531,21 @@ We are interested in testing hypotheses concerning **μ** = average PM10 level o
 
 - **Two-sided test: rejection region at level**
 
-**0.05 level test for H0: μ** = **μ0** = **41 vs H1: μ** ≠ **μ0** . Rejection region: **|** ഥ𝒙− **41|** > **5.15 What is the probability to conclude – based on the test – that the cycle track has no effect on the average PM10 level (which therefore remains 41) when in fact it provides a 10% reduction?**
+**0.05 level test for H0: μ** = **μ0** = **41 vs H1: μ** ≠ **μ0** . Rejection region: **|** \bar{x}− **41|** > **5.15 What is the probability to conclude – based on the test – that the cycle track has no effect on the average PM10 level (which therefore remains 41) when in fact it provides a 10% reduction?**
 
-This is the probability of the test **failing to reject H0 when it is false,** when in fact the construction of the cycle path leads to a reduction in the average PM10 level from 41 to **36.9:** 𝑷(|𝑿−(ഥ) **41| ≤ 5.15 | μ = 36.9** ) = 𝑷( **41 – 5.15 ≤** 𝑿(ഥ) **≤ 41 + 5.15 | μ = 36.9** )
+This is the probability of the test **failing to reject H0 when it is false,** when in fact the construction of the cycle path leads to a reduction in the average PM10 level from 41 to **36.9:** P(|X−(\bar{X}) **41| ≤ 5.15 | μ = 36.9** ) = P( **41 – 5.15 ≤** \bar{X} **≤ 41 + 5.15 | μ = 36.9** )
 
 - **`pnorm(41+5.15,mean=36.9,sd=sqrt(6.9))+    pnorm(41-5.15,mean=36.9,sd=sqrt(6.9)) (1) 0.655107`**
 
 - **Two-sided test: rejection region at level**
 
-**0.05 level test for H0: μ** = **μ0** = **41 vs H1: μ** ≠ **μ0** . Rejection region: **|** ഥ𝒙− **41|** > **5.15 For 30 measurements of PM10 taken one month after the opening of the cycle path, an average of 33.5 was recorded. What conclusions?**
+**0.05 level test for H0: μ** = **μ0** = **41 vs H1: μ** ≠ **μ0** . Rejection region: **|** \bar{x}− **41|** > **5.15 For 30 measurements of PM10 taken one month after the opening of the cycle path, an average of 33.5 was recorded. What conclusions?**
 
 **Since (33.5-41)= –7.5 we reject H0 and conclude that the cycle track has an effect on the average PM10 level.** Such a **low** sample mean (thus extreme on the tail 'favourable' to the hypothesis **H1** that the cycle track leads to a reduction in the average PM10 level) is more likely due to a difference between and **41** . **μ**
 
 **What is the p-value of the observed sample realisation?**
 
-**H:** This is the probability of observing an even more extreme value than that observed under **0** 𝑷(|𝑿−(ഥ) **41|** > **7.5 | μ = 41** ) = 𝑷(|𝒁 **|** > 𝟕. 𝟓 **/** 𝟔. 𝟗 )= 𝟐𝑷(𝒁> 𝟕. 𝟓 **/** 𝟔. 𝟗 )
+**H:** This is the probability of observing an even more extreme value than that observed under **0** P(|X−(\bar{X}) **41|** > **7.5 | μ = 41** ) = P(|Z **|** > 7. 5 **/** 6. 9 )= 2P(Z> 7. 5 **/** 6. 9 )
 
 ```
 > 2*(1-pnorm(41+7.5,mean=41,sd=sqrt(6.9)))
@@ -563,13 +561,13 @@ This is the probability of the test **failing to reject H0 when it is false,** w
 
 The p-value is extremely low! The observed sample realisation would be definitely extreme/anomalous if indeed **μ** = **41**
 
-## Test of level** - _**n**_ 𝛔(𝟐) **known on μ (Normal population or large ) -
+## Test of level** - _**n**_ σ(2) **known on μ (Normal population or large ) -
 
-## Test of level** - _**n**_ 𝛔(𝟐) **unknown on μ (Normal pop. or large ) -
+## Test of level** - _**n**_ σ(2) **unknown on μ (Normal pop. or large ) -
 
-In the case of a **normal population, if** the variance 𝛔(𝟐) is **unknown** , it could be reasonably 𝒔(𝟐) estimated by the sample variance, , but the percentiles **change.**
+In the case of a **normal population, if** the variance σ(2) is **unknown** , it could be reasonably s(2) estimated by the sample variance, , but the percentiles **change.**
 
-Indeed in **this case** the sample mean is **not a test statistic,** since 𝑿|(ഥ) **μ0** ~𝓝( **μ0** , 𝛔(𝟐) /𝒏 ); the distribution of the statistic under **H0** is not completely known  because it **depends on** 𝛔(𝟐) **, that is unknown!**
+Indeed in **this case** the sample mean is **not a test statistic,** since X|(\bar{X}) **μ0** ~N( **μ0** , σ(2) /n ); the distribution of the statistic under **H0** is not completely known  because it **depends on** σ(2) **, that is unknown!**
 
 ## However, as we discussed for confidence intervals:
 
@@ -577,7 +575,7 @@ Indeed in **this case** the sample mean is **not a test statistic,** since 𝑿|
 
 When the **sample is large** , it is possible to use the **normal approximation also when the variance is unknown. Even so, statistical software typically use the percentiles of the Student’s** _**t**_ **distribution, in order to account for the further uncertainty due to the fact that the variance is estimated.**
 
-## Test of level** - 𝛔(𝟐) **on μ when is unknown (Student’s t)
+## Test of level** - σ(2) **on μ when is unknown (Student’s t)
 
 ## Rstudio: TEST.mean()
 
@@ -632,13 +630,13 @@ _The null hypothesis is rejected at any significance level set by the company: w
 
 ## Test on the difference between means: test statistic
 
-**To verify hypotheses on the difference between two populations’ means the test statistic is the difference between the sample means standardized or “studentized” under the null hypothesis depending on whether the standard error of the difference between the sample means, 𝑺𝑬** ഥ𝑿−ഥ𝒀ഥ𝑿−ഥ𝒀 **, is known or has to be estimated.**
+**To verify hypotheses on the difference between two populations’ means the test statistic is the difference between the sample means standardized or “studentized” under the null hypothesis depending on whether the standard error of the difference between the sample means, SE** \bar{X}−\bar{Y}\bar{X}−\bar{Y} **, is known or has to be estimated.**
 
-**The expression of** 𝑺𝑬ഥ𝑿−ഥ𝒀 **depends** on the assumptions on the populations ( **independent or paired** ) and on their variance, that also determine the distribution of the test statistic and the percentile it has to be compared to (as seen for tests on the mean).
+**The expression of** SE\bar{X}−\bar{Y} **depends** on the assumptions on the populations ( **independent or paired** ) and on their variance, that also determine the distribution of the test statistic and the percentile it has to be compared to (as seen for tests on the mean).
 
-For a given **H0:** 𝛍𝑿 −𝛍𝒀 = 𝛅 **0** o **H0:** 𝛍𝑿−𝛍𝒀 ≤ 𝛅 **0** o **H0:** 𝛍𝑿 −𝛍𝒀 ≥ 𝛅 **0** , the test statistic is: 𝑿−((ഥ)) 𝛅 (((ഥ)) 𝒀) − **0** - Case of known variances (normal or large samples): ~𝓝(𝟎, 𝟏)
+For a given **H0:** μX −μY = δ **0** o **H0:** μX−μY ≤ δ **0** o **H0:** μX −μY ≥ δ **0** , the test statistic is: X−((\bar{X})) δ (((\bar{X})) Y) − **0** - Case of known variances (normal or large samples): ~N(0, 1)
 
-𝑿−((ഥ)) 𝛅 (((ഥ)) 𝒀) − **0** ~𝓝(𝟎, 𝟏) 𝑺𝑬 ഥ𝑿−ഥ𝒀 𝑿−(ഥ) 𝛅 ((ഥ) 𝒀) − **0** ෢ 𝑺𝑬 ഥ𝑿−ഥ𝒀
+X−((\bar{X})) δ (((\bar{X})) Y) − **0** ~N(0, 1) SE \bar{X}−\bar{Y}_{X}−(\bar{X}) δ ((\bar{X}) Y) − **0** \hat{S}_{E} \bar{X}−\bar{Y}
 
 - Case of unknown variances:
 
@@ -771,7 +769,7 @@ Normal.Approx 3053 2923 35.39 35.83     -0.43 7.66 7.97 0.2 -2.13  0.0332
 Student-t     3053 2923 35.39 35.83     -0.43 7.66 7.97 0.2 -2.13  0.0332
 ```
 
-_**The statistical decision depends on the significance level set. If**_ 𝛂 **> 0.033,** _**H0 is rejected, and we conclude that the mean time is different in the two areas, otherwise the null hypothesis of homogeneity between the two areas is not rejected. Note that the conclusion is the same irrespective of the assumptions on variances and distribution used.**_
+_**The statistical decision depends on the significance level set. If**_ α **> 0.033,** _**H0 is rejected, and we conclude that the mean time is different in the two areas, otherwise the null hypothesis of homogeneity between the two areas is not rejected. Note that the conclusion is the same irrespective of the assumptions on variances and distribution used.**_
 
 * Please refer to the script for results based on the **`x,by`** syntax
 
@@ -812,9 +810,9 @@ Note that **`No`** ≺ **`Yes`** ; therefore if the **`x,by`** syntax is used th
 
 ## Hands on: time on social
 
-**`> TEST.diffmean(x=time.yes,y=time.no,mdiff0=0,alternative="greater") Test hypotheses on μ_x-μ_y Samples: independent Variances: unknown`** 𝛂 **.** _**Based on the observed sample, we reject**_ **H00** **`x = time.yes`**
+**`> TEST.diffmean(x=time.yes,y=time.no,mdiff0=0,alternative="greater") Test hypotheses on μ_x-μ_y Samples: independent Variances: unknown`** α **.** _**Based on the observed sample, we reject**_ **H00** **`x = time.yes`**
 
-_**The p-value is extremely low and lower than any standard level of**_ 𝛂 **.** _**Based on the observed sample, we reject**_ **H00** _**, concluding that users with or without push notifications spend a different time on average on the platform.**_
+_**The p-value is extremely low and lower than any standard level of**_ α **.** _**Based on the observed sample, we reject**_ **H00** _**, concluding that users with or without push notifications spend a different time on average on the platform.**_
 
 ```
 y = time.no
@@ -908,7 +906,7 @@ Student-t     130 57.39 47.95           9.44 12.69 1.11 2.64   0.005
 
 ## Based on the output above, how are the p-values determined?
 
-𝟐 𝑷 𝒁> (ഥ𝒙−ഥ𝒚− 𝛅 **0** )/ 𝒔𝑫/𝒏= 𝑷 𝒁> (𝟓𝟕. 𝟑𝟗−𝟒𝟕. 𝟗𝟓− 𝟔. 𝟓)/ 𝟏𝟐. 𝟔𝟗/ 𝟏𝟑𝟎 𝟐 𝑷 𝒕𝟔𝟒 > (ഥ𝒙−ഥ𝒚− 𝛅 **0** )/ 𝒔𝑫/𝒏= 𝑷 𝒕𝟔𝟒 > (𝟓𝟕. 𝟑𝟗−𝟒𝟕. 𝟗𝟓− 𝟔. 𝟓)/ 𝟏𝟐. 𝟔𝟗/ 𝟏𝟑𝟎
+2 P Z> (\bar{x}−\bar{y}− δ **0** )/ sD/n= P Z> (57. 39−47. 95− 6. 5)/ 12. 69/ 130 2 P t64 > (\bar{x}−\bar{y}− δ **0** )/ sD/n= P t64 > (57. 39−47. 95− 6. 5)/ 12. 69/ 130
 
 ```
 > 1-pnorm((57.39-47.95-6.5)/(12.69/sqrt(130)))
@@ -979,23 +977,23 @@ Clinical trials to test the efficacy of a (new) drug are typically conducted by 
 
 **An experimental drug must be** _**statistically**_ **more effective than the placebo to be considered valid. How would you assess whether the drug with a specific dosage is significantly more effective than the placebo, assuming equal variances?** We want to test the difference between the means of improvement observed in patients treated with a certain dosage of the drug and in patients treated with the placebo. This is a test for the difference between means based on **independent** samples.
 
-Denote by 𝛍𝑷 the mean improvement recorded for patients treated with the placebo and by 𝛍𝑭 the mean improvement recorded for patients treated with (a certain dosage of) the drug. The hypotheses to be tested are:
+Denote by μP the mean improvement recorded for patients treated with the placebo and by μF the mean improvement recorded for patients treated with (a certain dosage of) the drug. The hypotheses to be tested are:
 
-**H0:** 𝛍𝑭 −𝛍𝑷 ≤ **0** that is 𝛍𝑭 ≤𝛍𝑷 , as well as 𝛍𝑷 −𝛍𝑭 ≥ **0** . The drug treatment 𝑭 (with a certain dosage) has a (mean) effect less than or equal to the placebo 𝑷
+**H0:** μF −μP ≤ **0** that is μF ≤μP , as well as μP −μF ≥ **0** . The drug treatment F (with a certain dosage) has a (mean) effect less than or equal to the placebo P
 
-**H0:** 𝛍𝑭 −𝛍𝑷 > **0** that is 𝛍𝑭 > 𝛍𝑷 , as well as 𝛍𝑷 −𝛍𝑭 < **0** . The drug treatment 𝑭 (with a certain dosage) has a (mean) effect higher than the placebo 𝑷
+**H0:** μF −μP > **0** that is μF > μP , as well as μP −μF < **0** . The drug treatment F (with a certain dosage) has a (mean) effect higher than the placebo P
 
 Note that there are different ways of writing the hypotheses, **which have no effect on the result obtained!!!**
 
 ## Hands on: clinical trial
 
-𝛂 **for H: vs H: Rejection region at level 0** 𝛍𝑭 ≤𝛍𝑷 **1** 𝛍𝑭 > 𝛍𝑷 **Which test statistic?** The test statistic to verify the two hypotheses is the difference between the sample means, ഥ𝑿𝑭 – ഥ𝑿𝑷 (difference between the average improvement of drug-treated patients and the average improvement of placebo-treated patients), whose standard error depends on the - unknown - variances of the two sample means. Assuming that the variances are equal we use the **pooled** sample variance to **estimate** the (common) variance **. The rejection region is:**
+α **for H: vs H: Rejection region at level 0** μF ≤μP **1** μF > μP **Which test statistic?** The test statistic to verify the two hypotheses is the difference between the sample means, \bar{X}_{F} – \bar{X}_{P} (difference between the average improvement of drug-treated patients and the average improvement of placebo-treated patients), whose standard error depends on the - unknown - variances of the two sample means. Assuming that the variances are equal we use the **pooled** sample variance to **estimate** the (common) variance **. The rejection region is:**
 
 _Note that the case of unknown variances cannot be analyzed in this course when only aggregated data are available because we only consider the case when raw data are available and use R to test hypotheses_
 
 ## Hands on: clinical trial
 
-## **H: vs H: Rejection region at level 2.5% for 0** 𝛍𝑭 ≤𝛍𝑷 **1** 𝛍𝑭 > 𝛍𝑷 **for the 150mg dosage?** Based on the available information
+## **H: vs H: Rejection region at level 2.5% for 0** μF ≤μP **1** μF > μP **for the 150mg dosage?** Based on the available information
 
 |**Placebo**|**Dose:150mg**|
 |---|---|---|
@@ -1005,21 +1003,21 @@ _Note that the case of unknown variances cannot be analyzed in this course when 
 
 ## We get:
 
-𝟐 44 −1 0.35(2) + (42 −1)0.48(2) 𝒔 = = 𝟎. 𝟏𝟕𝟓𝟐 𝑃𝑜𝑜𝑙 44 + 42 −2 0.1752 0.1752 𝒔𝒆ഥ −ഥ = + = 𝟎. 𝟎𝟗𝟎𝟑 𝑿𝑭 𝑿𝑷 44 42 **`> # percentile of the Student's t > qt(1-0.025,df=42+44-2) (1) 1.9886`**
+2 44 −1 0.35(2) + (42 −1)0.48(2) s = = 0. 1752 Pool 44 + 42 −2 0.1752 0.1752 s\bar{e} −\bar{X} = + = 0. 0903 XF XP 44 42 **`> # percentile of the Student's t > qt(1-0.025,df=42+44-2) (1) 1.9886`**
 
 _It is_
 
-ഥ𝒙𝑭 – ഥ𝒙𝑷 = 0.1<1.9886 - 0.0903 = 0.1752 _, Or,  equivalently_
+\bar{x}_{F} – \bar{x}_{P} = 0.1<1.9886 - 0.0903 = 0.1752 _, Or,  equivalently_
 
-ഥ ഥ (𝒙𝑭 – 𝒙𝑷) /0.0903 = 1.1074 < 1.9886 _Therefore_ _**, we don’t reject** H0 and conclude that the 150mg dosage has no significantly greater effect than placebo, at the 0.025 level_
+\bar{X} \bar{X} (xF – xP) /0.0903 = 1.1074 < 1.9886 _Therefore_ _**, we don’t reject** H0 and conclude that the 150mg dosage has no significantly greater effect than placebo, at the 0.025 level_
 
 * Syntax to determine these results using R is in the  script
 
 ## Hands on: clinical trial
 
-## Test for **H0:** 𝛍𝑭 ≤𝛍𝑷 vs **H1:** 𝛍𝑭 > 𝛍𝑷 for **the 150mg dosage. What is the p-value?**
+## Test for **H0:** μF ≤μP vs **H1:** μF > μP for **the 150mg dosage. What is the p-value?**
 
-– ഥ𝒙 ഥ𝒙 0.1 𝑭 𝑷 𝑷 𝒕 > = 𝑷 𝒕 > 𝒕 > 1.1074 𝒏𝑷+𝒏𝑭−𝟐 ഥ ഥ 𝟒𝟐+𝟒𝟒−𝟐 𝟒𝟐+𝟒𝟒−𝟐 𝒔𝒆 − 0.0903(= 𝑷) 𝑿𝑭 𝑿𝑷
+– \bar{x} \bar{x}_{0}.1 F P P t > = P t > t > 1.1074 nP+nF−2 \bar{X} \bar{X} 42+44−2 42+44−2 se − 0.0903(= P) XF XP
 
 ```
 > 1-pt(1.1074,df=42+44-2)
@@ -1035,13 +1033,13 @@ _**Note that for the 300mg dosage  the p-value is higher than 0.025 although not
 
 |**Placebo **|**D:150mg **|**D:300mg **|**D: 600mg**|
 |---|---|---|---|---|
-|𝑛|**42**|**44**|**49**|**44**|
-|ഥ𝒙|**0.06**|**0.16**|**0.21**|**0.26**|
-|𝒔|**0.48**|**0.35**|**0.37**|**0.41**|
-|ഥ𝒙𝑭−ഥ𝒙𝑷|**0.10**|**0.15**|**0.2**|
-|𝒔𝒆ഥ𝑿~~𝑭~~−ഥ𝑿~~𝑷~~|**0.0903**|**0.0892**|**0.0961**|
-|**(**ഥ𝒙𝑭−ഥ𝒙𝑷**)/**𝒔𝒆ഥ𝑿~~𝑭~~−ഥ𝑿~~𝑷~~|**1.1074**|**1.6816**|**2.0812**|
-|𝒕𝒏~~𝑭~~+𝒏~~𝑷~~−𝟐,𝟎.𝟎𝟐𝟓|**1.9886**|**1.9867**|**1.9886**|
+|n|**42**|**44**|**49**|**44**|
+|\bar{x}|**0.06**|**0.16**|**0.21**|**0.26**|
+|s|**0.48**|**0.35**|**0.37**|**0.41**|
+|\bar{x}_{F}−\bar{x}_{P}|**0.10**|**0.15**|**0.2**|
+|se\bar{X}~~F~~−\bar{X}~~P~~|**0.0903**|**0.0892**|**0.0961**|
+|**(**\bar{x}_{F}−\bar{x}_{P}**)/**se\bar{X}~~F~~−\bar{X}~~P~~|**1.1074**|**1.6816**|**2.0812**|
+|tn~~F~~+n~~P~~−2,0.025|**1.9886**|**1.9867**|**1.9886**|
 |**P-value**|**0.1371**|**0.0496**|**0.0217**|
 
 _**Finally  note that for the 600mg dosage H0 would not be rejected if one was slightly more conservative towards H0, setting a lower**_ - **and** _**thus being prone to consider it to be true unless the difference between drug and placebo is extremely high.**_
@@ -1054,47 +1052,47 @@ _The_ _**Churn**_ **rate** is the % of customers who cancel a contract or stop u
 
 A telecommunications company has a churn rate of **22%** on prepaid SIM cards. In order to retain customers who are considered - based on appropriate indicators - to be at high risk of churn, a promotional strategy is developed and applied to a sample of 150 customers, 29 of whom cancel their contracts anyway (within a certain deadline).
 
-**Of the 150 customers on whom the promotional strategy was tested, 29 cancelled their contracts anyway. Can we say that on the basis of the sample result the strategy works?** The sample proportion of drop-outs is 𝒑ෝ = 29/150 = 0.193 < 0.22. This percentage is lower than the current one (assumed under **H0** ), however, we are considering . only one of the possible **samples of customers It is possible to observe a sample proportion lower than 0.22 even when H0 is true and the churn rate ensured by the promotional strategy is not really lower than 0.22.**
+**Of the 150 customers on whom the promotional strategy was tested, 29 cancelled their contracts anyway. Can we say that on the basis of the sample result the strategy works?** The sample proportion of drop-outs is \hat{p} = 29/150 = 0.193 < 0.22. This percentage is lower than the current one (assumed under **H0** ), however, we are considering . only one of the possible **samples of customers It is possible to observe a sample proportion lower than 0.22 even when H0 is true and the churn rate ensured by the promotional strategy is not really lower than 0.22.**
 
 ## Test for proportion
 
 **To assess whether the promotional strategy is effective, a test should be run. How would you set up the hypothesis test to evaluate the strategy?**
 
-The aim is to test whether 𝒑 **=** the proportion of drop-outs among customers who were offered the promotion, is lower or not than the current one, equal to 0.22.
+The aim is to test whether p **=** the proportion of drop-outs among customers who were offered the promotion, is lower or not than the current one, equal to 0.22.
 
 Taking a conservative approach, we consider as most serious the error of concluding that the strategy is effective when in fact it is not.
 
 Thus we set as null the hypothesis that the strategy under consideration is not effective, against the alternative hypothesis that it is effective:
 
-**H:** - **0.22 0** 𝒑 **H: < 0.22 1** 𝒑
+**H:** - **0.22 0** p **H: < 0.22 1** p
 
 **How to build the rejection region?**
 
 ## Test for proportion: test statistic and its distribution
 
-Test for **H:** - **0.22** vs **H: < 0.22 0** 𝒑 **1** 𝒑 To build a rejection region or to calculate the p-value of the observed sample realisation, we must first identify a **test statistic** , which in this case - quite predictably – is based on the sample 𝑷 . proportion of successes,(෡)
+Test for **H:** - **0.22** vs **H: < 0.22 0** p **1** p To build a rejection region or to calculate the p-value of the observed sample realisation, we must first identify a **test statistic** , which in this case - quite predictably – is based on the sample P . proportion of successes,\hat{P}
 
-**What is the distribution of 𝑷(෡) under H0** When the sample is **? sufficiently large** (the only case we will consider) 𝑷(෡) has a distribution which can be approximated by a normal, and ෡𝑷 |( 𝒑 **=** 𝒑 **0** ) ≈𝓝(𝒑 **0** , 𝒑 **0** ( **1–** 𝒑 **0** ) **/** 𝒏 )
+**What is the distribution of P\hat{P} under H0** When the sample is **? sufficiently large** (the only case we will consider) P\hat{P} has a distribution which can be approximated by a normal, and \hat{P} |( p **=** p **0** ) ≈N(p **0** , p **0** ( **1–** p **0** ) **/** n )
 
-Note that in this **case, unlike in the previous ones** , under the null hypothesis both the **expected value** and the **variance** of the test statistic are known, since they depend on the parameter of interest, 𝒑 !!! Clearly it is also possible to consider:
+Note that in this **case, unlike in the previous ones** , under the null hypothesis both the **expected value** and the **variance** of the test statistic are known, since they depend on the parameter of interest, p !!! Clearly it is also possible to consider:
 
 ## Test for proportion: rejection region
 
-Hypothesis test: **H0:** 𝒑 - **0.22** vs **H1:** 𝒑 **< 0.22** - **? Rejection region at level**
+Hypothesis test: **H0:** p - **0.22** vs **H1:** p **< 0.22** - **? Rejection region at level**
 
-The **rejection region – based on the sample proportion,** ෝ𝒑 **– identifies the value of the sample proportion,** ෝ𝒑∗ that would lead to reject **H0** .
+The **rejection region – based on the sample proportion,** \hat{p} **– identifies the value of the sample proportion,** \hat{p}∗ that would lead to reject **H0** .
 
-Using the same reasoning as in the previous cases, ෝ𝒑∗ must be such that: ෝ 𝑷(𝑷<(෡) 𝒑∗ **|** 𝒑 **=** 𝒑𝟎) = - **So** ෝ𝒑∗ **is the percentile of order** - of the distribution of 𝑷(෡) under the null hypothesis, and the rejection region can be written as:
+Using the same reasoning as in the previous cases, \hat{p}∗ must be such that: \hat{P}(P<\hat{P} p∗ **|** p **=** p0) = - **So** \hat{p}∗ **is the percentile of order** - of the distribution of P\hat{P} under the null hypothesis, and the rejection region can be written as:
 
-𝟎 𝟎 = ∎ෝ𝒑< ෝ𝒑𝟏−𝛂 **con** ෝ𝒑𝟏−𝛂 percentile of order - of 𝓝(𝒑 **0** , 𝒑 **0** ( **1–** 𝒑 **0** ) **/** 𝒏 )
+0 0 = ∎\hat{p}< \hat{p}_{1}−α **con** \hat{p}_{1}−α percentile of order - of N(p **0** , p **0** ( **1–** p **0** ) **/** n )
 
-∙ ∎ෝ𝒑< 𝒑 **0** −𝒛𝛂 𝒑 **0** ( **1–** 𝒑 **0** ) **/** 𝒏 by the relation between the percentiles of a normal distriution 𝒛 = −𝒛 and those of a standard normal distribution and considering that 𝟏−𝛂 𝛂 ෝ − 𝒑 𝒑 **0** _Note that for the extension to other cases (right-tail or two-tails test) the_ ∎ < −𝒛 𝛂 _same procedure illustrated for the test of the mean of a population_ 𝒑 **0** ( **1–** 𝒑 **0** ) **/** 𝒏
+∙ ∎\hat{p}< p **0** −zα p **0** ( **1–** p **0** ) **/** n by the relation between the percentiles of a normal distriution z = −z and those of a standard normal distribution and considering that 1−α \hat{α} − p p **0** _Note that for the extension to other cases (right-tail or two-tails test) the_ ∎ < −z α _same procedure illustrated for the test of the mean of a population_ p **0** ( **1–** p **0** ) **/** n
 
 _Note that for the extension to other cases (right-tail or two-tails test) the same procedure illustrated for the test of the mean of a population (when the variance is known) can be adopted (properly modified)_
 
 ## Test for proportion: rejection region
 
-Hypothesis test: **H0:** 𝒑 - **0.22** vs **H1:** 𝒑 **< 0.22 Should the observed sample proportion,** ෝ𝒑 **= 29/150 = 0.193, lead to reject H0 at level 0.025?**
+Hypothesis test: **H0:** p - **0.22** vs **H1:** p **< 0.22 Should the observed sample proportion,** \hat{p} **= 29/150 = 0.193, lead to reject H0 at level 0.025?**
 
 - **`# Verify different expressions`**
 
@@ -1106,9 +1104,9 @@ Hypothesis test: **H0:** 𝒑 - **0.22** vs **H1:** 𝒑 **< 0.22 Should the obs
 
 - **`(1) 1.959964`**
 
-> ෝ −𝟎. 𝟐𝟐 𝒑
+> \hat{P} −0. 22 p
 
-**Rejection region:** ෝ𝒑 < 𝟎. 𝟏𝟓𝟑𝟕 **or, equivalently,** < −𝟏. 𝟗𝟔 𝟎. 𝟐𝟐(𝟏−𝟎. 𝟐𝟐)/𝟏𝟓𝟎
+**Rejection region:** \hat{p} < 0. 1537 **or, equivalently,** < −1. 96 0. 22(1−0. 22)/150
 
 _Since_ 0.193 > 0.1537 _and, equivalently_ (0.193 −0.22)/ 0.22(1 −0.22)/150 _=_ −0.798 > −1.06 _the null hypothesis cannot be rejected, and we should therefore conclude that the promotional strategy has not a significant effect (at level 2.5%) on the propensity to churn_
 
@@ -1116,15 +1114,15 @@ _Since_ 0.193 > 0.1537 _and, equivalently_ (0.193 −0.22)/ 0.22(1 −0.22)/150 
 
 ## Test for proportion: p-value
 
-Test for **H:** - **0.22** vs **H: < 0.22 0** 𝒑 **1** 𝒑
+Test for **H:** - **0.22** vs **H: < 0.22 0** p **1** p
 
 **The sample proportion of drop-outs is = 29/150 = 0.193. What is the p-value of the observed sample realisation?**
 
-p-value: probability of observing a more extreme sample proportion (wrt **H0** and in the direction of **H1** ) than the one observed on the extracted sample, assuming that **H0** is true. The p-value measures how unlikely the observed sample is under **H0** . In this case, it corresponds to the probability of observing a sample proportion less than 0.193 when the churn rate is 22%: ෡ ෡ 𝑷 𝑷< ෝ𝒑 **|** 𝒑 **=** 𝒑𝟎 = 𝑷(𝑷< **0.193|** 𝒑 **= 0.22** )
+p-value: probability of observing a more extreme sample proportion (wrt **H0** and in the direction of **H1** ) than the one observed on the extracted sample, assuming that **H0** is true. The p-value measures how unlikely the observed sample is under **H0** . In this case, it corresponds to the probability of observing a sample proportion less than 0.193 when the churn rate is 22%: \hat{\beta}_0, \hat{\beta}_1 P P< \hat{p} **|** p **=** p0 = P(P< **0.193|** p **= 0.22** )
 
 **: Exploiting, as usual, the relation with the standardised normal, we can write**
 
-**– –** 𝑷(𝒁< ( ෝ𝒑 𝒑𝟎 ) / 𝒑𝟎( **1−** 𝒑𝟎)/𝒏) = 𝑷(𝒁< ( **0.193 0.22** ) / **0.22** ( **1−0.22** )/ **150** )
+**– –** P(Z< ( \hat{p}_{p}0 ) / p0( **1−** p0)/n) = P(Z< ( **0.193 0.22** ) / **0.22** ( **1−0.22** )/ **150** )
 
 ```
 > pvalue<-pnorm((0.193-0.22)/sqrt(0.22*(1-0.22)/150))
@@ -1134,7 +1132,7 @@ p-value: probability of observing a more extreme sample proportion (wrt **H0** a
 
 ## Test for proportion: p-value
 
-Test for: **H:** - **0.22** vs **H: < 0.22 0** 𝒑 **1** 𝒑
+Test for: **H:** - **0.22** vs **H: < 0.22 0** p **1** p
 
 ```
 > pvalue<-pnorm((0.193-0.22)/sqrt(0.22*(1-0.22)/150))
@@ -1196,39 +1194,39 @@ n phats_Xse stat p-value
 
 ## Test for the difference between proportions
 
-In many applications, we are interested in testing hypotheses concerning the **difference between the proportions of ‘successes’ in two populations.** The test statistic is based on the 𝑷(෡) − 𝑷(෡) . **difference between the sample proportions,** 𝑿 𝒀
+In many applications, we are interested in testing hypotheses concerning the **difference between the proportions of ‘successes’ in two populations.** The test statistic is based on the P\hat{P} − P\hat{P} . **difference between the sample proportions,** X Y
 
-= Therefore, given a null hypothesis **H0:** 𝒑𝑿 −𝒑𝒀 𝛅𝟎 vs a generic alternative hypothesis, it is **H** . necessary to determine the distribution of the test statistic under **0**
+= Therefore, given a null hypothesis **H0:** pX −pY δ0 vs a generic alternative hypothesis, it is **H** . necessary to determine the distribution of the test statistic under **0**
 
-= The most typical case is when the null hypothesis is **H0:** 𝒑𝑿 −𝒑𝒀 𝟎 , stating that 𝒑𝑿 and 𝒑𝒀 **have the same (unknown) value, which we denote by** 𝒑 **0 , so that H0:** 𝒑𝑿= 𝒑𝒀 = 𝒑 **0 Distribution ofDistribution of** under 𝑷(෡) 𝑿 − 𝑷(෡) **H ?** 𝒀 under **0 H0** ? When the samples are **sufficiently large** (the only case we −(෡) consider) and **are independent,** 𝑷(෡) 𝑿 𝑷𝒀 has a distribution that can be approximated by a normal distribution, and
+= The most typical case is when the null hypothesis is **H0:** pX −pY 0 , stating that pX and pY **have the same (unknown) value, which we denote by** p **0 , so that H0:** pX= pY = p **0 Distribution ofDistribution of** under P\hat{P} X − P\hat{P} **H ?** Y under **0 H0** ? When the samples are **sufficiently large** (the only case we −\hat{P} consider) and **are independent,** P\hat{P} X PY has a distribution that can be approximated by a normal distribution, and
 
-= ∙ ෡𝑷 |( 𝒑𝑿 = 𝒑𝒀 𝒑 **0** ) ≈𝓝(𝟎, 𝒑 **0** ( **1** − 𝒑 **0** ) (𝟏/𝒏𝑿 + 𝟏/𝒏𝒀 ))
+= ∙ \hat{P} |( pX = pY p **0** ) ≈N(0, p **0** ( **1** − p **0** ) (1/nX + 1/nY ))
 
-Where 𝒑 **0** is the (same) proportion of successes in the two populations. Since 𝒑 **0** is not known, it must be estimated!
+Where p **0** is the (same) proportion of successes in the two populations. Since p **0** is not known, it must be estimated!
 
 ## Test for the difference between proportions
 
-= If 𝒑𝑿= 𝒑𝒀 𝒑 **0** , the two samples come from two populations with the same proportion of successes, 𝒑 **0** , and thus with the same Bernoulli distribution. To estimate 𝒑 **0** we consider the pooled proportion of successes, **calculated by merging the data** in the two samples:
+= If pX= pY p **0** , the two samples come from two populations with the same proportion of successes, p **0** , and thus with the same Bernoulli distribution. To estimate p **0** we consider the pooled proportion of successes, **calculated by merging the data** in the two samples:
 
-−(෡) Thus (provided the samples are independent and sufficiently large) 𝑷(෡) 𝑿 𝑷𝒀 has a distribution that can be approximated by:
+−\hat{P} Thus (provided the samples are independent and sufficiently large) P\hat{P} X PY has a distribution that can be approximated by:
 
-The rejection regions (and p-values) are obtained as seen for other cases using the percentile of this distribution (the shape of the rejection region clearly depends on the direction of **H1)** = In the case of **H0**: 𝒑𝑿 −𝒑𝒀 𝛅𝟎 the two proportions are different, and:
+The rejection regions (and p-values) are obtained as seen for other cases using the percentile of this distribution (the shape of the rejection region clearly depends on the direction of **H1)** = In the case of **H0**: pX −pY δ0 the two proportions are different, and:
 
-෡ ෡ 𝒑ෝ𝑿(𝟏− 𝒑ෝ𝑿) 𝒑ෝ𝒀(𝟏− 𝒑ෝ𝒀) 𝑷𝑿 − 𝑷𝒀 |( 𝒑𝑿 −𝒑𝒀 = 𝛅𝟎 ) ≈𝓝 𝛅𝟎, + 𝑛 𝑛 𝑋 𝑌
+\hat{\beta}_0, \hat{\beta}_1 p\hat{X}(1− p\hat{X}) p\hat{Y}(1− p\hat{Y}) PX − PY |( pX −pY = δ0 ) ≈N δ0, + n n X Y
 
 ## Test on the difference between proportions: rejection region
 
-A/B testing is used in online marketing to optimise campaigns and consists of proposing two versions (A or B) of the same design (homepage, banner) to different users and then testing which version performs better. A sample of users of a social network is shown one of two banners at random to compare their Click-Through Rate (CTR, ratio between the number of clicks on the banner and the number of views of the banner). Banner A, viewed by 2364 users, generates 456 clicks, while banner B, viewed by 2323 users, generates 611 clicks. **Rejection region at level** 𝛂? Using the same procedure described for other cases, the rejection region can be written as: ∎ **|** ෝ𝒑𝑿 −ෝ𝒑𝒀 **|** > 𝒛𝛂/𝟐 ∙𝒔𝒆𝟎= 𝒛𝛂/𝟐 ෝ𝒑𝟎(𝟏−ෝ𝒑𝟎) ∙(𝟏/𝒏𝑿 + 𝟏/𝒏𝒀 ), with 𝒔𝒆𝟎 = 𝒔𝒆෡𝑷 −෡𝑷 = 𝟎 𝑿 𝒀|𝒑𝑿−𝒑𝒀 Or standardizing:
+A/B testing is used in online marketing to optimise campaigns and consists of proposing two versions (A or B) of the same design (homepage, banner) to different users and then testing which version performs better. A sample of users of a social network is shown one of two banners at random to compare their Click-Through Rate (CTR, ratio between the number of clicks on the banner and the number of views of the banner). Banner A, viewed by 2364 users, generates 456 clicks, while banner B, viewed by 2323 users, generates 611 clicks. **Rejection region at level** α? Using the same procedure described for other cases, the rejection region can be written as: ∎ **|** \hat{p}_{X} −\hat{p}_{Y} **|** > zα/2 ∙se0= zα/2 \hat{p}_{0}(1−\hat{p}_{0}) ∙(1/nX + 1/nY ), with se0 = se\hat{P} −\hat{P} = 0 X Y|pX−pY Or standardizing:
 
-ෝ −ෝ 𝒑𝑿 𝒑𝒀 ∎ > 𝒛 𝛂/𝟐 𝒔𝒆 𝟎
+\hat{P} −\hat{p}_{X} pY ∎ > z α/2 se 0
 
 ## Hands on: A/B test
 
 ## Test at the 1% level whether the two banners perform equally well in terms of CTR
 
-𝟎. 𝟐𝟐𝟕𝟕 ෝ𝒑𝟎 = (456 + 611)/(2364 + 2323) = 𝒔𝒆 = = = 𝟎. 𝟎𝟏𝟐𝟑 𝟎 Ƹ𝑝0(1 −Ƹ𝑝0) ∙(1/𝑛𝑋 + 1/𝑛𝑌 ) 0.2277(1 −0.2277) ∙(1/2364 + 1/2323 ) 𝒛 = 𝟐. 𝟓𝟕𝟔 𝟎.𝟗𝟗𝟓
+0. 2277 \hat{p}_{0} = (456 + 611)/(2364 + 2323) = se = = = 0. 0123 0 Ƹp0(1 −Ƹp0) ∙(1/nX + 1/nY ) 0.2277(1 −0.2277) ∙(1/2364 + 1/2323 ) z = 2. 576 0.995
 
-ෝ ෝ ෝ ෝ − − > 2.576 ∙ 0.0123= **0.032 or** > 𝟐 **.576 Rejection region:** 𝒑𝑿 𝒑𝒀 𝒑𝑿 𝒑𝒀 /0.0123 _=_ 456/2364 − 611/2323 = /0.0123 = Ƹ𝑝𝑋 −Ƹ𝑝𝑌 |–  0.070 | > 𝟎. 𝟎𝟑𝟐 _or, equivalently,_ Ƹ𝑝𝑋 −Ƹ𝑝𝑌 5.6992 > 𝟐. 𝟓𝟕𝟔 _. We therefore reject H0: the two banners have different performances as for CTR._ **What is the p-value of the observed sample realisation? What conclusion based on it?** ෝ ෝ ෝ ෝ − − 𝟐𝑷 ෡𝑷 −෡𝑷 𝑿 𝒀 > |𝒑𝑿 𝒑𝒀| **|** 𝒑𝑿 = 𝒑𝒀 = 𝟐𝑷(𝒁> 𝒑𝑿 𝒑𝒀 /0.0123) = 𝟐𝑷(𝒁> 5.6992)
+\hat{P} \hat{P} \hat{P} \hat{P} − − > 2.576 ∙ 0.0123= **0.032 or** > 2 **.576 Rejection region:** pX pY pX pY /0.0123 _=_ 456/2364 − 611/2323 = /0.0123 = ƸpX −ƸpY |–  0.070 | > 0. 032 _or, equivalently,_ ƸpX −ƸpY 5.6992 > 2. 576 _. We therefore reject H0: the two banners have different performances as for CTR._ **What is the p-value of the observed sample realisation? What conclusion based on it?** \hat{P} \hat{P} \hat{P} \hat{P} − − 2P \hat{P} −\hat{P}_{X} Y > |pX pY| **|** pX = pY = 2P(Z> pX pY /0.0123) = 2P(Z> 5.6992)
 
 ```
 > 2*(1-pnorm(5.6992))
@@ -1345,7 +1343,7 @@ In order to optimise the performance of an e-commerce site, one wants to assess 
 
 - Determine, at the significance level = 0.01, whether the observed distribution of preferences is significantly different from the uniform distribution (under which the same % of consumers - 25% - prefer each brand).
 
-We indicate with 𝒑𝟏, 𝒑𝟐, 𝒑𝟑, 𝒑𝟒 the frequencies of the 𝟒 brands. We want to test: **H0:** 𝒑𝒌 = 𝒑𝒌𝟎 **= 0.25** for each 𝑘= 1,2,3,4 _of the considered variable is_ **H:** for at least one 𝑘 **1** 𝒑𝒌 ≠𝒑𝒌𝟎
+We indicate with p1, p2, p3, p4 the frequencies of the 4 brands. We want to test: **H0:** pk = pk0 **= 0.25** for each k= 1,2,3,4 _of the considered variable is_ **H:** for at least one k **1** pk ≠pk0
 
 _Note that under the null hypothesis, the distribution of the considered variable is_ _**fully specified** and does not depend on any unknown parameters_
 
@@ -1353,41 +1351,41 @@ _Note that under the null hypothesis, the distribution of the considered variabl
 
 **Comparison of observed frequency distribution with a ‘theoretical’ frequency distribution: the goodness-of-fit test.**
 
-**Test H0:** 𝒑𝒌 = 𝒑𝒌𝟎 = **0.25 for** each 𝑘= 1,2,3,4 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘. Recall that to build a test, it is necessary to find a **test statistic** whose **distribution is known for any given value of the parameter of interest.**
+**Test H0:** pk = pk0 = **0.25 for** each k= 1,2,3,4 vs **H1:** pk ≠pk0 for at least one k. Recall that to build a test, it is necessary to find a **test statistic** whose **distribution is known for any given value of the parameter of interest.**
 
-In this case, a reasonable test statistic could be based on a comparison between the observed **H** . frequencies and the frequencies specified by the null hypothesis **0** Since the sample size is **relevant** in any hypothesis test, it is appropriate to base this comparison on the **observed absolute frequencies, which we denote** by 𝑶𝒌 , and the expected - **frequencies** under **H0** , which we denote by 𝑬𝒌 = 𝒏 𝒑𝒌𝟎. 𝒏= **In the considered example the sample size is 570, and under the null hypothesis that each** 𝒑𝒌 = **0.25 the absolute frequencies should all be equal to 0.25** - **570 = 142.5.**
+In this case, a reasonable test statistic could be based on a comparison between the observed **H** . frequencies and the frequencies specified by the null hypothesis **0** Since the sample size is **relevant** in any hypothesis test, it is appropriate to base this comparison on the **observed absolute frequencies, which we denote** by Ok , and the expected - **frequencies** under **H0** , which we denote by Ek = n pk0. n= **In the considered example the sample size is 570, and under the null hypothesis that each** pk = **0.25 the absolute frequencies should all be equal to 0.25** - **570 = 142.5.**
 
 ## Chi-square goodness of fit test: the test statistic
 
-**In general, given a frequency distribution, to test the hypotheses H0:** 𝒑𝒌 = 𝒑𝒌𝟎 for each 𝑘= 1,2, … , 𝐾 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘 the observed absolute frequencies are compared with those expected under **H0**
+**In general, given a frequency distribution, to test the hypotheses H0:** pk = pk0 for each k= 1,2, … , K vs **H1:** pk ≠pk0 for at least one k the observed absolute frequencies are compared with those expected under **H0**
 
-|**Observed absolute frequencies, **𝑶𝒌|𝑶𝟏|𝑶𝟐|**....**|𝑶𝑲|
+|**Observed absolute frequencies, **Ok|O1|O2|**....**|OK|
 |---|---|---|---|---|
-|**Expected absolute frequencies under H0,**𝑬𝒌|𝑬𝟏|𝑬𝟐|**....**|𝑬𝒌|
+|**Expected absolute frequencies under H0,**Ek|E1|E2|**....**|Ek|
 
-The test statistic that summarises the deviations of the observed frequencies from the expected frequencies is based on the sum of (squared) distances: 𝐾 𝑶 −𝑬 ( 𝑘 𝑘)(2) = ො𝛘(𝟐) ෍ 𝑬𝑘 𝑘=1
+The test statistic that summarises the deviations of the observed frequencies from the expected frequencies is based on the sum of (squared) distances: K O −E ( k k)(2) = \chi^2 \sum Ek k=1
 
-**Why this particular statistic?** The reason lies in the fact that **if** 𝑬𝒌 ≥ **5 for each** 𝒌 , the statistic ො𝛘(𝟐) under **H0** has a **known** distribution and specifically a distribution called a **chi-square** with 𝐾−1 degrees of freedom (note: the degrees of freedom are 𝐾−1 because the sum of the frequencies is always 1, and therefore there are only 𝐾−1 frequencies ‘free’ to vary).
+**Why this particular statistic?** The reason lies in the fact that **if** Ek ≥ **5 for each** k , the statistic \chi^2 under **H0** has a **known** distribution and specifically a distribution called a **chi-square** with K−1 degrees of freedom (note: the degrees of freedom are K−1 because the sum of the frequencies is always 1, and therefore there are only K−1 frequencies ‘free’ to vary).
 
 ## Chi-square distribution
 
-A random variable with a chi-square distribution can only assume **non-negative** values. The 𝜈 **chi-square distribution is right skewed,** and depends on a single parameter, , called degrees of freedom, which influences its shape.
+A random variable with a chi-square distribution can only assume **non-negative** values. The ν **chi-square distribution is right skewed,** and depends on a single parameter, , called degrees of freedom, which influences its shape.
 
 ## Chi-square goodness of fit test: rejection region
 
-**Test the assumptions H0:** 𝒑𝒌 = 𝒑𝒌𝟎 for each 𝑘= 1,2, … , 𝐾 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘
+**Test the assumptions H0:** pk = pk0 for each k= 1,2, … , K vs **H1:** pk ≠pk0 for at least one k
 
-**Critical tail for H ? 0** In this case, the **critical tail for H0 is the right tail**: very high values of the test statistic ො𝛘(𝟐) indicate a substantial difference between observed and expected absolute frequencies and thus statistical evidence favours the alternative hypothesis.
+**Critical tail for H ? 0** In this case, the **critical tail for H0 is the right tail**: very high values of the test statistic \chi^2 indicate a substantial difference between observed and expected absolute frequencies and thus statistical evidence favours the alternative hypothesis.
 
-**Shape of the rejection region?** The shape of the rejection region **will be:** 𝟐 **Rejection region:** ොχ(𝟐) > ොχ∗ where, as usual, the critical value depends on the chosen significance level.
+**Shape of the rejection region?** The shape of the rejection region **will be:** 2 **Rejection region:** \chi^2 > \chi^2∗ where, as usual, the critical value depends on the chosen significance level.
 
 ## Chi-square goodness of fit test: rejection region
 
-**Test the assumptions H0:** 𝒑𝒌 = 𝒑𝒌𝟎 for each 𝑘= 1,2, … , 𝐾 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘
+**Test the assumptions H0:** pk = pk0 for each k= 1,2, … , K vs **H1:** pk ≠pk0 for at least one k
 
-𝛘ො(𝟐) **|H0**
+\hat{χ}(2) **|H0**
 
-𝟐 **Which** ොχ∗ **given a level of significance,** - **?** The critical value must be chosen such that **$$$P(Reject H0 |H0 is true) =**$$$ Pr( ො𝛘(𝟐) > ොχ∗(𝟐) | **H0** ) **=** - 𝟐 This condition is fulfilled when ොχ∗ is the 1 - - of the distribution of percentile of order ො𝛘(𝟐) **under H0, i.e.** 2 = ොχ∗(𝟐) χ𝐾−1,α 1 - - of a The percentile of order **chi-square distribution** with 𝐾−1 degrees of 𝟐 freedom, 𝛘𝑲−𝟏
+2 **Which** \chi^2∗ **given a level of significance,** - **?** The critical value must be chosen such that **$P(Reject H0 |H0 is true) =**$ Pr( \chi^2 > \chi^2∗(2) | **H0** ) **=** - 2 This condition is fulfilled when \chi^2∗ is the 1 - - of the distribution of percentile of order \chi^2 **under H0, i.e.** 2 = \chi^2∗(2) χK−1,α 1 - - of a The percentile of order **chi-square distribution** with K−1 degrees of 2 freedom, χK−1
 
 ## Rstudio: chisq.test, pchisq(), qchisq()
 
@@ -1403,35 +1401,35 @@ The **`chisq.test()`** function available in R allows you to apply the **goodnes
 
 - **`p`**: is the vector containing the **probabilities** assumed in **H0** . If not specified, it is assumed that the theoretical probabilities are all equal to each other.
 
-It is also worth introducing the functions **`pchisq(q, df)`** and **`qchisq(p,df)`** available in R to determine the **distribution function** (or cumulative probability) and **percentiles** of a chi-square distribution with **`df`** degrees of freedom, respectively. As seen for other distributions, 𝟐 - **`pchisq(q,df)`** calculates Prob(𝛘 ≤ **`q`** ) (i.e. the area below the probability density function of **`df`** the 𝟐 𝛘 distribution, up to the value **`q`** ) **`df`**
+It is also worth introducing the functions **`pchisq(q, df)`** and **`qchisq(p,df)`** available in R to determine the **distribution function** (or cumulative probability) and **percentiles** of a chi-square distribution with **`df`** degrees of freedom, respectively. As seen for other distributions, 2 - **`pchisq(q,df)`** calculates Prob(χ ≤ **`q`** ) (i.e. the area below the probability density function of **`df`** the 2 χ distribution, up to the value **`q`** ) **`df`**
 
-𝟐 2 - of a distribution i.e. the value such **`qchisq(p,df)`** calculates the percentile of order **`p`** 𝛘 χ **`df df,1−p`** 𝟐 2 that Prob 𝛘 ≤χ = **`p`** . **`df df,1−p`**
+2 2 - of a distribution i.e. the value such **`qchisq(p,df)`** calculates the percentile of order **`p`** χ χ **`df df,1−p`** 2 2 that Prob χ ≤χ = **`p`** . **`df df,1−p`**
 
 ## Chi-square goodness of fit test
 
-**Test H0:** 𝒑𝒌 = 𝒑𝒌𝟎 = **0.25 for** each 𝑘= 1,2,3,4 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘. - **= 0.01? Rejection region at level** 2 2 - = 0.01 is: The rejection region at ොχ(2) > χ𝐾−1,α = χ3,0.01
+**Test H0:** pk = pk0 = **0.25 for** each k= 1,2,3,4 vs **H1:** pk ≠pk0 for at least one k. - **= 0.01? Rejection region at level** 2 2 - = 0.01 is: The rejection region at \chi^2 > χK−1,α = χ3,0.01
 
-**`> qchisq(p=0.99,df=3)`** → **Rejection region:** ොχ(2) > 𝟏𝟏. 𝟑𝟒𝟓 **`(1) 11.34487`**
+**`> qchisq(p=0.99,df=3)`** → **Rejection region:** \chi^2 > 11. 345 **`(1) 11.34487`**
 
 ## The sample results:
 
 |**Brand1**|**Brand2**|**Brand3**|**Brand4**|
 |---|---|---|---|---|
 |**Observed absolute frequencies,**|**151**|**117**|**140**|**162**|
-|**Expected absolute frequencies under H0, **𝑬𝒌|**142.5**|**142.5**|**142.5**|**142.5**|
-|(𝑶𝒌−𝑬𝒌)𝟐/𝑬𝒌|**0.507**|**4.563**|**0.044**|**2.668**|
+|**Expected absolute frequencies under H0, **Ek|**142.5**|**142.5**|**142.5**|**142.5**|
+|(Ok−Ek)2/Ek|**0.507**|**4.563**|**0.044**|**2.668**|
 
-So ොχ(2) =0.507+4.563+0.044+2.668= **7.782. Conclusion?**
+So \chi^2 =0.507+4.563+0.044+2.668= **7.782. Conclusion?**
 
 * Syntax to determine these results and the following using R is in the  script
 
 ## Chi-square goodness of fit test
 
-**Test H0:** 𝒑𝒌 = 𝒑𝒌𝟎 = **0.25 for** each 𝑘= 1,2,3,4 vs **H1:** 𝒑𝒌 ≠𝒑𝒌𝟎 for at least one 𝑘. Rejection region at level - = 0.01 **:** ොχ(2) > 𝟏𝟏. 𝟑𝟒𝟓 = Sample value of the test statistic: ොχ(2) **7.782**
+**Test H0:** pk = pk0 = **0.25 for** each k= 1,2,3,4 vs **H1:** pk ≠pk0 for at least one k. Rejection region at level - = 0.01 **:** \chi^2 > 11. 345 = Sample value of the test statistic: \chi^2 **7.782**
 
-**p-value of** ොχ(2) **?**
+**p-value of** \chi^2 **?**
 
-## 2 **The p-value is** 𝑃(𝛘𝟑 > **7.782** )
+## 2 **The p-value is** P(χ3 > **7.782** )
 
 ```
 > 1-pchisq(7.782,df=3)
@@ -1511,7 +1509,7 @@ _Conditional distributions are different! However, at the_ _**inferential** leve
 |4|6|10|20|**36**|
 |**Total**|**34**|**75**|**56**|**165**|
 
-The proportion of customers who joined 1 campaign - regardless of their class - is 41/165=0.248. If the number of campaigns had no **relation with the customer class,** the proportion of customers who joined 1 campaign should be about 0.248 _**in each class**_ ! Among the 34 Silver customers, the proportion of customers who joined a single campaign - should be 0.248, with a total of about 34 0,248 customers or more precisely (without rounding) - - 𝑪𝟏 𝑹𝟏/𝒏 = 34 41/165 = 8.448 where 𝑹𝟏 =number of customers who joined 1 campaign, 𝑪𝟏 =number of Silver class customers, and 𝒏 =total number of customers in the sample.
+The proportion of customers who joined 1 campaign - regardless of their class - is 41/165=0.248. If the number of campaigns had no **relation with the customer class,** the proportion of customers who joined 1 campaign should be about 0.248 _**in each class**_ ! Among the 34 Silver customers, the proportion of customers who joined a single campaign - should be 0.248, with a total of about 34 0,248 customers or more precisely (without rounding) - - C1 R1/n = 34 41/165 = 8.448 where R1 =number of customers who joined 1 campaign, C1 =number of Silver class customers, and n =total number of customers in the sample.
 
 ## Chi-square test of independence
 
@@ -1526,15 +1524,15 @@ The proportion of customers who joined 1 campaign - regardless of their class - 
 |4|6|10|20|**36**|
 |**Total**|**34**|**75**|**56**|**165**|
 
-Generalising, for each **cell** in the table, i.e. for each **values combination of the variables considered,** the **expected joint frequency under the assumption of independence** is: = - 𝑬 𝑹 𝑪 𝒌 /𝒏 𝒌𝒋 𝒋
+Generalising, for each **cell** in the table, i.e. for each **values combination of the variables considered,** the **expected joint frequency under the assumption of independence** is: = - E R C k /n kj j
 
-To test the independence between two variables - **given** their observed marginal frequencies - we can apply the chi-square test by assessing how far the observed joint frequencies - which we denote by 𝑶 - are from those expected under the assumption of independence, 𝑬 𝒌𝒋 𝒌𝒋
+To test the independence between two variables - **given** their observed marginal frequencies - we can apply the chi-square test by assessing how far the observed joint frequencies - which we denote by O - are from those expected under the assumption of independence, E kj kj
 
 ## Chi-square test of independence
 
 To test **H:** two variables are vs **H:** two variables **are 0 independent 1 not independent** We can use the test statistics:
 
-𝑲 and 𝑱 indicate the number of categories of the two variables, 𝑶 is the observed joint 𝒌𝒋 absolute frequency (for the combination of row value and column value) and - 𝑬 = 𝑹𝒌 𝑪 /𝒏 is the expected absolute frequency under the assumption of independence. 𝒌𝒋 𝒋 2 The distribution of ො𝛘(𝟐) | **H0** (when 𝐸𝑘𝑗 ≥ 5 for each 𝑘, 𝑗 *) is a chi-square 𝛘 𝑲−𝟏 𝑱−𝟏 (the df’s depend on the fact that ො𝛘(𝟐) is built **conditioning on** the marginal frequencies, and thus only ∙ 𝐾−1 𝐽−1 joint frequencies are ‘free to vary’). - are: The rejection region at the significance level and the p-value of a sample realisation ොχ(2) 2 2 **Rejection region:** ොχ(2) > χ(𝐾−1)(𝐽−1),α percentile of order 1 −α of a 𝛘 𝑲−𝟏 𝑱−𝟏 2 **The p-value is** 𝑃(𝛘 𝑲−𝟏 𝑱−𝟏 > ොχ(2) )
+K and J indicate the number of categories of the two variables, O is the observed joint kj absolute frequency (for the combination of row value and column value) and - E = Rk C /n is the expected absolute frequency under the assumption of independence. kj j 2 The distribution of \chi^2 | **H0** (when Ekj ≥ 5 for each k, j *) is a chi-square χ K−1 J−1 (the df’s depend on the fact that \chi^2 is built **conditioning on** the marginal frequencies, and thus only ∙ K−1 J−1 joint frequencies are ‘free to vary’). - are: The rejection region at the significance level and the p-value of a sample realisation \chi^2 2 2 **Rejection region:** \chi^2 > χ(K−1)(J−1),α percentile of order 1 −α of a χ K−1 J−1 2 **The p-value is** P(χ K−1 J−1 > \chi^2 )
 
 * In textbook the condition is that no more than the 20% of expected frequencies are < 5
 
@@ -1553,7 +1551,7 @@ To test **H:** two variables are vs **H:** two variables **are 0 independent 1 n
 
 **Rejection region to test H0: two variables are independent vs H1: two variables are not independent at the 0.001 significance level? The rejection region is:**
 
-ොχ(2) > χ2(4−1)(3−1),α = χ26,0.001
+\chi^2 > χ2(4−1)(3−1),α = χ26,0.001
 
 ```
 > qchisq(p=1-0.001,df=6)
@@ -1563,14 +1561,14 @@ To test **H:** two variables are vs **H:** two variables **are 0 independent 1 n
 (1) 22.45774
 ```
 
-→ **Rejection region:** ොχ(2) > 𝟐𝟐. 𝟒𝟓𝟕𝟕𝟒
+→ **Rejection region:** \chi^2 > 22. 45774
 
 ## Chi-square test of independence
 
 **Analysis of customer class and number of marketing campaigns joined;
-- Rejection region of the null hypothesis of independence:** ොχ(2) > 𝟐𝟐. 𝟒𝟓𝟕𝟕𝟒.
+- Rejection region of the null hypothesis of independence:** \chi^2 > 22. 45774.
 
-ොχ(2) = **27.922 Conclusions?**
+\chi^2 = **27.922 Conclusions?**
 
 ## Rstudio: chisq.test
 

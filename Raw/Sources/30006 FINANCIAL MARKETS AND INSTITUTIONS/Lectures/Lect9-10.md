@@ -114,7 +114,7 @@ _Idea is to enter another financial contract with a risk that is opposite (negat
 
 - ✓ Your cost of production is $25/bbl (read bbl as “per barrel”)
 
-- ✓ 𝑆 The current market price (spot price, 𝑡 ) is around $80
+- ✓ S The current market price (spot price, t ) is around $80
 
 - ✓ You’re a smart entrepreneur and want to hedge the risk that the market price will fall below $25 `o` … it was around $20 just one year ago!
 
@@ -144,9 +144,9 @@ _Idea is to enter another financial contract with a risk that is opposite (negat
 
 ✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80
+F priceagreedatt= 0 fordeliveryinT: = $80
 
-- _0=sign contract, fix prices of T:_ 𝐹 _T=delivery time_
+- _0=sign contract, fix prices of T:_ F _T=delivery time_
 
 _time_
 
@@ -154,9 +154,9 @@ _time_
 
 ✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹
+F priceagreedatt= 0 fordeliveryinT: = $80 Case1: ST spotprice= $100: ST > F Case2: ST spotprice= $ 65: ST < F
 
-_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_
+_0=sign contract, fix prices in T:_ F _T=delivery time_
 
 _time_
 
@@ -166,15 +166,15 @@ _time_
 
 ✓ Contract between the Oil company and the Utility company `o` the Oil company promises the delivery of 10,000 barrels for $80/bbl (delivery price) at future date (Sep 2022) `o` the Oil company would still make a profit of $55/bbl (=$80-$25) `o` the Utility company locks in today’s price at $80
 
-𝐹 𝑝𝑟𝑖𝑐𝑒𝑎𝑔𝑟𝑒𝑒𝑑𝑎𝑡𝑡= 0 𝑓𝑜𝑟𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑦𝑖𝑛𝑇: = $80 𝐶𝑎𝑠𝑒1: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $100: 𝑆𝑇 > 𝐹 𝐶𝑎𝑠𝑒2: 𝑆𝑇 𝑠𝑝𝑜𝑡𝑝𝑟𝑖𝑐𝑒= $ 65: 𝑆𝑇 < 𝐹
+F priceagreedatt= 0 fordeliveryinT: = $80 Case1: ST spotprice= $100: ST > F Case2: ST spotprice= $ 65: ST < F
 
-_0=sign contract, fix prices in T:_ 𝐹 _T=delivery time_
+_0=sign contract, fix prices in T:_ F _T=delivery time_
 
 _time_
 
 ## **Q:** Who wins in each case?
 
-- **A:** 𝑆 > 𝐹 – Case 1: Utility company, it buys at a price lower than market price: 𝑇
+- **A:** S > F – Case 1: Utility company, it buys at a price lower than market price: T
 
 ## Forward Contract
 
@@ -228,9 +228,9 @@ In April 2020, future price for May 2020 went from $18 to -$37!
 
 ✓ Profits of the party **selling** a forward contract: `o` in our example, this was the Oil company
 
-✓ Profits: difference between 𝑭 (agreed forward price, it was $80 𝑺 in the example above) and the spot market price 𝑻 on the day of maturity 𝑻 (which would have been attained otherwise):
+✓ Profits: difference between F (agreed forward price, it was $80 S in the example above) and the spot market price T on the day of maturity T (which would have been attained otherwise):
 
-𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻
+π = F−S short T
 
 - ✓ **Selling** a forward contract _opens_ a **short** position …
 
@@ -240,15 +240,15 @@ In April 2020, future price for May 2020 went from $18 to -$37!
 
 ## **Short** position
 
-𝝅 = 𝑭−𝑺 𝒔𝒉𝒐𝒓𝒕 𝑻
+π = F−S short T
 
 ## Profitability of a Forward Contract
 
 ✓ Profits of the party **buying** a forward contract: `o` in our example, this was the Utility company
 
-✓ Profits: difference between the value of the item at the delivery 𝑆 time (spot price 𝑇 ), the party would have attained without the 𝐹: contract, and
+✓ Profits: difference between the value of the item at the delivery S time (spot price T ), the party would have attained without the F: contract, and
 
-𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻
+π = S −F long T
 
 ✓ **Buying** a forward contract opens a **long** position … `o` which is the more valuable the higher the spot price of the asset will be in the future (next slide) ^65964d
 
@@ -256,7 +256,7 @@ In April 2020, future price for May 2020 went from $18 to -$37!
 
 ## **Long** position
 
-𝝅 = 𝑺 −𝑭 𝒍𝒐𝒏𝒈 𝑻
+π = S −F long T
 
 ## Forward Contract (Financial)
 
@@ -382,7 +382,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 3. “trading on an exchange” means that you can get a **price** for the future contract even **before delivery**:
 
-𝑡= 0 𝑡= 1 𝑡= 2 ... 𝑡= 𝑻 𝐹0 for delivery of 𝐹1 new price of 𝐹2 new price of Item item at future future future exchanged date 𝑇 (same contract, (same contract, at 𝑆𝑇 (or delivery at 𝑇 ) delivery at 𝑇 ) contract closed at 𝐹𝑇)
+t= 0 t= 1 t= 2 ... t= T F0 for delivery of F1 new price of F2 new price of Item item at future future future exchanged date T (same contract, (same contract, at ST (or delivery at T ) delivery at T ) contract closed at FT)
 
 ## Futures: Standardization
 
@@ -424,13 +424,13 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ## Futures: Prices
 
-- ✓ An important fact: the **future price will converge to the spot price** at the **delivery date (** 𝑭𝑻 = 𝑺𝑻 **)**
+- ✓ An important fact: the **future price will converge to the spot price** at the **delivery date (** FT = ST **)**
 
 - ✓: Why? Because otherwise there is an **arbitrage opportunity**
 
-`o` if 𝐹 < 𝑆 is **lower** 𝑇 𝑇 (price of a future for delivery today than spot price), we can _buy_ a future today, get the good delivered and then _sell_ it = 𝑆 −𝐹 immediately for profit at the spot price ( 𝑇 𝑇 ): demand of futures ↑⇒ 𝐹 ↑ price of future 𝑇
+`o` if F < S is **lower** T T (price of a future for delivery today than spot price), we can _buy_ a future today, get the good delivered and then _sell_ it = S −F immediately for profit at the spot price ( T T ): demand of futures ↑⇒ F ↑ price of future T
 
-`o` if 𝐹 > 𝑆 is **above** 𝑇 𝑇 (future price for delivery today spot price), buy at _sell_ = 𝐹 −𝑆 ↑ ⇒ 𝐹 spot and futures ( 𝑇 𝑇 ): supply of futures 𝑇 price of future ↓
+`o` if F > S is **above** T T (future price for delivery today spot price), buy at _sell_ = F −S ↑ ⇒ F spot and futures ( T T ): supply of futures T price of future ↓
 
 - ✓ “Smart” traders will be quick to take advantage of any arbitrage opportunity and thus and eliminate them ( **arbitrage** )
 
@@ -440,11 +440,11 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ## Futures: Payoffs before/at expiration
 
-✓ **Payoff** to the **long side** of a future contract closed at date _t_: 𝐹 −𝐹 𝑡 0 `o` where 𝐹 on the future … 0 is the price initially paid `o` … and 𝐹 𝑡 is the price of the future when closing (selling) before delivery
+✓ **Payoff** to the **long side** of a future contract closed at date _t_: F −F t 0 `o` where F on the future … 0 is the price initially paid `o` … and F t is the price of the future when closing (selling) before delivery
 
-✓ **Payoff** to the **short side** of a future contract closed at date _t_: 𝐹0 −𝐹𝑡 `o` where 𝐹 received on the future … 0 is the price initially `o` … and 𝐹 𝑡 is the price of the future when closing (buying) before delivery
+✓ **Payoff** to the **short side** of a future contract closed at date _t_: F0 −Ft `o` where F received on the future … 0 is the price initially `o` … and F t is the price of the future when closing (buying) before delivery
 
-✓ 𝑡= 𝑇 𝐹 = 𝐹 = 𝑆 If the contract is kept until delivery ( ): 𝑡 𝑇 𝑇 `o` but recall that 𝐹 ≠𝐹 𝑡 0
+✓ t= T F = F = S If the contract is kept until delivery ( ): t T T `o` but recall that F ≠F t 0
 
 ## Example: Profits going Long
 
@@ -452,11 +452,11 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( t ) you need to go short (sell) at a lower F = $40 F −F = $40 −$50 = −$10 price ( t ). Book a loss of t 0
 
 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is even lower (say **$30** )?
 
-**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
+**A2:** If wait until F = $50 delivery, you buy at 0 something that sells for S = $30 . You lose: S −F = $30 −$50 = −$20 T T 0
 
 ## Example: Profits going Long
 
@@ -464,9 +464,9 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a loss of 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? ^2hwvqj
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( t ) you need to go short (sell) at a lower F = $40 F −F = $40 −$50 = −$10 price ( t ). Book a loss of t 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? ^2hwvqj
 
-**A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You lose: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
+**A2:** If wait until F = $50 delivery, you buy at 0 something that sells for S = $30 . You lose: S −F = $30 −$50 = −$20 T T 0
 
 ## Example: Profits going Long
 
@@ -474,38 +474,38 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( 𝑡 ) you need to go short (sell) at a lower 𝐹 = $40 _loss_ of 𝐹 −𝐹 = $40 −$50 = −$10 price ( 𝑡 ). Book a 𝑡 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you buy at 0 something that sells for 𝑆 = $30 . You _lose_: 𝑆 −𝐹 = $30 −$50 = −$20 𝑇 𝑇 0
+**Q1:** What is your profit/loss if you close your position today? **A1:** If you close today ( t ) you need to go short (sell) at a lower F = $40 _loss_ of F −F = $40 −$50 = −$10 price ( t ). Book a t 0 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until F = $50 delivery, you buy at 0 something that sells for S = $30 . You _lose_: S −F = $30 −$50 = −$20 T T 0
 *(See also: [[Lect10_exercises#^gc4l5s]])*
 
 ## Example: Profits going Short
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
+✓ Everything the opposite if we are short at t= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
 ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡
+**Q1:** What is your profit/loss if you close your position today? **A1:** t If you close today ( ) you need to go long (buy) at a lower F = $40 F −F = $50 −$40 = +$10 price ( t ). Book a _profit:_ 0 t
 
 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )?
 
-**A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇
+**A2:** If wait until F = $50 delivery, you sell at 0 something that you S = $30 . You: F = $50 −$30 = +$20 may buy for T _profit_ 0 −ST
 
 ## Example: Profits going Short
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
+✓ Everything the opposite if we are short at t= 0 on same future ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
 ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy for 𝑇 _profit_ 0 −𝑆𝑇
+**Q1:** What is your profit/loss if you close your position today? **A1:** t If you close today ( ) you need to go long (buy) at a lower F = $40 F −F = $50 −$40 = +$10 price ( t ). Book a _profit:_ 0 t **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until F = $50 delivery, you sell at 0 something that you S = $30 . You: F = $50 −$30 = +$20 may buy for T _profit_ 0 −ST
 
 ## Example: Profits going Short
 
-✓ Everything the opposite if we are short at 𝑡= 0 on same future
+✓ Everything the opposite if we are short at t= 0 on same future
 
 - ✓ Assume that you took a short position on a futures contract when the price was **$50**
 
 - ✓ Today the futures price is **$40**
 
-**Q1:** What is your profit/loss if you close your position today? **A1:** 𝑡 If you close today ( ) you need to go long (buy) at a lower 𝐹 = $40 𝐹 −𝐹 = $50 −$40 = +$10 price ( 𝑡 ). Book a _profit:_ 0 𝑡 **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until 𝐹 = $50 delivery, you sell at 0 something that you for 𝑆 = $30 . You: 𝐹 = $50 −$30 = +$20 may buy 𝑇 _profit_ 0 −𝑆𝑇
+**Q1:** What is your profit/loss if you close your position today? **A1:** t If you close today ( ) you need to go long (buy) at a lower F = $40 F −F = $50 −$40 = +$10 price ( t ). Book a _profit:_ 0 t **Q2:** What if you wait until the delivery/settlement date, when the price of the underlying asset is _even lower_ (say **$30** )? **A2:** If wait until F = $50 delivery, you sell at 0 something that you for S = $30 . You: F = $50 −$30 = +$20 may buy T _profit_ 0 −ST
 
 ## Futures: Exchanges & Default Risk
 
@@ -549,7 +549,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - (because contract has become les valuable)
 
-✓ The **amount** debited/credited corresponds `o` and: 𝑭 _Vs_ 𝑭 to the change in futures prices between today yesterday 𝒕 𝒕−𝟏 `o` … considering the quantity of the good to be delivered
+✓ The **amount** debited/credited corresponds `o` and: F _Vs_ F to the change in futures prices between today yesterday t t−1 `o` … considering the quantity of the good to be delivered
 
 ## Margin calls can cause problems
 
@@ -565,9 +565,9 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ✓ The futures price in the following three days are:
 
-1(st) day: 𝐹1 = $80
+1(st) day: F1 = $80
 
-2(nd) day: 𝐹2 = $74 3(rd) day: 𝐹3 = $77
+2(nd) day: F2 = $74 3(rd) day: F3 = $77
 
 **Q**: Calculate the trader’s profits and losses in her m.a.
 
@@ -589,15 +589,15 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 |`o` clearing hou|sedebits  _Q_×|- _F_on long trader’s m.a.|
 |---|---|---|---|---|
-|**Day**|𝑭𝒕|**Future Price** 𝛥𝐹= 𝐹𝑡−𝐹𝑡−1|**Cash flow to m.a.**|**m.a. balance**|
+|**Day**|Ft|**Future Price** ΔF= Ft−Ft−1|**Cash flow to m.a.**|**m.a. balance**|
 |0|$75|--|--|**$15k**|
 |1|$80|$5|**+$25k**= (5k × (+$5))|**$40k**(=$15k+$25k)|
 |2|$74|-$6|**–$30k**= (5k × (-$6))|**$10k**(=$40k-$30k)|
-|3|$77 = 𝑆𝑇|$3|**+$15k**= (5k × (+$3))|**$25k**(=$10k+$15k)|
+|3|$77 = ST|$3|**+$15k**= (5k × (+$3))|**$25k**(=$10k+$15k)|
 
 ## Exercise 1: Mark-to-Market  (3/4)
 
-- ✓ Since the position was not closed before maturity, delivery takes place at the **spot price of 77$** (not at $75): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 !
+- ✓ Since the position was not closed before maturity, delivery takes place at the **spot price of 77$** (not at $75): `o` Note delivery at FT , not at F0 !
 
 - ✓ This is also the price of a future bought at the delivery date (convergence of future with spot price)
 
@@ -609,9 +609,9 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ## Exercise 1: Mark-to-Market (4/4)
 
-✓ In fact, on the **futures position** the **long trader gained**: 𝜋𝑙𝑜𝑛𝑔 = 𝑆𝑇 −𝐹0 ×Q = $ 77 − $ 75 × 5,000 = +$10,000
+✓ In fact, on the **futures position** the **long trader gained**: πlong = ST −F0 ×Q = $ 77 − $ 75 × 5,000 = +$10,000
 
-✓ This is **also** the **same** as the **total cash flows in the margin accounts** $25𝑘−$30𝑘+ $15𝑘= +$10k
+✓ This is **also** the **same** as the **total cash flows in the margin accounts** $25k−$30k+ $15k= +$10k
 
 ✓ So, the trader pays $77 for barrels, but also gets +$10,000 in the margin account which is **like paying $75** for each barrel:
 
@@ -625,7 +625,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ✓ The futures price in the following two days are:
 
-`o` 1(st) day: 𝐹1 = $1,200 `o` 2(nd) day: 𝐹2 = $1,205
+`o` 1(st) day: F1 = $1,200 `o` 2(nd) day: F2 = $1,205
 
 **Q**: Calculate the trader’s profits and losses in her m.a.. Does trader receive margin call to top up funds?
 
@@ -641,18 +641,18 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 `o` _initial_ margin = _Q_ × _F0_ × _im(%)_ = 100 × $1,220 × 0.04=$4,880 `o` _maintenance_ margin = _Q_ × _F0_ × _mm(%)_ = 100 × $1,220 × 0.03=$3,600
 
-|**Day**|𝑭𝒕|**Future Price** 𝛥𝐹= 𝐹𝑡−1−𝐹𝑡|**Cash flow to m.a.**|**m.a. balance**|
+|**Day**|Ft|**Future Price** ΔF= Ft−1−Ft|**Cash flow to m.a.**|**m.a. balance**|
 |---|---|---|---|---|
 |0|$1,220|--|--|**$4,880**|
 |1st|$1,200|+$20|+$2,000 (= 100 x $20)|**$6,8800**(=$4,880+$2,000)|
-|2nd|$1,205 (= 𝑆𝑇)|-$5|-$500 (= 100 x (-$5))|**$6,380**(=$6,880-500)|
+|2nd|$1,205 (= ST)|-$5|-$500 (= 100 x (-$5))|**$6,380**(=$6,880-500)|
 |_Total_|_+$15_|**_+$1,500 (_**_=100 ×($1,220-$1,205))_|**_+$1,500_**_(=$6,380-$4,880)_|
 
 ✓ Trader does not receive margin call `o` indeed m.a. never falls below $3,600
 
 ## Exercise 2: Mark-to-Market (3/4)
 
-✓ Since the position was not closed before maturity, delivery takes place at the **spot price** 𝑺𝑻 **1,205$** (not at $1,220): `o` Note delivery at 𝐹𝑇 , not at 𝐹0 !
+✓ Since the position was not closed before maturity, delivery takes place at the **spot price** ST **1,205$** (not at $1,220): `o` Note delivery at FT , not at F0 !
 
 - ✓ This is also the price of a future sold at the delivery date (again, convergence of future with spot price)
 
@@ -664,7 +664,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ## Exercise 2: Mark-to-Market (4/4)
 
-✓ In fact, on the **futures** position the **short** trader **gained**: 𝜋𝑠ℎ𝑜𝑟𝑡 = 𝐹0 −𝑆𝑇 ×Q = $ 1,220 − $ 1,205 × 100 = +$1,500
+✓ In fact, on the **futures** position the **short** trader **gained**: πsℎort = F0 −ST ×Q = $ 1,220 − $ 1,205 × 100 = +$1,500
 
 ✓ This **is also the same as the total cash flows in the margin accounts**: $ 2,000 − $ 5,000 = $1,500
 
@@ -690,11 +690,11 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ## ✓ Long investor
 
-𝜋𝑙𝑜𝑛𝑔,𝑡 =  𝑄∙ 𝐹1 −𝐹0 + 𝐹2 −𝐹1 + … + 𝐹𝑡 −𝐹𝑡−1 𝜋 𝐹 −𝐹 𝑙𝑜𝑛𝑔,𝑡 = 𝑄∙ 𝑡 0 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to long investor is: 𝜋𝑙𝑜𝑛𝑔,𝑇 = 𝑄∙ 𝑆𝑇 −𝐹0
+πlong,t =  Q∙ F1 −F0 + F2 −F1 + … + Ft −Ft−1 π F −F long,t = Q∙ t 0 `o` F ⟶S if wait delivery, since T T , the total profit/loss to long investor is: πlong,T = Q∙ ST −F0
 
 ## ✓ Short investor
 
-𝜋𝑠ℎ𝑜𝑟𝑡,𝑡 =  𝑄∙ 𝐹0 −𝐹1 + 𝐹1 −𝐹2 + … + 𝐹𝑡−1 −𝐹𝑡 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑡 = 𝑄∙ 0 −𝐹𝑡 `o` 𝐹 ⟶𝑆 if wait delivery, since 𝑇 𝑇 , the total profit/loss to short investor is: 𝜋 𝐹 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑄∙ 0 −𝑆𝑇
+πsℎort,t =  Q∙ F0 −F1 + F1 −F2 + … + Ft−1 −Ft π F sℎort,t = Q∙ 0 −Ft `o` F ⟶S if wait delivery, since T T , the total profit/loss to short investor is: π F sℎort,T = Q∙ 0 −ST
 
 ## Stock Index Future
 
@@ -708,7 +708,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 ✓ How much? The cash amount is equal to the stock market index at the delivery date × _**multiplier**_
 
-𝜋 −𝐹 𝑙𝑜𝑛𝑔,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝑆𝑇 0) 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟× (𝐹0 −𝑆𝑇)
+π −F long,T = multiplier× (ST 0) π sℎort,T = multiplier× (F0 −ST)
 
 ## Example: S&P500 futures
 
@@ -718,7 +718,7 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 × `o` value of futures contract: $375,000 (= 250 $1,500)
 
-✓ Suppose the spot price at 𝑡= 𝑇 is: _S&P500T_ = $1,000: 𝜋𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $1,500 −$1,000 𝜋 𝑠ℎ𝑜𝑟𝑡,𝑇 = 250 × $500 = $125,000
+✓ Suppose the spot price at t= T is: _S&P500T_ = $1,000: \pisℎort,T = 250 × $1,500 −$1,000 \pi sℎort,T = 250 × $500 = $125,000
 
 `o` you sold at $375k but only need to deliver $250k (=$375k-$125k) `o` technically, only $125k will be exchanged at delivery
 
@@ -734,11 +734,11 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - ✓ the S&P500 futures is currently selling at $1,000
 
-**Q:** How many future contracts do you need? 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑃𝑜𝑟𝑡𝑓𝑜𝑙𝑖𝑜 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= 𝑆&𝑃500 𝑉𝑎𝑙𝑢𝑒𝑜𝑓𝑆&𝑃𝑓𝑢𝑡𝑢𝑟𝑒𝑠(=) 𝑇 × 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 $100,000,000 $100,000,000 # 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠= = 400 $1,000 × 250(=) $250,000
+**Q:** How many future contracts do you need? ValueofPortfolio ValueofPortfolio # contracts= S&P500 ValueofS&Pfutures(=) T × multiplier $100,000,000 $100,000,000 # contracts= = 400 $1,000 × 250(=) $250,000
 
 ## Stock Index Futures
 
-✓ Suppose after the year, the S&P 500 is at $900 ✓ You had a short position in the future, so you gained: `o` 𝜋 = Δ𝐹× 𝑠ℎ𝑜𝑟𝑡 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠× 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟 `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$900 × 400 × 250 = +$10𝑀!
+✓ Suppose after the year, the S&P 500 is at $900 ✓ You had a short position in the future, so you gained: `o` π = ΔF× sℎort contracts× multiplier `o` πsℎort = $1,000 −$900 × 400 × 250 = +$10M!
 
 ✓ this will also be the total inflow in the m.a.
 
@@ -750,9 +750,9 @@ The insurance is short on T-bonds: it wants to invest in T-bonds, however worrie
 
 - ✓ Suppose instead, after the year the S&P 500 is at $1,100 ✓ You had a short position, so you lost:
 
-- 𝜋 = Δ𝐹∙ 𝑠ℎ𝑜𝑟𝑡 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑒𝑟
+- π = ΔF∙ sℎort contracts multiplier
 
-- `o` 𝜋𝑠ℎ𝑜𝑟𝑡 = $1,000 −$1,100 ∙400 ∙250 = −$10𝑀!
+- `o` πsℎort = $1,000 −$1,100 ∙400 ∙250 = −$10M!
 
 - ✓ this will also be the total outflow from the m.a.
 

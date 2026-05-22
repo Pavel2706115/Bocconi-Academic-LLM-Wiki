@@ -120,7 +120,7 @@ The definition of variance is slightly different for populations and samples. - 
 
 - The **sample variance** is instead defined as:
 
-𝑛 1 𝑠(2) = (𝑥𝑖 − ҧ𝑥)(2) where ҧ𝑥 is the sample mean 𝑛 −1(෍) 𝑖=1
+n 1 s(2) = (xi − \bar{x})(2) where \bar{x}_{i}s the sample mean n −1(\sum) i=1
 
 - _**n**_
 
@@ -191,7 +191,7 @@ _The dispersion measures suggest that the distribution has relatively long tails
 
 **Nr_visits (Loyalty dataframe): number of visits to the store in the considered period**
 
-|**Nr_visits**|**_fk_**|**_pk_**|**𝒙𝒌** **∗****_pk_**|𝒙𝒌 ∗𝟐**_pk_**|
+|**Nr_visits**|**_fk_**|**_pk_**|**xk** **∗****_pk_**|xk ∗2**_pk_**|
 |---|---|---|---|---|
 |**1** X& :|**18**|**0.144**|**0.144**|**0.144**|
 |**2** X* -|**48**|**0.384**|**0.768**|**1.536**|
@@ -206,7 +206,7 @@ In the case of grouped data, we saw that the **mean** can be calculated as **the
 
 Using the same procedure, the **mean of the squared observed values** can be calculated obtaining **8.760**
 
-This gives 𝒔(𝟐) = (125/124)(8.760 – 2.664(2) ) = **1.6765** and 𝒔 = **1.295**
+This gives s(2) = (125/124)(8.760 – 2.664(2) ) = **1.6765** and s = **1.295**
 
 ## Variance and standard deviation for grouped data
 
@@ -236,7 +236,7 @@ Discretizing on the midpoints of the intervals
 
 - The mean of the squared values is **978.80**
 
-This gives 𝒔(𝟐) = (125/124)(978.80 – 27.56[2) ) = **221.01** e 𝒔 = **14.87**
+This gives s(2) = (125/124)(978.80 – 27.56[2) ) = **221.01** e s = **14.87**
 
 ## Applications / 1
 
@@ -246,7 +246,7 @@ _Variance and standard deviation_ _**both have a unit of measurement** ; therefo
 
 _It is meaningless to compare the extent of dispersion in the two distributions based on these measures!_
 
-**UK:** ഥ𝒙 = 32467.03; 𝒔 = **16190.32 US:** ഥ𝒙 =94.88; 𝒔 = **66.29 Can we conclude that the distribution of income in the UK is more dispersed than in the US?**
+**UK:** \bar{x} = 32467.03; s = **16190.32 US:** \bar{x} =94.88; s = **66.29 Can we conclude that the distribution of income in the UK is more dispersed than in the US?**
 
 # Variability/dispersion measures The coefficient of variation
 
@@ -270,7 +270,7 @@ _In relation to the mean, the income is more dispersed in the US, despite lower 
 
 - _1) due the different_ _**currency** (£ and $) 2) because the US income is_ _**measured** in thousands of $_
 
-**UK:** ഥ𝒙 = 32467.03; 𝒔 = **16190.32 (sterling, £) US:** ഥ𝒙 =94.88; 𝒔 = **66.29 (thousands, $)**
+**UK:** \bar{x} = 32467.03; s = **16190.32 (sterling, £) US:** \bar{x} =94.88; s = **66.29 (thousands, $)**
 
 _**The CV allows a correct comparison between data with different units of measurement.**_
 
@@ -282,7 +282,7 @@ _The CV of the distribution of  income in US is (data in thousands of dollars): 
 
 _CV= 66290/94880 = 0.699 By changing the scale (dollars or thousands of dollars), the mean, the variance and the standard deviation_ _**change! The coefficient of variation instead does not change because it does not react to changes in the unit of measurement!!!**_
 
-**US (income in thousands of dollars)**: ഥ𝒙 =94.88; 𝒔 = **66.29** ഥ **US (income in dollars)**: 𝒙 =94880; 𝒔 =66290 **The mean and the standard deviation change with the unit of measurement**
+**US (income in thousands of dollars)**: \bar{x} =94.88; s = **66.29** \bar{X} **US (income in dollars)**: x =94880; s =66290 **The mean and the standard deviation change with the unit of measurement**
 
 ## Applications / 2
 

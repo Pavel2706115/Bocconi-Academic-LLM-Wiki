@@ -5,7 +5,7 @@ tags:
   - "source"
   - course_30066
 Links:
-Title: "**IS IT POSSIBLE TO CHANGE AND ?** 𝑢𝑢 𝑌𝑌 𝑛𝑛 𝑛𝑛"
+Title: "**IS IT POSSIBLE TO CHANGE AND ?** uu YY nn nn"
 Reference: "Course Material"
 Created: 2026-05-18
 Processed: true
@@ -222,7 +222,7 @@ When workers expect higher prices ask for higher nominal wages, and if firms exp
 
 => positive relationship btw expected prices and nominal wages
 
-𝑷𝑷(𝒆𝒆) ↑⇒𝑾𝑾↑
+PP(ee) ↑⇒WW↑
 
 2. Labor market conditions:
 
@@ -260,7 +260,7 @@ z = labor market institutions that give more power to worker and less to firms
 
 In a synthetic way the nominal aggregate wage level in the economy will be
 
-𝑾𝑾= 𝑷𝑷(𝒆𝒆) 𝑭𝑭 𝒖𝒖, 𝒛𝒛 −+: Wage equation explains the determinants of the average nominal wage level bargained btw firms and workers
+WW= PP(ee) FF uu, zz −+: Wage equation explains the determinants of the average nominal wage level bargained btw firms and workers
 
 ## PRICE SETTING
 
@@ -272,15 +272,15 @@ Production function: relationship between inputs and output
 
 ## ASSUMPTIONS
 
-- Assumption: only 1 factor – Labor, 𝑁𝑁
+- Assumption: only 1 factor – Labor, NN
 
 - L = N + U = population  => no inactive in the economy
 
-𝑈𝑈 𝐿𝐿−𝑁𝑁 𝑁𝑁 - u = = 1 − Employment rate 𝐿𝐿(=) 𝐿𝐿 𝐿𝐿
+UU LL−NN NN - u = = 1 − Employment rate LL(=) LL LL
 
 - Linear production function: Y = AN n. workers output Labor productivity
 
-(Your book simplifies assuming 𝐴𝐴= 1 ⇒𝑌𝑌= 𝑁𝑁 )
+(Your book simplifies assuming AA= 1 ⇒YY= NN )
 
 ## Firms set prices to cover their production costs
 
@@ -294,27 +294,27 @@ Production function: relationship between inputs and output
 
 If firms have some market power would charge a price higher than the marginal cost
 
-𝑝𝑝> 𝑀𝑀𝑇𝑇 They charge a mark up over the marginal costs
+pp> MMTT They charge a mark up over the marginal costs
 
-𝑃𝑃= 𝑀𝑀𝑇𝑇+ 𝑚𝑚 𝑀𝑀𝑇𝑇= 1 + 𝑚𝑚𝑀𝑀𝑇𝑇 markup over the marginal cost
+PP= MMTT+ mm MMTT= 1 + mmMMTT markup over the marginal cost
 
 Substituting the marginal cost the price level will be
 
-𝑊𝑊 Price equation: rule 𝑃𝑃= 1 + 𝑚𝑚 𝐴𝐴 used to set prices
+WW Price equation: rule PP= 1 + mm AA used to set prices
 
 ## Given the price setting rule
 
-𝑊𝑊 𝑃𝑃= 1 + 𝑚𝑚 𝐴𝐴
+WW PP= 1 + mm AA
 
-- If 𝑚𝑚↑⇒𝑃𝑃↑:
+- If mm↑⇒PP↑:
 
 - Firms have higher market power => charge higher prices
 
-- If 𝑊𝑊↑⇒𝑃𝑃↑:
+- If WW↑⇒PP↑:
 
 - Higher wages => higher production costs => higher prices
 
-- If 𝐴𝐴↑⇒𝑃𝑃↓:
+- If AA↑⇒PP↓:
 
 - Higher productivity => less workers needed to produce 1 additional => lower production costs => lower prices
 
@@ -334,17 +334,17 @@ Substituting the marginal cost the price level will be
 
 - …
 
-- In a perfectly competitive market 𝑚𝑚= 0 => 𝑃𝑃= 𝑀𝑀𝑇𝑇
+- In a perfectly competitive market mm= 0 => PP= MMTT
 
 ## MEDIUM RUN EQUILIBRIUM
 
 The real wage and the unemployment rate are at a level that is consistent with the wage-setting and price-setting rules, and expectations are correct
 
-𝑊𝑊= 𝑃𝑃(𝑒𝑒) 𝐹𝐹 𝑢𝑢, 𝑧𝑧 𝑊𝑊= 𝑃𝑃𝐹𝐹 𝑢𝑢, 𝑧𝑧 𝑊𝑊= 𝑃𝑃𝐹𝐹 𝑢𝑢, 𝑧𝑧 WS CURVE 𝑊𝑊 𝑃𝑃= 1 + 𝑚𝑚 𝑊𝑊 𝑊𝑊 𝐴𝐴 𝐴𝐴 𝑃𝑃= 1 + 𝑚𝑚 PS CURVE 𝑃𝑃= 𝑃𝑃(𝑒𝑒) 𝐴𝐴 𝑃𝑃(=) 1 + 𝑚𝑚
+WW= PP(ee) FF uu, zz WW= PPFF uu, zz WW= PPFF uu, zz WS CURVE WW PP= 1 + mm WW WW AA AA PP= 1 + mm PS CURVE PP= PP(ee) AA PP(=) 1 + mm
 
 ## Curves plotted in the (u, W/P) plane
 
-𝑢𝑢𝑛𝑛𝑛𝑛 Natural (structural) rate of unemployment
+uunnnn Natural (structural) rate of unemployment
 
 Depends only on _structural factors_ of the - labor market (z) - Product market (m, A)
 
@@ -370,25 +370,25 @@ _How much does the economy produce in the medium run?_
 
 In the labor market
 
-In the medium run 𝑢𝑢= 𝑢𝑢𝑛𝑛
+In the medium run uu= uunn
 
-Given the production function 𝑌𝑌= 𝐴𝐴𝑁𝑁 we obtain:
+Given the production function YY= AANN we obtain:
 
 Potential (natural or structural) output
 
-- potential output 𝑌𝑌𝑛𝑛
+- potential output YYnn
 
 - medium run level
 
 - determined only by structural factors of the labor market and the products market
 
-- actual output 𝑌𝑌𝑡𝑡
+- actual output YYtt
 
 - short run level
 
 - determined by demand factors
 
-𝑌𝑌𝑡𝑡 −𝑌𝑌𝑛𝑛 = Output Gap _Positive O.G. Negative O.G._ economy below economy above its potential its potential
+YYtt −YYnn = Output Gap _Positive O.G. Negative O.G._ economy below economy above its potential its potential
 
 ## SUMMING UP
 
@@ -408,7 +408,7 @@ Potential (natural or structural) output
 
 - The medium run level of unemployment and output does not depend on the demand
 
-# **IS IT POSSIBLE TO CHANGE AND ?** 𝑢𝑢 𝑌𝑌 𝑛𝑛 𝑛𝑛
+# **IS IT POSSIBLE TO CHANGE AND ?** uu YY nn nn
 
 Yes, but only with structural changes in the markets => structural reforms of the labor market or of the goods market
 
@@ -418,17 +418,17 @@ The government passes a reform to make unemployment benefits more generous (in t
 
 ## The government passes a reform to make unemployment benefits more generous
 
-𝑢𝑢
+uu
 
 What happens graphically ?
 
-Workers ask for higher wages: 𝑊 ↑ _PS_ unchanged
+Workers ask for higher wages: W ↑ _PS_ unchanged
 
 Equilibrium moves from N to N’ In the medium run
 
 - the real wage paid by firms is unchanged
 
-- 𝑢𝑢𝑛𝑛 ↑ while 𝑌𝑌𝑛𝑛 ↓
+- uunn ↑ while YYnn ↓
 
 What happens economically? What is the economic intuition behind the change in the equilibrium?
 
@@ -456,7 +456,7 @@ _How can we analyze this shock in the model?_
 
 ## After the reform firms will have more market power in the product market
 
-Firms set higher prices and the real wage that maximizes profits decreases: 𝑃𝑃𝑊𝑊↓ _WS_ unchanged
+Firms set higher prices and the real wage that maximizes profits decreases: PPWW↓ _WS_ unchanged
 
 What happens economically? What is the economic intuition behind the change in the equilibrium?
 
@@ -484,7 +484,7 @@ Firms make a huge investment in new information technologies _How can we analyze
 
 Which curve is affected?
 
-Firms set lower prices and the real wage that maximizes profits increases: 𝑃𝑃𝑊𝑊↑
+Firms set lower prices and the real wage that maximizes profits increases: PPWW↑
 
 _WS_ unchanged
 
@@ -494,7 +494,7 @@ In the medium run
 
 - the real wage paid by firms ↑
 
-- - 𝑢𝑢𝑛𝑛 ↓ while 𝑌𝑌𝑛𝑛 ↑
+- - uunn ↓ while YYnn ↑
 
 What happens economically? What is the economic intuition behind the change in the equilibrium?
 
@@ -549,7 +549,7 @@ d) The energy crisis will only have short-term effects, with no consequences in 
 
 The natural rate of unemployment (NAIRU) is the rate of unemployment arising from all sources except fluctuations in aggregate demand. Estimates of potential GDP are based on the long-term natural rate.
 
-**Not observed, estimated!!! EU > US** 𝒖𝒖 𝒖𝒖 𝒏𝒏 𝒏𝒏
+**Not observed, estimated!!! EU > US** uu uu nn nn
 
 ## TAKE AWAY AND KEY CONCEPTS
 
@@ -583,7 +583,7 @@ The natural rate of unemployment (NAIRU) is the rate of unemployment arising fro
 
 ## WAGE SETTING CURVE
 
-𝑊𝑊 Position of the WS depends on z. 𝑊: −(, 𝑧𝑧) +()) 𝑃𝑃(= 𝐹𝐹(𝑢𝑢) 𝑊𝑊 When z increases, given the 𝑃𝑃 unemployment rate, workers have more bargaining power => ask for and obtain higher nominal and real wages => The WS shifts upward 𝑾𝑾𝑷𝑷𝑊 𝑾𝑾𝑷𝑷 𝑢𝑢 ^hcrdyo
+WW Position of the WS depends on z. W: −(, zz) +()) PP(= FF(uu) WW When z increases, given the PP unemployment rate, workers have more bargaining power => ask for and obtain higher nominal and real wages => The WS shifts upward WWPPW WWPP uu ^hcrdyo
 
 When z decreases, workers in the economy are less protected, and their bargaining power relative to firms decreases => they ask for and receive lower nominal and real wages => the WS curve shifts downward
 
@@ -591,20 +591,20 @@ When z decreases, workers in the economy are less protected, and their bargainin
 
 ## THE LABOR MARKET IN THE SHORT RUN
 
-- Why in the short run 𝑌𝑌𝑡𝑡 ≠𝑌𝑌𝑛𝑛 ? Simply because 𝑃𝑃(𝑒𝑒) ≠𝑃𝑃 𝑊𝑊 𝑃𝑃
+- Why in the short run YYtt ≠YYnn ? Simply because PP(ee) ≠PP WW PP
 
-- - Assume 𝑢𝑢0 < 𝑢𝑢𝑛𝑛 – 𝑊𝑊𝑒𝑒(>) 𝑊𝑊 𝑃𝑃0 𝑃𝑃0(⇒)
+- - Assume uu0 < uunn – WWee(>) WW PP0 PP0(⇒)
 
 **(Underestimation of current )**
 prices
 
-- – Workers will ask higher nominal wages 𝑁𝑁
+- – Workers will ask higher nominal wages NN
 
-- – Given prices that allow to max profits. Firms offer the same real wage as before 𝑷
+- – Given prices that allow to max profits. Firms offer the same real wage as before P
 
 - – It is necessary a higher unemployment rate to induce worker to accept the lower W/P
 
-- - Over time, expectations adjust and in the medium run 𝑃𝑃(𝑒𝑒) = 𝑃𝑃⇒𝑢𝑢= 𝑢𝑢𝑛𝑛 𝑢𝑢0 𝑢𝑢𝑛𝑛
+- - Over time, expectations adjust and in the medium run PP(ee) = PP⇒uu= uunn uu0 uunn
 
 ## Related Notes
 - [[Trigari_06(Chapter 7)]]

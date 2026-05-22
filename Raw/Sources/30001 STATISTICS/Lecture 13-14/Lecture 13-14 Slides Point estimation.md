@@ -36,7 +36,7 @@ Processed: false
 
 **(READING)**
 
-**Inferential** statistics concerns the procedures required to make **extrapolations** on **parameters** of a population 𝑿 from **statistics** (e.g. the sample mean) calculated for a simple random sample 𝑿1, 𝑿2, … , 𝑿𝑛 extracted from 𝑿
+**Inferential** statistics concerns the procedures required to make **extrapolations** on **parameters** of a population X from **statistics** (e.g. the sample mean) calculated for a simple random sample X1, X2, … , Xn extracted from X
 
 - **Estimation** of a parameter
 
@@ -50,17 +50,17 @@ Processed: false
 
 With reference to point estimation, it is fundamental to distinguish between:
 
-- **Parameter: θ.** Measurable characteristic of the **population with reference to a r.v.** 𝑿 Examples of parameters are the mean, **μ** , or the standard deviation, **σ** , of the population, or the proportion 𝒑 of cases with a certain characteristic in the population.
+- **Parameter: θ.** Measurable characteristic of the **population with reference to a r.v.** X Examples of parameters are the mean, **μ** , or the standard deviation, **σ** , of the population, or the proportion p of cases with a certain characteristic in the population.
 
-- **Estimator:** 𝛉(෡) . **Statistic** used to **estimate θ** . 𝛉(෡) is a function of the outcome of (simple) random sample of 𝑛 i. i. d. draws 𝑿1, … , 𝑿𝑛 distributed as 𝑿 , i.e. 𝛉(෡) = 𝑓(𝑿1, … , 𝑿𝑛) . Since the realisations of 𝑿1, … , 𝑿𝑛 are **random,** 𝛉(෡) is a **r.v.** describing the realisations of 𝛉(෡) with respect 𝑿 . to all the samples that can be extracted from
+- **Estimator:** θ\hat{P} . **Statistic** used to **estimate θ** . θ\hat{P} is a function of the outcome of (simple) random sample of n i. i. d. draws X1, … , Xn distributed as X , i.e. θ\hat{P} = f(X1, … , Xn) . Since the realisations of X1, … , Xn are **random,** θ\hat{P} is a **r.v.** describing the realisations of θ\hat{P} with respect X . to all the samples that can be extracted from
 
-For example, the sample mean 𝑿(ഥ) = ((𝑿1 + ⋯+ 𝑿𝑛)/𝒏 ) is a possible estimator of the population mean, **μ** . Note that until a sample is actually drawn, 𝑿(ഥ) is a random variable, whose realisation is not known a priori.
+For example, the sample mean \bar{X} = ((X1 + ⋯+ Xn)/n ) is a possible estimator of the population mean, **μ** . Note that until a sample is actually drawn, \bar{X} is a random variable, whose realisation is not known a priori.
 
-- **Estimate:** 𝜗(መ) 𝛉(෡) **. Sample realisation of an estimator** calculated from the specific sample
+- **Estimate:** θ\hat{\beta}_0 θ\hat{P} **. Sample realisation of an estimator** calculated from the specific sample
 
-actually drawn, 𝒙1, … , 𝒙𝑛 .
+actually drawn, x1, … , xn .
 
-For example, extracting a **specific** sample of size 10 from 𝑿 , ( **1, 0.5, 2.5, 4, 3.5, 6, 7, 8, 8.5, 9** ) the realisation of 𝑿(ഥ) is ҧ𝑥 = 5 .
+For example, extracting a **specific** sample of size 10 from X , ( **1, 0.5, 2.5, 4, 3.5, 6, 7, 8, 8.5, 9** ) the realisation of \bar{X} is \bar{x} = 5 .
 
 ## Point estimation: parameter, estimator, estimate
 
@@ -68,7 +68,7 @@ Examples. We are interested in assessing a master’s degree with reference to t
 
 - **What is the monthly salary a generic graduate can expect?**
 
-- 𝑿 **= monthly salary of a randomly selected graduate**
+- X **= monthly salary of a randomly selected graduate**
 
 - **Parameter of interest: population average,** - **, calculated on all graduates**
 
@@ -76,9 +76,9 @@ Examples. We are interested in assessing a master’s degree with reference to t
 
 - **What is the (squared) expected deviation around the average salary?**
 
-- 𝑿 **= monthly salary of a randomly selected graduate** - - (2) **Parameter of interest: population variance,** - **Estimator: sample variance (random variable)**
+- X **= monthly salary of a randomly selected graduate** - - (2) **Parameter of interest: population variance,** - **Estimator: sample variance (random variable)**
 
-- **What percentage of graduates found a job within 6 months of graduation?** - 𝑿 **= Bernoulli r.v. indicating whether a graduate found (1) or not (0) work within 6 months** - **Parameter of interest: proportion of graduates who found a job within 6 months, p** - **Estimator: sample success rate,** 𝑷(෡) **(random variable, average of** 𝑿1, 𝑿2, … , 𝑿200 **)**
+- **What percentage of graduates found a job within 6 months of graduation?** - X **= Bernoulli r.v. indicating whether a graduate found (1) or not (0) work within 6 months** - **Parameter of interest: proportion of graduates who found a job within 6 months, p** - **Estimator: sample success rate,** P\hat{P} **(random variable, average of** X1, X2, … , X200 **)**
 
 ## Point estimatation: parameter, estimator, estimate
 
@@ -96,19 +96,19 @@ However, to assess the reliability of the inferential procedure, we can ask ours
 
 ## Properties of estimators: unbiasedness
 
-A point estimator θ(෠) 𝑛 based on a (simple random) sample of 𝑛 units is said to be **unbiased** for a parameter θ if its expected value coincides with the parameter itself, for any value of 𝑛 and θ:
+A point estimator \hat{θ} n based on a (simple random) sample of n units is said to be **unbiased** for a parameter θ if its expected value coincides with the parameter itself, for any value of n and θ:
 
-෠ 𝐸 θ𝑛 = θ for any value of 𝑛 and θ
+\hat{E} θn = θ for any value of n and θ
 
-If an estimator θ(෠) 𝑛 is **biased** for a parameter θ , its **bias** is defined by
+If an estimator \hat{θ} n is **biased** for a parameter θ , its **bias** is defined by
 
 A **biased** estimator for a parameter θ , is said to be **asymptotically unbiased** if, as the sample size increases, the bias is reduced:
 
-lim ෠θ𝑛 = 0 or equivalently lim ෠θ𝑛 = θ 𝑛→∞(𝐷) 𝑛→∞(𝐸)
+lim \hat{θ}_{n} = 0 or equivalently lim \hat{θ}_{n} = θ n→∞(D) n→∞(E)
 
 ## Standard error of an unbiased estimator
 
-For a generic **unbiased** estimator θ(෠) for a parameter θ , i.e. such that 𝐸(θ)(෠) = θ:
+For a generic **unbiased** estimator \hat{θ} for a parameter θ , i.e. such that E(θ)(\hat{P}) = θ:
 
 The **variance of an unbiased estimator is the expected squared deviation** of **the estimator** from **the parameter of interest** (as the expected value of the estimator is the parameter itself). **The standard deviation of an unbiased estimator** is called **standard error of the estimator** . The variance (and the standard error) of an unbiased estimator provides information on the **reliability** of the estimator.
 
@@ -116,37 +116,37 @@ Among all the unbiased estimators for a certain parameter, the one with the smal
 
 ## Estimator for the population mean
 
-Given a population described by a r.v. 𝑿, we are typically interested in is its **mean** (or expected = value) 𝐸(𝑿) 𝛍 . A ‘natural’ (or intuitive) estimator for 𝛍 based on an i.i.d. random sample 𝑿1, 𝑿2, … , 𝑿𝑛 , is the **sample mean** 𝑿(ഥ) .
+Given a population described by a r.v. X, we are typically interested in is its **mean** (or expected = value) E(X) μ . A ‘natural’ (or intuitive) estimator for μ based on an i.i.d. random sample X1, X2, … , Xn , is the **sample mean** \bar{X} .
 
-As we have already seen, **whatever the distribution of** 𝑿 is, the following hold **:**
+As we have already seen, **whatever the distribution of** X is, the following hold **:**
 
-ഥ - the expected value of 𝑿(ഥ) is: 𝐸 𝑿= 𝐸 𝑿1 + ⋯+ 𝐸 𝑿𝑛 /𝒏= 𝒏∙𝛍 / 𝒏= 𝛍 therefore 𝑿(ഥ) is an **unbiased estimator for** 𝛍
+\bar{X} - the expected value of \bar{X} is: E X= E X1 + ⋯+ E Xn /n= n∙μ / n= μ therefore \bar{X} is an **unbiased estimator for** μ
 
-- The variance of 𝑿(ഥ) is: 𝑉𝑎𝑟 ഥ𝑿= 𝑉𝑎𝑟 𝑿1/𝑛+ ⋯+ 𝑉𝑎𝑟 𝑿𝑛/𝑛= 𝒏∙𝛔(2) / 𝒏(2) = 𝛔(2) / 𝒏 with 𝛔(2) = 𝑉𝑎𝑟(𝑿) and therefore its standard error is 𝑺𝑬𝑿ഥ = 𝛔(2) / 𝒏 . As 𝒏 increases, the dispersion of **estimates** around 𝛍 decreases!
+- The variance of \bar{X} is: Var \bar{X}= Var X1/n+ ⋯+ Var Xn/n= n∙σ(2) / n(2) = σ(2) / n with σ(2) = Var(X) and therefore its standard error is SE\bar{X} = σ(2) / n . As n increases, the dispersion of **estimates** around μ decreases!
 
 In addition
 
-- It can be shown that given 𝒏 , 𝑿(ഥ) is the unbiased estimator with **minimum variance (the most** _**efficient**_ **)**
+- It can be shown that given n , \bar{X} is the unbiased estimator with **minimum variance (the most** _**efficient**_ **)**
 
-- If 𝑿 is normally distributed, the **distribution** of 𝑿(ഥ) is also **normal;** the same applies, whatever the distribution of 𝑿 , if 𝒏 is sufficiently high (central limit theorem).
+- If X is normally distributed, the **distribution** of \bar{X} is also **normal;** the same applies, whatever the distribution of X , if n is sufficiently high (central limit theorem).
 
 ## Estimator for the population variance
 
-Note that the variance of 𝑿(ഥ) 𝛔(2) depends on the variance of the population, which **is typically unknown.** To estimate 𝛔(2) one can use the **sample variance** 𝑺(𝟐):
+Note that the variance of \bar{X} σ(2) depends on the variance of the population, which **is typically unknown.** To estimate σ(2) one can use the **sample variance** S(2):
 
-𝑛 −(ഥ) 𝑿 𝑿 ( 𝑖 )(2) 𝑺(2) = ෍ 𝑛−1 𝑖=1
+n −(\bar{X}) X X ( i )(2) S(2) = \sum n−1 i=1
 
 It can be shown that:
 
-The sample variance 𝑺(2) is an **unbiased estimator** 𝐸(𝑺(2) ) = 𝛔(2) **for** 𝛔(2) **whatever the distribution of** 𝑿
+The sample variance S(2) is an **unbiased estimator** E(S(2) ) = σ(2) **for** σ(2) **whatever the distribution of** X
 
 The so-called **unadjusted** sample variance:
 
-𝑛 −(ഥ) 𝑿 𝑿 ( 𝑖 )(2) ෨𝑺(𝟐) = ෍ 𝑛 𝑖=1
+n −(\bar{X}) X X ( i )(2) \hat{S}(2) = \sum n i=1
 
-𝒏−𝟏 𝑺(𝟐) is characterised by: 𝐸((෨) ) = 𝒏(𝛔)(2)
+n−1 S(2) is characterised by: E((\hat{P}) ) = n(σ)(2)
 
-෨𝑺(𝟐) is a **biased estimator for** 𝛔(2) , but it is **asymptotically unbiased**
+\hat{S}(2) is a **biased estimator for** σ(2) , but it is **asymptotically unbiased**
 
 ## Hands on: estimating the population mean
 
@@ -172,35 +172,33 @@ _The standard error represents the_ _**expected deviation** of a_ _**generic** e
 
 - This dataframe and all the other used below are in file **`Lesson 13-14_Data.Rdata`**
 
-## Hands on: estimating the population mean
+## Hands on: estimating the population mea\bar{n} \bar{X} **“Since the standard error is** SEX **= 8.66 and** x **= 254.3733 we can conclude that the expected deviation between the population mean,** μ **, and 254.3733 is 8.66”. Comments** ?
 
-ഥ ഥ **“Since the standard error is** 𝑺𝑬𝑿 **= 8.66 and** 𝒙 **= 254.3733 we can conclude that the expected deviation between the population mean,** 𝛍 **, and 254.3733 is 8.66”. Comments** ?
+The statement is false: **8.66** is the deviation from of a and not of a **expected** μ **generic specific** estimate! We cannot exclude higher or lower deviations: **8.66** is only a **summary** of the deviations characterising the estimates calculated on **all** possible samples.
 
-The statement is false: **8.66** is the deviation from of a and not of a **expected** 𝛍 **generic specific** estimate! We cannot exclude higher or lower deviations: **8.66** is only a **summary** of the deviations characterising the estimates calculated on **all** possible samples.
+To further clarify this fundamental aspect, remember that since n =300, \bar{X} has a distribution that can be **approximated** by a normal (central limit theorem):
 
-To further clarify this fundamental aspect, remember that since 𝒏 =300, 𝑿(ഥ) has a distribution that can be **approximated** by a normal (central limit theorem):
+X~N(\bar{X} - **, σ(2)** /300) = N( - **, 8.66(2)** )
 
-𝑿~𝓝(ഥ - **, σ(2)** /300) = 𝓝( - **, 8.66(2)** )
+The standard error measures the **dispersion** of the **estimates** . obtained based on all the possible samples around μ
 
-The standard error measures the **dispersion** of the **estimates** . obtained based on all the possible samples around 𝛍
-
-_We cannot rule out that the estimate obtained based on the specific available sample (254.3733) is far from_ 𝛍 _. What we can say though is that the probability to draw a sample leading to an estimate close to_ 𝛍 _is higher than the probability to draw a sample leading to an estimate far from_ 𝛍 _. The lower the standard error of the estimator the higher the probability of estimates close to_ 𝛍 _._
+_We cannot rule out that the estimate obtained based on the specific available sample (254.3733) is far from_ μ _. What we can say though is that the probability to draw a sample leading to an estimate close to_ μ _is higher than the probability to draw a sample leading to an estimate far from_ μ _. The lower the standard error of the estimator the higher the probability of estimates close to_ μ _._
 
 **μ**
 
 ## Hands on: estimating the population mean
 
-**How to obtain an estimator with a lower standard error? What effects on estimation?** By increasing the sample size the standard error of 𝑿(ഥ) decreases.
+**How to obtain an estimator with a lower standard error? What effects on estimation?** By increasing the sample size the standard error of \bar{X} decreases.
 
 **What is the sample size required to reduce the standard error to a maximum of 5 seconds?** For the standard error of the sample mean to be at most 5, we must have:
 
 **Assume that a sample of size 900 is drawn leading to an estimate equal to 7.24. “** _**Since 7.24 is based upon a larger sample (900) such estimate is more reliable than the estimate, 8.66, based on a sample of size 300**_ **”. Comments?**
 
-Surely the standard error of the estimatore based upon a larger sample is smaller. Therefore the concentration of the possible estimates around 𝛍 will be higher and the probability of estimates far from 𝛍 lower. Nonetheless, we cannot draw any conclusions about a **specific estimate** , because it might be that the larger sample contains some extreme or outlying cases and the smaller sample contains very “central” observations
+Surely the standard error of the estimatore based upon a larger sample is smaller. Therefore the concentration of the possible estimates around μ will be higher and the probability of estimates far from μ lower. Nonetheless, we cannot draw any conclusions about a **specific estimate** , because it might be that the larger sample contains some extreme or outlying cases and the smaller sample contains very “central” observations
 
 ## Hands on: estimating the population mean
 
-**How would your assessment of the standard error of** 𝑿(ഥ) **and of the sample size needed to have a standard error lower than 5 change if** 𝛔 **(2) was not known?** It is not possible to answer precisely as in the case when the variance is known. Even so, it is possible to **estimate** 𝛔(2) using the sample variance, 𝑺(𝟐) ; the **estimate** of the standard error based on the available sample is: 𝒔𝒆𝑿ഥ = 𝒔(𝟐) /𝒏
+**How would your assessment of the standard error of** \bar{X} **and of the sample size needed to have a standard error lower than 5 change if** σ **(2) was not known?** It is not possible to answer precisely as in the case when the variance is known. Even so, it is possible to **estimate** σ(2) using the sample variance, S(2) ; the **estimate** of the standard error based on the available sample is: se\bar{X} = s(2) /n
 
 - **`n <- nrow(CallCenter.P)`**
 
@@ -210,9 +208,9 @@ Surely the standard error of the estimatore based upon a larger sample is smalle
 
 - **`(1) 28445.97`**
 
-- **`se_Xbar <- sqrt(s2_X/n) # estimate of the standard error > se_Xbar`** _Note that the estimated variance based on the sample (and the estimated_ **`(1) 9.737552`** _standard error) is larger than the one assumed before,_ 𝛔(2) = 150(2) =22500
+- **`se_Xbar <- sqrt(s2_X/n) # estimate of the standard error > se_Xbar`** _Note that the estimated variance based on the sample (and the estimated_ **`(1) 9.737552`** _standard error) is larger than the one assumed before,_ σ(2) = 150(2) =22500
 
-Based on such estimate we can approximate the sample size needed to reduce the standard error using 𝑛≥𝒔(𝟐) / **5**(𝟐):
+Based on such estimate we can approximate the sample size needed to reduce the standard error using n≥s(2) / **5**(2):
 
 - **`s2_X/25 (1) 1137.839`**
 
@@ -268,31 +266,31 @@ _When there are missing values, the number of rows in the dataframe (or the leng
 
 ## Estimator for the population proportion
 
-Another parameter one is typically interested in is the **proportion** 𝒑 **of cases in a population that exhibit a characteristic (coded as 'success’)** , estimated on the basis of a simple random sample of 𝑛 units, by measuring the r.v. 𝑿1, … , 𝑿𝑛 indicating for each unit whether a success was observed (1) or not (0).
+Another parameter one is typically interested in is the **proportion** p **of cases in a population that exhibit a characteristic (coded as 'success’)** , estimated on the basis of a simple random sample of n units, by measuring the r.v. X1, … , Xn indicating for each unit whether a success was observed (1) or not (0).
 
-To estimate 𝒑 we use the **sample proportion** 𝑷(෡) .
+To estimate p we use the **sample proportion** P\hat{P} .
 
-- the r.v. 𝑿1, … , 𝑿𝑛 are i.i.d. according to a Bernoulli distribution with parameter 𝒑 , and 𝑷(෡) is therefore their **sample mean.** From the properties of the sample mean we have:
+- the r.v. X1, … , Xn are i.i.d. according to a Bernoulli distribution with parameter p , and P\hat{P} is therefore their **sample mean.** From the properties of the sample mean we have:
 
-- ෡
+- \hat{P}
 
-- 𝐸 𝑷= 𝐸 𝑿= 𝒑
+- E P= E X= p
 
-෡ 𝑷 is an **unbiased estimator for** 𝒑 ,
+\hat{P}_{i}s an **unbiased estimator for** p ,
 
-- 𝑉𝑎𝑟 ෡𝑷= 𝑉𝑎𝑟(𝑿)/𝒏 = 𝒑(𝟏−𝒑) /𝒏
+- Var \hat{P}= Var(X)/n = p(1−p) /n
 
-The variance of 𝑷(෡) ( **never known** ) is smaller the larger the sample
+The variance of P\hat{P} ( **never known** ) is smaller the larger the sample
 
-- If 𝑛 𝑷 is sufficiently high, the distribution of(෡) can be approximated by a normal distribution ෡𝑷
+- If n P is sufficiently high, the distribution of\hat{P} can be approximated by a normal distribution \hat{P}
 
-- ෡𝑷≈𝓝(𝒑, 𝒑(𝟏−𝒑)/𝒏 ). Note that the variance of is not known (but it can be estimated by substituting 𝒑with its estimate).
+- \hat{P}≈N(p, p(1−p)/n ). Note that the variance of is not known (but it can be estimated by substituting pwith its estimate).
 
 ## Hands on: estimating the population proportion
 
 The dataframe **`CallCenter.P`** includes, among others, a variable ( **`Solved`** ) indicating whether the customer’s problem has been solved.
 
-**Estimate the proportion** 𝒑 **of problems solved, and the standard error of the estimator.**
+**Estimate the proportion** p **of problems solved, and the standard error of the estimator.**
 
 ```
 > table(CallCenter.P$Solved)
@@ -306,17 +304,15 @@ The dataframe **`CallCenter.P`** includes, among others, a variable ( **`Solved`
 27 273
 ```
 
-Success in this case is coded as **`Y`** ! The estimate of 𝒑 is (there are no missing values)
+Success in this case is coded as **`Y`** ! The estimate of p is (there are no missing values)
 
-ෝ𝒑 **=273/300=0.91**
+\hat{p} **=273/300=0.91**
 
-෡ 𝑉𝑎𝑟 with its 𝑷= 𝒑(𝟏−𝒑) /𝒏 is not known (it depends on 𝒑 ) but it can be estimated by substituting 𝒑 estimate. Thus, the estimate of the standard error is
-
-ෝ ෝ 𝒔𝒆𝑷෡ = 𝒑∙(𝟏− 𝒑)/𝒏= **0.91∙(1−0.91)/300** = **0.0165**
+\hat{V}_{a}r with its P= p(1−p) /n is not known (it depends on p ) but it can be estimated by substituting p estimate. Thus, the estimate of the standard error i\hat{s} \hat{s}_{e}\hat{P} = p∙(1− p)/n= **0.91∙(1−0.91)/300** = **0.0165**
 
 ## What can you conclude about the parameter?
 
-We **cannot** conclude that 𝒑 is close to 0.91, the expected deviation from 𝒑 of a generic estimate is very low, and –  given the approximately normal distribution of 𝑷(෡) (high sample size, central limit and estimates far from theorem) – estimates are very concentrated around 𝒑 𝒑 are unlikely, though not impossible.
+We **cannot** conclude that p is close to 0.91, the expected deviation from p of a generic estimate is very low, and –  given the approximately normal distribution of P\hat{P} (high sample size, central limit and estimates far from theorem) – estimates are very concentrated around p p are unlikely, though not impossible.
 
 * Syntax for the calculations using R in the script
 
@@ -344,23 +340,23 @@ In many applications we are interested in evaluating the differences between the
 
 ## Problem setting:
 
-**The parameter of interest is the difference between the means of the two populations** 𝛍𝑿 −𝛍𝒀
+**The parameter of interest is the difference between the means of the two populations** μX −μY
 
 ## Estimators for the difference between means
 
-To estimate the difference between the means of two populations described by two r.v. 𝑿 and 𝒀 on the basis of two samples 𝑿1, … , 𝑿𝒏𝑿 and 𝒀1, … , 𝒀𝒏𝒀, it is natural to use the estimator: ഥ𝑿−ഥ𝒀. **Whatever the distribution of** 𝑿 and 𝒀 we have:
+To estimate the difference between the means of two populations described by two r.v. X and Y on the basis of two samples X1, … , XnX and Y1, … , YnY, it is natural to use the estimator: \bar{X}−\bar{Y}. **Whatever the distribution of** X and Y we have:
 
-- 𝑿−(ഥ)
+- X−(\bar{X})
 
-- 𝐸((ഥ) 𝒀) = 𝐸(𝑿) −𝐸((ഥ) 𝒀) =(ഥ) 𝛍𝑿 −𝛍𝒀
+- E((\bar{X}) Y) = E(X) −E((\bar{X}) Y) =(\bar{X}) μX −μY
 
-- 𝑿−(ഥ) is therefore an **unbiased estimator for**
+- X−(\bar{X}) is therefore an **unbiased estimator for**
 
-- ((ഥ) 𝒀) 𝛍𝑿 −𝛍𝒀
+- ((\bar{X}) Y) μX −μY
 
-- The variance, and thus the standard error, of the estimator **depends on the relationships between the two populations (and thus between the samples drawn from them) and on the assumptions on the joint distribution of di** 𝑿 **and** 𝒀 **!**
+- The variance, and thus the standard error, of the estimator **depends on the relationships between the two populations (and thus between the samples drawn from them) and on the assumptions on the joint distribution of di** X **and** Y **!**
 
-- The **distribution** of 𝑿−(ഥ) 𝒀(ഥ) also depends on the relationship between 𝑿 and 𝒀 and on their joint distribution. In general, with **large** samples the distribution of the sample means can be approximated with a **normal** (even if the variances are not known). However, some clarifications are necessary - especially for **small** samples; we will discuss about this when knowing the distributions of the estimators will be of crucial importance.
+- The **distribution** of X−(\bar{X}) \bar{Y} also depends on the relationship between X and Y and on their joint distribution. In general, with **large** samples the distribution of the sample means can be approximated with a **normal** (even if the variances are not known). However, some clarifications are necessary - especially for **small** samples; we will discuss about this when knowing the distributions of the estimators will be of crucial importance.
 
 ## Estimators for the difference between means
 
@@ -372,33 +368,33 @@ We deal with two specific cases:
 
 ## Estimator for the difference between means: independent samples
 
-In the case of **independent** samples, the sample averages 𝑿(ഥ) and 𝒀(ഥ) are **independent** and thus **uncorrelated,** and the **variance** of the estimator (𝑿−(ഥ) 𝒀)(ഥ) is:
+In the case of **independent** samples, the sample averages \bar{X} and \bar{Y} are **independent** and thus **uncorrelated,** and the **variance** of the estimator (X−(\bar{X}) Y)(\bar{X}) is:
 
 The case where both variances are known is very rare.
 
-- If the variances **are not known** and are assumed to be **different** , 𝑉𝑎𝑟(𝑿−(ഥ) 𝒀(ഥ) ) is estimated by 2 2 𝟐 𝟐 replacing 𝛔𝑋 and 𝛔𝑌 with the sample variances obtained from the two samples, 𝑺𝑋 and 𝑺𝑌 . 2 2 2 - If the two **unknown** variances are **assumed equal,** so that 𝛔𝑋 = 𝛔𝑌 = 𝛔 , the common variance is estimated using the so-called **pooled sample variance:**
+- If the variances **are not known** and are assumed to be **different** , Var(X−(\bar{X}) \bar{Y} ) is estimated by 2 2 2 2 replacing σX and σY with the sample variances obtained from the two samples, SX and SY . 2 2 2 - If the two **unknown** variances are **assumed equal,** so that σX = σY = σ , the common variance is estimated using the so-called **pooled sample variance:**
 
 ## Estimators for the difference between means: paired samples
 
-In the case of **paired samples** of size 𝒏 , two measurements are available for each sample unit: 𝑿𝑖 and 𝒀𝑖 ; the differences 𝑫𝑖 = 𝑿𝑖 −𝒀𝑖 can therefore be considered as 𝒏 measurements from the r.v. 𝑫= 𝑿−𝒀 .
+In the case of **paired samples** of size n , two measurements are available for each sample unit: Xi and Yi ; the differences Di = Xi −Yi can therefore be considered as n measurements from the r.v. D= X−Y .
 
-𝑫(ഥ) **=** 𝑿−(ഥ) 𝒀(ഥ) **.** One can then refer to the sample mean of the differences,
+\bar{D} **=** X−(\bar{X}) \bar{Y} **.** One can then refer to the sample mean of the differences,
 
-- Clearly 𝐸(𝑫) = 𝛍(ഥ) 𝑫= 𝐸(𝑿−(ഥ) 𝒀(ഥ) ) = 𝛍𝑿 −𝛍𝒀 ,
+- Clearly E(D) = \bar{μ} D= E(X−(\bar{X}) \bar{Y} ) = μX −μY ,
 
-- As for the variance of 𝑫(ഥ) , by the properties of the sample mean we have that:
+- As for the variance of \bar{D} , by the properties of the sample mean we have that:
 
-𝑉𝑎𝑟 ഥ𝑫= 𝛔2 𝑉𝑎𝑟(𝑫)/𝒏= 𝐷 /𝒏
+Var \bar{D}= σ2 Var(D)/n= D /n
 
 Using the properties of linear combinations of r.v. we have that
 
-2 2 = 𝑉𝑎𝑟 𝑫= 𝑉𝑎𝑟 𝑿−𝒀= 𝑉𝑎𝑟 𝑿+ 𝑉𝑎𝑟 𝒀−2𝐶𝑜𝑣(𝑿, 𝒀) 𝛔𝑋 +𝛔𝑌 −2𝛔𝑋𝑌
+2 2 = Var D= Var X−Y= Var X+ Var Y−2Cov(X, Y) σX +σY −2σXY
 
-In this case, it is very rare to assume that the variance of 𝑫= 𝑿−𝒀 is known, as it would 2 be necessary to make assumptions directly on the variance of differences, 𝛔𝐷 , **or** on the variances of 𝑿 and 𝒀 **and** on their covariance (or correlation)
+In this case, it is very rare to assume that the variance of D= X−Y is known, as it would 2 be necessary to make assumptions directly on the variance of differences, σD , **or** on the variances of X and Y **and** on their covariance (or correlation)
 
 ## Estimators for the difference between means: paired samples
 
-To **estimate** the variance of 𝑫(ഥ) **=** 𝑿−(ഥ) 𝒀(ഥ) it is possible to proceed in the same way as for the sample mean, and use the **sample variance** calculated on the differences:
+To **estimate** the variance of \bar{D} **=** X−(\bar{X}) \bar{Y} it is possible to proceed in the same way as for the sample mean, and use the **sample variance** calculated on the differences:
 
 which is clearly related to the variances and sample covariance of the two samples:
 
@@ -444,17 +440,17 @@ The dataframe **`Insurance`** contains information on reimbursements ( **`refund
 
 - 2 2
 
-- **`> # S2_pooled`** 𝑛 −1 𝒔 𝟐 𝑋 𝑋 + (𝑛𝑌 −1)𝒔𝑌
+- **`> # S2_pooled`** n −1 s 2 X X + (nY −1)sY
 
-- 𝒔 =
+- s =
 
-- **`> var_pooled<-((nx-1)*var_x+(ny-1)*var_y)/(nx+ny-2)`** 𝑃𝑜𝑜𝑙 **`> var_pooled`** 𝑛𝑋 + 𝑛𝑌 −2 **`(1) 54284441`** 2 2
+- **`> var_pooled<-((nx-1)*var_x+(ny-1)*var_y)/(nx+ny-2)`** Pool **`> var_pooled`** nX + nY −2 **`(1) 54284441`** 2 2
 
-- 𝒔 𝒔
+- s s
 
-- 𝑠𝑒ഥ ഥ = 𝑃𝑜𝑜𝑙 + 𝑃𝑜𝑜𝑙 𝑿−𝒀
+- s\bar{e} \bar{X} = Pool + Pool X−Y
 
-- **`> se_x_y<-sqrt(var_pooled*((1/nx)+(1/ny)))`** 𝑛 𝑛 𝑋 𝑌
+- **`> se_x_y<-sqrt(var_pooled*((1/nx)+(1/ny)))`** n n X Y
 
 - **`> se_x_y (1) 768.3133`**
 
@@ -464,15 +460,15 @@ The dataframe **`Insurance`** contains information on reimbursements ( **`refund
 
 A clinical study conducted on 44 patients with high (bad) cholesterol levels to evaluate the efficacy of a cholesterol-lowering drug reported the following results:
 
-Cholesterol level at start of treatment: ҧ𝑥𝑖𝑛𝑖 = 155; 𝑠𝑖𝑛𝑖 = 19.9 Cholesterol level at 8 weeks: ҧ𝑥8𝑤 = 122; 𝑠8𝑤 = 24.5, 𝑠𝑖𝑛𝑖,8𝑤 = 23.4
+Cholesterol level at start of treatment: \bar{x}_{i}ni = 155; sini = 19.9 Cholesterol level at 8 weeks: \bar{x}_{8}w = 122; s8w = 24.5, sini,8w = 23.4
 
 **Estimate the average reduction in cholesterol level following treatment. Standard error?** The two samples are **paired**: they relate to two measurements on the same individual
 
 We obtain the estimate of the difference between means and the estimate of the std error from the available sample statistics. If we had the data for each patient, we could determine them from the differences between the data on cholesterol levels before and after treatment for each patient! _**Estimate of the difference between means**_ **:**
 
-ҧ𝑥 −ҧ𝑥 = 155 −122 = 𝟑𝟑 𝑖𝑛𝑖 8𝑤
+\bar{x} −\bar{x} = 155 −122 = 33 ini 8w
 
-_**Estimate of the variance of the difference,**_ 𝑫= 𝑿𝑖𝑛𝑖 −𝑿8𝑤 2 2 2 𝒔 = 𝒔 + 𝒔 −2𝒔 = 19.9(2) + 24.5(2) −2 ∙23.4 = 𝟗𝟒𝟗. 𝟒𝟔 𝐷 𝑖𝑛𝑖 8𝑤 𝑖𝑛𝑖,8𝑤 _**Estimate of the standard error of the difference between sample means,**_ 𝑫=(ഥ) 𝑿(ഥ) 𝑖𝑛𝑖 − 𝑿(ഥ) 8𝑤 2 𝑠𝑒 = 𝒔 949.46 ഥ𝑿𝑖𝑛𝑖−ഥ𝑿8𝑤 𝐷/𝑛= /44 = 𝟒. 𝟔𝟒𝟓𝟐𝟖𝟏 The expected deviation of a generic estimate of the difference between means is about 4.65.
+_**Estimate of the variance of the difference,**_ D= Xini −X8w 2 2 2 s = s + s −2s = 19.9(2) + 24.5(2) −2 ∙23.4 = 949. 46 D ini 8w ini,8w _**Estimate of the standard error of the difference between sample means,**_ D=(\bar{X}) \bar{X} ini − \bar{X} 8w 2 se = s 949.46 \bar{X}_{i}ni−\bar{X}_{8}w D/n= /44 = 4. 645281 The expected deviation of a generic estimate of the difference between means is about 4.65.
 
 * Syntax for calculations using R in the script
 
@@ -502,27 +498,27 @@ Problem setting: we are interested in comparing the proportions of a certain phe
 
 ## Population 2
 
-𝑿1, … , 𝑿𝒏𝑿 i.i.d sample of size 𝒏𝑿 from 𝑿 𝒀1, … , 𝒀𝒏𝑿 i.i.d sample of size 𝒏𝒀 from 𝒀 distributed according to a Bernoulli with distributed according to a Bernoulli with parameter 𝒑𝑿 (i.e. 𝑿 takes 1 or 0 depending on parameter 𝒑𝒀 (i.e. 𝑌 takes 1 or 0 depending on whether a success is observed or not, and 𝒑𝑿 = whether a success is observed or not, and 𝒑𝒀 = proportion of successes in the population), proportion of successes in the population), with 𝐸 𝑿= 𝒑𝑿 and 𝑉𝑎𝑟 𝑿= 𝒑𝑿(𝟏− 𝒑𝑿 ) with 𝐸 𝒀= 𝒑𝒀 and 𝑉𝑎𝑟 𝒀= 𝒑𝒀(𝟏− 𝒑𝒀 ) ෡𝑷𝑿 = (𝑿1+ … + 𝑿𝒏𝑿)/𝒏𝑿 **= sample** ෡𝑷𝒀 = (𝒀1+ … + 𝒀𝒏𝒀)/𝒏𝒀 = **sample proportion of successes proportion of successes**
+X1, … , XnX i.i.d sample of size nX from X Y1, … , YnX i.i.d sample of size nY from Y distributed according to a Bernoulli with distributed according to a Bernoulli with parameter pX (i.e. X takes 1 or 0 depending on parameter pY (i.e. Y takes 1 or 0 depending on whether a success is observed or not, and pX = whether a success is observed or not, and pY = proportion of successes in the population), proportion of successes in the population), with E X= pX and Var X= pX(1− pX ) with E Y= pY and Var Y= pY(1− pY ) \hat{P}_{X} = (X1+ … + XnX)/nX **= sample** \hat{P}_{Y} = (Y1+ … + YnY)/nY = **sample proportion of successes proportion of successes**
 
-**The parameter of interest is the difference between the proportions in the two populations:** 𝒑𝑿 −𝒑𝒀
+**The parameter of interest is the difference between the proportions in the two populations:** pX −pY
 
 ## Estimators for the difference between proportions
 
-**To estimate the difference between the proportions in two populations, it is quite natural to** To estimate the difference between the proportions of 'successes' in two populations, it is natural to use the estimator **propose the estimator where and are the sample averages of two samples whose units have** 𝑷(෡) −𝑷(෡) where 𝑷(෡) and 𝑷(෡) 𝑿 𝒀 𝑿 𝒀 are the sample means of two samples whose units have Bernoulli distributions with parameters **Bernoulli distributions with parameters and respectively.** 𝒑𝑿 and 𝒑𝒀 respectively. **For the properties of sample averages: For the properties of sample means:**
+**To estimate the difference between the proportions in two populations, it is quite natural to** To estimate the difference between the proportions of 'successes' in two populations, it is natural to use the estimator **propose the estimator where and are the sample averages of two samples whose units have** P\hat{P} −P\hat{P} where P\hat{P} and P\hat{P} X Y X Y are the sample means of two samples whose units have Bernoulli distributions with parameters **Bernoulli distributions with parameters and respectively.** pX and pY respectively. **For the properties of sample averages: For the properties of sample means:**
 
-- (෡)
+- \hat{P}
 
-- **??** 𝑷 − 𝑷(෡) 𝑷 𝑷 - 𝐸(𝑷(෡) 𝑿 𝑷𝒀) = 𝐸(𝑷(෡) 𝑿) −𝐸(𝑷(෡) 𝒀) = 𝐸(𝑿) −𝐸(𝒀) = 𝒑𝑿 −𝒑𝒀 𝐸((෡) 𝑿 𝒀) = 𝐸((෡) 𝑿) −𝐸((෡) 𝒀) = 𝒑𝑿 −𝒑𝒀 is therefore an −(෡) **unbiased estimator for** 𝑷 𝑷 is therefore an **unbiased estimator for**
+- **??** P − P\hat{P} P P - E(P\hat{P} X PY) = E(P\hat{P} X) −E(P\hat{P} Y) = E(X) −E(Y) = pX −pY E(\hat{P} X Y) = E(\hat{P} X) −E(\hat{P} Y) = pX −pY is therefore an −\hat{P} **unbiased estimator for** P P is therefore an **unbiased estimator for**
 
-- ((෡) 𝑿 𝒀) 𝒑𝑿 −𝒑𝒀
+- (\hat{P} X Y) pX −pY
 
-- The variance of the estimator **depends on the relationships between** 𝑿 **and** 𝒀 **. In the case of independent samples:**(෡))
+- The variance of the estimator **depends on the relationships between** X **and** Y **. In the case of independent samples:**\hat{P})
 
-−((෡)) 𝑉𝑎𝑟(𝑷((෡)) 𝑿 𝑷𝒀 ) _is unknown (it depends on_ 𝒑𝑿 and 𝒑𝒀 _), but can be estimated by replacing_ and _with their_ 𝒑𝑿 𝒑𝒀 _estimates, i.e. the observed sample proportions._
+−(\hat{P}) Var(P(\hat{P}) X PY ) _is unknown (it depends on_ pX and pY _), but can be estimated by replacing_ and _with their_ pX pY _estimates, i.e. the observed sample proportions._
 
 ## Hands on: estimating the difference between proportions
 
-In order to determine which of two banners, A or B, is more effective, users of a social network are shown one of the two banners chosen at random. We are interested in the Click-Through Rate (CTR) of the two banners, i.e. the ratio between the number of clicks on each banner and the number of banner views served by the ad server (impressions). Banner A is viewed by 2364 users and generates 456 clicks. Banner B is viewed by 2323 users and generates 611 clicks. **Estimation of the difference between the CTRs? Standard error of the estimator?** The CTR is the sample proportion of clicks on impressions; the standard error of the estimator can be **estimated** as the two experiments and thus the two samples are independent. _**Estimates of the two proportions and of their difference:**_ ෝ𝒑𝑨 = 456/2364 = 0.1929 ; ෝ𝒑𝑩 = 611/2323 = 0.263 ; ෝ𝒑𝑨 −ෝ𝒑𝑩 = 𝟎. 𝟏𝟗𝟐𝟗−𝟎. 𝟐𝟔𝟑= −𝟎. 𝟎𝟕𝟎𝟏 _**Estimates of the variances of the sample proportions,**_ 𝑷(෡) 𝑨 _**e**_ 𝑷(෡) 𝑩, ෢ 𝑉𝑎𝑟(𝑷(෡) 𝑨 ) = 0.1929 ∙(1 −0.1929)/2364 = 0.000066 ෢ 𝑉𝑎𝑟(𝑷(෡) 𝑩 ) = 0.263 ∙(1 −0.263)/2323 = 0.000083 _**Estimate of the standard error of the difference between the two sample proportions,**_ 𝑷(෡) 𝑨 _**e**_ 𝑷(෡) 𝑩, ෢ 𝑠𝑒𝑷෡𝑨−𝑷෡𝑩 = 𝑉𝑎𝑟(𝑷(෡) 𝑨 ) + 𝑉𝑎𝑟((෢) 𝑷(෡) 𝑩 ) = 𝟎. 𝟎𝟎𝟎𝟎𝟔𝟔+ 𝟎. 𝟎𝟎𝟎𝟎𝟖𝟑= 𝟎. 𝟎𝟏𝟐𝟐 ^xbgh8w
+In order to determine which of two banners, A or B, is more effective, users of a social network are shown one of the two banners chosen at random. We are interested in the Click-Through Rate (CTR) of the two banners, i.e. the ratio between the number of clicks on each banner and the number of banner views served by the ad server (impressions). Banner A is viewed by 2364 users and generates 456 clicks. Banner B is viewed by 2323 users and generates 611 clicks. **Estimation of the difference between the CTRs? Standard error of the estimator?** The CTR is the sample proportion of clicks on impressions; the standard error of the estimator can be **estimated** as the two experiments and thus the two samples are independent. _**Estimates of the two proportions and of their difference:**_ \hat{p}_{A} = 456/2364 = 0.1929 ; \hat{p}_{B} = 611/2323 = 0.263 ; \hat{p}_{A} −\hat{p}_{B} = 0. 1929−0. 263= −0. 0701 _**Estimates of the variances of the sample proportions,**_ P\hat{P} A _**e**_ P\hat{P} B, \hat{V}_{a}r(P\hat{P} A ) = 0.1929 ∙(1 −0.1929)/2364 = 0.000066 \hat{V}_{a}r(P\hat{P} B ) = 0.263 ∙(1 −0.263)/2323 = 0.000083 _**Estimate of the standard error of the difference between the two sample proportions,**_ P\hat{P} A _**e**_ P\hat{P} B, \hat{s}_{e}P\hat{A}−P\hat{B} = Var(P\hat{P} A ) + Var((\hat{P}) P\hat{P} B ) = 0. 000066+ 0. 000083= 0. 0122 ^xbgh8w
 *(See also: [[Lecture 13-14 Slides Point estimation with FULL NOTES#^sa7vty]])*
 
 - Syntax for calculations using R and using dati in a dataframe ( **`Banner`** ) in the script

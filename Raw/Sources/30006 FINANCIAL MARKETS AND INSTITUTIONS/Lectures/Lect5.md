@@ -198,31 +198,31 @@ Earnings often barely above (and sometimes below) inflation
 
 ## Treasury Bill Auctions: example
 
-**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750M
 
 ## Treasury Bill Auctions: example
 
-**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀 2(nd): in competitive bids `o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750M 2(nd): in competitive bids `o` the **residual** amount is to be allotted: $2,500M $750M $1,750M
 
 `o` the T-bills are allotted to the highest bidders until all T-bills are sold ...
 
-`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids:
+`o` … the Treasury accepts, for the amount ($1,750M ), the following bids:
 
 ## Treasury Bill Auctions: example
 
-**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750𝑀 2(nd): in competitive bids
+**A**: 1(st):  all non-competitive bidders receive their requested amount:  $750M 2(nd): in competitive bids
 
-`o` the **residual** amount is to be allotted: $2,500𝑀 $750𝑀 $1,750𝑀
+`o` the **residual** amount is to be allotted: $2,500M $750M $1,750M
 
 `o` the T-bills are allotted to the highest bidders until all T-bills are sold …
 
-`o` … the Treasury accepts, for the amount ($1,750𝑀 ), the following bids:
+`o` … the Treasury accepts, for the amount ($1,750M ), the following bids:
 
 |**Bidder**|**Bid AmountInt. rate(1)**|
 |---|---|---|---|
 |1 5 **42.53%** 2.97% 3.92%|
 
-only these 3 bids are accepted: - $1,750𝑀
+only these 3 bids are accepted: - $1,750M
 
 (1): computed as a discount  rate(1   )(  0) 1 1
 
@@ -253,13 +253,13 @@ only these 3 bids are accepted: - $1,750𝑀
 |1 5 **42.53%** 2.97% 3.92%|
 |(1): computed as a discount  rate|
 
-only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 )
+only these 3 bids are accepted, but sum ( $1, 50M ) is greater than residual ( $1,750M )
 
 ## Treasury Bill Auctions: example
 
 **Q**: Special case: sum of accepted bids **>** residual amount `o`: In the previous example, assume the following competitive bids
 
-only these 3 bids are accepted, but sum ( $1, 50𝑀 ) is greater than residual ( $1,750𝑀 )
+only these 3 bids are accepted, but sum ( $1, 50M ) is greater than residual ( $1,750M )
 
 **A**: marginal bid is “accepted in less than the full amount you want if your bid is equal to the high discount rate”
 
@@ -297,9 +297,9 @@ T-bills are often quoted with two different rates:
 
 where:
 
-𝑛: days to maturity
+n: days to maturity
 
-𝐹: face value: purchase price
+F: face value: purchase price
 
 ✓ _investment rate more accurate measure of earnings …_ `o` _denominator is actual price paid_ `o` _365 is actual number of days_
 
@@ -359,15 +359,15 @@ dic-14
 
 sells financial instrument Borrower Lender borrows funds ($X)
 
-𝑡 1
+t 1
 
 ## Repurchase Agreements (Repo)
 
 sells financial instrument Borrower Lender borrows funds ($X)
 
-𝑡 1
+t 1
 
-buys back financial instrument Borrower Lender 𝑡 2 repays funds ($X) + interest ($I)
+buys back financial instrument Borrower Lender t 2 repays funds ($X) + interest ($I)
 
 ✓ In every bond, issuer (=borrower) sells bond to borrow
 
@@ -391,9 +391,9 @@ buys back financial instrument Borrower Lender 𝑡 2 repays funds ($X) + intere
 
 ## Repurchase Agreements (Repo)**: **Repo-rate
 
-- ✓ The difference between $𝑋 and **P** , the market price of collateral, is called **haircut:**
+- ✓ The difference between $X and **P** , the market price of collateral, is called **haircut:**
 
-𝒉𝒂𝒊𝒓𝒄𝒖𝒕 $𝑿 𝑷
+haircut $X P
 
 - ✓ often the collateral consists of government bonds (e.g.: T- bills): highly liquid, stable securities (say 2% haircut)
 

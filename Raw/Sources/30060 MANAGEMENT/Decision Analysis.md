@@ -253,7 +253,7 @@ Small variance: most of the Bocconi students’ heights are around 175 cm High v
 |MEAN AND STANDARD DEVIATION|MEAN AND STANDARD DEVIATION|MEAN AND STANDARD DEVIATION|
 |---|---|---|
 |
-|Values Probabilities Cumulative Probabilities|**Mean formula:**μ = σ𝑖=𝟏 𝑛 𝑝𝑖𝑥𝑖**,** Where xiis the value of an observation, and piis the probability of whether that value occurs. The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 =**37**|+|
+|Values Probabilities Cumulative Probabilities|**Mean formula:**μ = σi=1 n pixi**,** Where xiis the value of an observation, and piis the probability of whether that value occurs. The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 =**37**|+|
 |10 0.20 0.20|
 |20 0.10 0.30|
 |30 0.20 0.50|
@@ -265,10 +265,10 @@ Small variance: most of the Bocconi students’ heights are around 175 cm High v
 
 The mean of the distribution in the table is: 10*0.20 + 20*0.10 + 30*0.20 + 40*0.20 + 50*0.10 + 60*0.05 + 70*0.10 + 80*0.05 = **37**
 
-|39 **Variance formula:Standard deviation =** 𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆 What’s the value of the standard deviation of the distribution?|
+|39 **Variance formula:Standard deviation =** Variance What’s the value of the standard deviation of the distribution?|
 |---|---|
 |
-|Values Probabilities Cumulative Probabilities|**Variance formula:Standard deviation =** 𝑽𝒂𝒓𝒊𝒂𝒏𝒄𝒆 What’s the value of the standard deviation of the distribution?|
+|Values Probabilities Cumulative Probabilities|**Variance formula:Standard deviation =** Variance What’s the value of the standard deviation of the distribution?|
 |10 0.20 0.20|
 |20 0.10 0.30|
 |30 0.20 0.50|
@@ -396,11 +396,11 @@ The frequency table to the left reports the number of letters of the last name o
 |23 0 0 1 1|
 |MARGINAL 63 12 18 93|
 
-## Conditional probability: $$$P(X|Y)$$$
+## Conditional probability: $P(X|Y)$
 
 What is the probability of a student with 5 letters in his or her last name? E.g. 13/93 = 13.9%
 
-What is the probability of a student with 5 letters in his or her last name given that the student is Italian? E.g. $$$P(X=5|Italy) = 9/63$$$ = 14.3%
+What is the probability of a student with 5 letters in his or her last name given that the student is Italian? E.g. $P(X=5|Italy) = 9/63$ = 14.3%
 
 **The conditioning event is often called a condition, clue, data point or signal (being Italian)**
 
@@ -426,7 +426,7 @@ The expected value of a random variable, given that another event has already ta
 |23 0 0 1 1|
 |MARGINAL 63 12 18 93|
 
-Conditional expectation: E(X|Y) = σ𝑛𝑖=𝟏 𝑝(𝑥𝑖| Y ) 𝑥𝑖 That is, you multiply all the values by their respective conditional probabilities, contingent on Y, and then you add them up. E(X | Italy) =  2*  0/63 + 3*  1/63 + 4* 3/63 + 5* 9/63 + 6*  8/63 + 7* 21/63 + 8*  9/63 + 9* 7/63 + 10*  4/63 + 11* 1/63 + 14*  0/63 + 23* 0/63 = 7
+Conditional expectation: E(X|Y) = σni=1 p(xi| Y ) xi That is, you multiply all the values by their respective conditional probabilities, contingent on Y, and then you add them up. E(X | Italy) =  2*  0/63 + 3*  1/63 + 4* 3/63 + 5* 9/63 + 6*  8/63 + 7* 21/63 + 8*  9/63 + 9* 7/63 + 10*  4/63 + 11* 1/63 + 14*  0/63 + 23* 0/63 = 7
 
 E( X | Italy) = 7 = # of letters the last name will have on average given the student is Italian.
 
@@ -452,7 +452,9 @@ The probability that two events take place together at the same time
 |23 0 0 1 1|
 |MARGINAL 63 12 18 93|
 
-Joint probability: $$$$P(X,Y)$$$$ = $$$P(X|Y)$$$*$$$P(Y)$$$
+Joint probability: $$
+$$P(X,Y)$$
+$$ = $P(X|Y)$*$P(Y)$
 
 That is, the probability that **Y happens** times the probability that **X happens once we know that Y happened**
 
@@ -460,7 +462,9 @@ E.g.
 
 Notice the difference between conditional and joint probabilities
 
-**CONDITIONAL PROBABILITY JOINT PROBABILITY $$$P(X|Y)$$$ $$$$P(X,Y)$$$$= $$$P(X|Y)$$$*$$$P(Y)$$$** $$$P(X=5|Italy) = 9/63$$$ = 14.3% $$$P(X=5, Italy) = 9/63*63/93$$$ = 9.7%
+**CONDITIONAL PROBABILITY JOINT PROBABILITY $P(X|Y)$ $$
+$$P(X,Y)$$
+$$= $P(X|Y)$*$P(Y)$** $P(X=5|Italy) = 9/63$ = 14.3% $P(X=5, Italy) = 9/63*63/93$ = 9.7%
 
 ## Let’s practice
 
@@ -514,7 +518,9 @@ probability of rolling 6 in the second roll = 1/6
 
 probability of (EVENT 1) X probability of (EVENT 2) = 1/6 X 1/6
 
-Joint probability: $$$$P(X,Y)$$$$ = $$$P(X|Y)$$$*$$$P(Y)$$$ But, if X and Y are independent, $$$P(X|Y) = P(X)$$$ So, in case of independence: Joint probability = $$$P(X|Y)$$$*$$$P(Y) = P(X)*P(Y)$$$
+Joint probability: $$
+$$P(X,Y)$$
+$$ = $P(X|Y)$*$P(Y)$ But, if X and Y are independent, $P(X|Y) = P(X)$ So, in case of independence: Joint probability = $P(X|Y)$*$P(Y) = P(X)*P(Y)$
 
 In this case, X = probability of rolling 6 in the first round Y = probability of rolling 6 in the second round
 
@@ -626,7 +632,7 @@ What’s your conclusion now?
 |High temp (≥ 65° F)|4|17|21|
 |Total|10|17|27|
 
-The first graph showed you only the first column (days with incidents). You could calculate: $$$P(Low temperature | accident) = =$$$ 6/10 = 60%
+The first graph showed you only the first column (days with incidents). You could calculate: $P(Low temperature | accident) = =$ 6/10 = 60%
 
 But, to test your theory, what you need is the full table to test this probability:
 
@@ -656,7 +662,7 @@ In practice:
 
 2. You collect all the cases with A, and then you measure B in them
 
-3. You calculate $$$P(B|A)$$$
+3. You calculate $P(B|A)$
 
 4. If needed, you repeat with a theory about A, and so on
 
@@ -758,37 +764,37 @@ You decide when to stop collecting data/signals and to finalize your probability
 
 ## Technically
 
-**$$$P(Y) = 60%**$$$
+**$P(Y) = 60%**$
 
 **PRIOR PROBABILITY**
 
 Y = at least 10 students in the class support Inter Milan
 
-**$$$P(Y|S) = PROBABILITY$$$ OF EVENT Y GIVEN THE OBSERVED SIGNAL S**
+**$P(Y|S) = PROBABILITY$ OF EVENT Y GIVEN THE OBSERVED SIGNAL S**
 
 S: what the data or your friends told you
 
-- If S = 80% → $$$P(Y|S=80%) = 70%$$$
+- If S = 80% → $P(Y|S=80%) = 70%$
 
-- If S = 40% → $$$P(Y|S=40%) = 50%$$$
+- If S = 40% → $P(Y|S=40%) = 50%$
 
 ## Technically
 
 There could be a series of priors, signals, posteriors, in which each posterior becomes the prior before the next signal
 
-s1 s2 s3 $$$P(Y)$$$              $$$P(Y | s1)$$$ $$$P(Y | s1,s2)$$$ $$$P(Y | s1,s2,s3)$$$
+s1 s2 s3 $P(Y)$              $P(Y | s1)$ $P(Y | s1,s2)$ $P(Y | s1,s2,s3)$
 
 For example:
 
-- $$$P(Y) =60%,$$$
+- $P(Y) =60%,$
 
 - Data tell you S1=40%,
 
-- You update $$$P(Y | S1=40%) = 50%$$$
+- You update $P(Y | S1=40%) = 50%$
 
 - New data collection tells you S2= 45%
 
-- - You update $$$P(Y | S1=40%, S2=45%) = 48%$$$
+- - You update $P(Y | S1=40%, S2=45%) = 48%$
 
 - - And so on….
 
@@ -884,9 +890,9 @@ Assign values (profits and losses)
 
 You think of a **threshold** P* such that:
 
-- if your expected payoff $$$P(Y|S)$$$ ≥ P*, then you go ahead with the action
+- if your expected payoff $P(Y|S)$ ≥ P*, then you go ahead with the action
 
-- if your expected payoff $$$P(Y|S)$$$ < P*, then you don’t
+- if your expected payoff $P(Y|S)$ < P*, then you don’t
 
 ## IMPORTANT
 
@@ -925,7 +931,7 @@ Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay
 
 Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay 1,000 upfront +500€ -500€ Not pay 1,000 upfront 0 0
 
-Expected value (Pay 1,000) = 500 * $$$P(Y|S)$$$ – 500 * (1 – $$$P(Y|S)$$$ Expected value (Not pay 1,000) = 0 * $$$P(Y|S)$$$ + 0 * (1 – $$$P(Y|S) = 0$$$ + 0 = 0 Example: $$$P(Y|S) = 55%$$$
+Expected value (Pay 1,000) = 500 * $P(Y|S)$ – 500 * (1 – $P(Y|S)$ Expected value (Not pay 1,000) = 0 * $P(Y|S)$ + 0 * (1 – $P(Y|S) = 0$ + 0 = 0 Example: $P(Y|S) = 55%$
 
 Expected value (Pay 1,000) = (500 * 0.55) – (500 * (1 – 0.55)) = = (500 * 0.55) – (500 * 0.45) = = 275 – 225 = 50
 
@@ -935,9 +941,9 @@ Expected value (Pay 1,000) = (500 * 0.55) – (500 * (1 – 0.55)) = = (500 * 0.
 
 Threshold in the value model: the minimum probability required to make the expected value ≥ 0.
 
-The Expected value is 500 * $$$P(Y|S)$$$ – 500 * (1 – $$$P(Y|S)$$$ We want: Expected value ≥ 0.
+The Expected value is 500 * $P(Y|S)$ – 500 * (1 – $P(Y|S)$ We want: Expected value ≥ 0.
 
-It is then easy to see that this inequality is true if $$$P(Y|S)$$$ ≥ ½ , which will then be your threshold (P* = 50%)
+It is then easy to see that this inequality is true if $P(Y|S)$ ≥ ½ , which will then be your threshold (P* = 50%)
 
 ## Assign values: Utility model
 
@@ -961,7 +967,7 @@ Scenarios At least 10 Inter Less than 10 Inter Actions supporters supporters Pay
 
 For instance, you set utility equal to 800 if the project succeeds; -400 if it does not.
 
-The expected utility is 800*$$$P(Y|S)$$$ – 400*(1 – $$$P(Y|S)$$$). Threshold: Expected utility ≥ 0 when $$$P(Y|S)$$$ > 1/3 or P* = 33%
+The expected utility is 800*$P(Y|S)$ – 400*(1 – $P(Y|S)$). Threshold: Expected utility ≥ 0 when $P(Y|S)$ > 1/3 or P* = 33%
 
 ## Value model vs Utility model
 

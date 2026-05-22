@@ -18,9 +18,9 @@ Processed: true
 
 We extend the simple linear model by considering the case where the dependent variable is assumed to be associated with several explanatory variables:
 
-_Y_ 𝑥 𝑥 + ε = β0 + β1 1 + ⋯+ β𝐾 𝐾
+_Y_ x x + ε = β0 + β1 1 + ⋯+ βK K
 
-_Y_ **= dependent variable (** _**random variable**_ **)** 𝑥1, 𝑥2, … , 𝑥𝐾 **= independent variables (** _**deterministic, known**_ **)** β0 **= intercept of the linear model**(β) 1(, β) 2(, … , β) 𝐾 **(= model parameters)** ε **= error (** _**random variable**_ **)**
+_Y_ **= dependent variable (** _**random variable**_ **)** x1, x2, … , xK **= independent variables (** _**deterministic, known**_ **)** β0 **= intercept of the linear model**(β) 1(, β) 2(, … , β) K **(= model parameters)** ε **= error (** _**random variable**_ **)**
 
 ## The multiple linear regression model
 
@@ -62,21 +62,21 @@ Also for this case:
 
 # Which plane best describes the linear relationship between the dependent variable and the explanatory variables (here 2)? Least squares** method **: plane that best interpolates the data
 
-**Y** 𝒚𝒊 𝒀 Consider a data sample and a **generic** 𝑒 𝑖 = (𝑦𝑖 −$\hat{y}_i$ ) **model** with parameters 𝑏0 , 𝑏1 and 𝑏 . 2 For a sample observation we consider - the forecast $\hat{y}_i$ $\hat{y}_i$ = 𝑏0 + 𝑏1 𝑥𝑖1 + 𝑏2 𝑥𝑖2 - the deviation between the observed value and the value on 𝑿 𝟐 the line, 𝑒𝑖 = 𝑦𝑖 −$\hat{y}_i$ **Among all the possible planes, we** 𝒙 𝒊𝟐 **choose the one that minimizes the sum of the squared errors** 𝒙 𝒊𝟏 𝑿 𝟏
+**Y** yi Y Consider a data sample and a **generic** e i = (yi −$\hat{y}_i$ ) **model** with parameters b0 , b1 and b . 2 For a sample observation we consider - the forecast $\hat{y}_i$ $\hat{y}_i$ = b0 + b1 xi1 + b2 xi2 - the deviation between the observed value and the value on X 2 the line, ei = yi −$\hat{y}_i$ **Among all the possible planes, we** x i2 **choose the one that minimizes the sum of the squared errors** x i1 X 1
 
 ## The least squares approach
 
-For each sample observation, say the 𝑖-th
+For each sample observation, say the i-th
 
-> (𝑥) 𝑖1(, 𝑥) 𝑖2(, … , 𝑥) 𝑖𝐾
+> (x) i1(, x) i2(, … , x) iK
 
 values taken by the explanatory variables
 
-𝑦𝑖 value of _**Y**_ corresponding to 𝑥𝑖1, 𝑥𝑖1, … , 𝑥𝑖𝐾 $\hat{y}_i$ = 𝑏0 + 𝑏1 𝑥𝑖1 + 𝑏2 𝑥𝑖2 + … + 𝑏𝐾 𝑥𝑖𝐾 forecast of _**Y**_ corresponding to 𝑥𝑖1, 𝑥𝑖1, … , 𝑥𝑖𝐾
+yi value of _**Y**_ corresponding to xi1, xi1, … , xiK $\hat{y}_i$ = b0 + b1 xi1 + b2 xi2 + … + bK xiK forecast of _**Y**_ corresponding to xi1, xi1, … , xiK
 
-Let us consider the sum of the squared differences between the observed values and the ∗ ∗ ∗ predictions ො𝑦1, ො𝑦2, … , ො𝑦𝑛, i.e. the Sum of Squared Errors: 𝑛 𝑛 𝑺𝑺𝑬 −𝑏 −𝑏 𝑥 𝑥 … −𝑏 𝑥 (𝑦𝑖 −$\hat{y}_i$ )(2) (𝑦𝑖 0 1 𝑖1 −𝑏2 𝑖2 − 𝐾 𝑖𝐾)(2) = ෍ = ෍ 𝑖=1 𝑖=1
+Let us consider the sum of the squared differences between the observed values and the ∗ ∗ ∗ predictions \hat{y}_{1}, \hat{y}_{2}, … , \hat{y}_{n}, i.e. the Sum of Squared Errors: n n SSE −b −b x x … −b x (yi −$\hat{y}_i$ )(2) (yi 0 1 i1 −b2 i2 − K iK)(2) = \sum = \sum i=1 i=1
 
-We determine the coefficients that minimise 𝑺𝑺𝑬 , i.e. the hyper-plane that best interpolates the data and minimises the sum of the squared differences between observed and predicted values. To determine these coefficients, it is necessary to resort to matrix calculation; therefore the model’s coefficients will always be determined using a statistical software
+We determine the coefficients that minimise SSE , i.e. the hyper-plane that best interpolates the data and minimises the sum of the squared differences between observed and predicted values. To determine these coefficients, it is necessary to resort to matrix calculation; therefore the model’s coefficients will always be determined using a statistical software
 
 ## Least squares: determination of coefficients
 
@@ -84,7 +84,7 @@ We determine the coefficients that minimise 𝑺𝑺𝑬 , i.e. the hyper-plane 
 
 To derive the coefficients of the linear model using the least squares method, it is necessary to resort to matrix calculation. The system of equations:
 
-∗ ∗ ∗ ∗ = 𝑏 + 𝑏 𝑥 + 𝑏 𝑥 𝑏 𝑥 𝑦1 0 1 11 2 12 + … + 𝐾 1𝐾 ∗ ∗ ∗ ∗ = 𝑏 + 𝑏 𝑥 + 𝑏 𝑥 𝑏 𝑥 𝑦2 0 1 21 2 22 + … + 𝐾 2𝐾 …. ∗ ∗ ∗ ∗ 𝑦𝑛= 𝑏0 + 𝑏1𝑥𝑛1 + 𝑏2𝑥𝑛2 + … + 𝑏𝐾𝑥𝑛𝐾
+∗ ∗ ∗ ∗ = b + b x + b x b x y1 0 1 11 2 12 + … + K 1K ∗ ∗ ∗ ∗ = b + b x + b x b x y2 0 1 21 2 22 + … + K 2K …. ∗ ∗ ∗ ∗ yn= b0 + b1xn1 + b2xn2 + … + bKxnK
 
 Can be written in matrix form as:
 
@@ -94,15 +94,15 @@ Can be written in matrix form as:
 
 To derive the coefficients of the linear model using the least squares method, it is necessary to resort to matrix calculation.
 
-= 𝐗𝐛(∗) 𝐞(∗) = −𝐗𝐛(∗) −𝐗𝐛(∗𝐓) −𝐗𝐛(∗) 𝐲 𝐲 𝐲 𝐲 **The model The error The sum of the squares vector of the errors,** 𝑺𝑺𝑬(∗)
+= Xb(∗) e(∗) = −Xb(∗) −Xb(∗T) −Xb(∗) y y y y **The model The error The sum of the squares vector of the errors,** SSE(∗)
 
 The vector of coefficients solution of the optimisation problem
 
-min 𝐲−𝐗𝐛(∗𝐓) 𝐲−𝐗𝐛(∗) 𝐛(∗)
+min y−Xb(∗T) y−Xb(∗) b(∗)
 
 is:
 
-−𝟏 T 𝐛= 𝐗(T) 𝐗 𝐗 𝐲
+−1 T b= X(T) X X y
 
 and must be calculated using a software
 
@@ -158,17 +158,17 @@ _**(points in grey are those lying below the regression plane).**_
 
 **Sales and prices of a product**
 
-- ො𝑦= 119.314 −1.284𝑥1 + 1.039𝑥2
+- \hat{y}= 119.314 −1.284x1 + 1.039x2
 
-**(** 𝑦 **= Sales** , _**x**_ **1 = Price ;** _**x**_ **2 = Price.Comp)**
+**(** y **= Sales** , _**x**_ **1 = Price ;** _**x**_ **2 = Price.Comp)**
 
-𝒃𝟎 **= 119.314** is the estimated **intercept.**
+b0 **= 119.314** is the estimated **intercept.**
 
 **It represents the expected level of sales when both the product of the company in question and the main competitor are sold at zero price.**
 
 In this case, it is a purely technical coefficient because obviously this price combination has never been observed in the data (nor will it ever be observed, by the way)
 
-𝒃 **= -1.284** is the estimated coefficient for **Price** 𝟏 𝒃𝟐 **= 1.039** is the estimated coefficient for **Price.Comp**
+b **= -1.284** is the estimated coefficient for **Price** 1 b2 **= 1.039** is the estimated coefficient for **Price.Comp**
 
 **How should the coefficients be interpreted? Can we say that for an increase of 1 Price unit we can expect an average decrease of 1.284 points in sales volume?**
 
@@ -176,13 +176,13 @@ In this case, it is a purely technical coefficient because obviously this price 
 
 **Sales and prices of a product**
 
-𝒃 𝟎
+b 0
 
-𝑥 In simple regression, a change of 1 unit of 1 corresponds to an average change in 𝑦 proportional to the slope of the line. **In the multiple regression model:** −1.284𝑥 1.039𝑥 ො𝑦= 119.314 1 + 2 the average variation of 𝑦 corresponding to a unit variation of 𝑥1 **also** depends on 𝑥2 _**, if**_ 𝑥 2 _**can vary!**_ ~~𝒃𝟏 thus represents the average change in 𝑦~~ 𝑥 corresponding to a 1 unit change in 1 𝑥 . assuming 2 **is constant**
+x In simple regression, a change of 1 unit of 1 corresponds to an average change in y proportional to the slope of the line. **In the multiple regression model:** −1.284x 1.039x \hat{y}= 119.314 1 + 2 the average variation of y corresponding to a unit variation of x1 **also** depends on x2 _**, if**_ x 2 _**can vary!**_ ~~b1 thus represents the average change in y~~ x corresponding to a 1 unit change in 1 x . assuming 2 **is constant**
 
 ## Evaluation of the multiple regression model
 
-To assess the explanatory power of the multiple regression model, we refer to the **sum of squared errors** (data vs. predictions based on least squares coefficients) 𝑛 𝑛 𝑺𝑺𝑬 −𝑏 𝑥 𝑥 … −𝑏 𝑥 (𝑦𝑖 −$\hat{y}_i$)(2) (𝑦𝑖 0 −𝑏1 𝑖1 −𝑏2 𝑖2 − 𝐾 𝑖𝐾)(2) = ෍ = ෍ 𝑖=1 𝑖=1
+To assess the explanatory power of the multiple regression model, we refer to the **sum of squared errors** (data vs. predictions based on least squares coefficients) n n SSE −b x x … −b x (yi −$\hat{y}_i$)(2) (yi 0 −b1 i1 −b2 i2 − K iK)(2) = \sum = \sum i=1 i=1
 
 ## and the decomposition of the **sum of squares total**
 
@@ -192,7 +192,7 @@ To assess the explanatory power of the multiple regression model, we refer to th
 
 As in the case of simple regression:
 
-In the case of multiple regression, a modification of the R(2) is also considered, the so-called **adjusted R(2)** which also takes into account the sample size but above all the **number of** . **explanatory variables in the model** 𝑺𝑺𝑬/(𝒏−𝑲−𝟏) 𝑨𝒅𝒋𝒖𝒔𝒕𝒆𝒅𝑹(𝟐) = 1 − 𝑺𝑺𝑻/(𝒏−𝟏)
+In the case of multiple regression, a modification of the R(2) is also considered, the so-called **adjusted R(2)** which also takes into account the sample size but above all the **number of** . **explanatory variables in the model** SSE/(n−K−1) AdjustedR(2) = 1 − SST/(n−1)
 
 **Why?** If the number of explanatory variables included in the model is very high (compared to the number of cases), the R(2) may be excessively high and not provide a reliable measure of the model's fit (at the limit, if as many explanatory variables are used as there are cases, the R(2) would be equal to 1 regardless of the quality of the model) The **adjusted R(2)** is used to **compare the fit of models with a different number of explanatory variables**
 
@@ -220,7 +220,7 @@ In order to study the properties of these estimators, and make inferences about 
 
 ## Regression model: least-squares estimators
 
-In order to make inferences about the model parameters in the population, it is necessary to make assumptions about errors, which are the same as those introduced for simple linear 𝑛 regression. Assuming therefore that the linear model is valid for sample observations:: **Weak assumptions** The expected value of the residuals is zero: 𝐸 ε𝑖 = 0 for each 𝑖 The variance of the residuals is the same whatever the values assumed by the explanatory variables: 𝑉𝑎𝑟 ε = σ for each 𝑖 𝑖 ε(2) The errors are uncorrelated i.e. 𝐶𝑜𝑟(ε𝑖, εℎ) = 0 for each 𝑖, ℎ **Strong assumptions**: include all the weak assumptions, and add the following: ~ The distribution of the residuals is normal ε𝑖 𝒩(0, σε(2) ) **.** Under this assumption, the residuals (and the - random - sample observations of the dependent variable) are not only uncorrelated but also independent.
+In order to make inferences about the model parameters in the population, it is necessary to make assumptions about errors, which are the same as those introduced for simple linear n regression. Assuming therefore that the linear model is valid for sample observations:: **Weak assumptions** The expected value of the residuals is zero: E εi = 0 for each i The variance of the residuals is the same whatever the values assumed by the explanatory variables: Var ε = σ for each i i ε(2) The errors are uncorrelated i.e. Cor(εi, εℎ) = 0 for each i, ℎ **Strong assumptions**: include all the weak assumptions, and add the following: ~ The distribution of the residuals is normal εi N(0, σε(2) ) **.** Under this assumption, the residuals (and the - random - sample observations of the dependent variable) are not only uncorrelated but also independent.
 
 ## Regression model: least-squares estimators
 
@@ -234,15 +234,15 @@ However, such estimators have the following properties:
 
 - Are **unbiased** for the corresponding model parameters in the population
 
-- Have variance that tends to zero as the sample size increases and depends on the sample observations and also on the variance of the errors, 𝛔𝛆(𝟐) . They are also the lowest variance estimators in the class of the unbiased linear estimators (linear combinations of the sample observations on the dependent variable) - Under the strong assumptions the estimators have a normal distribution It is therefore possible to make inference on the parameters of the linear model in the population
+- Have variance that tends to zero as the sample size increases and depends on the sample observations and also on the variance of the errors, σε(2) . They are also the lowest variance estimators in the class of the unbiased linear estimators (linear combinations of the sample observations on the dependent variable) - Under the strong assumptions the estimators have a normal distribution It is therefore possible to make inference on the parameters of the linear model in the population
 
 ## Estimator of the error variance
 
 .
 
-The variances of the least-squares estimators depend on the **variance of the errors** , 𝛔𝛆(𝟐) **, which is unknown and must be estimated.** The **unbiased estimator** of 𝛔𝛆(𝟐) in the case of a model with _**K**_ explanatory variables (in addition 𝒏– 𝑲– 𝟏 to the intercept) is based on the sum of the squared errors divided by **( )** (degrees of freedom), and the corresponding estimate is:
+The variances of the least-squares estimators depend on the **variance of the errors** , σε(2) **, which is unknown and must be estimated.** The **unbiased estimator** of σε(2) in the case of a model with _**K**_ explanatory variables (in addition n– K– 1 to the intercept) is based on the sum of the squared errors divided by **( )** (degrees of freedom), and the corresponding estimate is:
 
-Which is an estimate of the variance of the errors taking into account the number of observations and on the **number of estimated parameters on which the model is based** (which are the 𝑲 coefficients for the explanatory variables and the intercept, hence 𝑲+ 𝟏) The square root of 𝑠ε(2) , 𝑠ε , is called - as in the case of the simple linear model - **standard error of the model or standard error of the residuals**
+Which is an estimate of the variance of the errors taking into account the number of observations and on the **number of estimated parameters on which the model is based** (which are the K coefficients for the explanatory variables and the intercept, hence K+ 1) The square root of sε(2) , sε , is called - as in the case of the simple linear model - **standard error of the model or standard error of the residuals**
 
 ## Estimation and inference on the model’s coefficients
 
@@ -262,17 +262,17 @@ Estimation of coefficients and standard errors, calculation of _**tstatistics**_
 
 ## **Sales and Prices:** Relationship between Sales, Price and Price.Comp.
 
-**> reg_sales<-lm(Sales ~ Price+Price.Comp, data = Sales) > summary(reg_sales) # regression results Coefficients: Estimate Std. Error t value  Pr(>|t|) (Intercept) 119.31366   10.38034   11.49  < 2e-16 *** Price        -1.28361    0.13085   -9.81 3.45e-16 ***** 𝒔 **Price.Comp    1.03933    0.08958   11.60  < 2e-16 ***** 𝜺 **--Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' 1 Residual standard error: 20.26 on 97 degrees of freedom R(2)** and adjusted **R(2) Multiple R-squared: 0.739, Adjusted R-squared: 0.7336 F-statistic: 137.3 on 2 and 97 DF, p-value: < 2.2e-16 ??**
+**> reg_sales<-lm(Sales ~ Price+Price.Comp, data = Sales) > summary(reg_sales) # regression results Coefficients: Estimate Std. Error t value  Pr(>|t|) (Intercept) 119.31366   10.38034   11.49  < 2e-16 *** Price        -1.28361    0.13085   -9.81 3.45e-16 ***** s **Price.Comp    1.03933    0.08958   11.60  < 2e-16 ***** ε **--Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' 1 Residual standard error: 20.26 on 97 degrees of freedom R(2)** and adjusted **R(2) Multiple R-squared: 0.739, Adjusted R-squared: 0.7336 F-statistic: 137.3 on 2 and 97 DF, p-value: < 2.2e-16 ??**
 
-**The model’s goodness of fit is assessed using the R(2)** (the adjusted **R(2)** is used to compare models with different dimension). Nonetheless, the **R(2  )** is a descriptive measure, based on the sample. The **global significance of the model is verified using the socalled** 𝑭 **test** .
+**The model’s goodness of fit is assessed using the R(2)** (the adjusted **R(2)** is used to compare models with different dimension). Nonetheless, the **R(2  )** is a descriptive measure, based on the sample. The **global significance of the model is verified using the socalled** F **test** .
 
 ## Hypothesis testing on** _**all**_ **model coefficients
 
-The 𝑭 test is used to verify the _**overall significance of a model,**_ i.e. whether there is a significant relationship between the dependent variable and the set of **all** explanatory variables _._
+The F test is used to verify the _**overall significance of a model,**_ i.e. whether there is a significant relationship between the dependent variable and the set of **all** explanatory variables _._
 
 Specifically, one is interested in assessing whether the model _**includes at least one explanatory variable that is significant for the explanation of the dependent variable**_ This problem can be addressed by testing the following hypotheses:
 
-**H:** = 0 **0** β1 = ⋯= β𝐾 **H is different from 0. 1: At least one parameter** β𝑘
+**H:** = 0 **0** β1 = ⋯= βK **H is different from 0. 1: At least one parameter** βk
 
 **If the null hypothesis is rejected, it can be concluded that** _**at least**_ **one of the coefficients in** ~~**the model is significantly different from zero**~~ **and that the model therefore has some validity (subject to checking which coefficient is significant by means of the specific** _**t-tests**_ **for each explanatory variable). Although this test may seem redundant, since variable-specific** _**t-tests**_ **are available, we shall see that it is actually very useful in some particular cases**
 
@@ -280,35 +280,35 @@ Specifically, one is interested in assessing whether the model _**includes at le
 
 To test the hypotheses, it is necessary to identify test statistic allowing to discriminate between the null and the alternative hypotheses. In this case, the test statistic is:
 
-𝑺𝑺𝑹/𝑲 _**F**_ = 𝑺𝑺𝑬/(𝒏−𝑲−𝟏)
+SSR/K _**F**_ = SSE/(n−K−1)
 
-That is the ratio between the **sum of the squared regression errors** 𝑺𝑺𝑹 divided by the **number of explanatory variables in the model** , 𝑲, and the **sum of the squared residuals** 𝑺𝑺𝑬 divided by the errors’ **degrees of freedom,** (𝒏−𝑲−𝟏) = Note that since 𝑹(𝟐) 𝑺𝑺𝑹/𝑺𝑺𝑻= 1 −(𝑺𝑺𝑬/𝑺𝑺𝑻) **the statistic can be written as:**
+That is the ratio between the **sum of the squared regression errors** SSR divided by the **number of explanatory variables in the model** , K, and the **sum of the squared residuals** SSE divided by the errors’ **degrees of freedom,** (n−K−1) = Note that since R(2) SSR/SST= 1 −(SSE/SST) **the statistic can be written as:**
 
-Thus, the higher the 𝑹(𝟐) the higher is the value taken by _**F**_ . Clearly, a high 𝑹(𝟐) indicates that the model includes **at least one explanatory variable** significantly related to the dependent variable, and therefore it explains a high proportion of its variance.
+Thus, the higher the R(2) the higher is the value taken by _**F**_ . Clearly, a high R(2) indicates that the model includes **at least one explanatory variable** significantly related to the dependent variable, and therefore it explains a high proportion of its variance.
 
 ## Hypothesis testing on** _**all**_ **model coefficients
 
-In order to verify the hypotheses, the distribution of the test statistic should be known under the null hypothesis. It can be shown that **under the null H0**: β1 = ⋯= β𝐾 = 0, the statistic
+In order to verify the hypotheses, the distribution of the test statistic should be known under the null hypothesis. It can be shown that **under the null H0**: β1 = ⋯= βK = 0, the statistic
 
-## 𝑺𝑺𝑹/𝑲
+## SSR/K
 
-_**F**_ = 𝑺𝑺𝑬/(𝒏−𝑲−𝟏)
+_**F**_ = SSE/(n−K−1)
 
-has an _**F**_ distribution with _**K**_ degrees of freedom at the numerator and (𝒏 –  𝑲 –  𝟏) degrees of freedom at the denominator, _**F**_ 𝑲,(𝒏−𝑲−𝟏)
+has an _**F**_ distribution with _**K**_ degrees of freedom at the numerator and (n –  K –  1) degrees of freedom at the denominator, _**F**_ K,(n−K−1)
 
 A r.v. with an _**F**_ distribution takes only **non-negative** values. The _**F distribution**_ **right skewed,** and depends on two parameters, called degrees of freedom (of the numerator and of the denominator), which influence its shape.
 
 ## Hypothesis testing on** _**all**_ **model coefficients
 
-**Test for H0:** β1 = ⋯= β𝐾 = 0 **vs H1: At least one parameter** β𝑘 **is different from zero, at a** 𝛂 **given level of significance,**
+**Test for H0:** β1 = ⋯= βK = 0 **vs H1: At least one parameter** βk **is different from zero, at a** α **given level of significance,**
 
-𝑺𝑺𝑹/𝑲(under ) **(H)(0)** 𝑺𝑺𝑬/(𝒏−𝑲−𝟏)
+SSR/K(under ) **(H)(0)** SSE/(n−K−1)
 
 Consider the distribution of _**F**_ =
 
-The **critical tail is the right one: high values** of _**F**_ indicate that 𝑺𝑺𝑹 **is much larger than** 𝑺𝑺𝑬 **, and that the model includes at least one significant variable. The shape of the rejection region will be: Rejection region:** _**F**_ > _**F**_ *** with** _**F**_ ***  set in such a way that**
+The **critical tail is the right one: high values** of _**F**_ indicate that SSR **is much larger than** SSE **, and that the model includes at least one significant variable. The shape of the rejection region will be: Rejection region:** _**F**_ > _**F**_ *** with** _**F**_ ***  set in such a way that**
 
-**Pr(Reject H0|H0 is true) =** Pr( _**F**_ > _**F**_ ***** | **H0** ) **=** - 𝟎 = = Thus, _**F**_ ***** _**F**_ 𝟏−𝛂 _F_ α;𝐾,(𝑛−𝐾−1) **the percentile of order (** 𝟏−α **) of a** _**F**_ **distribution** 𝑲,(𝒏−𝑲−𝟏)
+**Pr(Reject H0|H0 is true) =** Pr( _**F**_ > _**F**_ ***** | **H0** ) **=** - 0 = = Thus, _**F**_ ***** _**F**_ 1−α _F_ α;K,(n−K−1) **the percentile of order (** 1−α **) of a** _**F**_ **distribution** K,(n−K−1)
 
 ## Hypothesis testing on** _**all**_ **model coefficients
 
@@ -367,7 +367,7 @@ The dataframe **Retention** contains information on a simple random sample of cu
 
 **Comments on the regressions?** _The relationship between_ **Retention** _and_ **Loyalty** _is rather strong and significant*, while that between_ **Retention** _and_ **SalesPersons** _is rather weak and the coefficient has a . quite high pvalue*_ **Can we conclude that SalesPersons is irrelevant?**
 
-ො𝑦= 19.17 + 4.84𝑥1; 𝑅(2) = 0.81 ො𝑦= 45.29 + 8.06𝑥2 ; 𝑅(2) = 0.01
+\hat{y}= 19.17 + 4.84x1; R(2) = 0.81 \hat{y}= 45.29 + 8.06x2 ; R(2) = 0.01
 
 * Refer to the script for details on the regressions ’ results
 
@@ -391,7 +391,7 @@ _The plot of the standardized residuals against_ **SalesPersons** _exhibits a pa
 
 ## Simple vs Multiple regression (IMPORTANT INTUITION!)
 
-**Consider the two models:** ෣ 𝑅𝑒𝑡𝑒𝑛𝑡𝑖𝑜𝑛= 45.29 + 8.06 ∙𝑆𝑎𝑙𝑒𝑠𝑃𝑒𝑟𝑠𝑜𝑛𝑠 ; 𝑅(2) = 0.01 ෣ 𝑅𝑒𝑡𝑒𝑛𝑡𝑖𝑜𝑛= 12.43 + 4.87 ∙𝐿𝑜𝑦𝑎𝑙𝑡𝑦+ 11.65 ∙𝑆𝑎𝑙𝑒𝑠𝑃𝑒𝑟𝑠𝑜𝑛𝑠 ; 𝑅(2) = 0.83 They are both **correct** , but
+**Consider the two models:** ෣ Retention= 45.29 + 8.06 ∙SalesPersons ; R(2) = 0.01 ෣ Retention= 12.43 + 4.87 ∙Loyalty+ 11.65 ∙SalesPersons ; R(2) = 0.83 They are both **correct** , but
 
 - The first model estimates the **average variation of Retention as SalesPersons changes** - The second model estimates the **average variation of Retention as SalesPersons changes, for clients with a certain level of Loyalty**
 
@@ -471,7 +471,7 @@ _We note that the_ _**intercept of the model varies as**_ **Strategy** _**varies
 
 ## Multiple linear regression: dummy variables
 
-Let us consider the following specification for the model that explains the dependent variable _**Y**_ (here, **Profit** ) as a function of a set of numerical explanatory variables (here, only one explanatory variable, 𝑿1= **Wealth** ) in the case when a qualitative variable (here, **Strategy** , which takes only 3 distinct values) has an effect on the model intercept: **Level A:** _**Y**_ **= Intercept A** +β1𝒙1 + ε 𝒙 **=** 𝒙 𝛃𝟎 + β1 1 + ε 𝛃𝟎𝑨 + β1 1 + ε **Level B:** _**Y**_ **= Intercept B** +β1𝒙1 + ε **=** 𝒙 𝛃𝟎 + 𝛃𝑩 + β1𝒙1 + ε 𝛃𝟎𝑩 + β1 1 + ε **Level C:** _**Y**_ **= +** _**x**_ **+** e **Intercept C** - **1 1 =** 𝛃𝟎𝑪 + β1𝒙1 + ε 𝛃𝟎 + 𝛃𝑪 + β1𝒙1 + ε
+Let us consider the following specification for the model that explains the dependent variable _**Y**_ (here, **Profit** ) as a function of a set of numerical explanatory variables (here, only one explanatory variable, X1= **Wealth** ) in the case when a qualitative variable (here, **Strategy** , which takes only 3 distinct values) has an effect on the model intercept: **Level A:** _**Y**_ **= Intercept A** +β1x1 + ε x **=** x β0 + β1 1 + ε β0A + β1 1 + ε **Level B:** _**Y**_ **= Intercept B** +β1x1 + ε **=** x β0 + βB + β1x1 + ε β0B + β1 1 + ε **Level C:** _**Y**_ **= +** _**x**_ **+** e **Intercept C** - **1 1 =** β0C + β1x1 + ε β0 + βC + β1x1 + ε
 
 Models with different intercepts corresponding to different levels of the qualitative variable . can be combined into a single model using the so-called **indicator or dummy variables**
 
@@ -489,17 +489,17 @@ For example, with reference to the data we are considering:
 
 **The dummy** variables, which in the present case indicate which strategy was adopted with the customer, would be:
 
-Note that, for each case, given the values taken by 𝐈𝐵 e 𝐈𝐶 the value taken by 𝐈𝐴 is known
+Note that, for each case, given the values taken by IB e IC the value taken by IA is known
 
 ## Multiple linear regression: dummy variables
 
 The model based on intercepts varying with the strategy adopted is:
 
-_**Y**_ **=** 𝐈 𝐈 𝒙 β0 +β𝐵 𝐵 +β𝐶 𝐶 +β1 1 +ε
+_**Y**_ **=** I I x β0 +βB B +βC C +β1 1 +ε
 
-**Level A** (𝐈𝐵= 0, 𝐈𝐶 = 0) **:** _**Y**_ **=** β0 + β1𝒙1 +ε **Level B** (𝐈𝐵= 1, 𝐈𝐶 = 0) **:** _**Y**_ **=** β0 + β𝐵 + β1𝒙1 +ε **Level C** (𝐈𝐵= 0, 𝐈𝐶 = 1) **:** _**Y**_ **=** β0 + β𝐶 + β1𝒙1 +ε
+**Level A** (IB= 0, IC = 0) **:** _**Y**_ **=** β0 + β1x1 +ε **Level B** (IB= 1, IC = 0) **:** _**Y**_ **=** β0 + βB + β1x1 +ε **Level C** (IB= 0, IC = 1) **:** _**Y**_ **=** β0 + βC + β1x1 +ε
 
-Thus, two **additional intercepts** are added to the model, indicating the **change in the intercept for** customers for whom strategy B or C was adopted. The intercept refers to the model intercept at the level **chosen as base/reference,** in this case level **A.** Clearly, the model can be parameterised differently by choosing another level as the base. In essence, to include a qualitative variable with 𝑳 levels in the model, (𝑳−𝟏) indicator variables are added.
+Thus, two **additional intercepts** are added to the model, indicating the **change in the intercept for** customers for whom strategy B or C was adopted. The intercept refers to the model intercept at the level **chosen as base/reference,** in this case level **A.** Clearly, the model can be parameterised differently by choosing another level as the base. In essence, to include a qualitative variable with L levels in the model, (L−1) indicator variables are added.
 
 ## Multiple linear regression: customers ’ profitability
 
@@ -709,7 +709,7 @@ Management is interested in **assessing** the **performance of existing hotels**
 
 ## The model:
 
-**Margin =** 𝛃𝟎 **+** 𝛃𝟏 **Number +** 𝛃𝟐 **Nearest +** 𝛃𝟑 **Office +** 𝛃𝟒 **Enrollment +** 𝛃𝟓 **Income + +** 𝛃𝟔 **Distance +** 𝛆
+**Margin =** β0 **+** β1 **Number +** β2 **Nearest +** β3 **Office +** β4 **Enrollment +** β5 **Income + +** β6 **Distance +** ε
 
 ## Hotel location and performance
 
@@ -737,7 +737,7 @@ No obvious violations of assumptions, even if the distribution of the errors is 
 
 Even if we will not study them, consider the results of some tests (typically covered in more advanced courses) of normality and of homosjedasticity. Note indeed that the graphical analysis of residuals allows drawing conclusions only when the assumptions violations are very evident, and in some cases might lead to conclusions depending on the analyst (eye)
 
-_Even if we do not know how the tests statistics are built, we can conclude that the null hypoheses of normality and of omoskedasticity of residuals_ _**cannot be rejected** because the p- values are higher than any_ 𝛼 _standard value of_
+_Even if we do not know how the tests statistics are built, we can conclude that the null hypoheses of normality and of omoskedasticity of residuals_ _**cannot be rejected** because the p- values are higher than any_ α _standard value of_
 
 **Test for homoskedasticity (H0: Residuals are Homoskedastic)** Breusch-Pagan statistic: BP = 4.11, p-value = 0.66
 
@@ -881,7 +881,7 @@ We want to evaluate a potential location for the new hotel, with the following c
 
 - **–**
 
-- ො𝑦𝑔 **= 38.14 0.0076·3815 +1.65·0.9  + 0.020·476 + 0.21·24.5 + 0.41·35 0.23·11.2**
+- \hat{y}_{g} **= 38.14 0.0076·3815 +1.65·0.9  + 0.020·476 + 0.21·24.5 + 0.41·35 0.23·11.2**
 
 - **=  37.07**
 

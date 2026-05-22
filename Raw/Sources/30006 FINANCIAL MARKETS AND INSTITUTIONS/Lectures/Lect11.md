@@ -148,9 +148,9 @@ Another simple example of a holder of an option
 
 - Payoff is the difference between the value _X_ and _S_ , and in any case never below zero (because if _S < X_ , you don’t exercise the option)
 
-𝑐𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈
+call π = max S−X, 0 −p long
 
-To get the profit subtract 𝑝
+To get the profit subtract p
 
 ## Call Payoff
 
@@ -158,9 +158,9 @@ To get the profit subtract 𝑝
 
 - again, payoff (= _X-S)_ is never below zero (because if _S>X_ , you don’t exercise the option)
 
-- 𝑝𝑢𝑡
+- put
 
-- 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
+- π = max X−S, 0 −p long
 
 Put Payoff
 
@@ -168,13 +168,13 @@ Put Payoff
 
 ## Profit from** _**holding**_ **(long) a Put
 
-𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 π 𝒍𝒐𝒏𝒈 X X-p Payoff X S -p Profit Memo: right to **sell**
+Put π = max X−S, 0 −p π long X X-p Payoff X S -p Profit Memo: right to **sell**
 
 ## Options: Profit for** _**writer**_ **(short)
 
 - ✓ **Call option**: writer is _**obliged** to sell_ if the buyer of the call exercises the option
 
-`o` holder will exercise only if _S>X_ , but he/she always pays the premium `o` hence writer’s profit is: 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
+`o` holder will exercise only if _S>X_ , but he/she always pays the premium `o` hence writer’s profit is: Call πshort = p−max S−X, 0
 
 - ✓ **Put option**: writer is are _obliged to buy_ if the buyer of the put exercises the option
 
@@ -182,13 +182,13 @@ Put Payoff
 
 - `o` hence writer’s profit is
 
-𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0
+Put πshort = p−max X−S, 0
 
 Let’s see everything graphically
 
 ## Profit from** _**writing**_ **(short in) a Call
 
-𝐶𝑎𝑙𝑙 𝜋 𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
+Call π short = p−max S−X, 0
 
 Profit S X Payoff Obligation to sell
 
@@ -216,9 +216,9 @@ Note: the distinction between European and American options has nothing to do wi
 
 - determined by:
 
-- best of assets max(𝑆1, … , 𝑆𝑛, 𝐾)
+- best of assets max(S1, … , Sn, K)
 
-- call on max max(max(𝑆1, … , 𝑆𝑛, ) −𝐾, 0)
+- call on max max(max(S1, … , Sn, ) −K, 0)
 
 ## Options Terminology
 
@@ -234,13 +234,13 @@ Note: the distinction between European and American options has nothing to do wi
 
 if S>X if S=X if S<X
 
-𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈
+Call π = max S−X, 0 −p long
 
 ✓ A put option is
 
 `o` _**in**_ the money if X>S `o` _**at**_ the money if X=S `o` _**out**_ of the money if X<S
 
-𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
+Put π = max X−S, 0 −p long
 
 ## Options Pricing (Premium)
 
@@ -421,7 +421,7 @@ Let’s see how hedging with options would work
 
 ## Options: Hedging Exercise
 
-✓ In general, the **additional value** of buying the **put** option 𝑆 compared to **not buying it** (where 𝑇 is spot price of portfolio at maturity)
+✓ In general, the **additional value** of buying the **put** option S compared to **not buying it** (where T is spot price of portfolio at maturity)
 
 ## Example of speculation
 
@@ -431,11 +431,11 @@ Let’s see how hedging with options would work
 
 ✓ _Just check out the profit functions from before:_
 
-𝐶𝑎𝑙𝑙 𝜋 = max 𝑆−𝑋, 0 −𝑝 𝒍𝒐𝒏𝒈 𝑃𝑢𝑡 𝜋 = max 𝑋−𝑆, 0 −𝑝 𝒍𝒐𝒏𝒈
+Call π = max S−X, 0 −p long Put π = max X−S, 0 −p long
 
 _potentially …_ _**limited** losses holder or large gains_
 
-𝑃𝑢𝑡 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑋−𝑆, 0 𝐶𝑎𝑙𝑙 𝜋𝒔𝒉𝒐𝒓𝒕 = 𝑝−𝑚𝑎𝑥 𝑆−𝑋, 0
+Put πshort = p−max X−S, 0 Call πshort = p−max S−X, 0
 
 _potentially …_ _**large** losses or limited gains_
 

@@ -5141,7 +5141,7 @@ An increase in the expected price level ➤ leads to an increase in the nominal 
 
 Think of it another way. If workers expect the price level – the price of the goods they buy – to double, they will ask for a doubling of their nominal wage. If firms expect the price level – the price of the goods they sell – to double, they will be willing to double the nominal wage. So, if both workers and firms expect the price level to double, they will agree to double the nominal wage, keeping the real wage constant. This is captured in equation (7.1): a doubling in the expected price level leads to a doubling of the nominal wage chosen when wages are set.
 
-Why do wages depend on the _expected price level, $$$P(e)$$$_ , rather than the _actual price level, P_ ? Because wages are set in nominal (dollar, euro, or other currency) terms and, when they are set, the relevant price level is not yet known.
+Why do wages depend on the _expected price level, $P(e)$_ , rather than the _actual price level, P_ ? Because wages are set in nominal (dollar, euro, or other currency) terms and, when they are set, the relevant price level is not yet known.
 
 For example, in some union contracts in the United States, nominal wages are set in advance for three years. Unions and firms have to decide what nominal wages will be over the following three years based on what they expect the price level to be over those three years. Even when wages are set by firms, or by bargaining between the firm and each worker, nominal wages are typically set for a year. If the price level goes up unexpectedly during the year, nominal wages are typically not readjusted. (How workers and firms form expectations of the price level will occupy us for much of the next two chapters; we will leave this issue aside for the moment.)
 
@@ -8739,7 +8739,7 @@ Or, if we define the function _f_ so _that f_ ( _K_ > _AN_ ) = _F_ ( _K_ > _AN_ 
 
 Suppose that _F_ has the double square root form:
 
-_Y_ = _F_ ( _K, AN_ ) = 2 _K_ 2 _AN_ Then: _Y_ 2 _AN_ 2 _K_(2) _(K)_ = _AN_(=) _AN_ 2 _AN_ So, in this case, the function _f_ is simply the square root function: _K $$$f(K)$$$_ ¢ _AN_(≤)(=) A _AN_
+_Y_ = _F_ ( _K, AN_ ) = 2 _K_ 2 _AN_ Then: _Y_ 2 _AN_ 2 _K_(2) _(K)_ = _AN_(=) _AN_ 2 _AN_ So, in this case, the function _f_ is simply the square root function: _K $f(K)$_ ¢ _AN_(≤)(=) A _AN_
 
 In words: _output per effective worker_ (the left side) is a function of _capital per effective worker_ (the expression in the function on the right side).
 
@@ -10211,7 +10211,9 @@ To begin, we need a definition of the yield to maturity. The _yield to maturity_
 
 This definition is simpler than it sounds. Take, for example, the two-year bond we introduced previously. Denote its yield by _i_ 2 _t_ , where the subscript 2 is there to remind us that this is the _yield to maturity_ on a two-year bond, or, equivalently, the two-year interest rate. Following the definition of the yield to maturity, this yield is the constant annual interest rate that would make the present value of €100 in two years equal to the price of the bond today. So, it satisfies the following relation:
 
-(1 + _i_ 2 _t_ ):90 =:100/(1 + _i_ 2 _t_ )(2) 1 Suppose the bond sells for €90 today. Then the two-year interest rate _i_ 2 _t_ is given by (1 + _i_ 2 _t_ )(2) =:100/:90 1 2100>90 - 1, or 5.4%. In other words, holding the bond for two years – until maturity – (1 + _i_ 2 _t_ ) = $$$$U(:100/:90)$$$$ 1 yields an interest rate of 5.4% per year. _i_ 2 _t_ = 5.4%
+(1 + _i_ 2 _t_ ):90 =:100/(1 + _i_ 2 _t_ )(2) 1 Suppose the bond sells for €90 today. Then the two-year interest rate _i_ 2 _t_ is given by (1 + _i_ 2 _t_ )(2) =:100/:90 1 2100>90 - 1, or 5.4%. In other words, holding the bond for two years – until maturity – (1 + _i_ 2 _t_ ) = $$
+$$U(:100/:90)$$
+$$ 1 yields an interest rate of 5.4% per year. _i_ 2 _t_ = 5.4%
 
 What is the relation of the two-year interest rate to the current one-year interest rate and the expected one-year interest rate? To answer that question, look at equation (15.10) and equation (15.9). Eliminating: _P_ 2 _t_ between the two gives:
 
@@ -13327,7 +13329,7 @@ First simplification: _P_ = _P_ * = 1, so e = _E_ .
 
 - Because we take the domestic price level as given, there is no inflation, either actual or expected. Therefore, the nominal interest rate and the real interest rate are the same, and we can replace the real interest rate, _r_ , in equation (19.1) with the nominal interest rate, _i._
 
-Second simplification: $$$P(e) = 0,$$$ so _r_ = _i_ .
+Second simplification: $P(e) = 0,$ so _r_ = _i_ .
 
 > ➤ With these two simplifications, equation (20.1) becomes:
 

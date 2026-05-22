@@ -178,11 +178,11 @@ Equilibrium interest rate must be such that the supply of money (independent of 
 
 - If you buy the bond today and hold it for a year, the yield on holding a $100 T-bill is
 
-## i = (€100- €$$$P(b)$$$ ) / €$$$P(b)$$$
+## i = (€100- €$P(b)$ ) / €$P(b)$
 
 - Alternatively, if you know the yield you can obtain the price
 
-## €$$$P(b) = €100$$$ / (1+i)
+## €$P(b) = €100$ / (1+i)
 
 - There is a negative relation between the price and the yield
 

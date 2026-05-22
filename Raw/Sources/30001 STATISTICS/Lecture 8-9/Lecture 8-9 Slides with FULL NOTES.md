@@ -32,11 +32,11 @@ In many applications, one is interested to study two variables and their relatio
 
 ## Cross-tab (absolute frequencies)
 
-## Distinct values taken by 𝒀
+## Distinct values taken by Y
 
 Each cell reports the frequency (in this case, the absolute frequency) characterising each pair of values
 
-For the sake of simplicity, we will always denote by 𝒀 the variable on the columns and by 𝑿 the variable on the rows of the table
+For the sake of simplicity, we will always denote by Y the variable on the columns and by X the variable on the rows of the table
 
 ## Qualitative variables: bar charts
 
@@ -80,7 +80,7 @@ Example: Age and interest in healthy eating (sample of 1224 individuals)
 
 Note that among those who are most interested, seniors prevail, whilst among respondents with low/ medium interest, youngsters prevail
 
-**Column conditional frequency**: frequency of each category of the row variable 𝑿, in the **subset of** cases characterised by one of the categories of 𝒀. E.g. The frequency of **Age** = _46-60_ **conditioned on** the category **Interest =** _High_ is: �� Freq {𝐀𝐠𝐞 = _46-60_ | 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭 = _High_ } = ���(= 0.480)
+**Column conditional frequency**: frequency of each category of the row variable X, in the **subset of** cases characterised by one of the categories of Y. E.g. The frequency of **Age** = _46-60_ **conditioned on** the category **Interest =** _High_ is: �� Freq {Age = _46-60_ | Interest = _High_ } = ���(= 0.480)
 
 ## Qualitative variables: conditional distributions
 
@@ -322,9 +322,9 @@ Two variables are **positively (or directly)** associated if concordant pairs pr
 
 ## Cross-products (cross-products)
 
-To assess the strength of the relation between two variables, we have to consider both the **direction** of the deviations from the means and their **size** . At this aim, we consider for each case (𝑥�, 𝑦�) its cross-product, i.e. the product of the deviations from the means
+To assess the strength of the relation between two variables, we have to consider both the **direction** of the deviations from the means and their **size** . At this aim, we consider for each case (x�, y�) its cross-product, i.e. the product of the deviations from the means
 
-(𝑥� −̄𝑥)(𝑦� −̄𝑦)
+(x� −̄x)(y� −̄y)
 
 - } The cross-product informs both on the concordance/discordance (sign) of the values observed on the two variables and on the extent of the deviations from the means.
 
@@ -340,7 +340,7 @@ The definition of the covariance is slightly different for a population and for 
 
 } The **sample covariance** instead is defined as:
 
-As seen for the variance, this is not exactly the **average of** the product of the deviations, 𝒏−𝟏 𝒏 _**.**_ The reason for this difference will because the sum is divided by **( )** and not by be explained when discussing about inference, and specifically about estimation
+As seen for the variance, this is not exactly the **average of** the product of the deviations, n−1 n _**.**_ The reason for this difference will because the sum is divided by **( )** and not by be explained when discussing about inference, and specifically about estimation
 
 ## The covariance: indirect calculation (shortcut) formula
 
@@ -364,11 +364,11 @@ We will use this formula only in particular cases, and specifically when the cov
 
 ## Covariance: calculation based on raw data
 
-## **Example: calculation of the covariance between price and livingArea based on the first** 𝒏 = 10 houses
+## **Example: calculation of the covariance between price and livingArea based on the first** n = 10 houses
 
 ## The means are
 
-|**living16364532**|_The means are_ �𝒙**=(16201/10)=1620.1** �𝒚**=(1319575/10)=131957.5** _The sum of the products of the deviations_|
+|**living16364532**|_The means are_ �x**=(16201/10)=1620.1** �y**=(1319575/10)=131957.5** _The sum of the products of the deviations_|
 |---|---|---|---|---|---|---|---|---|---|---|
 |**1944**|**109000**|**323.9 **|**-22957.5**|**-7435934**|_from the means (rounding all intermediate_|
 |**1944**|**155000**|**323.9**|**23042.5**|**7463466**|_results to 2 decimal places) is_**84167938**.|

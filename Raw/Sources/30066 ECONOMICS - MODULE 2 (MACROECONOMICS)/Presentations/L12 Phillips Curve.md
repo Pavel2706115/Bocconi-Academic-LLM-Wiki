@@ -76,7 +76,7 @@ Transition occurs thanks to changes in prices, wages and adjustment of expectati
 
 ## MEDIUM RUN
 
-- Wrong expectations 𝑃𝑃(𝑒𝑒) ≠𝑃𝑃
+- Wrong expectations PP(ee) ≠PP
 
 - Goods and financial mkt in equilibrium
 
@@ -84,13 +84,13 @@ Transition occurs thanks to changes in prices, wages and adjustment of expectati
 
 - btw labor market and price dynamics
 
-- Correct expectations 𝑃𝑃(𝑒𝑒) = 𝑃𝑃
+- Correct expectations PP(ee) = PP
 
-- Labor market in equilibrium: 𝑢𝑢= 𝑢𝑢𝑛𝑛
+- Labor market in equilibrium: uu= uunn
 
-- - Economy at its potential 𝑌𝑌= 𝑌𝑌𝑛𝑛
+- - Economy at its potential YY= YYnn
 
-- Economy not at the potential 𝑌𝑌≠𝑌𝑌𝑛𝑛
+- Economy not at the potential YY≠YYnn
 
 **Phillips Curve** empirical relation between unemployment and inflation rate
 
@@ -98,41 +98,41 @@ Transition occurs thanks to changes in prices, wages and adjustment of expectati
 
 Let’s consider the labor market
 
-- in the short run: 𝑃𝑃(𝑒𝑒) ≠𝑃𝑃
+- in the short run: PP(ee) ≠PP
 
-- assuming unitary labor productivity: 𝐴𝐴= 1 ⇒ production function 𝑌𝑌= 𝑁𝑁
+- assuming unitary labor productivity: AA= 1 ⇒ production function YY= NN
 
 The two key equations studied in the previous lecture become
 
-1. Wage setting (𝑊 ): 𝑊𝑊= 𝑃𝑃(𝑒𝑒) 𝐹𝐹 𝑢𝑢, 𝑧𝑧
+1. Wage setting (W ): WW= PP(ee) FF uu, zz
 
 2. Price setting (PS):
 
 ## Substituting the WS into the PS we obtain
 
-𝑃𝑃= 1 + 𝑚𝑚𝑃𝑃(𝑒𝑒) 𝐹𝐹 𝑢𝑢, 𝑧𝑧 −+
+PP= 1 + mmPP(ee) FF uu, zz −+
 
 Equation describing the determinants of the current price level in the economy based on WS-PS model
 
-- 𝑚𝑚↑⇒ firms have higher mkt power and charge higher prices ⇒𝑃𝑃↑
+- mm↑⇒ firms have higher mkt power and charge higher prices ⇒PP↑
 
-- - 𝑃𝑃(𝑒𝑒) ↑⇒ workers ask and obtain higher nominal wages ⇒ if 𝑊𝑊↑⇒↑ firms’ production costs ⇒𝑃𝑃↑
+- - PP(ee) ↑⇒ workers ask and obtain higher nominal wages ⇒ if WW↑⇒↑ firms’ production costs ⇒PP↑
 
-- 𝑢𝑢↑⇒ workers bargaining power ↓ wrt firms’ ⇒𝑊𝑊↓⇒𝑃𝑃↓
+- uu↑⇒ workers bargaining power ↓ wrt firms’ ⇒WW↓⇒PP↓
 
-- - 𝑧𝑧↑⇒ workers bargaining power ↑⇒𝑊𝑊↑⇒𝑃𝑃↑
+- - zz↑⇒ workers bargaining power ↑⇒WW↑⇒PP↑
 
 Assume a specific linear functional form for F u, z
 
-Substitute 𝐹𝐹 𝑢𝑢, 𝑧𝑧= 1 −𝛼𝛼𝑢𝑢+ 𝑧𝑧 in the equation for prices we obtain
+Substitute FF uu, zz= 1 −ααuu+ zz in the equation for prices we obtain
 
-AIM: explain the dynamics from short to medium run  => Add time to the equation 𝑚𝑚, 𝑧𝑧, 𝛼𝛼 exogenous parameter
+AIM: explain the dynamics from short to medium run  => Add time to the equation mm, zz, αα exogenous parameter
 
 Equation describing the relationship btw price level and unemployment rate
 
 ## A LITTLE OF MATH TO CONSTRUCT THE PHILLIPS CURVE
 
-Divide by previous period prices: 𝑃𝑃𝑡𝑡−1
+Divide by previous period prices: PPtt−1
 
 And recalling that
 
@@ -142,9 +142,9 @@ relationship btw inflation rate and unemployment rate
 
 Taking logs of both sides, and assuming small values of the variables we have we can approximate the previous equation as
 
-𝜋𝜋𝑡𝑡 ≈𝜋𝜋𝑡𝑡𝑒𝑒 + 𝑚𝑚−𝛼𝛼𝑢𝑢𝑡𝑡 + 𝑧𝑧
+ππtt ≈ππttee + mm−ααuutt + zz
 
-𝑒𝑒 𝜋𝜋𝑡𝑡 = 𝜋𝜋𝑡𝑡 + 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡
+ee ππtt = ππtt + mm+ zz−ααuutt
 
 ## GENERAL    Phillip curve
 
@@ -162,9 +162,9 @@ _No assumptions on how agents form their expectations_
 
 - Of the products mkt: m
 
-𝑒𝑒 From the general Phillips curve we know that 𝜋𝜋𝑡𝑡 = 𝜋𝜋𝑡𝑡 + 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡
+ee From the general Phillips curve we know that ππtt = ππtt + mm+ zz−ααuutt
 
-- 𝒖𝒖↓⇒𝝅𝝅𝒕𝒕 ↑:
+- uu↓⇒ππtt ↑:
 
 - Better conditions on labor market
 
@@ -176,9 +176,9 @@ _No assumptions on how agents form their expectations_
 
 Policy makers face a trade –off: to reduce unemployment, they have to accept higher inflation
 
-- The impact is larger, the larger 𝛼𝛼
+- The impact is larger, the larger αα
 
-- 𝝅𝝅(𝒆𝒆) ↑⇒𝝅𝝅𝒕𝒕 ↑∶
+- ππ(ee) ↑⇒ππtt ↑∶
 
 - People expect higher growth in prices
 
@@ -188,7 +188,7 @@ Policy makers face a trade –off: to reduce unemployment, they have to accept h
 
 - Prices level increases
 
-- 𝒎𝒎↑⇒𝝅𝝅𝒕𝒕 ↑∶
+- mm↑⇒ππtt ↑∶
 
 - Lower competition on product markets
 
@@ -196,7 +196,7 @@ Policy makers face a trade –off: to reduce unemployment, they have to accept h
 
 - Prices grow faster
 
-- 𝒛𝒛↑⇒𝝅𝝅𝒕𝒕 ↑∶
+- zz↑⇒ππtt ↑∶
 
 - Higher workers’ bargaining power
 
@@ -210,23 +210,23 @@ _What is the unemployment rate if expectations are correct?_
 
 ## Let’s rearrange the PC
 
-𝑒𝑒 If 𝜋𝜋𝑡𝑡 = 𝜋𝜋𝑡𝑡 , ∆𝜋𝜋= 0
+ee If ππtt = ππtt , ∆ππ= 0
 
-0 = 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡 = 𝛼𝛼𝑢𝑢𝑡𝑡 𝑚𝑚+ 𝑧𝑧 In the medium run, 𝑃𝑃(𝑒𝑒) = 𝑃𝑃⇒ 𝜋𝜋= 𝜋𝜋(𝑒𝑒) 𝑚𝑚+ 𝑧𝑧 𝑢𝑢𝑡𝑡 = 𝑢𝑢𝑛𝑛 = Natural (structural) rate of 𝛼𝛼 unemployment
+0 = mm+ zz−ααuutt = ααuutt mm+ zz In the medium run, PP(ee) = PP⇒ ππ= ππ(ee) mm+ zz uutt = uunn = Natural (structural) rate of αα unemployment
 
 Only structural factors matter
 
 It depends on the structure of the economy as we have seen in the WS-PS model
 
-Also productivity 𝐴𝐴 if we do not assume it = 1
+Also productivity AA if we do not assume it = 1
 
 We can write the PC in terms of natural unemployment rate
 
-- If the economy is at the potential: 𝑌𝑌𝑡𝑡 = 𝑌𝑌𝑛𝑛 and 𝑢𝑢𝑡𝑡 = 𝑢𝑢𝑛𝑛 Inflation is at the expected rate ∆𝜋𝜋= 0
+- If the economy is at the potential: YYtt = YYnn and uutt = uunn Inflation is at the expected rate ∆ππ= 0
 
-- If the economy is above the potential: 𝑌𝑌𝑡𝑡 > 𝑌𝑌𝑛𝑛 and 𝑢𝑢𝑡𝑡 < 𝑢𝑢𝑛𝑛 Lower unemployment wrt. MR (expansion) ⇒ Faster growth of 𝑊𝑊⇒𝑃𝑃 growth increases ⇒ inflation higher than expected  ( Δ𝜋𝜋𝑡𝑡 > 0)
+- If the economy is above the potential: YYtt > YYnn and uutt < uunn Lower unemployment wrt. MR (expansion) ⇒ Faster growth of WW⇒PP growth increases ⇒ inflation higher than expected  ( Δππtt > 0)
 
-- If the economy is below the potential: 𝑌𝑌𝑡𝑡 < 𝑌𝑌𝑛𝑛 and 𝑢𝑢𝑡𝑡 > 𝑢𝑢𝑛𝑛 Higher unemployment wrt. MR (recession) ⇒ slower growth of 𝑊𝑊⇒𝑃𝑃 growth decreases ⇒ inflation lower than expected  ( Δ𝜋𝜋𝑡𝑡 < 0)
+- If the economy is below the potential: YYtt < YYnn and uutt > uunn Higher unemployment wrt. MR (recession) ⇒ slower growth of WW⇒PP growth decreases ⇒ inflation lower than expected  ( Δππtt < 0)
 
 ## PHILLIPS CURVE: empirical evidence
 
@@ -254,45 +254,45 @@ _Anchored expectations_: we expect “something similar” today to what we have
 
 Constant inflation level
 
-> 𝑒𝑒 = 𝜋𝜋𝑡𝑡 1 −𝜃𝜃 �𝜋𝜋+ 𝜃𝜃𝜋𝜋𝑡𝑡−1 Inflation observed in the last period
+> ee = ππtt 1 −θθ �ππ+ θθππtt−1 Inflation observed in the last period
 
 - average inflation before t-1
 
 - - CB inflation target
 
-0 ≤𝜃𝜃≤1 inflation persistency over time
+0 ≤θθ≤1 inflation persistency over time
 
-If 𝜃𝜃 ↑, inflation more persistent - previous period's inflation has a greater influence on current inflation - workers place more weight on the previous period's inflation when bargaining their wages.
+If θθ ↑, inflation more persistent - previous period's inflation has a greater influence on current inflation - workers place more weight on the previous period's inflation when bargaining their wages.
 
 ## The PC can be written as
 
-= 𝜋𝜋𝑡𝑡 1 −𝜃𝜃 �𝜋𝜋+ 𝜃𝜃𝜋𝜋𝑡𝑡−1 + 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡
+= ππtt 1 −θθ �ππ+ θθππtt−1 + mm+ zz−ααuutt
 
 ## 1) ANCHORED EXPECTATIONS
 
-- Assumption: agents expect an inflation rate equal to a value �𝜋𝜋 (the CB target)
+- Assumption: agents expect an inflation rate equal to a value �ππ (the CB target)
 
-= 𝝅𝝅(𝒆𝒆) �𝝅𝝅
+= ππ(ee) �ππ
 
-- Not persistent inflation: 𝜃𝜃 =0
+- Not persistent inflation: θθ =0
 
 - Substituting into the general formulation:
 
 Negative relationship btw unemployment rate and LEVEL of inflation
 
-## _=> Assume the CB has an inflation target_ �𝜋𝜋 If it is credible, we form expectations = accordingly 𝜋𝜋(𝑒𝑒) �𝜋𝜋
+## _=> Assume the CB has an inflation target_ �ππ If it is credible, we form expectations = accordingly ππ(ee) �ππ
 
-∆�𝜋𝜋= 𝜋𝜋𝑡𝑡 −�𝜋𝜋= 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡 = −𝛼𝛼(𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛)
+∆�ππ= ππtt −�ππ= mm+ zz−ααuutt = −αα(uutt −uunn)
 
-𝑢𝑢< 𝑢𝑢𝑛𝑛 _and_ 𝑌𝑌> 𝑌𝑌𝑛𝑛 _(positive O.G.)_ ∆�𝜋𝜋> 0 ⇒𝜋𝜋> �𝜋𝜋 => inflation higher than expected since workers ask for higher wages
+uu< uunn _and_ YY> YYnn _(positive O.G.)_ ∆�ππ> 0 ⇒ππ> �ππ => inflation higher than expected since workers ask for higher wages
 
-𝑢𝑢> 𝑢𝑢𝑛𝑛 _and_ 𝑌𝑌< 𝑌𝑌𝑛𝑛 _(negative O.G.)_ ∆�𝜋𝜋< 0 ⇒𝜋𝜋< �𝜋𝜋 => inflation lower than expected
-
-⇒ short run equilibrium
+uu> uunn _and_ YY< YYnn _(negative O.G.)_ ∆�ππ< 0 ⇒ππ< �ππ => inflation lower than expected
 
 ⇒ short run equilibrium
 
-Note: The PC shifts up if ↑z and/or ↑m => taking constant u, current inflation increases wrt the target => change in 𝑢𝑢𝑛𝑛 and 𝑌𝑌𝑛𝑛 (structural shock)
+⇒ short run equilibrium
+
+Note: The PC shifts up if ↑z and/or ↑m => taking constant u, current inflation increases wrt the target => change in uunn and YYnn (structural shock)
 
 ## ADAPTIVE EXPECTATIONS
 
@@ -308,23 +308,23 @@ Note: The PC shifts up if ↑z and/or ↑m => taking constant u, current inflati
 
 - Assumption: agents expect an inflation rate equal to the one of the last period
 
-- Persistent inflation: 𝜃𝜃 =1
+- Persistent inflation: θθ =1
 
 - Substituting into the general formulation:
 
 Negative relationship btw unemployment rate and CHANGE in inflation
 
-If 𝑢𝑢𝑡𝑡 = 𝑢𝑢𝑛𝑛 𝑌𝑌𝑡𝑡 = 𝑌𝑌𝑛𝑛 ⇒∆𝜋𝜋𝑡𝑡= 0: inflation is constant (medium run equilibrium)
+If uutt = uunn YYtt = YYnn ⇒∆ππtt= 0: inflation is constant (medium run equilibrium)
 
-If 𝑢𝑢𝑡𝑡 > 𝑢𝑢𝑛𝑛 𝑌𝑌𝑡𝑡 < 𝑌𝑌𝑛𝑛 ⇒∆𝜋𝜋𝑡𝑡< 0: inflation decreases (short run equilibrium)
+If uutt > uunn YYtt < YYnn ⇒∆ππtt< 0: inflation decreases (short run equilibrium)
 
-If 𝑢𝑢𝑡𝑡< 𝑢𝑢𝑛𝑛𝑌𝑌𝑡𝑡 > 𝑌𝑌𝑛𝑛 ⇒∆𝜋𝜋𝑡𝑡> 0: inflation increases (short run equilibrium)
+If uutt< uunnYYtt > YYnn ⇒∆ππtt> 0: inflation increases (short run equilibrium)
 
 ## INTUITION
 
 Trade-off between unemployment and **change of the inflation rate**
 
-- If 𝑢𝑢𝑡𝑡< 𝑢𝑢𝑛𝑛𝑌𝑌𝑡𝑡 > 𝑌𝑌𝑛𝑛
+- If uutt< uunnYYtt > YYnn
 
 - Workers ask for higher wage growth
 
@@ -362,29 +362,29 @@ Impact?
 
 – wages adjust immediately to current prices
 
-𝜋𝜋𝑡𝑡𝑒𝑒 = 𝜋𝜋𝑡𝑡−1
+ππttee = ππtt−1
 
-𝜋𝜋𝑡𝑡𝑒𝑒 = 𝜋𝜋𝑡𝑡
+ππttee = ππtt
 
-– A fraction 1 −𝜆𝜆 of contracts
+– A fraction 1 −λλ of contracts
 
-– A fraction 𝜆𝜆 of contracts
+– A fraction λλ of contracts
 
-Expected inflation in the economy will be: 𝑒𝑒 = 𝜋𝜋𝑡𝑡 1 −𝜆𝜆𝜋𝜋𝑡𝑡−1 + 𝜆𝜆𝜋𝜋𝑡𝑡
+Expected inflation in the economy will be: ee = ππtt 1 −λλππtt−1 + λλππtt
 
 ## PC WITH INDEXED WAGES
 
-- 𝑒𝑒 Substituting 𝜋𝜋𝑡𝑡 into the general Phillips Curve: = 𝜋𝜋𝑡𝑡 1 −𝜆𝜆𝜋𝜋𝑡𝑡−1 + 𝜆𝜆𝜋𝜋𝑡𝑡 −𝛼𝛼 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛
+- ee Substituting ππtt into the general Phillips Curve: = ππtt 1 −λλππtt−1 + λλππtt −αα uutt −uunn
 
-1 −𝜆𝜆Δ𝜋𝜋𝑡𝑡 = −𝛼𝛼 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛
+1 −λλΔππtt = −αα uutt −uunn
 
 ## WAGE-PRICE SPIRAL
 
-- An increase in prices in 𝑡𝑡 has an immediate impact on wages in 𝑡𝑡
+- An increase in prices in tt has an immediate impact on wages in tt
 
 - 1
 
-- - 1−𝜆𝜆(> 1:)( large impact of unemployment )
+- - 1−λλ(> 1:)( large impact of unemployment )
 
 - on inflation than in the basic case
 
@@ -392,13 +392,13 @@ Expected inflation in the economy will be: 𝑒𝑒 = 𝜋𝜋𝑡𝑡 1 −𝜆
 
 - on:
 
-- Indexation amplifies the effect  of 𝑢𝑢 𝜋𝜋
+- Indexation amplifies the effect  of uu ππ
 
 An increase in prices in t has an immediate effect on wages  and therefore a further effect on prices => inflation will be higher
 
 - Why?
 
-Suppose that 𝑢𝑢↓ so that the workers bargaining power of workers ↑. Firms production costs ↑ and to maximize profits they charge higher prices. The current price level increases.
+Suppose that uu↓ so that the workers bargaining power of workers ↑. Firms production costs ↑ and to maximize profits they charge higher prices. The current price level increases.
 
 - Workers with no indexation do not experience further changes in W.
 
@@ -424,13 +424,13 @@ Effect of the bargaining Effect of  indexation on process on  all the “many”
 
 ## FLATTERING UP PHILLIPS CURVE
 
-𝜋𝜋 less sensitive to changes in 𝑢𝑢
+ππ less sensitive to changes in uu
 
 ## PHILLIPS CURVE AND DEFLATION
 
-When 𝜋𝜋< 0 (deflation) or very low inflation the Phillips Curve is no longer found in data
+When ππ< 0 (deflation) or very low inflation the Phillips Curve is no longer found in data
 
-- Even if 𝑢𝑢𝑡𝑡 > 𝑢𝑢𝑛𝑛, prices do not decrease according to our prediction
+- Even if uutt > uunn, prices do not decrease according to our prediction
 
 - _Why?_
 
@@ -442,11 +442,11 @@ When 𝜋𝜋< 0 (deflation) or very low inflation the Phillips Curve is no long
 
 - Phillips Curve and natural rate of unemployment
 
-𝜋𝜋−𝜋𝜋(𝑒𝑒) = −𝛼𝛼 𝑢𝑢𝑡𝑡 −𝑢𝑢𝑛𝑛
+ππ−ππ(ee) = −αα uutt −uunn
 
 - The PC can change over time due to the way in which agents form expectations
 
-- Structural changes in the labor and product market affect 𝑢𝑢𝑛𝑛 and  the PC
+- Structural changes in the labor and product market affect uunn and  the PC
 
 - Countries may be characterized by a different PC (different structure of economies)
 
@@ -501,19 +501,19 @@ c) hyperinflation. d) deflation
 
 ## CONSTRUCTING THE PHILLIPS CURVE
 
-= 𝑒𝑒 1 + 𝜋𝜋𝑡𝑡 1 + 𝜋𝜋𝑡𝑡 1 + 𝑚𝑚(1 −𝛼𝛼𝑢𝑢𝑡𝑡 + 𝑧𝑧)
+= ee 1 + ππtt 1 + ππtt 1 + mm(1 −ααuutt + zz)
 
 …Taking logs of both sides
 
-𝑒𝑒 𝑙 𝑙𝑙 1 + 𝜋𝜋𝑡𝑡 = 𝑙 𝑙𝑙 1 + 𝜋𝜋𝑡𝑡 + 𝑙 𝑙𝑙 1 + 𝑚𝑚+ 𝑙 𝑙𝑙(1 −𝛼𝛼𝑢𝑢𝑡𝑡 + 𝑧𝑧)
+ee l ll 1 + ππtt = l ll 1 + ππtt + l ll 1 + mm+ l ll(1 −ααuutt + zz)
 
 …and for small values, we can approximate as
 
-𝑒𝑒 𝜋𝜋𝑡𝑡 ≈𝜋𝜋𝑡𝑡 + 𝑚𝑚−𝛼𝛼𝑢𝑢𝑡𝑡 + 𝑧𝑧
+ee ππtt ≈ππtt + mm−ααuutt + zz
 
 _No assumptions on how agents form their expectations_
 
-𝑒𝑒 + GENERAL    Phillip curve 𝜋𝜋 = 𝜋𝜋 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢 𝑡𝑡 𝑡𝑡 𝑡𝑡
+ee + GENERAL    Phillip curve ππ = ππ mm+ zz−ααuu tt tt tt
 
 Describes the determinants of inflation in the economy:
 
@@ -525,9 +525,9 @@ Describes the determinants of inflation in the economy:
 
 ## Phillips Curve and expectations
 
-= **Original PC (** 𝝅𝝅(𝒆𝒆) �𝝅𝝅= 𝟐 )
+= **Original PC (** ππ(ee) �ππ= 2 )
 
-**Modified PC** 𝝅𝝅(𝒆𝒆) = 𝝅𝝅𝒕𝒕−𝟏𝟏 = 𝟐
+**Modified PC** ππ(ee) = ππtt−11 = 2
 
 ## Anchored expectations
 
@@ -535,43 +535,43 @@ Describes the determinants of inflation in the economy:
 
 - =
 
-- 𝜋𝜋𝑡𝑡 �𝜋𝜋+ 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡 𝜋𝜋1 = 2 + 6 −6 = 2%
+- ππtt �ππ+ mm+ zz−ααuutt ππ1 = 2 + 6 −6 = 2%
 
-- Assume we want to reduce 𝑢𝑢: 𝑢𝑢𝑡𝑡 = 4% from 𝑡𝑡≥2
+- Assume we want to reduce uu: uutt = 4% from tt≥2
 
-- 𝜋𝜋3 = 2 + 6 −4 = 4%
+- ππ3 = 2 + 6 −4 = 4%
 
-- 𝜋𝜋4 = 2 + 6 −4 = 4%
+- ππ4 = 2 + 6 −4 = 4%
 
-- 𝜋𝜋5 = 2 + 6 −4 = 4%
+- ππ5 = 2 + 6 −4 = 4%
 
 - Inflation is constantly above the target
 
-- 𝜋𝜋𝑡𝑡 = 𝜋𝜋𝑡𝑡−1 + 𝑚𝑚+ 𝑧𝑧−𝛼𝛼𝑢𝑢𝑡𝑡 𝜋𝜋1 = 2 + 6 −6 = 2%
+- ππtt = ππtt−1 + mm+ zz−ααuutt ππ1 = 2 + 6 −6 = 2%
 
-- Assume we want to reduce 𝑢𝑢: 𝑢𝑢𝑡𝑡 = 4% from 𝑡𝑡≥2
-
-- =
-
-- 𝜋𝜋2 𝟐𝟐 + 6 −4 = 4%
+- Assume we want to reduce uu: uutt = 4% from tt≥2
 
 - =
 
-- 𝜋𝜋3 𝟒𝟒 + 6 −4 = 6%
+- ππ2 22 + 6 −4 = 4%
 
 - =
 
-- 𝜋𝜋4 𝟔𝟔 + 6 −4 = 8%
+- ππ3 44 + 6 −4 = 6%
 
 - =
 
-- 𝜋𝜋5 𝟖𝟖 + 6 −4 = 10%
+- ππ4 66 + 6 −4 = 8%
+
+- =
+
+- ππ5 88 + 6 −4 = 10%
 
 - Inflation increases over time
 
-- Trade-off btw. 𝑢𝑢 and inflation rate ( 𝜋𝜋 )
+- Trade-off btw. uu and inflation rate ( ππ )
 
-- Trade-off btw. 𝑢𝑢 and **change** of the inflation rate ( Δ𝜋𝜋 )
+- Trade-off btw. uu and **change** of the inflation rate ( Δππ )
 
 ## Related Notes
 - [[Trigari_07(Chapter 8)]]

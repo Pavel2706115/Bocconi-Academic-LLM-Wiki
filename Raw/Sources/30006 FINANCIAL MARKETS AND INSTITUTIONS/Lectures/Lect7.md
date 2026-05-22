@@ -307,15 +307,15 @@ _4. FTSE 100_ (London): 100 companies
 
 ## Stock Market Indexes
 
-✓ A **price weighted** index: _simple_ arithmetic mean of prices 𝑁
+✓ A **price weighted** index: _simple_ arithmetic mean of prices N
 
 ## `o` every stock has the _same weight_
 
 - ✓ The DJIA is an example of a price- _weighted_ index, but it has adjustments. DJIA formula:
 
-`o` 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟 a price weighted index corrected by (not based on market capitalization)
+`o` DowDivisor a price weighted index corrected by (not based on market capitalization)
 
-`o` the 𝐷𝑜𝑤𝐷𝑖𝑣𝑖𝑠𝑜𝑟
+`o` the DowDivisor
 
 ## DJIA
 
@@ -329,7 +329,7 @@ _4. FTSE 100_ (London): 100 companies
 
 # ✓ S&P 500 is a value weighted index: weighted average of prices
 
-500 1 𝑝𝑖 × 𝑛_𝑠ℎ𝑎𝑟𝑒𝑠𝑖 𝑚𝑘𝑡𝑣𝑎𝑙𝑢𝑒𝑏𝑎𝑠𝑒𝑦𝑒𝑎𝑟(෍) 𝑖=1
+500 1 pi × n_sℎaresi mktvaluebaseyear(\sum) i=1
 
 - ✓ Every stock is weighted by its capitalization ( _p_ x _q_ , a composite index) over a base year
 

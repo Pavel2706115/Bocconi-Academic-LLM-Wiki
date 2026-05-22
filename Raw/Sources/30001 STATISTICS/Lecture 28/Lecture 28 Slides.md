@@ -23,7 +23,7 @@ Processed: false
 
 ## Non-linear relationship: happiness vs. working hours
 
-𝟐 **Quadratic Model: Y =** β𝒐 + 𝜷𝟏 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟐 ∗𝒘𝒆𝒆𝒌𝒍𝒚𝒉 + 𝜷𝟑 ∗𝑰 𝒔𝒆𝒙= 𝑴+  ϵ
+2 **Quadratic Model: Y =** βo + β1 ∗weeklyh + β2 ∗weeklyh + β3 ∗I sex= M+  ϵ
 
 ## Related Notes
 - [[Lesson 22-24_Simple Linear Regression]]

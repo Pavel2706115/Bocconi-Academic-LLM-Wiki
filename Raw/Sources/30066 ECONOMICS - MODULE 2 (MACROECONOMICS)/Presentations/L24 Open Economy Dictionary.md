@@ -377,11 +377,11 @@ If I don’t buy 1 kg of Italian oranges, I save $2.20, but I can only buy 0.7 k
 
 P = general domestic price level (GDP deflator) P* = general foreign price level ( foreign GDP deflator)
 
-Price of national goods in foreign currency 𝐸𝑃 𝜀= Real exchange rate: The price of domestic goods 𝑃(∗) in terms of foreign goods
+Price of national goods in foreign currency EP ε= Real exchange rate: The price of domestic goods P(∗) in terms of foreign goods
 
 Price of foreign  goods in foreign currency
 
-## If** 𝜀 **↑: Real Appreciation
+## If** ε **↑: Real Appreciation
 
 - Domestic goods become relatively more expensive than foreign goods, as more units of foreign
 
@@ -393,7 +393,7 @@ Price of foreign  goods in foreign currency
 
 - ↑ **IM**: Increase in domestic demand for foreign-produced goods
 
-## If** 𝜀 **↓: Real Depreciation
+## If** ε **↓: Real Depreciation
 
 - ↓E , ↓P, ↑P* Domestic goods become relatively cheaper than foreign goods, as fewer units of foreign goods are needed to purchase 1 unit of domestic goods
 
@@ -479,27 +479,27 @@ Short-term domestic/foreign interest rates depend on domestic/foreign MP
 
 domestic bonds  more attractive
 
-- on the exchange market investors demand more domestic currency and less foreign currency  (€(𝐷) ↑ )
+- on the exchange market investors demand more domestic currency and less foreign currency  (€(D) ↑ )
 
 - the relative demand for domestic currency increases
 
 - Domestic currency appreciates
 
-- 𝐸𝑡 ↑
+- Et ↑
 
 foreign bonds  more attractive
 
-- on the exchange market investors buy foreign currency and sell foreign currency  ($(𝐷) ↑ )
+- on the exchange market investors buy foreign currency and sell foreign currency  ($(D) ↑ )
 
 - the relative demand for domestic currency decreases
 
 - domestic currency depreciates
 
-- 𝐸𝑡 ↑
+- Et ↑
 
 In order to have equilibrium in financial markets and to trade both assets, the two returns must be equal on average
 
-∗ On average investors ( 1  + _it_ ) €  = (1+𝑖𝑒 𝑡 )𝐸𝑡 € UNCOVERED INTEREST RATE PARITY 𝐸 are indifferent 𝑡+1 (UIP) between domestic Arbitrage condition in the and foreign bonds international financial markets
+∗ On average investors ( 1  + _it_ ) €  = (1+ie t )Et € UNCOVERED INTEREST RATE PARITY E are indifferent t+1 (UIP) between domestic Arbitrage condition in the and foreign bonds international financial markets
 
 The UIP can be rewritten as
 
@@ -517,17 +517,17 @@ The difference btw the domestic and the foreign shortterm nominal interest rate 
 
 - Differential between domestic and foreign yield to maturity
 
-If 𝑖𝑡 > 𝑖𝑡(∗) −∆𝐸(𝑒) - 𝑖𝑡 −𝑖𝑡(∗) > −∆𝐸(𝑒) → more convenient to invest on domestic assets
+If it > it(∗) −∆E(e) - it −it(∗) > −∆E(e) → more convenient to invest on domestic assets
 
-𝑖𝑡 ≥< 𝑖𝑡∗
+it ≥< it∗
 
 - Expectations of appreciation/depreciation
 
-If 𝑖𝑡 = 𝑖𝑡(∗) −∆𝐸(𝑒) - 𝑖𝑡 −𝑖𝑡(∗) = −∆𝐸(𝑒) → investors are indifferent btw domestic and foreign assets
+If it = it(∗) −∆E(e) - it −it(∗) = −∆E(e) → investors are indifferent btw domestic and foreign assets
 
-∆𝐸(𝑒)
+∆E(e)
 
-If 𝑖𝑡 < 𝑖𝑡(∗) −∆𝐸(𝑒) - 𝑖𝑡 −𝑖𝑡(∗) < −∆𝐸(𝑒) → more convenient to invest on foreign assets
+If it < it(∗) −∆E(e) - it −it(∗) < −∆E(e) → more convenient to invest on foreign assets
 
 - Risk  (Greece 2015: huge increase in return + devaluation risk)
 
@@ -539,9 +539,9 @@ If 𝑖𝑡 < 𝑖𝑡(∗) −∆𝐸(𝑒) - 𝑖𝑡 −𝑖𝑡(∗) < −�
 
 _E_ fluctuates over time based on purchases and sales of domestic and foreign currencies
 
-∆𝐸(𝑒) ≠0 𝑖 ≠𝑖∗ 𝑡 𝑡
+∆E(e) ≠0 i ≠i∗ t t
 
-𝐸 = 𝐸(ത) 𝑡
+E = \bar{E} t
 
 - If the chosen parity is believed by the markets
 

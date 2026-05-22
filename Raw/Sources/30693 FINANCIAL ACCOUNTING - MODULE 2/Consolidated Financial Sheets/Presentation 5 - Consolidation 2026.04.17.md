@@ -88,7 +88,7 @@ Prepare the necessary consolidation adjustments to eliminate the effects of this
 
 ## SEPARATE FINANCIAL STATEMENTS
 
-**(REAL)** Parent 60% 40% **$$$** Subsidiary Cash is transferred between two legal entities, with part paid to non-controlling interests; the above journal entries are recorded.
+**(REAL)** Parent 60% 40% **$** Subsidiary Cash is transferred between two legal entities, with part paid to non-controlling interests; the above journal entries are recorded.
 
 **CONSOLIDATED FINANCIAL STATEMENTS (SIMULATION)** BU 1 _Single legal entity_ 40% BU 2
 

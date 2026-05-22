@@ -166,7 +166,7 @@ Net purchases of Brazilian equities
 
 The open economy versions of the familiar _IS_ and _LM_ relations:
 
-1+i e 𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑖+ 𝐺+ 𝑁𝑋 𝑌, 𝑌(∗) , E 1+i(∗) − − ( , + , ) 𝑖= 𝑖
+1+i e Y= C Y−T+ I Y, i+ G+ NX Y, Y(∗) , E 1+i(∗) − − ( , + , ) i= i
 
 An increase in the interest rate now has two effects:
 

@@ -47,7 +47,7 @@ Based on the estimates in Table 1, we assigned the market risk premium (MRP), sh
 
 Based on these assumptions, the Weighted Average Cost of Capital (WACC) is:
 
-𝑊𝐴𝐶𝐶 = 𝑟 + β × 𝑀𝑅𝑃 𝑓 𝑎
+WACC = r + β × MRP f a
 
 The findings presented in Table 6, suggest that the estimated cost of capital lies somewhere around
 

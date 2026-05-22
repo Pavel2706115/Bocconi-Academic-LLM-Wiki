@@ -74,19 +74,19 @@ Processed: true
 
 - Unconventional monetary policies
 
-## = Expectations are well anchored to the CB target 𝜋𝜋(𝑒𝑒) �𝜋𝜋
+## = Expectations are well anchored to the CB target ππ(ee) �ππ
 
-𝐼: 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑟𝑟+ 𝑥𝑥+ 𝐺𝐺
+I: YY= CC YY−TT+ II YY, rr+ xx+ GG
 
 ## MEDIUM RUN EQUILIBRIUM
 
 All markets (goods, financial, labor) are in equilibrium and expectations are correct => the economy is at its  potential with no output gap
 
-𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑢𝑢= 𝑢𝑢𝑛𝑛, Δ𝜋𝜋(𝑒𝑒) = 0 = Expectations are well anchored to the CB target 𝜋𝜋(𝑒𝑒) �𝜋𝜋 Shocks can hit the economy
+YY= YYnn, uu= uunn, Δππ(ee) = 0 = Expectations are well anchored to the CB target ππ(ee) �ππ Shocks can hit the economy
 
 ## SHORT RUN SHOCKS
 
-Demand shocks: no effect on 𝑌𝑌𝑛𝑛 and real effects are only temporary Supply shocks: effect on 𝑌𝑌𝑛𝑛 and produce permanent effects also in the medium run
+Demand shocks: no effect on YYnn and real effects are only temporary Supply shocks: effect on YYnn and produce permanent effects also in the medium run
 
 ## FISCAL POLICY
 
@@ -98,35 +98,35 @@ The Government implements an expansionary fiscal policy investing in public scho
 
 ## Initial medium-run equilibrium: point N
 
-Government invests in public schools Fiscal expansion: 𝐺𝐺↑
+Government invests in public schools Fiscal expansion: GG↑
 
-- 𝐺𝐺↑⇒𝑍𝑍↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑: 𝐼 right - LM does not change
+- GG↑⇒ZZ↑⇒YY↑⇒CC&II↑⇒YY↑: I right - LM does not change
 
-Short-run equilibrium: 1 The economy goes above its potential 𝑌𝑌↑, 𝑖𝑖=, ̅𝑟𝑟=
+Short-run equilibrium: 1 The economy goes above its potential YY↑, ii=, ̅rr=
 
 ## What happens to the inflation rate?
 
 ## In the short run the economy moves from N → 1 (short run equilibrium)
 
-Government invests in public schools Fiscal expansion: 𝐺𝐺↑
+Government invests in public schools Fiscal expansion: GG↑
 
 ## What happens to the inflation rate?
 
-Since 𝑢𝑢↓ , W growth ↑⇒Δ𝜋𝜋> 0 Current inflation is higher than expected
+Since uu↓ , W growth ↑⇒Δππ> 0 Current inflation is higher than expected
 
-Inflation is above the CB target but constant: 𝜋𝜋> �𝜋𝜋
+Inflation is above the CB target but constant: ππ> �ππ
 
 ## How can the CB bring inflation back to the target?
 
 To control inflation, the CB must increase nominal interest rate so that also the real one increases
 
-𝐿 up
+L up
 
-i ↑ and 𝑟𝑟↑⇒𝐼𝐼↓⇒𝑍𝑍↓𝑌𝑌↓∶ along the 𝐼
+i ↑ and rr↑⇒II↓⇒ZZ↓YY↓∶ along the I
 
-Medium-run equilibrium: N’ 𝑌𝑌= 𝑌𝑌𝑛𝑛, 𝑟𝑟= �𝑟𝑟𝑛𝑛′, Δ𝜋𝜋= 0
+Medium-run equilibrium: N’ YY= YYnn, rr= �rrnn′, Δππ= 0
 
-Inflation at the CB target: 𝜋𝜋= �𝜋𝜋
+Inflation at the CB target: ππ= �ππ
 
 ## EFFECTS
 
@@ -134,11 +134,11 @@ Inflation at the CB target: 𝜋𝜋= �𝜋𝜋
 
 ## MEDIUM RUN
 
-– 𝑌𝑌↑, ̅𝚤𝚤=, ̅𝑟𝑟=, 𝑢𝑢↓ – 𝛥𝛥𝜋𝜋> 0, 𝜋𝜋> �𝜋𝜋
+– YY↑, ̅ıı=, ̅rr=, uu↓ – ΔΔππ> 0, ππ> �ππ
 
-– 𝜋𝜋 constant above the CB target
+– ππ constant above the CB target
 
-– 𝑌𝑌= 𝑌𝑌𝑛𝑛 , 𝑢𝑢= 𝑢𝑢𝑛𝑛 , �𝒓𝒓𝐧𝐧(′) – Δ𝜋𝜋= 0 , 𝜋𝜋= �𝜋𝜋 – 𝜋𝜋 constant at the CB target
+– YY= YYnn , uu= uunn , �rrnn(′) – Δππ= 0 , ππ= �ππ – ππ constant at the CB target
 
 _Is fiscal policy neutral in the medium run? Do components of aggregate demand change?_
 
@@ -185,17 +185,17 @@ _Is fiscal policy neutral in the medium run? Do components of aggregate demand c
 
 In the new medium-run equilibrium:
 
-𝑌𝑌= 𝑌𝑌𝑛𝑛 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑
+YY= YYnn a aarrnn ↑
 
-𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺
+YYnn = CC YYnn −TT+ II YYnn, rrnn + xx+ GG
 
-𝑍𝑍𝑛𝑛 = aggregate demand
+ZZnn = aggregate demand
 
-Since 𝑌𝑌 constant ⇒ constant level of aggregate 𝑛𝑛 demand
+Since YY constant ⇒ constant level of aggregate nn demand
 
 ## BUT
 
-The **composition** of demand is **different** since: _Fiscal policy is_ _**not neutral** in_ 𝐶𝐶= _the medium run:_ 𝐼𝐼↓ _it has real effects even in the_ 𝐺𝐺↑ _medium run_
+The **composition** of demand is **different** since: _Fiscal policy is_ _**not neutral** in_ CC= _the medium run:_ II↓ _it has real effects even in the_ GG↑ _medium run_
 
 ## SUMMARY
 
@@ -247,9 +247,9 @@ Assumption: no direct impact on demand for goods and services The CB keeps the i
 
 - Firms increase prices
 
-- We can say that the parameter 𝒎𝒎 **increases**
+- We can say that the parameter mm **increases**
 
-The equilibrium of the labor market changes: 𝑢𝑢𝑛𝑛 and 𝑌𝑌𝑛𝑛 change
+The equilibrium of the labor market changes: uunn and YYnn change
 
 **Structural change**
 
@@ -257,11 +257,11 @@ The equilibrium of the labor market changes: 𝑢𝑢𝑛𝑛 and 𝑌𝑌𝑛�
 
 ## NEW POTENTIAL LEVELS
 
-- The natural rate of unemployment rises: 𝑢𝑢𝑛𝑛 ↑
+- The natural rate of unemployment rises: uunn ↑
 
-- Potential GDP declines: 𝑌𝑌𝑛𝑛 ↓
+- Potential GDP declines: YYnn ↓
 
-𝑢𝑢𝑛𝑛(′) > 𝑢𝑢𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛(′) < 𝑌𝑌𝑛𝑛
+uunn(′) > uunn ↑ YYnn(′) < YYnn
 
 - No effect on actual output
 
@@ -275,35 +275,35 @@ Initial medium-run equilibrium: point 0
 
 _What happens to the short run equilibrium?_
 
-𝐼 and 𝐿 don’t move: 𝑝 𝑖𝑖𝑎𝑎𝑝𝑝1 ≡𝑝 𝑖𝑖𝑎𝑎𝑝𝑝𝑁𝑁 Y does not change **BUT** 𝑌𝑌1 > 𝑌𝑌𝑛𝑛(′) ⇒Δ𝜋𝜋> 0 Inflation increases and goes above the CB target: 𝜋𝜋> �𝜋𝜋 1 = short run equilibrium
+I and L don’t move: p iiaapp1 ≡p iiaappNN Y does not change **BUT** YY1 > YYnn(′) ⇒Δππ> 0 Inflation increases and goes above the CB target: ππ> �ππ 1 = short run equilibrium
 
 ## Adjustment to the MR
 
 _How does the economy adjust to the_ _**medium run** ?_
 
-The CB must increase _i_ to increase 𝑟𝑟 in order to reduce 𝑌𝑌 up to 𝑌𝑌𝑛𝑛(′)
+The CB must increase _i_ to increase rr in order to reduce YY up to YYnn(′)
 
-Medium-run equilibrium:N’ ↓𝑌𝑌= 𝑌𝑌𝑛𝑛′ ↑𝑟𝑟= �𝑟𝑟𝑛𝑛′ Δ𝜋𝜋= 0 Inflation at the CB target: 𝜋𝜋= �𝜋𝜋
+Medium-run equilibrium:N’ ↓YY= YYnn′ ↑rr= �rrnn′ Δππ= 0 Inflation at the CB target: ππ= �ππ
 
 What happens to rn? We need to study the Zn Yn graph
 
-The structural shock decreases 𝑌𝑌𝑛𝑛
+The structural shock decreases YYnn
 
-As a result 𝑟𝑟𝑛𝑛 ↑ since on the goods market there is an excess demand and to clear the market is necessary to reduce demand in the medium run
+As a result rrnn ↑ since on the goods market there is an excess demand and to clear the market is necessary to reduce demand in the medium run
 
 ## IMPACT OF FISCAL POLICY IN THE MEDIUM RUN
 
 In the new medium-run equilibrium:
 
-𝑌𝑌𝑛𝑛 ↓ 𝑎 𝑎𝑎𝑟𝑟𝑛𝑛 ↑ 𝑌𝑌𝑛𝑛 = 𝐶𝐶 𝑌𝑌𝑛𝑛 −𝑇𝑇+ 𝐼𝐼 𝑌𝑌𝑛𝑛, 𝑟𝑟𝑛𝑛 + 𝑥𝑥+ 𝐺𝐺
+YYnn ↓ a aarrnn ↑ YYnn = CC YYnn −TT+ II YYnn, rrnn + xx+ GG
 
-𝑍𝑍𝑛𝑛 = aggregate demand
+ZZnn = aggregate demand
 
-Since 𝑌𝑌 decrease ⇒ also the level of aggregate 𝑛𝑛 demand decreases
+Since YY decrease ⇒ also the level of aggregate nn demand decreases
 
 ## AND
 
-The **composition** of demand is **different** since: 𝐶𝐶↓ 𝐼𝐼↓ 𝐺𝐺=
+The **composition** of demand is **different** since: CC↓ II↓ GG=
 
 _Supply shock is_ _**not neutral** in the medium run: it has real permanent effects on level and composition_
 
@@ -311,7 +311,7 @@ _Supply shock is_ _**not neutral** in the medium run: it has real permanent effe
 
 In the reality the adjustment is gradual
 
-_What happens during the adjustment process?_ 𝑌𝑌↓ & Δ𝜋𝜋> 0
+_What happens during the adjustment process?_ YY↓ & Δππ> 0
 
 **STAGFLATION!!!**
 
@@ -375,7 +375,7 @@ Impact of a negative supply shock
 
 – Negative supply shock in SR , in MR
 
-- Positive supply shock in SR 𝑌𝑌= , in MR
+- Positive supply shock in SR YY= , in MR
 
 ## **IS-LM-PC:** _**ZLB AND DEFLATION SPIRAL**_
 
@@ -391,31 +391,31 @@ Why do Central Banks target a positive inflation rate?
 
 ## Expactations are fully adaptive
 
-𝑖𝑖= 0 𝜋𝜋= 0 𝜋𝜋(𝑒𝑒) = 𝜋𝜋 𝑡𝑡−1
+ii= 0 ππ= 0 ππ(ee) = ππ tt−1
 
 - What happens if a negative demand shock hits the economy?
 
-Below the potential 𝜋𝜋 ↓ over time
+Below the potential ππ ↓ over time
 
 ## Initial medium-run equilibrium: point 0
 
 _What can the CB do to fight against the recession? Can the CB restore the medium run equilibrium?_
 
-In principle, the CB should move the 𝐿 down to intersect the IS where 𝑌𝑌= 𝑌𝑌𝑛𝑛
+In principle, the CB should move the L down to intersect the IS where YY= YYnn
 
-Reduce 𝑖𝑖 to reduce 𝑟𝑟
+Reduce ii to reduce rr
 
-**BUT the CB can’t:** 𝑖𝑖= 0
+**BUT the CB can’t:** ii= 0
 
-_Conventional MP cannot generate an increase in GDP towards_ 𝑌𝑌𝑛𝑛
+_Conventional MP cannot generate an increase in GDP towards_ YYnn
 
-_Role of expectations:_ 𝑟𝑟↓ _if agents expected inflation_
+_Role of expectations:_ rr↓ _if agents expected inflation_
 
-Conventional MP fails to move the economy to 𝑌𝑌𝑛𝑛
+Conventional MP fails to move the economy to YYnn
 
-_If the CB cannot intervene, what happens with adaptive expectations and_ 𝜋𝜋0 = 0?
+_If the CB cannot intervene, what happens with adaptive expectations and_ ππ0 = 0?
 
-Since 𝜋𝜋< 0: 𝜋𝜋(𝑒𝑒) ↓⇒𝜋𝜋(𝑒𝑒) < 0 𝑟𝑟= 𝑖𝑖−𝜋𝜋(𝑒𝑒) = 0 −𝜋𝜋(𝑒𝑒) > 0
+Since ππ< 0: ππ(ee) ↓⇒ππ(ee) < 0 rr= ii−ππ(ee) = 0 −ππ(ee) > 0
 
 The LM shifts **upward** also in the CB does not do anything
 
@@ -457,15 +457,15 @@ What is the impact in the short run? And in the medium run?
 
 ## IS-LM-PC: SHORT RUN
 
-𝑟𝑟 0 𝐿 ̅𝑟𝑟 �𝑟𝑟1 1 𝐿 1 𝐼 𝜋𝜋−�𝜋𝜋 𝑌𝑌𝑛𝑛 𝑌𝑌1 𝑌𝑌 𝑃𝑃𝐶𝐶 0 0 𝑌𝑌 𝑌𝑌𝑛𝑛
+rr 0 L ̅rr �rr1 1 L 1 I ππ−�ππ YYnn YY1 YY PPCC 0 0 YY YYnn
 
 Expansionary monetary policy:
 
-CB buys bonds: 𝐿𝐿↑⇒̅𝚤𝚤↓ and ̅𝑟𝑟↓ 𝑳 ↓ ̅𝑟𝑟↓⇒𝐼𝐼↑⇒𝑌𝑌↑⇒𝐶𝐶&𝐼𝐼↑⇒𝑌𝑌↑ Along the IS Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓ _What happens to the inflation rate?_
+CB buys bonds: LL↑⇒̅ıı↓ and ̅rr↓ L ↓ ̅rr↓⇒II↑⇒YY↑⇒CC&II↑⇒YY↑ Along the IS Short-run equilibrium: 1 YY↑; ̅rr↓ _What happens to the inflation rate?_
 
 ## IS-LM-PC: SHORT RUN
 
-Short-run equilibrium: 1 𝑌𝑌↑; ̅𝑟𝑟↓: 𝑌𝑌> 𝑌𝑌 ⇒𝑢𝑢< 𝑢𝑢 𝑛𝑛 𝑛𝑛 𝑊𝑊 growth ↑⇒𝜋𝜋> �𝜋𝜋 Inflation goes above the CB target
+Short-run equilibrium: 1 YY↑; ̅rr↓: YY> YY ⇒uu< uu nn nn WW growth ↑⇒ππ> �ππ Inflation goes above the CB target
 
 _How can the economy restore a medium run equilibrium?_
 
@@ -477,7 +477,7 @@ Adjustment to the medium run?
 
 - **Short run**
 
-𝑌𝑌↑ ̅𝑟𝑟↓𝜋𝜋> �𝜋𝜋
+YY↑ ̅rr↓ππ> �ππ
 
 - **Medium run**
 
@@ -489,29 +489,29 @@ _No impact of monetary policy on_ _**real** variables in the medium run_
 
 **Neutrality of money**
 
-## Medium-run equilibrium: 𝒀𝒀𝒏𝒏 = 𝐶𝐶 𝒀𝒀𝒏𝒏 −𝑇𝑇+ 𝐼𝐼 𝒀𝒀𝒏𝒏, 𝒓𝒓𝒏𝒏 + 𝑥𝑥+ 𝐺𝐺
+## Medium-run equilibrium: YYnn = CC YYnn −TT+ II YYnn, rrnn + xx+ GG
 
 ## GOODS MARKET
 
-𝑟𝑟
+rr
 
-No shifts in demand and supply Nor 𝑌𝑌𝑛𝑛 and ̅𝑟𝑟𝑛𝑛 change in the MR MONEY is NEUTRAL
+No shifts in demand and supply Nor YYnn and ̅rrnn change in the MR MONEY is NEUTRAL
 
 ## Monetary policy: **NO real effects in the MR**
 
 - Only one variable affected: price level
 
-- 𝜋𝜋 has grown during the SR
+- ππ has grown during the SR
 
 - Over the medium run:
 
-- If anchored expectations: 𝜋𝜋 goes back to initial value
+- If anchored expectations: ππ goes back to initial value
 
-𝒀𝒀𝒏𝒏
+YYnn
 
-𝑌𝑌
+YY
 
-- If adaptive expectations: 𝜋𝜋 constant at a higher value
+- If adaptive expectations: ππ constant at a higher value
 
 **The monetary policy has real effects in the short run only**
 

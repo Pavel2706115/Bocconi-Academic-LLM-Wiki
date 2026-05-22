@@ -60,7 +60,7 @@ Processed: true
 
 - ✓ The **price of debt, therefore, is inversely related to interest rates** (and the longer the maturity, the more the price will fall if interest rates rise: **duration** )
 
-- ✓ Interest rates are determined by the forces of **supply and demand** which are affected by many things (wealth, risk, 𝐸(𝑖) , 𝜋(𝑒) , government deficits…)
+- ✓ Interest rates are determined by the forces of **supply and demand** which are affected by many things (wealth, risk, E(i) , π(e) , government deficits…)
 
 ## Overview
 
@@ -238,7 +238,7 @@ IncomeGap = RSA−RSL, so: RSL = RSA − IncomeGap RSL = 50% × $1,000 + $300 = 
 
 **A2**:
 
-If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then: ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2
+If RSL go down by 100 then IncomeGap= −$200 (recall: IncomeGap= RSA−RSL ), and if interest rates go up by 1%, then: ∆NII= IncomeGap× ∆i= −$200 × 0.01 = −$2
 
 ## Exercise 3 Solutions
 
@@ -246,9 +246,9 @@ If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall
 
 ## **A2**:
 
-If RSL go down by 100 then 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= −$200 (recall: 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝= 𝑅𝑆𝐴−𝑅𝑆𝐿 ), and if interest rates go up by 1%, then:
+If RSL go down by 100 then IncomeGap= −$200 (recall: IncomeGap= RSA−RSL ), and if interest rates go up by 1%, then:
 
-- ∆𝑁𝐼𝐼= 𝐼𝑛𝑐𝑜𝑚𝑒𝐺𝑎𝑝× ∆𝑖= −$200 × 0.01 = −$2
+- ∆NII= IncomeGap× ∆i= −$200 × 0.01 = −$2
 
 ## Exercise 4
 
@@ -290,14 +290,14 @@ Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to
 
 **Q**: How much did the bank borrow if its new NIM, after lending, is 3%?
 
-𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠(=) 𝐴𝑠𝑠𝑒𝑡𝑠 Where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿: $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250
+NII InterestIncome−InterestExpenses **A:** Recall that NIM= . Assets(=) Assets Where NII= NetInterestIncome Call L the new loan amount (=amount of borrowing raised with CP). NII before new loan is NII0 = NIM0 × A0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that NII0 + iloans −iCP × L $20 + (3% −2%) × L = NIM1 ⇒3% = A0 + L $500 + L Solve for L: $500 × 3% + 3% × L= $20 + 1% × L $15 + 3%L= $20 + 1%L or $5 = 2% × L or L= $250
 *(See also: [[Lect12_Review_exercises_questions#^vnbgmu]])*
 
 ## Exercise 6 Solutions
 
 Bank XYZ has a Net Interest Margin (NIM) of 4% and assets of $500. It decides to borrow in the commercial paper market at 2% in order to finance a loan that pays 3%. **Q**: How much did the bank borrow if its new NIM, after lending, is 3%?
 
-𝑁𝐼𝐼 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 **A:** Recall that 𝑁𝐼𝑀= . 𝐴𝑠𝑠𝑒𝑡𝑠(=) 𝐴𝑠𝑠𝑒𝑡𝑠 where 𝑁𝐼𝐼= 𝑁𝑒𝑡𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒 Call L the new loan amount (=amount of borrowing raised with CP). 𝑁𝐼𝐼 before new loan is 𝑁𝐼𝐼0 = 𝑁𝐼𝑀0 × 𝐴0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that 𝑁𝐼𝐼0 + 𝑖𝑙𝑜𝑎𝑛𝑠 −𝑖𝐶𝑃 × 𝐿 $20 + (3% −2%) × 𝐿 = 𝑁𝐼𝑀1 ⇒3% = 𝐴0 + 𝐿 $500 + 𝐿 Solve for 𝐿: $500 × 3% + 3% × 𝐿= $20 + 1% × 𝐿 $15 + 3%𝐿= $20 + 1%𝐿 or $5 = 2% × 𝐿 or 𝐿= $250
+NII InterestIncome−InterestExpenses **A:** Recall that NIM= . Assets(=) Assets where NII= NetInterestIncome Call L the new loan amount (=amount of borrowing raised with CP). NII before new loan is NII0 = NIM0 × A0 = 4% × $500 = $20 After lending at 3%, the NIM shrinks from 4% to 3% which means that NII0 + iloans −iCP × L $20 + (3% −2%) × L = NIM1 ⇒3% = A0 + L $500 + L Solve for L: $500 × 3% + 3% × L= $20 + 1% × L $15 + 3%L= $20 + 1%L or $5 = 2% × L or L= $250
 
 ## Exercise 7
 
@@ -321,9 +321,9 @@ Wise Bank has assets totaling $250 million with an average duration of 5 years, 
 
 = t 0: NW = $250M −$225M = $25M 0
 
-𝑁𝑊 $25M = 𝐶𝑅 0 𝐴 $250M(= 10% > mcr (= 8%)) 0(=) = t 1: change in capital and in assets due to Δi.
+NW $25M = CR 0 A $250M(= 10% > mcr (= 8%)) 0(=) = t 1: change in capital and in assets due to Δi.
 
-𝑁𝑊1 NW0+ΔNW $25M−$3.3𝑀 = = 𝐶𝑅 1 𝐴1(=) A0+ΔA $250M−$11.8M(= 9.1% > mcr (= 8%))
+NW1 NW0+ΔNW $25M−$3.3M = = CR 1 A1(=) A0+ΔA $250M−$11.8M(= 9.1% > mcr (= 8%))
 
 ## Exercise 9
 
@@ -331,7 +331,7 @@ The CEO of firm A announces the following dividend policy from next year: $4 per
 
 The required return is 12%. Which price is higher? Solution:
 
-𝐷𝑖𝑣1 1 $4 $4 𝑃 𝐴= 𝑘 1.12(×) 0.12 −0.09(=) 0.02(= $133.3) 𝑒 −𝑔(=) $120 1 $1 𝑃 𝐵= 1.12(+) 1.12(×) 0.12 −0.05(= $107.1 + $12.8 = $119.9) 𝑃 𝐴> 𝑃 𝐵 .
+Div1 1 $4 $4 P A= k 1.12(×) 0.12 −0.09(=) 0.02(= $133.3) e −g(=) $120 1 $1 P B= 1.12(+) 1.12(×) 0.12 −0.05(= $107.1 + $12.8 = $119.9) P A> P B .
 
 ## Exercise 9 Solutions
 
@@ -341,7 +341,7 @@ The CEO of firm B announces another policy: $120 for the next year, then $1 for 
 
 The required return is 12%. Which price is higher? Solution:
 
-𝐷𝑖𝑣1 $4 $4 𝑃 𝐴= 𝑘 0.12 −0.09(=) 0.02(= $133.3) 𝑒 −𝑔(=) $120 1 $1 𝑃 𝐵= 1.12(+) 1.12(×) 0.12 −0.06(= $107.1 + $14.9 = $122.0) 𝑃 𝐴> 𝑃 𝐵 .
+Div1 $4 $4 P A= k 0.12 −0.09(=) 0.02(= $133.3) e −g(=) $120 1 $1 P B= 1.12(+) 1.12(×) 0.12 −0.06(= $107.1 + $14.9 = $122.0) P A> P B .
 
 # EXERCISES (Lectures 1-11)
 
@@ -351,7 +351,7 @@ The government is reducing the budget deficit and inflation expectations are rev
 
 **Q**: As a result, equilibrium (nominal) interest on long-term bonds today will: increase/decrease/unchanged/can’t be …
 
-**A**: It cannot be determined because the two move interest rates in opposite directions: i. the reduction in the budget deficit reduces interest rates (by decreasing supply) ii. 𝜋(𝑒) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
+**A**: It cannot be determined because the two move interest rates in opposite directions: i. the reduction in the budget deficit reduces interest rates (by decreasing supply) ii. π(e) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
 
 ## Exercise 10 Solutions
 
@@ -363,7 +363,7 @@ The government is reducing the budget deficit and inflation expectations are rev
 
 i. the reduction in the budget deficit reduces interest rates (by decreasing supply)
 
-ii. 𝜋(𝑒) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
+ii. π(e) ↑ increases the interest rate (decrease of demand and increase of supply: Fisher effect)
 
 ## Exercise 11
 
@@ -383,7 +383,7 @@ Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and 
 
 Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ?
 
-Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $1,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant.
+Solution: DUR = DUR A× w + DUR B× w Port A B $2,000 $1,000 DUR = 3 × Port $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 DUR = 3 × 0.4 + 7 × 0.6 = 5.4 Port _years._ Data on face value is irrelevant.
 
 ## Exercise 12 Solutions
 
@@ -391,19 +391,19 @@ Bond A is a 3-year coupon bond with a duration of 3, a face value of $1,900 and 
 
 Bond B is a 7-year zero coupon bond with a face value of $1,100 and a price of $3,000. What is the duration of the portfolio ?
 
-Solution: 𝐷𝑈𝑅 = 𝐷𝑈𝑅 𝐴× 𝑤 + 𝐷𝑈𝑅 𝐵× 𝑤 𝑃𝑜𝑟𝑡 𝐴 𝐵 $2,000 $3,000 𝐷𝑈𝑅 = 3 × 𝑃𝑜𝑟𝑡 $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 𝐷𝑈𝑅 = 3 × 0.4 + 7 × 0.6 = 5.4 𝑃𝑜𝑟𝑡 _years._ Data on face value is irrelevant.
+Solution: DUR = DUR A× w + DUR B× w Port A B $2,000 $3,000 DUR = 3 × Port $2,000 + $3,000(+ 7 ×) $2,000 + $3,000 DUR = 3 × 0.4 + 7 × 0.6 = 5.4 Port _years._ Data on face value is irrelevant.
 
 ## Exercise 13
 
 What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point)
 
-Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)(𝑡)(+) 1+𝑖/2(2𝑛) 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐 = 𝐹𝑉(, so )(𝐶= $1,000 × 0.07 = $70)( and) 2(= $35) 𝑖 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, 𝑃𝑉=(+)(= $1,019.3)(.) 1.025(+) 1.025(2) 1.025(2)
+Solution: Formula for price is P= σ2nt=1 C/2 FV (1+i/2)(t)(+) 1+i/2(2n) C C First, derive C/2 **:** ic = FV(, so )(C= $1,000 × 0.07 = $70)( and) 2(= $35) i 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, PV=(+)(= $1,019.3)(.) 1.025(+) 1.025(2) 1.025(2)
 
 ## Exercise 13 Solutions
 
 What is the present value of a $1,000 face value bond which a of 7% in semiannual pays coupon per year installments (i.e., two coupon payments are made every year) and matures in 1 year? Assume that payments of the bond are discounted at an annual percentage rate of i=5%. (Round to 1 decimal point)
 
-Solution: Formula for price is 𝑃= σ2𝑛𝑡=1 𝐶/2 𝐹𝑉 (1+𝑖/2)(𝑡)(+) 1+𝑖/2(2𝑛) 𝐶 𝐶 First, derive 𝐶/2 **:** 𝑖𝑐.𝑟. = 𝐹𝑉(, so )(𝐶= $1,000 × 0.07 = $70)( and) 2(= $35) 𝑖 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, 𝑃𝑉= 1.025(+) 1.025(2)(+) 1.025(2)(= $1,019.3)
+Solution: Formula for price is P= σ2nt=1 C/2 FV (1+i/2)(t)(+) 1+i/2(2n) C C First, derive C/2 **:** ic.r. = FV(, so )(C= $1,000 × 0.07 = $70)( and) 2(= $35) i 5% and derive: 2(=) 2(= 0.025) $35 $35 $1,000 Then, PV= 1.025(+) 1.025(2)(+) 1.025(2)(= $1,019.3)
 
 ## Exercise 14
 
@@ -411,7 +411,7 @@ A trader has bought copper futures at $92 per pound. The contract consists of 10
 
 Solution:
 
-𝜋= $98 −$92 × 10,000 = $60,000 = $145.3 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
+π= $98 −$92 × 10,000 = $60,000 = $145.3 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
 
 ## Exercise 14 Solutions
 
@@ -419,7 +419,7 @@ A trader has bought copper futures at $92 per pound. The contract consists of 10
 
 Solution:
 
-𝜋= $98 −$92 × 10,000 = $60,000 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
+π= $98 −$92 × 10,000 = $60,000 Since the position is closed before delivery, data on spot price at delivery is irrelevant.
 
 ## Exercise 15
 

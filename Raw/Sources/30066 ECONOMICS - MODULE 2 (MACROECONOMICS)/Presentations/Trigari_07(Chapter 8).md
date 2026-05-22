@@ -74,7 +74,7 @@ _e_ **PS** _P_ = 1 + _m W W_ = _P F_ ( _u_ , _z_ ) **WS** ( )
 
 ## _e_ = _P_ ( 1 + _m_ ) _P F_ ( _u_ , _z_ )
 
-The **price,** _**P**_ **, depends on** the **expected price,** _**$$$P(e)$$$**_ **,** and the **unemployment rate,** _**u**_ (and also on _m_ and _z_ )
+The **price,** _**P**_ **, depends on** the **expected price,** _**$P(e)$**_ **,** and the **unemployment rate,** _**u**_ (and also on _m_ and _z_ )
 
 Implicit assumption: _**prices**_ set by firms are _**flexible**_ ; _**wages**_ set by workers and firms are _**sticky**_
 
@@ -108,7 +108,7 @@ _e_ = − ( 1 + - _t_ ) ( 1 + - _t_ ) 1( + _m_ ) ( 1 - _ut_ + _z_ )
 
 _e_ = − _Pt Pt_ 1( + _m_ ) ( 1 - _ut_ + _z_ )
 
-- A _**$$$P(e)$$$**_ causes a _**P**_ **higher expected price** _**t**_ **higher price** _**t**_
+- A _**$P(e)$**_ causes a _**P**_ **higher expected price** _**t**_ **higher price** _**t**_
 
 Higher expected price leads to higher wage (workers care about real wages) Higher wage leads to higher price (markup over marginal cost)
 
@@ -209,9 +209,9 @@ After 1970 **inflation** is always positive and **more persistent**
 
 - We can think of what happened in the 1970s as **an increase in the value of θ over time**
 
-- **Before the 1970s**: 𝛉= 𝟎 , workers expected inflation to be constant, whatever last year inflation
+- **Before the 1970s**: θ= 0 , workers expected inflation to be constant, whatever last year inflation
 
-- **After the 1970s**: 𝛉= 𝟏 , workers started to expect inflation to be the same as last year
+- **After the 1970s**: θ= 1 , workers started to expect inflation to be the same as last year
 
 ## The Phillips curve then becomes
 
@@ -239,7 +239,7 @@ The line that best fits the scatter of points for the period 1970–2014 is:
 
 - Remember: the natural unemployment rate is the level at which **expectations** are **correct** (workers get the inflation right)
 
-- So, the **natural unemployment rate** emerges when 𝝅𝒕 = 𝝅𝒕(𝒆)
+- So, the **natural unemployment rate** emerges when πt = πt(e)
 
 - Thus, the Phillips curve
 
@@ -311,9 +311,9 @@ _m_ + _z u_ = _n_ - ## _m_ + _z u_ = _n_ - ## We can put this back into the Phil
 
 - Let’s fit this into the Phillips curve:
 
-- Assume that a **fraction** 𝛌 of contracts is **automatically renegotiated**
+- Assume that a **fraction** λ of contracts is **automatically renegotiated**
 
-- So every year a fraction 𝜆 of wages **moves together with inflation**
+- So every year a fraction λ of wages **moves together with inflation**
 
 ## The Phillips curve with wage indexation
 
@@ -331,7 +331,7 @@ _m_ + _z u_ = _n_ - ## _m_ + _z u_ = _n_ - ## We can put this back into the Phil
 
 ## Phillips curve with indexed wages
 
-- When a high fraction of wages is indexed ( 𝜆 is high)…
+- When a high fraction of wages is indexed ( λ is high)…
 
 - … a change in unemployment has a **bigger effect on inflation**
 

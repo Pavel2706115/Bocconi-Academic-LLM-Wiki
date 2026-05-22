@@ -32,7 +32,7 @@ Processed: true
 
 `o` some government policy intervention _afterwards_
 
-✓ **Financial crises** occur when information flows in Financial Markets (FMs) experience a very large disruption `o` financial frictions (read Asy infos in FMs) _and increase sharply_ = 𝑟 −𝑟 credit spreads ( 𝑟𝑖𝑠𝑘𝑦 𝑠𝑎𝑓𝑒 ) ቑ
+✓ **Financial crises** occur when information flows in Financial Markets (FMs) experience a very large disruption `o` financial frictions (read Asy infos in FMs) _and increase sharply_ = r −r credit spreads ( risky safe ) -
 
 `o` FMs _stop functioning!_
 
@@ -339,7 +339,7 @@ or
 
 banks decrease denominator (e.g.: loans) rather than increase numerator (e.g.: equity)
 
-𝐸 `o` look at _Capital Requirement_ = 𝑅𝑊𝐴
+E `o` look at _Capital Requirement_ = RWA
 
 ✓ Why? Because issuing equity is very costly during a crisis: `o` with low stock prices, FI would do _not_ raise _enough funds_ `o` high risk of _losing money_ for all shareholders (incumbent and new)
 
@@ -403,12 +403,12 @@ banks decrease denominator (e.g.: loans) rather than increase numerator (e.g.: e
 
 `o` Let $ _y_ be the amount the bank receives by selling loans:
 
-_where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 $𝑦= 𝐿𝐴𝑆× 0.75 ⇒𝐿𝐴𝑆= $𝑦/0.75
+_where:_ LAS= LoanAmountSold $y= LAS× 0.75 ⇒LAS= $y/0.75
 
-`o` But fire sale means loan losses … so, capital will decrease too! `o` To guarantee solvency, must have enough capital to cover losses: $𝑦 𝐶𝑎𝑝𝑖𝑡𝑎𝑙−𝐿𝑜𝑠𝑠𝑒𝑠≥0 ⇒$20 −𝐿𝐴𝑆∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $𝑦(∗) ≤$60 `o` $𝑦(∗) is the “maximum” deposit withdrawal the bank can sustain by selling loans ^b1gt72
+`o` But fire sale means loan losses … so, capital will decrease too! `o` To guarantee solvency, must have enough capital to cover losses: $y Capital−Losses≥0 ⇒$20 −LAS∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $y(∗) ≤$60 `o` $y(∗) is the “maximum” deposit withdrawal the bank can sustain by selling loans ^b1gt72
 *(See also: [[Lect22_exercises#^eigoyd]])*
 
-`o` Hence, if $𝑦≤$60 from loans and $ 10 from reserves … … the bank can at most sustain a deposit outflow of:
+`o` Hence, if $y≤$60 from loans and $ 10 from reserves … … the bank can at most sustain a deposit outflow of:
 
 7-32
 
@@ -418,11 +418,11 @@ _where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 
 
 `o` the bank can also sell off loans, but at 25% discount. Let $ _y_ be the amount the bank receives by selling loans:
 
-_where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 $𝑦= 𝐿𝐴𝑆× 0.75 ⇒𝐿𝐴𝑆= $𝑦/0.75
+_where:_ LAS= LoanAmountSold $y= LAS× 0.75 ⇒LAS= $y/0.75
 
-`o` But fire sale means loan losses … so, capital will decrease too! `o` To guarantee solvency, must have enough capital to cover losses: $𝑦 𝐶𝑎𝑝𝑖𝑡𝑎𝑙−𝐿𝑜𝑠𝑠𝑒𝑠≥0 ⇒$20 −𝐿𝐴𝑆∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $𝑦(∗) ≤$60 `o`: “maximum” $𝑦(∗) deposit withdrawal the bank can sustain by selling loans
+`o` But fire sale means loan losses … so, capital will decrease too! `o` To guarantee solvency, must have enough capital to cover losses: $y Capital−Losses≥0 ⇒$20 −LAS∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $y(∗) ≤$60 `o`: “maximum” $y(∗) deposit withdrawal the bank can sustain by selling loans
 
-`o` Hence, if $𝑦≤$60 from loans and $ 10 from reserves … … the bank can at most sustain a deposit outflow of:
+`o` Hence, if $y≤$60 from loans and $ 10 from reserves … … the bank can at most sustain a deposit outflow of:
 
 7-33
 
@@ -432,13 +432,13 @@ _where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 
 
 `o` the bank can also sell off loans, but at 25% discount. Let $ _y_ be the amount the bank receives by selling loans:
 
-_where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 $𝑦= 𝐿𝐴𝑆× 0.75 ⇒𝐿𝐴𝑆= $𝑦/0.75
+_where:_ LAS= LoanAmountSold $y= LAS× 0.75 ⇒LAS= $y/0.75
 
 - But fire sale means loan losses … so, capital will decrease too!
 
-`o` To guarantee solvency, must have enough capital to cover losses: $𝑦 𝐶𝑎𝑝𝑖𝑡𝑎𝑙−𝐿𝑜𝑠𝑠𝑒𝑠≥0 ⇒$20 −𝐿𝐴𝑆∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $𝑦(∗) ≤$60 `o`: “maximum” $𝑦(∗) deposit withdrawal the bank can sustain by selling loans
+`o` To guarantee solvency, must have enough capital to cover losses: $y Capital−Losses≥0 ⇒$20 −LAS∙0.25 ≥0 ⇒$20 − 0.75(∙0.25 ≥0) $y(∗) ≤$60 `o`: “maximum” $y(∗) deposit withdrawal the bank can sustain by selling loans
 
-`o` Hence, with $𝑦∗= $60 from loans and $10 from reserves … … the bank can at most sustain a deposit outflow of:
+`o` Hence, with $y∗= $60 from loans and $10 from reserves … … the bank can at most sustain a deposit outflow of:
 
 ## Stage 3: Debt Deflation
 
@@ -464,7 +464,7 @@ _where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 
 
 ✓ Consumers postpone consumption of durable goods (cars, ⇒ ⇒ houses etc..) Consumption ↓ GDP ↓
 
-✓ Deflation is bad for finance too: `o` as 𝜋(𝑒) ↓⇒𝑟 ↑ 𝑟= 𝑖−𝜋(𝑒) (remember real interest rate: )
+✓ Deflation is bad for finance too: `o` as π(e) ↓⇒r ↑ r= i−π(e) (remember real interest rate: )
 
 ✓ Debt contracts: `o` typically fixed in _nominal_ terms, they do not adjust
 
@@ -476,11 +476,11 @@ _where:_ 𝐿𝐴𝑆= 𝐿𝑜𝑎𝑛𝐴𝑚𝑜𝑢𝑛𝑡𝑆𝑜𝑙𝑑 
 
 ## ✓ Consider a firm balance sheet:
 
-1. Asset values do **not rise** ( 𝐴 )
+1. Asset values do **not rise** ( A )
 
 `o` actually, they fall in recession: when prices fall, firms need to sell more products to service the same amount of debt payments, which are fixed in nominal terms. At the same time, selling those products is more difficult because of the recession
 
-2. Real value of liabilities **increases** in real terms ( 𝐿↑ ) 3. Real value of net worth **decreases** (recall ҧ𝐴= 𝐿(↑) + 𝑁𝑊 , so 𝑁𝑊↓ ) Example:
+2. Real value of liabilities **increases** in real terms ( L↑ ) 3. Real value of net worth **decreases** (recall \bar{A}= L(↑) + NW , so NW↓ ) Example:
 
 |Ciht 2015 P Edti Ltd All iht d ➢ case 1: assets are not deflated ➢ case 2: assets are deflated|before deflation|after deflation|after deflation|
 |---|---|---|---|

@@ -76,11 +76,11 @@ No, neither one is certain …
 
 ✓ Take the simplest model, just take the expected dividend and the expected price over the next year.
 
-𝐷𝑖𝑣 𝑃 1 1 = 𝑃 + 0 1 + 𝑘 1 + 𝑘 𝑒 𝑒
+Div P 1 1 = P + 0 1 + k 1 + k e e
 
 ## where:
 
-`o` 𝑃 0 is the price today `o` 𝑃 1 is the (forecasted) price next year `o` 𝐷𝑖𝑣 1 is the (expected) dividend next year `o` 𝑘 𝑒: rate for discounting stocks
+`o` P 0 is the price today `o` P 1 is the (forecasted) price next year `o` Div 1 is the (expected) dividend next year `o` k e: rate for discounting stocks
 
 - works like YTM, but _usually it’s higher …_ - because stocks are riskier, so you discount future cash flows more!
 
@@ -92,45 +92,45 @@ No, neither one is certain …
 
 ✓ You decide you want to have 12% to be compensated for risk
 
-**Q**: Find the price using your compensation for risk 𝑃0∗ . Should you buy?
+**Q**: Find the price using your compensation for risk P0∗ . Should you buy?
 
 ## The One-Period Valuation Model
 
-- ✓ 𝑃 ≤𝑃∗ if market price is lower than (or equal to) your value ( 0 0 or also: $50 ≤$53.71 ): **buy**
+- ✓ P ≤P∗ if market price is lower than (or equal to) your value ( 0 0 or also: $50 ≤$53.71 ): **buy**
 
-- ✓ 𝑃 > 𝑃∗ or also: if market price is higher than your value ( 0 0 $50 > $53.71 ): do **not** buy
+- ✓ P > P∗ or also: if market price is higher than your value ( 0 0 $50 > $53.71 ): do **not** buy
 
-- ✓ 𝑘 or 𝑃∗ … or Obviously, other investors may have different 𝑒 0 the model is wrong
+- ✓ k or P∗ … or Obviously, other investors may have different e 0 the model is wrong
 
 ## The Generalized Dividend Valuation Model
 
-✓ 𝑛 Using the same logic, extend to periods:
+✓ n Using the same logic, extend to periods:
 
 ✓ but as _n_ grows, last item in the summation gets smaller (higher discounting). So, end up with:
 
 ✓ Note:
 
-`o` ∞ is the end of summation … firms are supposed to be infinitely lived 𝑃 𝑛 `o` no final (1+𝑘𝑒)(𝑛)( in the second expression, bcs for )(𝑛)( large enough it is a ) 𝑃 very low number, so that you don’t need to forecast 𝑛 `o` just PV of _all_ future dividends matter ( _fundamentals)_
+`o` ∞ is the end of summation … firms are supposed to be infinitely lived P n `o` no final (1+ke)(n)( in the second expression, bcs for )(n)( large enough it is a ) P very low number, so that you don’t need to forecast n `o` just PV of _all_ future dividends matter ( _fundamentals)_
 
 ## The Gordon Growth Model
 
-✓ Same as the previous model, but just _assume_ that dividend: grow at a constant rate 𝑔 𝐷𝑖𝑣 𝑡+1 = (1 + 𝑔)𝐷𝑖𝑣𝑡
+✓ Same as the previous model, but just _assume_ that dividend: grow at a constant rate g Div t+1 = (1 + g)Divt
 
-✓ Then price of stock is: 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 𝐷𝑖𝑣 1 + 0 𝑔 0 𝑔(2) 0 𝑔(𝑛) = 𝑃 + + ⋯+ 0 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑒 𝑒(2) 𝑒(𝑛)
+✓ Then price of stock is: Div 1 + Div 1 + Div 1 + 0 g 0 g(2) 0 g(n) = P + + ⋯+ 0 1 + k 1 + k 1 + k e e(2) e(n)
 
 `o` we don’t need to forecast an infinite stream of payments
 
 ## The Gordon Growth Model: Example
 
-Let’s get back to previous example, with 𝑃0 = $53.71
+Let’s get back to previous example, with P0 = $53.71
 
-- ✓ What is the implied dividend growth ( 𝑔 ) with a required rate of 𝑘
+- ✓ What is the implied dividend growth ( g ) with a required rate of k
 
-- return ( 𝑒 ) of 10%?
+- return ( e ) of 10%?
 
-✓ 𝐷𝑖𝑣 = But conveniently by definition 1 1 + 𝑔𝐷𝑖𝑣0 , so:
+✓ Div = But conveniently by definition 1 1 + gDiv0 , so:
 
-𝐷𝑖𝑣 $0.16 0 1 + 𝑔 (1 + 𝑔) = $53.71 = (0.1 −𝑔) (0.1 −𝑔) ✓ _Solve for:_ 𝑔 $53.71 ∙ 0.1 −𝑔= $0.16 1 + 𝑔 ⇒0.1 ∙$5.371 −$53.71𝑔= $0.16 + 0.6𝑔 ⇒$5.371 −$0.16 = 𝑔 $53.71 + $0.16 𝒈= 𝟗. 𝟔𝟕%
+Div $0.16 0 1 + g (1 + g) = $53.71 = (0.1 −g) (0.1 −g) ✓ _Solve for:_ g $53.71 ∙ 0.1 −g= $0.16 1 + g ⇒0.1 ∙$5.371 −$53.71g= $0.16 + 0.6g ⇒$5.371 −$0.16 = g $53.71 + $0.16 g= 9. 67%
 
 ## The Gordon Growth Model: Assumptions
 
@@ -138,19 +138,19 @@ Let’s get back to previous example, with 𝑃0 = $53.71
 
 `o` No, but if they grow constantly for some time the model is reasonable … `o` … after “some” time? Again, cash flows 20 years from now are _very difficult to predict_ , but they are also very small when discounted
 
-- 𝒌
+- k
 
-- 2) Note another assumption: 𝒆 > 𝒈
+- 2) Note another assumption: e > g
 
-𝐷1 = `o` 𝑃 otherwise, we can’t simplify to 0 𝑘𝑒−𝑔 **(  …)**
+D1 = `o` P otherwise, we can’t simplify to 0 ke−g **(  …)**
 
-- but this is also reasonable: if 𝑘 𝑒< 𝑔 Gordon formula no longer valid:
+- but this is also reasonable: if k e< g Gordon formula no longer valid:
 
 - why?
 
-- 𝑘 ?
+- k ?
 
-- at home: what happens if 𝑒 = 𝑔
+- at home: what happens if e = g
 
 ## The Gordon Growth Model: Interpretation
 
@@ -160,7 +160,7 @@ Let’s get back to previous example, with 𝑃0 = $53.71
 
 - … at some point in the future, shareholders will get paid …
 
-`o` … at an increased value of the firm - (suppose for sake of simplicity, that re-investment of earnings is at the same rate of return 𝑘𝑒 )
+`o` … at an increased value of the firm - (suppose for sake of simplicity, that re-investment of earnings is at the same rate of return ke )
 
 - ✓ So, the “unpaid” dividends still “belong” to the stockholder
 
@@ -174,32 +174,32 @@ Let’s get back to previous example, with 𝑃0 = $53.71
 
 `o` it will only pay dividends of €0.11 in 2016 `o` from 2017 it will pay €4 and growing at 8% thereafter
 
-**Q**: what is VW expected price today (2015) before and after the dieselgate happens? What is %- P? Assume 𝑘 = 12% 𝑒 (round to nearest integer)
+**Q**: what is VW expected price today (2015) before and after the dieselgate happens? What is %- P? Assume k = 12% e (round to nearest integer)
 
 ## EXERCISE: Volkswagen Dieselgate
 
 ✓ _a_ (before the dieselgate):
 
-𝐷𝑖𝑣 €4.8 × 1.1 2016,𝑎 = = 𝑃 2015,𝑎 𝑘 12% −10%(= €264) 𝑒 −𝑔𝑎 = 𝑃 _b_ (after the dieselgate): 2016,𝑏 𝐷𝑖𝑣 𝑃 𝐷𝑖𝑣 𝐷𝑖𝑣 1 2016, 𝑏 2016, 𝑏 2016,𝑏 2017,𝑏 𝑃 = + ⟹𝑃 = + × 2015,𝑏 2015,𝑏 1 + 𝑘 1 + 𝑘 1 + 𝑘 𝑘 1 + 𝑘 𝑒 𝑒 𝑒 𝑒 −𝑔𝑏 𝑒 €0.11 €4 1 = 𝑃 2015,𝑏 1.12(+) 0.12 −0.08(×) 1.12(⟹𝑃)(2015,𝑏)(= €89.4) 𝑃 −𝑃 €89 ~~.~~ 4 −€264 2015,𝑏 2015,𝑎 = = %Δ𝑃 = −195 ~~.~~ 4% 2015 𝑃 €89 2015,𝑏
+Div €4.8 × 1.1 2016,a = = P 2015,a k 12% −10%(= €264) e −ga = P _b_ (after the dieselgate): 2016,b Div P Div Div 1 2016, b 2016, b 2016,b 2017,b P = + ⟹P = + × 2015,b 2015,b 1 + k 1 + k 1 + k k 1 + k e e e e −gb e €0.11 €4 1 = P 2015,b 1.12(+) 0.12 −0.08(×) 1.12(⟹P)(2015,b)(= €89.4) P −P €89 ~~.~~ 4 −€264 2015,b 2015,a = = %ΔP = −195 ~~.~~ 4% 2015 P €89 2015,b
 *(See also: [[Lect8_exercises#^jn1dt2]])*
 
 ✓ _b_ (after the dieselgate):
 
 ## Price Earnings Valuation
 
-✓ The **price earnings ratio** (PE ot P/E) `o` PE is a measure of how much the market is willing to pay for $1.00 of 𝑃 company’s earnings: 𝑃𝐸= 𝐸
+✓ The **price earnings ratio** (PE ot P/E) `o` PE is a measure of how much the market is willing to pay for $1.00 of P company’s earnings: PE= E
 
 - widely watched measure
 
 - easy to calculate and avoids dividends (often they are not distributed) by looking at earnings
 
-✓ Trivially then, by definition: **This is the PE** 𝑃 𝑃𝑟𝑖𝑐𝑒= 𝐸(× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠)
+✓ Trivially then, by definition: **This is the PE** P Price= E(× Earnings)
 
 - where E are the earnings per share (EPS) and, obviously, P is the share price
 
 ## Price Earnings Valuation
 
-## 𝑃𝑟𝑖𝑐𝑒= 𝑃𝐸× 𝐸𝑎𝑟𝑛𝑖𝑛𝑔𝑠
+## Price= PE× Earnings
 
 - ✓ _E_ is **expected earnings per share**
 
@@ -213,9 +213,9 @@ Let’s get back to previous example, with 𝑃0 = $53.71
 
 ## Price Earnings Valuation
 
-- ✓ A PE of a firm higher than industry-average 𝑃𝐸 > 𝑃𝐸 𝑓 𝑗
+- ✓ A PE of a firm higher than industry-average PE > PE f j
 
-- has two interpretations ( 𝑓= 𝑓𝑖𝑟𝑚; 𝑗= 𝑖𝑛𝑑𝑢𝑠𝑡𝑟𝑦 ):
+- has two interpretations ( f= firm; j= industry ):
 
 `o` in a “high PE” company, _earnings_ are **expected to rise** in the future compared to low PE companies
 
@@ -223,7 +223,7 @@ Let’s get back to previous example, with 𝑃0 = $53.71
 
 - ✓ Growth/Glamour stocks are those with high PE
 
-- ✓ A “low PE” 𝑠𝑎𝑦: 𝑃𝐸 < 𝑃𝐸 means: 𝑓 𝑗
+- ✓ A “low PE” say: PE < PE means: f j
 
 `o` firm will have **lower** future _earnings_ that are **already** reflected in the stock price (note P/E is obtained by dividing by the _higher current_ earnings)
 
@@ -261,17 +261,17 @@ Example
 
 - ✓ and _small errors_ in evaluating each can lead to _big mistakes_ (read: big losses!)
 
-- ✓ For example, in the Gordon model we need two items: 𝒈 and 𝑘 and 𝑘 𝑒 , errors could depend on both 𝒈 𝑒
+- ✓ For example, in the Gordon model we need two items: g and k and k e , errors could depend on both g e
 
 ## The Gordon Growth Model: Example
 
-## Let’s see how assumptions on 𝑔 and on 𝑘𝑒 may create large evaluation errors Example:
+## Let’s see how assumptions on g and on ke may create large evaluation errors Example:
 
 `o` dividend is $2
 
-`o` fix 𝑘 =0.2 and let 𝑒 𝑔 **vary**
+`o` fix k =0.2 and let e g **vary**
 
-𝐷𝑖𝑣 1 = 𝑃 0 − 𝑘 𝑒 𝑔
+Div 1 = P 0 − k e g
 
 `o` different (projected) growth rates result in very different valuations of the stock!
 
@@ -281,9 +281,9 @@ Example
 
 `o` dividend is $2
 
-`o` fix =0.11 and let 𝑘 𝑔 𝑒 **vary**
+`o` fix =0.11 and let k g e **vary**
 
-𝐷𝑖𝑣 1 = 𝑃 0 𝑘 𝑒 −𝑔
+Div 1 = P 0 k e −g
 
 `o` different (projected) required rates of return imply very different valuations of the stock!
 
@@ -319,15 +319,15 @@ _2. ke_ is also **higher** due to higher uncertainty `o` discount the future mor
 
 - ✓ Suppose there are three investors interested in a stock
 
-1. You: _do not know much_ about the company, just read on WSJ that dividends are expected to be $2 and grow at 3%. 𝒌 **=15%** .
+1. You: _do not know much_ about the company, just read on WSJ that dividends are expected to be $2 and grow at 3%. k **=15%** .
 
-Uncertainty requires 𝒆
+Uncertainty requires e
 
-2. Jennifer: she knows the industry. Feels _confident_ the 𝒌 **=12%** .
+2. Jennifer: she knows the industry. Feels _confident_ the k **=12%** .
 
-estimates are quite accurate. Lower 𝒆
+estimates are quite accurate. Lower e
 
-3. Bud: is _dating_ the CEO of the company. He knows what the company’s plans are. He only requires 𝒌𝒆 **=7%** .
+3. Bud: is _dating_ the CEO of the company. He knows what the company’s plans are. He only requires ke **=7%** .
 
 ## How the Market sets Prices
 

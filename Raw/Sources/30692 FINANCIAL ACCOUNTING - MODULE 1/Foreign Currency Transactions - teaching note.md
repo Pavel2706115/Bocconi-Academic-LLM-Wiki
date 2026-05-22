@@ -45,7 +45,7 @@ Company A accounts for this transaction as follows:
 
 Such amount can be found with the following proportion:
 
-## 0.84 € ∶ 1 $ =  𝑋∶ 1000 $
+## 0.84 € ∶ 1 $ =  X∶ 1000 $
 
 ## Case 2: Transaction is settled by the end of the reporting period
 

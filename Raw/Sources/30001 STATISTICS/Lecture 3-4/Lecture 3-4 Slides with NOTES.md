@@ -221,7 +221,7 @@ In this case, the **frequency distribution** is a table listing the interval cla
 
 To classify data into **intervals** (classes) having the **same width** _**w**_ , _**w**_ can be obtained as:
 
-Max −Min _**w**_ = 𝑁𝑢𝑚𝑏𝑒𝑟𝑜𝑓𝑐𝑙𝑎𝑠𝑠𝑒𝑠
+Max −Min _**w**_ = Numberofclasses
 
 where **Min** and **Max** indicate the smallest and largest observed values, respectively. The resulting width can be rounded to obtain a simpler classification (with classes whose extremes are integers, or are conveniently rounded for example).
 

@@ -185,17 +185,17 @@ Decompose ROTA into ROS and Asset Turnover. Interpret the two values obtained.
 |Balance Sheet|P&L|P&L|
 |---|---|---|---|
 |Owners’ funds                  50 Fixed assets                    150 Inventories                        50 Long-term debt              135 Accounts receivable         5 Cash                                       5 Bank loans                         20 Bonds issued                       5 TOT ASSETS = 210|Revenues                  100 Operating costs         70 Depreciation                 0 Interest                           5 Tax                                   5 Dividends                     10 EBIT = 30|
-|𝑹𝑶𝑨= 𝐸𝐵𝐼𝑇 𝑇𝑂𝑇𝐴𝑆𝑆𝐸𝑇𝑆=|30 210 = 𝟏𝟒. 𝟐𝟖%|
+|ROA= EBIT TOTASSETS=|30 210 = 14. 28%|
 
 ## Exercise – solution (2/2)
 
 Decompose ROTA into ROS and Asset Turnover. Interpret the two values obtained.
 
-𝐸𝐵𝐼𝑇 30 𝑹𝑶𝑨= 𝑇𝑂𝑇𝐴𝑆𝑆𝐸𝑇𝑆(=) 210(= 𝟏𝟒. 𝟐𝟖%)
+EBIT 30 ROA= TOTASSETS(=) 210(= 14. 28%)
 
-𝐸𝐵𝐼𝑇 30 𝑅𝑂𝑆= 𝑇𝑂𝑇𝑆𝐴𝐿𝐸𝑆(=) 100(= 30%) 𝑇𝑂𝑇𝑆𝐴𝐿𝐸𝑆 100 𝐴𝑆𝑆𝐸𝑇𝑇𝑈𝑅𝑁𝑂𝑉𝐸𝑅= 𝑇𝑂𝑇𝐴𝑆𝑆𝐸𝑇𝑆(=) 210(= 0.476)
+EBIT 30 ROS= TOTSALES(=) 100(= 30%) TOTSALES 100 ASSETTURNOVER= TOTASSETS(=) 210(= 0.476)
 
-𝑹𝑶𝑨 = 𝑅𝑂𝑆∗𝐴𝑠𝑠𝑒𝑡𝑇𝑢𝑟𝑛𝑜𝑣𝑒𝑟 = 30% ∗0.476 = 𝟏𝟒. 𝟐𝟖%
+ROA = ROS∗AssetTurnover = 30% ∗0.476 = 14. 28%
 
 ## Return on equity (ROE)
 

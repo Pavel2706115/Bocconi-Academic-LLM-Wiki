@@ -1,0 +1,333 @@
+Found 88 files with mathematical issues.
+
+File: Raw/Sources/30001 STATISTICS/Lecture 11-12/Lecture 11-12 Slides with SUPER FULL NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (70 types): ഥ (U+0D25), ෍ (U+0DCD), ෡ (U+0DE1), ቊ (U+124A), ቐ (U+1250), 𝐁 (U+1D401), 𝐞 (U+1D41E), 𝐢 (U+1D422), 𝐥 (U+1D425), 𝐧 (U+1D427), 𝐨 (U+1D428), 𝐫 (U+1D42B), 𝐮 (U+1D42E), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐾 (U+1D43E), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑧 (U+1D467), 𝑲 (U+1D472), 𝑷 (U+1D477), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑽 (U+1D47D), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒁 (U+1D481), 𝒂 (U+1D482), 𝒃 (U+1D483), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒓 (U+1D493), 𝒙 (U+1D499), 𝒛 (U+1D49B), 𝓝 (U+1D4DD), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟓 (U+1D7D3), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 13-14/Lecture 13-14 Slides Point estimation with FULL NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (55 types): ഥ (U+0D25), ෍ (U+0DCD), ෝ (U+0DDD), ෠ (U+0DE0), ෡ (U+0DE1), ෢ (U+0DE2), ෨ (U+0DE8), መ (U+1218), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝑨 (U+1D468), 𝑩 (U+1D469), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑷 (U+1D477), 𝑺 (U+1D47A), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒆 (U+1D486), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒙 (U+1D499), 𝓝 (U+1D4DD), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝜗 (U+1D717), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 13-14/Lecture 13-14 Slides Point estimation.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (55 types): ഥ (U+0D25), ෍ (U+0DCD), ෝ (U+0DDD), ෠ (U+0DE0), ෡ (U+0DE1), ෢ (U+0DE2), ෨ (U+0DE8), መ (U+1218), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝑨 (U+1D468), 𝑩 (U+1D469), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑷 (U+1D477), 𝑺 (U+1D47A), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒆 (U+1D486), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒙 (U+1D499), 𝓝 (U+1D4DD), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝜗 (U+1D717), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 15-16/Lecture 15-16 Interval Estimation with FULL NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (59 types): ഥ (U+0D25), ෍ (U+0DCD), ෝ (U+0DDD), ෡ (U+0DE1), መ (U+1218), 𝐝 (U+1D41D), 𝐟 (U+1D41F), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝑪 (U+1D46A), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑰 (U+1D470), 𝑷 (U+1D477), 𝑺 (U+1D47A), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒄 (U+1D484), 𝒅 (U+1D485), 𝒆 (U+1D486), 𝒊 (U+1D48A), 𝒍 (U+1D48D), 𝒏 (U+1D48F), 𝒐 (U+1D490), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒛 (U+1D49B), 𝓝 (U+1D4DD), 𝛂 (U+1D6C2), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝜈 (U+1D708), 𝜗 (U+1D717), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 15-16/Lecture 15-16 Interval Estimation.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (58 types): ഥ (U+0D25), ෍ (U+0DCD), ෝ (U+0DDD), ෡ (U+0DE1), መ (U+1218), 𝐝 (U+1D41D), 𝐟 (U+1D41F), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑷 (U+1D477), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒄 (U+1D484), 𝒅 (U+1D485), 𝒆 (U+1D486), 𝒊 (U+1D48A), 𝒍 (U+1D48D), 𝒏 (U+1D48F), 𝒐 (U+1D490), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒛 (U+1D49B), 𝓝 (U+1D4DD), 𝛂 (U+1D6C2), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝜈 (U+1D708), 𝜗 (U+1D717), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 17-21/Lecture 17-21 Slides_Hypotheses Testing with SUPERCOMPLETE NOTES.md
+  Triple-dollar count: 8
+  Mathematical/Foreign Unicode characters (62 types): ഥ (U+0D25), ො (U+0DDC), ෝ (U+0DDD), ෡ (U+0DE1), ෢ (U+0DE2), 𝐸 (U+1D438), 𝐽 (U+1D43D), 𝐾 (U+1D43E), 𝑃 (U+1D443), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑓 (U+1D453), 𝑗 (U+1D457), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑥 (U+1D465), 𝑪 (U+1D46A), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑭 (U+1D46D), 𝑱 (U+1D471), 𝑲 (U+1D472), 𝑶 (U+1D476), 𝑷 (U+1D477), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒁 (U+1D481), 𝒆 (U+1D486), 𝒋 (U+1D48B), 𝒌 (U+1D48C), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒛 (U+1D49B), 𝓝 (U+1D4DD), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛅 (U+1D6C5), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝛘 (U+1D6D8), 𝜈 (U+1D708), 𝝑 (U+1D751), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 17-21/Lecture 17-21 Slides_Hypotheses Testing.md
+  Triple-dollar count: 6
+  Mathematical/Foreign Unicode characters (63 types): ഥ (U+0D25), ෍ (U+0DCD), ො (U+0DDC), ෝ (U+0DDD), ෡ (U+0DE1), ෢ (U+0DE2), 𝐸 (U+1D438), 𝐽 (U+1D43D), 𝐾 (U+1D43E), 𝑃 (U+1D443), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑓 (U+1D453), 𝑗 (U+1D457), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑥 (U+1D465), 𝑪 (U+1D46A), 𝑫 (U+1D46B), 𝑬 (U+1D46C), 𝑭 (U+1D46D), 𝑱 (U+1D471), 𝑲 (U+1D472), 𝑶 (U+1D476), 𝑷 (U+1D477), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒁 (U+1D481), 𝒆 (U+1D486), 𝒋 (U+1D48B), 𝒌 (U+1D48C), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒛 (U+1D49B), 𝓝 (U+1D4DD), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛅 (U+1D6C5), 𝛉 (U+1D6C9), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝛘 (U+1D6D8), 𝜈 (U+1D708), 𝝑 (U+1D751), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 22-24/Lecture 22-24_Simple Linear Regression with FULL NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (65 types): ത (U+0D24), ഥ (U+0D25), ෍ (U+0DCD), ො (U+0DDC), ෝ (U+0DDD), ෠ (U+0DE0), ෡ (U+0DE1), መ (U+1218), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑬 (U+1D46C), 𝑴 (U+1D474), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒃 (U+1D483), 𝒄 (U+1D484), 𝒆 (U+1D486), 𝒈 (U+1D488), 𝒊 (U+1D48A), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒩 (U+1D4A9), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛆 (U+1D6C6), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝛽 (U+1D6FD), 𝜀 (U+1D700), 𝜇 (U+1D707), 𝜎 (U+1D70E), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 22-24/Lesson 22-24_Simple Linear Regression.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (67 types): ത (U+0D24), ഥ (U+0D25), ෍ (U+0DCD), ො (U+0DDC), ෝ (U+0DDD), ෠ (U+0DE0), ෡ (U+0DE1), መ (U+1218), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑬 (U+1D46C), 𝑴 (U+1D474), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑽 (U+1D47D), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒂 (U+1D482), 𝒃 (U+1D483), 𝒄 (U+1D484), 𝒆 (U+1D486), 𝒈 (U+1D488), 𝒊 (U+1D48A), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒩 (U+1D4A9), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛆 (U+1D6C6), 𝛍 (U+1D6CD), 𝛔 (U+1D6D4), 𝛽 (U+1D6FD), 𝜀 (U+1D700), 𝜇 (U+1D707), 𝜎 (U+1D70E), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟖 (U+1D7D6), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 25-27/Lecture 25_27 Slides - Multiple Regression with NOTES up to L26.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (70 types): ෍ (U+0DCD), ො (U+0DDC), ෣ (U+0DE3), 𝐈 (U+1D408), 𝐓 (U+1D413), 𝐗 (U+1D417), 𝐛 (U+1D41B), 𝐞 (U+1D41E), 𝐲 (U+1D432), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑨 (U+1D468), 𝑩 (U+1D469), 𝑪 (U+1D46A), 𝑬 (U+1D46C), 𝑭 (U+1D46D), 𝑲 (U+1D472), 𝑳 (U+1D473), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒃 (U+1D483), 𝒅 (U+1D485), 𝒆 (U+1D486), 𝒊 (U+1D48A), 𝒋 (U+1D48B), 𝒏 (U+1D48F), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒖 (U+1D496), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒩 (U+1D4A9), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛆 (U+1D6C6), 𝛔 (U+1D6D4), 𝛼 (U+1D6FC), 𝜺 (U+1D73A), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 25-27/Lecture 25_27 Slides - Multiple Regression.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (70 types): ෍ (U+0DCD), ො (U+0DDC), ෣ (U+0DE3), 𝐈 (U+1D408), 𝐓 (U+1D413), 𝐗 (U+1D417), 𝐛 (U+1D41B), 𝐞 (U+1D41E), 𝐲 (U+1D432), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑨 (U+1D468), 𝑩 (U+1D469), 𝑪 (U+1D46A), 𝑬 (U+1D46C), 𝑭 (U+1D46D), 𝑲 (U+1D472), 𝑳 (U+1D473), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒃 (U+1D483), 𝒅 (U+1D485), 𝒆 (U+1D486), 𝒊 (U+1D48A), 𝒋 (U+1D48B), 𝒏 (U+1D48F), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝒖 (U+1D496), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝒩 (U+1D4A9), 𝛂 (U+1D6C2), 𝛃 (U+1D6C3), 𝛆 (U+1D6C6), 𝛔 (U+1D6D4), 𝛼 (U+1D6FC), 𝜺 (U+1D73A), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1), 𝟒 (U+1D7D2), 𝟓 (U+1D7D3), 𝟔 (U+1D7D4)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 28/Lecture 28 Slides.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (15 types): 𝑰 (U+1D470), 𝑴 (U+1D474), 𝒆 (U+1D486), 𝒉 (U+1D489), 𝒌 (U+1D48C), 𝒍 (U+1D48D), 𝒐 (U+1D490), 𝒔 (U+1D494), 𝒘 (U+1D498), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝜷 (U+1D737), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟑 (U+1D7D1)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 3-4/Lecture 3-4 Slides with NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (12 types): 𝑁 (U+1D441), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑢 (U+1D462)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 5-6/Lecture 5-6 Slides with NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (10 types): ഥ (U+0D25), ෍ (U+0DCD), 𝑲 (U+1D472), 𝒇 (U+1D487), 𝒊 (U+1D48A), 𝒌 (U+1D48C), 𝒏 (U+1D48F), 𝒑 (U+1D491), 𝒙 (U+1D499), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 7/Lesson 7 Slides with NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (10 types): ഥ (U+0D25), ෍ (U+0DCD), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑠 (U+1D460), 𝑥 (U+1D465), 𝒌 (U+1D48C), 𝒔 (U+1D494), 𝒙 (U+1D499), 𝟐 (U+1D7D0)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 8-9/Lecture 8-9 Slides with FULL NOTES.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (16 types): 𝐀 (U+1D400), 𝐈 (U+1D408), 𝐞 (U+1D41E), 𝐠 (U+1D420), 𝐧 (U+1D427), 𝐫 (U+1D42B), 𝐬 (U+1D42C), 𝐭 (U+1D42D), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒏 (U+1D48F), 𝒙 (U+1D499), 𝒚 (U+1D49A), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30001 STATISTICS/Lecture 8-9/Lecture 8-9 Slides.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (19 types): 𝐀 (U+1D400), 𝐈 (U+1D408), 𝐞 (U+1D41E), 𝐠 (U+1D420), 𝐧 (U+1D427), 𝐫 (U+1D42B), 𝐬 (U+1D42C), 𝐭 (U+1D42D), 𝑀 (U+1D440), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑚 (U+1D45A), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒏 (U+1D48F)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Frederic S. Mishkin_ Stanley Eakins - Financial Markets and Institutions-Pearson (2018).md
+  Triple-dollar count: 10
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Exercises/Lect12_Review_exercises_answers.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (34 types): ቀ (U+1240), ቁ (U+1241), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑗 (U+1D457), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑥 (U+1D465), 𝛥 (U+1D6E5), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Exercises/Lect12_Review_exercises_questions.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (25 types): ቀ (U+1240), ቁ (U+1241), 𝐶 (U+1D436), 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑇 (U+1D447), 𝑉 (U+1D449), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑥 (U+1D465)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Exercises/Lect23_Questions_Answers.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (35 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑈 (U+1D448), 𝑉 (U+1D449), 𝑊 (U+1D44A), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑥 (U+1D465), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Exercises/Lect2_exercises.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (3 types): 𝐶 (U+1D436), 𝑃 (U+1D443), 𝑖 (U+1D456)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect11.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (24 types): 𝐶 (U+1D436), 𝐾 (U+1D43E), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑋 (U+1D44B), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑝 (U+1D45D), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝒈 (U+1D488), 𝒉 (U+1D489), 𝒍 (U+1D48D), 𝒏 (U+1D48F), 𝒐 (U+1D490), 𝒓 (U+1D493), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect13.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (18 types): ෍ (U+0DCD), 𝐷 (U+1D437), 𝐹 (U+1D439), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑎 (U+1D44E), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect15.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (21 types): 𝐴 (U+1D434), 𝐸 (U+1D438), 𝐼 (U+1D43C), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑅 (U+1D445), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑞 (U+1D45E), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝑦 (U+1D466)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect16.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (25 types): 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑣 (U+1D463), 𝑶 (U+1D476), 𝑹 (U+1D479), 𝒅 (U+1D485), 𝒊 (U+1D48A)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect17.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (22 types): 𝐀 (U+1D400), 𝐍 (U+1D40D), 𝐕 (U+1D415), 𝐴 (U+1D434), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑉 (U+1D449), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑦 (U+1D466), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟓 (U+1D7D3)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect18.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (4 types): 𝐵 (U+1D435), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑖 (U+1D456)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect19.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (56 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝐽 (U+1D43D), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑉 (U+1D449), 𝑊 (U+1D44A), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑨 (U+1D468), 𝑫 (U+1D46B), 𝑮 (U+1D46E), 𝑰 (U+1D470), 𝑳 (U+1D473), 𝑵 (U+1D475), 𝑷 (U+1D477), 𝑹 (U+1D479), 𝑺 (U+1D47A), 𝑼 (U+1D47C), 𝒂 (U+1D482), 𝒄 (U+1D484), 𝒆 (U+1D486), 𝒈 (U+1D488), 𝒊 (U+1D48A), 𝒎 (U+1D48E), 𝒏 (U+1D48F), 𝒐 (U+1D490), 𝒑 (U+1D491), 𝜋 (U+1D70B), 𝟎 (U+1D7CE)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect2-3.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (41 types): ത (U+0D24), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑂 (U+1D442), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑉 (U+1D449), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑪 (U+1D46A), 𝑭 (U+1D46D), 𝑷 (U+1D477), 𝑽 (U+1D47D), 𝒄 (U+1D484), 𝒉 (U+1D489), 𝒊 (U+1D48A), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝛥 (U+1D6E5), 𝛼 (U+1D6FC), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect20-21.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (19 types): ෍ (U+0DCD), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝑁 (U+1D441), 𝑅 (U+1D445), 𝑊 (U+1D44A), 𝑎 (U+1D44E), 𝑒 (U+1D452), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑞 (U+1D45E), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝑣 (U+1D463)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect22.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (26 types): ቑ (U+1251), 𝐴 (U+1D434), 𝐶 (U+1D436), 𝐸 (U+1D438), 𝐿 (U+1D43F), 𝑁 (U+1D441), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑊 (U+1D44A), 𝑎 (U+1D44E), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑦 (U+1D466), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect4.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (29 types): ෍ (U+0DCD), ሼ (U+123C), ቐ (U+1250), 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑄 (U+1D444), 𝑅 (U+1D445), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑩 (U+1D469), 𝑷 (U+1D477), 𝒅 (U+1D485), 𝜋 (U+1D70B), 𝜎 (U+1D70E), 𝟖 (U+1D7D6)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect5.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (14 types): 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑋 (U+1D44B), 𝑛 (U+1D45B), 𝑡 (U+1D461), 𝑷 (U+1D477), 𝑿 (U+1D47F), 𝒂 (U+1D482), 𝒄 (U+1D484), 𝒉 (U+1D489), 𝒊 (U+1D48A), 𝒓 (U+1D493), 𝒕 (U+1D495), 𝒖 (U+1D496)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect6.md
+  Triple-dollar count: 4
+  Mathematical/Foreign Unicode characters (18 types): 𝐵 (U+1D435), 𝐶 (U+1D436), 𝑀 (U+1D440), 𝑂 (U+1D442), 𝑅 (U+1D445), 𝑇 (U+1D447), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect7.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (20 types): ෍ (U+0DCD), 𝐷 (U+1D437), 𝑁 (U+1D441), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑤 (U+1D464), 𝑦 (U+1D466)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect8.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (27 types): 𝐷 (U+1D437), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑗 (U+1D457), 𝑘 (U+1D458), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑦 (U+1D466), 𝒆 (U+1D486), 𝒈 (U+1D488), 𝒌 (U+1D48C), 𝟔 (U+1D7D4), 𝟕 (U+1D7D5), 𝟗 (U+1D7D7)
+
+File: Raw/Sources/30006 FINANCIAL MARKETS AND INSTITUTIONS/Lectures/Lect9-10.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (42 types): 𝐶 (U+1D436), 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑄 (U+1D444), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑘 (U+1D458), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑦 (U+1D466), 𝑭 (U+1D46D), 𝑺 (U+1D47A), 𝑻 (U+1D47B), 𝒈 (U+1D488), 𝒉 (U+1D489), 𝒍 (U+1D48D), 𝒏 (U+1D48F), 𝒐 (U+1D490), 𝒓 (U+1D493), 𝒔 (U+1D494), 𝒕 (U+1D495), 𝛥 (U+1D6E5), 𝜋 (U+1D70B), 𝝅 (U+1D745), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30017 CORPORATE FINANCE/Cost of Capital at DraftKings.md
+  Triple-dollar count: 2
+  Mathematical/Foreign Unicode characters (9 types): 𝐷 (U+1D437), 𝐸 (U+1D438), 𝑀 (U+1D440), 𝑅 (U+1D445), 𝑎 (U+1D44E), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑚 (U+1D45A), 𝛽 (U+1D6FD)
+
+File: Raw/Sources/30017 CORPORATE FINANCE/DraftKings Case Study.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (9 types): 𝐴 (U+1D434), 𝐶 (U+1D436), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑊 (U+1D44A), 𝑎 (U+1D44E), 𝑓 (U+1D453), 𝑟 (U+1D45F)
+
+File: Raw/Sources/30060 MANAGEMENT/ACC_4(1).md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (27 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐸 (U+1D438), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑉 (U+1D449), 𝑒 (U+1D452), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑨 (U+1D468), 𝑶 (U+1D476), 𝑹 (U+1D479), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟒 (U+1D7D2), 𝟖 (U+1D7D6)
+
+File: Raw/Sources/30060 MANAGEMENT/AUC and FCA.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (26 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐹 (U+1D439), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑈 (U+1D448), 𝑉 (U+1D449), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝑦 (U+1D466)
+
+File: Raw/Sources/30060 MANAGEMENT/Decision Analysis.md
+  Triple-dollar count: 86
+  Mathematical/Foreign Unicode characters (12 types): 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑝 (U+1D45D), 𝑥 (U+1D465), 𝑽 (U+1D47D), 𝒂 (U+1D482), 𝒄 (U+1D484), 𝒆 (U+1D486), 𝒊 (U+1D48A), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C10.md
+  Triple-dollar count: 4
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C13.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C16.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C17.md
+  Triple-dollar count: 1
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C18.md
+  Triple-dollar count: 10
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C2.md
+  Triple-dollar count: 4
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C22.md
+  Triple-dollar count: 6
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C25.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C26.md
+  Triple-dollar count: 4
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C27.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C28.md
+  Triple-dollar count: 4
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C29.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C5.md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C6.md
+  Triple-dollar count: 12
+
+File: Raw/Sources/30065 ECONOMICS - MODULE 1 (MICROECONOMICS)/C7.md
+  Triple-dollar count: 4
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Macroeconomics Exercise Book-1-227.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (47 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑃 (U+1D443), 𝑄 (U+1D444), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑊 (U+1D44A), 𝑌 (U+1D44C), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑥 (U+1D465), 𝑧 (U+1D467), 𝛥 (U+1D6E5), 𝛼 (U+1D6FC), 𝛿 (U+1D6FF), 𝜃 (U+1D703), 𝜋 (U+1D70B), 𝜌 (U+1D70C)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Macroeconomics Exercise Book-228-446.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (51 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑄 (U+1D444), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑊 (U+1D44A), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑧 (U+1D467), 𝛥 (U+1D6E5), 𝛼 (U+1D6FC), 𝛿 (U+1D6FF), 𝜀 (U+1D700), 𝜃 (U+1D703), 𝜋 (U+1D70B), 𝜌 (U+1D70C)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Macroeconomics Exercise Book.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (52 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐾 (U+1D43E), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑂 (U+1D442), 𝑃 (U+1D443), 𝑄 (U+1D444), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑊 (U+1D44A), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑎 (U+1D44E), 𝑏 (U+1D44F), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑔 (U+1D454), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑣 (U+1D463), 𝑥 (U+1D465), 𝑦 (U+1D466), 𝑧 (U+1D467), 𝛥 (U+1D6E5), 𝛼 (U+1D6FC), 𝛿 (U+1D6FF), 𝜀 (U+1D700), 𝜃 (U+1D703), 𝜋 (U+1D70B), 𝜌 (U+1D70C)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Macroeconomics_ A European Perspective -- Olivier Blanchard, Alessia Amighini, Francesco Giavaz.md
+  Triple-dollar count: 8
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L10 ISLM model.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (26 types): 𝐴 (U+1D434), 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐺 (U+1D43A), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑖 (U+1D456), 𝑚 (U+1D45A), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑮 (U+1D46E), 𝑰 (U+1D470), 𝑳 (U+1D473), 𝒀 (U+1D480), 𝒊 (U+1D48A), 𝚤 (U+1D6A4)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L11 ISLM Extended.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (19 types): 𝐫 (U+1D42B), 𝐵 (U+1D435), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝒑 (U+1D491), 𝒓 (U+1D493), 𝒙 (U+1D499), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L12 Labor Market.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (24 types): 𝐴 (U+1D434), 𝐹 (U+1D439), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑊 (U+1D44A), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑝 (U+1D45D), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑧 (U+1D467), 𝑭 (U+1D46D), 𝑷 (U+1D477), 𝑾 (U+1D47E), 𝒆 (U+1D486), 𝒏 (U+1D48F), 𝒖 (U+1D496), 𝒛 (U+1D49B)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L12 Phillips Curve.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (28 types): 𝐴 (U+1D434), 𝐹 (U+1D439), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑊 (U+1D44A), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑧 (U+1D467), 𝒆 (U+1D486), 𝒎 (U+1D48E), 𝒕 (U+1D495), 𝒖 (U+1D496), 𝒛 (U+1D49B), 𝛼 (U+1D6FC), 𝜃 (U+1D703), 𝜆 (U+1D706), 𝜋 (U+1D70B), 𝝅 (U+1D745), 𝟏 (U+1D7CF), 𝟐 (U+1D7D0), 𝟒 (U+1D7D2), 𝟔 (U+1D7D4), 𝟖 (U+1D7D6)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L13 & L14 ISLMPC.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (23 types): 𝐶 (U+1D436), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑁 (U+1D441), 𝑇 (U+1D447), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑐 (U+1D450), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑚 (U+1D45A), 𝑛 (U+1D45B), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑧 (U+1D467), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝛼 (U+1D6FC), 𝜋 (U+1D70B), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L15 ISLMPC Shock.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (28 types): 𝐧 (U+1D427), 𝐶 (U+1D436), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑁 (U+1D441), 𝑃 (U+1D443), 𝑇 (U+1D447), 𝑊 (U+1D44A), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑎 (U+1D44E), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝑳 (U+1D473), 𝒀 (U+1D480), 𝒎 (U+1D48E), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝚤 (U+1D6A4), 𝛥 (U+1D6E5), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L16 & L17 Expectations Financial Markets Bonds.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (11 types): 𝑃 (U+1D443), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑙 (U+1D459), 𝑚 (U+1D45A), 𝑡 (U+1D461), 𝒎 (U+1D48E), 𝒙 (U+1D499), 𝚤 (U+1D6A4)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L18 Expectations Financial Markets Stocks.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (9 types): 𝐷 (U+1D437), 𝑄 (U+1D444), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑡 (U+1D461), 𝑥 (U+1D465)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L19 & L20 & L21 Expectations Consumption and Investment.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (20 types): 𝐴 (U+1D434), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐹 (U+1D439), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑈 (U+1D448), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑘 (U+1D458), 𝑟 (U+1D45F), 𝑡 (U+1D461), 𝛱 (U+1D6F1), 𝛿 (U+1D6FF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L2 & L3 The Macro Indicators.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (4 types): 𝐶 (U+1D436), 𝑃 (U+1D443), 𝑌 (U+1D44C), 𝜋 (U+1D70B)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L22 & L23 Expectations IS LM.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (31 types): ഥ (U+0D25), 𝐴 (U+1D434), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐹 (U+1D439), 𝐺 (U+1D43A), 𝐻 (U+1D43B), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑄 (U+1D444), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑊 (U+1D44A), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑎 (U+1D44E), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑒 (U+1D452), 𝑓 (U+1D453), 𝑖 (U+1D456), 𝑛 (U+1D45B), 𝑜 (U+1D45C), 𝑝 (U+1D45D), 𝑟 (U+1D45F), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝑥 (U+1D465), 𝛱 (U+1D6F1), 𝛿 (U+1D6FF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L24 Open Economy Dictionary.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (8 types): ത (U+0D24), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝑃 (U+1D443), 𝑒 (U+1D452), 𝑖 (U+1D456), 𝑡 (U+1D461), 𝜀 (U+1D700)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L4 & L5 The Goods Market.md
+  Triple-dollar count: 4
+  Mathematical/Foreign Unicode characters (19 types): 𝐴 (U+1D434), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝑇 (U+1D447), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑝 (U+1D45D), 𝑮 (U+1D46E), 𝑰 (U+1D470), 𝑻 (U+1D47B), 𝒀 (U+1D480), 𝒄 (U+1D484), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L6 Goods Market Exercises_solutions.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (19 types): 𝐴 (U+1D434), 𝐶 (U+1D436), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝑆 (U+1D446), 𝑇 (U+1D447), 𝑌 (U+1D44C), 𝑍 (U+1D44D), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑡 (U+1D461), 𝑮 (U+1D46E), 𝑻 (U+1D47B), 𝒀 (U+1D480), 𝒄 (U+1D484), 𝒕 (U+1D495), 𝚫 (U+1D6AB), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L7 Financial Markets without banks.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (14 types): 𝐷 (U+1D437), 𝐸 (U+1D438), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑆 (U+1D446), 𝑌 (U+1D44C), 𝑑 (U+1D451), 𝑖 (U+1D456), 𝑠 (U+1D460), 𝑡 (U+1D461), 𝒊 (U+1D48A), 𝚤 (U+1D6A4), 𝚫 (U+1D6AB)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/L8 & L9 Financial Markets with banks.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (16 types): 𝐵 (U+1D435), 𝐶 (U+1D436), 𝐷 (U+1D437), 𝐻 (U+1D43B), 𝐿 (U+1D43F), 𝑀 (U+1D440), 𝑃 (U+1D443), 𝑅 (U+1D445), 𝑆 (U+1D446), 𝑌 (U+1D44C), 𝑐 (U+1D450), 𝑑 (U+1D451), 𝑖 (U+1D456), 𝑚 (U+1D45A), 𝑡 (U+1D461), 𝜃 (U+1D703)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Teso_Chapter 19.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (9 types): 𝑪 (U+1D46A), 𝑮 (U+1D46E), 𝑰 (U+1D470), 𝑴 (U+1D474), 𝑻 (U+1D47B), 𝑿 (U+1D47F), 𝒀 (U+1D480), 𝒓 (U+1D493), 𝛜 (U+1D6DC)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Teso_Chapter 20.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (8 types): 𝐶 (U+1D436), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝑁 (U+1D441), 𝑇 (U+1D447), 𝑋 (U+1D44B), 𝑌 (U+1D44C), 𝑖 (U+1D456)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Teso_Chapter 21.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (2 types): 𝐸 (U+1D438), 𝑖 (U+1D456)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Trigari_03(Chapter 4).md
+  Triple-dollar count: 6
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Trigari_06(Chapter 7).md
+  Triple-dollar count: 2
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Trigari_07(Chapter 8).md
+  Triple-dollar count: 4
+  Mathematical/Foreign Unicode characters (8 types): 𝒆 (U+1D486), 𝒕 (U+1D495), 𝛉 (U+1D6C9), 𝛌 (U+1D6CC), 𝜆 (U+1D706), 𝝅 (U+1D745), 𝟎 (U+1D7CE), 𝟏 (U+1D7CF)
+
+File: Raw/Sources/30066 ECONOMICS - MODULE 2 (MACROECONOMICS)/Presentations/Trigari_08_New(Chapter 9).md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (19 types): ത (U+0D24), ഥ (U+0D25), 𝐶 (U+1D436), 𝐺 (U+1D43A), 𝐼 (U+1D43C), 𝐿 (U+1D43F), 𝑃 (U+1D443), 𝑇 (U+1D447), 𝑌 (U+1D44C), 𝑒 (U+1D452), 𝑛 (U+1D45B), 𝑟 (U+1D45F), 𝑢 (U+1D462), 𝑥 (U+1D465), 𝒏 (U+1D48F), 𝒓 (U+1D493), 𝛼 (U+1D6FC), 𝜋 (U+1D70B), 𝝅 (U+1D745)
+
+File: Raw/Sources/30264 PUBLIC FINANCE/Formulas.md
+  Triple-dollar count: 1
+
+File: Raw/Sources/30692 FINANCIAL ACCOUNTING - MODULE 1/Foreign Currency Transactions - teaching note.md
+  Triple-dollar count: 0
+  Mathematical/Foreign Unicode characters (1 types): 𝑋 (U+1D44B)
+
+File: Raw/Sources/30693 FINANCIAL ACCOUNTING - MODULE 2/Consolidated Financial Sheets/Presentation 5 - Consolidation 2026.04.17.md
+  Triple-dollar count: 1
+

@@ -59,7 +59,8 @@ $$
 $$DWL=-\frac{1}{2}\times\Delta Q\times\tau$$
 $$\eta_{s}=\frac{\Delta Q}{\Delta P}\times\frac{P}{Q}$$
 $$\eta_{d}=\frac{\Delta Q}{\Delta P+\tau}\times\frac{P}{Q}$$
-$$\frac{MDWL_{i}}{MR_{i}}=\lambda$$$$\tau_{i}^{*}=-\frac{1}{\eta_{i}}\times\lambda$$
+$$\frac{MDWL_{i}}{MR_{i}}=\lambda$$
+$$\tau_{i}^{*}=-\frac{1}{\eta_{i}}\times\lambda$$
 $$S = Y - c^W$$
 $$(1 + r)S = c^R = (1 + r)(Y - c^W)$$
 $$r = \frac{1 + \text{i}}{1 + \pi} - 1$$

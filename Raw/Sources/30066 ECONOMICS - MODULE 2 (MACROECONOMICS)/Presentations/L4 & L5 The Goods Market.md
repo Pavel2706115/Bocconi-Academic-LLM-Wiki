@@ -217,17 +217,17 @@ Disposable income,  YD = Y -T Gross Income Net transfers =
 
 taxes - subsidies
 
-- ⇒ If Y ↑, 𝑌𝑌𝐷𝐷 ↑  and C ↑
+- ⇒ If Y ↑, YYDD ↑  and C ↑
 
 - ⇒There is a positive relationship btw Y and C
 
-𝐶𝐶= 𝐶𝐶 𝑌𝑌 = 𝐶𝐶 𝑌𝑌−𝑇𝑇 𝐷𝐷 + +
+CC= CC YY = CC YY−TT DD + +
 
 Behavioral function of consumption
 
 To solve analytically the model, we may use a specific functional linear form for consumption
 
-𝐶𝐶= 𝑐𝑐0 + 𝑐𝑐1(𝑌𝑌−𝑇𝑇)
+CC= cc0 + cc1(YY−TT)
 
 ## Autonomous consumption
 
@@ -301,7 +301,7 @@ We will remove this assumption later on…!
 
 - Using our assumptions the aggregate demand will be:
 
-𝑍𝑍= 𝑐𝑐0 −𝑐𝑐1𝑇𝑇+ 𝐼𝐼+ 𝐺𝐺 + 𝑐𝑐1𝑌𝑌
+ZZ= cc0 −cc1TT+ II+ GG + cc1YY
 
 Autonomous spending: A
 
@@ -311,9 +311,9 @@ All the components of the D that do not depend on income
 
 - We can represent the aggregate demand (Z) as a function of income (Y)
 
-𝑍𝑍= 𝑐𝑐0 −𝑐𝑐1𝑇𝑇+ 𝐼𝐼+ 𝐺𝐺+ 𝑐𝑐1𝑌𝑌 𝑍𝑍, 𝑑𝑑𝐼 𝑑𝑑𝐼𝐼𝑑𝑑 ZZ 𝐴𝐴
+ZZ= cc0 −cc1TT+ II+ GG+ cc1YY ZZ, ddI ddIIdd ZZ AA
 
-𝑌𝑌, 𝐼 𝑐𝑐𝐼
+YY, I ccI
 
 # GOODS MARKET: THE EQUILIBRIUM
 
@@ -337,23 +337,27 @@ We follow a 3-step procedure to find the equilibrium
 
 ## ANALYTICAL SOLUTION
 
-Impose the equilibrium condition, plug the behavioral equations  and solve for Y 𝑐𝑐0 −𝑐𝑐1𝑇𝑇+ 𝐼𝐼+ 𝐺𝐺+ 𝑐𝑐1𝑌𝑌 �(𝑍𝑍=) 𝑌𝑌= 𝑍𝑍
+Impose the equilibrium condition, plug the behavioral equations  and solve for Y cc0 −cc1TT+ II+ GG+ cc1YY �(ZZ=) YY= ZZ
 
-𝑌𝑌= 𝑐𝑐0 −𝑐𝑐1𝑇𝑇+ 𝐼𝐼+ 𝐺𝐺+ 𝑐𝑐1𝑌𝑌
+YY= cc0 −cc1TT+ II+ GG+ cc1YY
 
-(1 −𝑐𝑐1)𝑌𝑌= 𝑐𝑐0 −𝑐𝑐1𝑇𝑇+ 𝐼𝐼+ 𝐺𝐺
+(1 −cc1)YY= cc0 −cc1TT+ II+ GG
 
 ## GRAPHICAL REPRESENTATION
 
-1. Plot demand as a function of income Z=$$$$f(Y)$$$$
+1. Plot demand as a function of income Z=$$
+$$f(Y)$$
+$$
 
-2. Plot production as a function of income  Y=$$$$f(Y)$$$$
+2. Plot production as a function of income  Y=$$
+$$f(Y)$$
+$$
 
 3. Impose the equilibrium condition  Y=Z
 
 ## GRAPHICAL REPRESENTATION
 
-**WHAT HAPPENS IF THE ECONOMY IS NOT IN EQUILIBRIUM?** 𝑌𝑌> 𝑍𝑍 𝐼𝐼𝑝𝑝𝑌𝑌< 𝑍𝑍
+**WHAT HAPPENS IF THE ECONOMY IS NOT IN EQUILIBRIUM?** YY> ZZ IIppYY< ZZ
 
 ## EXCESS DEMAND AND SUPPLY
 
@@ -395,9 +399,9 @@ https://www.openaccessgovernment.org/the-uk-invests-90million-into-their-road-in
 
 ## FISCAL POLICIES
 
-- Fiscal policy is implemented when the government: – Changes government expenditure 𝐺𝐺 – Changes net transfers (taxes) 𝑇𝑇
+- Fiscal policy is implemented when the government: – Changes government expenditure GG – Changes net transfers (taxes) TT
 
-- Expansionary fiscal policy: 𝐺𝐺↑ and/or 𝑇𝑇 ↓ - Restrictive fiscal policy: 𝐺𝐺 ↓and/or 𝑇𝑇↑
+- Expansionary fiscal policy: GG↑ and/or TT ↓ - Restrictive fiscal policy: GG ↓and/or TT↑
 
 - The government constructs new public transportation infrastructures
 
@@ -405,7 +409,7 @@ https://www.openaccessgovernment.org/the-uk-invests-90million-into-their-road-in
 
 - Structures that support transportation and logistics
 
-- ↑G - Δ𝐺𝐺> 0 - EXPANSIONARY FP
+- ↑G - ΔGG> 0 - EXPANSIONARY FP
 
 ## 1. GRAPHICAL ANALYSIS
 
@@ -413,9 +417,9 @@ https://www.openaccessgovernment.org/the-uk-invests-90million-into-their-road-in
 
 - What is the impact on Y  if government expenditure changes G by ΔG ?
 
-∆𝒀𝒀 due to ∆𝑮𝑮
+∆YY due to ∆GG
 
-𝟏𝟏 ∆𝒀𝒀= ∆𝒄𝒄𝟎𝟎 −𝒄𝒄𝟏𝟏∆𝑻𝑻+ ∆(�) 𝑰𝑰+ ∆𝑮𝑮 𝟏𝟏−𝒄𝒄𝟏𝟏 𝟏𝟏 ∆𝒀𝒀= ∆𝑮𝑮> 𝟎𝟎 𝟏𝟏−𝒄𝒄𝟏𝟏 1 As 0 < 𝑐𝑐1 < 1,(⇒) The 1−c1(> 1) |∆𝒀𝒀| > |∆𝑮𝑮| impact of the increase of G on 𝑌𝑌 is more than proportional
+11 ∆YY= ∆cc00 −cc11∆TT+ ∆(�) II+ ∆GG 11−cc11 11 ∆YY= ∆GG> 00 11−cc11 1 As 0 < cc1 < 1,(⇒) The 1−c1(> 1) |∆YY| > |∆GG| impact of the increase of G on YY is more than proportional
 
 ## 3. ECONOMIC INTUITION
 
@@ -475,7 +479,7 @@ In the new equilibrium aggregate consumption will be higher
 
 ## DEMAND SHOCKS
 
-- Other positive demand shocks produce the same qualitative results – I ↑ – c 0 ↑ (better confidence of consumers) – c 1 ↑ – 𝑇𝑇↓
+- Other positive demand shocks produce the same qualitative results – I ↑ – c 0 ↑ (better confidence of consumers) – c 1 ↑ – TT↓
 
 - But depending on the shock the quantitative effect may be different
 
@@ -519,13 +523,13 @@ Private Saving = S Priv = (Y – T) - C
 
 Plugging the behavioral equations for C an T we obtain
 
-𝐸𝐸= −𝑐𝑐0 + 1 −𝑐𝑐1 𝑌𝑌−𝑇𝑇 _Autonomous Marginal saving propensity to save_
+EE= −cc0 + 1 −cc1 YY−TT _Autonomous Marginal saving propensity to save_
 
 ## PUBLIC SAVING
 
 Government saving depends on fiscal policy: it is the difference btw revenues and spending of the public sector
 
-Public saving: SGov = 𝑇𝑇−𝐺𝐺
+Public saving: SGov = TT−GG
 
 If SGov >0 - T>G: budget surplus The public saves
 
@@ -539,17 +543,17 @@ Total saving in the economy
 
 Let’s write in another way the equilibrium condition for the goods market
 
-𝑌𝑌= 𝑍𝑍
+YY= ZZ
 
 **Production = Demand**
 
-𝑌𝑌= 𝐶𝐶+ 𝐼𝐼+ 𝐺𝐺
+YY= CC+ II+ GG
 
-𝑌𝑌 −𝑇𝑇 = 𝐶𝐶+ 𝐼𝐼+ 𝐺𝐺 −𝑇𝑇 rearranging
+YY −TT = CC+ II+ GG −TT rearranging
 
 _**Alternative equivalent equilibrium conditions**_
 
-𝑌𝑌−𝑇𝑇−𝐶𝐶+ 𝑇𝑇−𝐺𝐺= 𝐼𝐼 S priv S Private saving gov Public saving
+YY−TT−CC+ TT−GG= II S priv S Private saving gov Public saving
 
 **Total (national) Saving = Investment**
 
@@ -561,9 +565,9 @@ _We can find the short run equilibrium for GDP using this alternative_
 
 SPriv + S Gov =  I
 
-−𝑐𝑐0 + 1 −𝑐𝑐1 𝑌𝑌−𝑇𝑇+ 𝑇𝑇−𝐺𝐺= 𝐼𝐼
+−cc0 + 1 −cc1 YY−TT+ TT−GG= II
 
-1 −𝑐𝑐1 𝑌𝑌= 𝑐𝑐0 + 𝐼𝐼+ 1 −𝑐𝑐1 𝑇𝑇+ 𝐺𝐺−𝑇𝑇 1 −𝑐𝑐1 𝑌𝑌= 𝑐𝑐0 + 𝐼𝐼+ 𝑇𝑇−𝑐𝑐1𝑇𝑇+ 𝐺𝐺−𝑇𝑇 1 −𝑐𝑐1 𝑌𝑌= 𝑐𝑐0 + 𝐼𝐼−𝑐𝑐1𝑇𝑇+ 𝐺𝐺
+1 −cc1 YY= cc0 + II+ 1 −cc1 TT+ GG−TT 1 −cc1 YY= cc0 + II+ TT−cc1TT+ GG−TT 1 −cc1 YY= cc0 + II−cc1TT+ GG
 
 …as by imposing Y=Z!!!
 

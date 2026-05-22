@@ -114,9 +114,9 @@ Consumption will depend on total wealth
 
 Financial wealth: Housing wealth: net value of asset holdings value of houses – mortgage (assets – liabilities)
 
-> 𝑇𝑇 = 𝐿𝐿𝐷𝐷
+> TT = LLDD
 
-𝐿 + + 𝐷𝐷 𝐹𝐹𝐿𝐿𝐷𝐷 𝐻𝐻𝐿𝐿𝐷𝐷
+L + + DD FFLLDD HHLLDD
 
 Human (labor) wealth: Non human wealth expected PDV of after tax income over working life For the single worker it depends on human capital that influences productivity and wages and at the aggregate level it ↑ if - Current/expected income ↑ - Macro context Current/expected taxes ↓ - Current/expected interest rate ↓
 
@@ -124,7 +124,7 @@ Macro context
 
 The foresighted consumer spend in each period a fraction of the total lifetime wealth
 
-𝐶𝐶= 𝑓𝑓(𝐿𝐿𝐷𝐷𝑇𝑇)
+CC= ff(LLDDTT)
 
 ## How much is consumed  in each period?
 
@@ -146,7 +146,7 @@ Assumptions
 
 - Utility function: increasing and concave in the level of consumption in the two periods
 
-𝑈𝑈= 𝑓𝑓(𝐶𝐶𝐷𝐷, 𝐶𝐶𝐷𝐷+1)
+UU= ff(CCDD, CCDD+1)
 
 - Free access to the credit market:
 
@@ -170,27 +170,27 @@ _Intertemporal budget constraint:_ obtained from the budget constraint in each p
 
 It represents the trade-off consumers face between consumption today and consumption in the future: all possible affordable combinations of consumption across different time periods, given their income in each period and the prevailing interest rate
 
-- Present BC, 𝐷𝐷
+- Present BC, DD
 
-- Future BC, 𝐷𝐷+ 1
+- Future BC, DD+ 1
 
 ⇒ Substituting current saving in the future BC:
 
-IBC: 𝐶𝐶𝐷𝐷 + 𝐶𝐶𝑡+1 𝐷𝐷 ⇒ 𝐶𝐶𝐷𝐷+1 = 𝐿 𝐷𝐷 1 + 𝑟𝑟− 1 + 𝑟𝑟𝐶𝐶𝐷𝐷 1+𝑟𝑟(= 𝐿)
+IBC: CCDD + CCt+1 DD ⇒ CCDD+1 = L DD 1 + rr− 1 + rrCCDD 1+rr(= L)
 
-All possible intertemporal consumption paths represented in the ( 𝐶𝐶𝐷𝐷 , 𝐶𝐶𝐷𝐷+1 ) plane as a line with
+All possible intertemporal consumption paths represented in the ( CCDD , CCDD+1 ) plane as a line with
 
 - Negative slope
 
 - Passing from the point of the initial endowments in the two periods
 
-- 𝐶𝐶𝐷𝐷+1
+- CCDD+1
 
-- 𝐿 𝐷𝐷((1 + 𝑟𝑟))
+- L DD((1 + rr))
 
-𝐴𝐴
+AA
 
-𝑌𝑌𝐷𝐷+1𝑒𝑒 −𝑇𝑇𝐷𝐷+1𝑒𝑒 − 1 + 𝑟𝑟 Opportunity cost of present consumption 𝐶𝐶𝐷𝐷 𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷 𝐿 𝐷𝐷
+YYDD+1ee −TTDD+1ee − 1 + rr Opportunity cost of present consumption CCDD YYDD −TTDD L DD
 
 ## Preferences: utility function
 
@@ -202,7 +202,7 @@ All possible intertemporal consumption paths represented in the ( 𝐶𝐶𝐷�
 
 Optimal intertemporal consumption path maximizes utility ⟺ It is the point of tangency between the IBC and the highest attainable indifference curve
 
-𝐶𝐶𝐷𝐷 = 𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷 ⇒ The economy does not save and 𝐶𝐶𝐷𝐷+1 consumes in each period all the available resources 𝐿 𝐷𝐷((1 + 𝑟𝑟)) => 𝑆𝑆𝐷𝐷 = 𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷 −𝐶𝐶𝐷𝐷 = 0 = 𝐴𝐴 𝐸𝐸 𝑌𝑌𝐷𝐷+1𝑒𝑒 −𝑇𝑇𝐷𝐷+1𝑒𝑒 = 𝐶𝐶𝐷𝐷+1 𝐶𝐶𝐷𝐷 𝐿 𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷 𝐷𝐷 = 𝐶𝐶𝐷𝐷
+CCDD = YYDD −TTDD ⇒ The economy does not save and CCDD+1 consumes in each period all the available resources L DD((1 + rr)) => SSDD = YYDD −TTDD −CCDD = 0 = AA EE YYDD+1ee −TTDD+1ee = CCDD+1 CCDD L YYDD −TTDD DD = CCDD
 
 ## 2) Borrower economy
 
@@ -236,7 +236,7 @@ PERMANENT VARIATIONS: Larger change  in Ct - higher marginal propensity to consu
 
 TEMPORARY VARIATIONS: smaller changes in Ct - lower marginal propensity to consume
 
-What happens when 𝑟𝑟 changes?
+What happens when rr changes?
 
 ## 1) Temporary increase in disposable income
 
@@ -244,9 +244,9 @@ Consider an economy with no saving or borrowing, and assume the government reduc
 
 What is Impact on consumption choices?
 
-But consumption opportunities ↑ in both periods => ↑permanent income ( 𝐿 𝐷𝐷() )
+But consumption opportunities ↑ in both periods => ↑permanent income ( L DD() )
 
-- Ct ↑ but Δ𝐶𝐶𝐷𝐷 < Δ 𝑌𝑌𝐷 => St ↑
+- Ct ↑ but ΔCCDD < Δ YYD => St ↑
 
 - - Ct+1 ↑
 
@@ -266,11 +266,11 @@ Consider an economy with no saving or borrowing, and assume the government annou
 
 What is Impact on consumption choices?
 
-But consumption opportunities ↑ in both periods => ↑permanent income ( 𝐿 𝐷𝐷() )
+But consumption opportunities ↑ in both periods => ↑permanent income ( L DD() )
 
-- Ct ↑ and St ↓ since Δ𝐶𝐶𝐷𝐷 > Δ 𝑌𝑌𝐷
+- Ct ↑ and St ↓ since ΔCCDD > Δ YYD
 
-- - Ct+1 ↑ but Δ𝐶𝐶𝐷𝐷+1 < Δ𝑌𝑌𝐷𝑒𝑒 +1
+- - Ct+1 ↑ but ΔCCDD+1 < ΔYYDee +1
 
 The benefits of having more resources tomorrow are transmitted to the present:
 
@@ -294,13 +294,13 @@ What is Impact on consumption choices?
 
 Disposable income increases in the both periods
 
-Consumption opportunities ↑↑ in both periods => ↑↑ permanent income ( 𝐿 𝐷𝐷() ) - Ct ↑ ↑ and St =  since Δ𝐶𝐶𝐷𝐷 = Δ 𝑌𝑌𝐷 - 𝑒𝑒 Ct+1 ↑ ↑ and Δ𝐶𝐶𝐷𝐷+1 = Δ𝑌𝑌𝐷 +1
+Consumption opportunities ↑↑ in both periods => ↑↑ permanent income ( L DD() ) - Ct ↑ ↑ and St =  since ΔCCDD = Δ YYD - ee Ct+1 ↑ ↑ and ΔCCDD+1 = ΔYYD +1
 
 In principle, there is no change in saving in either period ⟺ consumers simply consume the additional resources they have
 
-- St =  since Δ𝐶𝐶𝐷𝐷 = Δ 𝑌𝑌𝐷
+- St =  since ΔCCDD = Δ YYD
 
-- - 𝑒𝑒 St+1 = and Δ𝐶𝐶𝐷𝐷+1 = Δ𝑌𝑌𝐷 +1
+- - ee St+1 = and ΔCCDD+1 = ΔYYD +1
 
 Since the income increase is permanent, the benefit is evenly distributed across periods - consumption rises in proportion to the total income change
 
@@ -332,13 +332,13 @@ We prefer to neglect these _microeconomic_ effects
 
 1) What happens if agents hold also a financial and housing wealth?
 
-𝐶𝐶= 𝑓𝑓(𝐿𝐿𝐷𝐷𝑇𝑇) = 𝑓𝑓(𝐿 𝐷𝐷(+)(𝐹𝐹𝐿𝐿) 𝐷𝐷(+) 𝐻𝐻𝐿𝐿𝐷𝐷)
+CC= ff(LLDDTT) = ff(L DD(+)(FFLL) DD(+) HHLLDD)
 
-IBC: 𝐶𝐶𝐷𝐷 + 𝐶𝐶𝑡+1 𝐷𝐷(+)(𝐹𝐹𝐿𝐿) 𝐷𝐷(+) 𝐻𝐻𝐿𝐿𝐷𝐷 1+𝑟𝑟(= 𝐿)
+IBC: CCDD + CCt+1 DD(+)(FFLL) DD(+) HHLLDD 1+rr(= L)
 
 ↑ consumption possibilities since more resources are available => Possible to consume more in both periods
 
-During the financial crisis both 𝐹𝐹𝐿𝐿𝐷𝐷 and 𝐻𝐻𝐿𝐿𝐷𝐷 ↓↓ =>  C ↓↓  and Y ↓↓
+During the financial crisis both FFLLDD and HHLLDD ↓↓ =>  C ↓↓  and Y ↓↓
 
 => The effects were stronger in countries where a larger share of total wealth was held in non-human wealth
 
@@ -346,13 +346,13 @@ During the financial crisis both 𝐹𝐹𝐿𝐿𝐷𝐷 and 𝐻𝐻𝐿𝐿�
 
 - Proofs supporting the theory:
 
-< Δ𝐶𝐶𝐷𝐷 Δ 𝑌𝑌𝐷
+< ΔCCDD Δ YYD
 
-Δ𝐶𝐶𝐷𝐷 ≠0 also if Δ 𝑌𝑌𝐷 = 0
+ΔCCDD ≠0 also if Δ YYD = 0
 
 - Proofs against the theory:
 
-𝐶𝐶𝐷𝐷 changes more than predicted when 𝑌𝑌𝐷 changes 𝑒𝑒 𝐶𝐶𝐷𝐷 changes less  than predicted when 𝑌𝑌𝐷 changes
+CCDD changes more than predicted when YYD changes ee CCDD changes less  than predicted when YYD changes
 
 Why is it the case?
 
@@ -384,9 +384,9 @@ Even if future income increases, current consumption does not change
 
 Even if permanent income increases, future consumption does not change and the entire income increase is reflected into actual consumption
 
-Δ𝐶𝐶𝐷𝐷+1 = 0 Δ𝐶𝐶𝐷𝐷+1 = ∆𝑌𝑌𝐷
+ΔCCDD+1 = 0 ΔCCDD+1 = ∆YYD
 
-- 𝐶𝐶𝐷𝐷 more sensitive to current income
+- CCDD more sensitive to current income
 
 - Impossible to make  consumption smoothing foreword
 
@@ -406,11 +406,11 @@ A price-constrained individual faces a borrowing rate that is higher than the sa
 
 - Higher impact of current disposable income
 
-𝑒𝑒 𝑒𝑒 𝐶𝐶𝐷𝐷 = 𝐶𝐶(𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷, 𝑌𝑌𝐷𝐷+1 −𝑇𝑇𝐷𝐷+1, 𝐹𝐹𝐿𝐿𝐷𝐷, 𝐻𝐻𝐿𝐿𝐷𝐷, 𝑟𝑟𝐷𝐷)
+ee ee CCDD = CC(YYDD −TTDD, YYDD+1 −TTDD+1, FFLLDD, HHLLDD, rrDD)
 
 - In some cases possible to have also
 
-𝑒𝑒 𝑒𝑒 𝐶𝐶𝐷𝐷 = 𝐶𝐶(𝑌𝑌𝐷𝐷 −𝑇𝑇𝐷𝐷, 𝑌𝑌𝐷𝐷+1 −𝑇𝑇𝐷𝐷+1)
+ee ee CCDD = CC(YYDD −TTDD, YYDD+1 −TTDD+1)
 
 ## QUICK CHECKS
 
@@ -488,7 +488,7 @@ Two approaches
 
 2. Intertemporal theory: current investment depends on the expected stream of profits from the period of capital acquisition to the disposal
 
-It = f (V( Π𝐷𝐷𝑒𝑒 )
+It = f (V( ΠDDee )
 
 Physical capital generates profits over multiple periods, depending on its useful life and profitability declines over time due to depreciation from wear and tear and technological obsolescence.
 
@@ -504,25 +504,25 @@ Assumptions:
 
 - The firm invests in period t but production starts in t+1 => first profits next period
 
-- expected profits (per unit) in each period Π(𝑒𝑒)
+- expected profits (per unit) in each period Π(ee)
 
 - Physical capital
 
-– has an useful file Constant depreciation rate 𝛿𝛿 = – rate at which capital good loses its over time looses value due to depreciation that usefulness over time starts at t+2 (obsolescence)
+– has an useful file Constant depreciation rate δδ = – rate at which capital good loses its over time looses value due to depreciation that usefulness over time starts at t+2 (obsolescence)
 
 - Over time physical capital is less
 
 - effective in generating  profits
 
-𝛿𝛿: 4 – 15 % for machinery 2 – 4 % for real estate and equipment
+δδ: 4 – 15 % for machinery 2 – 4 % for real estate and equipment
 
 ….
 
 At time t investment is made if
 
-V(Π(𝑒𝑒) ) ≥𝑃𝑃𝑘𝑘 present value of Cost of the investment expected profits net of in 1 unit of K depreciation
+V(Π(ee) ) ≥PPkk present value of Cost of the investment expected profits net of in 1 unit of K depreciation
 
-Or equivalently if V Π(𝑒𝑒) −𝑃𝑃𝑘𝑘 ≥0 Net profits for an intertemporal perspective are not negative
+Or equivalently if V Π(ee) −PPkk ≥0 Net profits for an intertemporal perspective are not negative
 
 ## When does investment increases?
 
@@ -530,29 +530,29 @@ When benefits increases w.r.to costs => more convenient to invest
 
 - If given the cost, we expect higher profits
 
-If Π(𝑒𝑒) ↑⇒V Π(𝑒𝑒) ↑⇒𝐼𝐼𝐷𝐷 ↑
+If Π(ee) ↑⇒V Π(ee) ↑⇒IIDD ↑
 
 - If is less costly to finance the investment in the market
 
-If 𝑟𝑟↓, 𝑟𝑟(𝑒𝑒) ↓
+If rr↓, rr(ee) ↓
 
 ⇒ the opportunity cost of investing ↓
 
-⇒V Π(𝑒𝑒) ↑⇒ higher profitability of current investment ⇒𝐼𝐼𝐷𝐷 ↑
+⇒V Π(ee) ↑⇒ higher profitability of current investment ⇒IIDD ↑
 
 - If the depreciation is lower
 
-If 𝛿𝛿↓⇒ physical capital loses value slowly
+If δδ↓⇒ physical capital loses value slowly
 
-⇒ given its cost the benefits from investing are higher ⇒V Π(𝑒𝑒) ↑
+⇒ given its cost the benefits from investing are higher ⇒V Π(ee) ↑
 
-⇒ more convenient to invest ⇒𝐼𝐼𝐷𝐷 ↑
+⇒ more convenient to invest ⇒IIDD ↑
 
 - If physical capital cheaper
 
-If 𝑃𝑃𝑘𝑘 ↓⇒ given unitary profits, net profits ↑ ⇒ benefits from investing ↑
+If PPkk ↓⇒ given unitary profits, net profits ↑ ⇒ benefits from investing ↑
 
-- ⇒ more convenient to invest ⇒𝐼𝐼𝐷𝐷 ↑
+- ⇒ more convenient to invest ⇒IIDD ↑
 
 The aggregate investment function could be written synthetically as
 
@@ -566,7 +566,7 @@ Capital stock measured by non-financial assets; profit is constructed from net o
 
 Empirical evidence show that investment and current profits move together
 
-If Π𝐷𝐷 ↑⇒𝐼𝐼𝐷𝐷 ↑ and vice versa
+If ΠDD ↑⇒IIDD ↑ and vice versa
 
 Why is investment very sensitive to current profits, more than to future ones as predicted by our model?
 
@@ -582,13 +582,13 @@ Current economic macro
 
 dynamic
 
-𝑌𝑌𝐷𝐷 ↑⇒𝛱𝛱𝐷𝐷 ↑⇒𝐼𝐼𝐷𝐷 ↑
+YYDD ↑⇒ΠΠDD ↑⇒IIDD ↑
 
 During expansions, firms sell more, generate higher profits, and tend to invest more
 
 Expected economic macro dynamic
 
-- 𝑌𝑌(𝑒𝑒) ↑⇒Π(𝑒𝑒) ↑⇒𝐼𝐼𝐷𝐷 ↑ - 𝑟𝑟↑⇒𝐼𝐼𝐷𝐷 ↓ - 𝑟𝑟(𝑒𝑒) ↑⇒𝐼𝐼𝐷𝐷 ↓ - 𝛿𝛿↑⇒𝐼𝐼𝐷𝐷 ↓
+- YY(ee) ↑⇒Π(ee) ↑⇒IIDD ↑ - rr↑⇒IIDD ↓ - rr(ee) ↑⇒IIDD ↓ - δδ↑⇒IIDD ↓
 
 When firms expect expansions, expect to sell more and to obtain higher  profits, and have higher incentive to invest today
 

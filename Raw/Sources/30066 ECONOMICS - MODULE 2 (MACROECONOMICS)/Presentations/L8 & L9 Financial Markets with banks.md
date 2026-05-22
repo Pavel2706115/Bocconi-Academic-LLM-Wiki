@@ -138,13 +138,13 @@ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates
 
 _Commercial Banks balance sheet_
 
-**ASSETS LIABILITIES** Loans (L) Deposits (D) Bonds (B) Reserves (R) Aggregate demand 𝑀𝑀 𝑀𝑀= 𝐶 + 𝐷𝐷
+**ASSETS LIABILITIES** Loans (L) Deposits (D) Bonds (B) Reserves (R) Aggregate demand MM MM= C + DD
 
 Banks have money, in the form of deposit accounts, as liabilities. Banks liabilities hence are money (deposits)
 
 ## CB balance sheet
 
-**ASSETS LIABILITIES** Bonds (B) Currency (CU) Reserves (R) Central Bank Money (monetary base) 𝐻𝐻= 𝐶 + 𝑅𝑅
+**ASSETS LIABILITIES** Bonds (B) Currency (CU) Reserves (R) Central Bank Money (monetary base) HH= C + RR
 
 The liabilities of the central bank are the money it has issued, called central bank money, or monetary base
 
@@ -154,7 +154,7 @@ Market where the interest rate of reference for financial markets is determined 
 
 ## MONETARY BASE SUPPLY
 
-- Chosen and controlled by the CB with OMO Contractionary OMO Expansionary  OMO 𝐻𝐻↓ 𝐻𝐻↑
+- Chosen and controlled by the CB with OMO Contractionary OMO Expansionary  OMO HH↓ HH↑
 
 CB **sells bonds** and
 
@@ -170,15 +170,15 @@ CB **buys bonds** and ↓ the monetary base stock ↑ the monetary base stock
 
 - The public takes the share c of the money as currency and the share (1-c) as deposits
 
-_Aggregate currency demand = CU_(d) = c M(d ) 0 ≤𝑐𝑐≤1
+_Aggregate currency demand = CU_(d) = c M(d ) 0 ≤cc≤1
 
-- Commercial Banks keep the share 𝜃𝜃 of their deposits as reserves  for their liquidity needs
+- Commercial Banks keep the share θθ of their deposits as reserves  for their liquidity needs
 
-Demand for reserves = 𝑅𝑅(𝑑𝑑) = 𝜃𝜃𝐷𝐷= 𝜃𝜃(1 −c ) M(d) 0 ≤𝜃𝜃≤1 𝜃𝜃 reserve ratio: amount of reserves held for each € of deposits
+Demand for reserves = RR(dd) = θθDD= θθ(1 −c ) M(d) 0 ≤θθ≤1 θθ reserve ratio: amount of reserves held for each € of deposits
 
 - => The demand for currency becomes demand of monetary base (banknotes have to be printed) => The demand for reserves becomes demand of monetary base (banknotes have to be printed)
 
-𝑑𝑑 𝑑𝑑 Monetary Base demand = 𝐻𝐻(𝑑𝑑) = 𝐶 + 𝑅𝑅
+dd dd Monetary Base demand = HH(dd) = C + RR
 
 ## MONETARY BASE MARKET: EQUILIBRIUM
 
@@ -192,13 +192,13 @@ the interest rate is at the level that induces agents and commercial banks to ho
 
 - Possible shocks hitting the H market and affecting the equilibrium interest rate
 
-- H and 𝜃𝜃:
+- H and θθ:
 
 - Monetary policy: change in H Policy instruments the CB uses to
 
-- – Changes in regulation: change in 𝜃𝜃 (reserve ratio) influence the interest rate
+- – Changes in regulation: change in θθ (reserve ratio) influence the interest rate
 
-- – Changes in public behavior: change in 𝑐𝑐 (fraction of money in currency)
+- – Changes in public behavior: change in cc (fraction of money in currency)
 
 ## True or false:
 
@@ -210,21 +210,21 @@ _To increase the interest rate, the CB can reduce the monetary base or increase 
 
 The H market is in equilibrium at 0, and CB reduces H _H(s) to the left, H(d) =_
 
-𝑖𝑖
+ii
 
-𝐻𝐻(s)
+HH(s)
 
 Equilibrium moves from 0 to 1
 
-- _**What happens economically?**_ – CB sells bonds => €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
+- _**What happens economically?**_ – CB sells bonds => €PPBB ↓⇒ii↑
 
 - Decrease in monetary base supply => excess demand at the initial equilibrium interest rate
 
-1 𝑖𝑖1
+1 ii1
 
-- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀(𝑑𝑑) ↓ and 𝐻𝐻(𝑑𝑑) ↓ up to become equal to the new lower supply
+- As _i_ increases money becomes less attractive compared to bonds for investors => MM(dd) ↓ and HH(dd) ↓ up to become equal to the new lower supply
 
-𝑖𝑖0
+ii0
 
 ## INCREASE IN THE RESERVE RATIO
 
@@ -232,29 +232,29 @@ The H market is in equilibrium at 0, and CB increases θ
 
 _H(s) = , H(d)_ to the right since θ ↑
 
-𝑖𝑖
+ii
 
-𝐻𝐻(s)
+HH(s)
 
 Equilibrium moves from 0 to 1
 
-- _**What happens economically?**_ – θ ↑ => 𝑅𝑅(𝑑𝑑) ↑ and 𝐻𝐻(𝑑𝑑) ↑
+- _**What happens economically?**_ – θ ↑ => RR(dd) ↑ and HH(dd) ↑
 
 - At the initial interest rate there is an excess demand for monetary base
 
 - To clear the market i must increase
 
-𝑖𝑖1
+ii1
 
-𝑖𝑖0
+ii0
 
-𝐻𝐻(D′) 0 𝐻𝐻(D)
+HH(D′) 0 HH(D)
 
-- Agents sell bonds, €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
+- Agents sell bonds, €PPBB ↓⇒ii↑
 
-- As _i_ increases money becomes less attractive compared to bonds for investors => 𝑀𝑀(𝑑𝑑) ↓ and 𝐻𝐻(𝑑𝑑) ↓ up to become equal to the new lower supply
+- As _i_ increases money becomes less attractive compared to bonds for investors => MM(dd) ↓ and HH(dd) ↓ up to become equal to the new lower supply
 
-𝐻𝐻
+HH
 
 ## True or false:
 
@@ -268,37 +268,37 @@ The diffusion of a new technology that makes electronic transactions safer will 
 
 ## We have learnt that
 
-- The money market is in equilibrium if 𝑀𝑀(𝑆𝑆) = 𝑀𝑀(𝑑𝑑)
+- The money market is in equilibrium if MM(SS) = MM(dd)
 
-- 𝑀𝑀(𝑆𝑆) = €𝑌𝑌𝐿𝐿(𝑖𝑖)
+- MM(SS) = €YYLL(ii)
 
 - H market is in equilibrium  if
 
-𝐻𝐻(𝑆𝑆) = 𝐻𝐻(𝑑𝑑) 𝐻𝐻= 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 €𝑌𝑌𝐿𝐿(𝑖𝑖) Rearranging we obtain: _The interest rate at which the money market is in_ 1 𝐻𝐻= €𝑌𝑌𝐿𝐿(𝑖𝑖) _equilibrium is the same at_ 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 _which the monetary base market is in equilibrium m(M) >1 Monetary_ Money multiplier _base_ 𝑀𝑀(𝑑𝑑) 𝑀𝑀(𝑆𝑆)
+HH(SS) = HH(dd) HH= cc+ θθ 1 −cc €YYLL(ii) Rearranging we obtain: _The interest rate at which the money market is in_ 1 HH= €YYLL(ii) _equilibrium is the same at_ cc+ θθ 1 −cc _which the monetary base market is in equilibrium m(M) >1 Monetary_ Money multiplier _base_ MM(dd) MM(SS)
 
 Rearranging we obtain:
 
-## MONEY SUPPLY, 𝑀𝑀(𝑆𝑆)
+## MONEY SUPPLY, MM(SS)
 
-1 = 𝑀𝑀(𝑆𝑆) 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐
+1 = MM(SS) cc+ θθ 1 −cc
 
-𝐻𝐻
+HH
 
 The money supply in the economy depends:
 
-- positively on monetary base, 𝐻𝐻 (controlled by CB):
+- positively on monetary base, HH (controlled by CB):
 
-𝐻𝐻↑⇒𝑀𝑀(𝑆𝑆) ↑
+HH↑⇒MM(SS) ↑
 
-- negatively on reserve ratio, ), 𝜃𝜃 (controlled by CB ):
+- negatively on reserve ratio, ), θθ (controlled by CB ):
 
-𝑀𝑀(S) = m(M) H _i_
+MM(S) = m(M) H _i_
 
-𝜃𝜃↓⇒m(M) ↑⇒𝑀𝑀(𝑆𝑆) ↑
+θθ↓⇒m(M) ↑⇒MM(SS) ↑
 
-- negatively  on fraction of money in currency (public preferences), 𝑐𝑐:
+- negatively  on fraction of money in currency (public preferences), cc:
 
-𝑐𝑐↓⇒m(M) ↑⇒𝑀𝑀(𝑆𝑆) ↑
+cc↓⇒m(M) ↑⇒MM(SS) ↑
 
 _M_
 
@@ -310,29 +310,29 @@ _M_
 
 - 1
 
-- - Since 𝑐𝑐= 0 the multiplier is 𝑚𝑚(𝑀𝑀) = 𝜃𝜃(= 10)
+- - Since cc= 0 the multiplier is mm(MM) = θθ(= 10)
 
-- Suppose CB creates 100€ of monetary base ( Δ𝐻𝐻= 1 00), the aggregate money supply increases by
+- Suppose CB creates 100€ of monetary base ( ΔHH= 1 00), the aggregate money supply increases by
 
 ## THE MULTIPLIER IN ACTION
 
-Takes reserves 𝑅𝑅= 10 𝐵𝐵
+Takes reserves RR= 10 BB
 
-Takes reserves 𝑅𝑅= 9
+Takes reserves RR= 9
 
-100 = ∆𝐻𝐻 Uses 90
+100 = ∆HH Uses 90
 
-𝐵𝐵
+BB
 
-Loans Uses 81 = ∆𝑀𝑀(𝑆𝑆) 𝑚𝑚(𝑀𝑀) ∆𝐻𝐻
+Loans Uses 81 = ∆MM(SS) mm(MM) ∆HH
 
-Takes reserves 𝑅𝑅= 8 ,1 Uses 72,9
+Takes reserves RR= 8 ,1 Uses 72,9
 
 ….
 
 Two alternative ways of looking at the same equilibrium
 
-Same value i* that clears the monetary base ( 𝐻𝐻 ) market and the money market ( 𝑀𝑀 )
+Same value i* that clears the monetary base ( HH ) market and the money market ( MM )
 
 Shocks can be analyzed equivalently in the two markets obtaining the same result
 
@@ -342,24 +342,24 @@ Contractionary MP
 
 ## Which curve is affected?
 
-CB sells bonds and is paid with already existing  liquidity => 𝐻𝐻↓
+CB sells bonds and is paid with already existing  liquidity => HH↓
 
-=> less liquidity in the economy, 𝑀𝑀(𝑆𝑆) shifts to the left
+=> less liquidity in the economy, MM(SS) shifts to the left
 
 ## What happens to the interest rate? Why?
 
-BC sells bonds and  their supply increases => €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖↑ The higher interest rate reduces the money demand and closes the ED  that existed at the initial equilibrium interest rate i0. The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher
+BC sells bonds and  their supply increases => €PPtt ↓⇒ii↑ The higher interest rate reduces the money demand and closes the ED  that existed at the initial equilibrium interest rate i0. The economy moves from point 0 to point 1: the liquidity in the economy is lower and the interest rate higher
 *(See also: [[Trigari_03(Chapter 4)#^rwlaep]])*
 
 ## SHOCK TO THE FRACTION OF MONEY IN CURRENCY
 
 ## Agents hold more currency
 
-1 = 𝑀𝑀(𝑆𝑆) 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 𝑀𝑀(𝐷𝐷) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) _ED_ ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀
+1 = MM(SS) HH ii cc+ θθ 1 −cc ii1 1 0 ii0 MM(DD) = PPLL(YY, ii) _ED_ ’ MM MM MM
 
 ## Which curve is affected?
 
-𝑐𝑐↑⇒𝑚𝑚(𝑀𝑀) ↓⇒𝑀𝑀(𝑆𝑆) ↓ (shifts left) Public deposits less
+cc↑⇒mm(MM) ↓⇒MM(SS) ↓ (shifts left) Public deposits less
 
 - ⇒ Banks have fewer funds to make loans or buy bonds
 
@@ -367,7 +367,7 @@ BC sells bonds and  their supply increases => €𝑃𝑃𝑡𝑡 ↓⇒𝑖𝑖
 
 ## What happens to the interest rate? Why?
 
-With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆)
+With ii= ii0 ⇒MM(DD) > MM(SS)
 
 The interest rate must increase to clear the market
 
@@ -379,21 +379,21 @@ Agents sell bonds
 
 Increase in the reserve ratio
 
-1 = 𝑀𝑀(𝑆𝑆) 𝐻𝐻 𝑖𝑖 𝑐𝑐+ 𝜃𝜃 1 −𝑐𝑐 𝑖𝑖1 1 0 𝑖𝑖0 _ED_ 𝑀𝑀(𝐷𝐷) = 𝑃𝑃𝐿𝐿(𝑌𝑌, 𝑖𝑖) ’ 𝑀𝑀 𝑀𝑀 𝑀𝑀
+1 = MM(SS) HH ii cc+ θθ 1 −cc ii1 1 0 ii0 _ED_ MM(DD) = PPLL(YY, ii) ’ MM MM MM
 
-𝑀𝑀
+MM
 
 ## Which curve is affected?
 
-𝜃𝜃↑⇒𝑚𝑚(𝑀𝑀) ↓⇒𝑀𝑀(𝑆𝑆) ↓ (shifts left) Banks keep more reserves
+θθ↑⇒mm(MM) ↓⇒MM(SS) ↓ (shifts left) Banks keep more reserves
 
 ⇒ fewer funds to extend loans or buy bonds ⇒ lower creation of aggregate money by the banking system given the monetary base controlled by the CB
 
 ## What happens to the interest rate? Why?
 
-With 𝑖𝑖= 𝑖𝑖0 ⇒𝑀𝑀(𝐷𝐷) > 𝑀𝑀(𝑆𝑆) The interest rate must increase to clear the market.
+With ii= ii0 ⇒MM(DD) > MM(SS) The interest rate must increase to clear the market.
 
-Agents sell bonds €𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑
+Agents sell bonds €PPBB ↓⇒ii↑
 
 As the interest rate increases as money demand decreases and closes the ED  that existed at the initial equilibrium interest rate i0.
 
@@ -403,11 +403,11 @@ The economy moves from point 0 to point 1: the liquidity in the economy is lower
 
 - What happens in the economy if only electronic transactions occur?
 
-1 𝑐𝑐= 0 ⇒ largest multiplier effect 𝑚𝑚(𝑀𝑀) = 𝜃𝜃
+1 cc= 0 ⇒ largest multiplier effect mm(MM) = θθ
 
 - What happens in the economy if no electronic transactions occur?
 
-𝑐𝑐= 1 ⇒ no multiplier effect 𝑚𝑚(𝑀𝑀) = 1 => H=M
+cc= 1 ⇒ no multiplier effect mm(MM) = 1 => H=M
 
 - _The share of money held as currency_
 

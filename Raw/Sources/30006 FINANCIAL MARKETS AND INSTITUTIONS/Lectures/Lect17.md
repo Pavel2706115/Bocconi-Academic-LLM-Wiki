@@ -134,7 +134,7 @@ _**4. Cost**_ **advantages**: MF can negotiate _lower transaction fees_ than wou
 
 ## ’ s Calculating a Mutual Fund Net Asset Value
 
-_**Net Asset Value (NAV)**_ ~ 𝑠𝑜𝑟𝑡𝑜𝑓𝑝𝑟𝑖𝑐𝑒
+_**Net Asset Value (NAV)**_ ~ sortofprice
 
 ’ `o` _Definition:_ Total market value of the mutual fund s stocks, bonds, cash, and other assets minus any liabilities (such as accrued fees), divided by the number of shares outstanding ^akjjj9
 
@@ -150,13 +150,13 @@ NAV = $52,200,000/15,000,000 = $3.48
 
 Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M.
 
-**Q1**: What is new NAV? **A1**: NAV = Assets- Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48
+**Q1**: What is new NAV? **A1**: NAV = Assets- Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 yield= = 5.6% $3.48
 
 ## Exercise: yield of MF
 
 Suppose that after 1 day, values change as follows: Stocks= $ 34 M, Bonds = $ 18 M, Cash = $ 4 M, Liabilities= $ 0.9 M.
 
-**Q1**: What is new NAV? **A1**: NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 𝑦𝑖𝑒𝑙𝑑= = 5.6% $3.48
+**Q1**: What is new NAV? **A1**: NAV = (Assets - Liabilities)/# shares NAV = ( _$55.2M – $0.9M)/15M = $3.7_ **Q2**: What is the yield of the investment in the MF? **A2**: The yield is the percentage change of NAV: $3.7 −$3.48 yield= = 5.6% $3.48
 
 ## Exercise: yield of MF
 
@@ -236,7 +236,7 @@ Is this all the fees? No! Other fees include:
 
 ## **Q1**: What is the NAV of this MF?
 
-**A**: 𝐍𝐀𝐕= (15 × 10 + 20 × 20 + 15 × 30 + 10 × 20 + 50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓
+**A**: NAV= (15 × 10 + 20 × 20 + 15 × 30 + 10 × 20 + 50)/100 NAV= $1,250/100 = $12. 5
 
 7-22
 
@@ -248,7 +248,7 @@ Consider an MF with the following assets at the end of the trading day:
 
 ## **Q1**: What is the NAV of this MF?
 
-**A1**: 𝐍𝐀𝐕= ($15 × 10 + $20 × 20 + $30 × 15 + $20 × 10 + $50)/100 𝐍𝐀𝐕= $1,250/100 = $𝟏𝟐. 𝟓
+**A1**: NAV= ($15 × 10 + $20 × 20 + $30 × 15 + $20 × 10 + $50)/100 NAV= $1,250/100 = $12. 5
 
 ## Exercise: MF fees and Investing
 
@@ -260,7 +260,7 @@ You decide to buy into this fund and **want to invest $25**
 
 **Q3**: What is the total new number of shares in this MF and the new NAV?
 
-**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102
+**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 NAV= = $12.5 102
 
 **Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
@@ -276,7 +276,7 @@ You decide to buy into this fund and **want to invest $25 Q2**: How many shares 
 
 **Q3**: What is the total new number of shares in this MF and the new NAV?
 
-**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 𝑁𝐴𝑉= = $12.5 102
+**A2**: The the new number of total MF shares will be 102 (100+2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,275 NAV= = $12.5 102
 
 **Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
@@ -292,7 +292,7 @@ You decide to buy into this fund and **want to invest $25 Q2**: How many shares 
 
 **Q3**: What is the total new number of shares in this MF and the new NAV?
 
-**A3**: The new total number of MF shares is 102 (= 100 + 2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,250 + $25 $1,275 = 𝑁𝐴𝑉= = $12.5 100 + 2 102
+**A3**: The new total number of MF shares is 102 (= 100 + 2). However the assets (cash) also increase by $25, so NAV is unchanged at $12.5: $1,250 + $25 $1,275 = NAV= = $12.5 100 + 2 102
 
 **Q4**: If the fund charges a 5% upfront fee, how much money do you need to hand out to buy **$25 (net)** of shares?
 
@@ -403,25 +403,25 @@ You decide to buy into this fund and **want to invest $25 Q2**: How many shares 
 
 - deviations of price from the announced NAV are **arbitraged away** by APs  thanks to the creation/ redemption mechanism. How?
 
-- Ex. 1: ETF is traded _at premium_ wrt AP’s estimate of the value 𝑁𝐴𝑉 > 𝑁𝐴𝑉(𝑒)
+- Ex. 1: ETF is traded _at premium_ wrt AP’s estimate of the value NAV > NAV(e)
 
-- ( 𝑡 ; 102 Vs 100). The AP:
+- ( t ; 102 Vs 100). The AP:
 
-- buys basket of securities making index from investors at 𝑁𝐴𝑉(𝑒)
+- buys basket of securities making index from investors at NAV(e)
 
 - exchange it with ETF manager to get ETF shares
 
-- sell ETF shares to the market 𝑁𝐴𝑉 ⟹ , to lock in infraday profits at 𝑡
+- sell ETF shares to the market NAV ⟹ , to lock in infraday profits at t
 
-- 𝑁𝐴𝑉↓
+- NAV↓
 
-- Ex. 2: ETF is traded at _discount_ 𝑁𝐴𝑉 < 𝑁𝐴𝑉(𝑒) ( 𝑡 ). The AP:
+- Ex. 2: ETF is traded at _discount_ NAV < NAV(e) ( t ). The AP:
 
-- - 𝑁𝐴𝑉 ⟹ 𝑁𝐴𝑉↑ buys ETF shares from the investors at 𝑡
+- - NAV ⟹ NAV↑ buys ETF shares from the investors at t
 
 - - exchange them to ETF manager to get basket of securities
 
-- - sell the securities to market at 𝑁𝐴𝑉(𝑒)
+- - sell the securities to market at NAV(e)
 
 ## **ETF traded** _**at premium**_
 
@@ -471,7 +471,7 @@ You decide to buy into this fund and **want to invest $25 Q2**: How many shares 
 
 - `o` 6 months later, reverse these transactions: sell 29.5-year and buy 30-year
 
-- if prices do converge realize a profit: that from 𝑃29.5 𝑦 ↑ should cover loss from 𝑃30 𝑦 ↓ and repay borrowing costs
+- if prices do converge realize a profit: that from P29.5 y ↑ should cover loss from P30 y ↓ and repay borrowing costs
 
 - `o` if they do not converge «enough»: big loss
 

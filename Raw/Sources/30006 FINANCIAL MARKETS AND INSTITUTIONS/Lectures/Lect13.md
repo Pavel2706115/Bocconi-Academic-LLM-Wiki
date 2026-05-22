@@ -62,11 +62,11 @@ The rationale behind it is
 
 - ✓ We have encountered **arbitrage** when we talked about futures converging to spot prices at delivery
 
-- ✓ EX: if the future price at delivery date is higher than the spot 𝐹 > 𝑆 can at and sell a future. Earn
+- ✓ EX: if the future price at delivery date is higher than the spot F > S can at and sell a future. Earn
 
-- price ( 𝑇 𝑇 ), you buy spot 𝐹 < 𝑆
+- price ( T T ), you buy spot F < S
 
-- risk-free profit. Reverse if ( 𝑇 𝑇 )
+- risk-free profit. Reverse if ( T T )
 
 ## Arbitrage opportunities
 
@@ -141,9 +141,9 @@ There also 2 other definitions of EMH
 
 - ✓ whether or **Strong efficiency**: all information, _public private_ , is priced-in. Prices reflect the true, fundamental (intrinsic) value of securities (= all items that have direct impact on future income streams of the security)
 
-∞ 𝑃= 𝑓𝑢𝑛𝑑𝑎𝑚𝑒𝑛𝑡𝑎𝑙= ෍ 𝑡=1
+∞ P= fundamental= \sum t=1
 
-𝐷𝑖𝑣 𝑡 (1 + 𝑘𝑒)(𝑡)
+Div t (1 + ke)(t)
 
 - _much less popular today because …_
 
@@ -185,13 +185,13 @@ There also 2 other definitions of EMH
 
 - why is this “random”? Because if today is your best guess for tomorrow then you really have no idea about tomorrow
 
-- 𝑃𝑡+1 = 𝑃𝑡 + 𝑒𝑡 where: 𝑒𝑡 is random error with zero mean and finite variance, it reflects the new information (unpredictable) arriving between _t+1_ and _t_ .
+- Pt+1 = Pt + et where: et is random error with zero mean and finite variance, it reflects the new information (unpredictable) arriving between _t+1_ and _t_ .
 
-- Δ𝑃 = 𝑃 −𝑃 = 𝑒 𝑡+1 𝑡+1 𝑡 𝑡 . In other words, changes in stock prices have the same Δ𝑃
+- ΔP = P −P = e t+1 t+1 t t . In other words, changes in stock prices have the same ΔP
 
-- distribution, are independent of each other (4 ex.: 𝑡+1 is independent of past Δ𝑃 or Δ𝑃
+- distribution, are independent of each other (4 ex.: t+1 is independent of past ΔP or ΔP
 
-- price changes, say 𝑡 𝑡−2 , etc…)
+- price changes, say t t−2 , etc…)
 
 - ✓ Many studies find evidence on random walk behavior of stocks using stock market data
 

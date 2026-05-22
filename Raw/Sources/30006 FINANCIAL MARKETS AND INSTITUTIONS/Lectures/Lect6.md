@@ -172,19 +172,19 @@ To correctly compare another bond with a muni bond interest rate, must find the 
 
 − - _Muni rate = Other_bond rate (1 Marginal Tax Rate)_
 
-𝑖 = 𝑖 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ
+i = i 1 −MTR Mun Otℎ
 
 ## Municipal Bonds: Tax exemption
 
-Plug in data from previous example to find the MTR: 𝑖 = 𝑖 1 −𝑀𝑇𝑅 ⇒0.0675 = 0.09 ∙ 1 −𝑀𝑇𝑅 𝑀𝑢𝑛 𝑂𝑡ℎ
+Plug in data from previous example to find the MTR: i = i 1 −MTR ⇒0.0675 = 0.09 ∙ 1 −MTR Mun Otℎ
 
 Solution: **MTR* = 25%**
 
 `o` If Marginal Tax Rate above/below 25%, the municipal bond offers a higher/lower after-tax cash flow …
 
-✓ Case 1. Tax rate at **20%** 𝑀𝑇𝑅< 𝑀𝑇𝑅(∗): = = `o` 𝑖 1 − 0.2 × 0.09 0.0720 Corporate bond: 𝐶𝐵 (7.2%) = `o` 𝑖 1 −0.0 Municipal bond: 𝑀𝑢𝑛 × 0.0675 = 0.0675 (6.75%)
+✓ Case 1. Tax rate at **20%** MTR< MTR(∗): = = `o` i 1 − 0.2 × 0.09 0.0720 Corporate bond: CB (7.2%) = `o` i 1 −0.0 Municipal bond: Mun × 0.0675 = 0.0675 (6.75%)
 
-✓ Case 2. Tax rate at **30%** 𝑀𝑇𝑅> 𝑀𝑇𝑅(∗): = `o` 𝑖 1 − 0.3 × 0.09 = 0.0630 Corporate bond: 𝐶𝐵 (6.3%) = `o` 𝑖 1 −0.0 × 0.0675 = Municipal bond: 𝑀𝑢𝑛 0.0675 (6.75%)
+✓ Case 2. Tax rate at **30%** MTR> MTR(∗): = `o` i 1 − 0.3 × 0.09 = 0.0630 Corporate bond: CB (6.3%) = `o` i 1 −0.0 × 0.0675 = Municipal bond: Mun 0.0675 (6.75%)
 
 # Not so much anymore after 2008: 2008-2016 … why?
 
@@ -242,7 +242,7 @@ Solution: **MTR* = 25%**
 
 ✓ dividends new debt May limit , , mergers, etc.
 
-**Q:** if covenants are more restrictive, does 𝑖 - or - ?
+**Q:** if covenants are more restrictive, does i - or - ?
 
 ## Characteristics of Corporate Bonds
 
@@ -252,9 +252,9 @@ Solution: **MTR* = 25%**
 
 ✓ dividends new debt May limit , , mergers, etc.
 
-**Q:** if covenants are more restrictive, does 𝑖 - or - ?
+**Q:** if covenants are more restrictive, does i - or - ?
 
-**A:** 𝑖  Firm already accepting lots of conditions from bondholders so can lower 𝑖 𝑜𝑟𝑖𝑟𝑒𝑠𝑡𝑟 < 𝑖𝑜𝑡ℎ . Also safer for bond holders, as actions against their interests is reduced (lower risk!)
+**A:** i  Firm already accepting lots of conditions from bondholders so can lower i orirestr < iotℎ . Also safer for bond holders, as actions against their interests is reduced (lower risk!)
 
 ## Characteristics of Corporate Bonds
 
@@ -266,11 +266,11 @@ Solution: **MTR* = 25%**
 
 - - after a “waiting period”
 
-- ✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖: 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ
+- ✓ All else equal, i for a callable bond is higher than for non-callable bond i > i: call otℎ
 
 `o` because the holder is less able to choose what to do with bond
 
-**Q**: if 𝑖 - is the firm more or less likely to buy back? **A**:
+**Q**: if i - is the firm more or less likely to buy back? **A**:
 
 **Q**: Why? **A**:
 
@@ -282,15 +282,15 @@ Solution: **MTR* = 25%**
 
 `o` issuer can force bondholder to sell back bonds … - typically, at par or slightly higher - after a “waiting period”
 
-✓ All else equal, 𝑖 for a callable bond is higher than for non-callable bond 𝑖 > 𝑖: 𝑐𝑎𝑙𝑙 𝑜𝑡ℎ
+✓ All else equal, i for a callable bond is higher than for non-callable bond i > i: call otℎ
 
 `o` because the holder is less able to choose what to do with bond
 
-**Q**: if 𝑖 - is the firm more or less likely to buy back? **A**: **more** likely to buy back
+**Q**: if i - is the firm more or less likely to buy back? **A**: **more** likely to buy back
 
 **Q**: Why? **A**: Because low _i_:
 
-- allows the firm to re-borrow at a more beneficial rate (lower _i_ ) - if _i_ low enough, $$$P(market)$$$> $$$P(callable)$$$, firm can earn difference
+- allows the firm to re-borrow at a more beneficial rate (lower _i_ ) - if _i_ low enough, $P(market)$> $P(callable)$, firm can earn difference
 
 ## Characteristics of Corporate Bonds
 
@@ -302,7 +302,7 @@ Solution: **MTR* = 25%**
 
 - `o` … but usually more limited
 
-- ✓ 𝑖 will be _**lower**_ for a convertible bond than for a nonconvertible bond 𝑖 < 𝑖: 𝑐𝑜𝑛𝑣 𝑜𝑡ℎ
+- ✓ i will be _**lower**_ for a convertible bond than for a nonconvertible bond i < i: conv otℎ
 
 `o` because the holder is more able to choose what to do with bond (can choose to convert to stock)
 
@@ -344,7 +344,7 @@ Seniority scheme:
 
 - `o` _Subordinated debentures_: debentures with a lower priority claim
 
-- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal?
+- **Q:** does an **unsecured** bond have higher or lower i compared to secured bonds, all else equal?
 
 ## Characteristics of Corporate Bonds
 
@@ -364,21 +364,21 @@ Seniority scheme:
 
 - _Subordinated debentures_: debentures with a lower priority claim
 
-- **Q:** does an **unsecured** bond have higher or lower 𝑖 compared to secured bonds, all else equal?
+- **Q:** does an **unsecured** bond have higher or lower i compared to secured bonds, all else equal?
 
-- **A** riskier 𝑖: clearly , so higher, because it lacks guarantee
+- **A** riskier i: clearly , so higher, because it lacks guarantee
 
 ## Bond Pricing: Semi-annual Coupon
 
 So far, we have always assumed annual coupon payments. But actually, most bonds pay coupons semi-annually, so
 
-`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter
+`o` where C, i are annual and n are the years to maturity `o` t is a half-year counter
 
 **Q**: Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price?
 
 ## Bond Pricing: Semi-annual Coupon
 
-`o` where 𝐶, 𝑖 are annual and 𝑛 are the years to maturity `o` 𝑡 is a half-year counter
+`o` where C, i are annual and n are the years to maturity `o` t is a half-year counter
 
 **Q**: Consider a two-year coupon bond (semi-annual coupon payments) with a face value of $1,000, a coupon rate of 10% and that the interest rate at which investors discount cash flows on similar bonds is 12%? What is the price?
 

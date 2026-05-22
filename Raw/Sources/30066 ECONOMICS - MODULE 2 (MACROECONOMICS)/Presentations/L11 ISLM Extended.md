@@ -114,7 +114,7 @@ Same reasoning if today you do not take a coffee today
 
 ## RELATION BTW REAL AND NOMINAL INTEREST RATE
 
-If at time t we want to consume 1 unit more (less) of goods, we need 𝑃𝑃𝑡𝑡 euros more (less)
+If at time t we want to consume 1 unit more (less) of goods, we need PPtt euros more (less)
 
 **Nominal interest rate (i** ~~**t**~~ **):** Amount of **euro** we must pay in the future to get an additional **euro** today
 
@@ -133,13 +133,13 @@ We can simplify this expression to better understand the link using the inflatio
 
 ## Exact relationship btw. nominal and real interest rates:
 
-1 + 𝑖𝑖𝑡𝑡 1 + 𝜋𝜋𝑒𝑒 = 1 + 𝑟𝑟𝑡𝑡 𝑡𝑡+1
+1 + iitt 1 + ππee = 1 + rrtt tt+1
 
 For small values, we can use an approximation:
 
-𝑟𝑟𝑡𝑡 ≈𝑖𝑖𝑡𝑡 −𝜋𝜋𝑡𝑡+1𝑒𝑒 𝑒𝑒 𝜋𝜋𝑡𝑡+1 ↑ hence 𝑟𝑟𝑡𝑡 ↓: If I save today and the price level increases, tomorrow I will be able to consume fewer goods that will cost more
+rrtt ≈iitt −ππtt+1ee ee ππtt+1 ↑ hence rrtt ↓: If I save today and the price level increases, tomorrow I will be able to consume fewer goods that will cost more
 
-𝑖𝑖𝑡𝑡 ↑ also 𝑟𝑟𝑡𝑡 ↑:
+iitt ↑ also rrtt ↑:
 
 if I save I save and the nominal interest rate increases, tomorrow I will be able to consume more goods, given their expected prices.
 
@@ -147,9 +147,9 @@ If  I borrow today and the nominal interest rate increases, tomorrow I will have
 
 If I borrow today, tomorrow I will have to give up fewer units of goods due to higher prices
 
-𝑒𝑒 Lenders are better off when i ↑ and 𝜋𝜋𝑡𝑡+1 ↓
+ee Lenders are better off when i ↑ and ππtt+1 ↓
 
-𝑒𝑒 Borrowers are better off when i ↓ and 𝜋𝜋𝑡𝑡+1 ↑
+ee Borrowers are better off when i ↓ and ππtt+1 ↑
 
 ## OBSERVATIONS
 
@@ -181,7 +181,7 @@ There is some probability that the borrower does not repay (default risk): to be
 
 Policy interest rate ≠ borrowing rate
 
-chosen by CB (𝑖𝑖)
+chosen by CB (ii)
 
 charged by bank to firms/HH > i
 
@@ -215,9 +215,9 @@ The euro adoption reduced uncertainty, while the financial crisis increased it
 
 Novelty: expenditure decisions depend on real interest rate adjusted for the risk - Relevant interest rate for expenditure decisions in C and I is the
 
-= Borrowing rate: 𝑟𝑟+ 𝑥𝑥 𝑖𝑖−𝜋𝜋(𝑒𝑒) + 𝑥𝑥
+= Borrowing rate: rr+ xx ii−ππ(ee) + xx
 
-CB sets the NOMINAL interest rate (the cost of money): 𝑖𝑖 and r is determined indirectly based on expectations
+CB sets the NOMINAL interest rate (the cost of money): ii and r is determined indirectly based on expectations
 
 Agents and firms:  have expectations about prices and interested in how many goods they will have to give up in the future to get an additional one today
 
@@ -231,9 +231,9 @@ Y ↓
 
 A SHOCK in FINANCIAL MARKETS: doubts about the solvency of borrowers as during the 2008 financial crisis after the collapse of Lehman Brothers
 
-## Higher risk aversion: 𝑥𝑥↑
+## Higher risk aversion: xx↑
 
-Which curve is affected? 𝐼 to the LEFT: 𝑥𝑥↑⇒𝐼𝐼↓⇒𝑌𝑌↓ 𝐿 = Equilibrium moves from 0 to 1
+Which curve is affected? I to the LEFT: xx↑⇒II↓⇒YY↓ L = Equilibrium moves from 0 to 1
 
 ## What happens economically?
 
@@ -241,23 +241,23 @@ The higher borrowing rate makes more costly to finance investment in the credit 
 
 Does the CB do anything?
 
-Yes also if the LM curve does not change  since 𝑌𝑌↓⇒𝐿𝐿(𝐷𝐷) ↓⇒𝑖𝑖↓& 𝑟𝑟↓ To avoid the change in the interest rate, the CB modifies the monetary base to ↓𝐿𝐿(𝑆𝑆) _=>_ 𝑖𝑖 e 𝑟𝑟 are unchanged
+Yes also if the LM curve does not change  since YY↓⇒LL(DD) ↓⇒ii↓& rr↓ To avoid the change in the interest rate, the CB modifies the monetary base to ↓LL(SS) _=>_ ii e rr are unchanged
 
 ## Which economic policies to contrast the recession?
 
-𝐫𝐫
+rr
 
-�𝒓𝒓
+�rr
 
-𝐿 1 0 = 2
+L 1 0 = 2
 
-𝑌𝑌0
+YY0
 
-𝑌𝑌1
+YY1
 
-𝑌𝑌
+YY
 
-## 1. Expansionary FP: 𝐼 to the right up to the initial position
+## 1. Expansionary FP: I to the right up to the initial position
 
 The government could increase public expenditure or reduce net taxes to stimulate aggregate demand and, in equilibrium, the level of production. In principle, this policy could completely offset the initial negative effect on output.
 
@@ -265,21 +265,21 @@ The government could increase public expenditure or reduce net taxes to stimulat
 
 ## Which economic policies to contrast the recession?
 
-𝐫𝐫
+rr
 
-2. Expansionary MP: 𝐿 **down**
+2. Expansionary MP: L **down**
 
-1 0 𝐿 �𝒓𝒓 𝑌𝑌0 𝑌𝑌 𝑌𝑌1 �𝒓 𝐿 2 2 IS IS 1
+1 0 L �rr YY0 YY YY1 �r L 2 2 IS IS 1
 
-The CB buys bonds => €𝑃𝑃𝐵𝐵 ↑⇒𝑖𝑖↓ , and given expected inflation also r ↓
+The CB buys bonds => €PPBB ↑⇒ii↓ , and given expected inflation also r ↓
 
 But in this graph to come back at the initial level of output r must be negative => agents need to expect higher prices
 
 The central bank's actions alone may not be sufficient to ensure a negative real interest rate.
 
-## The problems faced by the CB are particularly evident if before the shock 𝑖𝑖= 0
+## The problems faced by the CB are particularly evident if before the shock ii= 0
 
-CB no longer able to reduce ̅𝑟𝑟 If, in addition, 𝜋𝜋(𝑒𝑒) < 0 ⇒𝑟𝑟 increases LM curve moves up without any intervention if the CB and output further decrease Equilibrium moves from 1 to 3
+CB no longer able to reduce ̅rr If, in addition, ππ(ee) < 0 ⇒rr increases LM curve moves up without any intervention if the CB and output further decrease Equilibrium moves from 1 to 3
 
 ## QUICK CHECKS
 
@@ -335,47 +335,47 @@ IS to the right with positive demand shocks that ↑Z , given r.
 
 If x ↓ , the borrowing rate decreases
 
-⇒ Less  costly to finance investment in the credit market => I ↑⇒Z ↑ => ED and firms will produce more ⇒𝑌𝑌↑
+⇒ Less  costly to finance investment in the credit market => I ↑⇒Z ↑ => ED and firms will produce more ⇒YY↑
 
 IS to the left with negative demand shocks reducing the aggregate demand, at a given real interest rate
 
-NOVELTY Also x is an exogenous variable for the LM 𝜋𝜋(𝑒𝑒)
+NOVELTY Also x is an exogenous variable for the LM ππ(ee)
 
 # FOR THOSE WHO WANT TO GO MORE IN DEPTH… BUT NOT COMPULSORY
 
 ## RISK AVERSION
 
-- 𝑖𝑖≡ interest rate paid by a risk-free asset Return paid by a risk-free asset = (1 + 𝑖𝑖)
+- ii≡ interest rate paid by a risk-free asset Return paid by a risk-free asset = (1 + ii)
 
-- 𝒑𝒑≡ **probability of default of the borrower** - 𝒙𝒙≡ **Risk premium**
+- pp≡ **probability of default of the borrower** - xx≡ **Risk premium**
 
-The expected return of a risky asset will be 𝐸 = 𝑝𝑝× 0 + 1 −𝑝𝑝 1 + 𝑖𝑖+ 𝑥𝑥
+The expected return of a risky asset will be E = pp× 0 + 1 −pp 1 + ii+ xx
 
 ## Arbitrage condition in financial markets:
 
 _In order to exchange both risky and risk – free assets the expected return of the risky asset must be equal to the return paid by the risk-free asset_
 
-– If 1 + 𝑖𝑖> 1 −𝑝𝑝 1 + 𝑖𝑖+ 𝑥𝑥⇒ Investors buy risk-free assets only
+– If 1 + ii> 1 −pp 1 + ii+ xx⇒ Investors buy risk-free assets only
 
-– If 1 + 𝑖𝑖< 1 −𝑝𝑝 1 + 𝑖𝑖+ 𝑥𝑥⇒ Investors buy risky assets only
+– If 1 + ii< 1 −pp 1 + ii+ xx⇒ Investors buy risky assets only
 
 - Both assets are exchanged if:
 
-1 + 𝑖𝑖= 1 −𝑝𝑝 1 + 𝑖𝑖+ 𝑥𝑥
+1 + ii= 1 −pp 1 + ii+ xx
 
 Given the arbitrage condition
 
-1 + 𝑖𝑖= 1 −𝑝𝑝 1 + 𝑖𝑖+ 𝑥𝑥
+1 + ii= 1 −pp 1 + ii+ xx
 
-We can solve  for the risk premium: 𝑥𝑥
+We can solve  for the risk premium: xx
 
-1 + 𝑖𝑖= 1 + 𝑖𝑖+ 𝑥𝑥−𝑝𝑝−𝑝𝑝𝑖𝑖−𝑝𝑝𝑥𝑥 𝑥𝑥−𝑝𝑝𝑥𝑥= 𝑝𝑝 1 + 𝑖𝑖 𝑥𝑥 1 −𝑝𝑝= 𝑝𝑝 1 + 𝑖𝑖
+1 + ii= 1 + ii+ xx−pp−ppii−ppxx xx−ppxx= pp 1 + ii xx 1 −pp= pp 1 + ii
 
-𝑝𝑝 𝑥𝑥= 1 −𝑝𝑝((1 + 𝑖𝑖))
+pp xx= 1 −pp((1 + ii))
 
-- If 𝑝𝑝↑⇒ higher default probability ⇒ 𝑥𝑥↑
+- If pp↑⇒ higher default probability ⇒ xx↑
 
-- If investors were risk averse, 𝑥𝑥 would be higher
+- If investors were risk averse, xx would be higher
 
 ## Related Notes
 - [[Trigari_05(Chapter 6)]]

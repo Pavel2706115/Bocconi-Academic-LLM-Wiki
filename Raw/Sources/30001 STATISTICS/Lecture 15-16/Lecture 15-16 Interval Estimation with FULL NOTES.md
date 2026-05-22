@@ -20,15 +20,15 @@ Processed: true
 
 - **Parameter: θ .** Measurable **population** characteristic (e.g. mean, **μ** )
 
-Based on 𝑛 random i.i.d. draws from 𝑿, 𝑿1, 𝑿2, … , 𝑿𝑛:
+Based on n random i.i.d. draws from X, X1, X2, … , Xn:
 
-- **Point Estimator:** 𝛉(෡) . **Statistic, ,** 𝛉(෡) = 𝑓 𝑿1, … , 𝑿𝑛 , used to **estimate θ** (e.g. 𝑿(ഥ) is an estimator of **μ** ).
+- **Point Estimator:** θ\hat{P} . **Statistic, ,** θ\hat{P} = f X1, … , Xn , used to **estimate θ** (e.g. \bar{X} is an estimator of **μ** ).
 
-- **Point Estimate:** 𝜗(መ) **. Realisation of** 𝛉(෡) in relation to  a sample 𝜗(መ) = 𝑓(𝒙1, … , 𝒙𝑛). = **Problem:** Prob ෡𝛉 **θ** is null if ෡𝛉 is a continuous r.v., or it is unknown ( **θ** is not known). **Solution:**
+- **Point Estimate:** θ\hat{\beta}_0 **. Realisation of** θ\hat{P} in relation to  a sample θ\hat{\beta}_0 = f(x1, … , xn). = **Problem:** Prob \hat{θ} **θ** is null if \hat{θ}_{i}s a continuous r.v., or it is unknown ( **θ** is not known). **Solution:**
 
-- **Confidence interval:** (𝛉(෡) 𝟏, 𝛉(෡) 𝟐). **Random interval** whose extremes are **two statistics** 𝛉(෡) 𝟏 = 𝑓1(𝑿1, … , 𝑿𝑛) and 𝛉(෡) 𝟐 = 𝑓2(𝑿1, … , 𝑿𝑛) , used to **estimate θ** , built in such a way that Prob ෡𝛉𝟏 ≤ 𝛉 ≤෡𝛉𝟐 = 1 −𝛂 with  0 ≤𝛂≤𝟏 chosen a priori. This interval is called a 𝟏𝟎𝟎 1 −𝛂% **confidence interval** and it is clearly random, as its extremes depend on the **random variables** 𝑿1, … , 𝑿𝑛.
+- **Confidence interval:** (θ\hat{P} 1, θ\hat{P} 2). **Random interval** whose extremes are **two statistics** θ\hat{P} 1 = f1(X1, … , Xn) and θ\hat{P} 2 = f2(X1, … , Xn) , used to **estimate θ** , built in such a way that Prob \hat{θ}_{1} ≤ θ ≤\hat{θ}_{2} = 1 −α with  0 ≤α≤1 chosen a priori. This interval is called a 100 1 −α% **confidence interval** and it is clearly random, as its extremes depend on the **random variables** X1, … , Xn.
 
-- **Interval estimate:** መ𝜗𝟏, መ𝜗𝟐 realisation of the interval given a specific sample 𝒙1, … , 𝒙𝑛: መ𝜗𝟏 = 𝑓1(𝒙1, … , 𝒙𝑛) and 𝜗(መ) 𝟐 = 𝑓2(𝒙1, … , 𝒙𝑛).
+- **Interval estimate:** \hat{θ}_{1}, \hat{θ}_{2} realisation of the interval given a specific sample x1, … , xn: \hat{θ}_{1} = f1(x1, … , xn) and θ\hat{\beta}_0 2 = f2(x1, … , xn).
 
 ## From point estimate to interval estimate
 
@@ -44,15 +44,15 @@ In many **cases,** and specifically in **all the cases that we will take into ac
 
 **(READING)**
 
-Consider the case where one wants to estimate the mean, **μ** , of a **population** 𝑿
+Consider the case where one wants to estimate the mean, **μ** , of a **population** X
 
 Population distribution ?
 
 **Parameter (unknown): μ**
 
-Distribution of the estimator, here the 𝑿. sample mean,(ഥ)
+Distribution of the estimator, here the X. sample mean,(\bar{X})
 
-Estimates obtained based on different samples (realisations of 𝑿(ഥ) ): typically different from the parameter, even when they are concentrated around it with high probability!
+Estimates obtained based on different samples (realisations of \bar{X} ): typically different from the parameter, even when they are concentrated around it with high probability!
 
 The estimated interval is built around the point estimate, taking into account the dispersion of the estimates around the parameter!
 
@@ -104,23 +104,23 @@ For a specific interval (calculated from one specific sample) **we cannot know w
 
 **Interval estimation Confidence intervals for the mean**
 
-## Confidence interval for:** 𝛔 **(2) known μ
+## Confidence interval for:** σ **(2) known μ
 
-We want to estimate the mean, **μ** , of a **population** 𝑿 having **known variance,** 𝛔(2) . Assume that
+We want to estimate the mean, **μ** , of a **population** X having **known variance,** σ(2) . Assume that
 
-- 𝑿 has **normal distribution**
+- X has **normal distribution**
 
-- **or** the sample  is large enough, so that the **central limit theorem can be** applied. 𝑿−ഥ 𝛍 In such cases 𝑿~𝓝(𝛍, 𝛔(ഥ)(𝟐) /𝒏) and consequently 𝒏(~𝓝(𝟎, 𝟏)() ) 𝛔/
+- **or** the sample  is large enough, so that the **central limit theorem can be** applied. X−\bar{μ}_{I}n such cases X~N(μ, \bar{σ}(2) /n) and consequently n(~N(0, 1)() ) σ/
 
 - We use the notation of the book indicating with _z_ - /2 the percentile of order (1 - - /2)
 
-## Confidence interval for:** 𝛔 **(2) known μ
+## Confidence interval for:** σ **(2) known μ
 
-**Interval estimation of the mean, μ , of a population** 𝑿 **with known variance,** 𝛔(𝟐) **.** Case where 𝑿 is normal or the sample is large enough (central limit theorem). Given any value of 𝛂 it is:
+**Interval estimation of the mean, μ , of a population** X **with known variance,** σ(2) **.** Case where X is normal or the sample is large enough (central limit theorem). Given any value of α it is:
 
 The interval **estimator** for - **μ** at the level (1 - )x100% is:
 
-𝛔 𝑿 𝒛 **The interval is obtained by subtracting and adding to**(ഥ) **the margin of error ME=** 𝛂/𝟐 𝒏(, ) given by the product between the **reliability factor** , 𝒛 (depending on the distribution of the 𝛂/𝟐 (standardised) estimator and on the confidence level), and the **standard error** of 𝑿(ഥ) .
+σ X z **The interval is obtained by subtracting and adding to**(\bar{X}) **the margin of error ME=** α/2 n(, ) given by the product between the **reliability factor** , z (depending on the distribution of the α/2 (standardised) estimator and on the confidence level), and the **standard error** of \bar{X} .
 
 ## Rstudio: CI.mean()
 
@@ -138,7 +138,7 @@ The function **CI.mean()** in package **UBStats** allows to determine the confid
 
 - **digits** is the number of decimals used to round off the reported statistics
 
-## Hands on: estimation of with** 𝛔 **(2) known μ
+## Hands on: estimation of with** σ **(2) known μ
 
 To assess the efficiency of a call centre, a survey is conducted on a random sample of **300** calls received in one week (dataframe **CallCenter.P** in **Lesson 14-16_Data.Rdata** ) for which, among other things, information on the duration (in seconds) of the conversation ( **TimeTalk** ) is collected. It is **assumed** that the conversation duration has a standard deviation = 150 sec. **Determine the 99% confidence interval for the average conversation duration.**
 
@@ -155,7 +155,7 @@ _
 
 _The function reports the number of available data, the sample mean, the standard deviation (in this case known), the standard error of the estimator (also obtained in the last lesson) and the lower and upper limits of the interval estimate_
 
-## Hands on: estimation of with** 𝛔 **(2) known μ
+## Hands on: estimation of with** σ **(2) known μ
 
 To assess the efficiency of a call centre, a survey is conducted on a random sample of **300** calls received in one week (dataframe **CallCenter.P** in **Lesson 14-16_Data.Rdata** ) for which, among other things, information on the duration (in seconds) of the conversation ( **TimeTalk** ) is collected. The conversation duration is **assumed to** have a standard deviation = 150 sec **.**
 
@@ -165,9 +165,9 @@ To assess the efficiency of a call centre, a survey is conducted on a random sam
 
 No, because the observed interval **is not random,** so it either contains **μ** or it does not. We can, however, say that 99% of the intervals built around the sample mean contain **μ** ; hence we can quantify the confidence level (or trust) associated with the interval as 99%, defined as the % of interval estimates that contain the parameter.
 
-## Hands on: estimation of μ with** 𝛔 **(2) known / CI width
+## Hands on: estimation of μ with** σ **(2) known / CI width
 
-**How to obtain a 99% confidence interval for the average conversation time with width 20?** The length of the confidence interval for the mean in the case of known variance is **2ME= 2** 𝒛 𝒏 𝛔/ 𝛂/𝟐
+**How to obtain a 99% confidence interval for the average conversation time with width 20?** The length of the confidence interval for the mean in the case of known variance is **2ME= 2** z n σ/ α/2
 
 Given the confidence level and the variance of the population, the only quantity on which one can act to reduce the width of the interval is the sample size. For the width of the interval to be 20, it is necessary that **ME=10** , i.e. that:
 
@@ -183,9 +183,9 @@ Given the confidence level and the variance of the population, the only quantity
 
 - **(1) 1492.852**
 
-## Confidence interval for μ:** 𝛔 **(2) known / CI width
+## Confidence interval for μ:** σ **(2) known / CI width
 
-**–** 𝛂 **Determination of the sample size needed to guarantee a CI at level 1 with a given margin of error, ME (or, equivalently, with a given width, 2ME).**
+**–** α **Determination of the sample size needed to guarantee a CI at level 1 with a given margin of error, ME (or, equivalently, with a given width, 2ME).**
 
 For the margin of error to be at **most ME (or, equivalently, for the interval width to be at most 2ME),** it is necessary to select a sample with size:
 
@@ -193,31 +193,31 @@ Clearly, the result should be rounded up to the next integer!
 
 This result holds even when the distribution is not normal, as **long as the resulting size is big enough to ensure the applicability of the central limit theorem (otherwise the distribution of the sample mean would not be normal)**
 
-## Confidence interval for** 𝛔 **(2) not known μ (pop. Normal):
+## Confidence interval for** σ **(2) not known μ (pop. Normal):
 
-**Interval estimation of the mean, μ , of a normally distributed population** 𝑿 **with variance** 𝛔(𝟐) **unknown**
+**Interval estimation of the mean, μ , of a normally distributed population** X **with variance** σ(2) **unknown**
 
 – The confidence interval for - **μ** at level (1 )x100% is:
 
-𝛔 𝑪𝑰 ഥ𝑿∓𝒛 𝟏−𝛂 𝛍= 𝛂/𝟐 𝒏
+σ CI \bar{X}∓z 1−α μ= α/2 n
 
 **Since the variance is unknown, the extremes of the interval are not known!!!**
 
-It would seem natural to **substitute to** 𝛔 **its estimate** , based on the sample variance , 𝑺= 𝑺(𝟐) However, **the distribution of** 𝑿(ഥ) when replacing 𝑺 to 𝛔 **is no longer normal (and therefore the percentile used,** 𝒛 **, is not appropriate here)** ! 𝛂/𝟐 The following result is valid, yet: if the population has a **normal** distribution **,** the statistic
+It would seem natural to **substitute to** σ **its estimate** , based on the sample variance , S= S(2) However, **the distribution of** \bar{X} when replacing S to σ **is no longer normal (and therefore the percentile used,** z **, is not appropriate here)** ! α/2 The following result is valid, yet: if the population has a **normal** distribution **,** the statistic
 
-– has a known distribution, specifically a _**Student’s t**_ distribution with (𝒏 1) **degrees of freedom, denoted by** _**t**_ 𝒏 – 1
+– has a known distribution, specifically a _**Student’s t**_ distribution with (n 1) **degrees of freedom, denoted by** _**t**_ n – 1
 
 ## Student’s** _**t**_ **distribution
 
-Replacing - **(2)** with the sample variance, 𝑺(𝟐) , increases the uncertainty that characterises 𝑿(ഥ) , since also 𝑺(𝟐) varies from sample to sample. The _**Student's t**_ distribution is bell-shaped and centred at **0,** and depends on a single parameter, 𝜈, called **degrees of freedom** , which influences its variability **As the degrees of freedom increase,** _**Student’s t**_ **converges to the standard normal**
+Replacing - **(2)** with the sample variance, S(2) , increases the uncertainty that characterises \bar{X} , since also S(2) varies from sample to sample. The _**Student's t**_ distribution is bell-shaped and centred at **0,** and depends on a single parameter, ν, called **degrees of freedom** , which influences its variability **As the degrees of freedom increase,** _**Student’s t**_ **converges to the standard normal**
 
-## Confidence interval for** 𝛔 **(2) not known μ (pop. Normal):
+## Confidence interval for** σ **(2) not known μ (pop. Normal):
 
-**Interval estimate for the mean, μ , of a normally distributed population with variance,** 𝛔(𝟐) **, unknown**
+**Interval estimate for the mean, μ , of a normally distributed population with variance,** σ(2) **, unknown**
 
 Following the same procedure as in the case where the variance is known and the distribution of the standardised sample mean is a standard normal, when the population distribution is – normal and the variance unknown, the confidence interval for **μ** at the (1 - )x100% level is:
 
-**The interval is obtained by subtracting and adding to the point estimator,** 𝑿(ഥ) **, the margin of** 𝒔 **error ME=** 𝒕 𝒏−𝟏,𝛂/𝟐 𝒏(, given by the product between the ) **(reliability factor)**(, )(𝒕)(𝒏−𝟏,𝛂/𝟐) **(–)**( which ) depends on the distribution of the estimator (standardised using the square root of the sample **–** variance) and on the confidence level and the **estimate of the standard error** of 𝑿(ഥ) .
+**The interval is obtained by subtracting and adding to the point estimator,** \bar{X} **, the margin of** s **error ME=** t n−1,α/2 n(, given by the product between the ) **(reliability factor)**(, )(t)(n−1,α/2) **(–)**( which ) depends on the distribution of the estimator (standardised using the square root of the sample **–** variance) and on the confidence level and the **estimate of the standard error** of \bar{X} .
 
 * We use the notation of the book indicating with the percentile of order (1 – - /2)
 
@@ -235,45 +235,45 @@ similar to the functions **pnorm()** and **qnorm()** calculating probabilities a
 
 - **df**: degrees of freedom
 
-- **q**: (numerical) value at which the cumulative probability has to be calculated. The function **pt()** calculates 𝐹 **`q`** = Prob(𝒕𝐝𝐟 ≤ **`q`** ) (i.e. the area below the density curve of the Student’s _**t**_ distribution up to **`q`** )
+- **q**: (numerical) value at which the cumulative probability has to be calculated. The function **pt()** calculates F **`q`** = Prob(tdf ≤ **`q`** ) (i.e. the area below the density curve of the Student’s _**t**_ distribution up to **`q`** )
 
-- **p:** order of the **percentile** . The **qt()** function calculates the value at which the cumulative probability is **p** , i.e. the value 𝑡 **df,1- p** such that 𝐹 𝑡 **`df,1−p`** = Prob 𝒕df ≤ 𝑡 **`df,1−p`** = **p** .
+- **p:** order of the **percentile** . The **qt()** function calculates the value at which the cumulative probability is **p** , i.e. the value t **df,1- p** such that F t **`df,1−p`** = Prob tdf ≤ t **`df,1−p`** = **p** .
 
-## Hands on: estimation of** 𝛔 **(2) not known μ (pop. Normal) with
+## Hands on: estimation of** σ **(2) not known μ (pop. Normal) with
 
-It is of interest to estimate the average number of customers who visit a shop on weekdays, in order to assess whether it would be worthwhile to hire staff permanently or to increase the number of staff members only at weekends. It is assumed that the number of customers on a weekday has a normal distribution. For a period with no special events, the number of customers on a random sample of weekdays in each week is monitored, for a total of 𝒏 **= 15** 2 observations. σ 𝑥𝑖=2755, σ 𝑥𝑖 = 585203 are observed. **95% confidence interval for the average number of customers during a weekday?**
+It is of interest to estimate the average number of customers who visit a shop on weekdays, in order to assess whether it would be worthwhile to hire staff permanently or to increase the number of staff members only at weekends. It is assumed that the number of customers on a weekday has a normal distribution. For a period with no special events, the number of customers on a random sample of weekdays in each week is monitored, for a total of n **= 15** 2 observations. σ xi=2755, σ xi = 585203 are observed. **95% confidence interval for the average number of customers during a weekday?**
 
 **> n <- 15**
 
-𝟏 ഥ 𝟐 𝟐 **> sum_x <- 2755** 𝒔(𝟐) = 𝒊 −𝒏𝒙 𝒏−𝟏 ෍𝒙 **> sum_x2 <- 585203 > xbar <- sum_x/n > s2_X <- (sum_x2-n*xbar^2)/(n-1) > t_14_alpha_2 <- qt(0.975,df=14)** ഥ 𝒔 𝒄𝒊 𝒙∓𝒕 **> ME <- t_14_alpha_2*sqrt(s2_X/n)** 𝟎.𝟗𝟓 𝛍= 𝟏𝟒,𝟎.𝟎𝟐𝟓 𝟏𝟓 **> c((xbar-ME),(xbar+ME)) (1) 142.0142 225.3191**
+1 \bar{X} 2 2 **> sum_x <- 2755** s(2) = i −nx n−1 \sumx **> sum_x2 <- 585203 > xbar <- sum_x/n > s2_X <- (sum_x2-n*xbar^2)/(n-1) > t_14_alpha_2 <- qt(0.975,df=14)** \bar{s}_{c}i x∓t **> ME <- t_14_alpha_2*sqrt(s2_X/n)** 0.95 μ= 14,0.025 15 **> c((xbar-ME),(xbar+ME)) (1) 142.0142 225.3191**
 
-## Hands on: estimated** 𝛔 **(2) not known μ (pop. Normal) with
+## Hands on: estimated** σ **(2) not known μ (pop. Normal) with
 
-It is of interest to estimate the average number of customers who visit a shop on weekdays, in order to assess whether it would be worthwhile to hire staff permanently or to increase the number of staff members only at weekends. It is assumed that the number of customers on a weekday has a normal distribution. For a period with no special events, the number of customers on a random sample of weekdays in each week is monitored, for a total of 𝒏 **= 15** 2 observations. σ 𝑥𝑖=2755, σ 𝑥𝑖 = 585203 are observed.
+It is of interest to estimate the average number of customers who visit a shop on weekdays, in order to assess whether it would be worthwhile to hire staff permanently or to increase the number of staff members only at weekends. It is assumed that the number of customers on a weekday has a normal distribution. For a period with no special events, the number of customers on a random sample of weekdays in each week is monitored, for a total of n **= 15** 2 observations. σ xi=2755, σ xi = 585203 are observed.
 
 **> c((xbar-ME),(xbar+ME)) (1) 142.0142 225.3191**
 
-𝒏 **? Is it possible to control the width of the confidence interval acting on** Both 𝑡 and 𝒔 and on 𝒏 _**.**_ depend on the **extracted sample** It is therefore not possible to 𝑛−1,α/2 guarantee that an interval will have a specific width, because that will depend on the sample that will be actually extracted and on the resulting variance estimate, which might differ from the actual one. An result can be obtained the same 𝒏 approximate using percentile (as increases, the percentile decreases) and the current estimate 𝒔, which may, however, differ greatly from that estimated from another sample of bigger size.
+n **? Is it possible to control the width of the confidence interval acting on** Both t and s and on n _**.**_ depend on the **extracted sample** It is therefore not possible to n−1,α/2 guarantee that an interval will have a specific width, because that will depend on the sample that will be actually extracted and on the resulting variance estimate, which might differ from the actual one. An result can be obtained the same n approximate using percentile (as increases, the percentile decreases) and the current estimate s, which may, however, differ greatly from that estimated from another sample of bigger size.
 
-## Confidence interval for** 𝛔 **(2) not known μ (non-normal pop.):
+## Confidence interval for** σ **(2) not known μ (non-normal pop.):
 
 **Suppose it is not possible to assume that the distribution is normal. Is it possible to obtain confidence intervals for μ in the case when the variance is unknown?**
 
-- If 𝒏 𝑿 is big enough, for the central limit theorem,(ഥ) has an approximately normal distribution.
+- If n X is big enough, for the central limit theorem,(\bar{X}) has an approximately normal distribution.
 
 - However, the interval
 
-𝒄𝒊 ഥ𝒙∓𝒛 𝒏 𝟏−𝛂 𝛍= 𝛂/𝟐𝛔/
+ci \bar{x}∓z n 1−α μ= α/2σ/
 
-cannot be used because its extremes depend on 𝛔, which is not known
+cannot be used because its extremes depend on σ, which is not known
 
-- However, the sample variance 𝑺(𝟐) is an unbiased estimator for 𝛔(𝟐) , and it can be shown that its variance decreases as 𝒏 increases; thus, when the sample is sufficiently large, variance estimates are concentrated around 𝛔(𝟐) .
+- However, the sample variance S(2) is an unbiased estimator for σ(2) , and it can be shown that its variance decreases as n increases; thus, when the sample is sufficiently large, variance estimates are concentrated around σ(2) .
 
-In the case of large samples, one can then substitute 𝒔 to 𝛔 to obtain the interval. 𝛔(𝟐) Statistical software usually build the interval as in the case of a normal population with unknown, thus using the percentile of the Student’s distribution, 𝑡 , which is higher than 𝑛−1,α/2 𝒛 , in order to take into account the greater uncertainty due to the substitution of 𝛔(𝟐) with its 𝛂/𝟐 𝒏 estimate (the two percentiles are however similar when is high):
+In the case of large samples, one can then substitute s to σ to obtain the interval. σ(2) Statistical software usually build the interval as in the case of a normal population with unknown, thus using the percentile of the Student’s distribution, t , which is higher than n−1,α/2 z , in order to take into account the greater uncertainty due to the substitution of σ(2) with its α/2 n estimate (the two percentiles are however similar when is high):
 
-𝒄𝒊 𝒙∓𝒕ഥ 𝒔 𝒏≅ 𝒙∓𝒛ഥ 𝒔 𝒏 𝟏−𝛂 𝛍= 𝒏−𝟏,𝛂/𝟐 / 𝛂/𝟐 /
+ci x∓t\bar{s}_{n}≅ x∓z\bar{s}_{n} 1−α μ= n−1,α/2 / α/2 /
 
-## Hands on: estimated** 𝛔 **(2) not known μ (pop. not Normal) with
+## Hands on: estimated** σ **(2) not known μ (pop. not Normal) with
 
 The dataframe **Insurance** (in **Lesson 14-16_Data.Rdata** ) contains information on reimbursements ( **refunds** , in dollars) for healthcare costs to (unrelated) subscribers with different socio-demographic characteristics, including the number of **children** . **What is the 95% confidence interval of the average repayment to childless subscribers?** Since no assumptions were made about the distribution of reimbursement in the population, the interval can only be determined if the sample size is sufficiently large
 
@@ -293,9 +293,9 @@ _The function reports number of data, sample mean, estimated standard deviation 
 
 ## Confidence interval for the proportion
 
-When one is interested in estimating the proportion, 𝒑, of cases with a certain characteristic in the population, the confidence interval can be built based on the sample proportion, 𝑷(෡) , i.e. the sample mean of Bernoullian r.v.’s indicating success or failure for the sample units. 𝒏 **When the sample size, , is sufficiently large** , by the central limit theorem:
+When one is interested in estimating the proportion, p, of cases with a certain characteristic in the population, the confidence interval can be built based on the sample proportion, P\hat{P} , i.e. the sample mean of Bernoullian r.v.’s indicating success or failure for the sample units. n **When the sample size, , is sufficiently large** , by the central limit theorem:
 
-The variance of 𝑷(෡) depends on 𝒑 but, as in the case of a non-normal population with unknown variance, one can estimate the variance by substituting 𝒑 with the sample proportion, getting:
+The variance of P\hat{P} depends on p but, as in the case of a non-normal population with unknown variance, one can estimate the variance by substituting p with the sample proportion, getting:
 
 . **Note that the percentile of the standardised normal distribution is used here**
 
@@ -325,7 +325,7 @@ Note that the function does not check whether the conditions needed to build the
 
 Consider the data on the calls to a call centre in the dataframe **CallCenter.P** (in **Lesson 1416_Data.Rdata** ) with particular reference to the reason for the contact ( **Topic** ) and to the duration in seconds of the conversation ( **TimeTalking** )
 
-**Estimate the proportion of telephone calls concerning the contract** ( **Topic="Contract related"** ), 𝒑 **, with a 90% confidence interval.**
+**Estimate the proportion of telephone calls concerning the contract** ( **Topic="Contract related"** ), p **, with a 90% confidence interval.**
 
 In order to determine the interval, the sample must be sufficiently large
 
@@ -339,7 +339,7 @@ _The function reports the sample size (sufficient to allow the application of th
 
 Consider the data on the calls to a call centre in the **CallCenter.P** dataframe (in **Lesson 1416_Data.Rdata** ) with particular reference to the reason for the contact ( **Topic** ) and to the duration in seconds of the conversation ( **TimeTalking** )
 
-**Estimate the proportion of telephone calls lasting more than 6 minutes** , 𝒑 **, with a 90% confidence interval.**
+**Estimate the proportion of telephone calls lasting more than 6 minutes** , p **, with a 90% confidence interval.**
 
 In order to determine the interval, the sample must be sufficiently large
 
@@ -359,27 +359,27 @@ In order to determine the interval, the sample must be sufficiently large
 
 We want to obtain an interval with semi-width ME=0.025.
 
-𝒑(ෝ **1** −ෝ𝒑) 𝒄𝒊 → **ME** = 𝒛 𝟏−𝛂 𝒑= ෝ𝒑∓𝒛𝛂/𝟐 𝛂/𝟐 ෝ𝒑(𝟏−ෝ𝒑)/𝒏 𝒏
+p(\hat{P} **1** −\hat{p}) ci → **ME** = z 1−α p= \hat{p}∓zα/2 α/2 \hat{p}(1−\hat{p})/n n
 
-given the confidence level, **ME** depends on 𝒏 **and also** on 𝒑ෝ, which **depends on the drawn sample** .
+given the confidence level, **ME** depends on n **and also** on \hat{p}, which **depends on the drawn sample** .
 
-Consider the function . 𝒑 𝟏−𝒑 We note that it reaches its maximum when =0.5. Thus: 𝒑 𝒛𝛂/𝟐 ෝ𝒑(𝟏−ෝ𝒑)/𝒏≤𝒛𝛂/𝟐 𝟎. 𝟓(𝟐) /𝒏 Adopting a **conservative** approach, we can determine 𝒏 by considering the **maximum value of the standard error**
+Consider the function . p 1−p We note that it reaches its maximum when =0.5. Thus: p zα/2 \hat{p}(1−\hat{p})/n≤zα/2 0. 5(2) /n Adopting a **conservative** approach, we can determine n by considering the **maximum value of the standard error**
 
-𝒑
+p
 
 ## Hands on: proportion estimation / CI amplitude
 
 # Is it possible to obtain a 90% confidence interval with width at most 0.05 for the proportion of phone calls lasting more than 6 minutes?
 
-We want to obtain an interval with semi-width ME=0.025; using a conservative approach we choose 𝒏 such that:
+We want to obtain an interval with semi-width ME=0.025; using a conservative approach we choose n such that:
 
 - **# sample width to obtain ci of width <=0.05**
 
-**> z_alpha_2 <- qnorm(0.95) > z_alpha_2** _A sample sized 1083 or more guarantees a 90% CI with a width_ **(1) 1.644854** _of 0.05,_ _**whatever the sample frequency of the extracted**_ 𝒏 _**sample is** (because we obtained based on the frequency to_ **> (z_alpha_2*0.5/0.025)^2** _which the maximum standard error corresponds)_ **(1) 1082.217**
+**> z_alpha_2 <- qnorm(0.95) > z_alpha_2** _A sample sized 1083 or more guarantees a 90% CI with a width_ **(1) 1.644854** _of 0.05,_ _**whatever the sample frequency of the extracted**_ n _**sample is** (because we obtained based on the frequency to_ **> (z_alpha_2*0.5/0.025)^2** _which the maximum standard error corresponds)_ **(1) 1082.217**
 
 ## Confidence interval for proportion/ CI width
 
-**–** 𝛂 **Determination of the sample size needed to guarantee a CI for the proportion at level  1 with a given margin of error, ME (or, equivalently, with a given width 2ME).** Using a conservative approach, for the margin of error to be at **most ME (or, equivalently for the width of the interval to be at most 2ME),** it is necessary to select a sample with size: 𝟐 𝒛 **0.5**(𝟐) 𝛂 𝟐 / 𝒏≥ **ME**(𝟐)
+**–** α **Determination of the sample size needed to guarantee a CI for the proportion at level  1 with a given margin of error, ME (or, equivalently, with a given width 2ME).** Using a conservative approach, for the margin of error to be at **most ME (or, equivalently for the width of the interval to be at most 2ME),** it is necessary to select a sample with size: 2 z **0.5**(2) α 2 / n≥ **ME**(2)
 
 Clearly the result should be rounded up to the next integer!
 
@@ -389,41 +389,41 @@ Clearly the result should be rounded up to the next integer!
 
 As already seen with reference to point estimation, in many applications we are interested in comparing the means of two populations
 
-**The parameter of interest is the difference between the means of the two populations,** 𝛍𝑿 −𝛍𝒀 In this case, the confidence interval will be built around the **unbiased** point estimator (𝑿−(ഥ) 𝒀(ഥ) ). The reliability factor and the standard error of the estimator depend on **the relationships between the samples and on the assumptions on the distributions of the populations.**
+**The parameter of interest is the difference between the means of the two populations,** μX −μY In this case, the confidence interval will be built around the **unbiased** point estimator (X−(\bar{X}) \bar{Y} ). The reliability factor and the standard error of the estimator depend on **the relationships between the samples and on the assumptions on the distributions of the populations.**
 
 ## CI for difference between means, independent samples
 
-In the case of **independent** samples, the sample means 𝑿(ഥ) and 𝒀(ഥ) are **independent** and thus **uncorrelated**: the **variance** of the estimator (𝑿−(ഥ) 𝒀)(ഥ) thus results:
+In the case of **independent** samples, the sample means \bar{X} and \bar{Y} are **independent** and thus **uncorrelated**: the **variance** of the estimator (X−(\bar{X}) Y)(\bar{X}) thus results:
 
-2 2 𝛔 𝛔 𝑋 𝑌 𝑉𝑎𝑟(𝑿−(ഥ) 𝒀(ഥ) ) = 𝑉𝑎𝑟(𝑿(ഥ) ) + 𝑉𝑎𝑟(𝒀(ഥ) ) = + 𝑛 𝑛 𝑋 𝑌
+2 2 σ σ X Y Var(X−(\bar{X}) \bar{Y} ) = Var(\bar{X} ) + Var(\bar{Y} ) = + n n X Y
 
-Moreover, since 𝑿(ഥ) and 𝒀(ഥ) **are independent, in the case when**
+Moreover, since \bar{X} and \bar{Y} **are independent, in the case when**
 
-- The two populations 𝑿 and 𝒀 have normal **distribution**
+- The two populations X and Y have normal **distribution**
 
 - **or** the samples are sufficiently large, so that the **central limit theorem** can be applied. one has that:
 
 Following the same procedure as for building the confidence interval for the mean:
 
-2 2 𝛔 𝛔 𝑋 𝑌 = 𝒄𝒊 𝑿−(ഥ) 𝟏−𝛂 𝛍𝑿 −𝛍𝒀 (ഥ𝒙−ഥ𝒚) ∓𝒛𝛂/𝟐 (ഥ𝒙−ഥ𝒚) ∓𝒛𝛂/𝟐∙𝑺𝑬((ഥ) 𝒀) 𝑛𝑋(+) 𝑛𝑌(=)
+2 2 σ σ X Y = ci X−(\bar{X}) 1−α μX −μY (\bar{x}−\bar{y}) ∓zα/2 (\bar{x}−\bar{y}) ∓zα/2∙SE((\bar{X}) Y) nX(+) nY(=)
 
 ## CI for the difference between means, independent samples
 
-**rare** . The case when both the variances are known is very 2 2 2 - If the **unknown** variances are assumed to be **equal** , 𝛔𝑋 = 𝛔𝑌 = 𝛔 , the common variance is estimated using the so-called **pooled corrected sample variance:**
+**rare** . The case when both the variances are known is very 2 2 2 - If the **unknown** variances are assumed to be **equal** , σX = σY = σ , the common variance is estimated using the so-called **pooled corrected sample variance:**
 
-- If the **unknown** variances are assumed to be **different** , the standard error of (𝑿−(ഥ) 𝒀(ഥ) ) is 2 2 estimated by replacing 𝛔𝑋 and 𝛔𝑌 with the sample variances obtained from the two 𝟐 𝟐 samples, 𝑺𝑋 and 𝑺𝑌 . The confidence intervals built (under appropriate assumptions) in the two cases have different margins of error, due both (obviously) to different standard error estimates and to different reliability factors (percentiles).
+- If the **unknown** variances are assumed to be **different** , the standard error of (X−(\bar{X}) \bar{Y} ) is 2 2 estimated by replacing σX and σY with the sample variances obtained from the two 2 2 samples, SX and SY . The confidence intervals built (under appropriate assumptions) in the two cases have different margins of error, due both (obviously) to different standard error estimates and to different reliability factors (percentiles).
 
 ## CI for difference between means, independent samples
 
-If 𝑿 and 𝒀 have **normal** distributions, and their variances are assumed to be **equal**:
+If X and Y have **normal** distributions, and their variances are assumed to be **equal**:
 
-− − 𝑿−𝒀(ഥ) ((ഥ) ) (𝛍𝑿 𝛍𝒀) has a Student's _**t**_ distribution with (𝒏𝑿 + 𝒏𝒀 −𝟐) degrees of freedom. 𝟐 𝟐 𝑺 𝑺 𝒑𝒐𝒐𝒍𝒆𝒅 𝒑𝒐𝒐𝒍𝒆𝒅 ~~+~~ 𝒏𝑿 𝒏𝒀
+− − X−\bar{Y} ((\bar{X}) ) (μX μY) has a Student's _**t**_ distribution with (nX + nY −2) degrees of freedom. 2 2 S S pooled pooled ~~+~~ nX nY
 
 Thus, using the usual procedure, the confidence interval (estimate) is:
 
 _It can also be used without assuming normality if the samples are sufficiently large (_ _**same considerations on normal vs. Student's t as for** interval for non-normal population with unknown variance)!_
 
-If 𝑿 and 𝒀 have **normal** distributions (or the samples **are** sufficiently large) with **different** variances, 𝟐 𝟐 the interval is built using the estimates 𝒔𝑋 and 𝒔𝑌 ; in this case, the reliability factor is still the percentile of a Student's _**t,**_ but with a different number of degrees of freedom (the interval in this case will only be obtained with R*)
+If X and Y have **normal** distributions (or the samples **are** sufficiently large) with **different** variances, 2 2 the interval is built using the estimates sX and sY ; in this case, the reliability factor is still the percentile of a Student's _**t,**_ but with a different number of degrees of freedom (the interval in this case will only be obtained with R*)
 
 * Refer to the textbook if you are interested to a more detailed discussion on the topic
 
@@ -548,17 +548,17 @@ _The interval built without assuming that the variances are known is wider. Howe
 
 ## CI for difference between means, paired samples
 
-In the case of **paired samples** of size 𝒏 , two measurements 𝑿𝑖 and 𝒀𝑖 are available for each sample unit; the differences 𝑫𝑖 = 𝑿𝑖 −𝒀𝑖 can therefore be considered as measurements on the r.v. 𝑫= 𝑿−𝒀 on 𝒏 sample units.
+In the case of **paired samples** of size n , two measurements Xi and Yi are available for each sample unit; the differences Di = Xi −Yi can therefore be considered as measurements on the r.v. D= X−Y on n sample units.
 
-In this case, the variance of the sample mean of the differences, 𝑫(ഥ) **=** 𝑿−(ഥ) 𝒀(ഥ) is: ഥ 2 𝑉𝑎𝑟 𝛔 𝑫= 𝑉𝑎𝑟(𝑫)/𝒏= 𝐷 /𝒏 2 2 = 𝑉𝑎𝑟 𝑿+ 𝑉𝑎𝑟 𝒀−2𝐶𝑜𝑣 𝛔 +𝛔 −2𝛔 𝑿−𝒀/𝒏= (𝑉𝑎𝑟 𝑿, 𝒀) /𝒏= ( 𝑋 𝑌 𝑋𝑌) /𝒏 𝑿 e 𝒀 are Assuming that **jointly normal** (or that the **sample size is sufficiently large** ), the statistic 𝑫(ഥ) has a **normal** distribution **and** the confidence interval for is 𝛍𝑿 −𝛍𝒀 = 𝒄𝒊 ഥ𝒅∓𝒛 ∙𝛔 𝒏= ഥ𝒅∓𝒛 𝟏−𝛂 𝛍𝑿 −𝛍𝒀 𝛂/𝟐 𝑫/ 𝛂/𝟐 ∙𝑺𝑬(ഥ𝑫) where 𝒅(ഥ) **=** ഥ𝒙−ഥ𝒚 is the sample mean of the realisations of the differences 𝒅1, … , 𝒅𝒏
+In this case, the variance of the sample mean of the differences, \bar{D} **=** X−(\bar{X}) \bar{Y} is: \bar{X} 2 Var σ D= Var(D)/n= D /n 2 2 = Var X+ Var Y−2Cov σ +σ −2σ X−Y/n= (Var X, Y) /n= ( X Y XY) /n X e Y are Assuming that **jointly normal** (or that the **sample size is sufficiently large** ), the statistic \bar{D} has a **normal** distribution **and** the confidence interval for is μX −μY = ci \bar{d}∓z ∙σ n= \bar{d}∓z 1−α μX −μY α/2 D/ α/2 ∙SE(\bar{D}) where \bar{d} **=** \bar{x}−\bar{y}_{i}s the sample mean of the realisations of the differences d1, … , dn
 
 ## CI for difference between means, paired samples
 
-The variance of the differences (and/or the variances of the two populations and their covariance) is seldom known, and the variance of 𝑫(ഥ) **=** 𝑿−(ഥ) 𝒀(ഥ) must be estimated - as we have seen when dealing with point estimation - with the **corrected sample variance:**
+The variance of the differences (and/or the variances of the two populations and their covariance) is seldom known, and the variance of \bar{D} **=** X−(\bar{X}) \bar{Y} must be estimated - as we have seen when dealing with point estimation - with the **corrected sample variance:**
 
-Since 𝑫(ഥ) is a sample mean, in the case of a **normal** distribution, the confidence interval for (𝛍𝑿 −𝛍𝒀) is obtained exactly as the interval for the mean of a normal population with unknown variance:
+Since \bar{D} is a sample mean, in the case of a **normal** distribution, the confidence interval for (μX −μY) is obtained exactly as the interval for the mean of a normal population with unknown variance:
 
-If the population is not normal, but the sample is large enough, so that the central linit theorem applies, it is possible to use the interval based on the percentile of the standard normal or on the percentile of the Student’s distribution, in order to account for the 2 𝛔 uncertainty associated with the estimate of 𝐷
+If the population is not normal, but the sample is large enough, so that the central linit theorem applies, it is possible to use the interval based on the percentile of the standard normal or on the percentile of the Student’s distribution, in order to account for the 2 σ uncertainty associated with the estimate of D
 
 ## Rstudio: CI.diffmean() for paired samples
 
@@ -586,7 +586,7 @@ _Remark: the function does not check whether the conditions necessary for determ
 
 A clinical study conducted on 44 patients with high (bad) cholesterol levels to evaluate the efficacy of a cholesterol-lowering drug reported the following results:
 
-Cholesterol level at the beginning of treatment: ҧ𝑥𝑖𝑛𝑖 = 155; 𝑠𝑖𝑛𝑖 19.9 Cholesterol level at 8 weeks: ҧ𝑥8𝑤 = 122; 𝑠8𝑤 = 24.5, 𝑠𝑖𝑛𝑖,8𝑤 = 23.4 **Estimate the average reduction in cholesterol level following treatment using a 90% confidence interval**
+Cholesterol level at the beginning of treatment: \bar{x}_{i}ni = 155; sini 19.9 Cholesterol level at 8 weeks: \bar{x}_{8}w = 122; s8w = 24.5, sini,8w = 23.4 **Estimate the average reduction in cholesterol level following treatment using a 90% confidence interval**
 
 The sample is not particularly large, although the distribution of the sample mean can be approximated by a normal one already for samples of size 30
 
@@ -618,15 +618,15 @@ As already seen with reference to point estimation, in many applications we are 
 
 **Population 2**
 
-𝑿1, … , 𝑿𝒏𝑿sample of size 𝒏𝑿 , iid 𝒀1, … , 𝒀𝒏𝒀  sample of  size 𝒏𝒀  iid 𝑿 distributed according to a Bernoulli of 𝒀 distributed according to a Bernoulli parameter  𝒑𝑿  (i.e. 𝑿 takes on a value of 1 parameter 𝒑𝒀 (i.e. 𝒀 takes on a value of 1 or 0 or 0 depending on whether a success is depending on whether a success is observed = observed or not, and 𝒑𝑿 proportion of or not, and 𝒑𝒀 = proportion of successes in the successes in the population), with population), with 𝐸 𝑿= 𝒑𝑿 and 𝑉𝑎𝑟 𝑿= 𝒑𝑿(𝟏− 𝒑𝑿) 𝐸 𝒀= 𝒑𝒀 and 𝑉𝑎𝑟 𝒀= 𝒑𝒀(𝟏− 𝒑𝒀) ෡𝑷𝑿 = (𝑿1+ … + 𝑿𝒏𝑿)/𝒏𝑿 **= sample** 𝑷෡𝒀 = (𝒀1+ … + 𝒀𝒏𝒀)/𝒏𝒀 = **sample proportion of successes proportion of successes**
+X1, … , XnXsample of size nX , iid Y1, … , YnY  sample of  size nY  iid X distributed according to a Bernoulli of Y distributed according to a Bernoulli parameter  pX  (i.e. X takes on a value of 1 parameter pY (i.e. Y takes on a value of 1 or 0 or 0 depending on whether a success is depending on whether a success is observed = observed or not, and pX proportion of or not, and pY = proportion of successes in the successes in the population), with population), with E X= pX and Var X= pX(1− pX) E Y= pY and Var Y= pY(1− pY) \hat{P}_{X} = (X1+ … + XnX)/nX **= sample** P\hat{Y} = (Y1+ … + YnY)/nY = **sample proportion of successes proportion of successes**
 
-**The parameter of interest is the difference between the proportions in the two populations,** 𝒑𝑿 −𝒑𝒀
+**The parameter of interest is the difference between the proportions in the two populations,** pX −pY
 
 ## Confidence interval for the difference between proportions
 
-The point estimator for the difference between the proportions in two populations is the −(෡) difference between the proportions in the two samples, 𝑷(෡) 𝑿 𝑷𝒀 In the case of **independent samples,** we have seen that:
+The point estimator for the difference between the proportions in two populations is the −\hat{P} difference between the proportions in the two samples, P\hat{P} X PY In the case of **independent samples,** we have seen that:
 
-−(෡) 𝑷 𝑷 is **never** _and_ 𝑉𝑎𝑟((෡) 𝑿 𝒀 ) known (it depends on 𝒑𝑿 𝒑𝒀 ), but it can be estimated by replacing 𝒑𝑿 and 𝒑𝒀 with the observed sample proportions.
+−\hat{P} P P is **never** _and_ Var(\hat{P} X Y ) known (it depends on pX pY ), but it can be estimated by replacing pX and pY with the observed sample proportions.
 
 **If the samples are large enough, by the central limit theorem we have:**
 

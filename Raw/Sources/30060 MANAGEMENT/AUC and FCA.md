@@ -44,9 +44,9 @@ Coherently with the definition, to quantify scale economies we compare AUC of th
 
 **Scale economies:**
 
-𝐴𝑈𝐶 −𝐴𝑈𝐶 𝐴 𝐵 (at the same production capacity)
+AUC −AUC A B (at the same production capacity)
 
-We compute the AUC of B at the same production capacity using the formula: 𝐹𝑖𝑥𝑒𝑑 𝑐𝑜𝑠𝑡𝑠 + 𝑉𝑎𝑟𝑖𝑎𝑏𝑙𝑒 𝑐𝑜𝑠𝑡 𝑝𝑒𝑟 𝑢𝑛𝑖𝑡 (𝐵) 𝑀𝑎𝑥𝑖𝑚𝑢𝑚 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦 𝑜𝑓 𝐵 × 𝐶𝑃𝐶 𝑜𝑓 𝐴
+We compute the AUC of B at the same production capacity using the formula: Fixed costs + Variable cost per unit (B) Maximum capacity of B × CPC of A
 *(See also: [[ACC_BEP#^mqwawu]])*
 
 **Point B**
@@ -55,7 +55,7 @@ In the same way, to quantify economies of FCA, we need to compare the AUC at dif
 
 **Economies of fixed cost absorption**
 
-𝐴𝑈𝐶𝐵 𝑎𝑡 𝑥% −𝐴𝑈𝐶𝐵 𝑎𝑡 𝑦%
+AUCB at x% −AUCB at y%
 
 ## Related Notes
 - [[ACC_BEP]]

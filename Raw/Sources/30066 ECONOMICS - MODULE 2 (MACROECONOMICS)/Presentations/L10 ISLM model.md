@@ -107,19 +107,19 @@ Aggregate money supply must be equal to aggregate money demand
 
 **Nominal** money demand
 
-**Nominal** _Equilibrium in_ 𝑀𝑀(𝐷𝐷) = 𝑀𝑀(𝑆𝑆) money supply _nominal terms_
+**Nominal** _Equilibrium in_ MM(DD) = MM(SS) money supply _nominal terms_
 
-€ 𝑌𝑌𝐿𝐿 𝑖𝑖= 𝑀𝑀
+€ YYLL ii= MM
 
-## 𝑃𝑃𝑌𝑌𝐿𝐿 𝑖𝑖= 𝑀𝑀
+## PPYYLL ii= MM
 
-**Real** money 𝑌𝑌𝐿𝐿 𝑖𝑖= 𝑀𝑀 **Real** money _Equilibrium in real_ demand: D for 𝑃𝑃 supply _terms_ money in terms of goods that can be bought
+**Real** money YYLL ii= MM **Real** money _Equilibrium in real_ demand: D for PP supply _terms_ money in terms of goods that can be bought
 
 ## LM relation:
 
-Pairs of 𝑌𝑌 and 𝑖𝑖 such that financial markets are in equilibrium
+Pairs of YY and ii such that financial markets are in equilibrium
 
-⇒ interest rate 𝑖𝑖 that keeps the money market in equilibrium for any value of 𝑌𝑌
+⇒ interest rate ii that keeps the money market in equilibrium for any value of YY
 
 What happens in the M market if Y changes?
 
@@ -133,29 +133,29 @@ Suppose that Y ↑ => more transactions => M(d) ↑  => ED => agents sell bonds 
 
 ## LM – STANDARD CASE
 
-BC sets 𝑖𝑖 and adjusts 𝑀𝑀(𝑠𝑠) => 𝑖𝑖 is exogenously chosen and money supply is endogenous wrt the money demand
+BC sets ii and adjusts MM(ss) => ii is exogenously chosen and money supply is endogenous wrt the money demand
 
 What shape will the LM curve have?
 
-## LM STANDARD CASE ( 𝑖𝑖 exogenous): graphical construction
+## LM STANDARD CASE ( ii exogenous): graphical construction
 
 ## LM: STANDARD CASE
 
-What happens on the money market when Y changes and the CB has an interest rate target? 𝑌𝑌↑⇒𝑀𝑀(𝑑𝑑) ↑⇒ upward pressures on i in the money market To keep i constant at ̅𝚤𝚤 , the CB has to ↑𝑀𝑀(𝑆𝑆)
+What happens on the money market when Y changes and the CB has an interest rate target? YY↑⇒MM(dd) ↑⇒ upward pressures on i in the money market To keep i constant at ̅ıı , the CB has to ↑MM(SS)
 
 ## MONETARY POLICY EFFECT ON LM
 
 Changing the liquidity level in the economy changes the interest rate that ensures equilibrium in the money market =>  the LM curve shifts
 
-𝑖𝑖 Contractionary MP: CB reduces liquidity by selling bonds ⇒€𝑃𝑃𝑡𝑡 ↓⇒ 𝑖𝑖↑ �𝑖𝑖′′ Increase in the policy target interest rate ⇒ the LM shifts up ̅𝚤𝚤 _LM_ ̅𝚤𝚤’ Expansionary MP: CB injects liquidity by buying bonds ⇒€𝑃𝑃𝑡𝑡𝑡𝑡 ↑⇒𝑖𝑖↓ 𝑌𝑌0 𝑌𝑌 Decrease in the policy target interest
+ii Contractionary MP: CB reduces liquidity by selling bonds ⇒€PPtt ↓⇒ ii↑ �ii′′ Increase in the policy target interest rate ⇒ the LM shifts up ̅ıı _LM_ ̅ıı’ Expansionary MP: CB injects liquidity by buying bonds ⇒€PPtttt ↑⇒ii↓ YY0 YY Decrease in the policy target interest
 
-Expansionary MP: CB injects liquidity by buying bonds ⇒€𝑃𝑃𝑡𝑡𝑡𝑡 ↑⇒𝑖𝑖↓ Decrease in the policy target interest rate ⇒ the LM shifts down
+Expansionary MP: CB injects liquidity by buying bonds ⇒€PPtttt ↑⇒ii↓ Decrease in the policy target interest rate ⇒ the LM shifts down
 
 If the CB has a target in terms of monetary stock, the LM curve a) is downward sloping. **b) is upward sloping.** c) does not depend on the interest rate. d) has a slope lower than 1
 
 **What happens on the money market when income changes and the CB sets M?**
 
-𝑌𝑌↑⇒𝑀𝑀(𝐷𝐷) ↑⇒ excess money demand => agents sell bonds, their price decreases and the interest rate increases since the CB does not intervene in the money market and simply keeps  => 𝑖𝑖↑
+YY↑⇒MM(DD) ↑⇒ excess money demand => agents sell bonds, their price decreases and the interest rate increases since the CB does not intervene in the money market and simply keeps  => ii↑
 
 ## THE IS CURVE EQUILIBRIUM IN THE GOODS MARKET
 
@@ -165,29 +165,29 @@ Aggregate supply must be equal to aggregate demand of goods and services or inve
 
 - 1 good
 
-- fixed 𝑃𝑃
+- fixed PP
 
 - Closed economy
 
-- 𝐶𝐶= 𝐶𝐶 𝑌𝑌−𝑇𝑇
+- CC= CC YY−TT
 
-- 𝐺𝐺& 𝑇𝑇: exogenous
+- GG& TT: exogenous
 
-- 𝐼𝐼 endogenous: 𝐼𝐼= 𝐼𝐼 𝑌𝑌, 𝑖𝑖 Remember I is firms’ investment in physical capital in new machines and plants **-** +
+- II endogenous: II= II YY, ii Remember I is firms’ investment in physical capital in new machines and plants **-** +
 
 If Y↑, more income in the economy and more demand, firms sale more, higher incentive to invest in new machines and plants => ↑ I
 
 If i↑, less attractive to borrow money to buy new machines ⇒ firms without own capital tend to invest less => ↓ I
 
-𝑖𝑖 is the **cost of borrowing:** it affects private decisions about spending
+ii is the **cost of borrowing:** it affects private decisions about spending
 
-Underlying assumptions: - Same 𝑖𝑖 we considered for bonds - No borrowing constraints
+Underlying assumptions: - Same ii we considered for bonds - No borrowing constraints
 
 Aggregate demand Z (i ) = C(Y - T)+I  ( Y,  i) + G
 
 The goods market is in equilibrium, when, at the prevailing interest rate ( i0 ), aggregate supply is equal to aggregate demand
 
-𝑌𝑌= 𝑍𝑍(i0) ZZ properties:
+YY= ZZ(i0) ZZ properties:
 
 - 1) Positive slope but lower that 1: If Y ↑ =>  ↑C and ↑I, but part of the additional income is saved
 
@@ -195,9 +195,9 @@ The goods market is in equilibrium, when, at the prevailing interest rate ( i0 )
 
 ## IS CURVE: graphical construction
 
-Given the interest rate 𝑖𝑖0 ,  equilibrium income on the goods market is 𝑌𝑌0
+Given the interest rate ii0 ,  equilibrium income on the goods market is YY0
 
-Combination 0 belong to the 𝐼 curve
+Combination 0 belong to the I curve
 
 _What happens to the goods market equilibrium if the interest rate change? The equilibrium changes_
 
@@ -207,23 +207,23 @@ _What happens to the goods market equilibrium if the interest rate change? The e
 
 Assume i ↓: i1 < i0
 
-If 𝑖𝑖↓⇒𝐼𝐼↑⇒𝑍𝑍↑⇒ in the goods market there is an excess demand, and in order to restore the equilibrium, firms produce more The economy moves from 0 to 1
+If ii↓⇒II↑⇒ZZ↑⇒ in the goods market there is an excess demand, and in order to restore the equilibrium, firms produce more The economy moves from 0 to 1
 
 Assume i ↑: i2 > i0
 
-If 𝑖𝑖 increases, firms invest less since is more costly. The aggregate demand decreases and in the goods market there is an excess supply: firms will produce less. The economy moves from 0 to 2
+If ii increases, firms invest less since is more costly. The aggregate demand decreases and in the goods market there is an excess supply: firms will produce less. The economy moves from 0 to 2
 
 …repeating for any possible value of i we find infinite points that belong to the IS CURVE
 
 All the pairs (Y,i) where the goods market is in equilibrium
 
-If 𝑖𝑖 changes, we move ALONG t he 𝐼
+If ii changes, we move ALONG t he I
 
 ## IS POSITION
 
 depends on exogenous variables influencing the output level in the goods market, given _i_
 
-IS to the right with positive demand shocks that IS to the left with ↑Z , given i. negative demand shocks Excess demand in the goods market => to reducing the aggregate 𝑐𝑐0 ↑, 𝐼𝐼↑, 𝐺𝐺↑, 𝑇𝑇↓ restore the equilibrium Y must increase, through demand, at a given the multiplier interest rate 2 0 1 = 𝑖𝑖0 𝐼 𝐼 1 Z ↓ 0 𝑌𝑌 𝑌𝑌2 𝑌𝑌0 𝑌𝑌1
+IS to the right with positive demand shocks that IS to the left with ↑Z , given i. negative demand shocks Excess demand in the goods market => to reducing the aggregate cc0 ↑, II↑, GG↑, TT↓ restore the equilibrium Y must increase, through demand, at a given the multiplier interest rate 2 0 1 = ii0 I I 1 Z ↓ 0 YY YY2 YY0 YY1
 
 ## TRUE OR FALSE:
 
@@ -233,9 +233,9 @@ False!
 
 ## IS VERTICAL
 
-i 𝐼
+i I
 
-No effect of _i_ on _Y:_ if 𝑖𝑖↓⇒𝑍𝑍 does not change since no component of the demanda is affected ⇒ 𝑌𝑌 stays constant 𝑌𝑌
+No effect of _i_ on _Y:_ if ii↓⇒ZZ does not change since no component of the demanda is affected ⇒ YY stays constant YY
 
 = IS rigid if No component of Z depends on _i_
 
@@ -249,9 +249,9 @@ False!
 
 i
 
-Italy: steeper 𝐼 UK: flatter 𝐼
+Italy: steeper I UK: flatter I
 
-Given the same reduction in 𝑖𝑖, in UK Z varies more
+Given the same reduction in ii, in UK Z varies more
 
 ⇒ the equilibrium level of _Y_ varies
 
@@ -279,17 +279,17 @@ IS flatter if
 
 - Basic case: negative slope since there is a trade off btw i and Y through some components of the demand (in the basic case only investment)
 
-– If 𝑖𝑖↓⇒𝐼𝐼↑⇒𝑍𝑍↑⇒𝑌𝑌↑
+– If ii↓⇒II↑⇒ZZ↑⇒YY↑
 
 i In A and B the goods market is in equilibrium A When I decreases, the economy moves in A’ where there is an excess demand and the market is not in equilibrium => in order to restore the B equilibrium Y has to increase up to point B A ′
 
-𝑌𝑌
+YY
 
 …but the slope will depend on the assumptions we make!
 
 ## SUMMING UP
 
-- 𝐿𝐿𝑀𝑀: interest rate that keeps financial markets in equilibrium for any value of 𝑌𝑌
+- LLMM: interest rate that keeps financial markets in equilibrium for any value of YY
 
 - Derivation
 
@@ -297,7 +297,7 @@ i In A and B the goods market is in equilibrium A When I decreases, the economy 
 
 - Standard case vs. alternative case
 
-- 𝐼: income that keeps goods market in equilibrium for any value of the interest rate
+- I: income that keeps goods market in equilibrium for any value of the interest rate
 
 - – Endogenous investment
 
@@ -309,9 +309,9 @@ i In A and B the goods market is in equilibrium A When I decreases, the economy 
 
 # **SHORT RUN MACROECONOMIC EQUILIBRIUM:** All markets are in equilibrium
 
-## 𝐼 STRANDARD CASE −𝐿𝐿𝑀𝑀:
+## I STRANDARD CASE −LLMM:
 
-𝐿𝐿𝑀𝑀: 𝑖𝑖= ̅𝚤𝚤 𝐼: 𝑌𝑌= 𝐶𝐶 𝑌𝑌−𝑇𝑇+ 𝐼𝐼 𝑌𝑌, 𝑖𝑖+ 𝐺𝐺
+LLMM: ii= ̅ıı I: YY= CC YY−TT+ II YY, ii+ GG
 
 ## SHORT RUN ECONOMIC FLUCTUATIONS
 
@@ -325,7 +325,7 @@ i In A and B the goods market is in equilibrium A When I decreases, the economy 
 
 ## A FISCAL POLICY SHOCK
 
-Expansionary: 𝐺𝐺↑; 𝑇𝑇↓ Contractionary: 𝐺𝐺↓; 𝑇𝑇↑
+Expansionary: GG↑; TT↓ Contractionary: GG↓; TT↑
 
 Change in the behavior of the public sector. What happens to the macro equilibrium? What are the effects on the demand and on saving?
 
@@ -335,7 +335,7 @@ Why during recessions expansionary FP are implemented?
 
 Use the IS-LM model to explain what we could expect to be the effect on the macro equilibrium?
 
-## Assume the **government** increases public expenditure: 𝑮𝑮↑
+## Assume the **government** increases public expenditure: GG↑
 
 ## Graphically:
 
@@ -345,21 +345,21 @@ Use the IS-LM model to explain what we could expect to be the effect on the macr
 
 Equilibrium moves from 0 to 1
 
-𝑌𝑌↑ ̅𝚤𝚤=
+YY↑ ̅ıı=
 
 ## Economic intuition
 
 Effect on the real market:
 
-- 𝐺𝐺↑⇒𝑍𝑍↑⇒𝑌𝑌↑⇒𝐶𝐶& 𝐼𝐼↑⇒𝑍𝑍↑⇒⋯⇒𝑌𝑌↑↑:
+- GG↑⇒ZZ↑⇒YY↑⇒CC& II↑⇒ZZ↑⇒⋯⇒YY↑↑:
 
 the increase in G raises demand and production increases more than proportionally thanks to the goods market multiplier. Indeed, as income increases, consumption & investment go up too, generating a further increase in the demand and in income
 
 ## Effect on the financial market:
 
-𝑌𝑌↑⇒𝑀𝑀(𝐷𝐷) ↑⇒𝑀𝑀(𝑆𝑆) ↑⇒𝑖𝑖=:
+YY↑⇒MM(DD) ↑⇒MM(SS) ↑⇒ii=:
 
-more money needed for transactions ⇒ upward pressure on _i_ since individuals sell bonds ⇒€𝑃𝑃𝐵𝐵 ↓⇒𝑖𝑖↑ ⇒ the CB to keep the interest rate constant increases the monetary base to equate the money supply to the higher money demand ⇒ CB buys bonds €𝑃𝑃𝐵𝐵 ↑⇒𝑖𝑖↓
+more money needed for transactions ⇒ upward pressure on _i_ since individuals sell bonds ⇒€PPBB ↓⇒ii↑ ⇒ the CB to keep the interest rate constant increases the monetary base to equate the money supply to the higher money demand ⇒ CB buys bonds €PPBB ↑⇒ii↓
 
 ⇒ the interest rate does not change
 
@@ -373,9 +373,9 @@ At point 1 compared to point 0
 
 - The composition of the demand will be different:
 
-- Consumption Increases as 𝑌𝑌↑ and T does not change
+- Consumption Increases as YY↑ and T does not change
 
-- Investment Increases as 𝑌𝑌↑ and i does not change
+- Investment Increases as YY↑ and i does not change
 
 - Government expenditure Increases by assumption
 
@@ -385,37 +385,37 @@ What happens to national saving?
 
 -:
 
-- Private saving, 𝐼𝐼
+- Private saving, II
 
-- Increases as 𝑌𝑌↑ and T does not change
+- Increases as YY↑ and T does not change
 
 - =:
 
-- Public saving, 𝐼𝐼(𝐺𝐺) 𝑇𝑇−𝐺𝐺
+- Public saving, II(GG) TT−GG
 
-- Decreases, as 𝐺𝐺↑ and deficit increases
+- Decreases, as GG↑ and deficit increases
 
 What is the net impact of the two changes?
 
-We know that I ↑ and I = S+ 𝐼𝐼(𝐺𝐺) ⇒
+We know that I ↑ and I = S+ II(GG) ⇒
 
-∆𝐼𝐼> |𝐼𝐼(𝐺𝐺) |
+∆II> |II(GG) |
 
 The increase in private saving more than compensate the reduction in public saving ⇒ national saving increases
 
 ## REAL MONEY DEMAND
 
-𝑀𝑀 𝑌𝑌, 𝑖𝑖 𝑃𝑃(= 𝐿𝐿)
+MM YY, ii PP(= LL)
 
 What happens to real money demand?
 
-– Increases as 𝑌𝑌↑ and i does not change
+– Increases as YY↑ and i does not change
 
-– It increases by the same amount of the money supply 𝑀𝑀(𝑠𝑠) ∆𝐻𝐻 >0 ∆ 𝑃𝑃(= 𝑚𝑚)(𝑀𝑀)(∆𝐻𝐻)
+– It increases by the same amount of the money supply MM(ss) ∆HH >0 ∆ PP(= mm)(MM)(∆HH)
 
 ## FISCAL POLICY CONCLUSION
 
-- A fiscal policy or any shock affecting the equilibrium on the **goods market** shift the 𝑰 (left or right!)
+- A fiscal policy or any shock affecting the equilibrium on the **goods market** shift the I (left or right!)
 
 - To keep the interest rate fixed, an open market operation by the Central Bank is needed
 
@@ -429,13 +429,13 @@ What happens to real money demand?
 
 _Fiscal policy multiplier: by how much Y changes if autonomous spending changes by a given amount_
 
-- Larger impact of Δ𝐴𝐴 if the multiplier of the goods market is higher
+- Larger impact of ΔAA if the multiplier of the goods market is higher
 
 - If C and I are more sensitive to Y: indirect effect of the demand on equilibrium income for the goods market is higher
 
 ## A MONETARY POLICY SHOCK
 
-Expansionary: 𝑖𝑖↓ Contractionary: 𝑖𝑖↑
+Expansionary: ii↓ Contractionary: ii↑
 
 Change in the behavior of the CB. What happens to the macro equilibrium? What are the effects on the demand and on saving?
 
@@ -443,7 +443,7 @@ During the  crisis, CB cuts the interest rate. Why during recessions expansionar
 
 Use the IS-LM model to explain what we could expect to be the effect on the macro equilibrium?
 
-## Assume the **Central Bank** implements an expansionary monetary policy: ̅𝚤𝚤↓
+## Assume the **Central Bank** implements an expansionary monetary policy: ̅ıı↓
 
 ## Graphically:
 
@@ -453,13 +453,13 @@ Use the IS-LM model to explain what we could expect to be the effect on the macr
 
 Equilibrium moves from 0 to 1
 
-𝑌𝑌↑ ̅𝚤𝚤=
+YY↑ ̅ıı=
 
 ## Economic intuition
 
 - Effect on the financial market:
 
-- H ↑⇒€𝑃𝑃𝐵𝐵 ↑⇒𝑖𝑖↓:
+- H ↑⇒€PPBB ↑⇒ii↓:
 
 - Expansionary OMO
 
@@ -467,7 +467,7 @@ Equilibrium moves from 0 to 1
 
 - Effect on the real market:
 
-- 𝑖𝑖↓⇒𝐼𝐼↑⇒𝑍𝑍↑⇒𝑌𝑌↑⇒𝐶𝐶& 𝐼𝐼↑⇒𝑍𝑍↑⇒⋯⇒𝑌𝑌↑↑:
+- ii↓⇒II↑⇒ZZ↑⇒YY↑⇒CC& II↑⇒ZZ↑⇒⋯⇒YY↑↑:
 
 - The interest rate decline reduces the cost of borrowing and firms invest more. This increases the demand and then production.
 
@@ -481,7 +481,7 @@ How does the composition of the aggregate demand change in the new equilibrium? 
 
 - The composition of the demand will be different:
 
-– Consumption: Increases as 𝑌𝑌↑ and T does not change – Investment: Increases as 𝑌𝑌↑ & 𝑖𝑖↓ – Government expenditure Constant by assumption
+– Consumption: Increases as YY↑ and T does not change – Investment: Increases as YY↑ & ii↓ – Government expenditure Constant by assumption
 
 ## NATIONAL SAVING
 
@@ -489,39 +489,39 @@ What happens to national saving?
 
 -:
 
-- Private saving, 𝐼𝐼
+- Private saving, II
 
-- Increases as 𝑌𝑌↑ and T does not change
+- Increases as YY↑ and T does not change
 
 - =:
 
-- Public saving, 𝐼𝐼(𝐺𝐺) 𝑇𝑇−𝐺𝐺
+- Public saving, II(GG) TT−GG
 
 - Constant as well as public deficit
 
 What is the net impact of the two changes?
 
-We know that I ↑ and I = S+ 𝐼𝐼(𝐺𝐺) ⇒
+We know that I ↑ and I = S+ II(GG) ⇒
 
-∆𝐼𝐼= |∆𝐼𝐼|
+∆II= |∆II|
 
 The increase in private saving is exactly equal to the increase in investment ⇒ national saving increases
 
 ## REAL MONEY DEMAND
 
-𝑀𝑀 𝑌𝑌, 𝑖𝑖 𝑃𝑃(= 𝐿𝐿)
+MM YY, ii PP(= LL)
 
 What happens to real money demand?
 
-- Increases as 𝑌𝑌↑ and i decreases (more need of liquidity for transactions and bonds are less attractive for investors)
+- Increases as YY↑ and i decreases (more need of liquidity for transactions and bonds are less attractive for investors)
 
 – It increases by the same amount of the money supply for the OMO
 
-Note that 𝑀𝑀(𝑆𝑆) ↑ more than the amount required to decrease 𝑖𝑖 given 𝑌𝑌 In fact, as 𝑌𝑌↑⇒𝑀𝑀(𝐷𝐷) ↑
+Note that MM(SS) ↑ more than the amount required to decrease ii given YY In fact, as YY↑⇒MM(DD) ↑
 
 ## MONETARY POLICY: CONCLUSION
 
-- A **monetary policy shifts the** 𝑳 (up or down!)
+- A **monetary policy shifts the** L (up or down!)
 
 - An expansionary monetary policy reduces the interest rate and boosts GDP
 
@@ -531,25 +531,25 @@ Note that 𝑀𝑀(𝑆𝑆) ↑ more than the amount required to decrease 𝑖�
 
 Imagine that our economy is facing a very severe recession
 
-The economy is in equilibrium at a low level of GDP, 𝑌𝑌0 . The government and the CB can help the economy to recover by implementing a **coordinated policy intervention** to boost the economy:
+The economy is in equilibrium at a low level of GDP, YY0 . The government and the CB can help the economy to recover by implementing a **coordinated policy intervention** to boost the economy:
 
-Policy Mix: - An expansionary FP: 𝐺𝐺↑ - An expansionary MP: ̅𝚤𝚤↓
+Policy Mix: - An expansionary FP: GG↑ - An expansionary MP: ̅ıı↓
 
-Government: ↑𝐺𝐺
+Government: ↑GG
 
-The expansionary fiscal policy shifts the 𝐼 to the RIGHT
+The expansionary fiscal policy shifts the I to the RIGHT
 
-1 0 𝐿𝐿𝑀𝑀 ̅𝚤𝚤 ̅𝚤𝚤 2 𝐿𝐿𝑀𝑀2 𝐼 1 𝐼 𝑌𝑌 𝑌𝑌0 𝑌𝑌1 𝑌𝑌2
+1 0 LLMM ̅ıı ̅ıı 2 LLMM2 I 1 I YY YY0 YY1 YY2
 
 Equilibrium moves from 0 to 1
 
-𝒀𝒀↑ ̅𝒊𝒊=
+YY↑ ̅ii=
 
-## CB: ↓𝑖𝑖
+## CB: ↓ii
 
 The expansionary monetary shifts the LM DOWN Equilibrium moves from 1 to 2
 
-𝒀𝒀↑↑ ̅𝒊𝒊↓
+YY↑↑ ̅ii↓
 
 The combined use of fiscal and monetary policy can push GDP at a higher level
 
@@ -563,27 +563,27 @@ i
 
 Small space to implement MP. At most i can be zero.
 
-0 1 ̅𝚤𝚤0
+0 1 ̅ıı0
 
-𝑌𝑌0 𝑌𝑌1
+YY0 YY1
 
-𝐿𝐿𝑀𝑀1 𝑌𝑌
+LLMM1 YY
 
-By reducing ̅𝚤𝚤 to zero, the increase in GDP is limited
+By reducing ̅ıı to zero, the increase in GDP is limited
 
-𝐼
+I
 
 Unconventional monetary policies?
 
 i
 
-̅𝚤𝚤0
+̅ıı0
 
-0 1 𝐿𝐿𝑀𝑀 ~~2~~ 𝑌𝑌0 𝐿𝐿𝑀𝑀1 𝑌𝑌 𝑌𝑌2 𝑌𝑌1
+0 1 LLMM ~~2~~ YY0 LLMM1 YY YY2 YY1
 
 After point 1 only one policy tool, **fiscal policy** , can then be used to increase GDP!
 
-𝐼 𝐼 2
+I I 2
 
 - … but in some case is not possible:
 
@@ -619,9 +619,9 @@ Then, why did economies suffer prolonged crises? Both FP and MP face constraints
 
 - Zero-lower bound
 
-- 𝑖𝑖≥0
+- ii≥0
 
-- What if 𝑖𝑖 is already very low?
+- What if ii is already very low?
 
 ## QUICK CHECK
 

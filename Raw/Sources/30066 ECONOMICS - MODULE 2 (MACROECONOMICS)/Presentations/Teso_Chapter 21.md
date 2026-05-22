@@ -50,9 +50,9 @@ How do we write the _IS_ relation in an open economy with fixed exchange rates?
 
 - Remember that the real exchange rate is:
 
-- And remember that with fixed exchange rates: 𝐸= 𝐸
+- And remember that with fixed exchange rates: E= E
 
-- With perfect capital mobility, interest parity implies that: 𝑖 = 𝑖 *
+- With perfect capital mobility, interest parity implies that: i = i *
 
 ## The Medium Run
 

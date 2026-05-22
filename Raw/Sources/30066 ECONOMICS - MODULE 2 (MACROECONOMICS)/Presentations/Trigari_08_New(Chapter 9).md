@@ -62,13 +62,13 @@ Processed: true
 
 - Interest rate: _r_
 
-- Inflation: 𝜋
+- Inflation: π
 
 - Policy variables, in red:
 
 - Fiscal policy: _T_ , _G_
 
-- Monetary policy: ҧ𝑟
+- Monetary policy: \bar{r}
 
 - The other exogenous variables or parameters, in blue:
 
@@ -76,11 +76,11 @@ Processed: true
 
 - The risk premium: _x_
 
-- The natural level of output: 𝑌𝑛 (in turn function of m and z)
+- The natural level of output: Yn (in turn function of m and z)
 
-- The expected inflation rate: 𝜋(𝑒)
+- The expected inflation rate: π(e)
 
-- The parameter of the PC: 𝛼
+- The parameter of the PC: α
 
 ## Derivation of the output gap
 
@@ -120,11 +120,11 @@ When output is at potential the economy is at the “natural” equilibrium and 
 
 ## The IS-LM-PC model
 
-𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺
+Y= C Y−T+ I Y, r+ x+ G
 
 A lower policy rate leads to higher output (lower r, higher I, higher Z, and higher Y)
 
-𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛
+π= π Y−Y −1 + (α/L) n
 
 - A higher output leads to a larger change in inflation
 
@@ -134,13 +134,13 @@ A lower policy rate leads to higher output (lower r, higher I, higher Z, and hig
 
 ## The IS-LM-PC model Equilibrium A is a short run equilibrium
 
-𝑌= 𝐶 𝑌−𝑇+ 𝐼 𝑌, 𝑟+ 𝑥+ 𝐺
+Y= C Y−T+ I Y, r+ x+ G
 
 - Suppose the central bank picks a policy rate equal to r
 
 - Associated with this interest rate there is a level of output Y
 
-𝜋= 𝜋 𝑌−𝑌 −1 + (𝛼/𝐿) 𝑛
+π= π Y−Y −1 + (α/L) n
 
 - The level of output Y is above potential and implies that inflation is increasing
 
@@ -188,7 +188,7 @@ Put it differently, if the central bank wants to achieve a constant level of inf
 
 - In the “IS-LM” model prices are completely fixed
 
-- In the “IS-LM-PC” model, prices exhibit partial rigidity—they are sticky. Specifically, wages do not adjust flexibly to unexpected shocks, meaning wages are sticky. As a result, the expected price 𝑃(𝑒) used in wage-setting may differ from the actual price 𝑃
+- In the “IS-LM-PC” model, prices exhibit partial rigidity—they are sticky. Specifically, wages do not adjust flexibly to unexpected shocks, meaning wages are sticky. As a result, the expected price P(e) used in wage-setting may differ from the actual price P
 
 ## Role of demand and of monetary and fiscal policies
 
@@ -206,15 +206,15 @@ Put it differently, if the central bank wants to achieve a constant level of inf
 
 - Agents, particularly wage setters, adjust their expectations to align with actual prices
 
-- In the "IS-LM-PC" model, wage setters renegotiate wages in the medium run, ensuring that the expected price 𝑃(𝑒) used in wage setting aligns with the actual price 𝑃
+- In the "IS-LM-PC" model, wage setters renegotiate wages in the medium run, ensuring that the expected price P(e) used in wage setting aligns with the actual price P
 
 ## No role of demand and monetary neutrality
 
 - When prices are flexible, demand factors do not influence output
 
-- Output equals the natural level of output, 𝑌𝑛 , determined by non-demand factors such as labor market institutions, z, and degree of competition in goods markets, m
+- Output equals the natural level of output, Yn , determined by non-demand factors such as labor market institutions, z, and degree of competition in goods markets, m
 
-- The ”WS-PS” model describes this medium run equilibrium, d etermining 𝑢𝑛 (and 𝑌𝑛 )
+- The ”WS-PS” model describes this medium run equilibrium, d etermining un (and Yn )
 
 - If monetary policy cannot affect output, it is said to be neutral
 
@@ -234,7 +234,7 @@ There are two ways the economy can transition from short-run to medium-run equil
 
 - Fiscal policy can also contribute to stabilization, but it is less flexible as a tool
 
-In this course, the focus is on **monetary policy stabilization** , where **the interest rate (** 𝒓 **) is adjusted to its natural level (** 𝒓𝒏 **)** , as it is considered the most realistic approach
+In this course, the focus is on **monetary policy stabilization** , where **the interest rate (** r **) is adjusted to its natural level (** rn **)** , as it is considered the most realistic approach
 
 ## Revisiting the role of expectations in the PC
 
@@ -244,7 +244,7 @@ In this course, the focus is on **monetary policy stabilization** , where **the 
 
 - In macro jargon, we refer to this phenomena as **de-anchoring of expectations**
 
-- Expectations previously anchored at ത𝜋 , de-anchor and starts being determined by current inflation, so that higher inflation leads to higher expected inflation
+- Expectations previously anchored at \bar{π} , de-anchor and starts being determined by current inflation, so that higher inflation leads to higher expected inflation
 
 - In the 1990s, inflation expectations **re-anchored** to the **target inflation rate**
 
@@ -270,19 +270,19 @@ De-anchoring Re-anchoring
 
 ## Implications of anchored expectations
 
-- Recall that if inflation expectations are anchored at some ത𝜋 , the PC is
+- Recall that if inflation expectations are anchored at some \bar{π} , the PC is
 
 - Implications:
 
-**If** _**Y > Yn**_ **then** _**π  >**_ ഥ𝝅, **that is, inflation is higher than target inflation**
+**If** _**Y > Yn**_ **then** _**π  >**_ \bar{π}, **that is, inflation is higher than target inflation**
 
 When output is above potential the economy is in an expansion, the economy is overheated, and there are upward pressures on wages and prices
 
-**If** _**Y < Yn**_ **then** _**π  <**_ ഥ𝝅, **that is, inflation is lower than target inflation**
+**If** _**Y < Yn**_ **then** _**π  <**_ \bar{π}, **that is, inflation is lower than target inflation**
 
 When output is below potential the economy is in an expansion, the economy is depressed, and there are downward pressures on wages and prices
 
-**If** _**Y = Yn**_ **then** _**π  =**_ ഥ𝝅 _**,**_ **that is, inflation is equal to target inflation**
+**If** _**Y = Yn**_ **then** _**π  =**_ \bar{π} _**,**_ **that is, inflation is equal to target inflation**
 
 When output is at potential the economy is at the “natural” equilibrium and inflation is constant
 
@@ -290,7 +290,7 @@ When output is at potential the economy is at the “natural” equilibrium and 
 
 - As we said, a positive output gap generates **a higher level of inflation** , rather than **an increase in inflation**
 
-- In previous analysis, when the economy reaches the new equilibrium A’, and the policy rate is at _rn_ , then output is back at potential and inflation is at ത𝜋
+- In previous analysis, when the economy reaches the new equilibrium A’, and the policy rate is at _rn_ , then output is back at potential and inflation is at \bar{π}
 
 - So long as inflation **expectations** remain **anchored** , the central bank does not need to compensate for the initial boom by a recession later
 
@@ -429,7 +429,7 @@ Over the last 50 years, there have been two sharp increases in the real price of
 
 - As a result, the Philips curve equation took the form of
 
-𝜋= 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛
+π= Y−Y \bar{π}+ (α/L) n
 
 - Negative output gaps led to low inflation and, in some cases, to mild deflation, but not to a deflation trap as it was the case during the Great Depression
 
@@ -443,9 +443,9 @@ Over the last 50 years, there have been two sharp increases in the real price of
 
 - **PC:** captures **medium-run aggregate supply** forces
 
-- If 𝜋(𝑒) = ത𝜋→𝜋= 𝑌−𝑌 → PC is a relation between π −ത𝜋 and 𝑌−𝑌 ത𝜋+ (𝛼/𝐿) 𝑛 𝑛
+- If π(e) = \bar{π}→π= Y−Y → PC is a relation between π −\bar{π}_{a}nd Y−Y \bar{π}+ (α/L) n n
 
-- If 𝜋(𝑒) = 𝜋 →𝜋= 𝜋 𝑌−𝑌 → PC is a relation between 𝜋−𝜋 and 𝑌−𝑌 −1 −1 + (𝛼/𝐿) 𝑛 −1 𝑛
+- If π(e) = π →π= π Y−Y → PC is a relation between π−π and Y−Y −1 −1 + (α/L) n −1 n
 
 ## The IS-LM-PC model with graphs Medium run equilibrium
 

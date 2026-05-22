@@ -519,19 +519,19 @@ Operating Income (+) – O eratin Ex enses = p g p ( ) **Net Operating Income**
 
 ## ✓ **Return on Assets(*)**:
 
-## 𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒
+## Net Income
 
-𝑅𝑂𝐴 =
+ROA =
 
-𝐴𝑠𝑠𝑒𝑡𝑠
+Assets
 
 `o` _ROA_ gives a _broad idea_ of how well the bank is using its assets to generate income
 
 - ✓: **Return on Equity(*)**
 
-𝑁𝑒𝑡 𝐼𝑛𝑐𝑜𝑚𝑒
+Net Income
 
-𝑅𝑂𝐸 = 𝐸𝑞𝑢𝑖𝑡𝑦
+ROE = Equity
 
 `o` _ROE_ is what owners (equity holders) ultimately care about: this is the return they get on the capital they provided to the bank
 
@@ -541,23 +541,23 @@ Operating Income (+) – O eratin Ex enses = p g p ( ) **Net Operating Income**
 
 ✓ The two are linked … with the **Equity Multiplier (EM)**:
 
-𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑀= 𝐸𝑞𝑢𝑖𝑡𝑦
+Assets EM= Equity
 
-## Note that 𝐸𝑀> 1 , so that
+## Note that EM> 1 , so that
 
-## 𝑅𝑂𝐸= 𝑅𝑂𝐴× 𝐸𝑀
+## ROE= ROA× EM
 
-𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝑁𝑒𝑡𝑖𝑛𝑐𝑜𝑚𝑒 𝐴𝑠𝑠𝑒𝑡𝑠 = × 𝐸𝑞𝑢𝑖𝑡𝑦 𝐴𝑠𝑠𝑒𝑡𝑠 𝐸𝑞𝑢𝑖𝑡𝑦
+Netincome Netincome Assets = × Equity Assets Equity
 
 ✓ For a given ROA and Assets, bank shareholders (who care about ROE) would like to attain a high ROE, by choosing a low amount of capital (high EM):
 
-`o` the smaller the ratio of capital to assets ( 1/𝐸𝑀↓ ), the greater the ROE, for a given Net Income; or also: if 𝐸𝑀↑⟹𝑅𝑂𝐸↑
+`o` the smaller the ratio of capital to assets ( 1/EM↓ ), the greater the ROE, for a given Net Income; or also: if EM↑⟹ROE↑
 
 ## Bank Performance
 
 ## Net Interest Margin
 
-# 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐼𝑛𝑐𝑜𝑚𝑒−𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝐸𝑥𝑝𝑒𝑛𝑠𝑒𝑠 𝑁𝐼𝑀 = 𝐴𝑠𝑠𝑒𝑡𝑠
+# InterestIncome−InterestExpenses NIM = Assets
 
 ## ✓ _NIM_ is the _spread_ between
 
