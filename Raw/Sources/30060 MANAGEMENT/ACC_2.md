@@ -2,11 +2,10 @@
 course: Management
 course_code: "30060"
 tags:
-  - "source"
+  - source
   - course_30060
-Links:
-Title: "THANK YOU"
-Reference: "Course Material"
+Title: LEARNING TO READ A BALANCE SHEET
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---
@@ -329,5 +328,5 @@ Assets​ Liabilities​ Fixed assets​ Owners’ funds​ Net fixed assets​ 
 
 ## Related Notes
 - [[ACC_building the financial statement]]
-- [[ACC_4(1)]]
+- [[ACC_4]]
 - [[BLAB ACC SHEET CHAPTER 2]]

@@ -453,7 +453,7 @@ TITLE  REFERENCE A.Y. 0000/0000/G-LS/N° 0000
 - - = $9,696.5
 
 - - For every dollar of assets - A DSO of almost 7 days is - It takes Home Depot - Home Depot's DPO of Home Depot owned on exceptionally low for a approximately 65 days to nearly 41 days highlights average during 2020, they major corporation and turn its inventory into a sale. their significant bargaining generated $2.17 in sales. reflects Home Depot's A lower number generally power; by taking over a Generally, a higher ratio business model as a suggests more efficient month to pay suppliers, indicates a more efficient retailer: the vast majority of inventory management and they are essentially using use of the company's asset their Net Sales are less capital tied up in “vendor financing” as an base. collected immediately at the products sitting on shelves. interest-free way to fund register via cash or credit their growth. card, rather than through long-term invoicing.
-*(See also: [[ACC_4(1)#^5fx2jq]])*
+*(See also: [[ACC_4#^5fx2jq]])*
 
 _* Net Sales (FY 2020) used as a proxy for Net Credit Sales_
 
@@ -692,6 +692,6 @@ _Debt Service Cash Flow =1,347+974+1,839+828 =$1,805_
 # Thank you!
 
 ## Related Notes
-- [[ACC_4(1)]]
+- [[ACC_4]]
 - [[30693 - FSA Part 3]]
 - [[Libby_12e_Chap012_PPT print]]

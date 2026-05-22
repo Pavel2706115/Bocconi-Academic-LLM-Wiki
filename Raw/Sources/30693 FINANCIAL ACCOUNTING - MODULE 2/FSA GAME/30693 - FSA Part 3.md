@@ -330,4 +330,4 @@ _Knowledge of the correct accounting rules for recording and measurement will gu
 ## Related Notes
 - [[30693 - FSA Part 2]]
 - [[30693 - FSA Part 1]]
-- [[ACC_3(1)]]
+- [[ACC_3]]

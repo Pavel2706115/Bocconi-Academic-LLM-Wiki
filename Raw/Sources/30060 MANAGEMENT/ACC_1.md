@@ -2,11 +2,11 @@
 course: Management
 course_code: "30060"
 tags:
-  - "source"
+  - source
   - course_30060
 Links:
-Title: "INSTITUTIONAL EQUILIBRIUM"
-Reference: "Course Material"
+Title: INSTITUTIONAL EQUILIBRIUM
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---

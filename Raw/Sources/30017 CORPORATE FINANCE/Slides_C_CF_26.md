@@ -2,16 +2,14 @@
 course: Corporate Finance
 course_code: "30017"
 tags:
-  - "source"
+  - source
   - course_30017
 Links:
-Title: "Corporate Finance 30017 - Slides C"
-Reference: "Course Material"
+Title: Corporate Finance 30017 - Slides C
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---
-
-
 ---
 # Corporate Finance 30017 - Slides C
 
@@ -62,6 +60,6 @@ Processed: true
 ## Related Notes
 - [[Slides_A_CF_26]]
 - [[DraftKings_260426_102451]]
-- [[ACC_4(1)]]
+- [[ACC_4]]
 - [[Libby_12e_Chap012_PPT print]]
 - [[30693 - FSA Part 2]]

@@ -2,11 +2,10 @@
 course: Management
 course_code: "30060"
 tags:
-  - "source"
+  - source
   - course_30060
-Links:
-Title: "THANK YOU"
-Reference: "Course Material"
+Title: BREAK EVEN POINT ANALYSIS
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---

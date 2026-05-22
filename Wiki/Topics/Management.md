@@ -8,9 +8,9 @@ updated: 2026-05-18
 sources:
   - "Raw/Sources/30060 MANAGEMENT/Decision Analysis.md"
   - "Raw/Sources/30060 MANAGEMENT/ACC_1.md"
-  - "Raw/Sources/30060 MANAGEMENT/ACC_2(1).md"
-  - "Raw/Sources/30060 MANAGEMENT/ACC_3(1).md"
-  - "Raw/Sources/30060 MANAGEMENT/ACC_4(1).md"
+  - "Raw/Sources/30060 MANAGEMENT/ACC_2.md"
+  - "Raw/Sources/30060 MANAGEMENT/ACC_3.md"
+  - "Raw/Sources/30060 MANAGEMENT/ACC_4.md"
   - "Raw/Sources/30060 MANAGEMENT/ACC_BEP.md"
   - "Raw/Sources/30060 MANAGEMENT/intro_30060_cl14_v.2 (2).md"
   - "Raw/Sources/30060 MANAGEMENT/slideset 1.md"

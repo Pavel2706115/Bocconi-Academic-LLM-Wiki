@@ -591,5 +591,5 @@ Calculate and comment on:
 
 ## Related Notes
 - [[30693 - FSA Part 2]]
-- [[ACC_2(1)]]
+- [[ACC_2]]
 - [[Accounting 1 Blab Handout 2024-2025 A.Y.]]

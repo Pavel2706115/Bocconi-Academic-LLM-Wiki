@@ -2,16 +2,13 @@
 course: Management
 course_code: "30060"
 tags:
-  - "source"
+  - source
   - course_30060
-Links:
-Title: "THANK YOU"
-Reference: "Course Material"
+Title: HOW TO BUILD A FINANCIAL STATEMENT
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---
-
-
 ## HOW TO BUILD A FINANCIAL STATEMENT 30060 – MANAGEMENT
 
 Department of Management & Technology
@@ -89,7 +86,7 @@ How to build a financial statement
 ## Purchase of materials
 
 Contextual payment Profit & Loss Balance Sheet Sales revenues Net fixed assets Owners' funds Materials Machinery Issued stocks Labor costs Rent expenses Equipment Revenue reserves Transportation expenses Long-term Marketing and sales exp. Current assets liabilities Administrative overheads Inventories Bank loans EBITDA Accounts Amortization and depreciation receivables Current liabilities EBIT Interest expenses Cash and deposits Accounts payables EBT Tax debts Taxes Net income Total assets Total liabilities
-*(See also: [[ACC_2(1)#^17ld3l]])*
+*(See also: [[ACC_2#^17ld3l]])*
 
 How to build a financial statement
 
@@ -317,6 +314,6 @@ How to build a financial statement
 # THANK YOU
 
 ## Related Notes
-- [[ACC_2(1)]]
-- [[ACC_4(1)]]
+- [[ACC_2]]
+- [[ACC_4]]
 - [[30693 - FSA Part 1]]

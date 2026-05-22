@@ -1,6 +1,6 @@
 ---
 tags:
-  - "concept"
+  - concept
 topics:
   - "[[Wiki/Topics/Management]]"
 status: seed
@@ -8,9 +8,9 @@ created: 2026-05-18
 updated: 2026-05-18
 sources:
   - "[[Raw/Sources/30060 MANAGEMENT/ACC_1.md]]"
-  - "[[Raw/Sources/30060 MANAGEMENT/ACC_2(1).md]]"
-  - "[[Raw/Sources/30060 MANAGEMENT/ACC_3(1).md]]"
-  - "[[Raw/Sources/30060 MANAGEMENT/ACC_4(1).md]]"
+  - "[[Raw/Sources/30060 MANAGEMENT/ACC_2.md]]"
+  - "[[Raw/Sources/30060 MANAGEMENT/ACC_3.md]]"
+  - "[[Raw/Sources/30060 MANAGEMENT/ACC_4.md]]"
   - "[[Raw/Sources/30060 MANAGEMENT/ACC_BEP.md]]"
   - "[[Raw/Sources/30060 MANAGEMENT/ACC_building the financial statement.md]]"
   - "[[Raw/Sources/30060 MANAGEMENT/AUC and FCA.md]]"
@@ -29,7 +29,7 @@ sources:
   - "[[Raw/Sources/30060 MANAGEMENT/slideset 9.md]]"
 source_count: 20
 aliases:
-  - "30060 MANAGEMENT Overview"
+  - 30060 MANAGEMENT Overview
 ---
 
 # 30060 MANAGEMENT Overview
