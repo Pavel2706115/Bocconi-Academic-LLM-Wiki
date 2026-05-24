@@ -1,11 +1,11 @@
 ---
-course: [[Wiki/Topics/Corporate-Finance|Corporate Finance]]
+course: Corporate Finance
 course_code: "30017"
 tags:
   - source
   - course_30017
 Links:
-Title: [[Wiki/Topics/Corporate-Finance|Corporate Finance]] 30017 - Slides A
+Title: Corporate Finance 30017 - Slides A
 Reference: Course Material
 Created: 2026-05-18
 Processed: true

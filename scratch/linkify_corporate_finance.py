@@ -112,8 +112,15 @@ def process_file():
         
     content = FILE_PATH.read_text(encoding="utf-8")
     
-    # Split content by double brackets to isolate existing links
-    parts = re.split(r'(\[\[.*?\]\])', content)
+    # Split off frontmatter to protect it from linkification
+    frontmatter_match = re.match(r'^(---\n.*?\n---\n)(.*)$', content, re.DOTALL)
+    if frontmatter_match:
+        frontmatter, body = frontmatter_match.groups()
+    else:
+        frontmatter, body = "", content
+        
+    # Split body by double brackets to isolate existing links
+    parts = re.split(r'(\[\[.*?\]\])', body)
     
     modified_count = 0
     for i in range(len(parts)):
@@ -126,9 +133,9 @@ def process_file():
                 parts[i] = linkified
                 
     if modified_count > 0:
-        new_content = "".join(parts)
-        FILE_PATH.write_text(new_content, encoding="utf-8")
-        print(f"Successfully updated file with new wikilinks across {modified_count} text blocks!")
+        new_body = "".join(parts)
+        FILE_PATH.write_text(frontmatter + new_body, encoding="utf-8")
+        print(f"Successfully updated file body with new wikilinks across {modified_count} text blocks!")
     else:
         print("No new wikilinks were needed or added.")
 
