@@ -4,11 +4,10 @@ course_code: "30017"
 tags:
   - source
   - course_30017
-Links:
 Title: Corporate Finance 30017 - Slides A
 Reference: Course Material
 Created: 2026-05-18
-Processed: true
+Processed: "true"
 ---
 ---
 # [[Wiki/Topics/Corporate-Finance|Corporate Finance]] 30017 - Slides A
@@ -63,12 +62,12 @@ Processed: true
 ### Present Value (PV) and Future Value (FV)
 *   $FV = PV \times (1 + r)^T$
 *   $PV = \frac{FV}{(1 + r)^T}$
-*   **[[Wiki/Concepts/Net-Present-Value|Net Present Value]] ([[Wiki/Concepts/Net-Present-Value|NPV]]):** $[[Wiki/Concepts/Net-Present-Value|NPV]] = PV - \text{Investment Cost}$
-*   *Rule:* Invest if $[[Wiki/Concepts/Net-Present-Value|NPV]] > 0$. The discount rate $r$ should reflect the risk of the project ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
+*   **[[Wiki/Concepts/Net-Present-Value|Net Present Value]] ([[Wiki/Concepts/Net-Present-Value|NPV]]):** [[Wiki/Concepts/Net-Present-Value|NPV]] $= PV - \text{Investment Cost}$
+*   *Rule:* Invest if [[Wiki/Concepts/Net-Present-Value|NPV]] $> 0$. The discount rate $r$ should reflect the risk of the project ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
 
 ### [[Wiki/Concepts/Internal-Rate-of-Return|Internal Rate of Return]] ([[Wiki/Concepts/Internal-Rate-of-Return|IRR]])
-*   The discount rate that makes $[[Wiki/Concepts/Net-Present-Value|NPV]] = 0$. 
-*   *Rule:* Invest if $[[Wiki/Concepts/Internal-Rate-of-Return|IRR]] > r$ ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
+*   The discount rate that makes [[Wiki/Concepts/Net-Present-Value|NPV]] $= 0$. 
+*   *Rule:* Invest if [[Wiki/Concepts/Internal-Rate-of-Return|IRR]] $> r$ ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
 *   **Pitfalls of [[Wiki/Concepts/Internal-Rate-of-Return|IRR]]:**
     1.  **Lending or Borrowing:** Fails when [[Wiki/Concepts/Net-Present-Value|NPV]] increases as the discount rate increases (borrowing projects).
     2.  **Multiple Rates of Return:** Cash flows with multiple sign changes can have multiple IRRs, or no [[Wiki/Concepts/Internal-Rate-of-Return|IRR]] at all.
@@ -114,7 +113,7 @@ Processed: true
     *   Where Plowback Ratio = $1 - \text{Payout Ratio}$ (Fraction of earnings reinvested).
 
 ### Present Value of Growth Opportunities ([[Wiki/Concepts/Equity-Valuation|PVGO]])
-*   $P_0 = \frac{EPS}{r} + [[Wiki/Concepts/Equity-Valuation|PVGO]]$
+*   $P_0 = \frac{EPS}{r} +$ [[Wiki/Concepts/Equity-Valuation|PVGO]]
 *   The firm's value is the PV of earnings under a no-growth policy plus the PV of future growth opportunities.
 *   **Growth vs. Income Stocks:** Growth stocks have a high [[Wiki/Concepts/Equity-Valuation|PVGO]] component; income stocks pay established, stable dividends.
 
