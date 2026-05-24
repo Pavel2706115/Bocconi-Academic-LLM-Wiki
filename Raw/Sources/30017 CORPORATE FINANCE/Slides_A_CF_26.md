@@ -1,38 +1,38 @@
 ---
-course: Corporate Finance
+course: [[Wiki/Topics/Corporate-Finance|Corporate Finance]]
 course_code: "30017"
 tags:
   - source
   - course_30017
 Links:
-Title: Corporate Finance 30017 - Slides A
+Title: [[Wiki/Topics/Corporate-Finance|Corporate Finance]] 30017 - Slides A
 Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---
 ---
-# Corporate Finance 30017 - Slides A
+# [[Wiki/Topics/Corporate-Finance|Corporate Finance]] 30017 - Slides A
 
 ## Overview of Course Content
 *   **Part A: Investment decisions and instruments** (Sessions 1 - 8)
 *   **Part B: Risk and Return** (Sessions 9 - 16)
-*   **Part C: Capital Structure** (Sessions 17 - 24)
+*   **Part C: [[Wiki/Concepts/Capital-Structure|Capital Structure]]** (Sessions 17 - 24)
 
 ---
 
 ## Session 1: Kick Off
 ### Corporate Investment and Financing Decisions
 *   **Investment Decisions:** Defined as the purchase of real assets (tangible: machines, factories; intangible: patents, brands) used as inputs to produce goods and services and generate cash flows.
-*   **Financing Decisions:** How a firm pays for its investments. Financial markets allow firms to sell financial claims on real assets and their cash flows (e.g., bank loans, issuing bonds, or equity). Ultimately, it is the sale of a financial asset.
-*   **Capital Structure Decision:** The choice between debt and equity financing. 
-    *   **Debt:** Promise to pay back with fixed interest. Returns are known but subject to default risk.
+*   **Financing Decisions:** How a firm pays for its investments. [[Wiki/Concepts/Financial-System-Overview|Financial markets]] allow firms to sell financial claims on real assets and their cash flows (e.g., bank loans, issuing bonds, or equity). Ultimately, it is the sale of a financial asset.
+*   **[[Wiki/Concepts/Capital-Structure|Capital Structure Decision]]:** The choice between debt and equity financing. 
+    *   **Debt:** Promise to pay back with fixed interest. Returns are known but subject to [[Wiki/Concepts/Interest-Rates|default risk]].
     *   **Equity:** Shareholders are entitled to a fraction of dividends but are not guaranteed a fixed return.
 
 ### The Corporation and Financial Manager
-*   **Corporation:** A legal entity owned by shareholders. It can make contracts, borrow/lend, and must pay taxes. Separation of ownership and management means shareholders elect a Board of Directors to supervise management.
-*   **Goal of the Corporation:** Maximizing market value (shareholder value). This aligns the interests of different shareholders (who can manage personal risk via efficient financial markets).
-*   **Opportunity Cost of Capital:** The expected return shareholders could obtain by investing their cash in financial markets at the same level of risk. 
-    *   *Rule:* Pursue an investment project if its rate of return is greater than the opportunity cost of capital.
+*   **Corporation:** A legal entity owned by shareholders. It can make contracts, borrow/lend, and must pay taxes. [[Wiki/Concepts/Asymmetric-Information|Separation of ownership and management]] means shareholders elect a Board of Directors to supervise management.
+*   **Goal of the Corporation:** Maximizing market value (shareholder value). This aligns the interests of different shareholders (who can manage personal risk via efficient [[Wiki/Concepts/Financial-System-Overview|financial markets]]).
+*   **[[Wiki/Concepts/Cost-of-Capital|Opportunity Cost of Capital]]:** The expected return shareholders could obtain by investing their cash in [[Wiki/Concepts/Financial-System-Overview|financial markets]] at the same level of risk. 
+    *   *Rule:* Pursue an investment project if its rate of return is greater than the [[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]].
 
 ---
 
@@ -46,7 +46,7 @@ Processed: true
 *   Firms perform stock splits to increase liquidity/accessibility, improve market perception, and trigger psychological effects for retail investors.
 
 ### Industry Categorization and Identifiers
-*   **Why Categorize?** Useful for benchmarking performance/valuation and finding comparable firms for calculating the opportunity cost of capital.
+*   **Why Categorize?** Useful for benchmarking performance/valuation and finding comparable firms for calculating the [[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]].
 *   **Classification Systems:** SIC, NAICS, Fama-French, GICS, NACE. 
 *   **Market Structure:** Industries differ in firm concentration due to barriers to entry (fixed costs, regulation) and competition (monopolies/oligopolies vs. fragmented markets).
 
@@ -59,32 +59,32 @@ Processed: true
 
 ---
 
-## Session 4: NPV and Investment Decisions
+## Session 4: [[Wiki/Concepts/Net-Present-Value|NPV]] and Investment Decisions
 ### Present Value (PV) and Future Value (FV)
 *   $FV = PV \times (1 + r)^T$
 *   $PV = \frac{FV}{(1 + r)^T}$
-*   **Net Present Value (NPV):** $NPV = PV - \text{Investment Cost}$
-*   *Rule:* Invest if $NPV > 0$. The discount rate $r$ should reflect the risk of the project (opportunity cost of capital).
+*   **[[Wiki/Concepts/Net-Present-Value|Net Present Value]] ([[Wiki/Concepts/Net-Present-Value|NPV]]):** $[[Wiki/Concepts/Net-Present-Value|NPV]] = PV - \text{Investment Cost}$
+*   *Rule:* Invest if $[[Wiki/Concepts/Net-Present-Value|NPV]] > 0$. The discount rate $r$ should reflect the risk of the project ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
 
-### Internal Rate of Return (IRR)
-*   The discount rate that makes $NPV = 0$. 
-*   *Rule:* Invest if $IRR > r$ (opportunity cost of capital).
-*   **Pitfalls of IRR:**
-    1.  **Lending or Borrowing:** Fails when NPV increases as the discount rate increases (borrowing projects).
-    2.  **Multiple Rates of Return:** Cash flows with multiple sign changes can have multiple IRRs, or no IRR at all.
+### [[Wiki/Concepts/Internal-Rate-of-Return|Internal Rate of Return]] ([[Wiki/Concepts/Internal-Rate-of-Return|IRR]])
+*   The discount rate that makes $[[Wiki/Concepts/Net-Present-Value|NPV]] = 0$. 
+*   *Rule:* Invest if $[[Wiki/Concepts/Internal-Rate-of-Return|IRR]] > r$ ([[Wiki/Concepts/Cost-of-Capital|opportunity cost of capital]]).
+*   **Pitfalls of [[Wiki/Concepts/Internal-Rate-of-Return|IRR]]:**
+    1.  **Lending or Borrowing:** Fails when [[Wiki/Concepts/Net-Present-Value|NPV]] increases as the discount rate increases (borrowing projects).
+    2.  **Multiple Rates of Return:** Cash flows with multiple sign changes can have multiple IRRs, or no [[Wiki/Concepts/Internal-Rate-of-Return|IRR]] at all.
     3.  **Mutually Exclusive Projects:** Ignores the magnitude of the project.
     4.  **Term Structure Assumption:** Assumes the discount rate is constant over time.
 
-### Practical Capital Budgeting
+### Practical [[Wiki/Concepts/Capital-Budgeting|Capital Budgeting]]
 1.  **Inflation:** Treat consistently. Discount nominal cash flows with nominal rates, and real cash flows with real rates. 
     *   $1 + r_{real} = \frac{1 + r_{nominal}}{1 + \text{inflation rate}}$
-2.  **Depreciation Tax Shield:** Depreciation reduces taxable income. Tax Shield = Depreciation $\times$ Corporate Tax Rate.
+2.  **[[Wiki/Concepts/Depreciation-and-Amortization|Depreciation Tax Shield]]:** [[Wiki/Concepts/Depreciation-and-Amortization|Depreciation]] reduces taxable income. Tax Shield = [[Wiki/Concepts/Depreciation-and-Amortization|Depreciation]] $\times$ Corporate Tax Rate.
 3.  **Working Capital:** The *change* in Net Working Capital (NWC) is a cash flow. Increases in inventory/receivables drain cash (negative CF), while increases in payables retain cash (positive CF).
 
 ---
 
 ## Session 5: Fixed Income Instruments
-### Valuing Bonds
+### [[Wiki/Concepts/Bond-Valuation|Valuing Bonds]]
 *   Bonds pay a fixed stream of cash flows (coupons + face value).
 *   $PV = \sum \frac{Coupon}{(1+r)^t} + \frac{Face Value}{(1+r)^T}$
 *   Bond prices and yields are inversely related.
@@ -93,33 +93,33 @@ Processed: true
 *   **Spot Rate ($r_t$):** The interest rate today on a zero-coupon bond that pays in $t$ periods. Spot rates are the "atoms" for discounting cash flows.
 *   **Forward Rate ($f_{T-t, t}$):** The interest rate fixed today on a bond bought in the future. Derived using no-arbitrage:
     *   $(1+r_T)^T = (1+r_{T-t})^{T-t} \times (1+f_{T-t,t})^t$
-*   **Yield Curve:** A plot of the term structure of interest rates. Typically slopes upward due to expectations of higher future short-term rates, interest rate risk, and inflation risk.
+*   **[[Wiki/Concepts/Interest-Rates|Yield Curve]]:** A plot of the term structure of [[Wiki/Concepts/Interest-Rates|interest rates]]. Typically slopes upward due to expectations of higher future short-term rates, interest rate risk, and inflation risk.
 
 ### Credit Risk and Yield Spread
-*   **Default Risk:** The risk that the issuer fails to make promised payments. Rated by agencies (Investment Grade vs. Junk Bonds).
-*   **Yield Spread:** The difference in yield between a corporate bond and the risk-free rate (e.g., US Treasury Bill). Equal to the Credit Risk Premium.
+*   **[[Wiki/Concepts/Interest-Rates|Default Risk]]:** The risk that the issuer fails to make promised payments. Rated by agencies (Investment Grade vs. Junk Bonds).
+*   **Yield Spread:** The difference in yield between a corporate bond and the [[Wiki/Concepts/Interest-Rates|risk-free rate]] (e.g., US Treasury Bill). Equal to the Credit Risk Premium.
 
 ---
 
 ## Session 6: Equity Instruments
 ### Markets and Trading
-*   **Primary Markets:** Sale of new shares to raise capital.
-*   **Secondary Markets:** Trading existing shares (Exchanges like NYSE, or Dealer markets like NASDAQ).
-*   **Instruments:** Common stock (voting + cash flow rights), Preferred stock (cash flow rights, higher priority, usually no voting rights), ADRs (foreign stocks trading in US markets).
+*   **[[Wiki/Concepts/Stock-Markets|Primary Markets]]:** Sale of new shares to raise capital.
+*   **[[Wiki/Concepts/Stock-Markets|Secondary Markets]]:** Trading existing shares (Exchanges like NYSE, or Dealer markets like NASDAQ).
+*   **Instruments:** [[Wiki/Concepts/Stock-Markets|Common stock]] (voting + cash flow rights), [[Wiki/Concepts/Stock-Markets|Preferred stock]] (cash flow rights, higher priority, usually no voting rights), [[Wiki/Concepts/Stock-Markets|ADRs]] (foreign stocks trading in US markets).
 
 ### Dividend Discount Model (DDM)
 *   $P_0 = \sum_{t=1}^{\infty} \frac{DIV_t}{(1+r)^t}$
-*   **Constant Growth DDM (Gordon Growth Model):** $P_0 = \frac{DIV_1}{r - g}$
+*   **Constant Growth DDM ([[Wiki/Concepts/Equity-Valuation|Gordon Growth Model]]):** $P_0 = \frac{DIV_1}{r - g}$
 *   **Estimating Growth ($g$):** $g = \text{Plowback Ratio} \times ROE$
     *   Where Plowback Ratio = $1 - \text{Payout Ratio}$ (Fraction of earnings reinvested).
 
-### Present Value of Growth Opportunities (PVGO)
-*   $P_0 = \frac{EPS}{r} + PVGO$
+### Present Value of Growth Opportunities ([[Wiki/Concepts/Equity-Valuation|PVGO]])
+*   $P_0 = \frac{EPS}{r} + [[Wiki/Concepts/Equity-Valuation|PVGO]]$
 *   The firm's value is the PV of earnings under a no-growth policy plus the PV of future growth opportunities.
-*   **Growth vs. Income Stocks:** Growth stocks have a high PVGO component; income stocks pay established, stable dividends.
+*   **Growth vs. Income Stocks:** Growth stocks have a high [[Wiki/Concepts/Equity-Valuation|PVGO]] component; income stocks pay established, stable dividends.
 
-### Free Cash Flow Valuation
-*   Instead of dividends per share, value the entire equity/enterprise using Free Cash Flow (FCF).
+### [[Wiki/Concepts/Cash-Flow-Statement|Free Cash Flow]] Valuation
+*   Instead of dividends per share, value the entire equity/enterprise using [[Wiki/Concepts/Cash-Flow-Statement|Free Cash Flow]] (FCF).
 *   $PV = \sum \frac{FCF_t}{(1+r)^t} + \frac{\text{Horizon Value}}{(1+r)^H}$
 *   Horizon Value (Terminal Value) is often estimated using the constant growth model from year $H$ onwards.
 

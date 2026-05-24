@@ -2,11 +2,11 @@
 course: Public Finance
 course_code: "30264"
 tags:
-  - "source"
+  - source
   - course_30264
 Links:
-Title: "Introduction to Taxes"
-Reference: "Course Material"
+Title: Introduction to Taxes
+Reference: Course Material
 Created: 2026-05-18
 Processed: true
 ---

@@ -5,6 +5,12 @@ tags:
   - "source"
   - course_30693
 Links:
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L13_Introduction to taxes.md|L13_Introduction to taxes]]"
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L14 L15_Taxation.md|L14 L15_Taxation]]"
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L16 L17_Tax Inefficiencies.md|L16 L17_Tax Inefficiencies]]"
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L18 L19_Taxes on savings.md|L18 L19_Taxes on savings]]"
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L20 L21_Taxes on risk taking and wealth.md|L20 L21_Taxes on risk taking and wealth]]"
+  - "[[Raw/Sources/30264 PUBLIC FINANCE/L22 L23_Fundamental Tax Reform and Consumption Taxation.md|L22 L23_Fundamental Tax Reform and Consumption Taxation]]"
 Title: "Down payments, tax liability, and outstanding balance due"
 Reference: "Course Material"
 Created: 2026-05-18
@@ -26,7 +32,7 @@ Processed: true
 
 - Down payments, tax liability, and outstanding balance due
 
-- - “Taxable income” and “income tax expense”
+- “Taxable income” and “income tax expense”
 
 - Permanent or temporary differences
 
@@ -342,3 +348,9 @@ We do this by recording a deferred tax asset that shows that this year’s tax c
 - [[Full-material presentation Chapter 4]]
 - [[Accounting 1 Blab Handout 2024-2025 A.Y.]]
 - [[BLAB ACC SHEET CHAPTER 4]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L13_Introduction to taxes.md|L13_Introduction to taxes]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L14 L15_Taxation.md|L14 L15_Taxation]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L16 L17_Tax Inefficiencies.md|L16 L17_Tax Inefficiencies]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L18 L19_Taxes on savings.md|L18 L19_Taxes on savings]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L20 L21_Taxes on risk taking and wealth.md|L20 L21_Taxes on risk taking and wealth]]
+- [[Raw/Sources/30264 PUBLIC FINANCE/L22 L23_Fundamental Tax Reform and Consumption Taxation.md|L22 L23_Fundamental Tax Reform and Consumption Taxation]]

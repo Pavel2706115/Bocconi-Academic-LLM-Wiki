@@ -1,6 +1,6 @@
 ---
 tags:
-  - "concept"
+  - concept
 topics:
   - "[[Wiki/Topics/Corporate-Finance]]"
 status: seed
@@ -15,7 +15,7 @@ sources:
   - "[[Raw/Sources/30017 CORPORATE FINANCE/Slides_C_CF_26.md]]"
 source_count: 6
 aliases:
-  - "30017 CORPORATE FINANCE Overview"
+  - 30017 CORPORATE FINANCE Overview
 ---
 
 # 30017 CORPORATE FINANCE Overview
