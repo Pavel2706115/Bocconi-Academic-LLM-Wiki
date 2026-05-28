@@ -1,0 +1,1172 @@
+============================================================
+ANALYZING: Presentation 1.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 1 - Sustainable marketing and trust** 
+   ## **Contents structure** 
+   ## **Definition of Marketing** 
+   ## **1. Trust as a key resource** 
+   ## **1. Trust as a key resource** 
+   ## **2. Different business orientations** 
+   ## Product orientation 
+   ## Product orientation 
+   ## Production orientation 
+   ## Production orientation 
+   ## Sales orientation 
+   ## Marketing orientation 
+   ## Marketing orientation 
+   ## Marketing orientation 
+   ## (Social) marketing orientation 
+   ## **3. Trust-oriented marketing** 
+   ## **3. Trust-oriented marketing** 
+   ## **3. Trust-oriented marketing** 
+   ## **3. Trust-oriented marketing** 
+   ## Customer equity 
+   ## How much is a customer worth: Customer Lifetime Value 
+   ## Example 
+   ## Solution 
+   ## Procedure: 
+   ## Trust in businesses in complex situations 
+   ## What does trust depend on, and what can we do to build it? 
+   ## Figure 1.1 - Antecedents and consequences of trust: a summary model 
+   ## Customer advocacy 
+   ## **Patagonia's 4 Rs: Reduce, Repair, Reuse, Recycle** 
+   ## **5. Corporate Social Responsibility (CSR)** 
+   ## Sustainability report 
+   ## EXAMPLES: 
+   ## Diversity Brand Index (DBI) 
+   ## _The 50 brands perceived as most inclusive_ (Source: DBS 2022) 
+   # Diversity and Inclusion 
+   # A necessary introduction 
+   ## Diversity is a fact: individuals are unique 
+   ## Diversity should be promoted through forms of inclusion 
+   ## The DBI 
+   # Is doing well on D&I issues good for businesses? 
+   ## How to calculate Net Promoter Score 
+   ## Inclusion drives NPS 
+   # But only if it is "genuine" 
+   ## An example 
+   ## Inclusion accelerates business growth 
+   # What is the involvement of consumers in diversity? 
+   ## The Italian population is becoming more accepting of diversity 
+   # What is the involvement of companies in diversity? 
+   ## Companies are evolving 
+   # Who is doing well? 
+   ## The Lines project overcomes young people’s embarassment and provides answers 
+   ## P&G promotes solidarity orchards in Italy 
+   # What about you? Do you know of any good examples? 
+   ## **6. The marketing management process** 
+   ## Figure 1.3 Marketing management: summary outline 
+   ## **7. The marketing plan** 
+   ## **7. The marketing plan** 
+   ## Business and marketing plan differences 
+
+Potential Concept Terms (Bolded, subset):
+  - # Items
+  - (CSR)
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 1. Trust as a key resource
+  - 1. product orientation
+  - 2. Different business orientations
+  - 2. sales orientation,
+  - 2. stabilize purchases over time
+  - 3. Trust-oriented marketing
+  - 3. marketing and trust orientation,
+  - 4. Trust
+  - 6. The marketing management process
+  - 7. The marketing plan
+  - Business plan
+  - Contents structure
+  - Corporate Social Responsibility
+  - Definition of Marketing
+  - Develop
+  - First section:
+  - Maintenance
+  - Marketing
+  - Marketing plan
+  - Second section:
+  - Third section:
+  - Trust
+  - Unit price
+  - Year
+  - activity
+  - an action plan
+  - budget
+  - build trust
+  - business performance
+  - check
+  - clients
+  - communicating
+  - company's
+  - costs
+  - creating
+  - creating value
+  - crossbuying
+  - customer equity
+  - customers
+  - delivering
+  - distance
+  - economic social
+  - environmental
+  - exchanging
+  - extend the duration of the relationship
+  - frequency of
+  - greater consumption
+  - individual customer:
+  - institutions
+  - knowledge sharing
+  - marketing
+  - marketing plan
+  - marketing- and trust-oriented
+  - ment
+  - needs
+  - partners
+  - price sensitivity
+  - price war
+  - processes
+  - production
+  - purchases
+  - recycle
+  - reduction in costs
+  - regenerate and reuse them
+  - repair
+  - sales
+  - satisfy them
+  - shareholders
+  - society
+  - society as a whole
+  - stakeholders
+  - starting from customer needs
+  - surplus of supply
+  - sustainability report
+  - the competition:
+  - the ‘triple bottom line
+  - to be perceived as the best
+  - trading up
+  - trust
+  - uncertainty
+  - value
+  - word-of-mouth recommendations
+  - ‘keep its promises’
+
+
+============================================================
+ANALYZING: Presentation 2.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 2 - Environment and competition** 
+   ## **Contents structure** 
+   ## **1. A fundamental prerequisite for competitiveness** 
+   # **Analyzing the environment** surrounding the company is a prerequisite for: 
+   ## Macro Environment 
+   ## **2. Environmental layers and significant trends (1/5)** 
+   ## **2. Environmental layers and significant trends (3/5) Culture and society** 
+   ## What cultural changes support this? 
+   ## **Economics and business** 
+   ## Spending power 
+   ## **2. Environmental layers and significant trends (4/5)** 
+   ## **Science and technology** 
+   ## Augmented reality... an opportunity 
+   ## **2. Environmental layers and significant trends (5/5) Politics and regulations** 
+   ## **Politics and regulations…** Telco case 
+   ## Impact and probability of events 
+   ## Impact / Probability Matrix 
+   ## **3. The competitive micro-environment (1/3)** 
+   ## **3. The competitive micro-environment (2/3)** 
+   ## **3. The competitive micro-environment (3/3)** 
+   ## **3. The competitive micro-environment (3/3)** 
+   ## Do commodity products still exist? 
+   ## Market share 
+   ## **4. The expansion of industry boundaries (1/2)** 
+   ## **4. The expansion of sector boundaries (2/2)** 
+   ## Porter model 
+   ## Competitive analysis: a classification 
+   ## The household iron market in Italy: current and potential competition 
+   ## **Current competitors Potential and substitutes** 
+   ## The household iron market in Italy: the power of suppliers and customers 
+   ## **Strategic suppliers** 
+   ## **Direct purchasers** _(Potential customers)_ 
+   ## An important consideration 
+   ## **5. Strategic groupings** 
+   ## **5. Customer perception: customercentric analysis** 
+   ## **Evaluation of the Attitude Index for Two Retail Stores: An Example** 
+
+Potential Concept Terms (Bolded, subset):
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 5. Strategic groupings
+  - Analyzing the environment
+  - Barriers:
+  - Chapter 2 - Environment and competition
+  - Concentration
+  - Conduct
+  - Contents structure
+  - Description:
+  - Direct purchasers
+  - Economics and business
+  - From other sectors
+  - High degree of rivalry with customers =
+  - High degree of rivalry with substitutes
+  - High-priority events
+  - Innovators
+  - Leader
+  - Legislative measures
+  - Mainly large buyers
+  - Note(s):
+  - Online sales
+  - Performance
+  - Politics and regulations…
+  - Power:
+  - Prices
+  - Private label:
+  - Science and technology
+  - Segmentation and differentiation
+  - Source(s):
+  - Strategic suppliers
+  - Structure
+  - Substitutes
+  - Trend
+  - attributes
+  - average city
+  - barriers to entry
+  - behavior
+  - communication channels
+  - competitive isolation
+  - customer journey
+  - customs restrictions
+  - differentiate the offering
+  - distribution outlets
+  - for analysis
+  - important
+  - information-seeking activity
+  - internet access is growing
+  - layers
+  - level of industry concentration
+  - macro-environment
+  - marketing
+  - most densely populated
+  - oldest
+  - perceived
+  - performance
+  - political orientation
+  - purchasing
+  - regulatory
+  - regulatory constraints
+  - similar strategies
+  - social habits
+  - strategic groups
+  - structure
+  - structure-conduct-performance (SCP)
+  - terms of demographics
+  - touchpoints
+  - trend towards liberalisation
+  - ‘micro-environment
+
+
+============================================================
+ANALYZING: Presentation 3.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 3 - Estimating the market** 
+   ## **Contents structure** 
+   ## **Demand analysis** 
+   # **The fundamentals of quantitative demand analysis (1/2)** 
+   ## **The fundamentals of quantitative demand analysis (2/2)** 
+   ## **Calculating market potential (1/6)** 
+   ## **Calculating market potential (2/6)** 
+   ## MktPott = (Nt x Pt x Ot x DPt) 
+   ## **Calculating market potential (3/6)** 
+   # 
+   ## where: 
+   ## Estimation of potential market demand. Nondurable goods/services: example TOOTHPASTE (Italy – year t) 
+   ## **The potential gap** 
+   ## **Quantification of gaps: Non-consumer gap, occasion gap, dose gap** 
+   ## **Potential gap: specific actions** 
+   ## Potential Gap Exercise (consumer goods) 
+   ## Estimating potential market demand. Nondurable goods/services: example SOFT DRINKS (Italy – year t) 
+   ## Estimation of potential market demand. Nondurable goods/services: example 
+   # **Market Potential for Durable Goods** _(and industrial capital goods)_ 
+   ## Estimation of potential market demand. MktPott = (New potential purchaserst * Pnt + Non-historical userst 
+   ## where: 
+   ## Estimation of potential market demand. 
+   ## Estimated potential market demand. 
+   ## WASHING MACHINES (Italy – t) 
+   ## Potential market (durable goods) 
+   ## Estimation of potential market demand. 
+   ## Flat-screen TVs (Italy – t) 
+   ## Estimated potential market demand. 
+   ## Flat-screen TVs (Italy – t) 
+   ## **Calculating market potential (5/6)** 
+   ## **Calculating market potential (6/6)** 
+   ## MktPott = (Nt x Pt x Qt x DPt) 
+   ## Example calculation for intermediate industrial goods 
+   ## **The causes of the potential gap** 
+   ## **Absolute market share** 
+   ## Sell-in and sell-out 
+   # **Do the sell-in and sell-out volumes sold by a company always match?** 
+   ## **Relative market share** 
+   ## **Market share breakdown (1/3)** 
+   ## **Market share breakdown (2/3)** 
+   ## **The breakdown of market share (3/3)** 
+   ## **The penetration index =** 
+   ## **The weighted coverage index =** 
+   ## **The weighted coverage ratio: breakdown (1/3)** 
+   ## **The weighted coverage ratio: breakdown (2/3)** 
+   ## **average weight** of customers served 
+   ## **The weighted coverage ratio: breakdown (3/3)** 
+   ## **Customer portfolio quality index** 
+   ## **Selection index** 
+   ## **Actions to increase market share** 
+   ## **Analysis of the customer portfolio (distributors)** 
+   ## **The limits of market share** 
+   ## Market Share Antecedents: The Fundamental Market Share Theorem 
+   ## Consequences of market share: impact on ROI 
+   # NAPURA CASE 
+   ## NAPURA CASE STUDY 
+   ## Napura Exercise 
+   ## Solution 
+   ## Solution 
+   ## Solution 
+   ## Solution 
+   ## Solution 
+   ## and 
+   ## Solution 
+   ## Solution 
+
+Potential Concept Terms (Bolded, subset):
+  - (ACSi /ni )
+  - (MktPot
+  - (Q/N)
+  - + Replacement Potential
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 0.00037
+  - 0.24
+  - 1. quantitative analysis
+  - 2. qualitative analysis
+  - 20%
+  - 26.7% (new numerical coverage)
+  - 31.9%.
+  - 35.4% (new weighted coverage required)
+  - 3584 numerical coverage
+  - 62.7% (new penetration required)
+  - = Old weighted coverage
+  - Absolute market share
+  - Actions to increase market share
+  - Calculating market potential (1/6)
+  - Calculating market potential (2/6)
+  - Calculating market potential (3/6)
+  - Calculating market potential (5/6)
+  - Calculating market potential (6/6)
+  - Chapter 3 - Estimating the market
+  - Contents structure
+  - Customer portfolio quality index
+  - Dealer Share
+  - Definition / Calculation
+  - Demand analysis
+  - Dose gap:
+  - Element
+  - First-Purchase Potential
+  - Market Potential
+  - Market Potential for Durable Goods
+  - Market share breakdown (1/3)
+  - Market share breakdown (2/3)
+  - Non-consumer gap:
+  - Occasion gap:
+  - Potential gap: specific actions
+  - Relative market share
+  - Selection index
+  - Selection index:
+  - The breakdown of market share (3/3)
+  - The causes of the potential gap
+  - The limits of market share
+  - The penetration index =
+  - The potential gap
+  - The weighted coverage index =
+  - Weighted coverage index
+  - average weight
+  - average weight (my) customers
+  - average weight of customers served
+  - competitive gap
+  - desired market share
+  - dispersion index
+  - i.e. 27 more distributors than before
+  - market potential
+  - marketing
+  - numerical coverage
+  - potential gap
+  - primary demand
+  - same product category) of its clients
+  - secondary demand
+  - selection index
+  - the penetration index
+  - the weighted coverage index
+
+
+============================================================
+ANALYZING: Presentation 4.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 4 - Understanding consumer behavior** 
+   ## **Contents structure** 
+   # **The stages of the purchasing process** 
+   ## The perception of need 
+   ## Needs and wants 
+   ## Needs and wants 
+   ## Recognition of a need 
+   ## The purchasing decision-making process varies depending on psychological involvement 
+   # **Purchase process and psychological involvement** 
+   ## **Variables influencing psychological involvement** 
+   ## Psychological involvement: specificity 
+   ## Psychological involvement: specificity 
+   # **A BEST-IN-CLASS EXAMPLE: MANCHESTER AIRPORT** 
+   ## **1. THE CUSTOMER JOURNEY FOR THE TRIP...** 
+   ## **2. ANALYSIS OF TOUCHPOINTS...** 
+   ## **3. INNOVATION IN THE CUSTOMER JOURNEY** 
+   ## **CUSTOMER JOURNEY AND TOUCHPOINT ANALYSIS** 
+   ## Example: Customer Journey Map for Nike 
+   ## Pre-Service Period Service Period 
+   ## Post-Service Period 
+   ## **Purchase motivations** 
+   ## Functional needs... and beyond 
+   ## find a motivation... 
+   ## find a motivation... 
+   ## Psychological factors that influence decision-making 
+   ## **Classification of purchasing motivations (at the point of sale)*** 
+   ## **Classification of buyers based on shopping orientation** 
+   ## **Information search: the perceptual system** 
+   ## **Information search** 
+   ## **Information search: marketing models** 
+   ## **Ongoing Search** 
+   ## **Searching for information and types of good** 
+   ## **Information sources** 
+   ## **Information sources** 
+   ## **Pre-purchase evaluation** 
+   ## **Multi-attribute models** 
+   ## **Compensatory models** 
+   ## : **Multi-attribute (or expected value) attitude model** 
+   ## **Ideal profile model** 
+   ## **So which beer do we choose if we adopt this model?** 
+   ## **Non-compensatory models** 
+   ## • : **Conjunctive model** 
+   ## • : **Lexicographic model** 
+   ## : **Conjunctive model** 
+   ## : **Disjunctive model** 
+   ## **Choice-set models** 
+   ## **The structure of choice-set models** 
+   ## **The moment of purchase** 
+   ## : _Purchasing roles_ 
+   ## Identify potential purchasing roles 
+   ## **The interactions between the product choice processes and commercial services** 
+   ## **In-store marketing/shopper marketing** 
+   ## Consumers react in certain ways to the levers of the retailing mix: 
+   ## **Product usage (User Experience)** 
+   ## Types of use: 
+   ## **Post-purchase evaluation and brand loyalty** 
+   ## **Satisfaction** 
+
+Potential Concept Terms (Bolded, subset):
+  - ## :
+  - ## : _Purchasing roles_ 
+
+-
+  - ## Identify potential purchasing roles
+  - ## Types of use: 
+
+-
+  - ## • :
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 1. THE CUSTOMER JOURNEY FOR THE TRIP...
+  - 1. experiential
+  - 1. need for identification
+  - 1. recreational shoppers
+  - 2. ANALYSIS OF TOUCHPOINTS...
+  - 2. functional shoppers
+  - 2. need for affiliation
+  - 2. socio-psychological
+  - 3 out of 7 2.5 out of 7<br>beer<br>
+  - 3. INNOVATION IN THE CUSTOMER JOURNEY
+  - 3. need for affirmation
+  - 4. need for new stimuli
+  - <br>
+  - <br>
+d<br>
+  - <br>3 out of 7<br>2.5 out of 7|
+  - Assumption
+  - Attributes
+  - Castaldo, Grosso, Marketing, 2022 
+
+50
+  - Castaldo, Grosso, Marketing, 2022 
+
+51
+  - Castaldo, Grosso, Marketing, 2022 
+
+52
+  - Castaldo, Grosso, Marketing, 2022 
+
+53
+  - Castaldo, Grosso, Marketing, 2022 
+
+60
+  - Compensatory models
+  - Contents structure
+  - Determinants
+  - Functional
+  - Ideal level of the
+  - Ideal profile model
+  - Imagine
+  - Information search
+  - Information search: marketing models
+  - Information sources
+  - Motivations
+  - Multi-attribute models
+  - Non-compensatory models
+  - Non-shopping goods
+  - Ongoing Search
+  - Pre-purchase Search
+  - Pre-purchase evaluation
+  - Purchase motivations
+  - Rating
+  - Results
+  - Set out
+  - Shopping goods
+  - The stages of the purchasing process
+  - attribute
+  - choice-set
+  - commercial sources
+  - deal
+  - economic-financial risk
+  - empirical sources
+  - functional risk
+  - institutional sources
+  - interpersonal sources
+  - marketing
+  - multi-attribute
+  - physical risk
+  - profile model
+  - psychosocial risk
+  - segmenting demand
+  - |3 out of 7|2.5 out of 7|
+
+
+
+##
+
+
+============================================================
+ANALYZING: Presentation 5.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 5 - Understanding the evolutionary dynamics of distribution** 
+   ## **Contents structure** 
+   ## **The commercial sector: definition and relevance** 
+   ## **The role of commercial intermediaries** 
+   ## **The commercial sector: organization and structure** 
+   ## Classification criteria for : **physical points of sale** 
+   ## • **Products** : 
+   ## • **Customer base** : 
+   ## • **Sales methods** : 
+   ## • : **Modernity of the formula** 
+   ## **The proportion of e-commerce in total retail sales** 
+   ## **Distribution formats: the supermarket** 
+   ## **Features** : 
+   ## **Distribution formats: hypermarket** 
+   ## **EVERYTHING UNDER ONE ROOF** 
+   ## **Characteristics** : 
+   ## **Distribution formats: self-service points of sale** 
+   ## **Distribution formats: superstore** 
+   ## **Features** : 
+   ## **Distribution formats: discount stores** 
+   ## **Distribution formats: convenience stores** 
+   ## **Features** : 
+   ## **Distribution formats: cash and carry** 
+   ## **Distribution formats: department stores** 
+   ## **Characteristics** : 
+   ## **Distribution formats: Large Specialised Retail Outlets** 
+   ## **Distribution formats: sho in center pp g** 
+   ## **Distribution formats: Factory Outlet Centers (FOC)** 
+   ## **The structural evolution of the commercial sector** 
+   ## **The commercial intermediary’s offer** 
+   ## **Commercial services** 
+   ## **The extension of core services** 
+   ## **Marketing for commercial intermediares** 
+
+Potential Concept Terms (Bolded, subset):
+  - COMMERCIAL SERVICES
+  - Category
+  - Characteristics
+  - Characteristics:
+  - Commercial Services
+  - Commercial services
+  - Contents structure
+  - Corresponding Consumer
+  - Costs
+  - Customer base
+  - Distribution formats: cash and carry
+  - Distribution formats: department stores
+  - Distribution formats: discount stores
+  - Distribution formats: hypermarket
+  - Distribution formats: superstore
+  - Distribution formats: the supermarket
+  - EVERYTHING UNDER ONE ROOF
+  - EXTENSION OF THE CORE SERVICE
+  - Elementary Attributes of
+  - Features
+  - GOODS
+  - Information
+  - Logistics
+  - MINIMARKET
+  - Marketing for commercial intermediares
+  - Modernity of the formula
+  - Other
+  - Products
+  - SUPERETTE
+  - Sales methods
+  - Size
+  - The commercial intermediary’s offer
+  - The extension of core services
+  - The role of commercial intermediaries
+  - marketing
+  - physical points of sale
+
+
+============================================================
+ANALYZING: Presentation 6.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 6 - Adopting a strategic approach** 
+   ## **Contents structure** 
+   ## **Stages of the strategic process** 
+   # **Segmentation** 
+   ## →Purpose: 
+   ## **Key elements of segmentation** 
+   # **Tailoring Products to Segments** 
+   ## **Requirements for segmentation** 
+   ## **B2C segmentation** 
+   ## Psychographic segmentation - examples of statements to determine lifestyle 
+   ## Psychographic segmentation - the comprehensive Eurisko map 
+   ## Lifestyles and the Eurisko map 
+   ## _a priori_ segmentation criteria 
+   ## **advantages** 
+   ## **limitations** 
+   ## **B2C segmentation** 
+   ## 2 methods: 
+   # – **The attributes benefits relationship of a dishwashing detergent** 
+   ## **Benefit segmentation applied to the demand for toothpaste** 
+   ## Profiling Market Segments 
+   ## _ex post_ segmentation criteria 
+   ## **advantages** 
+   ## **limitations** 
+   ## **B2B segmentation** 
+   ## Macro-segmentation of the packaging market (by technology type) 
+   ## **Good segmentation** 
+   ## meets **five** key requirements: 
+   ## **Targeting** 
+   ## **Choosing the target audience** 
+   ## Segment targeting 
+   ## **Positioning** 
+   ## **Perceptual map** 
+   ## **Perceptual and Preferences map** 
+   ## Perceptions → a question of image (and more...) 
+   ## **Drivers of image building** 
+   ## **Improving current positioning** 
+   ## **Improving current positioning (examples)** 
+   ## _**a) modify the offer**_ 
+   ## **Improving current positioning (examples)** 
+   ## _**b) adjust the relative weight of the attributes/benefits**_ 
+   ## **Improving current positioning (examples)** 
+   ## _**c) psychological repositioning (change of opinion)**_ 
+   ## **Improving current positioning (examples)** 
+   ## **Improving current positioning (examples)** 
+   ## _**e) focusing on attributes not considered in the evaluation process**_ 
+   ## **Improve current positioning (examples)** 
+   ## **Improving current positioning (examples)** 
+   ## _**f) modifying the perceived position of the ideal product to bring it closer to your own product**_ 
+   ## **Improving current positioning (examples)** 
+   ## **Improving current positioning (examples)** 
+   ## **Improving current positioning (examples)** 
+   ## **Chosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+   ## _4. Users*_ 
+   ## **Choosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+   ## **Choosing the type of positioning** 
+
+Potential Concept Terms (Bolded, subset):
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 1 – Demand Segmentation
+  - 1. measurability
+  - 2 – Target Segment Selection
+  - 2. importance
+  - 3 – Offer Positioning
+  - 3. differentiability
+  - 4 – Marketing Mix Design
+  - 4. stability
+  - 5. accessibility
+  - Advantage
+  - B2B segmentation
+  - B2C segmentation
+  - Barriers to entry
+  - Brand consistency
+  - Choosing the target audience
+  - Choosing the type of positioning
+  - Chosing the type of positioning
+  - Colgate, Stripe
+  - Competitive intensity
+  - Contents structure
+  - Crest
+  - Descriptors/
+  - Drivers of image building
+  - EXAMPLE – Barilla 2013
+  - Good segmentation
+  - Growth rate
+  - Improve current positioning (examples)
+  - Improving current positioning
+  - Key elements of segmentation
+  - Macleans, Plus White,
+  - Market share
+  - Marketing activities
+  - Perceptual and Preferences map
+  - Perceptual map
+  - Positioning
+  - Price elasticity
+  - Profitability
+  - Requirements for segmentation
+  - Segment
+  - Segment size
+  - Segmentation
+  - Stages of the strategic process
+  - Tailoring Products to Segments
+  - Targeting
+  - Ultra Brite
+  - a) modify the offer
+  - active
+  - active chemical formula
+  - advantages
+  - aesthetics
+  - attractive
+  - behavioral
+  - biodegradable ingredients
+  - brands on special
+  - cheap to use
+  - children
+  - concerned
+  - conservative
+  - contains lemon juice
+  - demographic
+  - desired benefits
+  - does not damage hands
+  - easily removes grease
+  - ecological
+  - establishing a
+  - expected benefits
+  - five
+  - flavor, packaging,
+  - for toothpaste
+  - heavy users
+  - high autonomy
+  - high engagement
+  - high hypochondria
+  - high socialization
+  - highly concentrated
+  - ideal product
+  - independent
+  - key attributes
+  - laboratory checked
+  - large families
+  - lifestyle
+  - limitations
+  - marketing
+  - men
+  - offer
+  - personality traits
+  - pleasure-seekers
+  - preferred brands
+  - prevention
+  - price
+  - price/value-
+  - profiles
+  - profiling
+  - relationship oriented
+  - segment name
+  - segments
+  - sensory
+  - smokers
+  - sociable
+  - specific additive
+  - specific value proposition
+  - teeth whiteness
+  - the attractiveness of the segments
+  - tooth decay
+  - use spearmint flavor
+  - young people
+
+
+============================================================
+ANALYZING: Presentation 7.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 7 - Designing a distinctive offer** 
+   ## **Contents structure** 
+   ## **1. Product and service** 
+   ## Meaning of range 
+   ## **2. The industrial company’s product range (1/5)** 
+   ## **2. Representing the Product Mix** 
+   ## **Breadth** 
+   ## **2. The industrial company’s product range (1/5)** 
+   ## **2. The industrial company’s product range (2/5)** 
+   ## **2. The industrial company’s product range (3/5)** 
+   # Excessively long lines lead to a risk of: 
+   ## Clusters of needs 
+   ## **2. The industrial company’s product range (4/5)** 
+   # **2. The industrial company’s product range (4/5)** 
+   ## _Endorsed brand_ 
+   ## **2. The industrial company’s product range (5/5)** 
+   ## **2. The BCG Matrix** 
+   ## **3. The commercial enterprise's product range (1/4)** 
+   # **3. The commercial enterprise's product range (2/4) Classification of points of sale based on product range strategy** 
+   ## **Breadth** 
+   ## **3. The commercial enterprise's product range (3/4)** 
+   ## **Developing the product range** 
+   ## **3. The commercial enterprise's product range (4/4)** 
+   ## **Introduction of new products into the product range** 
+   ## **4. Product innovation (1/3)** 
+   ## **4. Product innovation (2/3)** 
+   ## **4. Product innovation (3/3)** 
+   ## **3. The New Product Development Process** 
+
+Potential Concept Terms (Bolded, subset):
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 1. Branded house
+  - 1. Product and service
+  - 1. The individual item:
+  - 2. Combined ranges
+  - 2. House of brands
+  - 2. Representing the Product Mix
+  - 2. The BCG Matrix
+  - 2. The product line
+  - 3. The New Product Development Process
+  - 3. The product mix
+  - 3. Umbrella brand
+  - 4. Product innovation (1/3)
+  - 4. Product innovation (2/3)
+  - 4. Product innovation (3/3)
+  - Breadth
+  - Breadth:
+  - Contents structure
+  - Depth: refers
+  - Developing the product range
+  - Example: General supermarkets
+  - Example: Rinascente (department store)
+  - Example: Sephora
+  - MAINTENANCE:
+  - MARGINAL/NICHE POINTS OF SALE
+  - MULTI-SPECIALIZED POINTS OF SALE
+  - NON-SPECIALIZED POINTS OF SALE
+  - Range expansion
+  - SPECIALIZED POINTS OF SALE
+  - The market-driven perspective
+  - The technology-driven perspective
+  - a connecting medium
+  - a fundamental component of the offering
+  - a single product line
+  - branding strategy
+  - coordinating role
+  - early stages
+  - final stages
+  - marketing
+  - middle stages
+  - wide variety
+
+
+============================================================
+ANALYZING: Presentation 8.md
+============================================================
+Headings:
+   # **marketing** 
+   ## **Chapter 8 - Pricing** 
+   ## **Contents structure** 
+   ## **1. Price setting (1/13)** 
+   ## **1. Price setting (2/13)** 
+   ## **1. Price setting (3/13)** 
+   ## **1. Price setting (4/13)** 
+   ## **1. Price setting (5/13)** 
+   ## **INCIDENT 1 – Contribution margin** 
+   ## **Solution:** 
+   ## **1. Price setting (6/13)** 
+   ## **1. Price setting (7/13)** 
+   ## **1. Price setting (8/13)** 
+   ## **INCIDENT Break-even point** 
+   ## **Solution:** 
+   ## **1. Price setting (9/13)** 
+   ## **1. Price setting (10/13)** 
+   ## **1. Price setting (11/13)** 
+   ## **Summary of market research results on final consumers of Gin in France** 
+   ## **Solution** 
+   ## **Calculation of the indifference price for Gin** 
+   ## **1. Price setting (12/13)** 
+   ## **1. Price setting (13/13)** 
+   ## **2. Price policy management (1/6)** 
+   ## **2. Price policy management (2/6)** 
+   # **1. Bundling and unbundling** 
+   ## **2. Price policy management (3/6)** 
+   ## **2. Price differentiation and discrimination** 
+   ## **2. Price policy management (4/6)** 
+   ## **3. Price promotions** 
+   ## **2. Price policy management (5/6)** 
+   ## **4. Skimming or penetration** 
+   ## **2. Price policy management (6/6)** 
+   ## **5. Multi-channel pricing** 
+   ## **3. Price policy management in channel relationships (1/4)** 
+   ## **3. Price policy management in channel relationships (2/4)** 
+   ## **3. Price policy management in channel relationships (3/4)** _Discounts_ and _bonuses_ can be grounded into two main categories: 
+   ## **3. Price policy management in channel relationships (4/4)** 
+
+Potential Concept Terms (Bolded, subset):
+  - 1. Bundling and unbundling
+  - 1. Price setting (1/13)
+  - 1. Price setting (10/13)
+  - 1. Price setting (11/13)
+  - 1. Price setting (12/13)
+  - 1. Price setting (13/13)
+  - 1. Price setting (2/13)
+  - 1. Price setting (3/13)
+  - 1. Price setting (4/13)
+  - 1. Price setting (5/13)
+  - 1. Price setting (6/13)
+  - 1. Price setting (7/13)
+  - 1. Price setting (8/13)
+  - 1. Price setting (9/13)
+  - 2. Price policy management (1/6)
+  - 2. Price policy management (2/6)
+  - 2. Price policy management (3/6)
+  - 2. Price policy management (4/6)
+  - 2. Price policy management (5/6)
+  - 2. Price policy management (6/6)
+  - 3. Price promotions
+  - 4. Skimming or penetration
+  - 5. Multi-channel pricing
+  - Alfa
+  - Alfa Rating
+  - Attributes
+  - Average Importance
+  - Beta
+  - Beta Rating
+  - Box type
+  - Chapter 8 - Pricing
+  - Competitive Index
+  - Contents structure
+  - Fishbein’s
+  - Fixed
+  - Gin
+  - Gin Rating
+  - INCIDENT 1 – Contribution margin
+  - INCIDENT Break-even point
+  - Input:
+  - Price
+  - Prontospesa
+  - Quantity
+  - Rating
+  - Red 1 kg
+  - Red Kg 1
+  - Silver 3 kg
+  - Silver Kg 3
+  - Silverwash
+  - Solution
+  - Solution:
+  - Total
+  - VCperpackage
+  - VCperproduct
+  - White 1.5 kg
+  - White Kg 1.5
+  - allocated
+  - between two products (e.g. by applying
+  - competitive differential
+  - costs
+  - individual brands
+  - marketing
+  - model for offer evaluation
+  - the
+  - the maximum price
+
+
+============================================================
+ANALYZING: Presentation 9.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 9 - Communicating with the customer** 
+   ## **Contents structure** 
+   ## **The company’s different forms of communication** 
+   # **The company’s different forms of communication** 
+   ## **The company’s different forms of communication** 
+   ## **External communication tools** 
+   ## **Advertising** 
+   ## **Types of advertising (by content)** 
+   ## _Institutional/corporate_ 
+   ## _Product_ 
+   ## _Comparison_ 
+   ## _Advertisements for contests_ 
+   ## _Promotional_ 
+   ## _Themed_ 
+   ## _Collective (trade associations or consortia)_ 
+   ## **The advertising brief** 
+   ## **The advertising message** 
+   ## **The advertising message** 
+   ## **The media strategy (what does a media strategist/planner do?)** 
+   ## Objectives: 
+   ## **Online advertising** 
+   ## **Promotions** 
+   ## **Point-of-sale communications** 
+   ## **Direct marketing** 
+   ## Key advantages: 
+   ## **Communication Monitoring and Evaluation** 
+
+Potential Concept Terms (Bolded, subset):
+  - 1. Basic promise
+  - 2. Reason
+  - 3. Supporting evidence
+  - 30 years of research
+  - 4. Tone of voice
+  - Advertising
+  - Calcium, Phosphate and Fluoride
+  - Churn rate
+  - Communication Monitoring and Evaluation
+  - Content marketing
+  - Contents structure
+  - Direct marketing
+  - Display advertising
+  - External communication tools
+  - How
+  - Mobile
+  - Online advertising
+  - Point-of-sale communications
+  - Promotions
+  - Redemption
+  - Research
+  - Search search
+  - Social media
+  - The advertising brief
+  - The advertising message
+  - Types
+  - Types of advertising (by content)
+  - What
+  - Which
+  - Who
+  - advertising
+  - engine marketing (SEM)/paid
+  - marketing
+  - professional, clear and scientific
+  - stakeholders
+  - why
+
+
+============================================================
+ANALYZING: Presentation 10.md
+============================================================
+Headings:
+   # **marketing** 
+   # **Chapter 10 - Managing relationships with commercial intermediaries** 
+   ## **Contents structure** 
+   # **The evolution of distribution decisions** 
+   ## **The distribution channel** 
+   ## **Channel architecture** 
+   ## **Three main decisions** : 
+   ## **Defining the distribution approach** 
+   ## : Choosing the level of **distribution intensity** 
+   ## **The distribution extension** 
+   ## **Consumer engagement** 
+   ## **Channel design choices** 
+   ## **1. Direct vs. indirect channel** 
+   ## **B. Horizontal dimension:** 
+   ## **Direct channel** _**vs.**_ **indirect channel** 
+   ## **Direct channel** 
+   ## **Indirect channel** 
+   ## **The direct channel** 
+   ## Requires high fixed costs 
+   ## → Leads to greater investment and higher risks 
+   ## **The indirect channel: vertical dimension – the length of the channel** 
+   # **The trade-off when choosing the length of the channel** 
+   ## **The indirect channel: vertical dimension – ontractual integration** 
+   # **The trade-off when choosing the length of the channel** 
+   ## **The indirect channel: horizontal dimension** 
+   # • variety and type of channels and distribution outlets 
+   # **The path towards omni-channel distribution** 
+   ## **Push and pull policies** 
+   ## **Trade marketing** 
+   ## **The stages of trade marketing** 
+   ## **The analysis stage** 
+   ## Objective = to analyze in detail: 
+   ## **The strategy stage** 
+   ## **Objective** = define strategic guidelines: 
+   ## **The tactics stage** 
+   ## **The control stage** 
+   ## **Channel partnerships** 
+
+Potential Concept Terms (Bolded, subset):
+  - ----- End of picture text -----
+  - ----- Start of picture text -----
+  - 1. Direct vs. indirect channel
+  - 2. Single-channel vs. Multi-channel vs.
+  - A. Vertical dimension
+  - Arm's length relationships
+  - B. Horizontal dimension:
+  - Behavior of distribution
+  - Channel architecture
+  - Channel design choices
+  - Channel partnerships
+  - Commercial sector
+  - Competitive performance
+  - Consumer engagement
+  - Contents structure
+  - Contractual integration
+  - Current and channels
+  - Defining the distribution approach
+  - Direct channel
+  - Evaluation criteria
+  - Extensive selling
+  - In the case of an
+  - Indirect channel
+  - Mutual commitment
+  - Mutual trust
+  - Objective
+  - Proprietary integration
+  - Push and pull policies
+  - Selective
+  - The analysis stage
+  - The control stage
+  - The direct channel
+  - The distribution channel
+  - The distribution extension
+  - The evolution of distribution decisions
+  - The stages of trade marketing
+  - The strategy stage
+  - The tactics stage
+  - Three main decisions
+  - Trade marketing
+  - distribution intensity
+  - indirect channel
+  - major companies
+  - marketing
+  - mni-channel
+  - potential
+  - selling
+  - situation and distribution
+  - strengthens
+  - vs.
+
